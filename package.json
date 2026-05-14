@@ -1,0 +1,32 @@
+{
+  "name": "forgemesh",
+  "version": "0.1.2",
+  "description": "Infrastructure tools for agent commerce, monetized MCP workflows, and programmable AI execution.",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "agent-commerce",
+    "x402",
+    "affiliate-routing",
+    "monetization",
+    "forgemesh",
+    "infrastructure",
+    "ai",
+    "pyrimid",
+    "usdc",
+    "base"
+  ],
+  "homepage": "https://github.com/forgemeshlabs/forgemesh",
+  "bugs": {
+    "url": "https://github.com/forgemeshlabs/forgemesh/issues"
+  },
+  "author": "CoinOpAI",
+  "license": "MIT",
+  "files": [
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forgemeshlabs/forgemesh.git"
+  }
+}
