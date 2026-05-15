@@ -21,32 +21,9 @@ Each package is independently installable. They work together but do not require
 
 ## Architecture
 
-```
-┌─────────────────────────────────────────────────┐
-│              AI Agent / Orchestrator             │
-└──────────────┬──────────────────┬───────────────┘
-               │                  │
-        MCP (stdio)         MCP (stdio)
-               │                  │
-               ▼                  ▼
-┌──────────────────────┐  ┌──────────────────────┐
-│    coinopai-mcp      │  │ affiliate-router-mcp │
-│  9 paid tools        │  │ 8 routing tools      │
-│  x402 + Pyrimid      │  │ 3 adapters           │
-└──────────┬───────────┘  └──────────┬───────────┘
-           │                         │
-           ▼                         ▼
-┌──────────────────────────────────────────────────┐
-│            Paid API Endpoints                    │
-│  x402.coinopai.com · imagegen.coinopai.com       │
-└──────────────────────┬───────────────────────────┘
-                       │
-                       ▼
-┌──────────────────────────────────────────────────┐
-│          On-Chain Settlement (Base)              │
-│  USDC · EIP-3009 · Pyrimid affiliate splits     │
-└──────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="architecture.svg" alt="ForgeMesh Architecture" width="720"/>
+</p>
 
 ---
 
