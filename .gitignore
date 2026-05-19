@@ -3,3 +3,15 @@ node_modules/
 .env.*
 .DS_Store
 *.log
+.claude/
+.agents/
+.codex/
+.playwright-mcp/
+CLAUDE.md
+AGENTS.md
+*AGENT*.md
+*agent*.md
+*.png
+*.jpg
+*.jpeg
+*.webp
