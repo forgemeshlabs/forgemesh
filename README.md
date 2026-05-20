@@ -15,7 +15,7 @@ Each package is independently installable. They work together but do not require
 |---------|---------|---------|
 | [affiliate-router-mcp](https://github.com/forgemeshlabs/affiliate-router-mcp) | Vendor-neutral monetization routing for agent tools | `npm i affiliate-router-mcp` |
 | [coinopai-mcp](https://github.com/forgemeshlabs/coinopai-mcp) | Paid crypto intelligence via x402 micropayments | `npm i coinopai-mcp` |
-| [coinopai-imagegen](https://github.com/forgemeshlabs/coinopai-imagegen) | Paid image generation service on Base | (backend service) |
+| [forgemesh-imagegen](https://www.npmjs.com/package/forgemesh-imagegen) | Paid image generation MCP package backed by the hosted ImageGen x402 API | `npm i forgemesh-imagegen` |
 
 ---
 
