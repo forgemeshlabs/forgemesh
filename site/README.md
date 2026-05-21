@@ -1,12 +1,12 @@
 # ForgeMesh Site
 
-Marketing site for `forgemesh.io`.
+Marketing site for `https://forgemesh.io`.
 
 ## Purpose
 
 This app is the public landing page for the ForgeMesh ecosystem:
 - ForgeMesh Labs positioning and messaging
-- live system showcase for active packages and services
+- active systems showcase
 - architecture and payment-flow framing for agent commerce
 
 ## Stack
@@ -15,6 +15,13 @@ This app is the public landing page for the ForgeMesh ecosystem:
 - React 19
 - Tailwind CSS v4
 - Framer Motion
+
+## Canonical Paths
+
+- App source: `~/dev/forgemesh/site`
+- Live process: `forgemesh-web`
+- Runtime port: `3406`
+- Domain: `https://forgemesh.io`
 
 ## Local Development
 
@@ -25,21 +32,29 @@ npm run dev
 
 Default local URL: `http://localhost:3000`
 
-## Production Runtime
-
-On the VPS, the public site is served by `pm2`:
+## Production Deploy
 
 ```bash
-cd ~/dev/forgemesh/site
 npm run build
 ~/.npm-global/bin/pm2 restart forgemesh-web
 ```
 
-`forgemesh-web` runs `next start -p 3406` from this directory.
+## Verify Deploy
 
-## Important Notes
+```bash
+curl -sI https://forgemesh.io | sed -n '1,20p'
+curl -sL https://forgemesh.io | grep -o "forgemesh init --agent [^<]*\|Infrastructure for Autonomous Execution\|create-next-app" | head -n 20
+~/.npm-global/bin/pm2 describe forgemesh-web
+```
 
-- This app is part of the main `forgemesh` repo under `site/`
-- keep package messaging aligned with the root `README.md`
-- avoid generic starter copy or template assets
-- if the homepage changes, rebuild before restarting `forgemesh-web`
+## Safety Rules
+
+- edit tracked source only
+- do not edit `.next/` directly
+- rebuild before restart
+- verify the public site after restart
+- commit changes from repo root so the site state is durable
+
+## Full Runbook
+
+See `../OPERATIONS.md` for the full operating runbook, rollback flow, and tracking rules.
