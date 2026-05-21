@@ -55,6 +55,10 @@ curl -sL https://forgemesh.io | grep -o "forgemesh init --agent [^<]*\|Infrastru
 - verify the public site after restart
 - commit changes from repo root so the site state is durable
 
+## Related Site Note
+
+If the featured offerings, versions, or ecosystem framing change here, review the CoinOpAI site for matching public-facing updates.
+
 ## Full Runbook
 
 See `../OPERATIONS.md` for the full operating runbook, rollback flow, and tracking rules.
