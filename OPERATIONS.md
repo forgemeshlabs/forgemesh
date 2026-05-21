@@ -196,6 +196,13 @@ Then verify the public site again before making further edits.
 - rebuild and restart
 - commit the cleanup so it cannot drift back in
 
+## Related Site Coordination
+
+- ForgeMesh package/version changes can create content drift with the CoinOpAI public site
+- If package versions, featured offerings, or x402-related positioning change here, review the CoinOpAI site for matching updates
+- In practice: after updating `site/components/Projects.tsx`, hero copy, or ecosystem/package framing, check whether `coinopai.com` or `x402.coinopai.com` should be updated too
+- Treat this as a content-alignment check, not a blocker for every copy tweak
+
 ## Cross-Agent Continuity
 
 The matching cross-environment handoff for this setup lives in:
