@@ -59,7 +59,7 @@ What that means operationally:
 
 Repo root:
 - `README.md` — umbrella package public docs
-- `CLAUDE.md` — project-local agent guidance
+- `CLAUDE.md` — project-local agent guidance (repo-local instructions; currently ignored by git)
 - `OPERATIONS.md` — this runbook
 - `architecture.svg` — ecosystem diagram
 - `package.json` — npm metadata for `forgemesh`
@@ -145,7 +145,7 @@ Typical commands:
 ```bash
 cd ~/dev/forgemesh
 git status --short
-git add site OPERATIONS.md CLAUDE.md
+git add site OPERATIONS.md
 git commit -m "docs: update forgemesh operations runbook"
 git push origin main
 ```
