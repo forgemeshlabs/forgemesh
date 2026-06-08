@@ -20,7 +20,7 @@ setup or API-key negotiation.
 | --- | --- | --- |
 | [coinopai-mcp](https://github.com/forgemeshlabs/coinopai-mcp) | MCP package | MCP tools for x402-paid CoinOpAI market intelligence, Kronos signals, trade decisions, and automation prompts. |
 | [forgemesh-imagegen](https://github.com/forgemeshlabs/imagegen-mcp) | MCP package | MCP wrapper for x402-paid image generation through the hosted ImageGen API. |
-| [@forgemeshlabs/disruption-intelligence-mcp](https://github.com/forgemeshlabs/disruption-intelligence-mcp) | MCP package | MCP wrapper for source-linked WARN, workforce disruption, company, region, territory, watchlist, and gold convergence intelligence. |
+| [@forgemeshlabs/disruption-intelligence-mcp](https://github.com/forgemeshlabs/disruption-intelligence-mcp) | MCP package | MCP wrapper for source-linked WARN, workforce disruption, company, region, territory, watchlist, Ripple Signals, Ripple Paths, and Disruption Intelligence Ripple Reports. |
 | [affiliate-router-mcp](https://github.com/forgemeshlabs/affiliate-router-mcp) | MCP package | Vendor-neutral affiliate and payment routing for agent recommendations. |
 | [@forgemeshlabs/travel-assistant-mcp](https://github.com/forgemeshlabs/travel-mcp) | MCP package | Travel-planning MCP server for destination guidance, fare search planning, airport context, route comparison, booking-link generation, and timing explanations. |
 | [forgemesh](https://github.com/forgemeshlabs/forgemesh) | Umbrella package | Umbrella package and public ecosystem registry. |

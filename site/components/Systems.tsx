@@ -45,8 +45,8 @@ const systems = [
     id: 'intelligence',
     label: 'Commercial Intelligence',
     description:
-      'Source-linked market, workforce, company, territory, watchlist, and gold convergence signals exposed through paid APIs.',
-    tags: ['WARN', 'Kronos', 'gold signals'],
+      'Source-linked market, workforce, company, territory, watchlist, Ripple Signals, Ripple Paths, and Ripple Reports exposed through paid APIs.',
+    tags: ['WARN', 'Kronos', 'Ripple Reports'],
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
         <path d="M12 3l8 4v5c0 5.55-3.84 10.74-8 12-4.16-1.26-8-6.45-8-12V7l8-4z" />
