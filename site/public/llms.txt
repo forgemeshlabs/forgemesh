@@ -20,14 +20,14 @@
 - CoinOpAI x402 API: https://x402.coinopai.com
 - ImageGen x402 API: https://imagegen.coinopai.com
 - Disruption Intelligence API: https://disruption.forgemesh.io
-  - Legacy alias: https://warn.forgemesh.io
   - Discovery: https://disruption.forgemesh.io/index.json
   - OpenAPI: https://disruption.forgemesh.io/openapi.json
   - x402 metadata: https://disruption.forgemesh.io/.well-known/x402.json
   - Product: DisruptionIntel by ForgeMesh Labs
-  - Scope: source-linked WARN and workforce disruption intelligence
-  - Paid endpoints: 20 endpoints from $0.01-$0.15 per call on Base mainnet
-  - Categories: event severity, event history, relationships, timelines, company intelligence, company search, radius search, territory disruption, regional summaries, jurisdiction activity, watchlist previews, gold convergence signals, and commercial convergence briefs
+  - Flagship: Disruption Intelligence Ripple Report
+  - Scope: source-linked WARN and workforce disruption intelligence with downstream business-ripple analysis
+  - Paid endpoints: 23 endpoints from $0.01-$0.15 per call on Base mainnet
+  - Categories: event severity, event history, relationships, timelines, company intelligence, company search, radius search, territory disruption, regional summaries, jurisdiction activity, watchlist previews, Ripple Signals, Ripple Paths, and Ripple Reports
 - Fare Intelligence API: https://travel.forgemesh.io
 
 ## DisruptionIntel Public Pages
@@ -37,6 +37,7 @@
 - County rankings: https://disruption.forgemesh.io/rankings/counties
 - Exports: https://disruption.forgemesh.io/exports
 - Pricing: https://disruption.forgemesh.io/pricing
+- Ripple search: https://disruption.forgemesh.io/ripple/search
 
 ## Repository Links
 - CoinOpAI MCP: https://github.com/forgemeshlabs/coinopai-mcp
