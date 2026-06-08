@@ -25,7 +25,7 @@ const projects = [
     name: 'DisruptionIntel',
     surface: 'Hosted API + MCP package',
     description:
-      'Source-linked WARN and workforce disruption intelligence. Agents unlock company, region, territory, watchlist, and gold convergence signals through 20 x402-paid endpoints from $0.01-$0.15 on Base mainnet.',
+      'Source-linked WARN and workforce disruption intelligence. Agents unlock company, region, territory, watchlist, Ripple Signals, Ripple Paths, and Disruption Intelligence Ripple Reports through 23 x402-paid endpoints from $0.01-$0.15 on Base mainnet.',
     tags: ['MCP', 'x402', 'WARN', 'commercial intelligence', 'Base'],
     status: 'active',
     npm: 'https://www.npmjs.com/package/@forgemeshlabs/disruption-intelligence-mcp',
