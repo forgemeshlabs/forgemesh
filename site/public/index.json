@@ -12,7 +12,6 @@
   "projects": [
     {
       "name": "coinopai-mcp",
-      "version": "1.2.8",
       "type": "mcp_package",
       "npm": "https://www.npmjs.com/package/coinopai-mcp",
       "github": "https://github.com/forgemeshlabs/coinopai-mcp",
@@ -21,7 +20,6 @@
     },
     {
       "name": "forgemesh-imagegen",
-      "version": "1.0.1",
       "type": "mcp_package",
       "npm": "https://www.npmjs.com/package/forgemesh-imagegen",
       "github": "https://github.com/forgemeshlabs/imagegen-mcp",
@@ -30,7 +28,6 @@
     },
     {
       "name": "@forgemeshlabs/disruption-intelligence-mcp",
-      "version": "0.1.4",
       "type": "mcp_package",
       "npm": "https://www.npmjs.com/package/@forgemeshlabs/disruption-intelligence-mcp",
       "github": "https://github.com/forgemeshlabs/disruption-intelligence-mcp",
@@ -39,15 +36,21 @@
     },
     {
       "name": "affiliate-router-mcp",
-      "version": "0.1.6",
       "type": "mcp_package",
       "npm": "https://www.npmjs.com/package/affiliate-router-mcp",
       "github": "https://github.com/forgemeshlabs/affiliate-router-mcp",
       "description": "Vendor-neutral monetization routing for affiliate-linked agent recommendations."
     },
     {
+      "name": "@forgemeshlabs/travel-assistant-mcp",
+      "type": "mcp_package",
+      "npm": "https://www.npmjs.com/package/@forgemeshlabs/travel-assistant-mcp",
+      "github": "https://github.com/forgemeshlabs/travel-mcp",
+      "hosted_api": "https://travel.forgemesh.io",
+      "description": "Travel-planning MCP server for destination guidance, fare search planning, airport context, route comparison, booking-link generation, and timing explanations."
+    },
+    {
       "name": "forgemesh",
-      "version": "0.1.3",
       "type": "npm_package",
       "npm": "https://www.npmjs.com/package/forgemesh",
       "github": "https://github.com/forgemeshlabs/forgemesh",

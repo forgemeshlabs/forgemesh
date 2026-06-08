@@ -15,13 +15,14 @@ setup or API-key negotiation.
 
 ## Live Projects
 
-| Project | Current version | What it does |
+| Project | Surface | What it does |
 | --- | --- | --- |
-| [coinopai-mcp](https://github.com/forgemeshlabs/coinopai-mcp) | `1.2.8` | MCP tools for x402-paid CoinOpAI market intelligence, Kronos signals, trade decisions, and automation prompts. |
-| [forgemesh-imagegen](https://github.com/forgemeshlabs/imagegen-mcp) | `1.0.1` | MCP wrapper for x402-paid image generation through the hosted ImageGen API. |
-| [@forgemeshlabs/disruption-intelligence-mcp](https://github.com/forgemeshlabs/disruption-intelligence-mcp) | `0.1.4` | MCP wrapper for source-linked WARN, workforce disruption, company, region, territory, watchlist, and gold convergence intelligence. |
-| [affiliate-router-mcp](https://github.com/forgemeshlabs/affiliate-router-mcp) | `0.1.6` | Vendor-neutral affiliate and payment routing for agent recommendations. |
-| [forgemesh](https://github.com/forgemeshlabs/forgemesh) | `0.1.3` | Umbrella package and public ecosystem registry. |
+| [coinopai-mcp](https://github.com/forgemeshlabs/coinopai-mcp) | MCP package | MCP tools for x402-paid CoinOpAI market intelligence, Kronos signals, trade decisions, and automation prompts. |
+| [forgemesh-imagegen](https://github.com/forgemeshlabs/imagegen-mcp) | MCP package | MCP wrapper for x402-paid image generation through the hosted ImageGen API. |
+| [@forgemeshlabs/disruption-intelligence-mcp](https://github.com/forgemeshlabs/disruption-intelligence-mcp) | MCP package | MCP wrapper for source-linked WARN, workforce disruption, company, region, territory, watchlist, and gold convergence intelligence. |
+| [affiliate-router-mcp](https://github.com/forgemeshlabs/affiliate-router-mcp) | MCP package | Vendor-neutral affiliate and payment routing for agent recommendations. |
+| [@forgemeshlabs/travel-assistant-mcp](https://github.com/forgemeshlabs/travel-mcp) | MCP package | Travel-planning MCP server for destination guidance, fare search planning, airport context, route comparison, booking-link generation, and timing explanations. |
+| [forgemesh](https://github.com/forgemeshlabs/forgemesh) | Umbrella package | Umbrella package and public ecosystem registry. |
 
 ## Hosted APIs
 
