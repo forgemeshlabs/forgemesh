@@ -1,7 +1,7 @@
 const projects = [
   {
     name: 'coinopai-mcp',
-    version: 'v1.2.8',
+    surface: 'MCP package',
     description:
       'Paid crypto intelligence MCP server. LLMs call tools that cost USDC — Kronos signals, trade decisions, and agent automation prompts on Base mainnet.',
     tags: ['MCP', 'x402', 'crypto intelligence'],
@@ -12,7 +12,7 @@ const projects = [
   },
   {
     name: 'forgemesh-imagegen',
-    version: 'v1.0.1',
+    surface: 'MCP package',
     description:
       'AI image generation via x402 micropayments. 4 tiers ($0.10–$0.30 USDC) on Base mainnet — no API key, pay per call.',
     tags: ['MCP', 'x402', 'image-gen', 'USDC', 'Base'],
@@ -23,7 +23,7 @@ const projects = [
   },
   {
     name: 'DisruptionIntel',
-    version: 'API v0.1.0 / MCP v0.1.4',
+    surface: 'Hosted API + MCP package',
     description:
       'Source-linked WARN and workforce disruption intelligence. Agents unlock company, region, territory, watchlist, and gold convergence signals through 20 x402-paid endpoints from $0.01-$0.15 on Base mainnet.',
     tags: ['MCP', 'x402', 'WARN', 'commercial intelligence', 'Base'],
@@ -34,7 +34,7 @@ const projects = [
   },
   {
     name: 'affiliate-router-mcp',
-    version: 'v0.1.6',
+    surface: 'MCP package',
     description:
       'Vendor-neutral monetization routing. Agents generate affiliate-linked product recommendations without hardcoded merchant logic.',
     tags: ['MCP', 'affiliate', 'routing'],
@@ -43,8 +43,19 @@ const projects = [
     github: 'https://github.com/forgemeshlabs/affiliate-router-mcp',
   },
   {
+    name: 'Travel Assistant MCP',
+    surface: 'MCP package',
+    description:
+      'Free travel-planning MCP server for destination guidance, flexible fare search planning, airport context, route comparison, booking-link generation, and timing explanations.',
+    tags: ['MCP', 'travel', 'fare intelligence'],
+    status: 'active',
+    npm: 'https://www.npmjs.com/package/@forgemeshlabs/travel-assistant-mcp',
+    github: 'https://github.com/forgemeshlabs/travel-mcp',
+    url: 'https://travel.forgemesh.io',
+  },
+  {
     name: 'CoinOpAI x402 API',
-    version: 'live',
+    surface: 'Hosted API',
     description:
       'Private hosted x402 API for Kronos signals, trade preflight, trade audit, and automation prompt retrieval. Agents pay per request in USDC on Base mainnet.',
     tags: ['x402', 'USDC', 'Base', 'hosted API'],
@@ -53,7 +64,7 @@ const projects = [
   },
   {
     name: 'forgemesh',
-    version: 'v0.1.3',
+    surface: 'Umbrella package',
     description:
       'Ecosystem umbrella package and public registry for the ForgeMesh website, discovery files, and package index.',
     tags: ['ecosystem', 'npm', 'documentation'],
@@ -88,7 +99,7 @@ export function Projects() {
                 <div>
                   <div className="flex items-center gap-2 mb-1">
                     <h3 className="font-mono text-sm font-medium text-slate-200">{proj.name}</h3>
-                    <span className="text-[10px] font-mono text-slate-600">{proj.version}</span>
+                    <span className="text-[10px] font-mono text-slate-600">{proj.surface}</span>
                   </div>
                   <div className="flex items-center gap-1.5">
                     <span className="w-1.5 h-1.5 rounded-full bg-green-400 animate-pulse-slow" />

@@ -57,7 +57,7 @@ curl -sL https://forgemesh.io | grep -o "forgemesh init --agent [^<]*\|Infrastru
 
 ## Related Site Note
 
-If the featured offerings, versions, or ecosystem framing change here, review the CoinOpAI site for matching public-facing updates.
+If the featured offerings or ecosystem framing change here, review the CoinOpAI site for matching public-facing updates.
 
 ## Full Runbook
 
