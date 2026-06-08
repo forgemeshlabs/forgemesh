@@ -22,6 +22,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
+    site: "@forgemeshlabs",
+    creator: "@forgemeshlabs",
     title: "ForgeMesh Labs",
     description: "MCP servers, x402-paid APIs, affiliate routing, and machine-readable discovery surfaces for agent commerce.",
   },

@@ -2,7 +2,7 @@ import { ForgeMeshMark } from './ForgeMeshMark';
 
 const links = [
   { label: 'GitHub', href: 'https://github.com/forgemeshlabs' },
-  { label: 'X / Twitter', href: 'https://x.com/kirothebot' },
+  { label: 'X / Twitter', href: 'https://x.com/forgemeshlabs' },
   { label: 'Field Notes', href: 'https://aitinkers.fun' },
   { label: 'npm', href: 'https://www.npmjs.com/package/forgemesh' },
   { label: 'MCP Registry', href: 'https://github.com/modelcontextprotocol/servers' },
