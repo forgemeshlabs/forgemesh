@@ -48,7 +48,7 @@ export function Hero() {
 
         {/* Vision */}
         <p className="hero-vision text-2xl sm:text-3xl lg:text-4xl leading-tight mb-7">
-          Building the{' '}
+          Building for the{' '}
           <span
             className="hero-vision-accent"
             style={{
