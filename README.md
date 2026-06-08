@@ -8,6 +8,7 @@ understand what it costs, pay for one call, and receive useful output without ac
 setup or API-key negotiation.
 
 - Website: https://forgemesh.io
+- X: https://x.com/forgemeshlabs
 - Machine index: https://forgemesh.io/index.json
 - LLM overview: https://forgemesh.io/llms.txt
 - OpenAPI discovery: https://forgemesh.io/openapi.json
