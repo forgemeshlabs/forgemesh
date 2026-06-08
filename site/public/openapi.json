@@ -1,0 +1,67 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "ForgeMesh Labs Discovery",
+    "version": "1.0.0",
+    "description": "Machine-readable discovery surface for ForgeMesh Labs MCP packages, x402-paid APIs, affiliate routing, and commercial intelligence services."
+  },
+  "servers": [
+    {
+      "url": "https://forgemesh.io",
+      "description": "Production"
+    }
+  ],
+  "paths": {
+    "/index.json": {
+      "get": {
+        "summary": "Get the ForgeMesh project and hosted API registry",
+        "responses": {
+          "200": {
+            "description": "Project registry",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/llms.txt": {
+      "get": {
+        "summary": "Get an LLM-readable ForgeMesh overview",
+        "responses": {
+          "200": {
+            "description": "Plain-text service overview",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/sitemap.xml": {
+      "get": {
+        "summary": "Get the ForgeMesh sitemap",
+        "responses": {
+          "200": {
+            "description": "XML sitemap",
+            "content": {
+              "application/xml": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1254 1254" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ForgeMesh">
+  <defs>
+    <radialGradient id="dot" cx="34%" cy="28%" r="74%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="50%" stop-color="#f9fcff"/>
+      <stop offset="100%" stop-color="#dcefff"/>
+    </radialGradient>
+    <radialGradient id="core" cx="34%" cy="28%" r="74%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="42%" stop-color="#f4fbff"/>
+      <stop offset="100%" stop-color="#7fc9f6"/>
+    </radialGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .dot {
+        animation: dot-surge 2.65s ease-out infinite;
+        filter: url(#softGlow);
+        transform-box: fill-box;
+        transform-origin: center;
+      }
+
+      .core {
+        animation: core-surge 2.65s ease-out infinite;
+      }
+
+      @keyframes dot-surge {
+        0%, 72%, 100% { opacity: 0.42; transform: scale(0.9); }
+        24% { opacity: 1; transform: scale(1.18); }
+      }
+
+      @keyframes core-surge {
+        0%, 72%, 100% { transform: scale(0.9); }
+        24% { transform: scale(1.3); }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .dot, .core { animation: none; }
+      }
+    </style>
+  </defs>
+  <circle class="dot" cx="626.56" cy="191.91" r="15.00" fill="url(#dot)" style="animation-delay: 1.127s"/>
+  <circle class="dot" cx="716.71" cy="276.55" r="15.00" fill="url(#dot)" style="animation-delay: 0.937s"/>
+  <circle class="dot" cx="534.69" cy="276.69" r="15.00" fill="url(#dot)" style="animation-delay: 0.939s"/>
+  <circle class="dot" cx="626.37" cy="279.00" r="21.00" fill="url(#dot)" style="animation-delay: 0.902s"/>
+  <circle class="dot" cx="804.77" cy="363.00" r="15.00" fill="url(#dot)" style="animation-delay: 0.825s"/>
+  <circle class="dot" cx="716.61" cy="363.24" r="21.00" fill="url(#dot)" style="animation-delay: 0.722s"/>
+  <circle class="dot" cx="447.39" cy="363.39" r="15.00" fill="url(#dot)" style="animation-delay: 0.827s"/>
+  <circle class="dot" cx="626.58" cy="363.42" r="27.00" fill="url(#dot)" style="animation-delay: 0.683s"/>
+  <circle class="dot" cx="535.54" cy="363.73" r="21.00" fill="url(#dot)" style="animation-delay: 0.722s"/>
+  <circle class="dot" cx="447.35" cy="450.66" r="21.00" fill="url(#dot)" style="animation-delay: 0.652s"/>
+  <circle class="dot" cx="804.00" cy="450.73" r="21.00" fill="url(#dot)" style="animation-delay: 0.647s"/>
+  <circle class="dot" cx="626.67" cy="450.74" r="33.00" fill="url(#dot)" style="animation-delay: 0.457s"/>
+  <circle class="dot" cx="892.28" cy="450.78" r="16.50" fill="url(#dot)" style="animation-delay: 0.825s"/>
+  <circle class="dot" cx="536.04" cy="450.98" r="27.00" fill="url(#dot)" style="animation-delay: 0.513s"/>
+  <circle class="dot" cx="716.47" cy="451.03" r="27.00" fill="url(#dot)" style="animation-delay: 0.511s"/>
+  <circle class="dot" cx="359.61" cy="451.31" r="16.50" fill="url(#dot)" style="animation-delay: 0.829s"/>
+  <circle class="dot" cx="626.59" cy="538.24" r="37.50" fill="url(#dot)" style="animation-delay: 0.23s"/>
+  <circle class="dot" cx="536.60" cy="538.32" r="30.00" fill="url(#dot)" style="animation-delay: 0.328s"/>
+  <circle class="dot" cx="716.25" cy="538.32" r="30.00" fill="url(#dot)" style="animation-delay: 0.326s"/>
+  <circle class="dot" cx="359.31" cy="538.50" r="21.00" fill="url(#dot)" style="animation-delay: 0.731s"/>
+  <circle class="dot" cx="447.75" cy="538.50" r="25.50" fill="url(#dot)" style="animation-delay: 0.518s"/>
+  <circle class="dot" cx="804.32" cy="538.55" r="27.00" fill="url(#dot)" style="animation-delay: 0.513s"/>
+  <circle class="dot" cx="892.31" cy="538.69" r="19.50" fill="url(#dot)" style="animation-delay: 0.725s"/>
+  <circle class="dot" cx="980.65" cy="538.88" r="15.00" fill="url(#dot)" style="animation-delay: 0.944s"/>
+  <circle class="dot" cx="271.46" cy="539.15" r="16.50" fill="url(#dot)" style="animation-delay: 0.949s"/>
+  <circle class="dot" cx="804.97" cy="627.22" r="34.50" fill="url(#dot)" style="animation-delay: 0.461s"/>
+  <circle class="dot" cx="271.50" cy="627.30" r="22.50" fill="url(#dot)" style="animation-delay: 0.921s"/>
+  <circle class="dot" cx="716.45" cy="627.31" r="37.50" fill="url(#dot)" style="animation-delay: 0.232s"/>
+  <circle class="dot" cx="980.50" cy="627.32" r="21.00" fill="url(#dot)" style="animation-delay: 0.916s"/>
+  <circle class="dot" cx="536.20" cy="627.34" r="37.50" fill="url(#dot)" style="animation-delay: 0.235s"/>
+  <circle class="dot" cx="359.66" cy="627.34" r="27.00" fill="url(#dot)" style="animation-delay: 0.693s"/>
+  <circle class="dot core" cx="626.42" cy="627.35" r="34.50" fill="url(#core)" style="animation-delay: 0.002s"/>
+  <circle class="dot" cx="447.00" cy="627.40" r="33.00" fill="url(#dot)" style="animation-delay: 0.466s"/>
+  <circle class="dot" cx="892.50" cy="627.40" r="28.50" fill="url(#dot)" style="animation-delay: 0.688s"/>
+  <circle class="dot" cx="1068.50" cy="627.77" r="15.00" fill="url(#dot)" style="animation-delay: 1.144s"/>
+  <circle class="dot" cx="183.17" cy="628.04" r="15.00" fill="url(#dot)" style="animation-delay: 1.15s"/>
+  <circle class="dot" cx="447.78" cy="715.60" r="25.50" fill="url(#dot)" style="animation-delay: 0.518s"/>
+  <circle class="dot" cx="804.47" cy="715.66" r="25.50" fill="url(#dot)" style="animation-delay: 0.514s"/>
+  <circle class="dot" cx="892.23" cy="715.81" r="21.00" fill="url(#dot)" style="animation-delay: 0.725s"/>
+  <circle class="dot" cx="536.50" cy="715.95" r="30.00" fill="url(#dot)" style="animation-delay: 0.329s"/>
+  <circle class="dot" cx="716.25" cy="716.01" r="30.00" fill="url(#dot)" style="animation-delay: 0.327s"/>
+  <circle class="dot" cx="626.43" cy="716.02" r="37.50" fill="url(#dot)" style="animation-delay: 0.231s"/>
+  <circle class="dot" cx="980.60" cy="716.07" r="15.00" fill="url(#dot)" style="animation-delay: 0.945s"/>
+  <circle class="dot" cx="359.39" cy="716.08" r="21.00" fill="url(#dot)" style="animation-delay: 0.731s"/>
+  <circle class="dot" cx="271.31" cy="716.61" r="16.50" fill="url(#dot)" style="animation-delay: 0.95s"/>
+  <circle class="dot" cx="535.69" cy="802.99" r="25.50" fill="url(#dot)" style="animation-delay: 0.514s"/>
+  <circle class="dot" cx="716.29" cy="803.07" r="27.00" fill="url(#dot)" style="animation-delay: 0.512s"/>
+  <circle class="dot" cx="626.62" cy="803.22" r="34.50" fill="url(#dot)" style="animation-delay: 0.457s"/>
+  <circle class="dot" cx="359.60" cy="803.26" r="15.00" fill="url(#dot)" style="animation-delay: 0.83s"/>
+  <circle class="dot" cx="804.26" cy="803.26" r="21.00" fill="url(#dot)" style="animation-delay: 0.648s"/>
+  <circle class="dot" cx="447.26" cy="803.27" r="21.00" fill="url(#dot)" style="animation-delay: 0.652s"/>
+  <circle class="dot" cx="892.31" cy="803.61" r="16.50" fill="url(#dot)" style="animation-delay: 0.826s"/>
+  <circle class="dot" cx="626.75" cy="888.99" r="27.00" fill="url(#dot)" style="animation-delay: 0.679s"/>
+  <circle class="dot" cx="716.82" cy="889.30" r="21.00" fill="url(#dot)" style="animation-delay: 0.718s"/>
+  <circle class="dot" cx="535.50" cy="889.50" r="22.50" fill="url(#dot)" style="animation-delay: 0.72s"/>
+  <circle class="dot" cx="447.02" cy="889.69" r="16.50" fill="url(#dot)" style="animation-delay: 0.825s"/>
+  <circle class="dot" cx="804.19" cy="889.76" r="16.50" fill="url(#dot)" style="animation-delay: 0.821s"/>
+  <circle class="dot" cx="626.68" cy="973.35" r="21.00" fill="url(#dot)" style="animation-delay: 0.897s"/>
+  <circle class="dot" cx="717.00" cy="975.00" r="15.00" fill="url(#dot)" style="animation-delay: 0.931s"/>
+  <circle class="dot" cx="534.94" cy="975.06" r="15.00" fill="url(#dot)" style="animation-delay: 0.933s"/>
+  <circle class="dot" cx="626.65" cy="1059.72" r="15.00" fill="url(#dot)" style="animation-delay: 1.121s"/>
+</svg>

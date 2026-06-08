@@ -42,6 +42,112 @@
   100% { top: 100%; opacity: 0; }
 }
 
+@keyframes forge-dot-pulse {
+  0%, 72%, 100% {
+    transform: scale(0.96);
+    opacity: 0.72;
+    filter: drop-shadow(0 0 1px rgba(184, 232, 255, 0.22));
+  }
+  24% {
+    transform: scale(1.11);
+    opacity: 1;
+    filter: drop-shadow(0 0 8px rgba(184, 232, 255, 0.74));
+  }
+}
+
+@keyframes forge-dot-core-pulse {
+  0%, 72%, 100% {
+    transform: scale(0.96);
+    filter: drop-shadow(0 0 7px rgba(125, 211, 252, 0.46));
+  }
+  24% {
+    transform: scale(1.18);
+    filter: drop-shadow(0 0 18px rgba(125, 211, 252, 0.95));
+  }
+}
+
+@keyframes forge-line-breathe {
+  0%, 70%, 100% {
+    opacity: 0.06;
+    stroke-dashoffset: 28;
+  }
+  28% {
+    opacity: 0.22;
+    stroke-dashoffset: 0;
+  }
+}
+
+.forge-mark {
+  overflow: visible;
+  transform-origin: center;
+}
+
+.forge-dot-mesh,
+.forge-dot {
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+.forge-dot-line {
+  fill: none;
+  stroke: rgba(96, 165, 250, 0.48);
+  stroke-dasharray: 5 20;
+  stroke-linecap: square;
+  stroke-width: 0.9;
+  opacity: 0.12;
+}
+
+.forge-mark-animated .forge-dot-line {
+  animation: forge-line-breathe 3.4s ease-out infinite;
+}
+
+.forge-mark-animated .forge-dot {
+  animation: forge-dot-pulse 3.4s ease-out infinite;
+  animation-delay: var(--pulse-delay);
+}
+
+.forge-mark-animated .forge-dot-core {
+  animation: forge-dot-core-pulse 3.4s ease-out infinite;
+}
+
+.hero-wordmark {
+  color: #f8fafc;
+  font-family: "Aptos Display", "Segoe UI Variable Display", var(--font-geist-sans), system-ui, sans-serif;
+  font-weight: 780;
+  letter-spacing: 0;
+  text-shadow:
+    0 0 14px rgba(96, 165, 250, 0.1),
+    0 1px 0 rgba(255, 255, 255, 0.12);
+}
+
+.hero-mark {
+  width: clamp(72px, 12vw, 104px);
+  height: clamp(72px, 12vw, 104px);
+  filter: drop-shadow(0 0 16px rgba(96, 165, 250, 0.16));
+}
+
+.hero-vision {
+  color: #73bdf3;
+  font-family: "Aptos", "Segoe UI Variable Text", var(--font-geist-sans), system-ui, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.hero-vision-accent {
+  background-clip: text;
+  background-size: 200% auto;
+  color: transparent;
+  -webkit-background-clip: text;
+  text-shadow: 0 0 12px rgba(96, 165, 250, 0.1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .forge-mark-animated .forge-dot-line,
+  .forge-mark-animated .forge-dot {
+    animation: none;
+  }
+}
+
 html {
   scroll-behavior: smooth;
   color-scheme: dark;

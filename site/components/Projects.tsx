@@ -1,7 +1,7 @@
 const projects = [
   {
     name: 'coinopai-mcp',
-    version: 'v1.2.5',
+    version: 'v1.2.8',
     description:
       'Paid crypto intelligence MCP server. LLMs call tools that cost USDC — Kronos signals, trade decisions, and agent automation prompts on Base mainnet.',
     tags: ['MCP', 'x402', 'crypto intelligence'],
@@ -20,6 +20,17 @@ const projects = [
     npm: 'https://www.npmjs.com/package/forgemesh-imagegen',
     github: 'https://github.com/forgemeshlabs/imagegen-mcp',
     url: 'https://imagegen.coinopai.com',
+  },
+  {
+    name: 'DisruptionIntel',
+    version: 'API v0.1.0 / MCP v0.1.4',
+    description:
+      'Source-linked WARN and workforce disruption intelligence. Agents unlock company, region, territory, watchlist, and gold convergence signals through 20 x402-paid endpoints from $0.01-$0.15 on Base mainnet.',
+    tags: ['MCP', 'x402', 'WARN', 'commercial intelligence', 'Base'],
+    status: 'active',
+    npm: 'https://www.npmjs.com/package/@forgemeshlabs/disruption-intelligence-mcp',
+    github: 'https://github.com/forgemeshlabs/disruption-intelligence-mcp',
+    url: 'https://disruption.forgemesh.io',
   },
   {
     name: 'affiliate-router-mcp',
@@ -44,7 +55,7 @@ const projects = [
     name: 'forgemesh',
     version: 'v0.1.3',
     description:
-      'Ecosystem umbrella package. Claims the npm namespace and documents the full ForgeMesh architecture and package registry.',
+      'Ecosystem umbrella package and public registry for the ForgeMesh website, discovery files, and package index.',
     tags: ['ecosystem', 'npm', 'documentation'],
     status: 'active',
     npm: 'https://www.npmjs.com/package/forgemesh',

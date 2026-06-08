@@ -3,7 +3,7 @@ const systems = [
     id: 'x402',
     label: 'x402 Infrastructure',
     description:
-      'HTTP-native payment middleware that lets autonomous agents pay for resources without wallets, OAuth, or human intervention.',
+      'HTTP 402 payment surfaces where agents can discover a price, sign USDC on Base, retry, and receive one paid response.',
     tags: ['micropayments', 'USDC', 'Base'],
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
@@ -15,7 +15,7 @@ const systems = [
     id: 'mcp',
     label: 'MCP Servers',
     description:
-      'Model Context Protocol servers that expose monetized tooling to LLMs — from crypto intelligence to image generation.',
+      'Published Model Context Protocol servers for crypto intelligence, image generation, disruption intelligence, and affiliate routing.',
     tags: ['MCP', 'tooling', 'LLM integration'],
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
@@ -27,11 +27,11 @@ const systems = [
     ),
   },
   {
-    id: 'orchestration',
-    label: 'Agent Orchestration',
+    id: 'discovery',
+    label: 'Machine Discovery',
     description:
-      'Deterministic task routing and execution graphs for multi-agent workflows. Replay-safe. Auditable. Machine-native.',
-    tags: ['execution graphs', 'determinism', 'replay-safe'],
+      'index.json, llms.txt, OpenAPI, and x402 metadata files that let agents inspect capabilities before spending.',
+    tags: ['index.json', 'llms.txt', 'OpenAPI'],
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
         <circle cx="18" cy="5" r="2" />
@@ -42,11 +42,11 @@ const systems = [
     ),
   },
   {
-    id: 'verification',
-    label: 'Verification Layers',
+    id: 'intelligence',
+    label: 'Commercial Intelligence',
     description:
-      'Cryptographic output verification for agent-generated content. Ledger-backed events with provenance and replay guarantees.',
-    tags: ['cryptographic proofs', 'ledger', 'provenance'],
+      'Source-linked market, workforce, company, territory, watchlist, and gold convergence signals exposed through paid APIs.',
+    tags: ['WARN', 'Kronos', 'gold signals'],
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
         <path d="M12 3l8 4v5c0 5.55-3.84 10.74-8 12-4.16-1.26-8-6.45-8-12V7l8-4z" />
@@ -58,8 +58,8 @@ const systems = [
     id: 'commerce',
     label: 'Autonomous Commerce',
     description:
-      'Machine-to-machine commerce primitives. Agents discover, negotiate, and settle transactions without human approval loops.',
-    tags: ['M2M', 'settlement', 'agentic market'],
+      'Machine-to-machine commerce primitives for paid calls, affiliate attribution, and small-ticket API products.',
+    tags: ['M2M', 'settlement', 'affiliate'],
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
         <circle cx="9" cy="21" r="1" fill="currentColor" stroke="none" />
@@ -70,10 +70,10 @@ const systems = [
   },
   {
     id: 'telemetry',
-    label: 'Runtime Telemetry',
+    label: 'Public Registries',
     description:
-      'Structured observability for autonomous systems. Execution traces, payment events, and agent state changes — all queryable.',
-    tags: ['traces', 'events', 'observability'],
+      'A compact public map of repos, npm packages, hosted APIs, pricing ranges, and active service endpoints.',
+    tags: ['GitHub', 'npm', 'services'],
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
         <polyline points="22 12 18 12 15 21 9 3 6 12 2 12" />
@@ -92,8 +92,8 @@ export function Systems() {
             Protocol-grade building blocks
           </h2>
           <p className="mt-4 text-slate-400 max-w-xl">
-            Each system is a discrete layer in the autonomous execution stack.
-            Composable. Independently deployable. Production-hardened.
+            Each system maps to live packages, hosted APIs, or discovery files
+            that agents and developers can inspect today.
           </p>
         </div>
 

@@ -1,3 +1,5 @@
+import { ForgeMeshMark } from './ForgeMeshMark';
+
 const links = [
   { label: 'GitHub', href: 'https://github.com/forgemeshlabs' },
   { label: 'X / Twitter', href: 'https://x.com/kirothebot' },
@@ -15,17 +17,7 @@ export function Footer() {
           {/* Logo + tagline */}
           <div>
             <div className="flex items-center gap-2.5 mb-2">
-              <svg viewBox="0 0 24 24" fill="none" className="w-5 h-5">
-                <circle cx="12" cy="12" r="2" fill="#60a5fa" />
-                <circle cx="4" cy="6" r="1.5" fill="rgba(96,165,250,0.6)" />
-                <circle cx="20" cy="6" r="1.5" fill="rgba(96,165,250,0.6)" />
-                <circle cx="4" cy="18" r="1.5" fill="rgba(96,165,250,0.6)" />
-                <circle cx="20" cy="18" r="1.5" fill="rgba(96,165,250,0.6)" />
-                <line x1="12" y1="12" x2="4" y2="6" stroke="rgba(96,165,250,0.4)" strokeWidth="1" />
-                <line x1="12" y1="12" x2="20" y2="6" stroke="rgba(96,165,250,0.4)" strokeWidth="1" />
-                <line x1="12" y1="12" x2="4" y2="18" stroke="rgba(96,165,250,0.4)" strokeWidth="1" />
-                <line x1="12" y1="12" x2="20" y2="18" stroke="rgba(96,165,250,0.4)" strokeWidth="1" />
-              </svg>
+              <ForgeMeshMark size={26} className="shrink-0" />
               <span className="text-sm font-medium text-slate-400">ForgeMesh Labs</span>
             </div>
             <p className="text-xs text-slate-700 font-mono">

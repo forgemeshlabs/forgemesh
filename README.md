@@ -1,95 +1,73 @@
 # ForgeMesh
 
-Infrastructure for monetized agent ecosystems.
+ForgeMesh is a public registry for small, production-running agent commerce systems:
+MCP servers, x402-paid APIs, affiliate routing, and machine-readable discovery surfaces.
 
-ForgeMesh is a set of composable tools for building AI agents and workflows that earn
-revenue — through programmable micropayments, affiliate attribution, and paid API access.
+The ecosystem is built around a simple idea: agents should be able to discover a tool,
+understand what it costs, pay for one call, and receive useful output without account
+setup or API-key negotiation.
 
-Each package is independently installable. They work together but do not require each other.
+- Website: https://forgemesh.io
+- Machine index: https://forgemesh.io/index.json
+- LLM overview: https://forgemesh.io/llms.txt
+- OpenAPI discovery: https://forgemesh.io/openapi.json
+- NPM package: https://www.npmjs.com/package/forgemesh
 
----
+## Live Projects
 
-## Packages
+| Project | Current version | What it does |
+| --- | --- | --- |
+| [coinopai-mcp](https://github.com/forgemeshlabs/coinopai-mcp) | `1.2.8` | MCP tools for x402-paid CoinOpAI market intelligence, Kronos signals, trade decisions, and automation prompts. |
+| [forgemesh-imagegen](https://github.com/forgemeshlabs/imagegen-mcp) | `1.0.1` | MCP wrapper for x402-paid image generation through the hosted ImageGen API. |
+| [@forgemeshlabs/disruption-intelligence-mcp](https://github.com/forgemeshlabs/disruption-intelligence-mcp) | `0.1.4` | MCP wrapper for source-linked WARN, workforce disruption, company, region, territory, watchlist, and gold convergence intelligence. |
+| [affiliate-router-mcp](https://github.com/forgemeshlabs/affiliate-router-mcp) | `0.1.6` | Vendor-neutral affiliate and payment routing for agent recommendations. |
+| [forgemesh](https://github.com/forgemeshlabs/forgemesh) | `0.1.3` | Umbrella package and public ecosystem registry. |
 
-| Package | Purpose | Install |
-|---------|---------|---------|
-| [affiliate-router-mcp](https://github.com/forgemeshlabs/affiliate-router-mcp) | Vendor-neutral monetization routing for agent tools | `npm i affiliate-router-mcp` |
-| [coinopai-mcp](https://github.com/forgemeshlabs/coinopai-mcp) | Paid crypto intelligence via x402 micropayments | `npm i coinopai-mcp` |
-| [forgemesh-imagegen](https://www.npmjs.com/package/forgemesh-imagegen) | Paid image generation MCP package backed by the hosted ImageGen x402 API | `npm i forgemesh-imagegen` |
+## Hosted APIs
 
----
+| API | Discovery | Notes |
+| --- | --- | --- |
+| [CoinOpAI x402 API](https://x402.coinopai.com) | [index.json](https://x402.coinopai.com/index.json) | Paid crypto intelligence and automation prompt retrieval. |
+| [ImageGen x402 API](https://imagegen.coinopai.com) | [index.json](https://imagegen.coinopai.com/index.json) | Paid image generation tiers on Base mainnet. |
+| [Disruption Intelligence API](https://disruption.forgemesh.io) | [index.json](https://disruption.forgemesh.io/index.json) | 20 paid commercial intelligence endpoints from $0.01-$0.15 per call. |
+| [Fare Intelligence API](https://travel.forgemesh.io) | [index.json](https://travel.forgemesh.io/index.json) | Travel fare intelligence surface. |
 
-## Architecture
+## How The Pieces Fit
 
-<p align="center">
-  <img src="architecture.svg" alt="ForgeMesh Architecture" width="720"/>
-</p>
+ForgeMesh services use ordinary web discovery files where possible:
 
----
+- `index.json` for project and capability metadata
+- `llms.txt` for compact LLM-readable context
+- `openapi.json` for API discovery
+- `/.well-known/x402.json` where paid x402 endpoints are exposed
 
-## How It Works
+MCP packages wrap hosted APIs so agents can call paid or free tools from Claude Desktop,
+Claude Code, and other MCP-compatible clients. x402 endpoints return an HTTP 402 challenge;
+the agent signs a USDC payment on Base mainnet, retries with the payment header, and
+receives the paid response.
 
-### MCP Tools
+## Repository Layout
 
-Each package is an [MCP](https://modelcontextprotocol.io) server. Agents connect via stdio
-and call tools like any other MCP integration. No SDK lock-in — works with Claude Code,
-Claude Desktop, or any MCP-compatible client.
-
-### Monetized Agent Ecosystems
-
-Agents pay per call using [x402](https://x402.org) — the HTTP 402 micropayment protocol.
-The agent's wallet signs a USDC payment on Base, the facilitator validates it on-chain,
-and the endpoint returns data. No API keys. No subscriptions. Pay-per-use.
-
-### Adapter-Based Affiliate Routing
-
-`affiliate-router-mcp` abstracts payment and attribution into pluggable adapters:
-
-| Adapter | How it works | Status |
-|---------|-------------|--------|
-| `x402_pyrimid` | On-chain USDC split via [Pyrimid](https://pyrimid.xyz) affiliate network | Tested |
-| `x402_direct` | Standard EIP-3009 payment via Coinbase facilitator | Implemented |
-| `referral_link` | URL parameter injection for traditional affiliate programs | Implemented |
-
-Pyrimid/x402 is the first tested adapter. The architecture is open for any affiliate
-or agent-commerce rail.
-
-### Payment Flow
-
-```
-Agent calls tool → HTTP 402 → wallet signs USDC payment → retry with payment header → data returned
+```text
+.
+├── README.md              # GitHub and npm ecosystem overview
+├── package.json           # npm namespace package
+├── architecture.svg       # legacy architecture diagram
+└── site/                  # live forgemesh.io Next.js site
 ```
 
-With affiliate attribution:
+## Local Site Development
+
+```bash
+cd site
+npm install
+npm run build
+npm run dev
 ```
-Agent calls tool with affiliate_id
-  → USDC.approve(PyrimidRouter)
-    → routePayment splits: vendor 79.2% · affiliate 19.8% · protocol 1%
-      → retry with tx hash → data returned
-```
 
-The buyer always pays the listed price. The split comes from the vendor's portion.
-
----
-
-## Core Principles
-
-- **Vendor-neutral** — one interface across x402, affiliate links, SaaS programs, and future protocols
-- **Adapter-based** — each payment system is a separate adapter; adding one doesn't affect others
-- **MCP-native** — standard protocol, composable across agents and orchestrators
-- **Local telemetry** — JSONL logs per call, no external dependencies
-- **Package/product separation** — registering a new product never requires a package release
-
----
-
-## What ForgeMesh Is Not
-
-Not a framework. Not a protocol. Not a token.
-
-A set of infrastructure packages for building agents that transact.
-
----
+The production site runs from `site/` behind the `forgemesh-web` PM2 process on the VPS.
+See [OPERATIONS.md](OPERATIONS.md) for the deployment and verification runbook.
 
 ## License
 
-MIT — [CoinOpAI](https://github.com/forgemeshlabs)
+MIT

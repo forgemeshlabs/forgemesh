@@ -6,24 +6,24 @@ const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ForgeMesh Labs — Infrastructure for Autonomous Execution",
+  title: "ForgeMesh Labs - MCP and x402 Agent Commerce",
   description:
-    "ForgeMesh Labs builds protocol-grade systems for agent payments, orchestration, verification, and machine-to-machine commerce.",
+    "ForgeMesh Labs publishes MCP servers, x402-paid APIs, commercial intelligence services, affiliate routing, and machine-readable discovery surfaces for agent commerce.",
   keywords: [
-    "MCP servers", "x402 payments", "agent infrastructure", "autonomous execution",
-    "AI tooling", "verifiable AI", "machine-to-machine commerce", "agentic systems",
+    "MCP servers", "x402 payments", "agent commerce", "autonomous agent economy",
+    "AI tooling", "commercial intelligence", "machine-to-machine commerce", "agentic systems",
   ],
   authors: [{ name: "ForgeMesh Labs" }],
   openGraph: {
-    title: "ForgeMesh Labs — Infrastructure for Autonomous Execution",
-    description: "Protocol-grade systems for agent payments, orchestration, and autonomous commerce.",
+    title: "ForgeMesh Labs - MCP and x402 Agent Commerce",
+    description: "Production-running MCP servers, x402-paid APIs, affiliate routing, and machine-readable discovery surfaces.",
     type: "website",
     url: "https://forgemesh.io",
   },
   twitter: {
     card: "summary_large_image",
     title: "ForgeMesh Labs",
-    description: "Protocol-grade systems for agent payments, orchestration, and autonomous commerce.",
+    description: "MCP servers, x402-paid APIs, affiliate routing, and machine-readable discovery surfaces for agent commerce.",
   },
 };
 
