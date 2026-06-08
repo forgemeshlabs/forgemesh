@@ -33,7 +33,7 @@
       "npm": "https://www.npmjs.com/package/@forgemeshlabs/disruption-intelligence-mcp",
       "github": "https://github.com/forgemeshlabs/disruption-intelligence-mcp",
       "hosted_api": "https://disruption.forgemesh.io",
-      "description": "MCP wrapper for source-linked WARN, workforce disruption, company, territory, watchlist, and gold convergence intelligence."
+      "description": "MCP wrapper for source-linked WARN, workforce disruption, company, territory, watchlist, Ripple Signals, Ripple Paths, and Disruption Intelligence Ripple Reports."
     },
     {
       "name": "affiliate-router-mcp",
@@ -76,12 +76,12 @@
     {
       "name": "Disruption Intelligence API",
       "url": "https://disruption.forgemesh.io",
-      "legacy_url": "https://warn.forgemesh.io",
+      "flagship_report": "Disruption Intelligence Ripple Report",
       "discovery": "https://disruption.forgemesh.io/index.json",
       "openapi": "https://disruption.forgemesh.io/openapi.json",
       "llms": "https://disruption.forgemesh.io/llms.txt",
       "x402": "https://disruption.forgemesh.io/.well-known/x402.json",
-      "paid_endpoint_count": 20,
+      "paid_endpoint_count": 23,
       "price_range": "$0.01-$0.15",
       "network": "Base mainnet (eip155:8453)",
       "public_pages": [
@@ -90,7 +90,8 @@
         "https://disruption.forgemesh.io/rankings/states",
         "https://disruption.forgemesh.io/rankings/counties",
         "https://disruption.forgemesh.io/exports",
-        "https://disruption.forgemesh.io/pricing"
+        "https://disruption.forgemesh.io/pricing",
+        "https://disruption.forgemesh.io/ripple/search"
       ]
     },
     {
