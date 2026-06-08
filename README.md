@@ -31,7 +31,7 @@ setup or API-key negotiation.
 | --- | --- | --- |
 | [CoinOpAI x402 API](https://x402.coinopai.com) | [index.json](https://x402.coinopai.com/index.json) | Paid crypto intelligence and automation prompt retrieval. |
 | [ImageGen x402 API](https://imagegen.coinopai.com) | [index.json](https://imagegen.coinopai.com/index.json) | Paid image generation tiers on Base mainnet. |
-| [Disruption Intelligence API](https://disruption.forgemesh.io) | [index.json](https://disruption.forgemesh.io/index.json) | 23 paid endpoints, including Ripple Signals and the Disruption Intelligence Ripple Report, from $0.01-$0.15 per call. |
+| [Disruption Intelligence API](https://disruption.forgemesh.io) | [index.json](https://disruption.forgemesh.io/index.json) | 23 paid endpoints, including Ripple Signals and the Disruption Intelligence Ripple Report, from $0.01-$0.25 per call. |
 | [Fare Intelligence API](https://travel.forgemesh.io) | [index.json](https://travel.forgemesh.io/index.json) | Travel fare intelligence surface. |
 
 ## How The Pieces Fit
