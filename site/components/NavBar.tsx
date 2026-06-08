@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import { ForgeMeshMark } from './ForgeMeshMark';
 
 export function NavBar() {
   const [scrolled, setScrolled] = useState(false);
@@ -21,19 +22,7 @@ export function NavBar() {
     >
       <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
         <a href="#" className="flex items-center gap-2.5 group">
-          <div className="relative w-6 h-6">
-            <svg viewBox="0 0 24 24" fill="none" className="w-6 h-6">
-              <circle cx="12" cy="12" r="2" fill="#60a5fa" />
-              <circle cx="4" cy="6" r="1.5" fill="rgba(96,165,250,0.6)" />
-              <circle cx="20" cy="6" r="1.5" fill="rgba(96,165,250,0.6)" />
-              <circle cx="4" cy="18" r="1.5" fill="rgba(96,165,250,0.6)" />
-              <circle cx="20" cy="18" r="1.5" fill="rgba(96,165,250,0.6)" />
-              <line x1="12" y1="12" x2="4" y2="6" stroke="rgba(96,165,250,0.4)" strokeWidth="1" />
-              <line x1="12" y1="12" x2="20" y2="6" stroke="rgba(96,165,250,0.4)" strokeWidth="1" />
-              <line x1="12" y1="12" x2="4" y2="18" stroke="rgba(96,165,250,0.4)" strokeWidth="1" />
-              <line x1="12" y1="12" x2="20" y2="18" stroke="rgba(96,165,250,0.4)" strokeWidth="1" />
-            </svg>
-          </div>
+          <ForgeMeshMark size={30} className="shrink-0" />
           <span className="text-sm font-medium text-slate-200 tracking-tight group-hover:text-white transition-colors">
             ForgeMesh Labs
           </span>

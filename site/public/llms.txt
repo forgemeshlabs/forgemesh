@@ -1,0 +1,44 @@
+# ForgeMesh Labs
+> ForgeMesh Labs publishes production-running MCP servers, x402-paid APIs, commercial intelligence services, affiliate routing, and machine-readable discovery surfaces for agent commerce.
+
+## Primary Site
+- Website: https://forgemesh.io
+- Machine index: https://forgemesh.io/index.json
+- OpenAPI discovery: https://forgemesh.io/openapi.json
+- Sitemap: https://forgemesh.io/sitemap.xml
+
+## MCP Packages
+- coinopai-mcp v1.2.8: https://www.npmjs.com/package/coinopai-mcp
+- forgemesh-imagegen v1.0.1: https://www.npmjs.com/package/forgemesh-imagegen
+- @forgemeshlabs/disruption-intelligence-mcp v0.1.4: https://www.npmjs.com/package/@forgemeshlabs/disruption-intelligence-mcp
+- affiliate-router-mcp v0.1.6: https://www.npmjs.com/package/affiliate-router-mcp
+- forgemesh v0.1.3: https://www.npmjs.com/package/forgemesh
+
+## Hosted x402 APIs
+- CoinOpAI x402 API: https://x402.coinopai.com
+- ImageGen x402 API: https://imagegen.coinopai.com
+- Disruption Intelligence API: https://disruption.forgemesh.io
+  - Legacy alias: https://warn.forgemesh.io
+  - Discovery: https://disruption.forgemesh.io/index.json
+  - OpenAPI: https://disruption.forgemesh.io/openapi.json
+  - x402 metadata: https://disruption.forgemesh.io/.well-known/x402.json
+  - Product: DisruptionIntel by ForgeMesh Labs
+  - Scope: source-linked WARN and workforce disruption intelligence
+  - Paid endpoints: 20 endpoints from $0.01-$0.15 per call on Base mainnet
+  - Categories: event severity, event history, relationships, timelines, company intelligence, company search, radius search, territory disruption, regional summaries, jurisdiction activity, watchlist previews, gold convergence signals, and commercial convergence briefs
+- Fare Intelligence API: https://travel.forgemesh.io
+
+## DisruptionIntel Public Pages
+- Events: https://disruption.forgemesh.io/events
+- Companies: https://disruption.forgemesh.io/companies
+- State rankings: https://disruption.forgemesh.io/rankings/states
+- County rankings: https://disruption.forgemesh.io/rankings/counties
+- Exports: https://disruption.forgemesh.io/exports
+- Pricing: https://disruption.forgemesh.io/pricing
+
+## Repository Links
+- CoinOpAI MCP: https://github.com/forgemeshlabs/coinopai-mcp
+- ImageGen MCP: https://github.com/forgemeshlabs/imagegen-mcp
+- Disruption Intelligence MCP: https://github.com/forgemeshlabs/disruption-intelligence-mcp
+- Affiliate Router MCP: https://github.com/forgemeshlabs/affiliate-router-mcp
+- ForgeMesh: https://github.com/forgemeshlabs/forgemesh

@@ -1,15 +1,15 @@
 const principles = [
   {
-    statement: 'Software should control execution.',
-    detail: 'Logic, not humans, decides what runs and when. Agents operate within defined contracts, not open-ended instructions.',
+    statement: 'Curiosity matters more than credentials.',
+    detail: 'You do not need a title, a pedigree, or permission to start building. Questions are a valid entry point.',
   },
   {
-    statement: 'Models should generate content.',
-    detail: 'LLMs are content engines. The infrastructure around them must be deterministic, auditable, and machine-verifiable.',
+    statement: 'Humans and agents build better together.',
+    detail: 'People bring judgment, taste, and intent. Agents bring reach, memory, and speed. Systems make the work durable.',
   },
   {
-    statement: 'Every action should be verifiable.',
-    detail: "If you can't prove an agent did what it said, you don't have an autonomous system. You have a suggestion engine.",
+    statement: 'No builder should feel irrelevant.',
+    detail: 'ForgeMesh is built for first workflows, serious infrastructure, solo experiments, and new companies in the same connected economy.',
   },
 ];
 
@@ -24,12 +24,22 @@ export function Philosophy() {
         {/* Primary statement */}
         <blockquote className="mb-16">
           <p className="text-3xl sm:text-4xl lg:text-5xl font-medium text-slate-200 leading-[1.15] tracking-tight">
-            The rails should be{' '}
-            <span className="text-slate-500">invisible.</span>
-            {' '}The execution should be{' '}
-            <span className="text-slate-500">undeniable.</span>
+            Every Builder{' '}
+            <span className="text-slate-500">Belongs.</span>
           </p>
         </blockquote>
+
+        <div className="mb-16 max-w-3xl space-y-5 text-base sm:text-lg text-slate-400 leading-relaxed">
+          <p>
+            We believe the future will not be built by humans alone, nor by AI alone.
+            It will be built through collaboration between people, agents, and systems.
+          </p>
+          <p>
+            ForgeMesh rejects gatekeeping, elitism, and the idea that only experts can
+            contribute. Every builder starts somewhere. Every builder has something to
+            teach.
+          </p>
+        </div>
 
         <div className="space-y-0 divide-y divide-white/[0.06]">
           {principles.map((p, i) => (
@@ -48,7 +58,7 @@ export function Philosophy() {
         {/* Closing line */}
         <div className="mt-16 pt-8 border-t border-white/[0.06]">
           <p className="text-xs font-mono text-slate-700 tracking-widest uppercase">
-            ForgeMesh Labs — 2025 — Experimental infrastructure for autonomous systems
+            Forged Through Curiosity. Connected Through Collaboration.
           </p>
         </div>
       </div>
