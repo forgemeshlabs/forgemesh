@@ -14,7 +14,17 @@
 - @forgemeshlabs/disruption-intelligence-mcp: https://www.npmjs.com/package/@forgemeshlabs/disruption-intelligence-mcp
 - affiliate-router-mcp: https://www.npmjs.com/package/affiliate-router-mcp
 - @forgemeshlabs/travel-assistant-mcp: https://www.npmjs.com/package/@forgemeshlabs/travel-assistant-mcp
+- @forgemeshlabs/aso-audit-mcp: https://www.npmjs.com/package/@forgemeshlabs/aso-audit-mcp
+- @forgemeshlabs/aso-score-mcp: https://www.npmjs.com/package/@forgemeshlabs/aso-score-mcp
+- @forgemeshlabs/agent-readiness-mcp: https://www.npmjs.com/package/@forgemeshlabs/agent-readiness-mcp
 - forgemesh: https://www.npmjs.com/package/forgemesh
+
+## ASO / Agent Readiness
+- ASO framework: https://agentsignaloptimization.com
+- ASO Scanner MCP: npx -y @forgemeshlabs/aso-audit-mcp
+- ASO Score MCP: npx -y @forgemeshlabs/aso-score-mcp
+- Agent Readiness MCP: npx -y @forgemeshlabs/agent-readiness-mcp
+- Source: https://github.com/forgemeshlabs/aso-audit-mcp
 
 ## Hosted x402 APIs
 - CoinOpAI x402 API: https://x402.coinopai.com
@@ -44,4 +54,7 @@
 - ImageGen MCP: https://github.com/forgemeshlabs/imagegen-mcp
 - Disruption Intelligence MCP: https://github.com/forgemeshlabs/disruption-intelligence-mcp
 - Affiliate Router MCP: https://github.com/forgemeshlabs/affiliate-router-mcp
+- ASO Audit MCP: https://github.com/forgemeshlabs/aso-audit-mcp
+- ASO Score MCP: https://github.com/forgemeshlabs/aso-score-mcp
+- Agent Readiness MCP: https://github.com/forgemeshlabs/agent-readiness-mcp
 - ForgeMesh: https://github.com/forgemeshlabs/forgemesh
