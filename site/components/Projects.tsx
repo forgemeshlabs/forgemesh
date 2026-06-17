@@ -70,7 +70,7 @@ const projects = [
     description:
       'ASO Score namespace package for the same scanner core. Agents measure a 0-100 Agent Readiness Index and get a prioritized remediation plan.',
     tags: ['MCP', 'ASO score', 'agent readiness'],
-    status: 'prepared',
+    status: 'active',
     npm: 'https://www.npmjs.com/package/@forgemeshlabs/aso-score-mcp',
     github: 'https://github.com/forgemeshlabs/aso-score-mcp',
     url: 'https://agentsignaloptimization.com',
@@ -81,7 +81,7 @@ const projects = [
     description:
       'Agent Readiness namespace package for the ASO scanner core, aligned with Google Search and browser-agent guidance without claiming Google ranking impact.',
     tags: ['MCP', 'agent readiness', 'agent-friendly websites'],
-    status: 'prepared',
+    status: 'active',
     npm: 'https://www.npmjs.com/package/@forgemeshlabs/agent-readiness-mcp',
     github: 'https://github.com/forgemeshlabs/agent-readiness-mcp',
     url: 'https://agentsignaloptimization.com',
