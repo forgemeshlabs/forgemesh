@@ -54,6 +54,39 @@ const projects = [
     url: 'https://travel.forgemesh.io',
   },
   {
+    name: 'ASO Audit MCP',
+    surface: 'MCP package',
+    description:
+      'Free Agent Signal Optimization scanner. Agents audit whether a website, API, or tool can be discovered, trusted, understood, and used by other agents.',
+    tags: ['MCP', 'ASO', 'agent readiness'],
+    status: 'active',
+    npm: 'https://www.npmjs.com/package/@forgemeshlabs/aso-audit-mcp',
+    github: 'https://github.com/forgemeshlabs/aso-audit-mcp',
+    url: 'https://agentsignaloptimization.com',
+  },
+  {
+    name: 'ASO Score MCP',
+    surface: 'MCP package',
+    description:
+      'ASO Score namespace package for the same scanner core. Agents measure a 0-100 Agent Readiness Index and get a prioritized remediation plan.',
+    tags: ['MCP', 'ASO score', 'agent readiness'],
+    status: 'prepared',
+    npm: 'https://www.npmjs.com/package/@forgemeshlabs/aso-score-mcp',
+    github: 'https://github.com/forgemeshlabs/aso-score-mcp',
+    url: 'https://agentsignaloptimization.com',
+  },
+  {
+    name: 'Agent Readiness MCP',
+    surface: 'MCP package',
+    description:
+      'Agent Readiness namespace package for the ASO scanner core, aligned with Google Search and browser-agent guidance without claiming Google ranking impact.',
+    tags: ['MCP', 'agent readiness', 'agent-friendly websites'],
+    status: 'prepared',
+    npm: 'https://www.npmjs.com/package/@forgemeshlabs/agent-readiness-mcp',
+    github: 'https://github.com/forgemeshlabs/agent-readiness-mcp',
+    url: 'https://agentsignaloptimization.com',
+  },
+  {
     name: 'CoinOpAI x402 API',
     surface: 'Hosted API',
     description:

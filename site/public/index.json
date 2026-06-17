@@ -3,7 +3,7 @@
   "description": "ForgeMesh Labs publishes production-running MCP servers, x402 payment surfaces, commercial intelligence APIs, affiliate routing, and machine-readable discovery infrastructure for agent commerce.",
   "canonical_url": "https://forgemesh.io",
   "x": "https://x.com/forgemeshlabs",
-  "updated": "2026-06-08",
+  "updated": "2026-06-17",
   "discovery": {
     "website": "https://forgemesh.io/",
     "sitemap": "https://forgemesh.io/sitemap.xml",
@@ -49,6 +49,30 @@
       "github": "https://github.com/forgemeshlabs/travel-mcp",
       "hosted_api": "https://travel.forgemesh.io",
       "description": "Travel-planning MCP server for destination guidance, fare search planning, airport context, route comparison, booking-link generation, and timing explanations."
+    },
+    {
+      "name": "@forgemeshlabs/aso-audit-mcp",
+      "type": "mcp_package",
+      "npm": "https://www.npmjs.com/package/@forgemeshlabs/aso-audit-mcp",
+      "github": "https://github.com/forgemeshlabs/aso-audit-mcp",
+      "website": "https://agentsignaloptimization.com",
+      "description": "Free Agent Signal Optimization scanner for auditing whether websites, APIs, and tools can be discovered, trusted, understood, and used by agents."
+    },
+    {
+      "name": "@forgemeshlabs/aso-score-mcp",
+      "type": "mcp_package",
+      "npm": "https://www.npmjs.com/package/@forgemeshlabs/aso-score-mcp",
+      "github": "https://github.com/forgemeshlabs/aso-score-mcp",
+      "website": "https://agentsignaloptimization.com",
+      "description": "ASO Score namespace package for the shared scanner core and 0-100 Agent Readiness Index."
+    },
+    {
+      "name": "@forgemeshlabs/agent-readiness-mcp",
+      "type": "mcp_package",
+      "npm": "https://www.npmjs.com/package/@forgemeshlabs/agent-readiness-mcp",
+      "github": "https://github.com/forgemeshlabs/agent-readiness-mcp",
+      "website": "https://agentsignaloptimization.com",
+      "description": "Agent Readiness namespace package for the ASO scanner core, Google-aligned search guidance, and browser-agent readiness checks."
     },
     {
       "name": "forgemesh",
