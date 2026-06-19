@@ -14,7 +14,7 @@ const projects = [
     name: 'forgemesh-imagegen',
     surface: 'MCP package',
     description:
-      'AI image generation via x402 micropayments. 4 tiers ($0.10–$0.30 USDC) on Base mainnet — no API key, pay per call.',
+      'AI image generation via x402 micropayments. 4 tiers ($0.25-$0.75 USDC) on Base mainnet — no API key, pay per call.',
     tags: ['MCP', 'x402', 'image-gen', 'USDC', 'Base'],
     status: 'active',
     npm: 'https://www.npmjs.com/package/forgemesh-imagegen',
