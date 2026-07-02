@@ -43,15 +43,25 @@ const projects = [
     github: 'https://github.com/forgemeshlabs/affiliate-router-mcp',
   },
   {
-    name: 'Travel Assistant MCP',
-    surface: 'MCP package',
+    name: 'Travel Agent MCP',
+    surface: 'MCP package + x402 server',
     description:
-      'Free travel-planning MCP server for destination guidance, flexible fare search planning, airport context, route comparison, booking-link generation, and timing explanations.',
-    tags: ['MCP', 'travel', 'fare intelligence'],
+      'Agent travel planning MCP backed by ForgeMesh Travel Agent. Local no-key tools prepare trips, creator experiences, and paid x402 handoffs to live travel planning endpoints.',
+    tags: ['MCP', 'x402', 'travel agent', 'Base'],
     status: 'active',
-    npm: 'https://www.npmjs.com/package/@forgemeshlabs/travel-assistant-mcp',
-    github: 'https://github.com/forgemeshlabs/travel-mcp',
-    url: 'https://travel.forgemesh.io',
+    npm: 'https://www.npmjs.com/package/@forgemeshlabs/travel-agent-mcp',
+    github: 'https://github.com/forgemeshlabs/travel-agent-mcp',
+    url: 'https://travel-agent.forgemesh.io',
+  },
+  {
+    name: 'ClawVoice x402',
+    surface: 'OpenClaw skill',
+    description:
+      'ClawHub skill that gives OpenClaw agents voice output, optional push-to-talk input, a local Base USDC x402 wallet, spend caps, balance checks, and withdrawal.',
+    tags: ['OpenClaw', 'ClawHub', 'x402', 'voice', 'Base'],
+    status: 'active',
+    github: 'https://github.com/forgemeshlabs/clawvoice-x402',
+    url: 'https://clawhub.ai/forgemeshlabs/skills/clawvoice-x402',
   },
   {
     name: 'ASO Audit MCP',
@@ -87,6 +97,16 @@ const projects = [
     url: 'https://agentsignaloptimization.com',
   },
   {
+    name: 'Anomaly Tracker',
+    surface: 'Hosted x402 API',
+    description:
+      'Detects unusual financial event sequences before they look obvious on a chart. Powered by NASA-derived sequence mining methods — returns a story label + score, not just a number. $0.05/call on Base mainnet.',
+    tags: ['x402', 'anomaly detection', 'SequenceMiner', 'USDC', 'Base'],
+    status: 'active',
+    github: 'https://github.com/forgemeshlabs/anomaly-mcp',
+    url: 'https://anomaly.forgemesh.io',
+  },
+  {
     name: 'CoinOpAI x402 API',
     surface: 'Hosted API',
     description:
@@ -94,6 +114,15 @@ const projects = [
     tags: ['x402', 'USDC', 'Base', 'hosted API'],
     status: 'active',
     url: 'https://x402.coinopai.com',
+  },
+  {
+    name: 'ForgeMesh Travel Agent',
+    surface: 'Hosted x402 API',
+    description:
+      'Paid travel planning awareness for agents: travel pulse, weather-aware plans, day trips, weekend getaways, mobility options, and creator experience briefs from $0.01-$0.25 per call.',
+    tags: ['x402', 'travel', 'USDC', 'Base', 'hosted API'],
+    status: 'active',
+    url: 'https://travel-agent.forgemesh.io',
   },
   {
     name: 'forgemesh',

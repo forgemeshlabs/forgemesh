@@ -13,7 +13,8 @@
 - forgemesh-imagegen: https://www.npmjs.com/package/forgemesh-imagegen
 - @forgemeshlabs/disruption-intelligence-mcp: https://www.npmjs.com/package/@forgemeshlabs/disruption-intelligence-mcp
 - affiliate-router-mcp: https://www.npmjs.com/package/affiliate-router-mcp
-- @forgemeshlabs/travel-assistant-mcp: https://www.npmjs.com/package/@forgemeshlabs/travel-assistant-mcp
+- @forgemeshlabs/travel-agent-mcp: https://www.npmjs.com/package/@forgemeshlabs/travel-agent-mcp
+- ClawVoice x402: https://clawhub.ai/forgemeshlabs/skills/clawvoice-x402
 - @forgemeshlabs/aso-audit-mcp: https://www.npmjs.com/package/@forgemeshlabs/aso-audit-mcp
 - @forgemeshlabs/aso-score-mcp: https://www.npmjs.com/package/@forgemeshlabs/aso-score-mcp
 - @forgemeshlabs/agent-readiness-mcp: https://www.npmjs.com/package/@forgemeshlabs/agent-readiness-mcp
@@ -38,7 +39,11 @@
   - Scope: source-linked WARN and workforce disruption intelligence with downstream business-ripple analysis
   - Paid endpoints: 23 endpoints from $0.01-$0.25 per call on Base mainnet
   - Categories: event severity, event history, relationships, timelines, company intelligence, company search, radius search, territory disruption, regional summaries, jurisdiction activity, watchlist previews, Ripple Signals, Ripple Paths, and Ripple Reports
-- Fare Intelligence API: https://travel.forgemesh.io
+- ForgeMesh Travel Agent API: https://travel-agent.forgemesh.io
+  - MCP quickstart: npx -y @forgemeshlabs/travel-agent-mcp
+  - x402 manifest: https://travel-agent.forgemesh.io/.well-known/x402.json
+  - OpenAPI: https://travel-agent.forgemesh.io/openapi.json
+  - MCP package: https://www.npmjs.com/package/@forgemeshlabs/travel-agent-mcp
 
 ## DisruptionIntel Public Pages
 - Events: https://disruption.forgemesh.io/events
@@ -57,4 +62,6 @@
 - ASO Audit MCP: https://github.com/forgemeshlabs/aso-audit-mcp
 - ASO Score MCP: https://github.com/forgemeshlabs/aso-score-mcp
 - Agent Readiness MCP: https://github.com/forgemeshlabs/agent-readiness-mcp
+- Travel Agent MCP: https://github.com/forgemeshlabs/travel-agent-mcp
+- ClawVoice x402: https://github.com/forgemeshlabs/clawvoice-x402
 - ForgeMesh: https://github.com/forgemeshlabs/forgemesh

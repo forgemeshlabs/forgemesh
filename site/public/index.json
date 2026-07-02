@@ -3,7 +3,7 @@
   "description": "ForgeMesh Labs publishes production-running MCP servers, x402 payment surfaces, commercial intelligence APIs, affiliate routing, and machine-readable discovery infrastructure for agent commerce.",
   "canonical_url": "https://forgemesh.io",
   "x": "https://x.com/forgemeshlabs",
-  "updated": "2026-06-17",
+  "updated": "2026-07-02",
   "discovery": {
     "website": "https://forgemesh.io/",
     "sitemap": "https://forgemesh.io/sitemap.xml",
@@ -43,12 +43,20 @@
       "description": "Vendor-neutral monetization routing for affiliate-linked agent recommendations."
     },
     {
-      "name": "@forgemeshlabs/travel-assistant-mcp",
+      "name": "@forgemeshlabs/travel-agent-mcp",
       "type": "mcp_package",
-      "npm": "https://www.npmjs.com/package/@forgemeshlabs/travel-assistant-mcp",
-      "github": "https://github.com/forgemeshlabs/travel-mcp",
-      "hosted_api": "https://travel.forgemesh.io",
-      "description": "Travel-planning MCP server for destination guidance, fare search planning, airport context, route comparison, booking-link generation, and timing explanations."
+      "npm": "https://www.npmjs.com/package/@forgemeshlabs/travel-agent-mcp",
+      "github": "https://github.com/forgemeshlabs/travel-agent-mcp",
+      "hosted_api": "https://travel-agent.forgemesh.io",
+      "description": "Travel Agent MCP for local travel tools and x402 handoffs to ForgeMesh Travel Agent endpoints."
+    },
+    {
+      "name": "clawvoice-x402",
+      "type": "openclaw_skill",
+      "clawhub": "https://clawhub.ai/forgemeshlabs/skills/clawvoice-x402",
+      "github": "https://github.com/forgemeshlabs/clawvoice-x402",
+      "version": "0.3.7",
+      "description": "ClawVoice x402 is an OpenClaw skill for agent voice output, optional push-to-talk input, local Base USDC x402 wallet setup, spend caps, balance checks, and withdrawal."
     },
     {
       "name": "@forgemeshlabs/aso-audit-mcp",
@@ -119,11 +127,14 @@
       ]
     },
     {
-      "name": "Fare Intelligence API",
-      "url": "https://travel.forgemesh.io",
-      "discovery": "https://travel.forgemesh.io/index.json",
-      "openapi": "https://travel.forgemesh.io/openapi.json",
-      "llms": "https://travel.forgemesh.io/llms.txt"
+      "name": "ForgeMesh Travel Agent API",
+      "url": "https://travel-agent.forgemesh.io",
+      "manifest": "https://travel-agent.forgemesh.io/.well-known/x402.json",
+      "openapi": "https://travel-agent.forgemesh.io/openapi.json",
+      "llms": "https://travel-agent.forgemesh.io/llms.txt",
+      "mcp_package": "https://www.npmjs.com/package/@forgemeshlabs/travel-agent-mcp",
+      "price_range": "$0.01-$0.25",
+      "network": "Base mainnet (eip155:8453)"
     }
   ]
 }
