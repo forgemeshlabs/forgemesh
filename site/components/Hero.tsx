@@ -7,7 +7,7 @@ const terminalLines = [
   { prefix: '$ ', text: 'forgemesh init --agent coinopai-mcp', delay: 0 },
   { prefix: '-> ', text: 'Connecting people, agents, and systems...', delay: 600 },
   { prefix: '-> ', text: 'x402 payment layer: active', delay: 1100 },
-  { prefix: '-> ', text: 'MCP packages indexed (4)', delay: 1600 },
+  { prefix: '-> ', text: 'Active systems indexed', delay: 1600 },
   { prefix: 'OK ', text: 'Mesh ready for collaboration', delay: 2100, accent: true },
 ];
 

@@ -14,6 +14,12 @@ export const metadata: Metadata = {
     "AI tooling", "commercial intelligence", "machine-to-machine commerce", "agentic systems",
   ],
   authors: [{ name: "ForgeMesh Labs" }],
+  icons: {
+    icon: [
+      { url: "/favicon.ico" },
+    ],
+    shortcut: "/favicon.ico",
+  },
   openGraph: {
     title: "ForgeMesh Labs - MCP and x402 Agent Commerce",
     description: "Production-running MCP servers, x402-paid APIs, affiliate routing, and machine-readable discovery surfaces.",

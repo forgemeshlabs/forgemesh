@@ -22,7 +22,11 @@ setup or API-key negotiation.
 | [forgemesh-imagegen](https://github.com/forgemeshlabs/imagegen-mcp) | MCP package | MCP wrapper for x402-paid image generation through the hosted ImageGen API. |
 | [@forgemeshlabs/disruption-intelligence-mcp](https://github.com/forgemeshlabs/disruption-intelligence-mcp) | MCP package | MCP wrapper for source-linked WARN, workforce disruption, company, region, territory, watchlist, Ripple Signals, Ripple Paths, and Disruption Intelligence Ripple Reports. |
 | [affiliate-router-mcp](https://github.com/forgemeshlabs/affiliate-router-mcp) | MCP package | Vendor-neutral affiliate and payment routing for agent recommendations. |
-| [@forgemeshlabs/travel-assistant-mcp](https://github.com/forgemeshlabs/travel-mcp) | MCP package | Travel-planning MCP server for destination guidance, fare search planning, airport context, route comparison, booking-link generation, and timing explanations. |
+| [@forgemeshlabs/travel-agent-mcp](https://github.com/forgemeshlabs/travel-agent-mcp) | MCP package + x402 server | Local travel tools and x402 handoffs to ForgeMesh Travel Agent endpoints. |
+| [ClawVoice x402](https://github.com/forgemeshlabs/clawvoice-x402) | OpenClaw skill | ClawHub skill for agent voice output, optional push-to-talk input, local x402 wallet setup, spend caps, balance checks, and withdrawal. |
+| [@forgemeshlabs/aso-audit-mcp](https://github.com/forgemeshlabs/aso-audit-mcp) | MCP package | Free Agent Signal Optimization scanner for auditing agent readiness across discovery, identity, trust, commerce, reputation, and memory signals. |
+| [@forgemeshlabs/aso-score-mcp](https://github.com/forgemeshlabs/aso-score-mcp) | MCP package | ASO Score namespace package for the shared scanner core and 0-100 Agent Readiness Index. |
+| [@forgemeshlabs/agent-readiness-mcp](https://github.com/forgemeshlabs/agent-readiness-mcp) | MCP package | Agent Readiness namespace package for agent-friendly website and API checks. |
 | [forgemesh](https://github.com/forgemeshlabs/forgemesh) | Umbrella package | Umbrella package and public ecosystem registry. |
 
 ## Hosted APIs
@@ -32,7 +36,7 @@ setup or API-key negotiation.
 | [CoinOpAI x402 API](https://x402.coinopai.com) | [index.json](https://x402.coinopai.com/index.json) | Paid crypto intelligence and automation prompt retrieval. |
 | [ImageGen x402 API](https://imagegen.coinopai.com) | [index.json](https://imagegen.coinopai.com/index.json) | Paid image generation tiers on Base mainnet. |
 | [Disruption Intelligence API](https://disruption.forgemesh.io) | [index.json](https://disruption.forgemesh.io/index.json) | 23 paid endpoints, including Ripple Signals and the Disruption Intelligence Ripple Report, from $0.01-$0.25 per call. |
-| [Fare Intelligence API](https://travel.forgemesh.io) | [index.json](https://travel.forgemesh.io/index.json) | Travel fare intelligence surface. |
+| [ForgeMesh Travel Agent API](https://travel-agent.forgemesh.io) | [.well-known/x402.json](https://travel-agent.forgemesh.io/.well-known/x402.json) | Paid travel planning awareness endpoints from $0.01-$0.25 per call on Base mainnet. |
 
 ## How The Pieces Fit
 
