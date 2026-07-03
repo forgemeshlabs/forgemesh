@@ -62,6 +62,45 @@
           }
         }
       }
+    },
+    "/clawvoice": {
+      "get": {
+        "summary": "Get the ClawVoice OpenClaw voice skill product page",
+        "description": "Public product page for ClawVoice x402, the ForgeMesh Labs OpenClaw skill for spoken agent replies, push-to-talk input, local or hosted voice, configurable voice options, and local Base USDC x402 wallet controls.",
+        "tags": [
+          "OpenClaw",
+          "ClawVoice",
+          "x402",
+          "voice"
+        ],
+        "responses": {
+          "200": {
+            "description": "HTML product page for ClawVoice x402",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        },
+        "x-forgemesh": {
+          "product": "ClawVoice x402",
+          "website": "https://forgemesh.io/clawvoice",
+          "github": "https://github.com/forgemeshlabs/clawvoice-x402",
+          "clawhub": "https://clawhub.ai/forgemeshlabs/skills/clawvoice-x402",
+          "hosted_voice_surface": "https://voice.forgemesh.io",
+          "current_version": "0.3.18",
+          "use_cases": [
+            "OpenClaw spoken replies",
+            "push-to-talk agent input",
+            "hosted x402 voice fallback",
+            "local voice setup",
+            "Base USDC agent wallet controls"
+          ]
+        }
+      }
     }
   }
 }

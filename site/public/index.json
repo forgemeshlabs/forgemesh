@@ -55,8 +55,10 @@
       "type": "openclaw_skill",
       "clawhub": "https://clawhub.ai/forgemeshlabs/skills/clawvoice-x402",
       "github": "https://github.com/forgemeshlabs/clawvoice-x402",
-      "version": "0.3.7",
-      "description": "ClawVoice x402 is an OpenClaw skill for agent voice output, optional push-to-talk input, local Base USDC x402 wallet setup, spend caps, balance checks, and withdrawal."
+      "version": "0.3.18",
+      "description": "ClawVoice x402 is an OpenClaw-specific skill for spoken replies, push-to-talk input, hosted or local voice, configurable voice options, a local Base USDC x402 wallet, spend caps, balance checks, and withdrawal.",
+      "website": "https://forgemesh.io/clawvoice",
+      "hosted_voice": "https://voice.forgemesh.io"
     },
     {
       "name": "@forgemeshlabs/aso-audit-mcp",

@@ -21,7 +21,7 @@ export function NavBar() {
       }`}
     >
       <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
-        <a href="#" className="flex items-center gap-2.5 group">
+        <a href="/" className="flex items-center gap-2.5 group">
           <ForgeMeshMark size={30} className="shrink-0" />
           <span className="text-sm font-medium text-slate-200 tracking-tight group-hover:text-white transition-colors">
             ForgeMesh Labs
@@ -32,7 +32,7 @@ export function NavBar() {
           {['Systems', 'Architecture', 'Projects', 'Philosophy'].map(item => (
             <a
               key={item}
-              href={`#${item.toLowerCase()}`}
+              href={`/#${item.toLowerCase()}`}
               className="text-sm text-slate-400 hover:text-slate-200 transition-colors"
             >
               {item}
