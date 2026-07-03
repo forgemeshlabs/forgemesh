@@ -61,7 +61,7 @@ const projects = [
     tags: ['OpenClaw', 'ClawHub', 'x402', 'voice', 'Base'],
     status: 'active',
     github: 'https://github.com/forgemeshlabs/clawvoice-x402',
-    url: 'https://clawhub.ai/forgemeshlabs/skills/clawvoice-x402',
+    url: 'https://forgemesh.io/clawvoice',
   },
   {
     name: 'ASO Audit MCP',

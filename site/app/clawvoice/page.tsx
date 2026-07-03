@@ -72,8 +72,8 @@ const pricingRows = [
   {
     provider: 'ClawVoice hosted x402',
     model: 'Pay per approved call from a local Base USDC wallet',
-    cost: '$0.005 ForgeMesh compatibility fee plus hosted endpoint price',
-    bestFor: 'Agents that need hosted fallback without a monthly voice subscription.',
+    cost: 'Endpoint-declared x402 price; base voice is currently $0.001 per successful hosted call',
+    bestFor: 'Agents that need hosted fallback without a monthly voice subscription or hidden add-on fee.',
     source: 'https://voice.forgemesh.io',
   },
   {
@@ -396,7 +396,7 @@ export default function ClawVoicePage() {
               </h2>
               <p className="mt-5 text-sm leading-7 text-slate-500">
                 ClawVoice is optimized for OpenClaw agents: local-first when possible, hosted x402 fallback when needed,
-                and wallet-level spend controls. The comparison below uses public pricing pages checked on July 3, 2026;
+                and wallet-level spend controls. The package signs the endpoint's x402 challenge directly; it does not add a separate hidden ForgeMesh fee. The comparison below uses public pricing pages checked on July 3, 2026;
                 provider prices can change.
               </p>
             </div>
