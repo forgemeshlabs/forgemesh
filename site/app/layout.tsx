@@ -6,12 +6,13 @@ const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ForgeMesh Labs - MCP and x402 Agent Commerce",
+  metadataBase: new URL("https://forgemesh.io"),
+  title: "ForgeMesh Labs — Paid APIs for AI Agents · x402 on Base",
   description:
-    "ForgeMesh Labs publishes MCP servers, x402-paid APIs, commercial intelligence services, affiliate routing, and machine-readable discovery surfaces for agent commerce.",
+    "Eight live x402 services for AI agents: notarization, anomaly detection, disruption intel, travel, voice, market signals, image generation. USDC per call on Base, from $0.001. No accounts, no API keys.",
   keywords: [
-    "MCP servers", "x402 payments", "agent commerce", "autonomous agent economy",
-    "AI tooling", "commercial intelligence", "machine-to-machine commerce", "agentic systems",
+    "x402", "MCP servers", "paid APIs for AI agents", "agent commerce", "USDC micropayments",
+    "Base mainnet", "autonomous agent economy", "machine-to-machine commerce", "agentic systems",
   ],
   authors: [{ name: "ForgeMesh Labs" }],
   icons: {
@@ -21,8 +22,8 @@ export const metadata: Metadata = {
     shortcut: "/favicon.ico",
   },
   openGraph: {
-    title: "ForgeMesh Labs - MCP and x402 Agent Commerce",
-    description: "Production-running MCP servers, x402-paid APIs, affiliate routing, and machine-readable discovery surfaces.",
+    title: "ForgeMesh Labs — Paid APIs for AI Agents",
+    description: "Eight live x402 services. USDC per call on Base, from $0.001. No accounts, no API keys.",
     type: "website",
     url: "https://forgemesh.io",
   },
@@ -30,8 +31,8 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     site: "@forgemeshlabs",
     creator: "@forgemeshlabs",
-    title: "ForgeMesh Labs",
-    description: "MCP servers, x402-paid APIs, affiliate routing, and machine-readable discovery surfaces for agent commerce.",
+    title: "ForgeMesh Labs — Paid APIs for AI Agents",
+    description: "Eight live x402 services. USDC per call on Base, from $0.001. No accounts, no API keys.",
   },
 };
 

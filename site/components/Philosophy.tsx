@@ -15,7 +15,7 @@ const principles = [
 
 export function Philosophy() {
   return (
-    <section id="philosophy" className="py-32 px-6 bg-[#050509]">
+    <section id="philosophy" className="py-20 px-6 bg-[#050509]">
       <div className="max-w-4xl mx-auto">
         <div className="mb-16">
           <p className="text-xs tracking-widest uppercase text-blue-400/70 mb-4">Philosophy</p>

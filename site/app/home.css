@@ -1,0 +1,362 @@
+/* forgemesh.io home sections (how-it-pays / mcp). Scoped under .fm-root.
+   Type matches the rest of the site: Geist sans + Geist mono. */
+
+/* lifecycle palette — global so glow effects work outside .fm-root too
+   (Projects/Architecture render as plain page sections, not inside it) */
+:root {
+  --acc1: #60a5fa;
+  --acc2: #818cf8;
+  --acc3: #a78bfa;
+  --acc4: #c084fc;
+}
+
+.fm-root {
+  --ink: #050509;
+  --carbon: #080810;
+  --hairline: rgba(255, 255, 255, 0.07);
+  --blue: #60a5fa;
+  --mute: #94a3b8;
+  --dim: #64748b;
+  --text: #cbd5e1;
+  --bright: #f1f5f9;
+  --sans: var(--font-geist-sans), system-ui, sans-serif;
+  --mono: var(--font-geist-mono), ui-monospace, monospace;
+
+  background: var(--ink);
+  color: var(--text);
+  font-family: var(--sans);
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+.fm-root a {
+  color: var(--blue);
+  text-decoration: none;
+}
+.fm-root a:hover {
+  text-decoration: underline;
+}
+.fm-root :focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+.fm-root .wrap {
+  max-width: 1152px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* ── section scaffolding (matches existing sections) ── */
+.fm-sec {
+  padding: 64px 0;
+}
+.fm-sec + .fm-sec {
+  padding-top: 0;
+}
+.fm-eyebrow {
+  font-size: 13px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(96, 165, 250, 0.7);
+  margin: 0 0 16px;
+}
+.fm-root h2 {
+  font-family: var(--sans);
+  font-weight: 500;
+  font-size: clamp(34px, 3.8vw, 42px);
+  letter-spacing: -0.02em;
+  color: var(--bright);
+  line-height: 1.15;
+  margin: 0 0 16px;
+}
+.fm-lede {
+  color: var(--mute);
+  font-size: 17px;
+  max-width: 40rem;
+  margin: 0;
+}
+
+/* ── x402 flow ───────────────────────────────────── */
+.fm-flow {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 30px;
+  margin-top: 48px;
+}
+.fm-step {
+  --acc: var(--acc1);
+  --pd: 0s;
+  position: relative;
+  background: var(--carbon);
+  border: 1px solid color-mix(in srgb, var(--acc) 35%, var(--hairline));
+  border-top: 2px solid var(--acc);
+  border-radius: 8px;
+  padding: 22px 20px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  animation: fm-step-glow 2s ease-in-out infinite;
+  animation-delay: var(--pd);
+}
+.fm-step:nth-child(1) { --pd: 0s; }
+.fm-step:nth-child(2) { --acc: var(--acc2); --pd: 0.3s; }
+.fm-step:nth-child(3) { --acc: var(--acc3); --pd: 0.6s; }
+.fm-step:nth-child(4) { --acc: var(--acc4); --pd: 0.9s; }
+@keyframes fm-step-glow {
+  0%, 100% {
+    transform: scale(1);
+    box-shadow: 0 0 0 1px color-mix(in srgb, var(--acc) 12%, transparent),
+      0 6px 20px color-mix(in srgb, var(--acc) 10%, transparent);
+  }
+  50% {
+    transform: scale(1.015);
+    box-shadow: 0 0 0 1.5px color-mix(in srgb, var(--acc) 65%, transparent),
+      0 12px 42px color-mix(in srgb, var(--acc) 50%, transparent),
+      0 0 46px color-mix(in srgb, var(--acc) 42%, transparent);
+  }
+}
+.fm-step:hover {
+  transform: translateY(-5px) scale(1.02);
+  border-color: var(--acc);
+  border-top-color: var(--acc);
+  box-shadow: 0 14px 44px color-mix(in srgb, var(--acc) 45%, transparent),
+    0 0 50px color-mix(in srgb, var(--acc) 40%, transparent);
+}
+
+/* ── project card glow (Active systems grid) ─────── */
+.fm-glow-card {
+  --acc: var(--acc1);
+  --pd: 0s;
+  position: relative;
+  animation: fm-card-glow 2s ease-in-out infinite;
+  animation-delay: var(--pd);
+}
+.fm-glow-card:nth-child(8n+1) { --acc: var(--acc1); --pd: 0s; }
+.fm-glow-card:nth-child(8n+2) { --acc: var(--acc2); --pd: 0.2s; }
+.fm-glow-card:nth-child(8n+3) { --acc: var(--acc3); --pd: 0.4s; }
+.fm-glow-card:nth-child(8n+4) { --acc: var(--acc4); --pd: 0.6s; }
+.fm-glow-card:nth-child(8n+5) { --acc: var(--acc1); --pd: 0.8s; }
+.fm-glow-card:nth-child(8n+6) { --acc: var(--acc2); --pd: 1s; }
+.fm-glow-card:nth-child(8n+7) { --acc: var(--acc3); --pd: 1.2s; }
+.fm-glow-card:nth-child(8n+8) { --acc: var(--acc4); --pd: 1.4s; }
+@keyframes fm-card-glow {
+  0%, 100% {
+    box-shadow: 0 0 0 1px color-mix(in srgb, var(--acc) 14%, transparent),
+      0 4px 16px color-mix(in srgb, var(--acc) 10%, transparent);
+  }
+  50% {
+    box-shadow: 0 0 0 2px color-mix(in srgb, var(--acc) 75%, transparent),
+      0 12px 44px color-mix(in srgb, var(--acc) 55%, transparent),
+      0 0 54px color-mix(in srgb, var(--acc) 45%, transparent);
+  }
+}
+.fm-glow-card:hover {
+  box-shadow: 0 12px 42px color-mix(in srgb, var(--acc) 55%, transparent),
+    0 0 50px color-mix(in srgb, var(--acc) 45%, transparent) !important;
+}
+@media (prefers-reduced-motion: reduce) {
+  .fm-glow-card {
+    animation: none !important;
+  }
+}
+/* flowing wire to the next step */
+.fm-step:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  top: 33px;
+  right: -30px;
+  width: 30px;
+  height: 2px;
+  background: repeating-linear-gradient(90deg, var(--acc) 0 5px, transparent 5px 10px);
+  filter: drop-shadow(0 0 4px color-mix(in srgb, var(--acc) 70%, transparent));
+  animation: fm-flow-dash 0.5s linear infinite;
+}
+.fm-step:not(:last-child)::before {
+  content: '';
+  position: absolute;
+  top: 30px;
+  right: -32px;
+  border: 4px solid transparent;
+  border-left: 6px solid var(--acc);
+}
+@keyframes fm-flow-dash {
+  to { background-position: 10px 0; }
+}
+.fm-step .n {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--acc);
+  letter-spacing: 0.1em;
+}
+.fm-step .n::before {
+  content: '';
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--acc);
+  box-shadow: 0 0 10px color-mix(in srgb, var(--acc) 80%, transparent);
+  animation: fm-node-pulse 1.3s ease-out infinite;
+}
+@keyframes fm-node-pulse {
+  0%, 100% { box-shadow: 0 0 6px color-mix(in srgb, var(--acc) 55%, transparent); transform: scale(1); }
+  50% { box-shadow: 0 0 20px color-mix(in srgb, var(--acc) 100%, transparent); transform: scale(1.35); }
+}
+.fm-step h3 {
+  font-family: var(--sans);
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: -0.01em;
+  color: #e2e8f0;
+  margin: 12px 0 6px;
+}
+.fm-step p {
+  font-size: 14px;
+  color: var(--dim);
+  margin: 0;
+  line-height: 1.6;
+}
+.fm-step code {
+  font-family: var(--mono);
+  font-size: 12.5px;
+  color: var(--acc);
+  display: block;
+  margin-top: 12px;
+  overflow-wrap: break-word;
+}
+/* ── mcp ledger ──────────────────────────────────── */
+.fm-ledger {
+  margin-top: 48px;
+  border: 1px solid var(--hairline);
+  border-radius: 8px;
+  overflow-x: auto;
+}
+.fm-ledger table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  font-size: 15px;
+  min-width: 640px;
+}
+.fm-ledger th:nth-child(1), .fm-ledger td:nth-child(1) { width: 40%; }
+.fm-ledger th:nth-child(2), .fm-ledger td:nth-child(2) { width: 22%; }
+.fm-ledger th:nth-child(3), .fm-ledger td:nth-child(3) { width: 38%; }
+.fm-ledger th {
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--dim);
+  text-align: left;
+  padding: 12px 18px;
+  background: var(--carbon);
+  border-bottom: 1px solid var(--hairline);
+}
+.fm-ledger td {
+  position: relative;
+  padding: 13px 18px 13px 24px;
+  border-bottom: 1px solid var(--hairline);
+  vertical-align: top;
+  font-size: 1em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: font-size 0.18s ease, font-weight 0.18s ease, color 0.18s ease;
+}
+.fm-ledger tbody tr {
+  --acc: var(--acc1);
+  --pd: 0s;
+  position: relative;
+  transition: background 0.2s ease;
+}
+.fm-ledger tbody tr:nth-child(8n+1) { --acc: var(--acc1); --pd: 0s; }
+.fm-ledger tbody tr:nth-child(8n+2) { --acc: var(--acc2); --pd: 0.2s; }
+.fm-ledger tbody tr:nth-child(8n+3) { --acc: var(--acc3); --pd: 0.4s; }
+.fm-ledger tbody tr:nth-child(8n+4) { --acc: var(--acc4); --pd: 0.6s; }
+.fm-ledger tbody tr:nth-child(8n+5) { --acc: var(--acc1); --pd: 0.8s; }
+.fm-ledger tbody tr:nth-child(8n+6) { --acc: var(--acc2); --pd: 1s; }
+.fm-ledger tbody tr:nth-child(8n+7) { --acc: var(--acc3); --pd: 1.2s; }
+.fm-ledger tbody tr:nth-child(8n+8) { --acc: var(--acc4); --pd: 1.4s; }
+/* glowing graph line running down the left edge of each row */
+.fm-ledger tbody tr td:first-child::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: var(--acc);
+  animation: fm-row-glow 2.2s ease-in-out infinite;
+  animation-delay: var(--pd);
+}
+@keyframes fm-row-glow {
+  0%, 100% { box-shadow: 0 0 4px color-mix(in srgb, var(--acc) 45%, transparent); opacity: 0.6; }
+  50% { box-shadow: 0 0 14px 1px color-mix(in srgb, var(--acc) 100%, transparent); opacity: 1; }
+}
+.fm-ledger tbody tr:hover {
+  background: color-mix(in srgb, var(--acc) 16%, transparent);
+}
+.fm-ledger tbody tr:hover td {
+  font-size: calc(1em + 2pt);
+  font-weight: 600;
+}
+.fm-ledger tbody tr:hover td:first-child::before {
+  width: 6px;
+  animation-play-state: paused;
+  opacity: 1;
+  box-shadow: 0 0 24px 3px color-mix(in srgb, var(--acc) 100%, transparent);
+}
+.fm-ledger tbody tr:hover .pkg {
+  color: var(--bright);
+}
+.fm-ledger tbody tr:hover .what {
+  color: var(--text);
+}
+.fm-ledger tbody tr:hover .install {
+  color: var(--acc);
+}
+.fm-ledger tr:last-child td {
+  border-bottom: 0;
+}
+.fm-ledger .pkg {
+  font-family: var(--mono);
+  font-size: 14px;
+  white-space: nowrap;
+}
+.fm-ledger .install {
+  font-family: var(--mono);
+  font-size: 13px;
+  color: var(--dim);
+  white-space: nowrap;
+}
+.fm-ledger .what {
+  color: var(--mute);
+  font-size: 14px;
+}
+@media (prefers-reduced-motion: reduce) {
+  .fm-ledger tbody tr td:first-child::before {
+    animation: none !important;
+  }
+}
+
+/* ── responsive ──────────────────────────────────── */
+@media (max-width: 1000px) {
+  .fm-flow { grid-template-columns: repeat(2, 1fr); }
+  .fm-flow .fm-step:nth-child(2)::after,
+  .fm-flow .fm-step:nth-child(2)::before { display: none; }
+}
+@media (max-width: 600px) {
+  .fm-flow { grid-template-columns: 1fr; }
+  .fm-step:not(:last-child)::after,
+  .fm-step:not(:last-child)::before { display: none !important; }
+  .fm-sec { padding: 72px 0; }
+  .fm-sec + .fm-sec { padding-top: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .fm-step,
+  .fm-step:not(:last-child)::after,
+  .fm-step .n::before {
+    animation: none !important;
+    transition: none;
+  }
+}

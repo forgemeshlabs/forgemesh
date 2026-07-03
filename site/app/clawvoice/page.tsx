@@ -202,7 +202,6 @@ const structuredData = [
     operatingSystem: 'macOS, Linux, Windows via WSL2',
     url: 'https://forgemesh.io/clawvoice',
     downloadUrl: 'https://github.com/forgemeshlabs/clawvoice-x402',
-    softwareVersion: '0.3.18',
     author: {
       '@type': 'Organization',
       name: 'ForgeMesh Labs',
@@ -350,7 +349,7 @@ export default function ClawVoicePage() {
             {[
               ['62', 'first-day installs observed'],
               ['31', 'language codes in the global guide'],
-              ['0.3.18', 'current release bundle'],
+              ['x402', 'pay-per-call voice pricing'],
               ['Base', 'USDC wallet network'],
             ].map(([value, label]) => (
               <div key={label} className="border-l border-white/[0.08] pl-5">
