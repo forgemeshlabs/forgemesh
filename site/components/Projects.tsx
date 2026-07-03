@@ -62,6 +62,7 @@ const projects = [
     status: 'active',
     github: 'https://github.com/forgemeshlabs/clawvoice-x402',
     url: 'https://forgemesh.io/clawvoice',
+    clawhub: 'https://clawhub.ai/forgemeshlabs/skills/clawvoice-x402',
   },
   {
     name: 'ASO Audit MCP',
@@ -176,9 +177,20 @@ export function Projects() {
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-[10px] font-mono px-2 py-1 rounded border border-white/[0.08] text-slate-500 hover:text-slate-300 hover:border-white/20 transition-colors"
-                      aria-label={`${proj.name} live site`}
+                      aria-label={`${proj.name} website`}
                     >
-                      live ↗
+                      website
+                    </a>
+                  )}
+                  {proj.clawhub && (
+                    <a
+                      href={proj.clawhub}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-[10px] font-mono px-2 py-1 rounded border border-white/[0.08] text-slate-500 hover:text-slate-300 hover:border-white/20 transition-colors"
+                      aria-label={`${proj.name} on ClawHub`}
+                    >
+                      ClawHub
                     </a>
                   )}
                   {proj.npm && (
