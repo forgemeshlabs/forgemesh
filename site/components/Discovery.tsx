@@ -25,8 +25,8 @@ const AGENT_NODES = ['/.well-known/x402', '/openapi.json', '/llms.txt', 'MCP man
 // ─── 3D Node Graph ───────────────────────────────────────────────────────────
 
 function NodeGraph() {
-  const W = 640, H = 260;
-  const lx = 130, rx = W - 130;
+  const W = 720, H = 260;
+  const lx = 150, rx = W - 150;
   const ys = [50, 105, 160, 215];
 
   const connections = [
@@ -110,7 +110,7 @@ function NodeGraph() {
           <motion.text
             x={lx - 14} y={ys[i] + 4}
             textAnchor="end"
-            fontSize="10"
+            fontSize="13"
             fontFamily="var(--font-geist-mono, monospace)"
             fill="rgba(148,163,184,0.6)"
             initial={{ opacity: 0, x: lx - 6 }}
@@ -147,7 +147,7 @@ function NodeGraph() {
           <motion.text
             x={rx + 14} y={ys[i] + 4}
             textAnchor="start"
-            fontSize="10"
+            fontSize="13"
             fontFamily="var(--font-geist-mono, monospace)"
             fill="rgba(147,197,253,0.7)"
             initial={{ opacity: 0, x: rx + 6 }}
@@ -163,7 +163,7 @@ function NodeGraph() {
       <motion.text
         x={lx} y={H - 6}
         textAnchor="middle"
-        fontSize="9"
+        fontSize="11"
         fontFamily="var(--font-geist-mono, monospace)"
         fill="rgba(148,163,184,0.35)"
         letterSpacing="3"
@@ -176,7 +176,7 @@ function NodeGraph() {
       <motion.text
         x={rx} y={H - 6}
         textAnchor="middle"
-        fontSize="9"
+        fontSize="11"
         fontFamily="var(--font-geist-mono, monospace)"
         fill="rgba(147,197,253,0.45)"
         letterSpacing="3"
@@ -339,14 +339,14 @@ export function Discovery() {
         {/* Context */}
         <div className="mb-16 space-y-5 max-w-2xl">
           <RevealParagraph delay={0.1}>
-            <p className="text-sm text-slate-500 leading-relaxed">
+            <p className="text-lg text-slate-400 leading-relaxed">
               In the early internet, Google crawlers learned to read robots.txt, sitemaps, metadata,
               links, and structured pages. Those conventions became the foundation of modern SEO —
               invisible infrastructure that shaped how the world finds information.
             </p>
           </RevealParagraph>
           <RevealParagraph delay={0.15}>
-            <p className="text-sm text-slate-500 leading-relaxed">
+            <p className="text-lg text-slate-400 leading-relaxed">
               A similar pattern is beginning to emerge for autonomous agents. Instead of indexing
               webpages for humans, new crawlers are probing APIs, MCP servers, OpenAPI specs, and
               x402 payment endpoints to understand what services exist, what they cost, how they
@@ -392,7 +392,7 @@ export function Discovery() {
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ delay: 0.6 + i * 0.07, duration: 0.4 }}
                   >
-                    <span className={`text-sm font-mono transition-colors duration-200 ${activeRow === i ? 'text-slate-300' : 'text-slate-500'}`}>
+                    <span className={`text-base font-mono transition-colors duration-200 ${activeRow === i ? 'text-slate-300' : 'text-slate-500'}`}>
                       {row.web}
                     </span>
                     <div className="px-6 flex items-center">
@@ -406,7 +406,7 @@ export function Discovery() {
                         transition={{ duration: 1.5, repeat: activeRow === i ? Infinity : 0 }}
                       />
                     </div>
-                    <span className={`text-sm font-mono transition-colors duration-200 ${activeRow === i ? 'text-blue-300' : 'text-slate-600'}`}>
+                    <span className={`text-base font-mono transition-colors duration-200 ${activeRow === i ? 'text-blue-300' : 'text-slate-600'}`}>
                       {row.agent}
                     </span>
                   </motion.div>
@@ -419,7 +419,7 @@ export function Discovery() {
         {/* Closing */}
         <div className="max-w-2xl space-y-5">
           <RevealParagraph delay={0.1}>
-            <p className="text-sm text-slate-500 leading-relaxed">
+            <p className="text-lg text-slate-400 leading-relaxed">
               The ecosystem is still primitive, fragmented, and experimental. But the patterns are
               recognizable to anyone who watched the early web form its own conventions.
             </p>

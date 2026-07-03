@@ -146,7 +146,7 @@ export function Projects() {
           <h2 className="text-3xl sm:text-4xl font-medium text-slate-100 tracking-tight">
             Active systems
           </h2>
-          <p className="mt-4 text-slate-400 max-w-xl">
+          <p className="mt-4 text-base text-slate-400 max-w-xl">
             Published packages and services currently running in production.
             Each one is a discrete, independently deployable component.
           </p>
@@ -156,17 +156,17 @@ export function Projects() {
           {projects.map(proj => (
             <article
               key={proj.name}
-              className="group relative p-6 rounded-xl border border-white/[0.07] bg-white/[0.02] hover:border-blue-500/20 hover:bg-blue-500/[0.03] transition-all"
+              className="fm-glow-card group relative p-6 rounded-xl border border-white/[0.07] bg-white/[0.02] hover:bg-blue-500/[0.03] transition-all"
             >
               <div className="flex items-start justify-between mb-4">
                 <div>
                   <div className="flex items-center gap-2 mb-1">
-                    <h3 className="font-mono text-sm font-medium text-slate-200">{proj.name}</h3>
-                    <span className="text-[10px] font-mono text-slate-600">{proj.surface}</span>
+                    <h3 className="font-mono text-base font-medium text-slate-200">{proj.name}</h3>
+                    <span className="text-xs font-mono text-slate-600">{proj.surface}</span>
                   </div>
                   <div className="flex items-center gap-1.5">
                     <span className="w-1.5 h-1.5 rounded-full bg-green-400 animate-pulse-slow" />
-                    <span className="text-[10px] text-green-500 font-mono">status: {proj.status}</span>
+                    <span className="text-xs text-green-500 font-mono">status: {proj.status}</span>
                   </div>
                 </div>
 
@@ -220,13 +220,13 @@ export function Projects() {
                 </div>
               </div>
 
-              <p className="text-sm text-slate-500 leading-relaxed mb-4">{proj.description}</p>
+              <p className="text-base text-slate-500 leading-relaxed mb-4">{proj.description}</p>
 
               <div className="flex flex-wrap gap-1.5">
                 {proj.tags.map(tag => (
                   <span
                     key={tag}
-                    className="text-[10px] px-2 py-0.5 rounded-full border border-white/[0.06] text-slate-600"
+                    className="text-xs px-2 py-0.5 rounded-full border border-white/[0.06] text-slate-600"
                   >
                     {tag}
                   </span>

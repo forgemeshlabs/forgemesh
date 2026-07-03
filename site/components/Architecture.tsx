@@ -38,7 +38,7 @@ const stages = [
 
 export function Architecture() {
   return (
-    <section id="architecture" className="py-32 px-6 bg-[#050509]">
+    <section id="architecture" className="py-20 px-6 bg-[#050509]">
       <div className="max-w-6xl mx-auto">
         <div className="mb-16">
           <p className="text-xs tracking-widest uppercase text-blue-400/70 mb-4">Architecture</p>
