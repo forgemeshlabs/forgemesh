@@ -316,7 +316,7 @@ export default function ClawVoicePage() {
                 </span>
               </div>
               <h1 className="max-w-3xl text-4xl font-semibold leading-[0.98] tracking-tight text-slate-50 sm:text-6xl">
-                ClawVoice gives your agent a voice.
+                ClawVoice gives your OpenClaw Agent a voice.
               </h1>
               <p className="mt-6 max-w-2xl text-base leading-8 text-slate-400 sm:text-lg">
                 Spoken replies, terminal push-to-talk, hosted x402 fallback, local voice setup, and a small-balance Base
