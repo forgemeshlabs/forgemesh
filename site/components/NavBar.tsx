@@ -51,7 +51,7 @@ export function NavBar() {
             href="https://kit.forgemesh.io"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex h-8 items-center gap-2 rounded border border-blue-500/40 bg-blue-500/10 px-2.5 text-sm font-medium text-slate-100 transition-all hover:border-blue-400/70 hover:bg-blue-500/20 hover:text-white active:translate-y-px sm:px-4"
+            className="flex h-8 shrink-0 items-center gap-2 whitespace-nowrap rounded border border-blue-500/40 bg-blue-500/10 px-2.5 text-sm font-medium text-slate-100 transition-all hover:border-blue-400/70 hover:bg-blue-500/20 hover:text-white active:translate-y-px sm:px-4"
           >
             <span className="sm:hidden">Free kit</span>
             <span className="hidden sm:inline">Free x402 checklist</span>
