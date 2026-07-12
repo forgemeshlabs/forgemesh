@@ -1,5 +1,14 @@
 const projects = [
   {
+    name: 'x402 Proxy',
+    surface: 'Hosted platform',
+    description:
+      'Paywall your website data — no code, set up in minutes. Paste a URL, set a price, and AI agents pay per request in USDC on Base. Monthly self-custody payouts, 15% commission.',
+    tags: ['x402', 'paywall', 'self-serve', 'USDC', 'Base'],
+    status: 'active',
+    url: 'https://proxy.forgemesh.io',
+  },
+  {
     name: 'coinopai-mcp',
     surface: 'MCP package',
     description:
@@ -31,6 +40,28 @@ const projects = [
     npm: 'https://www.npmjs.com/package/@forgemeshlabs/disruption-intelligence-mcp',
     github: 'https://github.com/forgemeshlabs/disruption-intelligence-mcp',
     url: 'https://disruption.forgemesh.io',
+  },
+  {
+    name: 'x402-ads',
+    surface: 'Hosted x402 API + npm middleware',
+    description:
+      'Intent-aware ad network for agent traffic. Publishers integrate one Express middleware to monetise x402 probes. Self-serve registration ($0.10 USDC), paid analytics (network stats, intent trends, demand signals, reports) from $0.005–$0.05 on Base mainnet.',
+    tags: ['x402', 'ads', 'intent network', 'USDC', 'Base'],
+    status: 'active',
+    npm: 'https://www.npmjs.com/package/@forgemeshlabs/x402-ads',
+    github: 'https://github.com/forgemeshlabs/x402-ads',
+    url: 'https://ads.forgemesh.io',
+  },
+  {
+    name: 'x402-ads-mcp',
+    surface: 'MCP package',
+    description:
+      'MCP server for the x402 Ads intent network. 7 tools — campaign management, intent queries, publisher analytics, and network stats. Agents manage ad campaigns and query demand signals through natural tool calls.',
+    tags: ['MCP', 'x402', 'ads', 'intent network'],
+    status: 'active',
+    npm: 'https://www.npmjs.com/package/@forgemeshlabs/x402-ads-mcp',
+    github: 'https://github.com/forgemeshlabs/x402-ads-mcp',
+    url: 'https://ads.forgemesh.io',
   },
   {
     name: 'affiliate-router-mcp',
