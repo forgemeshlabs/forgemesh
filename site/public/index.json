@@ -3,7 +3,7 @@
   "description": "ForgeMesh Labs publishes production-running MCP servers, x402 payment surfaces, commercial intelligence APIs, affiliate routing, and machine-readable discovery infrastructure for agent commerce.",
   "canonical_url": "https://forgemesh.io",
   "x": "https://x.com/forgemeshlabs",
-  "updated": "2026-07-02",
+  "updated": "2026-07-13",
   "discovery": {
     "website": "https://forgemesh.io/",
     "sitemap": "https://forgemesh.io/sitemap.xml",
@@ -11,6 +11,13 @@
     "openapi": "https://forgemesh.io/openapi.json"
   },
   "projects": [
+    {
+      "name": "x402 Proxy",
+      "type": "hosted_platform",
+      "page": "https://forgemesh.io/proxy",
+      "hosted_api": "https://proxy.forgemesh.io",
+      "description": "Self-serve paywall platform: wrap any URL you control with x402 USDC micropayments on Base. Agents pay per request. Payments settle non-custodially to a per-creator on-chain 0xSplits contract (85% creator / 15% ForgeMesh); the platform never holds creator earnings."
+    },
     {
       "name": "coinopai-mcp",
       "type": "mcp_package",
@@ -93,6 +100,15 @@
     }
   ],
   "hosted_apis": [
+    {
+      "name": "x402 Proxy",
+      "url": "https://proxy.forgemesh.io",
+      "page": "https://forgemesh.io/proxy",
+      "openapi": "https://proxy.forgemesh.io/openapi.json",
+      "llms": "https://proxy.forgemesh.io/llms.txt",
+      "x402": "https://proxy.forgemesh.io/.well-known/x402.json",
+      "pricing": "Creator-set, $0.001-$100 per request. 15% platform commission; 85% to the creator, enforced on-chain."
+    },
     {
       "name": "CoinOpAI x402 API",
       "url": "https://x402.coinopai.com",
