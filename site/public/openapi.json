@@ -101,6 +101,32 @@
           ]
         }
       }
+    },
+    "/proxy": {
+      "get": {
+        "summary": "Get the x402 Proxy product page",
+        "description": "Public product page for x402 Proxy, the ForgeMesh Labs self-serve paywall platform. Creators verify a domain they control, wrap any URL with an x402 USDC paywall on Base mainnet, and are paid per agent request. Payments settle non-custodially to a per-creator on-chain 0xSplits contract (85% creator / 15% platform); ForgeMesh never holds creator earnings. Live app: https://proxy.forgemesh.io",
+        "tags": [
+          "x402",
+          "paywall",
+          "agent commerce",
+          "USDC",
+          "Base",
+          "non-custodial"
+        ],
+        "responses": {
+          "200": {
+            "description": "HTML product page for x402 Proxy",
+            "content": {
+              "text/html": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
     }
   }
 }

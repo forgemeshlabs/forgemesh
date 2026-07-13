@@ -3,10 +3,11 @@ const projects = [
     name: 'x402 Proxy',
     surface: 'Hosted platform',
     description:
-      'Paywall your website data — no code, set up in minutes. Paste a URL, set a price, and AI agents pay per request in USDC on Base. Monthly self-custody payouts, 15% commission.',
-    tags: ['x402', 'paywall', 'self-serve', 'USDC', 'Base'],
+      'Paywall your website data — no code, set up in minutes. Paste a URL, set a price, and AI agents pay per request in USDC on Base. Payments settle straight to your own on-chain split (85/15) — non-custodial, we never hold your earnings.',
+    tags: ['x402', 'paywall', 'self-serve', 'USDC', 'Base', 'non-custodial'],
     status: 'active',
     url: 'https://proxy.forgemesh.io',
+    page: '/proxy',
   },
   {
     name: 'coinopai-mcp',
@@ -202,6 +203,15 @@ export function Projects() {
                 </div>
 
                 <div className="flex items-center gap-2">
+                  {proj.page && (
+                    <a
+                      href={proj.page}
+                      className="text-[10px] font-mono px-2 py-1 rounded border border-blue-400/25 text-blue-300/80 hover:text-blue-200 hover:border-blue-400/50 transition-colors"
+                      aria-label={`${proj.name} overview`}
+                    >
+                      overview
+                    </a>
+                  )}
                   {proj.url && (
                     <a
                       href={proj.url}

@@ -30,6 +30,14 @@
 - Source: https://github.com/forgemeshlabs/aso-audit-mcp
 
 ## Hosted x402 APIs
+- x402 Proxy (self-serve paywall platform): https://proxy.forgemesh.io
+  - Product page: https://forgemesh.io/proxy
+  - OpenAPI: https://proxy.forgemesh.io/openapi.json
+  - x402 metadata: https://proxy.forgemesh.io/.well-known/x402.json
+  - llms.txt: https://proxy.forgemesh.io/llms.txt
+  - What it does: anyone can paywall a URL they control. Verify domain ownership by DNS TXT record, paste a URL, set a price ($0.001-$100 per request), and AI agents pay in USDC on Base mainnet to call it. No code required.
+  - Payouts are non-custodial: each payment settles directly to a per-creator immutable 0xSplits contract on Base, allocating 85% to the creator and 15% to ForgeMesh. The platform never takes possession of creator earnings and cannot redirect them. Distribution is permissionless — ForgeMesh triggers it monthly and pays the gas, but creators can trigger it themselves at any time.
+  - Pricing: free to set up, no subscription. 15% commission per payment.
 - CoinOpAI x402 API: https://x402.coinopai.com
 - ImageGen x402 API: https://imagegen.coinopai.com
 - Disruption Intelligence API: https://disruption.forgemesh.io
@@ -67,4 +75,5 @@
 - Travel Agent MCP: https://github.com/forgemeshlabs/travel-agent-mcp
 - ClawVoice x402: https://github.com/forgemeshlabs/clawvoice-x402
 - ClawVoice page: https://forgemesh.io/clawvoice
+- x402 Proxy page: https://forgemesh.io/proxy
 - ForgeMesh: https://github.com/forgemeshlabs/forgemesh
