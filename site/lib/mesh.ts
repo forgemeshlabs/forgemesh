@@ -13,6 +13,14 @@ export interface ServiceDef {
 /** The fleet, in board order: first four = top row, last four = bottom row. */
 export const FLEET: ServiceDef[] = [
   {
+    id: 'proxy',
+    name: 'x402 Proxy',
+    brand: 'ForgeMesh',
+    domain: 'proxy.forgemesh.io',
+    tagline: 'Paywall any URL you control. Agents pay per request; payouts are non-custodial.',
+    page: '/proxy',
+  },
+  {
     id: 'notary',
     name: 'Notary',
     brand: 'ForgeMesh',
