@@ -48,6 +48,16 @@ export function NavBar() {
 
         <div className="flex items-center gap-2 md:ml-8">
           <a
+            href="https://x402swag.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex h-8 shrink-0 items-center gap-2 whitespace-nowrap rounded border border-white/[0.12] px-2.5 text-sm font-medium text-slate-300 transition-all hover:border-blue-500/50 hover:text-white active:translate-y-px sm:px-4"
+          >
+            <span className="sm:hidden">Swag</span>
+            <span className="hidden sm:inline">x402 Swag</span>
+          </a>
+
+          <a
             href="https://kit.forgemesh.io"
             target="_blank"
             rel="noopener noreferrer"
