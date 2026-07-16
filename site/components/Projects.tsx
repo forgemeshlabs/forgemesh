@@ -168,10 +168,10 @@ const projects = [
   },
   {
     name: 'forgemesh',
-    surface: 'Umbrella package',
+    surface: 'Utility registry',
     description:
-      'Ecosystem umbrella package and public registry for the ForgeMesh website, discovery files, and package index.',
-    tags: ['ecosystem', 'npm', 'documentation'],
+      'Utility package and public registry for ForgeMesh product pages, discovery files, and package index.',
+    tags: ['utility', 'registry', 'npm', 'documentation'],
     status: 'active',
     npm: 'https://www.npmjs.com/package/forgemesh',
     github: 'https://github.com/forgemeshlabs/forgemesh',
