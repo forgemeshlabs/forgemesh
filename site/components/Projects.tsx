@@ -10,6 +10,15 @@ const projects = [
     page: '/proxy',
   },
   {
+    name: 'x402 Utility APIs',
+    surface: 'Hosted x402 API',
+    description:
+      'ForgeMesh Utility Grid: a broad x402 utility surface for agents that need small paid jobs on demand. OCR, PDFs, vision, audio, embeddings, web extraction, dictionary lookup, games, math, logic, geo, space, and content-signal checks. POST JSON, receive a 402 challenge, pay with any x402 client, then retry for the result.',
+    tags: ['x402', 'utility APIs', 'games', 'math', 'USDC', 'Base'],
+    status: 'active',
+    url: 'https://x402.forgemesh.io',
+  },
+  {
     name: 'coinopai-mcp',
     surface: 'MCP package',
     description:
