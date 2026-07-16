@@ -171,10 +171,11 @@ const projects = [
     surface: 'Utility registry',
     description:
       'Utility package and public registry for ForgeMesh product pages, discovery files, and package index.',
-    tags: ['utility', 'registry', 'npm', 'documentation'],
+    tags: ['utility', 'x402', 'USDC', 'Base', 'registry', 'npm'],
     status: 'active',
     npm: 'https://www.npmjs.com/package/forgemesh',
     github: 'https://github.com/forgemeshlabs/forgemesh',
+    url: 'https://forgemesh.io',
   },
 ];
 
@@ -229,7 +230,7 @@ export function Projects() {
                       className="text-[10px] font-mono px-2 py-1 rounded border border-white/[0.08] text-slate-500 hover:text-slate-300 hover:border-white/20 transition-colors"
                       aria-label={`${proj.name} website`}
                     >
-                      website
+                      product
                     </a>
                   )}
                   {proj.clawhub && (
