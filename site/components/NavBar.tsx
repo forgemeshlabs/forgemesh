@@ -3,6 +3,21 @@
 import { useState, useEffect } from 'react';
 import { ForgeMeshMark } from './ForgeMeshMark';
 
+const productLinks = [
+  { label: 'All project cards', href: '/#projects' },
+  { label: 'x402 Utility APIs', href: 'https://x402.forgemesh.io' },
+  { label: 'x402 Proxy', href: 'https://proxy.forgemesh.io' },
+  { label: 'Voice', href: 'https://voice.forgemesh.io' },
+  { label: 'Disruption Intel', href: 'https://disruption.forgemesh.io' },
+  { label: 'Anomaly Tracker', href: 'https://anomaly.forgemesh.io' },
+  { label: 'Ads', href: 'https://ads.forgemesh.io' },
+  { label: 'Travel Agent', href: 'https://travel-agent.forgemesh.io' },
+  { label: 'Notary', href: 'https://notary.forgemesh.io' },
+  { label: 'CoinOpAI API', href: 'https://x402.coinopai.com' },
+  { label: 'ImageGen', href: 'https://imagegen.coinopai.com' },
+  { label: 'ClawVoice', href: '/clawvoice' },
+];
+
 export function NavBar() {
   const [scrolled, setScrolled] = useState(false);
 
@@ -32,7 +47,37 @@ export function NavBar() {
           {[
             { label: 'How It Pays', href: '/#x402' },
             { label: 'MCP', href: '/#mcp' },
-            { label: 'Projects', href: '/#projects' },
+          ].map(item => (
+            <a
+              key={item.label}
+              href={item.href}
+              className="text-sm text-slate-400 hover:text-slate-200 transition-colors"
+            >
+              {item.label}
+            </a>
+          ))}
+          <div className="group relative flex h-16 items-center">
+            <a
+              href="/#projects"
+              className="text-sm text-slate-400 hover:text-slate-200 transition-colors"
+            >
+              Projects
+            </a>
+            <div className="invisible absolute left-1/2 top-full w-64 -translate-x-1/2 translate-y-1 rounded border border-white/[0.08] bg-[#050509]/95 p-2 opacity-0 shadow-2xl shadow-black/40 backdrop-blur-md transition-all duration-150 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100 group-focus-within:visible group-focus-within:translate-y-0 group-focus-within:opacity-100">
+              {productLinks.map(link => (
+                <a
+                  key={link.href}
+                  href={link.href}
+                  className="block rounded px-3 py-2 text-sm text-slate-400 transition-colors hover:bg-blue-500/10 hover:text-slate-100 focus:bg-blue-500/10 focus:text-slate-100 focus:outline-none"
+                  target={link.href.startsWith('http') ? '_blank' : undefined}
+                  rel={link.href.startsWith('http') ? 'noopener noreferrer' : undefined}
+                >
+                  {link.label}
+                </a>
+              ))}
+            </div>
+          </div>
+          {[
             { label: 'Philosophy', href: '/#philosophy' },
             { label: 'Discovery', href: '/#discovery' },
           ].map(item => (
