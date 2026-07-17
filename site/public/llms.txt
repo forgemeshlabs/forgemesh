@@ -8,6 +8,12 @@
 - OpenAPI discovery: https://forgemesh.io/openapi.json
 - Sitemap: https://forgemesh.io/sitemap.xml
 
+## Paid Machine-Readable Product Registry (x402)
+Agents can buy the full ForgeMesh product registry — every production service, its data category, route counts, price ranges, and per-endpoint input schemas with worked examples — via x402 USDC micropayments on Base. First probe is free: POST either endpoint with no payment to receive a 402 challenge carrying the input schema, price, and a worked example.
+- Product catalog ($0.05): POST https://x402.forgemesh.io/fleet-products — all products with category, summary, route count, price range
+- Product detail ($0.05): POST https://x402.forgemesh.io/fleet-product-detail — one product's full endpoint sheet: routes, input schemas, examples, prices
+- Payment discovery: https://forgemesh.io/.well-known/x402.json
+
 ## MCP Packages
 - coinopai-mcp: https://www.npmjs.com/package/coinopai-mcp
 - forgemesh-imagegen: https://www.npmjs.com/package/forgemesh-imagegen
