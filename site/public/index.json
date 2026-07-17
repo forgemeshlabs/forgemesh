@@ -8,7 +8,8 @@
     "website": "https://forgemesh.io/",
     "sitemap": "https://forgemesh.io/sitemap.xml",
     "llms": "https://forgemesh.io/llms.txt",
-    "openapi": "https://forgemesh.io/openapi.json"
+    "openapi": "https://forgemesh.io/openapi.json",
+    "x402_payment_discovery": "https://forgemesh.io/.well-known/x402.json"
   },
   "projects": [
     {
@@ -154,5 +155,17 @@
       "price_range": "$0.01-$0.25",
       "network": "Base mainnet (eip155:8453)"
     }
-  ]
+  ],
+  "paid_registry": {
+    "protocol": "x402 (USDC on Base, eip155:8453)",
+    "note": "Machine-readable product registry for agents. Unpaid POST returns a free 402 challenge with schema and example.",
+    "catalog": {
+      "resource": "https://x402.forgemesh.io/fleet-products",
+      "price": "$0.05"
+    },
+    "detail": {
+      "resource": "https://x402.forgemesh.io/fleet-product-detail",
+      "price": "$0.05"
+    }
+  }
 }

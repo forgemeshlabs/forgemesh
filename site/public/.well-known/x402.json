@@ -1,0 +1,91 @@
+{
+  "x402Version": 2,
+  "provider": {
+    "name": "ForgeMesh Labs",
+    "url": "https://forgemesh.io",
+    "contact": "clawdbotworker@gmail.com"
+  },
+  "note": "Paid machine-readable registry for the ForgeMesh fleet. Human-readable versions remain free on this site. Unpaid POST returns a free 402 challenge with schema, price, and worked example.",
+  "resources": [
+    {
+      "resource": "https://x402.forgemesh.io/discovery-theory",
+      "type": "http",
+      "method": "POST",
+      "x402Version": 2,
+      "accepts": [
+        {
+          "scheme": "exact",
+          "network": "eip155:8453",
+          "maxAmountRequired": "0.01",
+          "payTo": "0x84A1827F1705C257e80771fDc2B152Aea4A57a08",
+          "asset": "USDC"
+        }
+      ],
+      "description": "ForgeMesh's written theory of agent-commerce discovery: 10 structured tenets covering free discovery surfaces, the 402 challenge as a free probe, upstream risk tiering, price laddering, and monetizing the shortcut without hiding the underlying map. For agents or builders reasoning about how x402 services should be designed."
+    },
+    {
+      "resource": "https://x402.forgemesh.io/fleet-product-detail",
+      "type": "http",
+      "method": "POST",
+      "x402Version": 2,
+      "accepts": [
+        {
+          "scheme": "exact",
+          "network": "eip155:8453",
+          "maxAmountRequired": "0.05",
+          "payTo": "0x84A1827F1705C257e80771fDc2B152Aea4A57a08",
+          "asset": "USDC"
+        }
+      ],
+      "description": "Full endpoint sheet for one ForgeMesh x402 product: every route, HTTP method, price, description, input schema, and (where available) a worked response example — everything needed to call it correctly on the first try. Required `product` matches an id or name from fleet-products (case-insensitive); an unknown value returns the valid id list."
+    },
+    {
+      "resource": "https://x402.forgemesh.io/fleet-products",
+      "type": "http",
+      "method": "POST",
+      "x402Version": 2,
+      "accepts": [
+        {
+          "scheme": "exact",
+          "network": "eip155:8453",
+          "maxAmountRequired": "0.05",
+          "payTo": "0x84A1827F1705C257e80771fDc2B152Aea4A57a08",
+          "asset": "USDC"
+        }
+      ],
+      "description": "Paid, machine-readable registry of ForgeMesh's production x402 agent services: what each one is, its category, route count, and USD price range. Spans 11 services across onchain intel, voice, travel, econ intel, commerce, infra, and this Utility Grid itself. Optional category filter. Call fleet-product-detail next for full endpoint schemas and worked examples of any listed service."
+    },
+    {
+      "resource": "https://x402.forgemesh.io/forgemesh-philosophy",
+      "type": "http",
+      "method": "POST",
+      "x402Version": 2,
+      "accepts": [
+        {
+          "scheme": "exact",
+          "network": "eip155:8453",
+          "maxAmountRequired": "0.01",
+          "payTo": "0x84A1827F1705C257e80771fDc2B152Aea4A57a08",
+          "asset": "USDC"
+        }
+      ],
+      "description": "ForgeMesh's founding philosophy in structured JSON: the headline, two intro paragraphs, three numbered principles, and the closing line, verbatim from forgemesh.io. The human-readable page is free; this is the machine-readable agent edition, for citing or reasoning about ForgeMesh's values inside an agent pipeline."
+    },
+    {
+      "resource": "https://x402.forgemesh.io/swag-store-catalog",
+      "type": "http",
+      "method": "POST",
+      "x402Version": 2,
+      "accepts": [
+        {
+          "scheme": "exact",
+          "network": "eip155:8453",
+          "maxAmountRequired": "0.05",
+          "payTo": "0x84A1827F1705C257e80771fDc2B152Aea4A57a08",
+          "asset": "USDC"
+        }
+      ],
+      "description": "Live catalog of the x402swag.com storefront: product categories, items with price ranges, and exactly how to buy — free browse/cart/checkout, dynamic-price settlement via x402 USDC or card, and the store's own $0.05 one-call agent shortcut. Optional category filter (apparel, drinkware, stickers, crew-necks, v-necks)."
+    }
+  ]
+}
