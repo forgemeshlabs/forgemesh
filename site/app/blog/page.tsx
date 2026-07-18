@@ -8,14 +8,15 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
   title: 'Blog — x402, Agent Payments, and the Machine Economy | ForgeMesh Labs',
   description:
-    'Field reports from operators of 11 production x402 services: protocol news, ecosystem data from our own crawler, and what it actually takes to sell to AI agents.',
+    'Field reports from operators of 11 x402 services and counting: protocol news, ecosystem data from our own crawler, and what it actually takes to sell to AI agents.',
   alternates: { canonical: '/blog' },
   openGraph: {
     title: 'ForgeMesh Labs Blog — x402 and the Machine Economy',
     description:
-      'Protocol news and original ecosystem data from operators of 11 production x402 services.',
+      'Protocol news and original ecosystem data from operators of 11 x402 services and counting.',
     type: 'website',
     url: 'https://forgemesh.io/blog',
+    images: ['/fm-nobg.png'],
   },
 };
 
@@ -33,7 +34,7 @@ export default function BlogIndex() {
   return (
     <>
       <NavBar />
-      <main className="min-h-screen overflow-hidden bg-[#050509] text-slate-100">
+      <main id="main-content" className="min-h-screen overflow-hidden bg-[#050509] text-slate-100">
         <section className="relative px-6 pb-16 pt-28 sm:pt-36">
           <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_18%_16%,rgba(59,130,246,0.20),transparent_32%),radial-gradient(circle_at_84%_18%,rgba(14,165,233,0.10),transparent_30%)]" />
           <div className="mx-auto max-w-4xl">
@@ -47,7 +48,7 @@ export default function BlogIndex() {
               Notes from the machine economy
             </h1>
             <p className="mt-6 max-w-2xl text-base leading-8 text-slate-400 sm:text-lg">
-              We operate 11 x402 services with 500+ paid endpoints and crawl the discovery ecosystem
+              We operate 11 x402 services and counting, with 500+ paid endpoints, and crawl the discovery ecosystem
               three times a day. This is where we publish what we learn — protocol news, original
               data, and operator field notes.
             </p>

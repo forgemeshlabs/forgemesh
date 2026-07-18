@@ -235,7 +235,7 @@ export default function ProxyPage() {
   return (
     <>
       <NavBar />
-      <main className="min-h-screen overflow-hidden bg-[#050509] text-slate-100">
+      <main id="main-content" className="min-h-screen overflow-hidden bg-[#050509] text-slate-100">
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
