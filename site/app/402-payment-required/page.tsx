@@ -26,10 +26,12 @@ export const metadata: Metadata = {
     publishedTime: '2026-07-18',
     modifiedTime: LAST_UPDATED,
     authors: ['ForgeMesh Labs'],
+    images: ['/fm-nobg.png'],
   },
   twitter: {
     card: 'summary_large_image',
     site: '@forgemeshlabs',
+    images: ['/fm-nobg.png'],
     title: '402 Payment Required: The HTTP Status Code That Waited 30 Years',
     description:
       'Reserved in 1997, dormant for decades, activated by AI agents. The full history of HTTP 402.',
@@ -150,7 +152,7 @@ const structuredData = {
         '@type': 'Organization',
         name: 'ForgeMesh Labs',
         url: 'https://forgemesh.io',
-        description: 'Operators of 11 production x402 services that serve live 402 responses on 500+ paid endpoints.',
+        description: 'Operators of 11 x402 services and counting, serving live 402 responses on 500+ paid endpoints.',
       },
       publisher: { '@type': 'Organization', name: 'ForgeMesh Labs', url: 'https://forgemesh.io' },
       datePublished: '2026-07-18',
@@ -179,7 +181,7 @@ export default function PaymentRequiredPage() {
   return (
     <>
       <NavBar />
-      <main className="min-h-screen overflow-hidden bg-[#050509] text-slate-100">
+      <main id="main-content" className="min-h-screen overflow-hidden bg-[#050509] text-slate-100">
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
@@ -210,7 +212,7 @@ export default function PaymentRequiredPage() {
             </p>
             <p className="mt-4 rounded border border-blue-500/20 bg-blue-500/[0.06] px-4 py-3 text-sm leading-6 text-slate-300">
               <strong className="text-blue-300">First-hand source:</strong> ForgeMesh Labs serves
-              live 402 responses in production on 500+ paid endpoints across 11 services. This
+              live 402 responses in production on 500+ paid endpoints across 11 services and counting. This
               history is written by people who ship the status code daily.
             </p>
           </div>

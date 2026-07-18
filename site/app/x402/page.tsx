@@ -26,10 +26,12 @@ export const metadata: Metadata = {
     publishedTime: '2026-07-18',
     modifiedTime: LAST_UPDATED,
     authors: ['ForgeMesh Labs'],
+    images: ['/fm-nobg.png'],
   },
   twitter: {
     card: 'summary_large_image',
     site: '@forgemeshlabs',
+    images: ['/fm-nobg.png'],
     title: 'What is x402? The Payment Protocol for AI Agents, Explained',
     description:
       'How AI agents pay for web resources over HTTP — from an operator running 11 live x402 services.',
@@ -158,7 +160,7 @@ const structuredData = {
         '@type': 'Organization',
         name: 'ForgeMesh Labs',
         url: 'https://forgemesh.io',
-        description: 'Operators of 11 production x402 services with 500+ paid endpoints.',
+        description: 'Operators of 11 x402 services and counting, with 500+ paid endpoints.',
       },
       publisher: { '@type': 'Organization', name: 'ForgeMesh Labs', url: 'https://forgemesh.io' },
       datePublished: '2026-07-18',
@@ -187,7 +189,7 @@ export default function X402Page() {
   return (
     <>
       <NavBar />
-      <main className="min-h-screen overflow-hidden bg-[#050509] text-slate-100">
+      <main id="main-content" className="min-h-screen overflow-hidden bg-[#050509] text-slate-100">
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
@@ -242,7 +244,7 @@ export default function X402Page() {
             </p>
             <p className="mt-4 rounded border border-blue-500/20 bg-blue-500/[0.06] px-4 py-3 text-sm leading-6 text-slate-300">
               <strong className="text-blue-300">Why trust this page:</strong> ForgeMesh Labs operates
-              11 production x402 services with 500+ paid endpoints priced from $0.001, and runs an
+              11 x402 services and counting — 500+ paid endpoints priced from $0.001 —, and runs an
               independent crawler of the x402 discovery ecosystem. Everything here is written from
               first-hand operation, not summaries of summaries.
             </p>

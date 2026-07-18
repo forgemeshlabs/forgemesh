@@ -1,0 +1,78 @@
+{
+  "name": "ForgeMesh Labs",
+  "description": "ForgeMesh Labs operates 11 x402 services and counting, with 500+ paid endpoints for AI agents: utilities, market intelligence, anomaly detection, disruption intel, travel planning, voice/TTS, image generation, notarization, and ads. Pay per call in USDC on Base via the x402 protocol — no accounts, no API keys.",
+  "url": "https://forgemesh.io",
+  "provider": {
+    "organization": "ForgeMesh Labs",
+    "url": "https://forgemesh.io"
+  },
+  "version": "1.0.0",
+  "documentationUrl": "https://forgemesh.io/x402",
+  "supportedProtocols": ["x402", "mcp", "http"],
+  "note": "ForgeMesh services are x402-paid HTTP APIs and MCP servers, not an A2A JSON-RPC endpoint. This card exists for agent discovery: start at the machine index or the paid product registry below.",
+  "capabilities": {
+    "streaming": false,
+    "pushNotifications": false
+  },
+  "discovery": {
+    "machineIndex": "https://forgemesh.io/index.json",
+    "llms": "https://forgemesh.io/llms.txt",
+    "openapi": "https://forgemesh.io/openapi.json",
+    "x402PaymentDiscovery": "https://forgemesh.io/.well-known/x402.json",
+    "paidProductRegistry": {
+      "catalog": "POST https://x402.forgemesh.io/fleet-products ($0.05 USDC via x402)",
+      "productDetail": "POST https://x402.forgemesh.io/fleet-product-detail ($0.05 USDC via x402)",
+      "freeIndex": "https://x402.forgemesh.io/llms.txt"
+    }
+  },
+  "skills": [
+    {
+      "id": "utility-grid",
+      "name": "x402 Utility Grid",
+      "description": "400+ paid utility endpoints from $0.001: OCR, PDFs, vision, embeddings, math, conversions, geo/space data, dictionaries, chess, web extraction, and x402 ecosystem intelligence.",
+      "url": "https://x402.forgemesh.io"
+    },
+    {
+      "id": "market-intelligence",
+      "name": "Market Intelligence (Kronos)",
+      "description": "Calibrated market context, forecast ranges, risk state, decision journaling, and outcome audits.",
+      "url": "https://x402.coinopai.com"
+    },
+    {
+      "id": "anomaly-detection",
+      "name": "Onchain Anomaly Detection",
+      "description": "Real-time mempool, whale, stablecoin-depeg, and trend anomaly signals.",
+      "url": "https://anomaly.forgemesh.io"
+    },
+    {
+      "id": "disruption-intel",
+      "name": "Disruption Intelligence",
+      "description": "Layoff and economic-disruption signals with source-health tracking.",
+      "url": "https://disruption.forgemesh.io"
+    },
+    {
+      "id": "travel",
+      "name": "Travel Planning & Trip Intelligence",
+      "description": "Day-trip and getaway planning, transit options, weather-aware plans, travel disruption pulse.",
+      "url": "https://travel-agent.forgemesh.io"
+    },
+    {
+      "id": "voice",
+      "name": "Voice / TTS",
+      "description": "Neural text-to-speech, 20 voices, 31 languages, paid per request.",
+      "url": "https://voice.forgemesh.io"
+    },
+    {
+      "id": "imagegen",
+      "name": "Image Generation",
+      "description": "Text-to-image, background removal, HD upscaling.",
+      "url": "https://imagegen.coinopai.com"
+    },
+    {
+      "id": "notary",
+      "name": "AI Inference Notary",
+      "description": "Signed Ed25519 attestations and Merkle anchoring for AI prompt/response pairs; free verification.",
+      "url": "https://notary.forgemesh.io"
+    }
+  ]
+}

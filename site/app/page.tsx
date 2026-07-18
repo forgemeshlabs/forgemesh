@@ -90,7 +90,7 @@ export default function Home() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, '\\u003c') }}
       />
       <NavBar />
-      <main>
+      <main id="main-content">
         <Hero />
 
         <div className="fm-root">

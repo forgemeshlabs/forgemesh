@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
   title: 'Linux Foundation Now Governs x402: Visa, Mastercard, Stripe Among 40 Members | ForgeMesh Labs',
   description:
-    'On July 14, 2026, the Linux Foundation launched the x402 Foundation operationally with 40 members — Visa, Mastercard, American Express, Stripe, Google, AWS, Cloudflare, Coinbase and more. Analysis from operators of 11 live x402 services: what changed, and what it means for anyone selling to AI agents.',
+    'On July 14, 2026, the Linux Foundation launched the x402 Foundation operationally with 40 members — Visa, Mastercard, American Express, Stripe, Google, AWS, Cloudflare, Coinbase and more. Analysis from operators of 11 live x402 services and counting: what changed, and what it means for anyone selling to AI agents.',
   keywords: [
     'x402 Foundation', 'Linux Foundation x402', 'x402 news', 'agent payments standard',
     'x402 protocol governance', 'internet-native payments', 'AI agent payments',
@@ -25,10 +25,12 @@ export const metadata: Metadata = {
     publishedTime: PUBLISHED,
     modifiedTime: PUBLISHED,
     authors: ['ForgeMesh Labs'],
+    images: ['/fm-nobg.png'],
   },
   twitter: {
     card: 'summary_large_image',
     site: '@forgemeshlabs',
+    images: ['/fm-nobg.png'],
     title: 'The Linux Foundation Now Governs x402 — and the Card Networks Just Joined',
     description: '40 members, neutral governance, one payment layer for AI agents. Operator analysis.',
   },
@@ -46,7 +48,7 @@ const structuredData = {
         '@type': 'Organization',
         name: 'ForgeMesh Labs',
         url: 'https://forgemesh.io',
-        description: 'Operators of 11 production x402 services with 500+ paid endpoints.',
+        description: 'Operators of 11 x402 services and counting, with 500+ paid endpoints.',
       },
       publisher: { '@type': 'Organization', name: 'ForgeMesh Labs', url: 'https://forgemesh.io' },
       datePublished: PUBLISHED,
@@ -78,7 +80,7 @@ export default function ArticlePage() {
   return (
     <>
       <NavBar />
-      <main className="min-h-screen overflow-hidden bg-[#050509] text-slate-100">
+      <main id="main-content" className="min-h-screen overflow-hidden bg-[#050509] text-slate-100">
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
@@ -193,7 +195,7 @@ export default function ArticlePage() {
               What we see from inside the ecosystem
             </h2>
             <p className="mt-4 text-base leading-8 text-slate-400">
-              ForgeMesh operates 11 x402 services with 500+ paid endpoints, and our crawler indexes
+              ForgeMesh operates 11 x402 services and counting, with 500+ paid endpoints, and our crawler indexes
               the x402 Bazaar discovery catalog three times a day. Our own numbers as of July 18,
               2026: roughly <strong className="text-slate-200">25,000 live paid resources</strong>{' '}
               from <strong className="text-slate-200">1,136 unique sellers</strong> — seller count
