@@ -22,6 +22,20 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'x402-bazaar-economy-data-july-2026',
+    date: '2026-07-18',
+    title: 'The x402 Economy, Measured: One Seller Is 40% of the Catalog',
+    excerpt:
+      'Original data from our Bazaar crawler: 24,816 live paid resources, 1,136 sellers (+3% in three days), 98% on Base, two-thirds priced between $0.01–$0.10 — and a single wallet behind 40% of all listings. Honest measurements of a very young market.',
+  },
+  {
+    slug: 'lessons-from-500-paid-x402-endpoints',
+    date: '2026-07-18',
+    title: 'Five Lessons From Running 500+ Paid x402 Endpoints',
+    excerpt:
+      'Upstream APIs will rug-pull you mid-build. An empty 402 body is a lost sale. Never charge a buyer for your own errors. Field notes on what selling to AI agents actually looks like, from the operators of 11 live x402 services and counting.',
+  },
+  {
     slug: 'x402-foundation-linux-foundation-launch',
     date: '2026-07-18',
     title: 'The Linux Foundation Now Governs x402 — and Visa, Mastercard, and Stripe Just Joined',
