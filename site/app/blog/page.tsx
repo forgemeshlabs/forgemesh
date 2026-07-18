@@ -22,6 +22,20 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'open-usd-circle-stablecoin-x402',
+    date: '2026-07-18',
+    title: 'Open USD Blindsided Circle — and Previewed the Fight Over Agent Money',
+    excerpt:
+      'On June 30, 140+ companies — Stripe, Visa, Mastercard, BlackRock, and Circle’s own partner Coinbase — launched a stablecoin that gives reserve yield back to participants. CRCL fell 17%. Why the attack is on the business model, not the token, and what it means for x402, where USDC settles ~98% of agent payments.',
+  },
+  {
+    slug: 'why-ai-agents-need-crypto',
+    date: '2026-07-18',
+    title: 'AI × Blockchain Never Made Sense at Conferences. Then Agents Needed Wallets.',
+    excerpt:
+      'For years every conference coupled AI to crypto and none of it was coherent — models on-chain, tokens for compute. The real convergence came from the opposite direction: agents became economic actors and needed money without a human in the loop. That was crypto’s actual product all along.',
+  },
+  {
     slug: 'x402-bazaar-economy-data-july-2026',
     date: '2026-07-18',
     title: 'The x402 Economy, Measured: One Seller Is 40% of the Catalog',
