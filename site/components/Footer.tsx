@@ -1,6 +1,9 @@
 import { ForgeMeshMark } from './ForgeMeshMark';
 
 const links = [
+  { label: 'What is x402?', href: '/x402' },
+  { label: 'HTTP 402 history', href: '/402-payment-required' },
+  { label: 'Blog', href: '/blog' },
   { label: 'GitHub', href: 'https://github.com/forgemeshlabs' },
   { label: 'X / Twitter', href: 'https://x.com/forgemeshlabs' },
   {
