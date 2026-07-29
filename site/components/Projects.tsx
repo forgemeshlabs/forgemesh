@@ -10,6 +10,16 @@ const projects = [
     page: '/proxy',
   },
   {
+    name: 'ForgeMesh Library',
+    surface: 'Hosted x402 API',
+    description:
+      'Public-domain knowledge base for agents: 860 classic books served through 129 paid endpoints — 111 browsable genre shelves, full-text literature search with citations, chapters, quotes, and 12 ask-a-book Q&A routes. Education-safe: no license, no API key, pay per call in USDC on Base. Built for tutoring agents, reading apps, and educational software.',
+    tags: ['x402', 'knowledge base', 'books', 'education', 'USDC', 'Base'],
+    status: 'active',
+    url: 'https://library.forgemesh.io',
+    shelves: 'https://library.forgemesh.io/#shelves',
+  },
+  {
     name: 'x402 Utility APIs',
     surface: 'Hosted x402 API',
     description:
@@ -231,6 +241,17 @@ export function Projects() {
                       aria-label={`${proj.name} website`}
                     >
                       product
+                    </a>
+                  )}
+                  {proj.shelves && (
+                    <a
+                      href={proj.shelves}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-[10px] font-mono px-2 py-1 rounded border border-white/[0.08] text-slate-500 hover:text-slate-300 hover:border-white/20 transition-colors"
+                      aria-label={`${proj.name} shelves`}
+                    >
+                      shelves
                     </a>
                   )}
                   {proj.clawhub && (
