@@ -68,6 +68,13 @@ export const FLEET: ServiceDef[] = [
     tagline: 'Live flight-fare intelligence feeds.',
   },
   {
+    id: 'library',
+    name: 'Library',
+    brand: 'ForgeMesh',
+    domain: 'library.forgemesh.io',
+    tagline: 'Public-domain knowledge base: 860 classic books — search, chapters, quotes, per-book Q&A. Education-safe.',
+  },
+  {
     id: 'coinopai',
     name: 'CoinOpAI x402',
     brand: 'CoinOpAI',
