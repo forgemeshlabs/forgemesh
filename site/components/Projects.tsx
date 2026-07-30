@@ -13,7 +13,7 @@ const projects = [
     name: 'ForgeMesh Library',
     surface: 'Hosted x402 API',
     description:
-      'Public-domain knowledge base for agents: 860 classic books served through 129 paid endpoints — 111 browsable genre shelves, full-text literature search with citations, chapters, quotes, and 12 ask-a-book Q&A routes. Education-safe: no license, no API key, pay per call in USDC on Base. Built for tutoring agents, reading apps, and educational software.',
+      'Public-domain knowledge base for agents: tens of thousands of classic books behind paid endpoints — browsable genre shelves, full-text literature search with citations, chapters, quotes, and ask-a-book Q&A routes. Education-safe: no license, no API key, pay per call in USDC on Base. Built for tutoring agents, reading apps, and educational software. Live counts on the product page.',
     tags: ['x402', 'knowledge base', 'books', 'education', 'USDC', 'Base'],
     status: 'active',
     url: 'https://library.forgemesh.io',
