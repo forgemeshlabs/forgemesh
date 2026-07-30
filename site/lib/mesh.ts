@@ -72,7 +72,8 @@ export const FLEET: ServiceDef[] = [
     name: 'Library',
     brand: 'ForgeMesh',
     domain: 'library.forgemesh.io',
-    tagline: 'Public-domain knowledge base: 860 classic books — search, chapters, quotes, per-book Q&A. Education-safe.',
+    tagline: 'Public-domain knowledge base: tens of thousands of classic books — search, chapters, quotes, per-book Q&A. Education-safe.',
+    npm: '@forgemeshlabs/library-mcp',
   },
   {
     id: 'coinopai',
