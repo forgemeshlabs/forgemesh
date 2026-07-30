@@ -18,6 +18,7 @@ const projects = [
     status: 'active',
     url: 'https://library.forgemesh.io',
     shelves: 'https://library.forgemesh.io/#shelves',
+    npm: 'https://www.npmjs.com/package/@forgemeshlabs/library-mcp',
   },
   {
     name: 'x402 Utility APIs',
