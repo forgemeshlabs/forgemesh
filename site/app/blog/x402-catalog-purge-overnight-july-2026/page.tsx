@@ -123,6 +123,18 @@ export default function Page() {
               watching. The catalog operator cleaned house — correctly, in our view; the purged
               listings were overwhelmingly spam — and simply never said so.
             </p>
+            <p className="mt-4 text-base leading-8 text-slate-400">
+              One number we can report with some satisfaction:{' '}
+              <strong className="text-slate-200">
+                every one of our own 800+ listings survived the night.
+              </strong>{' '}
+              Not by luck, and not by reacting fast — there was nothing to react to. The sweep was
+              enforcing what turned out to be our existing checklist: canonical URLs, typed protocol
+              versions, honest metadata, a real working endpoint behind every listing. Best
+              practices are invisible right up until the night an unannounced purge selects for
+              them. That week, they were the difference between our catalog and 43% of everyone
+              else&apos;s.
+            </p>
 
             <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
               The same week, the ground moved
