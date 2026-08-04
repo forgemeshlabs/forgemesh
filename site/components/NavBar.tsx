@@ -48,6 +48,7 @@ export function NavBar() {
           {[
             { label: 'What is x402?', href: '/x402' },
             { label: 'Blog', href: '/blog' },
+            { label: 'The Brief', href: '/brief' },
             { label: 'MCP', href: '/#mcp' },
           ].map(item => (
             <a
