@@ -22,6 +22,13 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'x402-500-character-description-limit',
+    date: '2026-08-04',
+    title: 'The 500-Character Cliff: One Extra Byte Makes an x402 Listing Silently Unpayable',
+    excerpt:
+      'No error, no warning — a description one character over an undocumented limit makes an x402 resource silently unpurchasable. We measured the cliff at exactly 500 characters, credit the seller who filed the public report, and show the defense we run across 800+ listings. The upstream fix still hasn&apos;t merged.',
+  },
+  {
     slug: 'x402-catalog-purge-overnight-july-2026',
     date: '2026-08-04',
     title: '43% of the x402 Catalog Vanished Overnight. Nobody Announced It.',
