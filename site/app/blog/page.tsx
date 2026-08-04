@@ -22,6 +22,13 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'x402-catalog-purge-overnight-july-2026',
+    date: '2026-08-04',
+    title: '43% of the x402 Catalog Vanished Overnight. Nobody Announced It.',
+    excerpt:
+      'Six days after we published the 40% whale, it was deleted — along with 10,700 other listings — between two of our crawler snapshots. The story of the silent late-July purge, the ground shifting under x402 sellers, our own zero-sale weekend, and the two new buyer wallets that showed up twelve hours after we fixed what nobody could see.',
+  },
+  {
     slug: 'open-usd-circle-stablecoin-x402',
     date: '2026-07-18',
     title: 'Open USD Blindsided Circle — and Previewed the Fight Over Agent Money',
