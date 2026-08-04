@@ -90,7 +90,11 @@ export function Footer() {
 
         <div className="mt-12 pt-6 border-t border-white/[0.04] flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
           <p className="text-[11px] text-slate-800 font-mono">
-            © 2025 ForgeMesh Labs. MIT License.
+            © 2026 GSD Contracts LLC, d/b/a ForgeMesh Labs. MIT License. ·{' '}
+            <a href="tel:+12817270506" className="hover:text-slate-500">
+              +1 (281) 727-0506
+            </a>{' '}
+            (AI receptionist, always on)
           </p>
           <div className="flex items-center gap-1.5">
             <span className="w-1.5 h-1.5 rounded-full bg-green-500 animate-pulse-slow" />
