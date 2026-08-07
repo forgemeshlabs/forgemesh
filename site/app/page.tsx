@@ -17,10 +17,10 @@ export const metadata: Metadata = {
 
 const MCP_ROWS: { pkg: string; href: string; wraps: string; install: string }[] = [
   {
-    pkg: 'kronos-forgemesh-mcp',
-    href: 'https://www.npmjs.com/package/kronos-forgemesh-mcp',
+    pkg: '@forgemeshlabs/kronos-forgemesh-mcp',
+    href: 'https://www.npmjs.com/package/@forgemeshlabs/kronos-forgemesh-mcp',
     wraps: 'Kronos market intelligence',
-    install: 'npx -y kronos-forgemesh-mcp',
+    install: 'npx -y @forgemeshlabs/kronos-forgemesh-mcp',
   },
   {
     pkg: '@forgemeshlabs/x402-notary-mcp',

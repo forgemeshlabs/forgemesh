@@ -36,7 +36,7 @@ const structuredData = {
   applicationCategory: 'DeveloperApplication',
   operatingSystem: 'Any MCP-compatible client',
   url: 'https://forgemesh.io/kronos',
-  downloadUrl: 'https://www.npmjs.com/package/kronos-forgemesh-mcp',
+  downloadUrl: 'https://www.npmjs.com/package/@forgemeshlabs/kronos-forgemesh-mcp',
   codeRepository: 'https://github.com/forgemeshlabs/kronos-forgemesh-mcp',
   description:
     'MCP server for auditable crypto market intelligence with automatic x402 USDC payments on Base.',
@@ -50,7 +50,7 @@ function InstallPanel() {
         <span className="font-mono text-[11px] uppercase tracking-[0.18em] text-slate-500">Install over stdio</span>
         <Terminal className="h-4 w-4 text-blue-300" strokeWidth={1.6} aria-hidden="true" />
       </div>
-      <pre className="overflow-x-auto p-5 text-sm leading-7 text-slate-200"><code>npx -y kronos-forgemesh-mcp</code></pre>
+      <pre className="overflow-x-auto p-5 text-sm leading-7 text-slate-200"><code>npx -y @forgemeshlabs/kronos-forgemesh-mcp</code></pre>
       <p className="border-t border-white/[0.07] px-5 py-4 text-xs leading-6 text-slate-500">
         Set <span className="font-mono text-slate-300">WALLET_PRIVATE_KEY</span> to a dedicated low-balance Base wallet.
         Listing tools is free; payment occurs only when a tool is invoked.
@@ -87,7 +87,7 @@ export default function KronosPage() {
               </p>
               <div className="mt-9 flex flex-col gap-3 sm:flex-row">
                 <a
-                  href="https://www.npmjs.com/package/kronos-forgemesh-mcp"
+                  href="https://www.npmjs.com/package/@forgemeshlabs/kronos-forgemesh-mcp"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-2 rounded-lg bg-slate-100 px-5 py-3 text-sm font-medium text-slate-950 transition hover:bg-blue-100 active:translate-y-px"
