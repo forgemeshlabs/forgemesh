@@ -18,6 +18,7 @@ setup or API-key negotiation.
 
 | Project | Surface | What it does |
 | --- | --- | --- |
+| [kronos-forgemesh-mcp](https://github.com/forgemeshlabs/kronos-forgemesh-mcp) | MCP package + x402 API | Eight paid tools for calibrated crypto ranges, signals, risk context, decision journals, whale flows, and outcome audits. Install with `npx -y kronos-forgemesh-mcp`. |
 | [coinopai-mcp](https://github.com/forgemeshlabs/coinopai-mcp) | MCP package | MCP tools for x402-paid CoinOpAI market intelligence, Kronos signals, trade decisions, and automation prompts. |
 | [forgemesh-imagegen](https://github.com/forgemeshlabs/imagegen-mcp) | MCP package | MCP wrapper for x402-paid image generation through the hosted ImageGen API. |
 | [@forgemeshlabs/disruption-intelligence-mcp](https://github.com/forgemeshlabs/disruption-intelligence-mcp) | MCP package | MCP wrapper for source-linked WARN, workforce disruption, company, region, territory, watchlist, Ripple Signals, Ripple Paths, and Disruption Intelligence Ripple Reports. |
@@ -33,6 +34,7 @@ setup or API-key negotiation.
 
 | API | Discovery | Notes |
 | --- | --- | --- |
+| [Kronos by ForgeMesh](https://kronos.forgemesh.io) | [.well-known/x402.json](https://kronos.forgemesh.io/.well-known/x402.json) | Auditable crypto market intelligence from $0.02-$0.15 per call on Base mainnet. |
 | [CoinOpAI x402 API](https://x402.coinopai.com) | [index.json](https://x402.coinopai.com/index.json) | Paid crypto intelligence and automation prompt retrieval. |
 | [ImageGen x402 API](https://imagegen.coinopai.com) | [index.json](https://imagegen.coinopai.com/index.json) | Paid image generation tiers on Base mainnet. |
 | [Disruption Intelligence API](https://disruption.forgemesh.io) | [index.json](https://disruption.forgemesh.io/index.json) | 23 paid endpoints, including Ripple Signals and the Disruption Intelligence Ripple Report, from $0.01-$0.25 per call. |

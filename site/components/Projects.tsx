@@ -41,6 +41,18 @@ const projects = [
     url: 'https://x402.coinopai.com',
   },
   {
+    name: 'Kronos by ForgeMesh',
+    surface: 'Hosted x402 API + MCP package',
+    description:
+      'Auditable crypto market intelligence for agents: calibrated price ranges, current signal and risk context, preflight checks, decision journals, whale-flow context, and outcome audits. Eight MCP tools from $0.02-$0.15 per call in USDC on Base.',
+    tags: ['MCP', 'x402', 'market intelligence', 'audit', 'USDC', 'Base'],
+    status: 'active',
+    page: '/kronos',
+    npm: 'https://www.npmjs.com/package/kronos-forgemesh-mcp',
+    github: 'https://github.com/forgemeshlabs/kronos-forgemesh-mcp',
+    url: 'https://kronos.forgemesh.io',
+  },
+  {
     name: 'forgemesh-imagegen',
     surface: 'MCP package',
     description:
