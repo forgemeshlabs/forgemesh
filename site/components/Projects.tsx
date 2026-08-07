@@ -48,7 +48,7 @@ const projects = [
     tags: ['MCP', 'x402', 'market intelligence', 'audit', 'USDC', 'Base'],
     status: 'active',
     page: '/kronos',
-    npm: 'https://www.npmjs.com/package/kronos-forgemesh-mcp',
+    npm: 'https://www.npmjs.com/package/@forgemeshlabs/kronos-forgemesh-mcp',
     github: 'https://github.com/forgemeshlabs/kronos-forgemesh-mcp',
     url: 'https://kronos.forgemesh.io',
   },

@@ -18,7 +18,7 @@ setup or API-key negotiation.
 
 | Project | Surface | What it does |
 | --- | --- | --- |
-| [kronos-forgemesh-mcp](https://github.com/forgemeshlabs/kronos-forgemesh-mcp) | MCP package + x402 API | Eight paid tools for calibrated crypto ranges, signals, risk context, decision journals, whale flows, and outcome audits. Install with `npx -y kronos-forgemesh-mcp`. |
+| [@forgemeshlabs/kronos-forgemesh-mcp](https://github.com/forgemeshlabs/kronos-forgemesh-mcp) | MCP package + x402 API | Eight paid tools for calibrated crypto ranges, signals, risk context, decision journals, whale flows, and outcome audits. Install with `npx -y @forgemeshlabs/kronos-forgemesh-mcp`. |
 | [coinopai-mcp](https://github.com/forgemeshlabs/coinopai-mcp) | MCP package | MCP tools for x402-paid CoinOpAI market intelligence, Kronos signals, trade decisions, and automation prompts. |
 | [forgemesh-imagegen](https://github.com/forgemeshlabs/imagegen-mcp) | MCP package | MCP wrapper for x402-paid image generation through the hosted ImageGen API. |
 | [@forgemeshlabs/disruption-intelligence-mcp](https://github.com/forgemeshlabs/disruption-intelligence-mcp) | MCP package | MCP wrapper for source-linked WARN, workforce disruption, company, region, territory, watchlist, Ripple Signals, Ripple Paths, and Disruption Intelligence Ripple Reports. |
