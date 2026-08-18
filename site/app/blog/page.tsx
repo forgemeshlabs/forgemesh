@@ -22,6 +22,13 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'stripe-openrouter-genius-act-agent-payment-rules',
+    date: '2026-08-18',
+    title: 'Three Different People Just Started Writing the Rules for How Agents Pay',
+    excerpt:
+      'In one week: Stripe reportedly bought OpenRouter for $7B+, Google&apos;s AP2 protocol moved to FIDO Alliance governance, and Treasury published the GENIUS Act stablecoin licensing rules in the Federal Register. What each rulebook means for x402 and MPP sellers — and the first 24-hour read on the MPP rail since the acquisition news broke.',
+  },
+  {
     slug: 'x402-500-character-description-limit',
     date: '2026-08-04',
     title: 'The 500-Character Cliff: One Extra Byte Makes an x402 Listing Silently Unpayable',
