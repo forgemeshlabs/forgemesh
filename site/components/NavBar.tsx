@@ -2,6 +2,16 @@
 
 import { useState, useEffect } from 'react';
 import { ForgeMeshMark } from './ForgeMeshMark';
+import { RailTicker } from './RailTicker';
+
+// Reference/explainer pages, folded into one "Learn" dropdown to keep the
+// top level short (operator request, 2026-08-19).
+const learnLinks = [
+  { label: 'What is x402?', href: '/x402' },
+  { label: 'MCP servers', href: '/#mcp' },
+  { label: 'Philosophy', href: '/#philosophy' },
+  { label: 'Discovery', href: '/#discovery' },
+];
 
 const productLinks = [
   { label: 'All project cards', href: '/#projects' },
@@ -46,10 +56,9 @@ export function NavBar() {
 
         <div className="hidden md:flex items-center gap-8">
           {[
-            { label: 'What is x402?', href: '/x402' },
             { label: 'Blog', href: '/blog' },
             { label: 'The Brief', href: '/brief' },
-            { label: 'MCP', href: '/#mcp' },
+            { label: 'Texas Watch', href: '/texas' },
           ].map(item => (
             <a
               key={item.label}
@@ -80,18 +89,25 @@ export function NavBar() {
               ))}
             </div>
           </div>
-          {[
-            { label: 'Philosophy', href: '/#philosophy' },
-            { label: 'Discovery', href: '/#discovery' },
-          ].map(item => (
+          <div className="group relative flex h-16 items-center">
             <a
-              key={item.label}
-              href={item.href}
+              href="/x402"
               className="text-sm text-slate-400 hover:text-slate-200 transition-colors"
             >
-              {item.label}
+              Learn
             </a>
-          ))}
+            <div className="invisible absolute left-1/2 top-full w-56 -translate-x-1/2 translate-y-1 rounded border border-white/[0.08] bg-[#050509]/95 p-2 opacity-0 shadow-2xl shadow-black/40 backdrop-blur-md transition-all duration-150 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100 group-focus-within:visible group-focus-within:translate-y-0 group-focus-within:opacity-100">
+              {learnLinks.map(link => (
+                <a
+                  key={link.href}
+                  href={link.href}
+                  className="block rounded px-3 py-2 text-sm text-slate-400 transition-colors hover:bg-blue-500/10 hover:text-slate-100 focus:bg-blue-500/10 focus:text-slate-100 focus:outline-none"
+                >
+                  {link.label}
+                </a>
+              ))}
+            </div>
+          </div>
         </div>
 
         <div className="flex items-center gap-2 md:ml-8">
@@ -116,20 +132,6 @@ export function NavBar() {
           </a>
 
           <a
-            href="https://discord.gg/ZwAUUfeQG"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="AI Builders Unite Discord server 1515068093401923665"
-            title="AI Builders Unite Discord server 1515068093401923665"
-            className="flex h-8 items-center gap-2 rounded border border-white/[0.12] px-2.5 text-sm text-slate-300 transition-all hover:border-blue-500/50 hover:text-white active:translate-y-px sm:px-4"
-          >
-            <svg viewBox="0 0 24 24" className="h-4 w-4 fill-current" aria-hidden="true">
-              <path d="M20.32 4.36A19.9 19.9 0 0015.36 2.8a.08.08 0 00-.08.04c-.22.4-.46.92-.62 1.34a18.6 18.6 0 00-5.58 0 13.5 13.5 0 00-.63-1.34.08.08 0 00-.08-.04 19.84 19.84 0 00-4.96 1.56.07.07 0 00-.03.03C.24 9.1-.61 13.7-.18 18.25a.08.08 0 00.03.05 20.1 20.1 0 006.08 3.06.08.08 0 00.09-.03c.47-.64.9-1.32 1.26-2.04a.08.08 0 00-.04-.11 13.22 13.22 0 01-1.9-.9.08.08 0 01-.01-.13c.13-.1.25-.2.37-.3a.08.08 0 01.08-.01c3.96 1.8 8.24 1.8 12.16 0a.08.08 0 01.09.01c.12.1.24.2.37.3a.08.08 0 01-.01.13c-.6.36-1.24.66-1.9.9a.08.08 0 00-.04.11c.37.72.79 1.4 1.26 2.04a.08.08 0 00.09.03 20.03 20.03 0 006.08-3.06.08.08 0 00.03-.05c.5-5.26-.84-9.82-3.54-13.86a.07.07 0 00-.03-.03zM7.8 15.49c-1.2 0-2.18-1.1-2.18-2.45s.96-2.45 2.18-2.45c1.22 0 2.2 1.11 2.18 2.45 0 1.35-.96 2.45-2.18 2.45zm8.14 0c-1.2 0-2.18-1.1-2.18-2.45s.96-2.45 2.18-2.45c1.22 0 2.2 1.11 2.18 2.45 0 1.35-.96 2.45-2.18 2.45z" />
-            </svg>
-            <span className="hidden sm:inline">Discord</span>
-          </a>
-
-          <a
             href="https://github.com/forgemeshlabs"
             target="_blank"
             rel="noopener noreferrer"
@@ -142,6 +144,7 @@ export function NavBar() {
           </a>
         </div>
       </div>
+      <RailTicker />
     </nav>
   );
 }

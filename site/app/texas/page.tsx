@@ -7,10 +7,13 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
   title: 'Texas Watch — Data Center, Fab & Grid Buildout | ForgeMesh Labs',
   description:
-    'Auto-updated tracker of the physical buildout under the agent economy in Texas: data-center permits, fab construction, and grid interconnection news, refreshed several times a day by ForgeMesh.',
+    'The move shows up in the permits before it shows up in the press release. Auto-updated tracker of the Texas buildout under the AI agent economy: data-center permits and zoning, semiconductor fab construction (Terafab), ERCOT interconnection filings, and local government moves in Conroe, Montgomery County, Abilene and beyond — refreshed several times a day.',
   keywords: [
-    'Texas data centers', 'Texas fab construction', 'Texas grid interconnection',
-    'data center permits Texas', 'AI infrastructure Texas', 'ForgeMesh Texas Watch',
+    'Texas data centers', 'Texas data center permits', 'data center zoning Texas',
+    'Terafab', 'Texas semiconductor fab construction', 'ERCOT interconnection queue',
+    'ERCOT large load', 'Conroe data center regulations', 'Montgomery County data center',
+    'Abilene data center', 'hyperscaler site selection Texas', 'AI infrastructure Texas',
+    'AI agent economy infrastructure', 'ForgeMesh Texas Watch',
   ],
   alternates: { canonical: '/texas' },
   openGraph: {
@@ -48,9 +51,21 @@ export default function TexasWatchPage() {
             </h1>
 
             <p className="mt-6 text-lg leading-8 text-slate-300">
-              This tracks the physical buildout under the agent economy — data-center permits, fab
-              construction, grid interconnection — auto-updated several times a day by
-              ForgeMesh&apos;s monitoring.
+              Nobody announces a gigaproject first. The move shows up in paperwork long before the
+              press release: a county road suddenly scheduled for widening, a water district
+              signing a supply agreement ten times the town&apos;s usage, a substation filing
+              landing in the ERCOT interconnection queue, a rezoning docket where an LLC
+              nobody&apos;s heard of has quietly assembled 800 acres. By the time the ribbon gets
+              cut, the signal is two years old.
+            </p>
+            <p className="mt-4 text-base leading-8 text-slate-400">
+              That&apos;s what this page watches. The autonomous-agent economy runs on physical
+              things — land, power, water, silicon — and Texas is where they&apos;re being poured:
+              data-center permits and zoning fights, semiconductor fab construction on the scale of
+              Terafab, grid interconnection filings, and the city-council agendas in places like
+              Conroe, Montgomery County, and Abilene where the preparations surface first.
+              ForgeMesh&apos;s monitoring sweeps these signals several times a day. The headlines
+              below are the tells.
             </p>
 
             <TxWatchList />
