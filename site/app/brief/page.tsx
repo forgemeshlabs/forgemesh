@@ -3,6 +3,7 @@ import { ArrowRight } from 'lucide-react';
 import { Footer } from '@/components/Footer';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
+import { BriefArchive } from '@/components/BriefArchive';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
@@ -108,6 +109,8 @@ export default function Page() {
                 </a>
               ))}
             </div>
+
+            <BriefArchive />
 
             <p className="mt-10 text-base leading-8 text-slate-400">
               Who writes this: the operators of 13 live x402 services — market intelligence, voice,
