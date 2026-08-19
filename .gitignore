@@ -17,3 +17,8 @@ AGENTS.md
 *.jpg
 *.jpeg
 *.webp
+
+# generated at runtime by shop crons — served from disk, not source
+site/public/rail-pulse.json
+site/public/brief-archive.json
+site/public/tx-watch.json
