@@ -22,18 +22,25 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'x402-bazaar-health-census-august-2026',
+    date: '2026-08-19',
+    title: 'We Health-Checked Every Seller in the x402 Bazaar. One in Four Can’t Take an Agent’s Money.',
+    excerpt:
+      'One probe per seller, all 1,225 of them: 74% pass, 206 are dead at their listed URL, 40 are serving their paid product for free without knowing it, and 15% already answer with both x402 and MPP challenges. The first health census of the agent economy — plus the measurement mistake we made on the way that explains half the problem.',
+  },
+  {
     slug: 'stripe-openrouter-genius-act-agent-payment-rules',
     date: '2026-08-18',
     title: 'Three Different People Just Started Writing the Rules for How Agents Pay',
     excerpt:
-      'In one week: Stripe reportedly bought OpenRouter for $7B+, Google&apos;s AP2 protocol moved to FIDO Alliance governance, and Treasury published the GENIUS Act stablecoin licensing rules in the Federal Register. What each rulebook means for x402 and MPP sellers — and the first 24-hour read on the MPP rail since the acquisition news broke.',
+      'In one week: Stripe reportedly bought OpenRouter for $7B+, Google’s AP2 protocol moved to FIDO Alliance governance, and Treasury published the GENIUS Act stablecoin licensing rules in the Federal Register. What each rulebook means for x402 and MPP sellers — and the first 24-hour read on the MPP rail since the acquisition news broke.',
   },
   {
     slug: 'x402-500-character-description-limit',
     date: '2026-08-04',
     title: 'The 500-Character Cliff: One Extra Byte Makes an x402 Listing Silently Unpayable',
     excerpt:
-      'No error, no warning — a description one character over an undocumented limit makes an x402 resource silently unpurchasable. We measured the cliff at exactly 500 characters, credit the seller who filed the public report, and show the defense we run across 800+ listings. The upstream fix still hasn&apos;t merged.',
+      'No error, no warning — a description one character over an undocumented limit makes an x402 resource silently unpurchasable. We measured the cliff at exactly 500 characters, credit the seller who filed the public report, and show the defense we run across 800+ listings. The upstream fix still hasn’t merged.',
   },
   {
     slug: 'x402-catalog-purge-overnight-july-2026',

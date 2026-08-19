@@ -97,7 +97,7 @@ export default function Page() {
                 measurements of the x402 Bazaar
               </a>{' '}
               showing one seller wallet behind 40% of all listings — 10,028 near-identical junk
-              resources. Six days later, between two of our crawler&apos;s thrice-daily snapshots,
+              resources. Six days later, between two of our crawler’s thrice-daily snapshots,
               that seller was gone. So was a third of everything else.
             </p>
 
@@ -133,14 +133,14 @@ export default function Page() {
               versions, honest metadata, a real working endpoint behind every listing. Best
               practices are invisible right up until the night an unannounced purge selects for
               them. That week, they were the difference between our catalog and 43% of everyone
-              else&apos;s.
+              else’s.
             </p>
 
             <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
               The same week, the ground moved
             </h2>
             <p className="mt-4 text-base leading-8 text-slate-400">
-              The purge was not an isolated event. In the same late-July window, the protocol&apos;s
+              The purge was not an isolated event. In the same late-July window, the protocol’s
               day-to-day home quietly shifted away from the single company that started it, the
               community moved venues — the old support links in the official docs now return
               &quot;Invite Invalid&quot; — and parts of the discovery API changed behavior without a
@@ -157,7 +157,7 @@ export default function Page() {
             </p>
 
             <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
-              Our quiet weekend, and what it wasn&apos;t
+              Our quiet weekend, and what it wasn’t
             </h2>
             <p className="mt-4 text-base leading-8 text-slate-400">
               In early August our own fleet — 13 paid services, 800+ listed resources — went a
@@ -172,7 +172,7 @@ export default function Page() {
               out to be short-lived evaluation wallets that sampled everything once and went dormant
               — census-takers, not customers. Meanwhile the wallets that were actively spending that
               same weekend — and they were spending, at sellers of cheap utilities and real-world
-              goods — had simply never met us. The market wasn&apos;t dark. We were unlit.
+              goods — had simply never met us. The market wasn’t dark. We were unlit.
             </p>
 
             <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
@@ -185,7 +185,7 @@ export default function Page() {
               without telling you; routes that answer buyers perfectly but are invisible to the
               health probers that decide whether you get surfaced at all. Several of these were live
               on our own services — services that passed every test we knew to run. The buyers see
-              nothing. The seller sees nothing. The sale just doesn&apos;t happen.
+              nothing. The seller sees nothing. The sale just doesn’t happen.
             </p>
             <p className="mt-4 text-base leading-8 text-slate-400">
               We fixed our fleet in a day, re-indexed everything, and rewrote our machine-facing
@@ -197,10 +197,10 @@ export default function Page() {
             </p>
 
             <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
-              What we&apos;d tell any x402 seller
+              What we’d tell any x402 seller
             </h2>
             <p className="mt-4 text-base leading-8 text-slate-400">
-              Agents don&apos;t hold grudges and they don&apos;t remember you — every task re-runs
+              Agents don’t hold grudges and they don’t remember you — every task re-runs
               the supplier choice from scratch. That cuts both ways: you can be passed over a
               thousand times and still win tomorrow morning, but only if you are present in the
               places the choosing happens, legible to the software doing the choosing, and honest

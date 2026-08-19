@@ -112,7 +112,7 @@ export default function ArticlePage() {
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:text-blue-300"
               >
-                Circle&apos;s stock fell 17% to a four-month low
+                Circle’s stock fell 17% to a four-month low
               </a>{' '}
               on the news. We settle x402 payments in USDC every day, so this one is not abstract
               for us — here is what actually happened and why it matters for anyone building in the
@@ -120,22 +120,22 @@ export default function ArticlePage() {
             </p>
 
             <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
-              The blindside: it came from Circle&apos;s own partners
+              The blindside: it came from Circle’s own partners
             </h2>
             <p className="mt-4 text-base leading-8 text-slate-400">
-              The shock wasn&apos;t that a competitor appeared — stablecoins are a $310B market and
-              rivals launch constantly. The shock was <em>who</em>: Coinbase co-created USDC&apos;s
+              The shock wasn’t that a competitor appeared — stablecoins are a $310B market and
+              rivals launch constantly. The shock was <em>who</em>: Coinbase co-created USDC’s
               ecosystem and earns billions distributing it; Visa and Mastercard had spent two years
-              publicly partnering with Circle on settlement pilots. These weren&apos;t outsiders
-              attacking the moat. They were the moat, deciding they&apos;d rather own the castle.
+              publicly partnering with Circle on settlement pilots. These weren’t outsiders
+              attacking the moat. They were the moat, deciding they’d rather own the castle.
             </p>
 
             <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
               The attack is on the business model, not the token
             </h2>
             <p className="mt-4 text-base leading-8 text-slate-400">
-              A stablecoin issuer&apos;s revenue is beautifully simple: hold billions in Treasury
-              reserves backing the token, keep the interest. Circle&apos;s entire income statement
+              A stablecoin issuer’s revenue is beautifully simple: hold billions in Treasury
+              reserves backing the token, keep the interest. Circle’s entire income statement
               is essentially that yield (minus what it pays distributors). Open USD inverts it:{' '}
               <strong className="text-slate-200">
                 participating businesses mint and redeem free and keep the reserve yield themselves
@@ -150,7 +150,7 @@ export default function ArticlePage() {
               >
                 CoinShares called it the biggest threat yet to USDC
               </a>{' '}
-              precisely because it doesn&apos;t compete on the token — it competes on who gets paid
+              precisely because it doesn’t compete on the token — it competes on who gets paid
               for holding your dollars. If you move $100M of flow, why let Circle keep the interest
               when a consortium will hand it back?
             </p>
@@ -174,13 +174,13 @@ export default function ArticlePage() {
               <a href="/blog/x402-bazaar-economy-data-july-2026" className="text-blue-400 hover:text-blue-300">
                 our crawler measures ~98% of live x402 listings settling on Base
               </a>
-              , essentially all in USDC. That&apos;s Circle&apos;s strongest emerging franchise —
-              and Open USD&apos;s backers include the companies best positioned to route agent
+              , essentially all in USDC. That’s Circle’s strongest emerging franchise —
+              and Open USD’s backers include the companies best positioned to route agent
               volume elsewhere.
             </p>
 
             <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
-              What we&apos;re doing about it (and what you should)
+              What we’re doing about it (and what you should)
             </h2>
             <ul className="mt-4 space-y-3 text-base leading-8 text-slate-400">
               <li>
@@ -193,7 +193,7 @@ export default function ArticlePage() {
                 >
                   a steep adoption battle
                 </a>{' '}
-                — consortiums are slow, and USDC&apos;s liquidity and regulatory footprint are real.
+                — consortiums are slow, and USDC’s liquidity and regulatory footprint are real.
               </li>
               <li>
                 <strong className="text-slate-200">Stay asset-agnostic by design.</strong> The{' '}
@@ -217,7 +217,7 @@ export default function ArticlePage() {
               teaches: standards outlive the companies that champion them. Circle may win, the
               consortium may win, both may — but machine payments over 402 now have card networks,
               clouds, and issuers all racing to be underneath them. For anyone selling to agents,
-              the rails just got more competitive, which means cheaper and more durable. That&apos;s
+              the rails just got more competitive, which means cheaper and more durable. That’s
               good news wearing a scary headline.
             </p>
 
