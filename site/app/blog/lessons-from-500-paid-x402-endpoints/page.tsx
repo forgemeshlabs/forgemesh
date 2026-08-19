@@ -106,8 +106,8 @@ export default function ArticlePage() {
               On July 15, 2026 — during a single build session — two free upstream APIs we depended
               on died under us: restcountries.com deprecated its free tier behind an API key, and
               numbersapi.com started returning 404s entirely. When your product is a paid endpoint,
-              an upstream failure isn&apos;t an inconvenience — it&apos;s selling a product you
-              can&apos;t deliver. We swapped both to local datasets (250 countries under an open
+              an upstream failure isn’t an inconvenience — it’s selling a product you
+              can’t deliver. We swapped both to local datasets (250 countries under an open
               license, computed number facts) within minutes, and now bias every new endpoint toward
               local compute: of our utility-grid capabilities, dozens need zero upstream API at all.
               Structurally rug-proof beats temporarily convenient.

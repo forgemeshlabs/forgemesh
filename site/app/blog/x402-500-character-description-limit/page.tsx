@@ -105,7 +105,7 @@ export default function Page() {
             <p className="mt-4 text-base leading-8 text-slate-400">
               An x402 resource declares itself to discovery catalogs with metadata — including a
               free-text description. Write a description over a certain length and the resource
-              doesn&apos;t get rejected. It doesn&apos;t error. It becomes{' '}
+              doesn’t get rejected. It doesn’t error. It becomes{' '}
               <em>silently unpayable</em>: dropped or broken in the catalog pipeline in a way
               neither the buyer nor the seller can see. To the seller, it looks exactly like &quot;no
               demand.&quot; We know how that feels from the inside — we once spent a weekend
@@ -118,7 +118,7 @@ export default function Page() {
             </p>
 
             <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
-              The measurement: 500 works, 501 doesn&apos;t
+              The measurement: 500 works, 501 doesn’t
             </h2>
             <p className="mt-4 text-base leading-8 text-slate-400">
               In our own testing, purchases against an affected route succeeded with the description
@@ -127,7 +127,7 @@ export default function Page() {
               difference between a purchasable resource and a ghost.
             </p>
             <p className="mt-4 text-base leading-8 text-slate-400">
-              Credit where it&apos;s due: the public report that nailed this class of failure is{' '}
+              Credit where it’s due: the public report that nailed this class of failure is{' '}
               <a
                 href="https://github.com/x402-foundation/x402/issues/2993"
                 className="text-blue-400 hover:text-blue-300"
@@ -161,7 +161,7 @@ export default function Page() {
               Protect yourself today
             </h2>
             <p className="mt-4 text-base leading-8 text-slate-400">
-              The seller-side defense is simple, and we&apos;re giving this one away in full:
+              The seller-side defense is simple, and we’re giving this one away in full:
             </p>
             <ul className="mt-4 space-y-3 text-base leading-8 text-slate-400">
               <li className="rounded border border-white/[0.06] bg-white/[0.02] p-4">
@@ -177,7 +177,7 @@ export default function Page() {
               </li>
               <li className="rounded border border-white/[0.06] bg-white/[0.02] p-4">
                 <strong className="text-slate-200">Audit your live surfaces, not your source.</strong>{' '}
-                Fetch your own deployed discovery documents and measure what&apos;s actually being
+                Fetch your own deployed discovery documents and measure what’s actually being
                 served — length bugs love to hide in the gap between repo and production.
               </li>
             </ul>

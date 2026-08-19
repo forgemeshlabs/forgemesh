@@ -113,8 +113,8 @@ export default function ArticlePage() {
               , the body that will steward the{' '}
               <a href="/x402" className="text-blue-400 hover:text-blue-300">x402 protocol</a> — the
               open standard that lets AI agents, APIs, and applications pay for resources over
-              HTTP. Forty organizations joined at launch. We&apos;ve run x402 in production since
-              before it was fashionable, so here&apos;s the operator&apos;s read on what actually
+              HTTP. Forty organizations joined at launch. We’ve run x402 in production since
+              before it was fashionable, so here’s the operator’s read on what actually
               changed.
             </p>
 
@@ -122,7 +122,7 @@ export default function ArticlePage() {
               The membership list is the story
             </h2>
             <p className="mt-4 text-base leading-8 text-slate-400">
-              Press releases about foundations are usually noise. This one isn&apos;t, because of
+              Press releases about foundations are usually noise. This one isn’t, because of
               who signed. The premier tier alone includes{' '}
               <strong className="text-slate-200">
                 Visa, Mastercard, American Express, Stripe, Adyen, Fiserv, Google, AWS, Cloudflare,
@@ -162,7 +162,7 @@ export default function ArticlePage() {
                 x402.org
               </a>{' '}
               and coordinates work on payment schemes beyond fixed-price stablecoin settlement —
-              including Cloudflare&apos;s deferred scheme, which separates cryptographic
+              including Cloudflare’s deferred scheme, which separates cryptographic
               verification from settlement so that traditional rails (yes, cards) can ride the same
               402 exchange. That is why the card networks are in the room. Official foundation page:{' '}
               <a href="https://www.linuxfoundation.org/x402foundation/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300">
@@ -180,7 +180,7 @@ export default function ArticlePage() {
                 opened the waitlist for its Monetization Gateway
               </a>{' '}
               — charge for any page, API, dataset, or MCP tool behind Cloudflare, settled over x402.
-              And on <strong className="text-slate-200">September 15, 2026</strong>, Cloudflare&apos;s
+              And on <strong className="text-slate-200">September 15, 2026</strong>, Cloudflare’s
               new default settings start blocking AI training and agent crawlers on ad-supported
               sites. The sequence is deliberate: first the standard, then the tooling, then the
               default that makes paying the norm. A meaningful share of the web is about to answer
@@ -207,7 +207,7 @@ export default function ArticlePage() {
             <p className="mt-4 text-base leading-8 text-slate-400">
               If you sell data, APIs, or content, the practical takeaway is simple: the standard
               your future agent-customers will speak has now been decided, and it is x402. The cost
-              of exposing a paid endpoint is an afternoon. We&apos;ve documented what we learned
+              of exposing a paid endpoint is an afternoon. We’ve documented what we learned
               shipping 500+ of them in{' '}
               <a href="/x402" className="text-blue-400 hover:text-blue-300">our x402 guide</a>, and
               if you want the zero-code path,{' '}

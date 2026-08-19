@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
   title: 'Three Different People Just Started Writing the Rules for How Agents Pay | ForgeMesh Labs',
   description:
-    'In one week: Stripe reportedly bought OpenRouter for $7B+, Google&apos;s AP2 protocol moved to FIDO Alliance governance, and Treasury published the GENIUS Act stablecoin licensing rules in the Federal Register. What each one means for x402 and MPP sellers — plus the first 24-hour read on the MPP rail since the acquisition news broke.',
+    'In one week: Stripe reportedly bought OpenRouter for $7B+, Google’s AP2 protocol moved to FIDO Alliance governance, and Treasury published the GENIUS Act stablecoin licensing rules in the Federal Register. What each one means for x402 and MPP sellers — plus the first 24-hour read on the MPP rail since the acquisition news broke.',
   keywords: [
     'Stripe OpenRouter acquisition', 'GENIUS Act stablecoin rules', 'MPP machine payments protocol',
     'AP2 FIDO Alliance', 'agent payments regulation', 'x402', 'stablecoin issuer license',
@@ -45,7 +45,7 @@ const structuredData = {
       '@type': 'Article',
       headline: 'Three Different People Just Started Writing the Rules for How Agents Pay',
       description:
-        'Analysis of three concurrent governance shifts in agent payments: Stripe&apos;s reported $7B+ acquisition of OpenRouter, Google&apos;s donation of the AP2 protocol to the FIDO Alliance, and Treasury&apos;s GENIUS Act stablecoin issuance NPRM published August 18, 2026 — with same-week MPP rail activity data.',
+        'Analysis of three concurrent governance shifts in agent payments: Stripe’s reported $7B+ acquisition of OpenRouter, Google’s donation of the AP2 protocol to the FIDO Alliance, and Treasury’s GENIUS Act stablecoin issuance NPRM published August 18, 2026 — with same-week MPP rail activity data.',
       author: {
         '@type': 'Organization',
         name: 'ForgeMesh Labs',
@@ -104,7 +104,7 @@ export default function Page() {
               1. The company that bought the routing layer
             </h2>
             <p className="mt-4 text-base leading-8 text-slate-400">
-              Stripe&apos;s reported $7B+ acquisition of OpenRouter — first reported by{' '}
+              Stripe’s reported $7B+ acquisition of OpenRouter — first reported by{' '}
               <a
                 href="https://fortune.com/2026/08/16/stripe-7-billion-deal-ai-firm-openrouter-acquisition/"
                 className="text-blue-400 hover:text-blue-300"
@@ -120,7 +120,7 @@ export default function Page() {
             </p>
 
             <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
-              2. Google didn&apos;t wait to see how that plays out
+              2. Google didn’t wait to see how that plays out
             </h2>
             <p className="mt-4 text-base leading-8 text-slate-400">
               Back in May, Google{' '}
@@ -133,9 +133,9 @@ export default function Page() {
               for open, vendor-neutral governance — with Mastercard, Visa, PayPal, Coinbase, and
               some sixty other organizations joining the working groups — and shipped a v0.2 adding
               &quot;Human Not Present&quot; autonomous payment flows. Read on its own in May, that
-              was a standards announcement. Read next to this week&apos;s news, it looks like a
+              was a standards announcement. Read next to this week’s news, it looks like a
               hedge: nobody wants one company holding both the routing layer and the rulebook. The
-              protocol landscape is now splitting three ways — x402&apos;s registry-and-crawler
+              protocol landscape is now splitting three ways — x402’s registry-and-crawler
               model under the{' '}
               <a href="/blog/x402-foundation-linux-foundation-launch" className="text-blue-400 hover:text-blue-300">
                 Linux Foundation
@@ -193,18 +193,18 @@ export default function Page() {
             <p className="mt-6 text-base leading-8 text-slate-400">
               The honest caveats: the dashboard is self-reported by a self-service registry, and
               one day is a data point, not a trend. But usage growing double digits while server
-              count holds flat is the shape you&apos;d expect if existing services are getting more
-              agent traffic — and it&apos;s the first read on the rail since the news. We run our
-              fleet dual-stack across both x402 and MPP precisely so we don&apos;t have to guess
+              count holds flat is the shape you’d expect if existing services are getting more
+              agent traffic — and it’s the first read on the rail since the news. We run our
+              fleet dual-stack across both x402 and MPP precisely so we don’t have to guess
               which rulebook wins.
             </p>
 
             <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
-              What we&apos;d watch this week
+              What we’d watch this week
             </h2>
             <p className="mt-4 text-base leading-8 text-slate-400">
-              Whichever settlement rail your service runs on, check whether your stablecoin&apos;s
-              issuer shows up in the comment docket on the Treasury rule. That&apos;s the earliest
+              Whichever settlement rail your service runs on, check whether your stablecoin’s
+              issuer shows up in the comment docket on the Treasury rule. That’s the earliest
               signal for who ends up licensed, who ends up restructuring — and whose rail gets
               complicated. The changes that affect your revenue in this ecosystem{' '}
               <a href="/blog/x402-catalog-purge-overnight-july-2026" className="text-blue-400 hover:text-blue-300">
