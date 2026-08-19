@@ -15,6 +15,7 @@ const learnLinks = [
 
 const productLinks = [
   { label: 'All project cards', href: '/#projects' },
+  { label: 'Endpoint Scanner', href: '/scan' },
   { label: 'BotBoard', href: '/botboard' },
   { label: 'SEO Authority API', href: '/seo' },
   { label: 'Library', href: 'https://library.forgemesh.io' },
