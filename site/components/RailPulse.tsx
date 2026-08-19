@@ -11,6 +11,8 @@ type RailPulseData = {
     mppTxDeltaPct: number | null;
     mppVolDeltaPct: number | null;
     x402Tx: number | null;
+    x402Listings: number | null;
+    x402ListingsDeltaPct: number | null;
     analysis: string;
   };
   history: { date: string; mppTx: number; mppVol: number; x402Tx: number | null }[];
@@ -78,6 +80,7 @@ export function RailPulse() {
 
   const { latest, history } = data;
   const txDelta = fmtDelta(latest.mppTxDeltaPct);
+  const x402Delta = fmtDelta(latest.x402ListingsDeltaPct);
 
   return (
     <section className="border-b border-white/[0.06] bg-[#050509] px-6 py-6" id="rail-pulse">
@@ -106,6 +109,25 @@ export function RailPulse() {
               {latest.x402Tx !== null && (
                 <span className="text-sm text-slate-400">
                   &middot; {fmtInt(latest.x402Tx)} x402 tx
+                </span>
+              )}
+              {latest.x402Listings !== null && (
+                <span className="text-sm text-slate-400">
+                  &middot;{' '}
+                  <span className="text-slate-50 font-medium">{fmtInt(latest.x402Listings)}</span>{' '}
+                  x402 catalog listings
+                  {x402Delta && (
+                    <span
+                      className={
+                        latest.x402ListingsDeltaPct !== null && latest.x402ListingsDeltaPct >= 0
+                          ? 'text-blue-300'
+                          : 'text-slate-400'
+                      }
+                    >
+                      {' '}
+                      ({x402Delta} d/d)
+                    </span>
+                  )}
                 </span>
               )}
             </div>
