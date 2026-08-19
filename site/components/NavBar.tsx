@@ -15,6 +15,8 @@ const learnLinks = [
 
 const productLinks = [
   { label: 'All project cards', href: '/#projects' },
+  { label: 'BotBoard', href: '/botboard' },
+  { label: 'SEO Authority API', href: '/seo' },
   { label: 'Library', href: 'https://library.forgemesh.io' },
   { label: 'x402 Utility APIs', href: 'https://x402.forgemesh.io' },
   { label: 'x402 Proxy', href: 'https://proxy.forgemesh.io' },
@@ -75,7 +77,7 @@ export function NavBar() {
             >
               Projects
             </a>
-            <div className="invisible absolute left-1/2 top-full w-64 -translate-x-1/2 translate-y-1 rounded border border-white/[0.08] bg-[#050509]/95 p-2 opacity-0 shadow-2xl shadow-black/40 backdrop-blur-md transition-all duration-150 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100 group-focus-within:visible group-focus-within:translate-y-0 group-focus-within:opacity-100">
+            <div className="invisible absolute left-1/2 top-full z-50 w-64 -translate-x-1/2 translate-y-1 rounded border border-white/[0.08] bg-[#050509]/95 p-2 opacity-0 shadow-2xl shadow-black/40 backdrop-blur-md transition-all duration-150 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100 group-focus-within:visible group-focus-within:translate-y-0 group-focus-within:opacity-100">
               {productLinks.map(link => (
                 <a
                   key={link.href}
@@ -96,7 +98,7 @@ export function NavBar() {
             >
               Learn
             </a>
-            <div className="invisible absolute left-1/2 top-full w-56 -translate-x-1/2 translate-y-1 rounded border border-white/[0.08] bg-[#050509]/95 p-2 opacity-0 shadow-2xl shadow-black/40 backdrop-blur-md transition-all duration-150 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100 group-focus-within:visible group-focus-within:translate-y-0 group-focus-within:opacity-100">
+            <div className="invisible absolute left-1/2 top-full z-50 w-56 -translate-x-1/2 translate-y-1 rounded border border-white/[0.08] bg-[#050509]/95 p-2 opacity-0 shadow-2xl shadow-black/40 backdrop-blur-md transition-all duration-150 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100 group-focus-within:visible group-focus-within:translate-y-0 group-focus-within:opacity-100">
               {learnLinks.map(link => (
                 <a
                   key={link.href}
