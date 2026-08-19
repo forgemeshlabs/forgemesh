@@ -136,7 +136,7 @@ export default function ArticlePage() {
               </li>
               <li>
                 <strong className="text-slate-200">Finality in seconds, no chargebacks.</strong>{' '}
-                Machine commerce can&apos;t wait on T+2 settlement or price in dispute risk from a
+                Machine commerce can’t wait on T+2 settlement or price in dispute risk from a
                 counterparty that is a cron job. Atomic settlement — paid and delivered, or neither
                 — replaces the entire trust apparatus.
               </li>
@@ -151,8 +151,8 @@ export default function ArticlePage() {
               </li>
             </ul>
             <p className="mt-4 text-base leading-8 text-slate-400">
-              Notice what&apos;s absent from that list: decentralization ideology, token appreciation,
-              &quot;community.&quot; The agent doesn&apos;t care. It needs dollars that move like
+              Notice what’s absent from that list: decentralization ideology, token appreciation,
+              &quot;community.&quot; The agent doesn’t care. It needs dollars that move like
               packets. Stablecoins are that — the least ideological, most boring product crypto ever
               shipped, which is exactly why they won. And notice what the money still needs a rail
               to ride on: a standard way for a server to ask and a machine to pay. That is what the{' '}
@@ -161,7 +161,7 @@ export default function ArticlePage() {
             </p>
 
             <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
-              The proof is that it&apos;s boring now
+              The proof is that it’s boring now
             </h2>
             <p className="mt-4 text-base leading-8 text-slate-400">
               In our fleet, an agent paying $0.002 for a timezone conversion is not a demo — it is a
@@ -174,7 +174,7 @@ export default function ArticlePage() {
               <a href="/blog/open-usd-circle-stablecoin-x402" className="text-blue-400 hover:text-blue-300">
                 fighting over which stablecoin agents will spend
               </a>
-              . Incumbents don&apos;t fight over vaporware.
+              . Incumbents don’t fight over vaporware.
             </p>
             <p className="mt-4 text-base leading-8 text-slate-400">
               So the conference-floor instinct was right about the destination and wrong about the

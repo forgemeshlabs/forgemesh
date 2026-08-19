@@ -178,9 +178,9 @@ export default function ArticlePage() {
             </p>
             <p className="mt-4 text-base leading-8 text-slate-400">
               We publish this because honest measurement beats hype: raw listing counts overstate
-              the ecosystem&apos;s diversity, and any agent (or investor) evaluating x402 should
+              the ecosystem’s diversity, and any agent (or investor) evaluating x402 should
               filter by seller concentration. It is also a very young-market signature — low listing
-              costs invite bulk publishing, and discovery layers haven&apos;t yet learned to rank by
+              costs invite bulk publishing, and discovery layers haven’t yet learned to rank by
               reputation. The seller-count trend is the better health metric: 1,100 → 1,136 in three
               days, all independents.
             </p>
@@ -198,11 +198,11 @@ export default function ArticlePage() {
               <li>
                 <strong className="text-slate-200">Testnet listings pollute the live catalog.</strong>{' '}
                 ~335 listings settle on Base Sepolia or other testnets — fine for demos, but a paid
-                agent that doesn&apos;t check the network field will waste calls on them.
+                agent that doesn’t check the network field will waste calls on them.
               </li>
               <li>
                 <strong className="text-slate-200">Solana is present but small</strong> — about 150
-                listings on mainnet. The x402 Foundation&apos;s membership (Solana Foundation is a
+                listings on mainnet. The x402 Foundation’s membership (Solana Foundation is a
                 premier member) suggests that share grows.
               </li>
             </ul>
