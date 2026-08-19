@@ -179,3 +179,13 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: rgba(59, 130, 246, 0.5);
 }
+
+/* Rail ticker marquee (RailTicker.tsx) */
+@keyframes rail-ticker {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+.rail-ticker-track { animation: rail-ticker 40s linear infinite; }
+@media (prefers-reduced-motion: reduce) {
+  .rail-ticker-track { animation: none; }
+}

@@ -6,11 +6,6 @@ const links = [
   { label: 'Blog', href: '/blog' },
   { label: 'GitHub', href: 'https://github.com/forgemeshlabs' },
   { label: 'X / Twitter', href: 'https://x.com/forgemeshlabs' },
-  {
-    label: 'AI Builders Unite',
-    href: 'https://discord.gg/ZwAUUfeQG',
-    title: 'Discord server 1515068093401923665',
-  },
   { label: 'Field Notes', href: 'https://aitinkers.fun' },
   { label: 'npm', href: 'https://www.npmjs.com/package/forgemesh' },
   { label: 'MCP Registry', href: 'https://github.com/modelcontextprotocol/servers' },
@@ -41,7 +36,6 @@ export function Footer() {
                 <li key={link.label}>
                   <a
                     href={link.href}
-                    title={link.title}
                     target={link.href.startsWith('http') ? '_blank' : undefined}
                     rel={link.href.startsWith('http') ? 'noopener noreferrer' : undefined}
                     className="text-xs text-slate-600 hover:text-slate-400 transition-colors"
