@@ -349,6 +349,30 @@ export default function MppPage() {
               free scanner checks any URL for the WWW-Authenticate: Payment header and tells you
               whether it’s MPP-ready, x402-ready, both, or neither.
             </p>
+            <div className="mt-8 rounded border border-emerald-500/30 bg-emerald-500/[0.05] p-6">
+              <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-emerald-300/80">
+                Technical Build package · $49
+              </p>
+              <p className="mt-3 text-base leading-7 text-slate-300">
+                Knowing the four steps is not the same as shipping them. Adding a valid{' '}
+                <code className="rounded bg-white/[0.06] px-1.5 py-0.5 text-[13px] text-emerald-200">
+                  WWW-Authenticate: Payment
+                </code>{' '}
+                challenge alongside your existing x402 envelope — with correct EIP-3009 settlement, nonce and
+                validity handling, and a facilitator that verifies both rails — is where sellers stall. Our Technical
+                Build package ships the dual-stack middleware, the settlement wiring, and the exact envelope both
+                stock clients accept, so one endpoint reaches both agent populations. We built our own fleet this way.
+              </p>
+              <a
+                href="https://kit.forgemesh.io"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-4 inline-flex items-center gap-2 rounded border border-emerald-500/40 bg-emerald-500/10 px-5 py-3 text-sm font-medium text-slate-100 transition-all hover:border-emerald-400/70 hover:bg-emerald-500/20"
+              >
+                Get the Technical Build package <ArrowRight className="h-4 w-4" aria-hidden />
+              </a>
+            </div>
+
             <div className="mt-8 flex flex-col gap-3 sm:flex-row">
               <a
                 href="/scan"
