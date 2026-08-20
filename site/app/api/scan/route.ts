@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { runScan, ScanInputError } from '@/lib/scan';
+import { runScan, runServiceScan, ScanInputError } from '@/lib/scan';
 
 export const dynamic = 'force-dynamic';
 
@@ -41,7 +41,26 @@ export async function POST(req: NextRequest) {
 
   try {
     const r = await runScan(url);
+
+    // Scanned a service root (200 + discovery manifest)? Scan its actual routes
+    // instead of scolding the user about a directory page — free tier caps at 8.
+    if (r.service_root_hint) {
+      const svc = await runServiceScan(url, 8);
+      if (svc.scanned > 0) {
+        return NextResponse.json({
+          mode: 'service',
+          origin: svc.origin,
+          total_routes: svc.total_routes,
+          scanned: svc.scanned,
+          summary: svc.summary,
+          mpp_dual_stack_count: svc.mpp_dual_stack_count,
+          routes: svc.routes.map(({ findings: _findings, ...rest }) => rest),
+        });
+      }
+    }
+
     return NextResponse.json({
+      mode: 'single',
       url: r.url,
       grade: r.grade,
       reachable: r.reachable,

@@ -5,7 +5,7 @@ import { ArrowRight } from 'lucide-react';
 import { Footer } from '@/components/Footer';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
-import { runScan, fixGuides, type ScanResult } from '@/lib/scan';
+import { runScan, runServiceScan, fixGuides, type ScanResult, type ServiceScanResult } from '@/lib/scan';
 import { getCheckoutSession } from '@/lib/stripe';
 
 export const dynamic = 'force-dynamic';
@@ -75,9 +75,13 @@ export default async function ReportPage({ searchParams }: { searchParams: Promi
   }
 
   let result: ScanResult | null = null;
+  let serviceScan: ServiceScanResult | null = null;
   let scanError: string | null = null;
   try {
     result = await runScan(scanUrl);
+    if (result.service_root_hint) {
+      serviceScan = await runServiceScan(scanUrl, 25).catch(() => null);
+    }
   } catch (e) {
     scanError = (e as Error).message;
   }
@@ -99,7 +103,7 @@ export default async function ReportPage({ searchParams }: { searchParams: Promi
       } catch {
         /* first render for this session */
       }
-      record.scans.push({ ...result, ts: new Date().toISOString() });
+      record.scans.push({ ...result, ...(serviceScan ? { service_scan: serviceScan } : {}), ts: new Date().toISOString() } as never);
       if (record.scans.length > 50) record.scans = record.scans.slice(-50);
       await fs.writeFile(file, JSON.stringify(record, null, 2), { mode: 0o600 });
     } catch (e) {
@@ -145,7 +149,58 @@ export default async function ReportPage({ searchParams }: { searchParams: Promi
         </div>
       </div>
 
-      <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">Findings ({result.findings.length})</h2>
+      {serviceScan && serviceScan.scanned > 0 ? (
+        <>
+          <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
+            Full service scan — {serviceScan.scanned} of {serviceScan.total_routes} routes
+          </h2>
+          <div className="mt-4 flex flex-wrap gap-2">
+            {(['A', 'B', 'C', 'F'] as const).map((gr) =>
+              serviceScan.summary[gr] > 0 ? (
+                <span key={gr} className={`rounded border px-3 py-1.5 font-mono text-xs ${GRADE_STYLE[gr].ring} ${GRADE_STYLE[gr].text}`}>
+                  {gr} × {serviceScan.summary[gr]}
+                </span>
+              ) : null,
+            )}
+            {serviceScan.mpp_dual_stack_count > 0 ? (
+              <span className="rounded border border-white/[0.1] px-3 py-1.5 font-mono text-xs text-slate-400">
+                MPP × {serviceScan.mpp_dual_stack_count}
+              </span>
+            ) : null}
+          </div>
+          <ul className="mt-5 space-y-3">
+            {serviceScan.routes.map((r) => (
+              <li key={r.url} className="rounded border border-white/[0.06] bg-white/[0.02] p-4">
+                <div className="flex items-start gap-3">
+                  <span className={`flex h-8 w-8 shrink-0 items-center justify-center rounded border font-mono ${GRADE_STYLE[r.grade].ring} ${GRADE_STYLE[r.grade].text}`}>
+                    {r.grade}
+                  </span>
+                  <div className="min-w-0 grow">
+                    <p className="break-all font-mono text-xs text-slate-300">{r.url}</p>
+                    {r.grade !== 'A' ? (
+                      <ul className="mt-2 space-y-1">
+                        {r.findings.map((f, i) => (
+                          <li key={i} className="text-xs leading-6 text-slate-500">{f}</li>
+                        ))}
+                      </ul>
+                    ) : null}
+                  </div>
+                </div>
+              </li>
+            ))}
+          </ul>
+          {serviceScan.total_routes > serviceScan.scanned ? (
+            <p className="mt-4 text-xs text-slate-500">
+              {serviceScan.total_routes - serviceScan.scanned} more routes listed in the manifest weren&apos;t scanned
+              (report cap: 25 per load). Refresh to re-scan; scan individual routes free anytime.
+            </p>
+          ) : null}
+        </>
+      ) : null}
+
+      <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
+        {serviceScan ? `Root URL findings (${result.findings.length})` : `Findings (${result.findings.length})`}
+      </h2>
       <ul className="mt-4 space-y-3">
         {result.findings.map((f, i) => (
           <li key={i} className="rounded border border-white/[0.06] bg-white/[0.02] p-4 text-sm leading-7 text-slate-300">
