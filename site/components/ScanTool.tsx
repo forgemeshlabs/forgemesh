@@ -53,12 +53,12 @@ export function ScanTool() {
     }
   }
 
-  async function buyReport() {
+  async function buy(endpoint: '/api/scan/checkout' | '/api/watch/checkout') {
     if (!result) return;
     setBuying(true);
     setError(null);
     try {
-      const res = await fetch('/api/scan/checkout', {
+      const res = await fetch(endpoint, {
         method: 'POST',
         headers: { 'content-type': 'application/json' },
         body: JSON.stringify({ url: result.url }),
@@ -133,15 +133,28 @@ export function ScanTool() {
                 <>The full report adds fix guidance, your decoded payment terms, and a re-scannable link to verify after every deploy.</>
               )}
             </p>
-            <button
-              onClick={buyReport}
-              disabled={buying}
-              className="mt-4 inline-flex items-center gap-2 rounded border border-blue-500/40 bg-blue-500/10 px-5 py-3 text-sm font-medium text-slate-100 transition-all hover:border-blue-400/70 hover:bg-blue-500/20 disabled:opacity-50"
-            >
-              {buying ? <Loader2 className="h-4 w-4 animate-spin" aria-hidden /> : null}
-              Full report + fixes — $5 <ArrowRight className="h-4 w-4" aria-hidden />
-            </button>
-            <p className="mt-3 text-xs text-slate-500">One-time payment via Stripe. Re-scan the same URL free from your report page.</p>
+            <div className="mt-4 flex flex-col gap-3 sm:flex-row">
+              <button
+                onClick={() => buy('/api/scan/checkout')}
+                disabled={buying}
+                className="inline-flex items-center justify-center gap-2 rounded border border-blue-500/40 bg-blue-500/10 px-5 py-3 text-sm font-medium text-slate-100 transition-all hover:border-blue-400/70 hover:bg-blue-500/20 disabled:opacity-50"
+              >
+                {buying ? <Loader2 className="h-4 w-4 animate-spin" aria-hidden /> : null}
+                Full report + fixes — $5 once <ArrowRight className="h-4 w-4" aria-hidden />
+              </button>
+              <button
+                onClick={() => buy('/api/watch/checkout')}
+                disabled={buying}
+                className="inline-flex items-center justify-center gap-2 rounded border border-emerald-500/40 bg-emerald-500/10 px-5 py-3 text-sm font-medium text-slate-100 transition-all hover:border-emerald-400/70 hover:bg-emerald-500/20 disabled:opacity-50"
+              >
+                {buying ? <Loader2 className="h-4 w-4 animate-spin" aria-hidden /> : null}
+                Watch it daily — $5/mo
+              </button>
+            </div>
+            <p className="mt-3 text-xs text-slate-500">
+              Stripe checkout. The report is a permanent page that re-scans free on every load; Watch emails you the
+              day anything breaks.
+            </p>
           </div>
         </div>
       ) : null}

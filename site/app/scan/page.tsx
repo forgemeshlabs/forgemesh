@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { ArrowRight } from 'lucide-react';
 import { Footer } from '@/components/Footer';
 import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
@@ -74,35 +75,58 @@ export default function ScanPage() {
               <ScanTool />
             </div>
 
-            <div className="mt-14 grid gap-4 sm:grid-cols-2">
-              <div className="rounded border border-white/[0.06] bg-white/[0.02] p-6">
-                <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">For agents · $0.05</p>
-                <p className="mt-3 text-sm leading-7 text-slate-400">
-                  Agents run the same scan machine-to-machine — pay per call over x402, no account:
-                </p>
-                <pre className="mt-4 overflow-x-auto rounded bg-black/40 p-4 font-mono text-[12px] leading-6 text-slate-300">
-{`POST https://x402.forgemesh.io/x402-endpoint-scan
+            <div className="mt-16">
+              <h2 className="text-2xl font-semibold tracking-tight text-slate-50">Three ways to use it</h2>
+              <p className="mt-2 text-sm text-slate-500">Scan above, then upgrade from your result — every tier works on the URL you scanned.</p>
+              <div className="mt-6 grid gap-4 lg:grid-cols-3">
+                <div className="flex flex-col rounded border border-white/[0.08] bg-white/[0.02] p-6">
+                  <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-slate-400">Instant scan</p>
+                  <p className="mt-2 text-3xl font-semibold text-slate-50">Free</p>
+                  <ul className="mt-4 grow space-y-2 text-sm leading-6 text-slate-400">
+                    <li>A–F grade in five seconds</li>
+                    <li>Top finding, plain English</li>
+                    <li>Envelope + MPP dual-stack detection</li>
+                    <li>10 scans per hour</li>
+                  </ul>
+                  <a href="#main-content" className="mt-5 inline-flex items-center gap-2 rounded border border-white/[0.12] px-4 py-2.5 text-sm text-slate-300 transition-all hover:border-blue-500/50 hover:text-white">
+                    Scan above <ArrowRight className="h-4 w-4" aria-hidden />
+                  </a>
+                </div>
+                <div className="flex flex-col rounded border border-blue-500/40 bg-blue-500/[0.06] p-6">
+                  <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">Full report</p>
+                  <p className="mt-2 text-3xl font-semibold text-slate-50">$5 <span className="text-base font-normal text-slate-400">once</span></p>
+                  <ul className="mt-4 grow space-y-2 text-sm leading-6 text-slate-400">
+                    <li>Every finding, not just the first</li>
+                    <li>Exact fixes with code snippets</li>
+                    <li>Your decoded payment terms</li>
+                    <li>Permanent link — re-scans free on every load until you&apos;re green</li>
+                  </ul>
+                  <p className="mt-5 text-xs text-slate-500">Buy from your scan result above ↑</p>
+                </div>
+                <div className="flex flex-col rounded border border-emerald-500/40 bg-emerald-500/[0.05] p-6">
+                  <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-emerald-300/80">ForgeMesh Watch</p>
+                  <p className="mt-2 text-3xl font-semibold text-slate-50">$5<span className="text-base font-normal text-slate-400">/mo</span></p>
+                  <ul className="mt-4 grow space-y-2 text-sm leading-6 text-slate-400">
+                    <li>Your endpoint scanned every day</li>
+                    <li>Email alert the moment the grade changes</li>
+                    <li>Catches broken paywalls before they cost a week of silent zero-revenue</li>
+                    <li>Cancel anytime</li>
+                  </ul>
+                  <p className="mt-5 text-xs text-slate-500">Buy from your scan result above ↑</p>
+                </div>
+              </div>
+
+              <div className="mt-6 rounded border border-white/[0.06] bg-white/[0.02] p-5">
+                <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">For agents · $0.05 per scan · no account</p>
+                <pre className="mt-3 overflow-x-auto rounded bg-black/40 p-4 font-mono text-[12px] leading-6 text-slate-300">
+{`POST https://x402.forgemesh.io/x402-endpoint-scan   (x402 + MPP)
 {"url": "https://target-to-check.com/route"}`}
                 </pre>
                 <p className="mt-3 text-xs text-slate-500">
-                  Also answers as x402-paywall-check, validate-payment-envelope, and x402-endpoint-preflight in the Bazaar.
+                  Free local version for MCP clients:{' '}
+                  <code className="rounded bg-white/[0.06] px-1.5 py-0.5">npx @forgemeshlabs/x402-scan-mcp</code> — also
+                  in the Bazaar as x402-paywall-check, validate-payment-envelope, and x402-endpoint-preflight.
                 </p>
-              </div>
-              <div className="rounded border border-white/[0.06] bg-white/[0.02] p-6">
-                <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-slate-500">
-                  Next up · ForgeMesh Watch · $5/mo
-                </p>
-                <p className="mt-3 text-sm leading-7 text-slate-400">
-                  The free scan and $5 report above are live now. Watch is what&apos;s next: we scan your endpoints
-                  every day and alert you the moment your paywall breaks, your envelope stops parsing, or your listing
-                  dies — before it costs you a week of silent zero-revenue.
-                </p>
-                <a
-                  href="/brief"
-                  className="mt-4 inline-flex items-center gap-2 text-sm font-medium text-blue-400 hover:text-blue-300"
-                >
-                  Get launch notice via The Brief →
-                </a>
               </div>
             </div>
           </div>

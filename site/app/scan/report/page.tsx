@@ -1,4 +1,6 @@
 import type { Metadata } from 'next';
+import { promises as fs } from 'node:fs';
+import path from 'node:path';
 import { ArrowRight } from 'lucide-react';
 import { Footer } from '@/components/Footer';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
@@ -78,6 +80,31 @@ export default async function ReportPage({ searchParams }: { searchParams: Promi
     result = await runScan(scanUrl);
   } catch (e) {
     scanError = (e as Error).message;
+  }
+
+  // Persist every paid report render so purchased reports are never lost:
+  // one file per checkout session, scan history appended (capped at 50).
+  if (result) {
+    try {
+      const dir = path.join(process.cwd(), 'data', 'scan-reports');
+      await fs.mkdir(dir, { recursive: true });
+      const file = path.join(dir, `${sessionId}.json`);
+      let record: { session_id: string; url: string; scans: Array<ScanResult & { ts: string }> } = {
+        session_id: sessionId,
+        url: scanUrl,
+        scans: [],
+      };
+      try {
+        record = JSON.parse(await fs.readFile(file, 'utf8'));
+      } catch {
+        /* first render for this session */
+      }
+      record.scans.push({ ...result, ts: new Date().toISOString() });
+      if (record.scans.length > 50) record.scans = record.scans.slice(-50);
+      await fs.writeFile(file, JSON.stringify(record, null, 2), { mode: 0o600 });
+    } catch (e) {
+      console.error('[scan-report-store]', (e as Error).message);
+    }
   }
 
   if (!result) {

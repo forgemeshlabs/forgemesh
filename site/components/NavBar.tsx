@@ -14,6 +14,18 @@ const learnLinks = [
   { label: 'Discovery', href: '/#discovery' },
 ];
 
+// Everything free — tools, checklists, data, MCPs. Funnel mouths, all of it.
+const freeLinks = [
+  { label: 'Endpoint scanner', href: '/scan' },
+  { label: 'Seller pre-flight checklist', href: '/checklist' },
+  { label: 'Seller kits + guides', href: 'https://kit.forgemesh.io' },
+  { label: 'Rail Pulse (live data)', href: '/#rail-pulse' },
+  { label: 'The Brief (newsletter)', href: '/brief' },
+  { label: 'Scan MCP (npm)', href: 'https://www.npmjs.com/package/@forgemeshlabs/x402-scan-mcp' },
+  { label: 'ASO Audit MCP (npm)', href: 'https://www.npmjs.com/package/@forgemeshlabs/aso-audit-mcp' },
+  { label: 'Agent Readiness MCP (npm)', href: 'https://www.npmjs.com/package/@forgemeshlabs/agent-readiness-mcp' },
+];
+
 const productLinks = [
   { label: 'All project cards', href: '/#projects' },
   { label: 'Endpoint Scanner', href: '/scan' },
@@ -106,6 +118,27 @@ export function NavBar() {
                   key={link.href}
                   href={link.href}
                   className="block rounded px-3 py-2 text-sm text-slate-400 transition-colors hover:bg-blue-500/10 hover:text-slate-100 focus:bg-blue-500/10 focus:text-slate-100 focus:outline-none"
+                >
+                  {link.label}
+                </a>
+              ))}
+            </div>
+          </div>
+          <div className="group relative flex h-16 items-center">
+            <a
+              href="/scan"
+              className="text-sm text-slate-400 hover:text-slate-200 transition-colors"
+            >
+              Free
+            </a>
+            <div className="invisible absolute left-1/2 top-full z-50 w-64 -translate-x-1/2 translate-y-1 rounded border border-white/[0.08] bg-[#050509]/95 p-2 opacity-0 shadow-2xl shadow-black/40 backdrop-blur-md transition-all duration-150 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100 group-focus-within:visible group-focus-within:translate-y-0 group-focus-within:opacity-100">
+              {freeLinks.map(link => (
+                <a
+                  key={link.href}
+                  href={link.href}
+                  className="block rounded px-3 py-2 text-sm text-slate-400 transition-colors hover:bg-blue-500/10 hover:text-slate-100 focus:bg-blue-500/10 focus:text-slate-100 focus:outline-none"
+                  target={link.href.startsWith('http') ? '_blank' : undefined}
+                  rel={link.href.startsWith('http') ? 'noopener noreferrer' : undefined}
                 >
                   {link.label}
                 </a>
