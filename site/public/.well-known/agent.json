@@ -17,7 +17,7 @@
   "discovery": {
     "machineIndex": "https://forgemesh.io/index.json",
     "llms": "https://forgemesh.io/llms.txt",
-    "openapi": "https://forgemesh.io/openapi.json",
+    "openapi": "https://forgemesh.io/.well-known/x402",
     "x402PaymentDiscovery": "https://forgemesh.io/.well-known/x402.json",
     "paidProductRegistry": {
       "catalog": "POST https://x402.forgemesh.io/fleet-products ($0.05 USDC via x402)",
