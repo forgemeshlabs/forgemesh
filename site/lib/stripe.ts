@@ -36,6 +36,7 @@ export async function createScanCheckout(scanUrl: string): Promise<{ id: string;
     'line_items[0][price_data][product_data][name]': 'ForgeMesh Endpoint Scan Report',
     'line_items[0][price_data][product_data][description]': `Full x402/MPP health report with fixes for ${scanUrl}`,
     'metadata[scan_url]': scanUrl,
+    allow_promotion_codes: 'true',
     success_url: 'https://forgemesh.io/scan/report?session_id={CHECKOUT_SESSION_ID}',
     cancel_url: 'https://forgemesh.io/scan',
   });
@@ -46,9 +47,15 @@ export async function getCheckoutSession(sessionId: string): Promise<{ paid: boo
   if (!/^cs_[a-zA-Z0-9_]+$/.test(sessionId)) throw new Error('invalid session id');
   const session = await stripeRequest('GET', `/checkout/sessions/${sessionId}`);
   return {
-    paid: session.payment_status === 'paid',
+    paid: isSettled(session),
     scanUrl: session.metadata?.scan_url ?? null,
   };
+}
+
+// 'no_payment_required' covers 100%-off promotion codes — the session is complete
+// with a $0 total, which Stripe reports distinctly from 'paid'.
+function isSettled(session: { payment_status?: string; status?: string }): boolean {
+  return session.status === 'complete' && (session.payment_status === 'paid' || session.payment_status === 'no_payment_required');
 }
 
 export async function createWatchCheckout(watchUrl: string): Promise<{ id: string; url: string }> {
@@ -62,6 +69,8 @@ export async function createWatchCheckout(watchUrl: string): Promise<{ id: strin
     'line_items[0][price_data][product_data][description]': `Daily health monitoring + alerts for ${watchUrl}`,
     'metadata[watch_url]': watchUrl,
     'subscription_data[metadata][watch_url]': watchUrl,
+    allow_promotion_codes: 'true',
+    payment_method_collection: 'if_required',
     success_url: 'https://forgemesh.io/watch/confirmed?session_id={CHECKOUT_SESSION_ID}',
     cancel_url: 'https://forgemesh.io/scan',
   });
@@ -77,7 +86,7 @@ export async function getWatchSession(sessionId: string): Promise<{
   if (!/^cs_[a-zA-Z0-9_]+$/.test(sessionId)) throw new Error('invalid session id');
   const session = await stripeRequest('GET', `/checkout/sessions/${sessionId}`);
   return {
-    paid: session.payment_status === 'paid',
+    paid: isSettled(session),
     watchUrl: session.metadata?.watch_url ?? null,
     subscriptionId: typeof session.subscription === 'string' ? session.subscription : (session.subscription?.id ?? null),
     customerEmail: session.customer_details?.email ?? null,
