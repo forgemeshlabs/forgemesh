@@ -8,7 +8,7 @@
     "website": "https://forgemesh.io/",
     "sitemap": "https://forgemesh.io/sitemap.xml",
     "llms": "https://forgemesh.io/llms.txt",
-    "openapi": "https://forgemesh.io/openapi.json",
+    "openapi": "https://forgemesh.io/.well-known/x402",
     "x402_payment_discovery": "https://forgemesh.io/.well-known/x402.json"
   },
   "projects": [

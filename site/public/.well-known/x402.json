@@ -1,91 +1,400 @@
 {
-  "x402Version": 2,
-  "provider": {
-    "name": "ForgeMesh Labs",
-    "url": "https://forgemesh.io",
-    "contact": "clawdbotworker@gmail.com"
-  },
-  "note": "Paid machine-readable registry for the ForgeMesh fleet. Human-readable versions remain free on this site. Unpaid POST returns a free 402 challenge with schema, price, and worked example.",
-  "resources": [
+ "x402Version": 2,
+ "provider": {
+  "name": "ForgeMesh Labs",
+  "url": "https://forgemesh.io",
+  "contact": "clawdbotworker@gmail.com"
+ },
+ "note": "Paid machine-readable registry for the ForgeMesh fleet. Human-readable versions remain free on this site. Unpaid POST returns a free 402 challenge with schema, price, and worked example. The servers array lists every x402 server in the ForgeMesh/CoinOpAI fleet; each serves its own OpenAPI and well-known x402 contract.",
+ "resources": [
+  {
+   "resource": "https://ads.forgemesh.io/api/network/stats",
+   "type": "http",
+   "metadata": {
+    "method": "GET",
+    "description": "Network totals + traffic classification split",
+    "name": "Network stats",
+    "priceUsd": 0.005
+   },
+   "accepts": [
     {
-      "resource": "https://x402.forgemesh.io/discovery-theory",
-      "type": "http",
-      "method": "POST",
-      "x402Version": 2,
-      "accepts": [
-        {
-          "scheme": "exact",
-          "network": "eip155:8453",
-          "maxAmountRequired": "0.01",
-          "payTo": "0x84A1827F1705C257e80771fDc2B152Aea4A57a08",
-          "asset": "USDC"
-        }
-      ],
-      "description": "ForgeMesh's written theory of agent-commerce discovery: 10 structured tenets covering free discovery surfaces, the 402 challenge as a free probe, upstream risk tiering, price laddering, and monetizing the shortcut without hiding the underlying map. For agents or builders reasoning about how x402 services should be designed."
-    },
-    {
-      "resource": "https://x402.forgemesh.io/fleet-product-detail",
-      "type": "http",
-      "method": "POST",
-      "x402Version": 2,
-      "accepts": [
-        {
-          "scheme": "exact",
-          "network": "eip155:8453",
-          "maxAmountRequired": "0.05",
-          "payTo": "0x84A1827F1705C257e80771fDc2B152Aea4A57a08",
-          "asset": "USDC"
-        }
-      ],
-      "description": "Full endpoint sheet for one ForgeMesh x402 product: every route, HTTP method, price, description, input schema, and (where available) a worked response example — everything needed to call it correctly on the first try. Required `product` matches an id or name from fleet-products (case-insensitive); an unknown value returns the valid id list."
-    },
-    {
-      "resource": "https://x402.forgemesh.io/fleet-products",
-      "type": "http",
-      "method": "POST",
-      "x402Version": 2,
-      "accepts": [
-        {
-          "scheme": "exact",
-          "network": "eip155:8453",
-          "maxAmountRequired": "0.05",
-          "payTo": "0x84A1827F1705C257e80771fDc2B152Aea4A57a08",
-          "asset": "USDC"
-        }
-      ],
-      "description": "Paid, machine-readable registry of ForgeMesh's production x402 agent services: what each one is, its category, route count, and USD price range. Spans 11 services across onchain intel, voice, travel, econ intel, commerce, infra, and this Utility Grid itself. Optional category filter. Call fleet-product-detail next for full endpoint schemas and worked examples of any listed service."
-    },
-    {
-      "resource": "https://x402.forgemesh.io/forgemesh-philosophy",
-      "type": "http",
-      "method": "POST",
-      "x402Version": 2,
-      "accepts": [
-        {
-          "scheme": "exact",
-          "network": "eip155:8453",
-          "maxAmountRequired": "0.01",
-          "payTo": "0x84A1827F1705C257e80771fDc2B152Aea4A57a08",
-          "asset": "USDC"
-        }
-      ],
-      "description": "ForgeMesh's founding philosophy in structured JSON: the headline, two intro paragraphs, three numbered principles, and the closing line, verbatim from forgemesh.io. The human-readable page is free; this is the machine-readable agent edition, for citing or reasoning about ForgeMesh's values inside an agent pipeline."
-    },
-    {
-      "resource": "https://x402.forgemesh.io/swag-store-catalog",
-      "type": "http",
-      "method": "POST",
-      "x402Version": 2,
-      "accepts": [
-        {
-          "scheme": "exact",
-          "network": "eip155:8453",
-          "maxAmountRequired": "0.05",
-          "payTo": "0x84A1827F1705C257e80771fDc2B152Aea4A57a08",
-          "asset": "USDC"
-        }
-      ],
-      "description": "Live catalog of the x402swag.com storefront: product categories, items with price ranges, and exactly how to buy — free browse/cart/checkout, dynamic-price settlement via x402 USDC or card, and the store's own $0.05 one-call agent shortcut. Optional category filter (apparel, drinkware, stickers, crew-necks, v-necks)."
+     "scheme": "exact",
+     "network": "eip155:8453",
+     "amount": "5000",
+     "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+     "payTo": "0x65E02cB7Fee27630bB7d1a3ADd02Ef7Aa2D21701",
+     "maxTimeoutSeconds": 1800,
+     "extra": {
+      "name": "USD Coin",
+      "version": "2"
+     }
     }
-  ]
+   ]
+  },
+  {
+   "resource": "https://anomaly.forgemesh.io/api/sequence-anomaly",
+   "type": "http",
+   "metadata": {
+    "method": "POST",
+    "description": "Score an event sequence window for anomalies \u2014 catch coordinated stablecoin mint/redeem cycles or exploit chains before they hit news",
+    "name": "Score an event sequence window for anomalies \u2014 catch coordinated stablecoin mint/redeem cycles or exploit chains before they hit news",
+    "priceUsd": 0.05
+   },
+   "accepts": [
+    {
+     "scheme": "exact",
+     "network": "eip155:8453",
+     "amount": "50000",
+     "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+     "payTo": "0xE295B6641b32998537Ae0f8E61Babf729EAEd6E5",
+     "maxTimeoutSeconds": 1800,
+     "extra": {
+      "name": "USD Coin",
+      "version": "2"
+     }
+    }
+   ]
+  },
+  {
+   "resource": "https://crypto.forgemesh.io/api/feedback",
+   "type": "http",
+   "metadata": {
+    "method": "POST",
+    "description": "Send paid feedback or feature requests",
+    "name": "Send paid feedback or feature requests",
+    "priceUsd": 0.005
+   },
+   "accepts": [
+    {
+     "scheme": "exact",
+     "network": "eip155:8453",
+     "amount": "5000",
+     "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+     "payTo": "0x93A1F57D2e0DBE4cc882b5DbAEbe7F0F16443338",
+     "maxTimeoutSeconds": 1800,
+     "extra": {
+      "name": "USD Coin",
+      "version": "2"
+     }
+    }
+   ]
+  },
+  {
+   "resource": "https://imagegen.coinopai.com/generate",
+   "type": "http",
+   "metadata": {
+    "method": "GET",
+    "description": "Generate an AI image from a text prompt",
+    "name": "generate",
+    "priceUsd": 0.25
+   },
+   "accepts": [
+    {
+     "scheme": "exact",
+     "network": "eip155:8453",
+     "amount": "250000",
+     "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+     "payTo": "0x4C1a4FcE51Fea51f128a01ccE8BecB106d391155",
+     "maxTimeoutSeconds": 1800,
+     "extra": {
+      "name": "USD Coin",
+      "version": "2"
+     }
+    }
+   ]
+  },
+  {
+   "resource": "https://notary.forgemesh.io/api/notarize",
+   "type": "http",
+   "metadata": {
+    "method": "POST",
+    "description": "Notarize one AI inference \u2014 returns signed attestation, content hash, receipt token, anchor status",
+    "name": "Notarize inference",
+    "priceUsd": 0.001
+   },
+   "accepts": [
+    {
+     "scheme": "exact",
+     "network": "eip155:8453",
+     "amount": "1000",
+     "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+     "payTo": "0x814EfE784709f5bF8dF47735D87602B01030e5D2",
+     "maxTimeoutSeconds": 1800,
+     "extra": {
+      "name": "USD Coin",
+      "version": "2"
+     }
+    }
+   ]
+  },
+  {
+   "resource": "https://travel-agent.forgemesh.io/api/day-trip-plan",
+   "type": "http",
+   "metadata": {
+    "method": "GET",
+    "description": "Day-trip plan with optional transit-aware route strategy, weather fit, and food stops.",
+    "name": "day-trip-plan",
+    "priceUsd": 0.1
+   },
+   "accepts": [
+    {
+     "scheme": "exact",
+     "network": "eip155:8453",
+     "amount": "100000",
+     "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+     "payTo": "0x7F7C9bfF1DDF2817641740962A9872e6421eBBFc",
+     "maxTimeoutSeconds": 1800,
+     "extra": {
+      "name": "USD Coin",
+      "version": "2"
+     }
+    }
+   ]
+  },
+  {
+   "resource": "https://travel.forgemesh.io/api/fare-intelligence",
+   "type": "http",
+   "metadata": {
+    "method": "GET",
+    "description": "Fare intelligence for a route with buy/wait recommendation",
+    "name": "fare-intelligence",
+    "priceUsd": 0.1
+   },
+   "accepts": [
+    {
+     "scheme": "exact",
+     "network": "eip155:8453",
+     "amount": "100000",
+     "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+     "payTo": "0x6B1aC7935DAD576b921af0E6EDC27319bc27AAdD",
+     "maxTimeoutSeconds": 1800,
+     "extra": {
+      "name": "USD Coin",
+      "version": "2"
+     }
+    }
+   ]
+  },
+  {
+   "resource": "https://voice.forgemesh.io/v1/tts/base",
+   "type": "http",
+   "metadata": {
+    "method": "POST",
+    "description": "Text-to-speech synthesis in 1 of 10 standard voices (5 male M1-M5, 5 female F1-F5) across 31 languages, up to 500 characters, returned as inline WAV audio. Use it to: give an agent a spoken reply, read an alert aloud, narrate a short UI prompt, add voice to a chatbot response, speak a confirmation message. Cheapest tier. USDC on Base via x402, no API key, no signup.",
+    "name": "Text to speech (base)",
+    "priceUsd": 0.001
+   },
+   "accepts": [
+    {
+     "scheme": "exact",
+     "network": "eip155:8453",
+     "amount": "1000",
+     "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+     "payTo": "0x962794FB8aD92941fAf1ab446b9e30637B86F331",
+     "maxTimeoutSeconds": 1800,
+     "extra": {
+      "name": "USD Coin",
+      "version": "2"
+     }
+    }
+   ]
+  },
+  {
+   "resource": "https://x402.coinopai.com/api/search",
+   "type": "http",
+   "metadata": {
+    "method": "GET",
+    "description": "Full-text search over 819 ready-made agent automation prompts and workflows spanning Slack, Notion, email, CRM, and dev-tool integrations. Use it to: find a pre-built automation instead of writing one from scratch, search for a Slack-to-Notion workflow, look up integration prompts by keyword, discover executable agent workflows by use case. Returns slug, title, description, and complexity for each match. USDC on Base via x402.",
+    "name": "Full-text search over 819 ready-made agent automation prompts and workflows spanning Slack, Notion, email, CRM, and dev-tool integrations. Use it to: find a pre-built automation instead of writing one from scratch, search for a Slack-to-Notion workflow, look up integration prompts by keyword, discover executable agent workflows by use case. Returns slug, title, description, and complexity for each match. USDC on Base via x402.",
+    "priceUsd": 0.01
+   },
+   "accepts": [
+    {
+     "scheme": "exact",
+     "network": "eip155:8453",
+     "amount": "10000",
+     "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+     "payTo": "0x1304EC1A8945365e43A5c18a734065f107B417cA",
+     "maxTimeoutSeconds": 1800,
+     "extra": {
+      "name": "USD Coin",
+      "version": "2"
+     }
+    }
+   ]
+  },
+  {
+   "resource": "https://x402swag.com/api/brief/subscribe",
+   "type": "http",
+   "metadata": {
+    "method": "POST",
+    "description": "Subscribe an email to the ForgeMesh Brief \u2014 event-driven x402 ecosystem intel for agent operators (purges, silent API changes, undocumented limits). $0.001 anti-spam price.",
+    "name": "ForgeMesh Brief Subscription",
+    "priceUsd": 0.001
+   },
+   "accepts": [
+    {
+     "scheme": "exact",
+     "network": "eip155:8453",
+     "amount": "1000",
+     "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+     "payTo": "0xf4F7182508895812F235C5D1c47C0cfc89fDAb5B",
+     "maxTimeoutSeconds": 1800,
+     "extra": {
+      "name": "USD Coin",
+      "version": "2"
+     }
+    }
+   ]
+  },
+  {
+   "resource": "https://disruption.forgemesh.io/companies/names",
+   "type": "http",
+   "metadata": {
+    "method": "GET",
+    "description": "Returns matching company names with IDs plus links to their profile and intelligence endpoints \u2014 use it to resolve a search into specific companies before paying for deeper data",
+    "name": "/companies/names",
+    "priceUsd": 0.01
+   },
+   "accepts": [
+    {
+     "scheme": "exact",
+     "network": "eip155:8453",
+     "amount": "10000",
+     "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+     "payTo": "0xA8774fACfD3Da2EA11f240C977b9973D78aDFCFe",
+     "maxTimeoutSeconds": 1800,
+     "extra": {
+      "name": "USD Coin",
+      "version": "2"
+     }
+    }
+   ]
+  },
+  {
+   "resource": "https://library.forgemesh.io/adventure",
+   "type": "http",
+   "method": "POST",
+   "x402Version": 2,
+   "accepts": [
+    {
+     "scheme": "exact",
+     "network": "eip155:8453",
+     "maxAmountRequired": "0.003",
+     "payTo": "0x85df5380DEbe236AD6BF49dE788243924B080267",
+     "asset": "USDC"
+    }
+   ],
+   "description": "Curated shelf of public-domain adventure fiction, ranked by historical popularity. Returns title, author, year, book_id, and drill-down routes for full-text retrieval. No license, no API key required."
+  },
+  {
+   "resource": "https://x402.forgemesh.io/fleet-products",
+   "type": "http",
+   "method": "POST",
+   "x402Version": 2,
+   "accepts": [
+    {
+     "scheme": "exact",
+     "network": "eip155:8453",
+     "maxAmountRequired": "0.05",
+     "payTo": "0x84A1827F1705C257e80771fDc2B152Aea4A57a08",
+     "asset": "USDC"
+    }
+   ],
+   "description": "Paid, machine-readable registry of ForgeMesh's production x402 agent services: what each one is, its category, route count, and USD price range. Spans 11 services across onchain intel, voice, travel, econ intel, commerce, infra, and this Utility Grid itself. Optional category filter. Call fleet-product-detail next for full endpoint schemas and worked examples of any listed service."
+  }
+ ],
+ "servers": [
+  {
+   "name": "ForgeMesh Utility Grid",
+   "url": "https://x402.forgemesh.io",
+   "x402Version": 2,
+   "wellKnown": "https://x402.forgemesh.io/.well-known/x402.json",
+   "openapi": "https://x402.forgemesh.io/openapi.json"
+  },
+  {
+   "name": "ForgeMesh Voice",
+   "url": "https://voice.forgemesh.io",
+   "x402Version": 2,
+   "wellKnown": "https://voice.forgemesh.io/.well-known/x402.json",
+   "openapi": "https://voice.forgemesh.io/openapi.json"
+  },
+  {
+   "name": "ForgeMesh Library",
+   "url": "https://library.forgemesh.io",
+   "x402Version": 2,
+   "wellKnown": "https://library.forgemesh.io/.well-known/x402.json",
+   "openapi": "https://library.forgemesh.io/openapi.json"
+  },
+  {
+   "name": "Kronos Crypto Signals",
+   "url": "https://crypto.forgemesh.io",
+   "x402Version": 2,
+   "wellKnown": "https://crypto.forgemesh.io/.well-known/x402.json",
+   "openapi": "https://crypto.forgemesh.io/openapi.json"
+  },
+  {
+   "name": "Anomaly Intelligence",
+   "url": "https://anomaly.forgemesh.io",
+   "x402Version": 2,
+   "wellKnown": "https://anomaly.forgemesh.io/.well-known/x402.json",
+   "openapi": "https://anomaly.forgemesh.io/openapi.json"
+  },
+  {
+   "name": "Disruption Intelligence",
+   "url": "https://disruption.forgemesh.io",
+   "x402Version": 2,
+   "wellKnown": "https://disruption.forgemesh.io/.well-known/x402.json",
+   "openapi": "https://disruption.forgemesh.io/openapi.json"
+  },
+  {
+   "name": "Fare Intelligence",
+   "url": "https://travel.forgemesh.io",
+   "x402Version": 2,
+   "wellKnown": "https://travel.forgemesh.io/.well-known/x402.json",
+   "openapi": "https://travel.forgemesh.io/openapi.json"
+  },
+  {
+   "name": "Travel Agent",
+   "url": "https://travel-agent.forgemesh.io",
+   "x402Version": 2,
+   "wellKnown": "https://travel-agent.forgemesh.io/.well-known/x402.json",
+   "openapi": "https://travel-agent.forgemesh.io/openapi.json"
+  },
+  {
+   "name": "AI Notary",
+   "url": "https://notary.forgemesh.io",
+   "x402Version": 2,
+   "wellKnown": "https://notary.forgemesh.io/.well-known/x402.json",
+   "openapi": "https://notary.forgemesh.io/openapi.json"
+  },
+  {
+   "name": "Agent Ads",
+   "url": "https://ads.forgemesh.io",
+   "x402Version": 2,
+   "wellKnown": "https://ads.forgemesh.io/.well-known/x402.json",
+   "openapi": "https://ads.forgemesh.io/openapi.json"
+  },
+  {
+   "name": "CoinOpAI",
+   "url": "https://x402.coinopai.com",
+   "x402Version": 2,
+   "wellKnown": "https://x402.coinopai.com/.well-known/x402.json",
+   "openapi": "https://x402.coinopai.com/openapi.json"
+  },
+  {
+   "name": "CoinOpAI ImageGen",
+   "url": "https://imagegen.coinopai.com",
+   "x402Version": 2,
+   "wellKnown": "https://imagegen.coinopai.com/.well-known/x402.json",
+   "openapi": "https://imagegen.coinopai.com/openapi.json"
+  },
+  {
+   "name": "x402 Swag Store",
+   "url": "https://x402swag.com",
+   "x402Version": 2,
+   "wellKnown": "https://x402swag.com/.well-known/x402.json",
+   "openapi": "https://x402swag.com/openapi.json"
+  }
+ ]
 }

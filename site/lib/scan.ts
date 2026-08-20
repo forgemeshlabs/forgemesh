@@ -28,6 +28,12 @@ export type ScanResult = {
 
 export class ScanInputError extends Error {}
 
+// Accept bare hosts ("x402.forgemesh.io") by assuming https.
+export function normalizeScanInput(raw: string): string {
+  const s = String(raw || '').trim();
+  return /^[a-z][a-z0-9+.-]*:\/\//i.test(s) ? s : `https://${s}`;
+}
+
 function isPrivateIp(ip: string): boolean {
   const low = ip.toLowerCase();
   if (net.isIPv6(low) || low.includes(':')) {
@@ -177,7 +183,7 @@ function unreachableResult(url: string, methodUsed: 'GET' | 'POST', startedAt: n
 }
 
 export async function runScan(rawUrl: string): Promise<ScanResult> {
-  const target = await validateScanTarget(String(rawUrl || '').trim());
+  const target = await validateScanTarget(normalizeScanInput(rawUrl));
   const targetUrl = target.href;
 
   const t0 = Date.now();
@@ -329,6 +335,89 @@ export async function runScan(rawUrl: string): Promise<ScanResult> {
     grade,
     findings,
     ...(serviceRootHint ? { service_root_hint: true } : {}),
+  };
+}
+
+// ————— Service-wide scan (root URL → probe its listed routes) —————
+export type ServiceRoute = {
+  url: string;
+  grade: ScanResult['grade'];
+  http_status: number | null;
+  mpp_dual_stack: boolean;
+  first_finding: string | null;
+  findings: string[];
+};
+
+export type ServiceScanResult = {
+  origin: string;
+  total_routes: number;
+  scanned: number;
+  summary: Record<'A' | 'B' | 'C' | 'F', number>;
+  mpp_dual_stack_count: number;
+  routes: ServiceRoute[];
+};
+
+// Same-host routes only: a manifest can list arbitrary third-party URLs, and we
+// won't fan out probes to hosts the user didn't ask about.
+export async function discoverRoutes(rawUrl: string): Promise<string[]> {
+  const target = await validateScanTarget(normalizeScanInput(rawUrl));
+  const res = await fetch(new URL('/.well-known/x402', target).href, {
+    redirect: 'manual',
+    signal: AbortSignal.timeout(5000),
+    cache: 'no-store',
+    headers: { 'user-agent': USER_AGENT },
+  });
+  if (!res.ok) return [];
+  const manifest = (await res.json().catch(() => null)) as { resources?: Array<{ resource?: string }> } | null;
+  const urls: string[] = [];
+  for (const r of manifest?.resources ?? []) {
+    if (typeof r?.resource !== 'string') continue;
+    try {
+      const u = new URL(r.resource);
+      if (u.hostname === target.hostname && /^https?:$/.test(u.protocol)) urls.push(u.href);
+    } catch {
+      /* skip malformed entries */
+    }
+    if (urls.length >= 50) break;
+  }
+  return urls;
+}
+
+export async function runServiceScan(rawUrl: string, cap: number): Promise<ServiceScanResult> {
+  const target = await validateScanTarget(normalizeScanInput(rawUrl));
+  const all = await discoverRoutes(target.href);
+  const picked = all.slice(0, cap);
+  const routes: ServiceRoute[] = [];
+  const pool = 4;
+  for (let i = 0; i < picked.length; i += pool) {
+    const batch = await Promise.all(
+      picked.slice(i, i + pool).map(async (u): Promise<ServiceRoute> => {
+        try {
+          const r = await runScan(u);
+          return {
+            url: u,
+            grade: r.grade,
+            http_status: r.http_status,
+            mpp_dual_stack: r.mpp_dual_stack,
+            first_finding: r.findings[0] ?? null,
+            findings: r.findings,
+          };
+        } catch (e) {
+          return { url: u, grade: 'F', http_status: null, mpp_dual_stack: false, first_finding: (e as Error).message, findings: [(e as Error).message] };
+        }
+      }),
+    );
+    routes.push(...batch);
+  }
+  const summary = { A: 0, B: 0, C: 0, F: 0 };
+  for (const r of routes) summary[r.grade] += 1;
+  return {
+    origin: target.origin,
+    total_routes: all.length,
+    scanned: routes.length,
+    summary,
+    mpp_dual_stack_count: routes.filter((r) => r.mpp_dual_stack).length,
+    routes,
   };
 }
 

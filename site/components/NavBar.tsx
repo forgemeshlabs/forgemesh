@@ -9,6 +9,7 @@ import { RailTicker } from './RailTicker';
 const learnLinks = [
   { label: 'New here? Start', href: '/new-here' },
   { label: 'What is x402?', href: '/x402' },
+  { label: 'What is MPP?', href: '/mpp' },
   { label: 'MCP servers', href: '/#mcp' },
   { label: 'Philosophy', href: '/#philosophy' },
   { label: 'Discovery', href: '/#discovery' },

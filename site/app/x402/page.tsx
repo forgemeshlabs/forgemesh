@@ -381,6 +381,12 @@ export default function X402Page() {
             <h2 className="text-2xl font-semibold tracking-tight text-slate-50 sm:text-3xl">
               x402 vs API keys vs Stripe MPP
             </h2>
+            <p className="mt-4 text-base leading-7 text-slate-400">
+              Stripe’s MPP settles on the same USDC-on-Base rail and answers the same HTTP 402 — see{' '}
+              <a href="/mpp" className="text-blue-400 hover:text-blue-300">what is MPP? →</a>{' '}
+              for how the challenge format differs and why running both on one endpoint is usually
+              the right call.
+            </p>
             <div className="mt-8 overflow-x-auto">
               <table className="w-full min-w-[680px] border-collapse text-left text-sm">
                 <thead>
