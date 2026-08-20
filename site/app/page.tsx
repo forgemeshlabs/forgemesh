@@ -7,6 +7,7 @@ import { Projects } from '@/components/Projects';
 import { Philosophy } from '@/components/Philosophy';
 import { Discovery } from '@/components/Discovery';
 import { Footer } from '@/components/Footer';
+import { ShareBar } from '@/components/ShareBar';
 import { FLEET } from '@/lib/mesh';
 import './home.css';
 
@@ -180,6 +181,7 @@ export default function Home() {
         <Philosophy />
         <Discovery />
       </main>
+      <ShareBar />
       <Footer />
     </>
   );

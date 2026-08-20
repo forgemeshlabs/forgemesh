@@ -8,6 +8,7 @@ import {
   ShieldCheck,
 } from 'lucide-react';
 import { Footer } from '@/components/Footer';
+import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 
@@ -427,6 +428,7 @@ export default function ProxyPage() {
           </div>
         </section>
 
+        <ShareBar />
         <Footer />
       </main>
     </>

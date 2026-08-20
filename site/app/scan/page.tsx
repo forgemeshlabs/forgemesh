@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { Footer } from '@/components/Footer';
+import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { ScanTool } from '@/components/ScanTool';
@@ -88,10 +89,13 @@ export default function ScanPage() {
                 </p>
               </div>
               <div className="rounded border border-white/[0.06] bg-white/[0.02] p-6">
-                <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">ForgeMesh Watch · $5/mo</p>
+                <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-slate-500">
+                  Next up · ForgeMesh Watch · $5/mo
+                </p>
                 <p className="mt-3 text-sm leading-7 text-slate-400">
-                  Coming this week: we scan your endpoints every day and alert you the moment your paywall breaks, your
-                  envelope stops parsing, or your listing dies — before it costs you a week of silent zero-revenue.
+                  The free scan and $5 report above are live now. Watch is what&apos;s next: we scan your endpoints
+                  every day and alert you the moment your paywall breaks, your envelope stops parsing, or your listing
+                  dies — before it costs you a week of silent zero-revenue.
                 </p>
                 <a
                   href="/brief"
@@ -104,6 +108,7 @@ export default function ScanPage() {
           </div>
         </section>
 
+        <ShareBar />
         <Footer />
       </main>
     </>
