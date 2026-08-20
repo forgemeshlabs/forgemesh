@@ -23,6 +23,13 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'x402-v1-v2-client-split-your-endpoint-may-be-unpayable',
+    date: '2026-08-20',
+    title: 'The x402 SDK Went v2. The Client Everyone Installs Didn’t. Your Endpoint May Be Unpayable.',
+    excerpt:
+      '@x402/core went v2 in December 2025 — the server SDK every current guide tells you to build on. x402-fetch, the most-installed client, last shipped April 16, 2026 as v1-only. Four silent wire-format breaks mean neither side ever sees an error while settlements quietly collapse. How we found it, and proved the fix with a real on-chain settlement.',
+  },
+  {
     slug: 'x402-bazaar-health-census-august-2026',
     date: '2026-08-19',
     title: 'We Health-Checked Every Seller in the x402 Bazaar. One in Four Can’t Take an Agent’s Money.',
