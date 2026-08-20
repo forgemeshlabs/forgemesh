@@ -50,3 +50,36 @@ export async function getCheckoutSession(sessionId: string): Promise<{ paid: boo
     scanUrl: session.metadata?.scan_url ?? null,
   };
 }
+
+export async function createWatchCheckout(watchUrl: string): Promise<{ id: string; url: string }> {
+  const session = await stripeRequest('POST', '/checkout/sessions', {
+    mode: 'subscription',
+    'line_items[0][quantity]': '1',
+    'line_items[0][price_data][currency]': 'usd',
+    'line_items[0][price_data][unit_amount]': '500',
+    'line_items[0][price_data][recurring][interval]': 'month',
+    'line_items[0][price_data][product_data][name]': 'ForgeMesh Watch',
+    'line_items[0][price_data][product_data][description]': `Daily health monitoring + alerts for ${watchUrl}`,
+    'metadata[watch_url]': watchUrl,
+    'subscription_data[metadata][watch_url]': watchUrl,
+    success_url: 'https://forgemesh.io/watch/confirmed?session_id={CHECKOUT_SESSION_ID}',
+    cancel_url: 'https://forgemesh.io/scan',
+  });
+  return { id: session.id, url: session.url };
+}
+
+export async function getWatchSession(sessionId: string): Promise<{
+  paid: boolean;
+  watchUrl: string | null;
+  subscriptionId: string | null;
+  customerEmail: string | null;
+}> {
+  if (!/^cs_[a-zA-Z0-9_]+$/.test(sessionId)) throw new Error('invalid session id');
+  const session = await stripeRequest('GET', `/checkout/sessions/${sessionId}`);
+  return {
+    paid: session.payment_status === 'paid',
+    watchUrl: session.metadata?.watch_url ?? null,
+    subscriptionId: typeof session.subscription === 'string' ? session.subscription : (session.subscription?.id ?? null),
+    customerEmail: session.customer_details?.email ?? null,
+  };
+}
