@@ -11,6 +11,7 @@ import {
   WalletCards,
 } from 'lucide-react';
 import { Footer } from '@/components/Footer';
+import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 
@@ -524,6 +525,7 @@ export default function ClawVoicePage() {
           </div>
         </section>
       </main>
+      <ShareBar />
       <Footer />
     </>
   );
