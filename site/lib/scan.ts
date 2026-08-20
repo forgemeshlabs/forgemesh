@@ -23,6 +23,7 @@ export type ScanResult = {
   response_time_ms: number;
   grade: 'A' | 'B' | 'C' | 'F';
   findings: string[];
+  service_root_hint?: boolean;
 };
 
 export class ScanInputError extends Error {}
@@ -240,12 +241,39 @@ export async function runScan(rawUrl: string): Promise<ScanResult> {
 
   const findings: string[] = [];
   let grade: ScanResult['grade'];
+  let serviceRootHint = false;
   if (!is402) {
     grade = 'F';
     if (httpStatus >= 200 && httpStatus < 300) {
-      findings.push(
-        `Endpoint returns HTTP ${httpStatus} without requiring payment: your paywall never fires and agents receive your product for free.`,
-      );
+      // A 200 at a service ROOT is usually the manifest/directory page, not a
+      // broken paywall — check .well-known/x402 so the finding says so.
+      let firstRoute: string | null = null;
+      try {
+        const wk = await fetch(new URL('/.well-known/x402', targetUrl).href, {
+          redirect: 'manual',
+          signal: AbortSignal.timeout(4000),
+          cache: 'no-store',
+          headers: { 'user-agent': USER_AGENT },
+        });
+        if (wk.ok) {
+          const manifest = (await wk.json()) as { resources?: Array<{ resource?: string }> };
+          if (Array.isArray(manifest?.resources) && manifest.resources.length > 0) {
+            serviceRootHint = true;
+            firstRoute = manifest.resources[0]?.resource ?? null;
+          }
+        }
+      } catch {
+        /* no manifest — treat as an ordinary free-serving 200 */
+      }
+      if (serviceRootHint) {
+        findings.push(
+          `This URL answers HTTP ${httpStatus} with free content, but the host publishes an x402 discovery manifest (/.well-known/x402) — you most likely scanned the service DIRECTORY, not a payable route. That's normal: directories are meant to be free. Scan a specific paid endpoint instead${firstRoute ? `, e.g. ${firstRoute}` : ''}.`,
+        );
+      } else {
+        findings.push(
+          `Endpoint returns HTTP ${httpStatus} without requiring payment: your paywall never fires and agents receive your product for free.`,
+        );
+      }
     } else if ([301, 302, 303, 307, 308].includes(httpStatus)) {
       findings.push(
         `Endpoint returns a redirect (HTTP ${httpStatus}) instead of a 402 challenge — this scan does not follow redirects; point payment-gated agents at the final URL directly, or the paywall never fires for them either.`,
@@ -300,6 +328,7 @@ export async function runScan(rawUrl: string): Promise<ScanResult> {
     response_time_ms: responseTimeMs,
     grade,
     findings,
+    ...(serviceRootHint ? { service_root_hint: true } : {}),
   };
 }
 
@@ -312,6 +341,13 @@ export function fixGuides(r: ScanResult): FixGuide[] {
     guides.push({
       title: 'Bring the endpoint back online at its listed URL',
       body: 'Your Bazaar listing points agents at this exact URL. If the service moved, update the resource URL in your discovery manifest (.well-known/x402) and re-verify with the facilitator — a listing pointing at a dead URL costs you every attempted purchase silently. Check DNS, TLS certificate validity, and that your reverse proxy actually routes this path.',
+    });
+    return guides;
+  }
+  if (r.service_root_hint) {
+    guides.push({
+      title: 'Scan a payable route, not the service directory',
+      body: 'The URL you scanned is your service’s directory/manifest page — it is SUPPOSED to be free, so the F here is about the wrong target, not a broken paywall. Pick a specific paid route from your /.well-known/x402 manifest and scan that instead; this report page will re-check whatever URL was purchased, so run a fresh scan on the right route from forgemesh.io/scan.',
     });
     return guides;
   }

@@ -213,11 +213,20 @@ export default async function ReportPage({ searchParams }: { searchParams: Promi
       <div className="mt-12 rounded border border-white/[0.08] bg-white/[0.02] p-6">
         <p className="text-sm leading-7 text-slate-300">
           <strong className="text-slate-100">This page re-scans live on every load</strong> — bookmark it, apply your
-          fixes, and refresh until the grade turns green. No extra charge, ever.
+          fixes, and refresh until the grade turns green. No extra charge, ever. Every scan is also archived on our
+          side, and this page is not indexed by search engines — the link is yours alone.
         </p>
-        <a href="/scan" className="mt-4 inline-flex items-center gap-2 text-sm font-medium text-blue-400 hover:text-blue-300">
-          Scan another endpoint <ArrowRight className="h-4 w-4" aria-hidden />
-        </a>
+        <div className="mt-4 flex flex-wrap gap-4">
+          <a
+            href={`/api/scan/report-file?session_id=${encodeURIComponent(sessionId)}`}
+            className="inline-flex items-center gap-2 rounded border border-white/[0.12] px-4 py-2.5 text-sm text-slate-300 transition-all hover:border-blue-500/50 hover:text-white"
+          >
+            Download report (JSON)
+          </a>
+          <a href="/scan" className="inline-flex items-center gap-2 px-1 py-2.5 text-sm font-medium text-blue-400 hover:text-blue-300">
+            Scan another endpoint <ArrowRight className="h-4 w-4" aria-hidden />
+          </a>
+        </div>
       </div>
     </Shell>
   );
