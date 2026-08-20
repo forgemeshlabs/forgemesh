@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { ArrowRight } from 'lucide-react';
 import { Footer } from '@/components/Footer';
+import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 
@@ -177,6 +178,7 @@ export default function SeoAuthorityPage() {
           </div>
         </section>
 
+        <ShareBar />
         <Footer />
       </main>
     </>

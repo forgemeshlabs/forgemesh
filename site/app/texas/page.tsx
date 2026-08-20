@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { Footer } from '@/components/Footer';
+import { ShareBar } from '@/components/ShareBar';
 import { NavBar } from '@/components/NavBar';
 import { TxWatchList } from '@/components/TxWatch';
 
@@ -71,6 +72,7 @@ export default function TexasWatchPage() {
             <TxWatchList />
           </div>
         </section>
+        <ShareBar />
         <Footer />
       </main>
     </>

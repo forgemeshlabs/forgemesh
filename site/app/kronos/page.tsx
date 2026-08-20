@@ -9,6 +9,7 @@ import {
 } from 'lucide-react';
 import { NavBar } from '@/components/NavBar';
 import { Footer } from '@/components/Footer';
+import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 
 export const metadata: Metadata = {
@@ -193,6 +194,7 @@ export default function KronosPage() {
           </div>
         </section>
       </main>
+      <ShareBar />
       <Footer />
     </>
   );

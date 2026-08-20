@@ -7,6 +7,7 @@ import { RailTicker } from './RailTicker';
 // Reference/explainer pages, folded into one "Learn" dropdown to keep the
 // top level short (operator request, 2026-08-19).
 const learnLinks = [
+  { label: 'New here? Start', href: '/new-here' },
   { label: 'What is x402?', href: '/x402' },
   { label: 'MCP servers', href: '/#mcp' },
   { label: 'Philosophy', href: '/#philosophy' },
