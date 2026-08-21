@@ -10,9 +10,9 @@ const PUBLISHED = '2026-08-21';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
-  title: 'We Funded a Wallet at Breakfast. Scammers Impersonated It by Lunch. | ForgeMesh Labs',
+  title: 'Address Poisoning Attacks on x402 Agent Wallets | ForgeMesh',
   description:
-    'Minutes into a routine payment sweep, our revenue feed showed two $0.00 "payments" from what looked like our own wallet. It was an address-poisoning dust attack — a lookalike address ground to match ours on the exact characters everything truncates to. What happened, how the scam works in plain language, why the agent economy is its perfect target, and the checklist that makes it harmless.',
+    'How address-poisoning dust attacks target x402 agent wallets — a real attack on our own wallet, how the scam works, and five habits that make it harmless.',
   keywords: [
     'address poisoning', 'dust attack', 'crypto wallet security', 'x402 security',
     'agent wallet', 'agent payments', 'USDC Base', 'vanity address scam',

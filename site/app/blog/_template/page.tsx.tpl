@@ -11,8 +11,12 @@ import { BlogArchive } from '@/components/BlogArchive';
 
 const SLUG = '⟪slug-kebab-case⟫';
 const PUBLISHED = '⟪YYYY-MM-DD⟫';
-const TITLE = '⟪Post Title In Title Case⟫';
-const DESCRIPTION = '⟪1-3 sentence description used for meta/OG/search. Concrete numbers beat adjectives.⟫';
+const TITLE = '⟪Editorial headline — punchy, used on-page (h1) and for OG/social⟫';
+const DESCRIPTION = '⟪1-3 sentence description used for OG/social. Concrete numbers beat adjectives.⟫';
+// Search-facing versions (what Google shows). Keyword up front, no cleverness:
+// SEO_TITLE ≤ 60 chars INCLUDING the " | ForgeMesh" suffix; SEO_DESCRIPTION ≤ 155 chars.
+const SEO_TITLE = '⟪Keyword-first title ≤48 chars⟫ | ForgeMesh';
+const SEO_DESCRIPTION = '⟪≤155-char search snippet: what happened + why it matters⟫';
 // Hero image: 16:9, lives at public/blog/<slug>.png (1200×675+). Generate via
 // ImageGen ($0.25 paid call — see checklist) or drop any PNG there. Delete the
 // hero <img> block below if the post genuinely has no image.
@@ -24,8 +28,8 @@ const TAGS = ['⟪tag⟫', '⟪tag⟫', '⟪tag⟫'];
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
-  title: `${TITLE} | ForgeMesh Labs`,
-  description: DESCRIPTION,
+  title: SEO_TITLE,
+  description: SEO_DESCRIPTION,
   keywords: [...TAGS, '⟪extra keyword⟫', 'x402', 'agent payments', 'USDC micropayments', 'Base mainnet'],
   alternates: { canonical: `/blog/${SLUG}` },
   openGraph: {

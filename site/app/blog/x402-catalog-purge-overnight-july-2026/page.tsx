@@ -10,9 +10,9 @@ const PUBLISHED = '2026-08-04';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
-  title: '43% of the x402 Catalog Vanished Overnight. Nobody Announced It. | ForgeMesh Labs',
+  title: '43% of the x402 Catalog Vanished Overnight | ForgeMesh',
   description:
-    'Between two of our crawler snapshots in late July 2026, the x402 Bazaar dropped from 24,925 listings to 14,193. The whale we reported on July 18 was gone. Here is what our monitoring caught, what broke quietly around the same time, and what it did to our own fleet of 13 paid services.',
+    '10,700 x402 listings disappeared between crawler snapshots in the silent late-July purge. What happened, who was hit, and what sellers should check.',
   keywords: [
     'x402 bazaar purge', 'x402 catalog', 'x402 delisting', 'agent economy data',
     'x402 discovery', 'AI agent payments', 'x402 sellers', 'x402 monitoring',

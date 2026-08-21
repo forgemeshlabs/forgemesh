@@ -23,8 +23,12 @@ One pass, every post, no steps skipped. Standing rule (operator, 2026-08-21): **
 - [ ] Add entry to `lib/blog.ts` POSTS array (top = newest): slug, date, title, excerpt, image, **tags**
       (3-4 lowercase topic tags; must match the TAGS const in the post page — they render as chips
       on the index + inline archive and feed meta keywords / OG article:tag / JSON-LD)
-- [ ] Add `<url>` block to `public/sitemap.xml` (copy an existing blog entry, newest first)
-- [ ] (blog index and archive sidebars update automatically from POSTS)
+- [ ] (sitemap, blog index, and archive sidebars all update automatically from POSTS —
+      `app/sitemap.ts` generates /sitemap.xml; only new NON-blog pages need adding there)
+- [ ] SEO metadata split: top-level `metadata.title` ≤ 60 chars incl. " | ForgeMesh" suffix,
+      `metadata.description` ≤ 155 chars, keyword up front. Keep the punchy editorial headline
+      for the on-page h1 and openGraph/twitter titles — search gets the short version, humans
+      and social get the long one.
 
 ## 4. Ship
 - [ ] `cd ~/dev/forgemesh/site && npm run build` — new route must appear in output

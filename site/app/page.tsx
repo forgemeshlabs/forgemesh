@@ -15,6 +15,7 @@ export const metadata: Metadata = {
   title: 'ForgeMesh Labs — Paid APIs for AI Agents · x402 on Base',
   description:
     'Live x402 services for AI agents: notarization, anomaly detection, disruption intel, travel, voice, market signals, image generation. USDC per call on Base, from $0.001. No accounts, no API keys.',
+  alternates: { canonical: '/' },
 };
 
 const MCP_ROWS: { pkg: string; href: string; wraps: string; install: string }[] = [

@@ -10,9 +10,9 @@ const PUBLISHED = '2026-07-18';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
-  title: 'Open USD Blindsided Circle — and Previewed the Fight Over Agent Money | ForgeMesh Labs',
+  title: 'Open USD vs Circle: The Fight Over Agent Money | ForgeMesh',
   description:
-    'On June 30, 2026, a 140-company consortium including Stripe, Coinbase, Visa, Mastercard, and BlackRock launched Open USD, and Circle stock fell 17%. Why it happened, why it matters, and what it means for x402 — where USDC settles ~98% of agent payments today.',
+    '140+ companies launched Open USD, a stablecoin returning reserve yield to participants. Why it targets Circle’s business model and what it means for x402.',
   keywords: [
     'Open USD', 'OUSD stablecoin', 'Circle USDC competition', 'stablecoin war 2026',
     'x402 settlement', 'agent payments stablecoin', 'Circle blindsided',

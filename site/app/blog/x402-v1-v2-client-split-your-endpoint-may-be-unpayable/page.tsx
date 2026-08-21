@@ -10,9 +10,9 @@ const PUBLISHED = '2026-08-20';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
-  title: 'The x402 SDK Went v2. The Client Everyone Installs Didn’t. Your Endpoint May Be Unpayable. | ForgeMesh Labs',
+  title: 'x402 v1/v2 Client Split: Why Endpoints Go Unpayable | ForgeMesh',
   description:
-    '@x402/core shipped v2 in December 2025 — the server SDK every current guide tells you to build on. x402-fetch, the most-installed x402 client, last published April 16, 2026, and only ever spoke v1. Four silent wire-format breaks mean a correct v2 server and the market-standard v1 client fail with no error on either side. How we found it, what it did to our own settlement numbers, and how we proved the fix on-chain.',
+    '@x402/core went v2; x402-fetch still speaks v1. Four silent wire-format breaks make correct servers unpayable. How we found and fixed it on-chain.',
   keywords: [
     'x402 v2', 'x402-fetch', '@x402/core', 'x402 breaking changes', 'x402 wire format',
     'x402 client compatibility', 'x402 402 challenge', 'agent payments', 'MPP dual-stack',
