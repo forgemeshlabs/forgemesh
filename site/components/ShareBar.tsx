@@ -4,9 +4,10 @@ import { useState } from 'react';
 import { usePathname } from 'next/navigation';
 import { Share2, Check, Link2 } from 'lucide-react';
 
-// Compact share row rendered above the footer on content pages.
+// Compact share row. Default: full-width band above the footer on content pages.
+// inline variant: tight row for embedding inside an article (e.g. under the hero image).
 // Builds intent URLs client-side from the canonical page URL + document title.
-export function ShareBar() {
+export function ShareBar({ inline = false }: { inline?: boolean }) {
   const pathname = usePathname();
   const [copied, setCopied] = useState(false);
 
@@ -31,8 +32,8 @@ export function ShareBar() {
   }
 
   return (
-    <div className="border-t border-white/[0.06] px-6 py-8">
-      <div className="mx-auto flex max-w-3xl flex-wrap items-center gap-2">
+    <div className={inline ? 'mt-4' : 'border-t border-white/[0.06] px-6 py-8'}>
+      <div className={inline ? 'flex flex-wrap items-center gap-2' : 'mx-auto flex max-w-3xl flex-wrap items-center gap-2'}>
         <span className="mr-2 inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.2em] text-slate-500">
           <Share2 className="h-3.5 w-3.5" aria-hidden /> Share
         </span>

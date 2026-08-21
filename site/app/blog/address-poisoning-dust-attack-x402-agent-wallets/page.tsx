@@ -103,6 +103,8 @@ export default function Page() {
               height={630}
             />
 
+            <ShareBar inline />
+
             <p className="mt-6 text-lg leading-8 text-slate-300">
               This morning we topped up our fleet&rsquo;s payer wallet with $15 of USDC and ran a
               routine payment sweep — 22 real micropayments across every service we operate, to
@@ -326,7 +328,6 @@ export default function Page() {
           </div>
         </article>
 
-        <ShareBar />
         <Footer />
       </main>
     </>

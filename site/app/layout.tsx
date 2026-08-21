@@ -43,6 +43,15 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       className={`${geistSans.variable} ${geistMono.variable}`}
     >
       <body>
+        {/* First-party Umami analytics, proxied same-origin at /stats (see next.config rewrites). */}
+        <script defer src="/stats/script.js" data-website-id="95646372-43dc-479e-a000-ab3cde688fd4" />
+        {/* Outbound-click events: one delegated listener instead of per-link attributes,
+            so blog CTAs and future links are covered automatically. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `document.addEventListener('click',function(e){var a=e.target&&e.target.closest?e.target.closest('a[href]'):null;if(!a||!window.umami)return;var h=a.href||'';var p=location.pathname;try{if(h.indexOf('npmjs.com')>-1){umami.track('npm-click',{pkg:h.split('/package/')[1]||h,from:p});}else if(h.indexOf('github.com')>-1){umami.track('github-click',{from:p});}else if(h.indexOf('kit.forgemesh.io')>-1){umami.track('kit-click',{from:p});}else if(a.pathname==='/scan'&&p!=='/scan'){umami.track('scan-link-click',{from:p});}else if(a.pathname==='/checklist'&&p!=='/checklist'){umami.track('checklist-link-click',{from:p});}}catch(_){}},true);`,
+          }}
+        />
         <a
           href="#main-content"
           className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-[100] focus:rounded focus:bg-blue-600 focus:px-4 focus:py-2 focus:text-white"
