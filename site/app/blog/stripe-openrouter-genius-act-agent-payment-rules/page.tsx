@@ -28,12 +28,12 @@ export const metadata: Metadata = {
     publishedTime: PUBLISHED,
     modifiedTime: PUBLISHED,
     authors: ['ForgeMesh Labs'],
-    images: ['/fm-nobg.png'],
+    images: ['/blog/stripe-openrouter-genius-act-agent-payment-rules.png'],
   },
   twitter: {
     card: 'summary_large_image',
     site: '@forgemeshlabs',
-    images: ['/fm-nobg.png'],
+    images: ['/blog/stripe-openrouter-genius-act-agent-payment-rules.png'],
     title: 'Three Different People Just Started Writing the Rules for How Agents Pay',
     description:
       'Stripe × OpenRouter, AP2 → FIDO, and the GENIUS Act stablecoin rules — one week, three rulebooks, and the first 24-hour read on the MPP rail.',
@@ -82,7 +82,7 @@ export default function Page() {
 
         <article className="relative px-6 pb-20 pt-28 sm:pt-36">
           <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_18%_16%,rgba(59,130,246,0.20),transparent_32%),radial-gradient(circle_at_84%_18%,rgba(14,165,233,0.10),transparent_30%)]" />
-          <div className="mx-auto flex max-w-6xl justify-center gap-12">
+          <div className="mx-auto flex max-w-6xl flex-wrap justify-center gap-12">
             <div className="min-w-0 max-w-3xl">
             <div className="mb-8 inline-flex items-center gap-3 rounded-full border border-white/[0.08] bg-white/[0.03] px-4 py-2">
               <ForgeMeshMark size={22} className="shrink-0" />
@@ -94,6 +94,14 @@ export default function Page() {
             <h1 className="text-3xl font-semibold leading-[1.08] tracking-tight text-slate-50 sm:text-5xl">
               Three different people just started writing the rules for how agents pay.
             </h1>
+
+            <img
+              src="/blog/stripe-openrouter-genius-act-agent-payment-rules.png"
+              alt="Three glowing rulebooks standing on a dark reflective table"
+              className="mt-8 w-full rounded border border-white/[0.06]"
+              width={1200}
+              height={675}
+            />
 
             <p className="mt-6 text-lg leading-8 text-slate-300">
               In the span of one week: a payments company reportedly bought the biggest AI model
