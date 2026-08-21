@@ -81,8 +81,8 @@ export default function Page() {
 
         <article className="relative px-6 pb-20 pt-28 sm:pt-36">
           <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_18%_16%,rgba(59,130,246,0.20),transparent_32%),radial-gradient(circle_at_84%_18%,rgba(14,165,233,0.10),transparent_30%)]" />
-          <div className="mx-auto flex max-w-6xl flex-wrap justify-center gap-12">
-            <div className="min-w-0 max-w-3xl">
+          <div className="mx-auto flex max-w-6xl flex-wrap justify-center gap-8 xl:gap-12">
+            <div className="min-w-0 max-w-3xl lg:flex-1">
             <div className="mb-8 inline-flex items-center gap-3 rounded-full border border-white/[0.08] bg-white/[0.03] px-4 py-2">
               <ForgeMeshMark size={22} className="shrink-0" />
               <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">
