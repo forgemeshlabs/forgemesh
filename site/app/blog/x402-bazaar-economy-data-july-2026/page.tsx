@@ -10,9 +10,9 @@ const PUBLISHED = '2026-07-18';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
-  title: 'The x402 Economy, Measured: One Seller Is 40% of the Catalog | ForgeMesh Labs',
+  title: 'x402 Economy Data: One Seller Is 40% of the Catalog | ForgeMesh',
   description:
-    'Original data from our x402 Bazaar crawler, July 18, 2026: 24,816 live paid resources, 1,136 sellers, 98% on Base, most prices between $0.01–$0.10 — and a single wallet behind 40% of all listings. What the numbers say about the young agent economy.',
+    'Original crawler data on the x402 Bazaar: 24,816 paid resources, 1,136 sellers, 98% on Base, most calls $0.01–$0.10 — and one wallet behind 40% of listings.',
   keywords: [
     'x402 statistics', 'x402 bazaar', 'x402 ecosystem data', 'agent economy data',
     'x402 sellers', 'AI agent payments statistics', 'x402 catalog',

@@ -10,9 +10,9 @@ const PUBLISHED = '2026-08-04';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
-  title: 'The 500-Character Cliff: One Extra Byte Makes an x402 Listing Silently Unpayable | ForgeMesh Labs',
+  title: 'x402’s 500-Character Limit Breaks Listings Silently | ForgeMesh',
   description:
-    'An x402 resource with a description over an undocumented length limit does not error — it silently stops being purchasable. We measured the cliff at exactly 500 characters. The upstream issue is still open, the docs fix is still unmerged, and here is how to protect your listings today.',
+    'One byte over an undocumented 500-character description limit makes an x402 listing silently unpayable. How we measured the cliff and defend 800+ listings.',
   keywords: [
     'x402 description limit', 'x402 silently unpayable', 'x402 bazaar troubleshooting',
     'x402 listing not indexed', 'x402 500 characters', 'agent economy', 'x402 debugging',

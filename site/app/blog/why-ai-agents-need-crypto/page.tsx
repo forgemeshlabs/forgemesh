@@ -10,9 +10,9 @@ const PUBLISHED = '2026-07-18';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
-  title: 'AI × Blockchain Never Made Sense at Conferences. Then Agents Needed Wallets. | ForgeMesh Labs',
+  title: 'Why AI Agents Actually Need Crypto | ForgeMesh',
   description:
-    'For years, "AI + blockchain" was conference vaporware — models on-chain, tokens for compute, none of it coherent. The real coupling arrived from the opposite direction: AI agents needed money that is programmable, permissionless, and sub-cent. That is what crypto actually had. How x402 made the pairing real.',
+    'AI × blockchain never made sense at conferences. Then agents became economic actors needing money without a human in the loop — crypto’s real product.',
   keywords: [
     'AI crypto', 'why AI needs crypto', 'AI agents crypto payments', 'AI blockchain use case',
     'stablecoin AI agents', 'x402 crypto', 'machine economy crypto', 'agentic payments',

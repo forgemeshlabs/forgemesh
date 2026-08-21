@@ -10,9 +10,9 @@ const PUBLISHED = '2026-08-19';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
-  title: 'We Health-Checked Every Seller in the x402 Bazaar. One in Four Can’t Take an Agent’s Money. | ForgeMesh Labs',
+  title: 'x402 Bazaar Health Census: 1 in 4 Sellers Can’t Sell | ForgeMesh',
   description:
-    'We probed one live endpoint from each of the 1,225 sellers in the x402 Bazaar catalog. 74% pass. 206 sellers are dead at their listed URL, 40 are serving their paid product for free, and 15% already answer with both x402 and MPP challenges. The first health census of the agent economy, from our own crawler.',
+    'We probed all 1,225 x402 Bazaar sellers: 74% pass, 206 dead URLs, 40 giving paid products away free. The first health census of the agent economy.',
   keywords: [
     'x402 Bazaar', 'x402 health check', 'agent economy data', 'x402 endpoint audit',
     'MPP dual-stack adoption', 'x402 sellers', 'agent payments', 'x402 catalog census',
