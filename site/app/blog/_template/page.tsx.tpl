@@ -17,12 +17,16 @@ const DESCRIPTION = '⟪1-3 sentence description used for meta/OG/search. Concre
 // ImageGen ($0.25 paid call — see checklist) or drop any PNG there. Delete the
 // hero <img> block below if the post genuinely has no image.
 const HERO = `/blog/${SLUG}.png`;
+// Topic tags: 3-4, lowercase. MUST match the tags you register in lib/blog.ts
+// (chips on the index + inline archive render from the registry). Fed into
+// meta keywords, OG article:tag, and JSON-LD keywords below for SEO.
+const TAGS = ['⟪tag⟫', '⟪tag⟫', '⟪tag⟫'];
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
   title: `${TITLE} | ForgeMesh Labs`,
   description: DESCRIPTION,
-  keywords: ['⟪keyword⟫', '⟪keyword⟫', 'x402', 'agent payments', 'USDC micropayments', 'Base mainnet'],
+  keywords: [...TAGS, '⟪extra keyword⟫', 'x402', 'agent payments', 'USDC micropayments', 'Base mainnet'],
   alternates: { canonical: `/blog/${SLUG}` },
   openGraph: {
     title: TITLE,
@@ -32,6 +36,7 @@ export const metadata: Metadata = {
     publishedTime: PUBLISHED,
     modifiedTime: PUBLISHED,
     authors: ['ForgeMesh Labs'],
+    tags: TAGS,
     images: [HERO],
   },
   twitter: {
@@ -59,6 +64,7 @@ const structuredData = {
       publisher: { '@type': 'Organization', name: 'ForgeMesh Labs', url: 'https://forgemesh.io' },
       datePublished: PUBLISHED,
       dateModified: PUBLISHED,
+      keywords: TAGS.join(', '),
       image: `https://forgemesh.io${HERO}`,
       mainEntityOfPage: `https://forgemesh.io/blog/${SLUG}`,
     },
@@ -85,7 +91,7 @@ export default function Page() {
 
         <article className="relative px-6 pb-20 pt-28 sm:pt-36">
           <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_18%_16%,rgba(59,130,246,0.20),transparent_32%),radial-gradient(circle_at_84%_18%,rgba(14,165,233,0.10),transparent_30%)]" />
-          <div className="mx-auto flex max-w-6xl justify-center gap-12">
+          <div className="mx-auto flex max-w-6xl flex-wrap justify-center gap-12">
             <div className="min-w-0 max-w-3xl">
               <div className="mb-8 inline-flex items-center gap-3 rounded-full border border-white/[0.08] bg-white/[0.03] px-4 py-2">
                 <ForgeMeshMark size={22} className="shrink-0" />
