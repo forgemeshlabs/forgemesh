@@ -4,6 +4,7 @@ import { Footer } from '@/components/Footer';
 import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
+import { BlogArchive } from '@/components/BlogArchive';
 
 const PUBLISHED = '2026-07-18';
 
@@ -84,7 +85,8 @@ export default function ArticlePage() {
 
         <article className="relative px-6 pb-20 pt-28 sm:pt-36">
           <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_18%_16%,rgba(59,130,246,0.20),transparent_32%),radial-gradient(circle_at_84%_18%,rgba(14,165,233,0.10),transparent_30%)]" />
-          <div className="mx-auto max-w-3xl">
+          <div className="mx-auto flex max-w-6xl justify-center gap-12">
+            <div className="min-w-0 max-w-3xl">
             <div className="mb-8 inline-flex items-center gap-3 rounded-full border border-white/[0.08] bg-white/[0.03] px-4 py-2">
               <ForgeMeshMark size={22} className="shrink-0" />
               <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">
@@ -236,6 +238,8 @@ export default function ArticlePage() {
                 More from the blog
               </a>
             </div>
+            </div>
+            <BlogArchive current="open-usd-circle-stablecoin-x402" />
           </div>
         </article>
 

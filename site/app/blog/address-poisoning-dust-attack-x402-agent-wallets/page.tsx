@@ -4,6 +4,7 @@ import { Footer } from '@/components/Footer';
 import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
+import { BlogArchive } from '@/components/BlogArchive';
 
 const PUBLISHED = '2026-08-21';
 
@@ -27,12 +28,12 @@ export const metadata: Metadata = {
     publishedTime: PUBLISHED,
     modifiedTime: PUBLISHED,
     authors: ['ForgeMesh Labs'],
-    images: ['/fm-nobg.png'],
+    images: ['/blog/address-poisoning-dust-attack-x402-agent-wallets.png'],
   },
   twitter: {
     card: 'summary_large_image',
     site: '@forgemeshlabs',
-    images: ['/fm-nobg.png'],
+    images: ['/blog/address-poisoning-dust-attack-x402-agent-wallets.png'],
     title: 'The $0.00 payment in your feed is an attack',
     description:
       'We funded an agent wallet in the morning. By midday a lookalike address — same first four characters, same last four — was dusting our revenue wallet to poison its history. Address poisoning has found the agent economy.',
@@ -81,7 +82,8 @@ export default function Page() {
 
         <article className="relative px-6 pb-20 pt-28 sm:pt-36">
           <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_18%_16%,rgba(59,130,246,0.20),transparent_32%),radial-gradient(circle_at_84%_18%,rgba(14,165,233,0.10),transparent_30%)]" />
-          <div className="mx-auto max-w-3xl">
+          <div className="mx-auto flex max-w-6xl justify-center gap-12">
+            <div className="min-w-0 max-w-3xl">
             <div className="mb-8 inline-flex items-center gap-3 rounded-full border border-white/[0.08] bg-white/[0.03] px-4 py-2">
               <ForgeMeshMark size={22} className="shrink-0" />
               <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">
@@ -92,6 +94,14 @@ export default function Page() {
             <h1 className="text-3xl font-semibold leading-[1.08] tracking-tight text-slate-50 sm:text-5xl">
               We funded a wallet at breakfast. Scammers impersonated it by lunch.
             </h1>
+
+            <img
+              src="/blog/address-poisoning-dust-attack-x402-agent-wallets.png"
+              alt="Two nearly identical wallet addresses, one genuine and one forged"
+              className="mt-8 w-full rounded border border-white/[0.06]"
+              width={1200}
+              height={630}
+            />
 
             <p className="mt-6 text-lg leading-8 text-slate-300">
               This morning we topped up our fleet&rsquo;s payer wallet with $15 of USDC and ran a
@@ -311,6 +321,8 @@ export default function Page() {
                 More from the blog
               </a>
             </div>
+            </div>
+            <BlogArchive current="address-poisoning-dust-attack-x402-agent-wallets" />
           </div>
         </article>
 
