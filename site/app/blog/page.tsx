@@ -23,6 +23,13 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'address-poisoning-dust-attack-x402-agent-wallets',
+    date: '2026-08-21',
+    title: 'We Funded a Wallet at Breakfast. Scammers Impersonated It by Lunch.',
+    excerpt:
+      'Minutes into a routine payment sweep, our revenue feed pinged with two $0.00 "payments" from what looked like our own wallet. It was an address-poisoning attack: a lookalike address ground to match ours on the first and last four characters — the only ones anything displays. How the scam works in plain language, why agent operators are its perfect target, and the five boring habits that make it harmless.',
+  },
+  {
     slug: 'x402-v1-v2-client-split-your-endpoint-may-be-unpayable',
     date: '2026-08-20',
     title: 'The x402 SDK Went v2. The Client Everyone Installs Didn’t. Your Endpoint May Be Unpayable.',
