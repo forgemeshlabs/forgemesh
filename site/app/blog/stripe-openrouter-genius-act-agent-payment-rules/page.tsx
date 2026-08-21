@@ -248,11 +248,8 @@ export default function Page() {
                 Selling to agents?
               </p>
               <p className="mt-3 text-base leading-7 text-slate-300">
-                We publish everything we learn operating 500+ paid x402 endpoints — including the
-                incidents. The free scan checks whether stock agent clients can actually pay your
-                endpoint, and the Server Starter Kit ships the settlement-proven dual-rail
-                middleware we run in production, with updates dropped into buyers&rsquo; Discord as
-                the ecosystem shifts.
+                Check whether stock agent clients can actually pay your endpoint with the free scan,
+                or ship the settlement-proven dual-rail middleware we run in production.
               </p>
               <div className="mt-4 flex flex-col gap-3 sm:flex-row">
                 <a
