@@ -43,6 +43,7 @@ export function Hero() {
           <ForgeMeshMark size={88} className="hero-mark" />
           <h1 className="hero-wordmark text-5xl sm:text-6xl lg:text-7xl leading-[1.08]">
             ForgeMesh
+            <span className="sr-only"> — paid x402 APIs for AI agents on Base</span>
           </h1>
         </div>
 
@@ -61,8 +62,9 @@ export function Hero() {
 
         {/* Mission */}
         <p className="max-w-2xl mx-auto text-lg text-slate-400 leading-relaxed mb-10">
-          ForgeMesh connects people, agents, and systems to create what none could
-          build alone.
+          A live network of paid x402 APIs on Base — services AI agents pay per
+          call in USDC, plus the field research we publish from running them.
+          No accounts, no API keys.
         </p>
 
         <a

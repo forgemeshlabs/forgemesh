@@ -10,9 +10,9 @@ const PUBLISHED = '2026-08-18';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
-  title: 'Three Different People Just Started Writing the Rules for How Agents Pay | ForgeMesh Labs',
+  title: 'Stripe, AP2, GENIUS Act: New Agent Payment Rules | ForgeMesh',
   description:
-    'In one week: Stripe reportedly bought OpenRouter for $7B+, Google’s AP2 protocol moved to FIDO Alliance governance, and Treasury published the GENIUS Act stablecoin licensing rules in the Federal Register. What each one means for x402 and MPP sellers — plus the first 24-hour read on the MPP rail since the acquisition news broke.',
+    'Stripe reportedly buys OpenRouter, Google’s AP2 moves to FIDO, and GENIUS Act stablecoin rules land — what each means for x402 and MPP sellers.',
   keywords: [
     'Stripe OpenRouter acquisition', 'GENIUS Act stablecoin rules', 'MPP machine payments protocol',
     'AP2 FIDO Alliance', 'agent payments regulation', 'x402', 'stablecoin issuer license',

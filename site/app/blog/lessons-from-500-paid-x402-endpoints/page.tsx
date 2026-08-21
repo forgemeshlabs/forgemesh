@@ -10,9 +10,9 @@ const PUBLISHED = '2026-07-18';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
-  title: 'Five Lessons From Running 500+ Paid x402 Endpoints | ForgeMesh Labs',
+  title: 'Five Lessons From 500+ Paid x402 Endpoints | ForgeMesh',
   description:
-    'Field notes from operating 11 x402 services and counting: upstream APIs will rug-pull you mid-build, empty 402 bodies cost sales, validate before you settle, rate-limit for indexer sweeps, and never charge a buyer for your own errors.',
+    'Field notes from operating 500+ paid x402 endpoints: upstream rug-pulls, why an empty 402 body is a lost sale, and never charging buyers for your errors.',
   keywords: [
     'x402 tutorial', 'sell to AI agents', 'x402 best practices', 'monetize API x402',
     'x402 seller guide', 'agent commerce lessons', 'paid API for agents',

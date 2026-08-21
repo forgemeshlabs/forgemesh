@@ -10,9 +10,9 @@ const PUBLISHED = '2026-07-18';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
-  title: 'Linux Foundation Now Governs x402: Visa, Mastercard, Stripe Among 40 Members | ForgeMesh Labs',
+  title: 'x402 Foundation Launches Under the Linux Foundation | ForgeMesh',
   description:
-    'On July 14, 2026, the Linux Foundation launched the x402 Foundation operationally with 40 members — Visa, Mastercard, American Express, Stripe, Google, AWS, Cloudflare, Coinbase and more. Analysis from operators of 11 live x402 services and counting: what changed, and what it means for anyone selling to AI agents.',
+    'The x402 Foundation is live under Linux Foundation governance with 40 members including Visa, Mastercard, and Stripe. What actually changed for sellers.',
   keywords: [
     'x402 Foundation', 'Linux Foundation x402', 'x402 news', 'agent payments standard',
     'x402 protocol governance', 'internet-native payments', 'AI agent payments',
