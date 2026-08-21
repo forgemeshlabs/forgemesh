@@ -50,6 +50,16 @@ const projects = [
     url: 'https://x402.forgemesh.io',
   },
   {
+    name: 'Gov-Transparency Pack',
+    surface: 'Stuffer endpoint pack',
+    description:
+      'Nine endpoints that give agents structured access to US government accountability data: congressional stock trades from STOCK Act filings, campaign finance, lobbying disclosures, federal contract awards, bill status, and new regulations. All from official public-domain sources — half a cent to two cents per call.',
+    tags: ['x402', 'government data', 'STOCK Act', 'accountability', 'USDC', 'Base'],
+    status: 'active',
+    url: 'https://x402.forgemesh.io',
+    page: '/gov-transparency',
+  },
+  {
     name: 'coinopai-mcp',
     surface: 'MCP package',
     description:
