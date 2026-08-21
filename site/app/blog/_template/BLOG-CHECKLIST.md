@@ -15,9 +15,14 @@ One pass, every post, no steps skipped. Standing rule (operator, 2026-08-21): **
       Style prompt base: "minimalist editorial tech illustration, dark navy background, glowing blue accent, cinematic lighting, no text"
 - [ ] Option B — any PNG dropped in place (screenshots, charts)
 - [ ] View the image before shipping (Read tool) — regenerate if off-brand
+- [ ] Accessibility pass: meaningful `alt` on the hero (describe the scene, not "hero image"),
+      headings in order (one h1, h2 sections), links make sense out of context, no info conveyed
+      by color alone
 
 ## 3. Register the post
-- [ ] Add entry to `lib/blog.ts` POSTS array (top = newest): slug, date, title, excerpt, image
+- [ ] Add entry to `lib/blog.ts` POSTS array (top = newest): slug, date, title, excerpt, image, **tags**
+      (3-4 lowercase topic tags; must match the TAGS const in the post page — they render as chips
+      on the index + inline archive and feed meta keywords / OG article:tag / JSON-LD)
 - [ ] Add `<url>` block to `public/sitemap.xml` (copy an existing blog entry, newest first)
 - [ ] (blog index and archive sidebars update automatically from POSTS)
 
@@ -28,6 +33,12 @@ One pass, every post, no steps skipped. Standing rule (operator, 2026-08-21): **
 - [ ] Commit (NO AI co-author trailers — repo hook blocks them)
 
 ## 5. Cross-post (standing rule — all of these, every time)
+- [ ] **Generate the social kit with the Opal ForgeMesh Social Amplifier** (fastest path):
+      https://opal.google/edit/1ZLUcBVmu3IP4cJxRU0i9UabD4FNHhOVY (clawdbotworker Google account, private)
+      — input the blog URL + optional angle; outputs X thread, X post, IG caption, carousel copy,
+      LinkedIn post, HN title as copy-ready blocks. Or write the kit manually (pattern:
+      ~/cc-share/x402/social/). Pomelli (labs.google.com/u/0/pomelli) holds branded ForgeMesh
+      image creatives — campaign "The Architects of Autonomy" — for IG visuals.
 - [ ] **dev.to** (account: kirothebot, canonical → forgemesh.io):
       `node scripts/crosspost-devto.mjs <markdown-file> "<title>" <slug> "tag1,tag2,tag3,tag4"`
       Write a markdown adaptation first (plain prose, code fences fine; strip JSX-isms).

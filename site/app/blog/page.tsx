@@ -53,18 +53,40 @@ export default function BlogIndex() {
               <a
                 key={post.slug}
                 href={`/blog/${post.slug}`}
-                className="block rounded border border-white/[0.06] bg-white/[0.02] p-6 transition-all hover:border-blue-500/40 hover:bg-blue-500/[0.04]"
+                className="flex gap-6 rounded border border-white/[0.06] bg-white/[0.02] p-6 transition-all hover:border-blue-500/40 hover:bg-blue-500/[0.04]"
               >
-                <time dateTime={post.date} className="font-mono text-xs text-blue-300/80">
-                  {post.date}
-                </time>
-                <h2 className="mt-2 text-xl font-semibold leading-snug text-slate-100 sm:text-2xl">
-                  {post.title}
-                </h2>
-                <p className="mt-3 text-sm leading-6 text-slate-400">{post.excerpt}</p>
-                <span className="mt-4 inline-flex items-center gap-2 text-sm font-medium text-blue-400">
-                  Read the analysis <ArrowRight className="h-4 w-4" aria-hidden />
-                </span>
+                <div className="min-w-0 flex-1">
+                  <time dateTime={post.date} className="font-mono text-xs text-blue-300/80">
+                    {post.date}
+                  </time>
+                  <h2 className="mt-2 text-xl font-semibold leading-snug text-slate-100 sm:text-2xl">
+                    {post.title}
+                  </h2>
+                  <p className="mt-3 text-sm leading-6 text-slate-400">{post.excerpt}</p>
+                  <ul aria-label="Topics" className="mt-4 flex flex-wrap gap-2">
+                    {post.tags.map((t) => (
+                      <li
+                        key={t}
+                        className="rounded-full border border-white/[0.08] bg-white/[0.03] px-3 py-1 text-xs text-slate-400"
+                      >
+                        {t}
+                      </li>
+                    ))}
+                  </ul>
+                  <span className="mt-4 inline-flex items-center gap-2 text-sm font-medium text-blue-400">
+                    Read the analysis <ArrowRight className="h-4 w-4" aria-hidden />
+                  </span>
+                </div>
+                {post.image ? (
+                  <img
+                    src={post.image}
+                    alt=""
+                    loading="lazy"
+                    width={224}
+                    height={126}
+                    className="hidden h-[126px] w-56 shrink-0 self-center rounded border border-white/[0.06] object-cover sm:block"
+                  />
+                ) : null}
               </a>
             ))}
             <p className="pt-4 text-sm leading-6 text-slate-500">
