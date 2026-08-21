@@ -7,7 +7,9 @@ const nextConfig: NextConfig = {
   // tracker is same-origin (adblock-resistant) and works for x402swag.com too.
   async rewrites() {
     return [
-      { source: "/stats/:path*", destination: "http://127.0.0.1:3411/:path*" },
+      // Umami is built with BASE_PATH=/stats, so the prefix is forwarded as-is.
+      { source: "/stats", destination: "http://127.0.0.1:3411/stats" },
+      { source: "/stats/:path*", destination: "http://127.0.0.1:3411/stats/:path*" },
     ];
   },
   async headers() {
