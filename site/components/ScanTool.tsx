@@ -46,12 +46,18 @@ export function ScanTool() {
   const [result, setResult] = useState<FreeScan | null>(null);
   const [service, setService] = useState<ServiceScan | null>(null);
 
+  // Umami is loaded globally from the root layout; window.umami is absent
+  // when the tracker is blocked or not yet loaded — always optional-chain.
+  const track = (event: string, data?: Record<string, string>) =>
+    (window as unknown as { umami?: { track: (e: string, d?: object) => void } }).umami?.track(event, data);
+
   async function scan(e: React.FormEvent) {
     e.preventDefault();
     setScanning(true);
     setError(null);
     setResult(null);
     setService(null);
+    track('scan-start');
     try {
       const res = await fetch('/api/scan', {
         method: 'POST',
@@ -62,8 +68,10 @@ export function ScanTool() {
       if (!res.ok) throw new Error(json.error || 'Scan failed');
       if (json.mode === 'service') setService(json as ServiceScan);
       else setResult(json as FreeScan);
+      track('scan-complete', { mode: json.mode === 'service' ? 'service' : 'free' });
     } catch (e) {
       setError((e as Error).message);
+      track('scan-error');
     } finally {
       setScanning(false);
     }
@@ -72,6 +80,7 @@ export function ScanTool() {
   async function buy(endpoint: '/api/scan/checkout' | '/api/watch/checkout', buyUrl: string) {
     setBuying(true);
     setError(null);
+    track('scan-buy-click', { product: endpoint.includes('watch') ? 'watch' : 'scan-report' });
     try {
       const res = await fetch(endpoint, {
         method: 'POST',

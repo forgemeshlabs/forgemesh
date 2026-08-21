@@ -101,6 +101,8 @@ export default function Page() {
               height={675}
             />
 
+            <ShareBar inline />
+
             <p className="mt-6 text-lg leading-8 text-slate-300">
               There is a class of bug in the agent economy that produces no stack trace, no 4xx, no
               alert — nothing. Your endpoint works. Your listing looks fine. And purchases simply
@@ -204,6 +206,45 @@ export default function Page() {
               ecosystem changes at.
             </p>
 
+            <div className="mt-12 rounded border border-blue-500/25 bg-blue-500/[0.06] p-6">
+              <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">
+                Selling to agents?
+              </p>
+              <p className="mt-3 text-base leading-7 text-slate-300">
+                We publish everything we learn operating 500+ paid x402 endpoints — including the
+                incidents. The free scan checks whether stock agent clients can actually pay your
+                endpoint, and the Server Starter Kit ships the settlement-proven dual-rail
+                middleware we run in production, with updates dropped into buyers&rsquo; Discord as
+                the ecosystem shifts.
+              </p>
+              <div className="mt-4 flex flex-col gap-3 sm:flex-row">
+                <a
+                  href="https://forgemesh.io/scan"
+                  className="inline-flex items-center justify-center gap-2 rounded border border-blue-500/40 bg-blue-500/10 px-5 py-3 text-sm font-medium text-slate-100 transition-all hover:border-blue-400/70 hover:bg-blue-500/20"
+                >
+                  Run the free scan <ArrowRight className="h-4 w-4" aria-hidden />
+                </a>
+                <a
+                  href="https://kit.forgemesh.io"
+                  className="inline-flex items-center justify-center gap-2 rounded border border-white/[0.12] px-5 py-3 text-sm font-medium text-slate-300 transition-all hover:border-blue-500/50 hover:text-white"
+                >
+                  Get the Server Starter Kit — $49
+                </a>
+              </div>
+            </div>
+
+            <p className="mt-10 text-base leading-8 text-slate-400">
+              Related reading:{' '}
+              <a href="/blog/x402-v1-v2-client-split-your-endpoint-may-be-unpayable" className="text-blue-400 hover:text-blue-300">
+                the v1/v2 client split that silently breaks settlements
+              </a>{' '}
+              and{' '}
+              <a href="/blog/lessons-from-500-paid-x402-endpoints" className="text-blue-400 hover:text-blue-300">
+                field lessons from 500+ paid endpoints
+              </a>
+              .
+            </p>
+
             <div className="mt-10 flex flex-col gap-3 sm:flex-row">
               <a
                 href="https://kit.forgemesh.io"
@@ -223,7 +264,6 @@ export default function Page() {
           </div>
         </article>
 
-        <ShareBar />
         <Footer />
       </main>
     </>
