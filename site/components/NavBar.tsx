@@ -34,6 +34,7 @@ const productLinks = [
   { label: 'SEO Authority API', href: '/seo' },
   { label: 'Library', href: 'https://library.forgemesh.io' },
   { label: 'x402 Utility APIs', href: 'https://x402.forgemesh.io' },
+  { label: 'Gov-Transparency', href: '/gov-transparency' },
   { label: 'x402 Proxy', href: 'https://proxy.forgemesh.io' },
   { label: 'Voice', href: 'https://voice.forgemesh.io' },
   { label: 'Disruption Intel', href: 'https://disruption.forgemesh.io' },
