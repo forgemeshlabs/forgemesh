@@ -116,6 +116,8 @@ export default function Page() {
                 height={675}
               />
 
+              <ShareBar inline />
+
               <p className="mt-6 text-lg leading-8 text-slate-300">
                 ⟪Lede paragraph. The hook — lead with the concrete thing that happened or the number
                 that surprises. text-lg makes this the only large paragraph.⟫
@@ -197,7 +199,6 @@ export default function Page() {
           </div>
         </article>
 
-        <ShareBar />
         <Footer />
       </main>
     </>

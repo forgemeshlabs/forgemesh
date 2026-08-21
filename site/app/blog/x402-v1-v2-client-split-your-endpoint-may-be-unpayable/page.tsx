@@ -104,6 +104,8 @@ export default function Page() {
               height={675}
             />
 
+            <ShareBar inline />
+
             <p className="mt-6 text-lg leading-8 text-slate-300">
               In December 2025 the x402 server SDK, <code className="rounded bg-white/[0.06] px-1.5 py-0.5 text-[13px] text-blue-200">@x402/core</code>,
               shipped a v2 major version — the correct move, and the one every current guide tells
@@ -248,6 +250,18 @@ export default function Page() {
               </div>
             </div>
 
+            <p className="mt-10 text-base leading-8 text-slate-400">
+              Related reading:{' '}
+              <a href="/blog/x402-500-character-description-limit" className="text-blue-400 hover:text-blue-300">
+                the 500-character cliff that silently breaks listings
+              </a>{' '}
+              and{' '}
+              <a href="/blog/x402-bazaar-health-census-august-2026" className="text-blue-400 hover:text-blue-300">
+                our health census of every seller in the x402 Bazaar
+              </a>
+              .
+            </p>
+
             <div className="mt-10 flex flex-col gap-3 sm:flex-row">
               <a
                 href="/blog"
@@ -261,7 +275,6 @@ export default function Page() {
           </div>
         </article>
 
-        <ShareBar />
         <Footer />
       </main>
     </>

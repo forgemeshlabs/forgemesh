@@ -269,6 +269,8 @@ export function Projects() {
                   {proj.page && (
                     <a
                       href={proj.page}
+                      data-umami-event="product-card-click"
+                      data-umami-event-product={proj.name}
                       className="text-[10px] font-mono px-2 py-1 rounded border border-blue-400/25 text-blue-300/80 hover:text-blue-200 hover:border-blue-400/50 transition-colors"
                       aria-label={`${proj.name} overview`}
                     >
