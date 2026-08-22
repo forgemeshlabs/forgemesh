@@ -7,6 +7,9 @@ const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"]
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://forgemesh.io"),
+  verification: {
+    other: { "p:domain_verify": ["ec019e66e20af4e00f93482a584b7fd0"] },
+  },
   title: "ForgeMesh Labs — Paid APIs for AI Agents · x402 on Base",
   description:
     "Eight live x402 services for AI agents: notarization, anomaly detection, disruption intel, travel, voice, market signals, image generation. USDC per call on Base, from $0.001. No accounts, no API keys.",
