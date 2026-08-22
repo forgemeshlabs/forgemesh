@@ -50,6 +50,10 @@ One pass, every post, no steps skipped. Standing rule (operator, 2026-08-21): **
 - [ ] **Discord** — drop link in the community + kit-buyers channels
 - [ ] **Instagram** (@forgemesh, hello@forgemesh.io → clawdbotworker@gmail.com) — hero image + carousel
       of the key points as image cards; link in bio. (Manual until Graph API is wired.)
+- [ ] **Pinterest** (GSD Contracts LLC business account, board "AI Agent Economy — Crypto & Payments Explained"):
+      1. generate the 2:3 pin card: add the post to `scripts/make-pins.py` POSTS list, run it, rebuild+restart (pin lands at forgemesh.io/blog/pins/<slug>.png)
+      2. pin via prefilled URL (browser, logged-in Chrome): https://www.pinterest.com/pin/create/button/?url=<blog-url>&media=<pin-image-url>&description=<keyword-rich plain-language description>
+      3. click Save on the board. Space pins out — max ~5/day on the board.
 - [ ] Anywhere else that fits the post (HN for incident/data posts, relevant subreddits, Moltbook)
 
 ## 6. Record
