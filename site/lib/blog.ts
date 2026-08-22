@@ -9,6 +9,15 @@ export type BlogPost = {
 
 export const POSTS: BlogPost[] = [
   {
+    slug: 'x401-identity-protocol-agent-economy',
+    date: '2026-08-22',
+    title: '401 Asks Who You Are. 402 Asks You to Pay. The Agent Web Just Got Both.',
+    excerpt:
+      "Proof's x401 — backed by Circle, OpenAI, Google, and Okta — gives every website a standard way to ask which human is behind an AI agent, using the status code that sat next to 402 for thirty years. What it means for everyone selling to machines, why it would have blunted last week's wallet-impersonation attack, and the honest caveats.",
+    image: '/blog/x401-identity-protocol-agent-economy.png',
+    tags: ['protocol', 'identity', 'x401', 'news'],
+  },
+  {
     slug: 'address-poisoning-dust-attack-x402-agent-wallets',
     date: '2026-08-21',
     title: 'We Funded a Wallet at Breakfast. Scammers Impersonated It by Lunch.',
