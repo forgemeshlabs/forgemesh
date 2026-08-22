@@ -22,3 +22,7 @@ AGENTS.md
 site/public/rail-pulse.json
 site/public/brief-archive.json
 site/public/tx-watch.json
+
+# blog content images are production content, not scratch screenshots
+!site/public/blog/
+!site/public/blog/**
