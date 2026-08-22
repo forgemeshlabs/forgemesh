@@ -57,4 +57,6 @@ One pass, every post, no steps skipped. Standing rule (operator, 2026-08-21): **
 - [ ] Anywhere else that fits the post (HN for incident/data posts, relevant subreddits, Moltbook)
 
 ## 6. Record
+- [ ] Update `~/dev/bpp-social/data/crosspost-state.json` (per-post devto/pinterest/x/instagram/brief flags)
+      — feeds the social dashboard at social.backpocketpower.com
 - [ ] Note the post + cross-post URLs in the session handoff or memory if it's part of a campaign
