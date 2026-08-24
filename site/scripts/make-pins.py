@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+ ("free-agent-economy-scanners", "Can Agents Find, Trust & Pay You? Scan It Free.", "30+ checks, no signup, no spend"),
  ("address-poisoning-dust-attack-x402-agent-wallets", "We Funded a Wallet at Breakfast. Scammers Impersonated It by Lunch.", "The $0.00 payment that wasn't"),
  ("x402-v1-v2-client-split-your-endpoint-may-be-unpayable", "Your Paid API May Be Silently Unpayable", "The x402 v1/v2 client split"),
  ("x402-bazaar-health-census-august-2026", "1 in 4 AI-Economy Sellers Can't Take an Agent's Money", "We health-checked all 1,225"),
