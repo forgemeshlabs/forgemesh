@@ -412,9 +412,19 @@ export function Projects() {
               🧑&zwj;🚀 AI Builders Unite — the members&rsquo; community
             </p>
             <p className="text-sm leading-6 text-slate-400">
-              A members-only Discord where builders shipping paid AI services compare notes — what&rsquo;s
-              working, what broke overnight, and what&rsquo;s coming next. $5/month standalone — or
-              included for life with any x402 Starter Kit.
+              A members-only community for people building with AI — any stack, any level. Daily AI
+              news, free-model radar, GitHub repo radar, collaborators &amp; gigs, and a world map of
+              builders: add your dot at{" "}
+              <a
+                href="https://www.aibuildersunite.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                data-umami-event="abu-site-click"
+                className="text-slate-200 underline decoration-blue-500/50 underline-offset-2 hover:text-white"
+              >
+                aibuildersunite.com
+              </a>
+              . $5/month standalone — or included for life with any x402 Starter Kit.
             </p>
           </div>
           <div className="mt-4 flex flex-col gap-2 sm:mt-0 sm:flex-row sm:shrink-0">
