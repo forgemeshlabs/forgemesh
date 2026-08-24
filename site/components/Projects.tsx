@@ -249,17 +249,55 @@ export function Projects() {
           </p>
         </div>
 
-        <div className="mb-16 rounded-xl border border-blue-500/25 bg-blue-500/[0.05] p-6">
-          <p className="text-xs tracking-widest uppercase text-blue-400/70 mb-2">Free test — no signup, no spend</p>
+        <div className="mb-16">
+          <p className="text-xs tracking-widest uppercase text-blue-400/70 mb-2">Two free tests — no signup, no spend</p>
           <h3 className="text-xl font-medium text-slate-100 tracking-tight">
-            Can agents find, trust, and pay your endpoint? Check it right here.
+            Payment and readiness are different questions. We test both.
           </h3>
-          <p className="mt-2 mb-5 text-sm text-slate-400 max-w-2xl">
-            The same no-spend x402 audit we run on our own fleet — instant A–F grade on the 402
-            challenge, payment envelope, and MPP dual-stack. Full 30+ check agent-readiness sweep:{' '}
-            <code className="rounded bg-white/[0.06] px-1.5 py-0.5 text-xs text-blue-300">npx @forgemeshlabs/aso-audit-mcp</code>
-          </p>
-          <ScanTool />
+          <div className="mt-5 grid grid-cols-1 lg:grid-cols-2 gap-4 items-start">
+            <div className="rounded-xl border border-blue-500/25 bg-blue-500/[0.05] p-6">
+              <p className="text-xs tracking-widest uppercase text-blue-400/70 mb-2">Test 1 · Payment</p>
+              <h4 className="text-lg font-medium text-slate-100">Can agents <em>pay</em> you?</h4>
+              <p className="mt-2 mb-4 text-sm text-slate-400">
+                For anyone selling a paid API. Paste your x402 endpoint, get an instant A–F grade on
+                the 402 challenge, payment envelope, and MPP dual-stack. No-spend by design — the
+                audit never signs a payment.
+              </p>
+              <ScanTool />
+            </div>
+            <div className="rounded-xl border border-white/[0.10] bg-white/[0.02] p-6">
+              <p className="text-xs tracking-widest uppercase text-slate-400/80 mb-2">Test 2 · Readiness</p>
+              <h4 className="text-lg font-medium text-slate-100">Can agents <em>find and trust</em> you?</h4>
+              <p className="mt-2 mb-4 text-sm text-slate-400">
+                For any website — no paid endpoint required. The Agent Signal Optimization sweep:
+                30+ checks across discovery (robots.txt, llms.txt, DNS-AID), AI-bot access, MCP and
+                A2A surfaces, commerce signals, and identity &amp; trust. Run it two ways:
+              </p>
+              <div className="rounded border border-white/[0.08] bg-black/40 p-3 font-mono text-xs text-blue-300 overflow-x-auto">
+                claude mcp add aso -- npx -y @forgemeshlabs/aso-audit-mcp
+              </div>
+              <p className="mt-2 text-xs text-slate-500">
+                …then ask your agent: “Scan example.com for agent readiness.” Works in Claude Code,
+                Cursor, Windsurf — any MCP client.
+              </p>
+              <div className="mt-4 flex flex-col gap-2 sm:flex-row">
+                <a
+                  href="https://agentsignaloptimization.com/#scanner"
+                  data-umami-event="aso-selfassessment-click"
+                  className="inline-flex items-center justify-center rounded border border-blue-500/40 bg-blue-500/10 px-4 py-2 text-sm font-medium text-slate-100 transition-all hover:border-blue-400/70 hover:bg-blue-500/20"
+                >
+                  Take the free self-assessment
+                </a>
+                <a
+                  href="https://github.com/forgemeshlabs/aso-audit-mcp"
+                  data-umami-event="aso-github-click"
+                  className="inline-flex items-center justify-center rounded border border-white/[0.12] px-4 py-2 text-sm font-medium text-slate-300 transition-all hover:border-blue-500/50 hover:text-white"
+                >
+                  Scanner source (MIT)
+                </a>
+              </div>
+            </div>
+          </div>
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
