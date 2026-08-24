@@ -405,6 +405,39 @@ export function Projects() {
             </article>
           ))}
         </div>
+
+        <div className="mt-16 rounded-xl border border-blue-500/25 bg-blue-500/[0.05] p-6 sm:flex sm:items-center sm:justify-between sm:gap-8">
+          <div className="max-w-xl">
+            <p className="text-xs tracking-widest uppercase text-blue-400/70 mb-2">
+              🧑&zwj;🚀 AI Builders Unite — the members&rsquo; community
+            </p>
+            <p className="text-sm leading-6 text-slate-400">
+              A members-only Discord where builders shipping paid AI services compare notes — what&rsquo;s
+              working, what broke overnight, and what&rsquo;s coming next. $5/month standalone — or
+              included for life with any x402 Starter Kit.
+            </p>
+          </div>
+          <div className="mt-4 flex flex-col gap-2 sm:mt-0 sm:flex-row sm:shrink-0">
+            <a
+              href="https://buy.stripe.com/dRmcN529Lc4P3pL6fS1ck02"
+              target="_blank"
+              rel="noopener noreferrer"
+              data-umami-event="abu-monthly-click"
+              className="inline-flex items-center justify-center rounded border border-blue-500/40 bg-blue-500/10 px-4 py-2 text-sm font-medium text-slate-100 transition-all hover:border-blue-400/70 hover:bg-blue-500/20"
+            >
+              Join for $5/mo
+            </a>
+            <a
+              href="https://kit.forgemesh.io"
+              target="_blank"
+              rel="noopener noreferrer"
+              data-umami-event="abu-kit-click"
+              className="inline-flex items-center justify-center rounded border border-white/[0.12] px-4 py-2 text-sm font-medium text-slate-300 transition-all hover:border-blue-500/50 hover:text-white"
+            >
+              Get it free with a kit
+            </a>
+          </div>
+        </div>
       </div>
     </section>
   );
