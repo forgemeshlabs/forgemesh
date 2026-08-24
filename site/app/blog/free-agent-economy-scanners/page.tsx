@@ -206,20 +206,28 @@ export default function Page() {
               </div>
 
               <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
-                Run it right now
+                Two tests, two questions — run the right one
               </h2>
               <p className="mt-4 text-base leading-8 text-slate-400">
-                Browser: paste your endpoint at{' '}
+                They answer different questions, so don&apos;t stop at one.{' '}
+                <strong className="text-slate-200">The payment test</strong> is for anyone selling a
+                paid API: paste your x402 endpoint at{' '}
                 <a href="https://forgemesh.io/scan" className="text-blue-400 hover:text-blue-300">
                   forgemesh.io/scan
-                </a>
-                . Terminal or agent: the full audit is one command away —{' '}
+                </a>{' '}
+                and get the A–F grade on whether an agent&apos;s money can actually reach you.{' '}
+                <strong className="text-slate-200">The readiness test</strong> is for any website,
+                paid endpoint or not: the ASO sweep checks whether agents can find, crawl, trust, and
+                cite you at all. Take the{' '}
+                <a href="https://agentsignaloptimization.com/#scanner" className="text-blue-400 hover:text-blue-300">
+                  free self-assessment
+                </a>{' '}
+                in the browser, or run the automated scanner from any MCP client —{' '}
                 <code className="rounded bg-white/[0.06] px-1.5 py-0.5 text-sm text-blue-300">
-                  npx @forgemeshlabs/aso-audit-mcp
+                  claude mcp add aso -- npx -y @forgemeshlabs/aso-audit-mcp
                 </code>{' '}
-                — and works as an MCP server inside Claude Code, Cursor, or anything else that speaks
-                the protocol. Scan your own site. Scan your competitors. Scan the API you&apos;re about
-                to build on. It&apos;s the same instrument either way, and what it finds is yours.
+                — then ask your agent to scan any domain. Your own site. Your competitors. The API
+                you&apos;re about to build on. What it finds is yours.
               </p>
 
               <div className="mt-12 rounded border border-blue-500/25 bg-blue-500/[0.06] p-6">
