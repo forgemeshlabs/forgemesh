@@ -1,3 +1,5 @@
+import { ScanTool } from '@/components/ScanTool';
+
 const projects = [
   {
     name: 'BotBoard',
@@ -245,6 +247,19 @@ export function Projects() {
             Published packages and services currently running in production.
             Each one is a discrete, independently deployable component.
           </p>
+        </div>
+
+        <div className="mb-16 rounded-xl border border-blue-500/25 bg-blue-500/[0.05] p-6">
+          <p className="text-xs tracking-widest uppercase text-blue-400/70 mb-2">Free test — no signup, no spend</p>
+          <h3 className="text-xl font-medium text-slate-100 tracking-tight">
+            Can agents find, trust, and pay your endpoint? Check it right here.
+          </h3>
+          <p className="mt-2 mb-5 text-sm text-slate-400 max-w-2xl">
+            The same no-spend x402 audit we run on our own fleet — instant A–F grade on the 402
+            challenge, payment envelope, and MPP dual-stack. Full 30+ check agent-readiness sweep:{' '}
+            <code className="rounded bg-white/[0.06] px-1.5 py-0.5 text-xs text-blue-300">npx @forgemeshlabs/aso-audit-mcp</code>
+          </p>
+          <ScanTool />
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">

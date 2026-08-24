@@ -9,6 +9,15 @@ export type BlogPost = {
 
 export const POSTS: BlogPost[] = [
   {
+    slug: 'free-agent-economy-scanners',
+    date: '2026-08-24',
+    title: 'Can Agents Find You, Trust You, and Pay You? Scan It. Free.',
+    excerpt:
+      'We run 19 paid MCP servers and measure everything that breaks. Our scanners — 30+ agent-readiness checks and a no-spend x402 endpoint audit — are free, and this week they learned our newest field findings: the 500-character cliff, the extensionless manifest rule, and why empty descriptions make you invisible to buying agents.',
+    image: '/blog/free-agent-economy-scanners.png',
+    tags: ['agent-readiness', 'x402', 'mcp', 'free-tools'],
+  },
+  {
     slug: 'x401-identity-protocol-agent-economy',
     date: '2026-08-22',
     title: '401 Asks Who You Are. 402 Asks You to Pay. The Agent Web Just Got Both.',
