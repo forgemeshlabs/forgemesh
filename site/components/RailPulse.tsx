@@ -13,6 +13,8 @@ type RailPulseData = {
     x402Tx: number | null;
     x402Listings: number | null;
     x402ListingsDeltaPct: number | null;
+    baseListings?: number | null;
+    solanaListings?: number | null;
     analysis: string;
   };
   history: { date: string; mppTx: number; mppVol: number; x402Tx: number | null }[];
@@ -128,6 +130,19 @@ export function RailPulse() {
                       ({x402Delta} d/d)
                     </span>
                   )}
+                </span>
+              )}
+              {latest.baseListings != null && latest.solanaListings != null && (
+                <span className="text-sm text-slate-400">
+                  &middot; USDC/Base{' '}
+                  <span className="font-medium text-blue-300">
+                    {((latest.baseListings / Math.max(1, latest.baseListings + latest.solanaListings)) * 100).toFixed(1)}%
+                  </span>{' '}
+                  vs SOL{' '}
+                  <span className="font-medium text-slate-50">
+                    {((latest.solanaListings / Math.max(1, latest.baseListings + latest.solanaListings)) * 100).toFixed(1)}%
+                  </span>{' '}
+                  of live listings
                 </span>
               )}
             </div>
