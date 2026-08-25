@@ -48,8 +48,13 @@ One pass, every post, no steps skipped. Standing rule (operator, 2026-08-21): **
       Write a markdown adaptation first (plain prose, code fences fine; strip JSX-isms).
 - [ ] **X/@forgemeshlabs** — thread or single post; hook + link. (x-twitter-growth skill for format.)
 - [ ] **Discord** — drop link in the community + kit-buyers channels
-- [ ] **Instagram** (@forgemesh, hello@forgemesh.io → clawdbotworker@gmail.com) — hero image + carousel
-      of the key points as image cards; link in bio. (Manual until Graph API is wired.)
+- [ ] **Instagram + Facebook Page** (@forgemesh / ForgeMesh Page) — ONE COMMAND via Graph API:
+      1. add the post to `scripts/make-pins.py` POSTS (also feeds the IG card), run it AND
+         `python3 scripts/make-ig-cards.py`, rebuild + `fleet restart forgemesh-web`
+         (cards must be live at forgemesh.io/blog/pins/ig/<slug>.jpg)
+      2. `cd ~/dev/bpp-social && node scripts/post-social.js <slug>` (add `--dry` to preview)
+      Posts the 4:5 card to IG + link post to the FB Page, flips the state flags itself.
+      Tokens in ~/dev/bpp-social/.env (page token never expires; app "ForgeMesh Publisher").
 - [ ] **Pinterest** (GSD Contracts LLC business account, board "AI Agent Economy — Crypto & Payments Explained"):
       1. generate the 2:3 pin card: add the post to `scripts/make-pins.py` POSTS list, run it, rebuild+restart (pin lands at forgemesh.io/blog/pins/<slug>.png)
       2. pin via prefilled URL (browser, logged-in Chrome): https://www.pinterest.com/pin/create/button/?url=<blog-url>&media=<pin-image-url>&description=<keyword-rich plain-language description>
