@@ -301,7 +301,7 @@ export function Projects() {
           <p className="mt-4 text-sm text-slate-400">
             📚 New to hosting entirely? Start with the free{" "}
             <a
-              href="https://kit.forgemesh.io/basics"
+              href="https://kit.forgemesh.io/stack-basics"
               data-umami-event="basics-course-click"
               className="text-slate-200 underline decoration-blue-500/50 underline-offset-2 hover:text-white"
             >
