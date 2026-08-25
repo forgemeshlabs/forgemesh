@@ -9,6 +9,24 @@ export type BlogPost = {
 
 export const POSTS: BlogPost[] = [
   {
+    slug: 'mppscan-vanishing-volume',
+    date: '2026-08-25',
+    title: "MPPscan's All-Time Volume Fell 97% in Six Days. Volume Can't Do That.",
+    excerpt:
+      'We log MPPscan\'s headline stats daily. The "all-time" MPP volume counter went from $94,874 to $2,370 in six days — a thing cumulative totals cannot do. Our logs, two explanations that fit the shape, and why every agent-economy stat deserves a "self-reported" label until proven otherwise.',
+    image: '/blog/mppscan-vanishing-volume.png',
+    tags: ['mpp', 'data-hygiene', 'agent-payments', 'field report'],
+  },
+  {
+    slug: 'solana-flips-base-x402-catalog',
+    date: '2026-08-25',
+    title: 'Solana Flipped Base on Daily x402 Transactions — With 1.4% of the Catalog',
+    excerpt:
+      'Crypto Briefing reports Solana passed Base in daily x402 transactions for the first time in six months. Our crawler indexes the live x402 catalog three times a day: 14,669 listings settle on Base, 217 on Solana. Throughput is not builders — here is how both facts are true at once, and what an actual exodus would look like.',
+    image: '/blog/solana-flips-base-x402-catalog.png',
+    tags: ['x402', 'base', 'solana', 'field report'],
+  },
+  {
     slug: 'x402swag-agent-merch-store',
     date: '2026-08-25',
     title: 'We Opened a Merch Store. Some of the Customers Might Not Be Human.',
