@@ -298,6 +298,17 @@ export function Projects() {
               </div>
             </div>
           </div>
+          <p className="mt-4 text-sm text-slate-400">
+            📚 New to hosting entirely? Start with the free{" "}
+            <a
+              href="https://kit.forgemesh.io/basics"
+              data-umami-event="basics-course-click"
+              className="text-slate-200 underline decoration-blue-500/50 underline-offset-2 hover:text-white"
+            >
+              Stack Basics course
+            </a>{" "}
+            — servers, domains, coding agents, and model costs, from zero. Web, printable, or free ebook.
+          </p>
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
