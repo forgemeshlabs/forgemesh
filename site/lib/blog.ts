@@ -9,6 +9,15 @@ export type BlogPost = {
 
 export const POSTS: BlogPost[] = [
   {
+    slug: 'stack-basics-free-course',
+    date: '2026-08-25',
+    title: 'Your Laptop Is Not a Vending Machine. Stack Basics Is Live — Free.',
+    excerpt:
+      'The most-asked question we get is "teach me how to actually build this." So we wrote it down. Stack Basics is a free five-module course on everything before the build: where your always-on machine lives, the plumbing that makes it reachable, the coding agents that do the typing now, and what AI models actually cost. No email gate, printable, free ebook included.',
+    image: '/blog/stack-basics-free-course.png',
+    tags: ['free course', 'self-hosting', 'stack basics', 'agent economy'],
+  },
+  {
     slug: 'free-agent-economy-scanners',
     date: '2026-08-24',
     title: 'Can Agents Find You, Trust You, and Pay You? Scan It. Free.',
