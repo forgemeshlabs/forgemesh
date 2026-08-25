@@ -45,6 +45,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable}`}
     >
+      <head>
+        {/* Impact affiliate network domain verification — exact tag as issued (uses value=, not content=). */}
+        <meta name="impact-site-verification" {...({ value: "391f02c4-08c7-4a55-b46e-9348fa743967" } as Record<string, string>)} />
+      </head>
       <body>
         {/* First-party Umami analytics, proxied same-origin at /stats (see next.config rewrites). */}
         <script defer src="/stats/script.js" data-website-id="95646372-43dc-479e-a000-ab3cde688fd4" />
