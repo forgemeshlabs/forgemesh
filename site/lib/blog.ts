@@ -9,6 +9,15 @@ export type BlogPost = {
 
 export const POSTS: BlogPost[] = [
   {
+    slug: 'x402swag-agent-merch-store',
+    date: '2026-08-25',
+    title: 'We Opened a Merch Store. Some of the Customers Might Not Be Human.',
+    excerpt:
+      'x402swag.com sells 49 designs of protocol merch — holographic 402 stickers, terminal mugs, robot tees — and every product can be bought two ways: by card, or by an AI agent paying USDC over x402 on Base. The same 402 flow our paid APIs run all day, pointed at a t-shirt. If the rails can sell a mug, they can sell anything.',
+    image: '/blog/x402swag-agent-merch-store.png',
+    tags: ['x402 merch', 'agent economy', 'usdc', 'field report'],
+  },
+  {
     slug: 'stack-basics-free-course',
     date: '2026-08-25',
     title: 'Your Laptop Is Not a Vending Machine. Stack Basics Is Live — Free.',

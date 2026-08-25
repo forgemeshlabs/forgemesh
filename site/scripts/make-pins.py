@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+ ("x402swag-agent-merch-store", "The Merch Store Where AI Agents Can Buy Shirts", "Card or USDC over x402 — 49 designs"),
  ("stack-basics-free-course", "Free Course: Everything Before You Build", "5 modules, no email, free ebook"),
  ("free-agent-economy-scanners", "Can Agents Find, Trust & Pay You? Scan It Free.", "30+ checks, no signup, no spend"),
  ("x401-identity-protocol-agent-economy", "401 Asks Who You Are. 402 Asks You to Pay.", "The agent web just got both"),
