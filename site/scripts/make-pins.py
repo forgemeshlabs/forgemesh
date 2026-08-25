@@ -2,6 +2,8 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+ ("mppscan-vanishing-volume", "An 'All-Time' Volume Counter Fell 97% in Six Days", "Cumulative totals can't shrink"),
+ ("solana-flips-base-x402-catalog", "Solana Flipped Base on x402 Txns — With 1.4% of the Catalog", "Throughput is not builders"),
  ("x402swag-agent-merch-store", "The Merch Store Where AI Agents Can Buy Shirts", "Card or USDC over x402 — 49 designs"),
  ("stack-basics-free-course", "Free Course: Everything Before You Build", "5 modules, no email, free ebook"),
  ("free-agent-economy-scanners", "Can Agents Find, Trust & Pay You? Scan It Free.", "30+ checks, no signup, no spend"),
