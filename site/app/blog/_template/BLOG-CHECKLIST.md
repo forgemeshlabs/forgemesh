@@ -47,6 +47,9 @@ One pass, every post, no steps skipped. Standing rule (operator, 2026-08-21): **
       `node scripts/crosspost-devto.mjs <markdown-file> "<title>" <slug> "tag1,tag2,tag3,tag4"`
       Write a markdown adaptation first (plain prose, code fences fine; strip JSX-isms).
 - [ ] **X/@forgemeshlabs** — thread or single post; hook + link. (x-twitter-growth skill for format.)
+      UTM convention (feeds the umami UTM/attribution reports): append
+      `?utm_source=<x|pinterest|devto|discord>&utm_medium=social&utm_campaign=<slug>` to the blog URL
+      on every channel where the link is clickable. post-social.js already tags the FB link automatically.
 - [ ] **Discord** — drop link in the community + kit-buyers channels
 - [ ] **Instagram + Facebook Page** (@forgemesh / ForgeMesh Page) — ONE COMMAND via Graph API:
       1. add the post to `scripts/make-pins.py` POSTS (also feeds the IG card), run it AND
