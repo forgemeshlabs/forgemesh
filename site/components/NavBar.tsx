@@ -65,7 +65,7 @@ export function NavBar() {
           : 'bg-transparent'
       }`}
     >
-      <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
+      <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between gap-6">
         <a href="/" className="flex items-center gap-2.5 group">
           <ForgeMeshMark size={30} className="shrink-0" />
           <span className="text-sm font-medium text-slate-200 tracking-tight group-hover:text-white transition-colors">
@@ -73,7 +73,7 @@ export function NavBar() {
           </span>
         </a>
 
-        <div className="hidden md:flex items-center gap-8">
+        <div className="hidden md:flex items-center gap-6">
           {[
             { label: 'Blog', href: '/blog' },
             { label: 'The Brief', href: '/brief' },
