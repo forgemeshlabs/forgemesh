@@ -1,6 +1,7 @@
 'use client';
 
 import { MeshBackground } from './MeshBackground';
+import { RailPulse } from './RailPulse';
 import { ForgeMeshMark } from './ForgeMeshMark';
 
 const terminalLines = [
@@ -76,6 +77,11 @@ export function Hero() {
             <path d="M8 3v10M4 9l4 4 4-4" />
           </svg>
         </a>
+
+        {/* Rail Pulse — real-world rail data above the fold (operator, 2026-08-26) */}
+        <div className="mb-10 w-full">
+          <RailPulse embedded />
+        </div>
 
         {/* Terminal snippet */}
         <div
