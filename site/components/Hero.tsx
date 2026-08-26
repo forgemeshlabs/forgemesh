@@ -9,7 +9,7 @@ export function Hero() {
   // Rail Pulse moved in, and justify-center was shoving the wordmark up behind
   // the fixed nav + ticker.
   return (
-    <section className="relative min-h-screen flex flex-col items-center justify-start overflow-hidden pt-32 pb-24 sm:pt-36">
+    <section className="relative flex flex-col items-center justify-start overflow-hidden pt-32 pb-6 sm:pt-36">
       <MeshBackground />
 
       {/* Radial glow */}
