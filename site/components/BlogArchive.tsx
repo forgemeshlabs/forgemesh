@@ -27,16 +27,8 @@ export function BlogArchive({ current }: { current?: string }) {
                   aria-current={p.slug === current ? 'page' : undefined}
                   className="group flex gap-3"
                 >
-                  {p.image ? (
-                    <img
-                      src={p.image}
-                      alt=""
-                      loading="lazy"
-                      width={64}
-                      height={36}
-                      className="mt-1 h-9 w-16 shrink-0 rounded border border-white/[0.06] object-cover"
-                    />
-                  ) : null}
+                  {/* No thumbnails in the sticky side rail (operator, 2026-08-26) —
+                      the inline below-post variant keeps them. */}
                   <span className="min-w-0">
                     <time dateTime={p.date} className="block font-mono text-[10px] text-slate-500">
                       {p.date}

@@ -276,6 +276,8 @@ export default function Page() {
               scale. Address books, full-length comparisons, and alert thresholds do.
             </p>
 
+            <ShareBar inline />
+
             <div className="mt-12 rounded border border-blue-500/25 bg-blue-500/[0.06] p-6">
               <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">
                 Selling to agents?

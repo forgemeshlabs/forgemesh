@@ -192,6 +192,8 @@ export default function Page() {
                 number that can only go up goes down, that&apos;s not noise. That&apos;s the story.
               </p>
 
+              <ShareBar inline />
+
               <div className="mt-12 rounded border border-blue-500/25 bg-blue-500/[0.06] p-6">
                 <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">
                   Verify, then trust

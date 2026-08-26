@@ -156,6 +156,9 @@ export default function Page() {
                 ))}
               </div>
 
+              {/* Second share row — end-of-article, before the CTA (operator, 2026-08-26) */}
+              <ShareBar inline />
+
               {/* CTA box — keep unless the post is pure news */}
               <div className="mt-12 rounded border border-blue-500/25 bg-blue-500/[0.06] p-6">
                 <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">

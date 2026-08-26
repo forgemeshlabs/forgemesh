@@ -105,6 +105,8 @@ export default function Page() {
                 height={675}
               />
 
+              <ShareBar inline />
+
               <p className="mt-6 text-lg leading-8 text-slate-300">
                 Since 1997, HTTP has carried two status codes that sat side by side doing almost
                 nothing: <strong className="text-slate-100">401 Unauthorized</strong> — &ldquo;tell
@@ -192,6 +194,8 @@ export default function Page() {
                 what we find. If the agent web is getting a second handshake, we want field notes
                 from the first grip.
               </p>
+
+              <ShareBar inline />
 
               <div className="mt-12 rounded border border-blue-500/25 bg-blue-500/[0.06] p-6">
                 <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">
