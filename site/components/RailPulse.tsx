@@ -125,7 +125,9 @@ function Tile({
   );
 }
 
-export function RailPulse() {
+// embedded: rendered inside the Hero under the "Every Builder Belongs" link —
+// drops the standalone section chrome (border, bg, px) and forces text-left.
+export function RailPulse({ embedded = false }: { embedded?: boolean }) {
   const [data, setData] = useState<RailPulseData | null>(null);
   const [failed, setFailed] = useState(false);
 
@@ -157,7 +159,14 @@ export function RailPulse() {
   const solPct = railTotal !== null && sol !== null ? (sol / railTotal) * 100 : null;
 
   return (
-    <section className="scroll-mt-24 border-b border-white/[0.06] bg-[#050509] px-6 py-8" id="rail-pulse">
+    <section
+      className={
+        embedded
+          ? 'scroll-mt-24 w-full py-6 text-left'
+          : 'scroll-mt-24 border-b border-white/[0.06] bg-[#050509] px-6 py-8'
+      }
+      id="rail-pulse"
+    >
       <div className="mx-auto max-w-5xl">
         <div className="mb-4 flex flex-wrap items-baseline gap-x-3 gap-y-1">
           <p className="flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">
@@ -168,7 +177,7 @@ export function RailPulse() {
             Rail Pulse
           </p>
           <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-slate-500">
-            {latest.date} &middot; daily agent-payment telemetry
+            {latest.date} &middot; live agent-payment telemetry, refreshed 4×/day
           </p>
         </div>
 
