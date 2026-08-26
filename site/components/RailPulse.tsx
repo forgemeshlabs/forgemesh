@@ -13,9 +13,17 @@ type RailPulseData = {
     x402Tx: number | null;
     x402Listings: number | null;
     x402ListingsDeltaPct: number | null;
+    x402Tx30d?: number | null;
+    x402Vol30d?: number | null;
+    x402TxDeltaPct?: number | null;
+    x402VolDeltaPct?: number | null;
+    x402TxSpark?: number[] | null;
+    x402VolSpark?: number[] | null;
     baseListings?: number | null;
     solanaListings?: number | null;
     analysis: string;
+    analysisParts?: string[];
+    sourceNote?: string;
   };
   history: { date: string; mppTx: number; mppVol: number; x402Tx: number | null; x402Listings?: number | null }[];
 };
@@ -25,6 +33,7 @@ function fmtInt(n: number) {
 }
 
 function fmtUsd(n: number) {
+  if (n >= 1000000) return `$${(n / 1000000).toFixed(2)}M`;
   if (n >= 10000) return `$${(n / 1000).toFixed(1)}k`;
   return `$${Math.round(n).toLocaleString('en-US')}`;
 }
@@ -163,7 +172,7 @@ export function RailPulse() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
           <Tile
             label="MPP transactions"
             value={fmtInt(latest.mppTx)}
@@ -176,6 +185,22 @@ export function RailPulse() {
             delta={latest.mppVolDeltaPct}
             spark={history.map((h) => h.mppVol)}
           />
+          {latest.x402Tx30d != null && (
+            <Tile
+              label="x402 transactions · 30d"
+              value={fmtInt(latest.x402Tx30d)}
+              delta={latest.x402TxDeltaPct ?? null}
+              spark={latest.x402TxSpark ?? undefined}
+            />
+          )}
+          {latest.x402Vol30d != null && (
+            <Tile
+              label="x402 volume (USDC) · 30d"
+              value={fmtUsd(latest.x402Vol30d)}
+              delta={latest.x402VolDeltaPct ?? null}
+              spark={latest.x402VolSpark ?? undefined}
+            />
+          )}
           {latest.x402Listings !== null && (
             <Tile
               label="x402 catalog listings"
@@ -210,7 +235,21 @@ export function RailPulse() {
           )}
         </div>
 
-        <p className="mt-3 max-w-3xl text-sm leading-6 text-slate-400">{latest.analysis}</p>
+        <div className="mt-4 max-w-3xl">
+          <ul className="space-y-1.5">
+            {(latest.analysisParts ?? latest.analysis.replace(/\.\s*Self-reported[^.]*\.\s*$/, '').split(/;\s+/)).map(
+              (part) => (
+                <li key={part} className="flex gap-2.5 text-sm leading-6 text-slate-400">
+                  <span className="mt-[9px] h-1 w-1 shrink-0 rounded-full bg-blue-300/60" aria-hidden="true" />
+                  <span>{part.replace(/\.\s*$/, '')}</span>
+                </li>
+              )
+            )}
+          </ul>
+          <p className="mt-2 font-mono text-[10px] uppercase tracking-[0.15em] text-slate-600">
+            {latest.sourceNote ?? 'Self-reported dashboard data.'}
+          </p>
+        </div>
       </div>
     </section>
   );
