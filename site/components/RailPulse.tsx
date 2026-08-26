@@ -231,7 +231,7 @@ export function RailPulse({ embedded = false }: { embedded?: boolean }) {
               <div className="mt-3 space-y-1.5 text-sm">
                 <p className="flex items-center gap-2 text-slate-300">
                   <span className="h-2 w-2 rounded-full bg-blue-300" aria-hidden="true" />
-                  USDC / Base
+                  Base
                   <span className="ml-auto font-semibold text-slate-50 tabular-nums">{basePct.toFixed(1)}%</span>
                 </p>
                 <p className="flex items-center gap-2 text-slate-400">
