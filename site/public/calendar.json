@@ -1,0 +1,53 @@
+{
+  "updatedAt": "2026-08-26T14:30:00.000Z",
+  "events": [
+    {
+      "date": "2026-09-14",
+      "title": "Congress reconvenes — 14 working days to election recess",
+      "tag": "policy",
+      "what": "Lawmakers return from August recess with only 14 working days before the October election recess.",
+      "why": "Every pending crypto and agent-payment bill has to move in this window or wait out the election.",
+      "link": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Cloudflare default-blocks mixed-use AI crawlers",
+      "tag": "rails",
+      "what": "Crawlers that blend search, AI training, and agent use get blocked by default on ad-hosting pages for new customers, new sites, and all free-plan sites. AI companies had until today to separate their crawlers.",
+      "why": "The open web starts gating machine traffic at the edge — and paid, identified access (the thing x402 sells) becomes the sanctioned path in. Cloudflare's pay-per-crawl marketplace is evolving into pay-per-use alongside it.",
+      "link": "https://blog.cloudflare.com/content-independence-day-ai-options/"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "CLARITY Act cloture vote in the Senate",
+      "tag": "policy",
+      "what": "Procedural vote on whether to limit debate and advance the digital-asset market-structure bill to the Senate floor. Needs 60 votes; a failed cloture vote could effectively kill the bill this Congress.",
+      "why": "This is the rulebook for which agency regulates digital-asset markets — including a DeFi trading framework and stablecoin yield rules that shape how agent money is allowed to work.",
+      "link": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "GENIUS Act stablecoin rules — comment period closes",
+      "tag": "policy",
+      "what": "Treasury's licensing regime for payment-stablecoin issuers closes its Federal Register comment docket.",
+      "why": "The comment docket is the earliest signal of which stablecoin issuers will seek licenses — and whose settlement rail gets complicated. Watch for the issuer behind your rail.",
+      "link": "https://www.federalregister.gov/documents/2026/08/18/2026-16796/genius-act-regulations-on-payment-stablecoin-issuance-offer-and-sale"
+    },
+    {
+      "date": "2026-12-10",
+      "title": "ERCOT data-center audit reports due",
+      "tag": "grid",
+      "what": "Audit reports on up to 300 proposed Texas data centers are due — disclosures of financing, water, power plans, and ownership. New large-load approvals are paused until the audit completes.",
+      "why": "The first honest census of how much of the 474 GW interconnection queue is real. Whatever survives disclosure is the true footprint of the machine economy in Texas.",
+      "link": "https://forgemesh.io/blog/texas-ercot-300-data-center-audit"
+    },
+    {
+      "date": "2026-12-17",
+      "title": "ERCOT presents data-center audit results",
+      "tag": "grid",
+      "what": "ERCOT presents the audit findings publicly, one week after reports come due.",
+      "why": "Expect the headline number — how many of ~300 proposed sites are credible — and the shape of whatever approval process replaces the pause.",
+      "link": "https://forgemesh.io/blog/texas-ercot-300-data-center-audit"
+    }
+  ]
+}
