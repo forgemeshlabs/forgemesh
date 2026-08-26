@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+ ("fall-2026-calendar-convergence", "Every Clock in the Machine Economy Strikes This Fall", "Sept 15 double-header + the 1,064-day clock"),
  ("texas-ercot-300-data-center-audit", "Texas Peaks at 91 GW. Its Data-Center Queue Wants 474.", "ERCOT audits 300 sites, approvals paused"),
  ("x402-record-day-money-didnt-move", "x402's Biggest Day Ever Moved $38K — at 3¢ a Payment", "1.17M payments in 15 hours, flat volume"),
  ("mppscan-vanishing-volume", "An 'All-Time' Volume Counter Fell 97% in Six Days", "Cumulative totals can't shrink"),
