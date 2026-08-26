@@ -39,7 +39,7 @@ export function Hero() {
           <ForgeMeshMark size={88} className="hero-mark" />
           <h1 className="hero-wordmark text-5xl sm:text-6xl lg:text-7xl leading-[1.08]">
             ForgeMesh
-            <span className="sr-only"> — paid x402 APIs for AI agents on Base</span>
+            <span className="sr-only"> — paid APIs for AI agents, on every payment rail</span>
           </h1>
         </div>
 
@@ -58,9 +58,9 @@ export function Hero() {
 
         {/* Mission */}
         <p className="max-w-2xl mx-auto text-lg text-slate-400 leading-relaxed mb-10">
-          A live network of paid x402 APIs on Base — services AI agents pay per
-          call in USDC, plus the field research we publish from running them.
-          No accounts, no API keys.
+          A live network of paid APIs that AI agents pay per call — x402, MPP,
+          and whatever rail comes next — plus the field research we publish
+          from running them. No accounts, no API keys.
         </p>
 
         <a
@@ -80,14 +80,6 @@ export function Hero() {
         </div>
       </div>
 
-      {/* Scroll indicator */}
-      <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-slate-600">
-        <span className="text-xs tracking-widest uppercase">Scroll</span>
-        <svg viewBox="0 0 16 24" className="w-4 h-6 animate-float" fill="none" stroke="currentColor" strokeWidth="1.5">
-          <rect x="1" y="1" width="14" height="22" rx="7" />
-          <circle cx="8" cy="6" r="2" fill="currentColor" stroke="none" />
-        </svg>
-      </div>
     </section>
   );
 }

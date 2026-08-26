@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   verification: {
     other: { "p:domain_verify": ["ec019e66e20af4e00f93482a584b7fd0"] },
   },
-  title: "ForgeMesh Labs — Paid APIs for AI Agents · x402 on Base",
+  title: "ForgeMesh Labs — Paid APIs for AI Agents · x402 & MPP",
   description:
-    "Eight live x402 services for AI agents: notarization, anomaly detection, disruption intel, travel, voice, market signals, image generation. USDC per call on Base, from $0.001. No accounts, no API keys.",
+    "Eight live paid services for AI agents: notarization, anomaly detection, disruption intel, travel, voice, market signals, image generation. Pay per call from $0.001 over x402 or MPP. No accounts, no API keys.",
   keywords: [
-    "x402", "MCP servers", "paid APIs for AI agents", "agent commerce", "USDC micropayments",
-    "Base mainnet", "autonomous agent economy", "machine-to-machine commerce", "agentic systems",
+    "x402", "MPP", "machine payments protocol", "MCP servers", "paid APIs for AI agents", "agent commerce", "stablecoin micropayments",
+    "autonomous agent economy", "machine-to-machine commerce", "agentic systems",
   ],
   authors: [{ name: "ForgeMesh Labs" }],
   icons: {
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "ForgeMesh Labs — Paid APIs for AI Agents",
-    description: "Eight live x402 services. USDC per call on Base, from $0.001. No accounts, no API keys.",
+    description: "Eight live paid services for AI agents. Pay per call from $0.001 over x402 or MPP. No accounts, no API keys.",
     type: "website",
     url: "https://forgemesh.io",
   },
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     site: "@forgemeshlabs",
     creator: "@forgemeshlabs",
     title: "ForgeMesh Labs — Paid APIs for AI Agents",
-    description: "Eight live x402 services. USDC per call on Base, from $0.001. No accounts, no API keys.",
+    description: "Eight live paid services for AI agents. Pay per call from $0.001 over x402 or MPP. No accounts, no API keys.",
   },
 };
 
