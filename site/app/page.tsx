@@ -1,7 +1,6 @@
 import type { Metadata } from 'next';
 import { NavBar } from '@/components/NavBar';
 import { Hero } from '@/components/Hero';
-import { RailPulse } from '@/components/RailPulse';
 import { Architecture } from '@/components/Architecture';
 import { Projects } from '@/components/Projects';
 import { Philosophy } from '@/components/Philosophy';
@@ -101,7 +100,6 @@ export default function Home() {
       <NavBar />
       <main id="main-content">
         <Hero />
-        <RailPulse />
 
         <div className="fm-root">
           <section className="fm-sec" id="x402">
