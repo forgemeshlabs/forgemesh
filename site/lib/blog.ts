@@ -9,6 +9,15 @@ export type BlogPost = {
 
 export const POSTS: BlogPost[] = [
   {
+    slug: 'x402-record-day-money-didnt-move',
+    date: '2026-08-26',
+    title: "x402 Just Set a Transaction Record. The Money Didn't Move.",
+    excerpt:
+      'On August 25 the x402 rail settled 1.17 million payments in one 15-hour window — an all-time record, six times baseline, about 22 payments per second. Total value moved: $38,771, at three cents a payment. Our 30-day bucket data on what a machine-payment flood looks like, and why transaction counts and dollars are telling two different stories.',
+    image: '/blog/x402-record-day-money-didnt-move.png',
+    tags: ['x402', 'agent-payments', 'micropayments', 'field report'],
+  },
+  {
     slug: 'mppscan-vanishing-volume',
     date: '2026-08-25',
     title: "MPPscan's All-Time Volume Fell 97% in Six Days. Volume Can't Do That.",
