@@ -4,7 +4,11 @@ import { Footer } from '@/components/Footer';
 import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
-import { POSTS } from '@/lib/blog';
+import { allPosts } from '@/lib/runtime-blog';
+
+// Rendered per-request so posts published at runtime (content/registry.json,
+// no rebuild) appear immediately.
+export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
@@ -23,6 +27,7 @@ export const metadata: Metadata = {
 };
 
 export default function BlogIndex() {
+  const POSTS = allPosts();
   return (
     <>
       <NavBar />

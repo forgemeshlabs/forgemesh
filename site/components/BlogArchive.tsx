@@ -1,10 +1,13 @@
-import { POSTS } from '@/lib/blog';
+import { allPosts } from '@/lib/runtime-blog';
 
 // Rendered on every blog post page. Two variants from one component:
 // - lg+ (1024px): sticky right rail with the full archive, thumbnails included
 // - below lg (tablets/phones): compact archive section that flows after the
 //   article body, so no viewport misses the archive.
+// Reads the merged compiled+runtime registry: fresh on dynamic pages; on
+// prebuilt post pages it's frozen at build and catches up on the next build.
 export function BlogArchive({ current }: { current?: string }) {
+  const POSTS = allPosts();
   const post = POSTS.find((p) => p.slug === current);
   return (
     <>
