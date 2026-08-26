@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-08-26T14:30:00.000Z",
+  "updatedAt": "2026-08-26T15:10:00.000Z",
   "events": [
     {
+      "id": "trump-crypto-meeting",
+      "date": "2026-08-19",
+      "title": "Trump hosts crypto executives at the White House",
+      "tag": "policy",
+      "what": "President Trump hosted Ripple's Garlinghouse, Coinbase's Armstrong, ICE's Sprecher, Robinhood's Tenev, and Kraken's Sethi — with SEC Chair Atkins in the room — one day after regulators unveiled new crypto rules, and publicly pressed Congress to pass the CLARITY Act.",
+      "why": "Set the political stage for the September 15 cloture vote: the White House put its weight behind the market-structure bill with the industry's CEOs standing next to it.",
+      "link": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say"
+    },
+    {
+      "id": "congress-reconvenes",
       "date": "2026-09-14",
       "title": "Congress reconvenes — 14 working days to election recess",
       "tag": "policy",
@@ -10,6 +20,7 @@
       "link": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month"
     },
     {
+      "id": "cloudflare-crawler-block",
       "date": "2026-09-15",
       "title": "Cloudflare default-blocks mixed-use AI crawlers",
       "tag": "rails",
@@ -18,6 +29,7 @@
       "link": "https://blog.cloudflare.com/content-independence-day-ai-options/"
     },
     {
+      "id": "clarity-cloture",
       "date": "2026-09-15",
       "title": "CLARITY Act cloture vote in the Senate",
       "tag": "policy",
@@ -26,6 +38,36 @@
       "link": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month"
     },
     {
+      "id": "kbw-2026",
+      "date": "2026-09-29",
+      "endDate": "2026-10-01",
+      "title": "Korea Blockchain Week 2026 — Seoul",
+      "tag": "conference",
+      "what": "Asia's premier Web3 conference at Walkerhill, Seoul: industry leaders, entrepreneurs, and institutional investors on blockchain, AI, and digital-asset regulation.",
+      "why": "The fall conference corridor opens here — announcements seeded at KBW tend to detonate at TOKEN2049 the following week.",
+      "link": "https://koreablockchainweek.com/"
+    },
+    {
+      "id": "token2049-sg",
+      "date": "2026-10-07",
+      "endDate": "2026-10-08",
+      "title": "TOKEN2049 Singapore",
+      "tag": "conference",
+      "what": "The world's largest crypto and Web3 conference — ~25,000 attendees from 160 countries at Marina Bay Sands, with TOKEN2049 Week running October 5–11.",
+      "why": "If there's a major agent-payments or x402 ecosystem announcement brewing, this is the stage it lands on. Ends one day before the Bitcoin cycle pattern's projected turning point.",
+      "link": "https://www.token2049.com/singapore"
+    },
+    {
+      "id": "btc-cycle-window",
+      "date": "2026-10-09",
+      "title": "Bitcoin 1,064/364-day cycle — projected turning point",
+      "tag": "markets",
+      "what": "The widely circulated 1,064-day-rise / 364-day-decline pattern (2015→2017→2018→2021→2022→Oct 6 2025 ATH) projects its next turning point around this date — roughly 364 days after the October 6, 2025 all-time high.",
+      "why": "A pattern with n=3 is a rhyme, not a law — but half the market trades like it believes it, which makes the window itself an event. Full date math in our write-up.",
+      "link": "https://forgemesh.io/blog/fall-2026-calendar-convergence"
+    },
+    {
+      "id": "genius-comments-close",
       "date": "2026-10-19",
       "title": "GENIUS Act stablecoin rules — comment period closes",
       "tag": "policy",
@@ -34,20 +76,24 @@
       "link": "https://www.federalregister.gov/documents/2026/08/18/2026-16796/genius-act-regulations-on-payment-stablecoin-issuance-offer-and-sale"
     },
     {
+      "id": "ercot-reports-due",
       "date": "2026-12-10",
       "title": "ERCOT data-center audit reports due",
       "tag": "grid",
       "what": "Audit reports on up to 300 proposed Texas data centers are due — disclosures of financing, water, power plans, and ownership. New large-load approvals are paused until the audit completes.",
       "why": "The first honest census of how much of the 474 GW interconnection queue is real. Whatever survives disclosure is the true footprint of the machine economy in Texas.",
-      "link": "https://forgemesh.io/blog/texas-ercot-300-data-center-audit"
+      "link": "https://communityimpact.com/central-austin/government/ercot-to-audit-nearly-300-proposed-data-centers-by-the-end-of-2026-officials-say/",
+      "post": "/blog/texas-ercot-300-data-center-audit"
     },
     {
+      "id": "ercot-presentation",
       "date": "2026-12-17",
       "title": "ERCOT presents data-center audit results",
       "tag": "grid",
       "what": "ERCOT presents the audit findings publicly, one week after reports come due.",
       "why": "Expect the headline number — how many of ~300 proposed sites are credible — and the shape of whatever approval process replaces the pause.",
-      "link": "https://forgemesh.io/blog/texas-ercot-300-data-center-audit"
+      "link": "https://communityimpact.com/central-austin/government/ercot-to-audit-nearly-300-proposed-data-centers-by-the-end-of-2026-officials-say/",
+      "post": "/blog/texas-ercot-300-data-center-audit"
     }
   ]
 }
