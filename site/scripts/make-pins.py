@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+ ("texas-ercot-300-data-center-audit", "Texas Peaks at 91 GW. Its Data-Center Queue Wants 474.", "ERCOT audits 300 sites, approvals paused"),
  ("x402-record-day-money-didnt-move", "x402's Biggest Day Ever Moved $38K — at 3¢ a Payment", "1.17M payments in 15 hours, flat volume"),
  ("mppscan-vanishing-volume", "An 'All-Time' Volume Counter Fell 97% in Six Days", "Cumulative totals can't shrink"),
  ("solana-flips-base-x402-catalog", "Solana Flipped Base on x402 Txns — With 1.4% of the Catalog", "Throughput is not builders"),
