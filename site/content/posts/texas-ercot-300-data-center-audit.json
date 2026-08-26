@@ -1,0 +1,73 @@
+{
+  "slug": "texas-ercot-300-data-center-audit",
+  "date": "2026-08-26",
+  "title": "Texas Has 474 GW of Big Loads in Line. The Whole State Peaks at 91.",
+  "excerpt": "ERCOT will audit up to 300 proposed data centers by December, and new approvals are paused while it happens. The numbers behind the order: proposed facilities want ~200 GW — more than double Texas's all-time peak — and the interconnection queue holds 474 GW of large loads, 90% of them data centers. Why a machine-payment lab watches the grid.",
+  "tags": [
+    "texas",
+    "data centers",
+    "infrastructure",
+    "field report"
+  ],
+  "description": "ERCOT will audit up to 300 proposed data centers by December 2026, with new approvals paused. Proposed load: ~200 GW against a 91 GW all-time peak, and a 474 GW large-load queue that is 90% data centers.",
+  "seoTitle": "ERCOT Data Center Audit: 474 GW Queued | ForgeMesh",
+  "seoDescription": "ERCOT will audit ~300 proposed Texas data centers by Dec 2026, approvals paused. Proposed load ~200 GW vs a 91 GW state peak; 474 GW queued, 90% data centers.",
+  "twitterTitle": "Texas peaks at 91 GW. Its data-center queue wants 474.",
+  "twitterDescription": "ERCOT is auditing ~300 proposed data centers and pausing new approvals. The queue holds 474 GW of large loads — 90% data centers. The grid is the new bottleneck.",
+  "heroAlt": "The outline of Texas rendered in glowing blue circuitry, packed with server racks, looming over a thin strained power transmission line on a dark navy background",
+  "breadcrumb": "ERCOT Data Center Audit",
+  "lede": "Texas's grid operator just hit the brakes. ERCOT will audit up to 300 proposed data centers by the end of 2026 — and while the audit runs, new data-center approvals are paused. The arithmetic behind the order is the story: the proposed facilities together want roughly **200 gigawatts** of electricity, more than double the 91 GW all-time record for the entire state of Texas, and ERCOT's interconnection queue now holds **474 GW of large-load requests — 90% of them data centers**. Texas has more data-center demand in line than five Texases.",
+  "sections": [
+    {
+      "heading": "What actually happened",
+      "paras": [
+        "Governor Abbott directed the audit in August; ERCOT confirmed the scope this week. Every proposed facility over 75 MW gets audited — developers must disclose tax exemptions, water and electricity usage plans, community-disturbance mitigation, and ownership information *before* their grid connection is approved. Audit reports are due December 10 and get presented December 17. Facilities in the 25–75 MW band dodge the audit and can still proceed through local utility interconnection.",
+        "The pause is the part with teeth. This isn't a disclosure formality running in parallel — new large-load approvals wait for the audit. And ERCOT's own timeline is already slipping: asked about the related \"Batch Zero\" study, ERCOT's Chad Seely said [\"we will not have the study done by April — we're still working on what that new timeline might be.\"](https://communityimpact.com/central-austin/government/ercot-to-audit-nearly-300-proposed-data-centers-by-the-end-of-2026-officials-say/)"
+      ]
+    },
+    {
+      "heading": "The arithmetic that doesn't fit",
+      "paras": [
+        "Grids are built for peaks. Texas's all-time peak — every air conditioner in the state running at once — is 91 GW. The ~300 audited proposals alone want about 200 GW. The full large-load queue wants 474 GW. Even knowing that interconnection queues are aspirational — developers file the same project in multiple spots, and most queued capacity everywhere never gets built — the *ratio* is the signal. When the speculative pipeline is five times the physical grid, the constraint on the machine economy has officially moved: it's not GPUs anymore, it's substations, water agreements, and transmission towers."
+      ],
+      "stats": [
+        {
+          "n": "300",
+          "d": "Proposed data centers ERCOT will audit by December, with new approvals paused meanwhile."
+        },
+        {
+          "n": "200 GW",
+          "d": "Electricity the audited proposals want — more than double the 91 GW all-time Texas peak."
+        },
+        {
+          "n": "474 GW",
+          "d": "Total large-load interconnection queue. 90% of it is data centers."
+        }
+      ]
+    },
+    {
+      "heading": "Why a machine-payment lab watches the grid",
+      "paras": [
+        "We track agent-payment rails all day — the transaction floods, the three-cent micropayments, the buyers arriving from AWS and Ramp. Every one of those transactions is an agent buying *compute*, and every watt of that compute has to come out of a wall somewhere. The rail data and the grid data are the same story at different layers: yesterday we wrote about [x402's record 1.17M-payment window](/blog/x402-record-day-money-didnt-move); today the grid operator hosting much of that compute said *prove you're real before you plug in*. Demand verification is coming to both layers at once — x402 researchers warning that settlement counts alone can't prove organic adoption, and now ERCOT warning that interconnection requests alone can't prove real load.",
+        "That's why our [Texas Watch feed](/texas) exists: ForgeMesh runs from Texas, on this grid, and the fights over substations, water agreements, and zoning in places like Conroe and Abilene are where the agent economy's physical ceiling gets set. This audit is the biggest single entry that feed has ever caught."
+      ]
+    },
+    {
+      "heading": "What to watch next",
+      "paras": [
+        "Three dates and one number. **December 10**: audit reports due — the first honest census of which proposals have real financing, real water, and real ownership behind them. **December 17**: ERCOT presents the results. **The Batch Zero re-timeline**, whenever it lands, tells you how long the approval pause effectively lasts. And the number: how much of that 474 GW queue *survives* the audit. If history is a guide, most of it evaporates on contact with disclosure requirements — and whatever remains is the true footprint of the machine economy in Texas. We'll log all of it on the Texas Watch feed as it lands, same as we log the rails."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "The machine economy runs on this grid",
+    "copy": "We track this beat continuously — grid filings, zoning fights, and fab announcements land on our live Texas Watch feed at forgemesh.io/texas, and the payment rails those data centers will serve are on the Rail Pulse strip on our homepage. If you're building services agents will pay for, make sure they can find you first."
+  },
+  "related": [
+    {
+      "slug": "x402-record-day-money-didnt-move",
+      "text": "x402 just set a transaction record — and the money didn't move"
+    }
+  ],
+  "image": "/content/assets/texas-ercot-300-data-center-audit.png"
+}
