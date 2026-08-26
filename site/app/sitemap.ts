@@ -1,5 +1,8 @@
 import type { MetadataRoute } from 'next';
-import { POSTS } from '@/lib/blog';
+import { allPosts } from '@/lib/runtime-blog';
+
+// Regenerated per-request so runtime-published posts are indexed immediately.
+export const dynamic = 'force-dynamic';
 
 const BASE = 'https://forgemesh.io';
 
@@ -29,6 +32,7 @@ const STATIC_ROUTES = [
 const DISCOVERY_ROUTES = ['/llms.txt', '/index.json', '/.well-known/x402'];
 
 export default function sitemap(): MetadataRoute.Sitemap {
+  const POSTS = allPosts();
   const latestPost = POSTS.map((p) => p.date).sort().reverse()[0];
 
   return [
