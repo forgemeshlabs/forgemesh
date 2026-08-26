@@ -230,6 +230,8 @@ export default function Page() {
                 you&apos;re about to build on. What it finds is yours.
               </p>
 
+              <ShareBar inline />
+
               <div className="mt-12 rounded border border-blue-500/25 bg-blue-500/[0.06] p-6">
                 <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">
                   When the scan finds problems
