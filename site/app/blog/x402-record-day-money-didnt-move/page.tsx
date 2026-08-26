@@ -112,7 +112,7 @@ export default function Page() {
 
               <p className="mt-6 text-lg leading-8 text-slate-300">
                 On August 25, the x402 rail settled 1,172,496 payments in a single 15-hour reporting
-                window — an all-time record, roughly six times the rail&apos;s typical pace, and 38%
+                window, per x402scan&apos;s tracker — an all-time record for the series, roughly six times the rail&apos;s typical pace, and 38%
                 above the previous high set nine days earlier. Sustained, that&apos;s about 22 payments
                 per second for 15 straight hours. Total value moved in the record window: $38,771.
                 Average payment: three cents. The biggest day in the protocol&apos;s history barely
@@ -173,29 +173,64 @@ export default function Page() {
               </p>
 
               <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
-                What a machine flood actually is
+                Who&apos;s actually flooding the rail
               </h2>
               <p className="mt-4 text-base leading-8 text-slate-400">
                 A three-cent average at hundreds of thousands of calls per window is the signature of
                 agents paying per-request for cheap endpoints — data lookups, inference calls,
-                per-item fees — in a tight loop. That is, incidentally, exactly what x402 was built
-                for; the rail handled its record day without drama, which is the genuinely bullish
-                fact in this dataset. One attribution note: x402scan indexes activity across chains,
-                including both Base and Solana, and this surge window overlaps the widely reported
-                stretch in which Solana passed Base on daily x402 transaction counts. We can&apos;t
-                attribute the flood to a specific chain or buyer from the headline series alone — but
-                we&apos;d point out, as we did when the flip made news, that our catalog crawler still
-                finds 98.5% of live x402 listings settling on Base. Throughput spikes are workloads;
-                catalogs are builders.
+                per-item fees — in a tight loop. And this month, the buyers behind loops like that
+                stopped being hypothetical. On August 18,{' '}
+                <a href="https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-payments-ga/" className="text-blue-400 hover:text-blue-300">
+                  AWS made Bedrock AgentCore Payments generally available
+                </a>{' '}
+                — production agents on Amazon&apos;s stack can now discover and pay x402 endpoints
+                automatically, with a curated bazaar of pay-per-use endpoints built into the console.
+                Two days later,{' '}
+                <a href="https://www.cryptowisser.com/news/ramp-lets-ai-agents-make-payments-on-solana/" className="text-blue-400 hover:text-blue-300">
+                  Ramp switched on agent wallets
+                </a>{' '}
+                for its 70,000+ business customers, funding and auditing agent spend on Solana. And
+                gateway aggregators like BlockRun — a single endpoint that routes and pays for 55+
+                models and APIs — now generate a huge share of raw transaction count; circulating
+                analyses of the Base-tracked series put BlockRun alone at roughly three-quarters of
+                recent transactions, a split we haven&apos;t independently verified but which matches
+                the shape we see. The surge window also overlaps the widely reported stretch in which
+                Solana passed Base on daily x402 counts. We can&apos;t pin the record bucket on one
+                buyer — but we&apos;d note, as we did when the flip made news, that our catalog
+                crawler still finds 98.5% of live x402 listings settling on Base. Throughput is
+                workloads; catalogs are builders.
               </p>
               <p className="mt-4 text-base leading-8 text-slate-400">
-                The cumulative counters tell the same story at a longer horizon: 15.06 million
-                lifetime transactions as of this morning, $1.28 million lifetime volume, 22,004 unique
-                buyers — and 25,834 unique sellers. The agent economy currently has more people
-                selling than buying. If you&apos;re quoting the 14.2 million transactions the rail
-                settled over the past 30 days as adoption, honesty requires the companion number: those
-                30 days moved $1.27 million total. Both numbers are real. Only together do they
-                describe what&apos;s happening.
+                A scale note that makes the point sharper, not weaker: x402scan&apos;s tracker — our
+                series above — is a subset of the ecosystem.{' '}
+                <a href="https://www.x402.org/" className="text-blue-400 hover:text-blue-300">
+                  x402.org&apos;s official counters
+                </a>{' '}
+                currently report 75.41 million transactions, $24.24 million in volume, 94,060 buyers
+                and 22,000 sellers over the last 30 days. Even at that scale the arithmetic holds:
+                that&apos;s about $0.32 a payment ecosystem-wide, and researchers who measured the
+                x402 population directly —{' '}
+                <a href="https://arxiv.org/abs/2607.12575" className="text-blue-400 hover:text-blue-300">
+                  &quot;How Agentic Is Agentic Commerce?&quot;
+                </a>{' '}
+                — found activity extremely concentrated and warned that settlement counts alone
+                can&apos;t prove organic adoption. Twenty-two thousand sellers are real. So is the
+                fact that a handful of industrial-scale machine buyers generate most of the count.
+              </p>
+
+              <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
+                It reached our little corner too
+              </h2>
+              <p className="mt-4 text-base leading-8 text-slate-400">
+                We run 19 paid x402 services, and external buyers normally reach us in bursty sweeps —
+                one to six settles a day, with multi-day gaps. Inside the surge window we logged our
+                two busiest external-buyer days of the month: 15 settles across five different
+                services on August 17 (three distinct payer wallets), and 15 again across five
+                services on August 24, hours before the record bucket printed. The dollar total for
+                those sweeps was pocket change — which is exactly the point. Somebody&apos;s agents
+                are walking the catalog, buying the cheap calls, everywhere, including here. The
+                flood isn&apos;t a rumor happening on someone else&apos;s dashboard; it knocked on
+                our door on its way through.
               </p>
 
               <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
