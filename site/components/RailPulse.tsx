@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useId, useState } from 'react';
 
 type RailPulseData = {
   updatedAt: string;
@@ -17,42 +17,102 @@ type RailPulseData = {
     solanaListings?: number | null;
     analysis: string;
   };
-  history: { date: string; mppTx: number; mppVol: number; x402Tx: number | null }[];
+  history: { date: string; mppTx: number; mppVol: number; x402Tx: number | null; x402Listings?: number | null }[];
 };
 
 function fmtInt(n: number) {
   return n.toLocaleString('en-US');
 }
 
-function fmtDelta(pct: number | null) {
+function fmtUsd(n: number) {
+  if (n >= 10000) return `$${(n / 1000).toFixed(1)}k`;
+  return `$${Math.round(n).toLocaleString('en-US')}`;
+}
+
+function DeltaChip({ pct }: { pct: number | null }) {
   if (pct === null) return null;
-  const sign = pct >= 0 ? '+' : '';
-  return `${sign}${pct.toFixed(1)}%`;
+  const up = pct >= 0;
+  const sign = up ? '▲' : '▼';
+  return (
+    <span
+      className={
+        up
+          ? 'inline-flex items-center gap-1 rounded-full bg-blue-400/10 px-2 py-0.5 font-mono text-[11px] font-medium text-blue-300'
+          : 'inline-flex items-center gap-1 rounded-full bg-rose-400/10 px-2 py-0.5 font-mono text-[11px] font-medium text-rose-300'
+      }
+    >
+      <span aria-hidden="true">{sign}</span>
+      {Math.abs(pct).toFixed(1)}%
+      <span className="font-normal text-slate-500">d/d</span>
+    </span>
+  );
 }
 
 function Sparkline({ values }: { values: number[] }) {
+  const gradId = useId();
   if (values.length < 2) return null;
   const w = 240;
-  const h = 40;
+  const h = 56;
+  const pad = 3;
   const min = Math.min(...values);
   const max = Math.max(...values);
   const span = max - min || 1;
-  const points = values.map((v, i) => {
-    const x = (i / (values.length - 1)) * w;
-    const y = h - ((v - min) / span) * h;
-    return `${x.toFixed(1)},${y.toFixed(1)}`;
-  });
+  const pts = values.map((v, i) => ({
+    x: pad + (i / (values.length - 1)) * (w - pad * 2),
+    y: pad + (1 - (v - min) / span) * (h - pad * 2),
+  }));
+  const line = pts.map((p) => `${p.x.toFixed(1)},${p.y.toFixed(1)}`).join(' ');
+  const area = `${pad},${h} ${line} ${w - pad},${h}`;
+  const last = pts[pts.length - 1];
   return (
-    <svg viewBox={`0 0 ${w} ${h}`} className="h-8 w-full max-w-[240px]" aria-hidden="true">
+    <svg viewBox={`0 0 ${w} ${h}`} className="mt-3 h-14 w-full" aria-hidden="true">
+      <defs>
+        <linearGradient id={gradId} x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="rgba(147,197,253,0.28)" />
+          <stop offset="100%" stopColor="rgba(147,197,253,0)" />
+        </linearGradient>
+      </defs>
+      <polygon points={area} fill={`url(#${gradId})`} />
       <polyline
-        points={points.join(' ')}
+        points={line}
         fill="none"
-        stroke="rgba(147,197,253,0.7)"
-        strokeWidth="1.5"
+        stroke="rgba(147,197,253,0.9)"
+        strokeWidth="2"
         strokeLinecap="round"
         strokeLinejoin="round"
       />
+      <circle cx={last.x} cy={last.y} r="3" fill="#93c5fd" />
     </svg>
+  );
+}
+
+function Tile({
+  label,
+  value,
+  delta,
+  spark,
+  children,
+}: {
+  label: string;
+  value?: string;
+  delta?: number | null;
+  spark?: number[];
+  children?: React.ReactNode;
+}) {
+  return (
+    <div className="flex flex-col rounded border border-white/[0.06] bg-white/[0.02] p-4">
+      <p className="font-mono text-[10px] uppercase tracking-[0.18em] text-slate-500">{label}</p>
+      {value !== undefined && (
+        <div className="mt-1.5 flex flex-wrap items-center gap-2">
+          <span className="text-[26px] font-semibold leading-none tracking-tight text-slate-50 tabular-nums">
+            {value}
+          </span>
+          {delta !== undefined && <DeltaChip pct={delta} />}
+        </div>
+      )}
+      {spark && <Sparkline values={spark} />}
+      {children}
+    </div>
   );
 }
 
@@ -81,77 +141,76 @@ export function RailPulse() {
   if (failed || !data) return null;
 
   const { latest, history } = data;
-  const txDelta = fmtDelta(latest.mppTxDeltaPct);
-  const x402Delta = fmtDelta(latest.x402ListingsDeltaPct);
+  const base = latest.baseListings ?? null;
+  const sol = latest.solanaListings ?? null;
+  const railTotal = base !== null && sol !== null ? Math.max(1, base + sol) : null;
+  const basePct = railTotal !== null && base !== null ? (base / railTotal) * 100 : null;
+  const solPct = railTotal !== null && sol !== null ? (sol / railTotal) * 100 : null;
 
   return (
-    <section className="border-b border-white/[0.06] bg-[#050509] px-6 py-6" id="rail-pulse">
+    <section className="scroll-mt-24 border-b border-white/[0.06] bg-[#050509] px-6 py-8" id="rail-pulse">
       <div className="mx-auto max-w-5xl">
-        <div className="flex flex-col gap-4 rounded border border-white/[0.06] bg-white/[0.02] p-5 sm:flex-row sm:items-center sm:justify-between">
-          <div className="min-w-0">
-            <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">
-              Rail Pulse &middot; {latest.date}
-            </p>
-            <div className="mt-2 flex flex-wrap items-baseline gap-x-3 gap-y-1">
-              <span className="text-2xl font-semibold tracking-tight text-slate-50">
-                {fmtInt(latest.mppTx)}
-              </span>
-              <span className="text-sm text-slate-400">MPP transactions</span>
-              {txDelta && (
-                <span
-                  className={
-                    latest.mppTxDeltaPct !== null && latest.mppTxDeltaPct >= 0
-                      ? 'text-sm text-blue-300'
-                      : 'text-sm text-slate-400'
-                  }
-                >
-                  {txDelta} vs prior day
-                </span>
-              )}
-              {latest.x402Tx !== null && (
-                <span className="text-sm text-slate-400">
-                  &middot; {fmtInt(latest.x402Tx)} x402 tx
-                </span>
-              )}
-              {latest.x402Listings !== null && (
-                <span className="text-sm text-slate-400">
-                  &middot;{' '}
-                  <span className="text-slate-50 font-medium">{fmtInt(latest.x402Listings)}</span>{' '}
-                  x402 catalog listings
-                  {x402Delta && (
-                    <span
-                      className={
-                        latest.x402ListingsDeltaPct !== null && latest.x402ListingsDeltaPct >= 0
-                          ? 'text-blue-300'
-                          : 'text-slate-400'
-                      }
-                    >
-                      {' '}
-                      ({x402Delta} d/d)
-                    </span>
-                  )}
-                </span>
-              )}
-              {latest.baseListings != null && latest.solanaListings != null && (
-                <span className="text-sm text-slate-400">
-                  &middot; USDC/Base{' '}
-                  <span className="font-medium text-blue-300">
-                    {((latest.baseListings / Math.max(1, latest.baseListings + latest.solanaListings)) * 100).toFixed(1)}%
-                  </span>{' '}
-                  vs SOL{' '}
-                  <span className="font-medium text-slate-50">
-                    {((latest.solanaListings / Math.max(1, latest.baseListings + latest.solanaListings)) * 100).toFixed(1)}%
-                  </span>{' '}
-                  of live listings
-                </span>
-              )}
-            </div>
-            <p className="mt-2 max-w-xl text-sm leading-6 text-slate-400">{latest.analysis}</p>
-          </div>
-          <div className="flex shrink-0 items-end">
-            <Sparkline values={history.map((h) => h.mppTx)} />
-          </div>
+        <div className="mb-4 flex flex-wrap items-baseline gap-x-3 gap-y-1">
+          <p className="flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">
+            <span className="relative flex h-2 w-2" aria-hidden="true">
+              <span className="absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-60 motion-safe:animate-ping" />
+              <span className="relative inline-flex h-2 w-2 rounded-full bg-blue-300" />
+            </span>
+            Rail Pulse
+          </p>
+          <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-slate-500">
+            {latest.date} &middot; daily agent-payment telemetry
+          </p>
         </div>
+
+        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-4">
+          <Tile
+            label="MPP transactions"
+            value={fmtInt(latest.mppTx)}
+            delta={latest.mppTxDeltaPct}
+            spark={history.map((h) => h.mppTx)}
+          />
+          <Tile
+            label="MPP volume (USDC)"
+            value={fmtUsd(latest.mppVol)}
+            delta={latest.mppVolDeltaPct}
+            spark={history.map((h) => h.mppVol)}
+          />
+          {latest.x402Listings !== null && (
+            <Tile
+              label="x402 catalog listings"
+              value={fmtInt(latest.x402Listings)}
+              delta={latest.x402ListingsDeltaPct}
+              spark={
+                history.every((h) => typeof h.x402Listings === 'number')
+                  ? history.map((h) => h.x402Listings as number)
+                  : undefined
+              }
+            />
+          )}
+          {basePct !== null && solPct !== null && (
+            <Tile label="Live listings by rail">
+              <div className="mt-3 flex h-2.5 w-full gap-[2px]" role="img" aria-label={`Base ${basePct.toFixed(1)} percent, Solana ${solPct.toFixed(1)} percent of live listings`}>
+                <span className="rounded-full bg-blue-300" style={{ width: `${basePct}%` }} />
+                <span className="min-w-[4px] rounded-full bg-slate-500" style={{ width: `${solPct}%` }} />
+              </div>
+              <div className="mt-3 space-y-1.5 text-sm">
+                <p className="flex items-center gap-2 text-slate-300">
+                  <span className="h-2 w-2 rounded-full bg-blue-300" aria-hidden="true" />
+                  USDC / Base
+                  <span className="ml-auto font-semibold text-slate-50 tabular-nums">{basePct.toFixed(1)}%</span>
+                </p>
+                <p className="flex items-center gap-2 text-slate-400">
+                  <span className="h-2 w-2 rounded-full bg-slate-500" aria-hidden="true" />
+                  Solana
+                  <span className="ml-auto font-semibold text-slate-300 tabular-nums">{solPct.toFixed(1)}%</span>
+                </p>
+              </div>
+            </Tile>
+          )}
+        </div>
+
+        <p className="mt-3 max-w-3xl text-sm leading-6 text-slate-400">{latest.analysis}</p>
       </div>
     </section>
   );
