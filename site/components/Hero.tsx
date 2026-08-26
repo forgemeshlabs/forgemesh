@@ -4,17 +4,12 @@ import { MeshBackground } from './MeshBackground';
 import { RailPulse } from './RailPulse';
 import { ForgeMeshMark } from './ForgeMeshMark';
 
-const terminalLines = [
-  { prefix: '$ ', text: 'forgemesh init --agent coinopai-mcp', delay: 0 },
-  { prefix: '-> ', text: 'Connecting people, agents, and systems...', delay: 600 },
-  { prefix: '-> ', text: 'x402 payment layer: active', delay: 1100 },
-  { prefix: '-> ', text: 'Active systems indexed', delay: 1600 },
-  { prefix: 'OK ', text: 'Mesh ready for collaboration', delay: 2100, accent: true },
-];
-
 export function Hero() {
+  // Top-anchored with fixed padding: the hero grew past viewport height when
+  // Rail Pulse moved in, and justify-center was shoving the wordmark up behind
+  // the fixed nav + ticker.
   return (
-    <section className="relative min-h-screen flex flex-col items-center justify-center overflow-hidden pt-20 sm:pt-0">
+    <section className="relative min-h-screen flex flex-col items-center justify-start overflow-hidden pt-32 pb-24 sm:pt-36">
       <MeshBackground />
 
       {/* Radial glow */}
@@ -78,41 +73,10 @@ export function Hero() {
           </svg>
         </a>
 
-        {/* Rail Pulse — real-world rail data above the fold (operator, 2026-08-26) */}
-        <div className="mb-10 w-full">
+        {/* Rail Pulse — real-world rail data above the fold (operator, 2026-08-26).
+            Terminal graphic retired 2026-08-26 (operator: "it's served its time"). */}
+        <div className="w-full">
           <RailPulse embedded />
-        </div>
-
-        {/* Terminal snippet */}
-        <div
-          className="mx-auto max-w-lg rounded-lg overflow-hidden text-left border border-white/[0.08]"
-          style={{ background: 'rgba(0,0,0,0.5)', backdropFilter: 'blur(12px)' }}
-        >
-          <div className="flex items-center gap-1.5 px-4 py-3 border-b border-white/[0.06]">
-            <span className="w-2.5 h-2.5 rounded-full bg-red-500/50" />
-            <span className="w-2.5 h-2.5 rounded-full bg-yellow-500/50" />
-            <span className="w-2.5 h-2.5 rounded-full bg-green-500/50" />
-            <span className="ml-2 text-xs text-slate-500 font-mono">forgemesh terminal</span>
-          </div>
-          <div className="p-4 space-y-1.5">
-            {terminalLines.map((line, i) => (
-              <div key={i} className="flex gap-2 font-mono text-xs">
-                <span className={line.accent ? 'text-green-400' : 'text-blue-400'}>
-                  {line.prefix}
-                </span>
-                <span className={line.accent ? 'text-green-300' : 'text-slate-300'}>
-                  {line.text}
-                </span>
-              </div>
-            ))}
-            <div className="flex gap-2 font-mono text-xs">
-              <span className="text-blue-400">$ </span>
-              <span className="text-slate-300">
-                _
-                <span className="inline-block w-1.5 h-3 bg-slate-300 ml-0.5 align-text-bottom animate-blink" />
-              </span>
-            </div>
-          </div>
         </div>
       </div>
 
