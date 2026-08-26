@@ -2,10 +2,26 @@
 
 One pass, every post, no steps skipped. Standing rule (operator, 2026-08-21): **cross-post as much as possible.**
 
-## 1. Write the post
+## 1. Write the post — TWO LANES (since 2026-08-26)
+
+**Lane A — runtime (DEFAULT, zero rebuild/restart):** for any post the house
+template can express (lede, h2 sections, paras with **bold**/links, stat cards,
+CTA, related). Write a RuntimePost JSON (schema: `lib/runtime-blog.ts`; example
+shape mirrors the template) and publish:
+`node scripts/publish-post.mjs <post.json> [hero.png]` — live immediately on
+/blog/<slug>, blog index, archive on dynamic pages, and sitemap. Hero is copied
+to `content/assets/` and served at `/content/assets/<slug>.png` (bust Cloudflare
+with `?v=1` when re-checking after a 404). Skip §3 and the build/restart part of
+§4 entirely; still commit `content/` and still do §2 image gen + §5 cross-posts.
+Note: archive sidebars on OLD prebuilt posts pick the new post up at the next
+full build — acceptable lag. `--unpublish <slug>` reverses a runtime post.
+
+**Lane B — bespoke JSX (rebuild needed):** only when the post needs layout the
+template can't do:
 - [ ] Copy `app/blog/_template/page.tsx.tpl` → `app/blog/<slug>/page.tsx`
 - [ ] Fill every `⟪PLACEHOLDER⟫` (grep for `⟪` — zero left before build)
-- [ ] House voice: field-report first person plural, concrete numbers, no hype. Lede = the hook.
+
+Both lanes: house voice — field-report first person plural, concrete numbers, no hype. Lede = the hook.
 
 ## 2. Hero image (every post gets one)
 - [ ] 16:9 PNG at `public/blog/<slug>.png` (min 1200×675)
