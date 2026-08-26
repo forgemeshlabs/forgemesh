@@ -13,6 +13,7 @@ const STATIC_ROUTES = [
   '/402-payment-required',
   '/blog',
   '/botboard',
+  '/calendar',
   '/brief',
   '/checklist',
   '/clawvoice',
