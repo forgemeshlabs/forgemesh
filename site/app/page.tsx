@@ -11,9 +11,9 @@ import { FLEET } from '@/lib/mesh';
 import './home.css';
 
 export const metadata: Metadata = {
-  title: 'ForgeMesh Labs — Paid APIs for AI Agents · x402 on Base',
+  title: 'ForgeMesh Labs — Paid APIs for AI Agents · x402 & MPP',
   description:
-    'Live x402 services for AI agents: notarization, anomaly detection, disruption intel, travel, voice, market signals, image generation. USDC per call on Base, from $0.001. No accounts, no API keys.',
+    'Live paid services for AI agents: notarization, anomaly detection, disruption intel, travel, voice, market signals, image generation. Pay per call from $0.001 over x402 or MPP. No accounts, no API keys.',
   alternates: { canonical: '/' },
 };
 
@@ -82,7 +82,7 @@ export default function Home() {
     url: 'https://forgemesh.io',
     sameAs: ['https://x.com/forgemeshlabs', 'https://github.com/forgemeshlabs'],
     description:
-      'ForgeMesh Labs runs paid x402 APIs and MCP servers for AI agents — USDC micropayments on Base, no accounts, no API keys.',
+      'ForgeMesh Labs runs paid APIs and MCP servers for AI agents — per-call micropayments over x402 and MPP, no accounts, no API keys.',
     makesOffer: FLEET.map((s) => ({
       '@type': 'Offer',
       name: s.name,
@@ -125,16 +125,16 @@ export default function Home() {
                 </div>
                 <div className="fm-step">
                   <span className="n">03 · SIGN</span>
-                  <h3>Authorize USDC</h3>
+                  <h3>Authorize payment</h3>
                   <p>
-                    The agent signs a USDC transfer authorization and retries. One header. No gas.
+                    The agent signs a payment authorization and retries. One header. No gas.
                   </p>
                   <code>X-PAYMENT: eyJ…</code>
                 </div>
                 <div className="fm-step">
                   <span className="n">04 · SETTLE</span>
                   <h3>Paid + answered</h3>
-                  <p>Settlement lands on Base in seconds. The result arrives in the same response.</p>
+                  <p>Settlement lands on-rail in seconds. The result arrives in the same response.</p>
                   <code>200 OK · tx 0x…</code>
                 </div>
               </div>
@@ -147,7 +147,7 @@ export default function Home() {
               <h2>Plug the mesh into your agent.</h2>
               <p className="fm-lede">
                 Every major service ships as an MCP package on npm. Free tools work with no wallet;
-                paid tools quote first, then charge USDC.
+                paid tools quote first, then charge per call.
               </p>
               <div className="fm-ledger">
                 <table>
