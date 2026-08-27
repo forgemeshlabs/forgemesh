@@ -14,13 +14,21 @@ W, H = 1080, 1350
 BG = (5, 5, 9); BLUE = (96, 165, 250); SLATE = (148, 163, 184); WHITE = (241, 245, 249)
 bold = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 reg = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
-OUT = "/home/ubuntu/dev/forgemesh/site/public/blog/pins/ig"
+# content/assets is served at request time — no rebuild/restart for new cards.
+SITE = "/home/ubuntu/dev/forgemesh/site"
+OUT = f"{SITE}/content/assets/pins/ig"
 os.makedirs(OUT, exist_ok=True)
+
+def hero_for(slug):
+    for p in (f"{SITE}/content/assets/{slug}.png", f"{SITE}/public/blog/{slug}.png"):
+        if os.path.exists(p):
+            return p
+    raise FileNotFoundError(f"no hero for {slug} in content/assets or public/blog")
 
 for slug, title, kicker in POSTS:
     img = Image.new("RGB", (W, H), BG)
     d = ImageDraw.Draw(img)
-    hero = Image.open(f"/home/ubuntu/dev/forgemesh/site/public/blog/{slug}.png").convert("RGB")
+    hero = Image.open(hero_for(slug)).convert("RGB")
     hw = W - 100; hh = int(hw * hero.height / hero.width)
     hero = hero.resize((hw, hh))
     img.paste(hero, (50, 150))

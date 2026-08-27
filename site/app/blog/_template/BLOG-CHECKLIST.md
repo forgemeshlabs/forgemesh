@@ -69,13 +69,15 @@ Both lanes: house voice — field-report first person plural, concrete numbers, 
 - [ ] **Discord** — drop link in the community + kit-buyers channels
 - [ ] **Instagram + Facebook Page** (@forgemesh / ForgeMesh Page) — ONE COMMAND via Graph API:
       1. add the post to `scripts/make-pins.py` POSTS (also feeds the IG card), run it AND
-         `python3 scripts/make-ig-cards.py`, rebuild + `fleet restart forgemesh-web`
-         (cards must be live at forgemesh.io/blog/pins/ig/<slug>.jpg)
+         `python3 scripts/make-ig-cards.py` — cards write to `content/assets/pins/` and are
+         live IMMEDIATELY at forgemesh.io/content/assets/pins/ig/<slug>.jpg (no rebuild, no
+         restart; the scripts read the hero from content/assets/ or public/blog/, whichever exists)
       2. `cd ~/dev/bpp-social && node scripts/post-social.js <slug>` (add `--dry` to preview)
       Posts the 4:5 card to IG + link post to the FB Page, flips the state flags itself.
       Tokens in ~/dev/bpp-social/.env (page token never expires; app "ForgeMesh Publisher").
 - [ ] **Pinterest** (GSD Contracts LLC business account, board "AI Agent Economy — Crypto & Payments Explained"):
-      1. generate the 2:3 pin card: add the post to `scripts/make-pins.py` POSTS list, run it, rebuild+restart (pin lands at forgemesh.io/blog/pins/<slug>.png)
+      1. generate the 2:3 pin card: add the post to `scripts/make-pins.py` POSTS list, run it
+         (pin is live immediately at forgemesh.io/content/assets/pins/<slug>.png — no rebuild)
       2. pin via prefilled URL (browser, logged-in Chrome): https://www.pinterest.com/pin/create/button/?url=<blog-url>&media=<pin-image-url>&description=<keyword-rich plain-language description>
       3. click Save on the board. Space pins out — max ~5/day on the board.
 - [ ] Anywhere else that fits the post (HN for incident/data posts, relevant subreddits, Moltbook)

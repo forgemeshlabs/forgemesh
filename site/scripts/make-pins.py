@@ -30,13 +30,21 @@ W,H = 1000,1500
 BG=(5,5,9); BLUE=(96,165,250); SLATE=(148,163,184); WHITE=(241,245,249)
 bold="/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 reg="/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
-os.makedirs("/home/ubuntu/dev/forgemesh/site/public/blog/pins", exist_ok=True)
+# content/assets is served by the dynamic route at request time — no rebuild
+# or restart needed for new cards. public/blog stays as fallback for old posts.
+SITE = "/home/ubuntu/dev/forgemesh/site"
+os.makedirs(f"{SITE}/content/assets/pins", exist_ok=True)
+
+def hero_for(slug):
+    for p in (f"{SITE}/content/assets/{slug}.png", f"{SITE}/public/blog/{slug}.png"):
+        if os.path.exists(p):
+            return p
+    raise FileNotFoundError(f"no hero for {slug} in content/assets or public/blog")
 
 for slug, title, kicker in POSTS:
     img = Image.new("RGB",(W,H),BG)
     d = ImageDraw.Draw(img)
-    hero_path = f"/home/ubuntu/dev/forgemesh/site/public/blog/{slug}.png"
-    hero = Image.open(hero_path).convert("RGB")
+    hero = Image.open(hero_for(slug)).convert("RGB")
     hw = W-80; hh = int(hw*hero.height/hero.width)
     hero = hero.resize((hw,hh))
     img.paste(hero,(40,120))
@@ -56,5 +64,5 @@ for slug, title, kicker in POSTS:
     ff = ImageFont.truetype(reg, 34)
     d.text((40,H-110), "forgemesh.io/blog", font=ff, fill=BLUE)
     d.text((40,H-64), "Plain-language field reports from the AI agent economy", font=ImageFont.truetype(reg,26), fill=SLATE)
-    img.save(f"/home/ubuntu/dev/forgemesh/site/public/blog/pins/{slug}.png","PNG")
+    img.save(f"{SITE}/content/assets/pins/{slug}.png","PNG")
     print("pin:",slug)
