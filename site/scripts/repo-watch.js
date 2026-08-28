@@ -9,7 +9,8 @@
 // tags endpoint and fetch CHANGELOG.md per SDK to get release notes.
 //
 // Usage: node scripts/repo-watch.js [--notify] [--backfill N]
-//   --notify      posts new entries to fm-brief Discord via kodiak-gw
+//   --notify      posts breaking/security/new-chain entries to the
+//                 #repo-watch Discord channel via kodiak-gw (minor = silent)
 //   --backfill N  include up to N historical tags (default: only new)
 //
 // Cron:  15 */6 * * *  (every 6h at :15, offset from rail-pulse)
@@ -26,7 +27,8 @@ const UA =
   "Mozilla/5.0 (compatible; ForgeMesh-RepoWatch/1.0; +https://forgemesh.io)";
 
 const KODIAK_URL = "http://127.0.0.1:3999/notify";
-const BRIEF_CHANNEL = "1539595933132791858";
+const WATCH_CHANNEL = "1542870385392099380";
+const NOTIFY_LEVELS = new Set(["security", "breaking", "chain"]);
 
 const REPOS = [
   {
@@ -259,12 +261,12 @@ async function run() {
 
   fs.mkdirSync(DATA_DIR, { recursive: true });
 
-  let state = { entries: [], lastChecked: null };
+  let state = { entries: [], seen: [], lastChecked: null };
   try {
     state = JSON.parse(fs.readFileSync(STATE_FILE, "utf8"));
   } catch {}
 
-  const seenTags = new Set(state.entries.map((e) => e.tag));
+  const seenTags = new Set([...(state.seen || []), ...state.entries.map((e) => e.tag)]);
   const isFirstRun = state.entries.length === 0;
   const newEntries = [];
 
@@ -341,6 +343,8 @@ async function run() {
     }
   }
 
+  state.seen = [...seenTags];
+
   if (newEntries.length === 0) {
     console.log("no new significant releases");
     state.lastChecked = new Date().toISOString();
@@ -364,6 +368,7 @@ async function run() {
 
   if (notify && !isFirstRun) {
     for (const entry of newEntries) {
+      if (!NOTIFY_LEVELS.has(entry.significance)) continue;
       const bullets = entry.highlights
         .slice(0, 3)
         .map((h) => `→ ${h}`)
@@ -378,7 +383,7 @@ async function run() {
 
       try {
         await postJson(KODIAK_URL, {
-          channelId: BRIEF_CHANNEL,
+          channelId: WATCH_CHANNEL,
           content: text,
         });
         console.log(`notified: ${entry.sdk} v${entry.version}`);
