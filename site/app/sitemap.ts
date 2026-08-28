@@ -15,6 +15,8 @@ const STATIC_ROUTES = [
   '/botboard',
   '/calendar',
   '/repo-watch',
+  '/privacy',
+  '/terms',
   '/brief',
   '/checklist',
   '/clawvoice',
