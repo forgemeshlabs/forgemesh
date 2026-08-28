@@ -2,6 +2,7 @@
 
 import { MeshBackground } from './MeshBackground';
 import { RailPulse } from './RailPulse';
+import { RepoWatchStrip } from './RepoWatch';
 import { ForgeMeshMark } from './ForgeMeshMark';
 
 export function Hero() {
@@ -77,6 +78,7 @@ export function Hero() {
             Terminal graphic retired 2026-08-26 (operator: "it's served its time"). */}
         <div className="w-full">
           <RailPulse embedded />
+          <RepoWatchStrip />
         </div>
       </div>
 
