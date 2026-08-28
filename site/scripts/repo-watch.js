@@ -193,6 +193,7 @@ function cleanHighlight(text) {
     .replace(/\s*\(\[#\d+\]\([^)]*\)\)/g, "") // ([#1234](url))
     .replace(/\s*-?\s*Thanks\s+(?:\[@[^\]]+\]\([^)]*\)|@\w+|,|\s|and)+!?/gi, "") // - Thanks [@x](url) and [@y](url)!
     .replace(/\[([^\]]+)\]\([^)]*\)/g, "$1") // [text](url) -> text
+    .replace(/^[0-9a-f]{7,40}:\s*/i, "") // changeset commit-hash prefix
     .replace(/`/g, "")
     .replace(/\s+/g, " ")
     .trim();
