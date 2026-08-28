@@ -21,6 +21,7 @@ const freeLinks = [
   { label: 'Seller pre-flight checklist', href: '/checklist' },
   { label: 'Seller kits + guides', href: 'https://kit.forgemesh.io' },
   { label: 'Rail Pulse (live data)', href: '/#rail-pulse' },
+  { label: 'Repo Watch (x402 releases, decoded)', href: '/repo-watch' },
   { label: 'Calendar (dates that matter)', href: '/calendar' },
   { label: 'The Brief (newsletter)', href: '/brief' },
   { label: 'Scan MCP (npm)', href: 'https://www.npmjs.com/package/@forgemeshlabs/x402-scan-mcp' },

@@ -188,6 +188,16 @@ function classifySignificance(version, body) {
   return "patch";
 }
 
+function cleanHighlight(text) {
+  return text
+    .replace(/\s*\(\[#\d+\]\([^)]*\)\)/g, "") // ([#1234](url))
+    .replace(/\s*-?\s*Thanks\s+(?:\[@[^\]]+\]\([^)]*\)|@\w+|,|\s|and)+!?/gi, "") // - Thanks [@x](url) and [@y](url)!
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, "$1") // [text](url) -> text
+    .replace(/`/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 function extractHighlights(body) {
   if (!body) return [];
   const lines = body.split("\n");
@@ -206,7 +216,13 @@ function extractHighlights(body) {
         trimmed
       )
     ) {
-      highlights.push(trimmed.slice(0, 200));
+      let h = cleanHighlight(trimmed);
+      if (h.length > 220) {
+        const cut = h.slice(0, 220);
+        const end = Math.max(cut.lastIndexOf(". "), cut.lastIndexOf(", "));
+        h = (end > 80 ? cut.slice(0, end) : cut.replace(/\s+\S*$/, "")) + "…";
+      }
+      if (h) highlights.push(h);
       if (highlights.length >= 5) break;
     }
   }
@@ -297,8 +313,15 @@ async function run() {
         continue;
       }
 
+      let date = null;
+      try {
+        const c = await fetchJson(t.commit.url);
+        date = (c.commit?.committer?.date || c.commit?.author?.date || "").slice(0, 10) || null;
+      } catch {}
+
       const entry = {
         tag: tagName,
+        date,
         repo: `${repo.owner}/${repo.repo}`,
         sdk: sdk.label,
         pkg: sdk.pkg,
