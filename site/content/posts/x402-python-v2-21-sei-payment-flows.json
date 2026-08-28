@@ -1,0 +1,65 @@
+{
+  "slug": "x402-python-v2-21-sei-payment-flows",
+  "date": "2026-08-28",
+  "title": "x402 Python SDK v2.21: Sei Chain, Payment Flows, and a Batch Settlement Guard",
+  "excerpt": "The x402 Foundation shipped pypi-x402 v2.21.0 yesterday — Sei mainnet support, a new payment-flow abstraction for authorization and escrow ordering, and a quiet fix that stops untrusted batch-settlement state from persisting. Three things worth knowing if you're building on the Python side.",
+  "tags": [
+    "x402",
+    "python sdk",
+    "sei",
+    "changelog"
+  ],
+  "description": "pypi-x402 v2.21.0 adds Sei mainnet/testnet with native USDC, payment-flow handlers for authorization/upfront/escrow ordering, and a batch-settlement guard that validates cumulative amounts before writing.",
+  "seoTitle": "x402 Python SDK v2.21.0: Sei + Payment Flows | ForgeMesh",
+  "seoDescription": "pypi-x402 v2.21.0 adds Sei chain, payment-flow handlers for auth and escrow, and a batch-settlement safety fix. What changed.",
+  "twitterTitle": "x402's Python SDK just added Sei, payment flows, and a quiet safety fix.",
+  "twitterDescription": "pypi-x402 v2.21.0: Sei mainnet with native USDC, auth/upfront/escrow flow handlers, and a batch-settlement guard. The changelog, decoded.",
+  "heroAlt": "A minimalist illustration of a glowing blue Python symbol intertwined with chain links and a payment receipt on a dark navy background",
+  "breadcrumb": "pypi-x402 v2.21.0",
+  "lede": "The x402 Foundation tagged **[pypi-x402 v2.21.0](https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.21.0)** yesterday — the Python payment-protocol SDK that handles client, server, and facilitator wiring for FastAPI, Flask, httpx, and requests. Three things shipped worth a closer look if you build on the Python side of the rail.",
+  "sections": [
+    {
+      "heading": "Sei is in",
+      "paras": [
+        "v2.21.0 adds **Sei mainnet** (chain ID 1329) and **Sei testnet** (1328), both with native USDC as the default stablecoin. That brings the Python SDK's chain list to parity with the TypeScript and Go SDKs, which picked up Sei in the same release train.",
+        "If you're running a FastAPI-based x402 server and want to accept Sei payments: `pip install x402[fastapi]>=2.21.0` and add the chain to your asset config. Client, facilitator, and server components all resolve Sei addresses and settlement out of the box."
+      ]
+    },
+    {
+      "heading": "Payment flows: authorization, upfront, escrow",
+      "paras": [
+        "The bigger architectural addition is **payment-flow handlers**. Schemes can now declare their verify/settle ordering — authorization (verify first, settle later), upfront (pay-then-serve), or escrow (lock, deliver, release) — and the SDK generates the corresponding HTTP and MCP settlement receipts for each pattern.",
+        "Until now, every scheme implemented its own flow logic. The new abstraction means a facilitator can inspect the declared flow type, route accordingly, and return typed receipts across EVM, Solana, and TON. It doesn't change what end users see, but it makes multi-chain facilitator code dramatically simpler to write and audit."
+      ]
+    },
+    {
+      "heading": "The quiet fix: batch-settlement state validation",
+      "paras": [
+        "The one most operators will scroll past, and the one that matters most: v2.21.0 **validates cumulative amounts before persisting batch-settlement channel state**. Previously, an untrusted batch-settlement response could write state that didn't match cumulative on-chain reality. Now the SDK checks the math and skips the write when the numbers don't add up.",
+        "Same release also restored Ethereum mainnet and Avalanche C-Chain USDC as default assets — they'd been dropped during a CAIP-2 table migration in v2.20.0 and needed to come back for backward compatibility."
+      ]
+    },
+    {
+      "heading": "What it means",
+      "paras": [
+        "v2.21.0 is a maintenance release that carries architectural weight. Payment flows are the kind of abstraction that makes the next ten features cheaper to build. The batch-settlement guard is pure defensive engineering. If you're running Python x402 infrastructure, upgrade.",
+        "The full changelog is in the [x402 repo](https://github.com/x402-foundation/x402/blob/main/python/x402/CHANGELOG.md). We're going to keep logging significant upstream releases as they land — and we're thinking about making that automatic."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "Should we watch the repo for you?",
+    "copy": "We're considering a release-watch feed on the site — significant x402 releases, vulnerability advisories, and ecosystem package updates surfaced without the noise. If that sounds useful, tell us in the community Discord."
+  },
+  "related": [
+    {
+      "slug": "x402-record-day-money-didnt-move",
+      "text": "x402 just set a transaction record — the money didn't move"
+    },
+    {
+      "slug": "solana-flips-base-x402-catalog",
+      "text": "Solana flipped Base on daily x402 transactions — with 1.4% of the catalog"
+    }
+  ],
+  "image": "/content/assets/x402-python-v2-21-sei-payment-flows.png"
+}
