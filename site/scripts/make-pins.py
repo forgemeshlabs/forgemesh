@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+ ("x402-python-v2-21-sei-payment-flows", "x402 Python SDK v2.21: Sei, Payment Flows, Batch Settlement Guard", "The changelog, decoded"),
  ("nvidia-hugging-face-12b-acquisition", "Nvidia Is Buying the GitHub of AI for $12.9 Billion", "13M devs, 2.5M models — the model layer gets a tollbooth"),
  ("fall-2026-case-file", "Everything Moved in the Same 12 Days. We Opened a Case File.", "7 exhibits, 3 strings, 1 labeled hypothesis"),
  ("fall-2026-calendar-convergence", "Every Clock in the Machine Economy Strikes This Fall", "Sept 15 double-header + the 1,064-day clock"),
