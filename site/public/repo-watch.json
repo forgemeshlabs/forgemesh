@@ -1,8 +1,9 @@
 {
-  "lastChecked": "2026-08-28T11:53:07.579Z",
+  "lastChecked": "2026-08-28T11:58:23.970Z",
   "entries": [
     {
       "tag": "pypi-x402@v2.21.0",
+      "date": "2026-08-27",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -10,16 +11,17 @@
       "significance": "breaking",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.21.0",
       "highlights": [
-        "Restore Ethereum mainnet (eip155:1) and Avalanche C-Chain (eip155:43114) USDC as default assets so v1-legacy network names keep working after the shared CAIP-2 table migration. ([#3241](https://github",
-        "Add Sei mainnet (chain ID 1329) and Sei Testnet (chain ID 1328) with native USDC as the default stablecoin, and correct the legacy Sei testnet chain ID. ([#3227](https://github.com/x402-foundation/x40",
-        "Add payment-flow handlers so schemes can declare authorization, upfront, and escrow verify/settle ordering, with matching 402 extra, client selection, and HTTP/MCP settlement receipts. ([#3247](https:",
-        "Added upfront payment flow support for the exact scheme on EVM, SVM, and TVM. ([#3240](https://github.com/x402-foundation/x402/pull/3240)) - Thanks [@phdargen](https://github.com/phdargen)!",
-        "SVM `get_network_config` and `NETWORK_CONFIGS` now hold transport endpoints only (`rpc_url`, `ws_url`). Default assets stay in `default_assets.py`. EVM bundled network config remains removed; use `get"
+        "Restore Ethereum mainnet (eip155:1) and Avalanche C-Chain (eip155:43114) USDC as default assets so v1-legacy network names keep working after the shared CAIP-2 table migration.",
+        "Add Sei mainnet (chain ID 1329) and Sei Testnet (chain ID 1328) with native USDC as the default stablecoin, and correct the legacy Sei testnet chain ID.",
+        "Add payment-flow handlers so schemes can declare authorization, upfront, and escrow verify/settle ordering, with matching 402 extra, client selection, and HTTP/MCP settlement receipts.",
+        "Added upfront payment flow support for the exact scheme on EVM, SVM, and TVM.",
+        "SVM get_network_config and NETWORK_CONFIGS now hold transport endpoints only (rpc_url, ws_url). Default assets stay in default_assets.py…"
       ],
-      "collected": "2026-08-28T11:53:07.073Z"
+      "collected": "2026-08-28T11:58:16.022Z"
     },
     {
       "tag": "pypi-x402@v2.20.0",
+      "date": "2026-08-18",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -27,14 +29,15 @@
       "significance": "breaking",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.20.0",
       "highlights": [
-        "Add a `settlement_pending` error reason for the `exact`, `upto`, and `batch-settlement` EVM schemes. A receipt-wait failure after a settle/claim/deposit/refund transaction broadcast (e.g. an RPC error",
-        "Parse and convert money as decimal strings internally so high-precision prices (for example MegaUSD at 18 decimals) are not rounded through `float`. `parse_money` / `parse_money_string` return the ext",
-        "Normalize each mechanism's default assets into `DEFAULT_ASSETS` + `get_default_asset` / `find_default_asset`, and add client `spend_controls`: by default only recognized pegged assets are allowed with"
+        "Add a settlement_pending error reason for the exact, upto, and batch-settlement EVM schemes. A receipt-wait failure after a settle/claim/deposit/refund transaction broadcast (e.g…",
+        "Parse and convert money as decimal strings internally so high-precision prices (for example MegaUSD at 18 decimals) are not rounded through float…",
+        "Normalize each mechanism's default assets into DEFAULT_ASSETS + get_default_asset / find_default_asset…"
       ],
-      "collected": "2026-08-28T11:53:07.074Z"
+      "collected": "2026-08-28T11:58:16.226Z"
     },
     {
       "tag": "pypi-x402@v2.19.0",
+      "date": "2026-08-11",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -42,13 +45,14 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.19.0",
       "highlights": [
-        "Fixed payment-gate route matching on the escaped request path so percent-encoded separators and trailing-slash wildcard prefixes cannot bypass verification. Middleware now passes the raw WSGI/ASGI pat",
-        "Fixed wildcard (`*`) route matching in the HTTP server when the wildcard tail contains a decoded line feed. Wildcard route regexes now compile with `re.DOTALL`, preventing protected routes from being "
+        "Fixed payment-gate route matching on the escaped request path so percent-encoded separators and trailing-slash wildcard prefixes cannot bypass verification…",
+        "Fixed wildcard (*) route matching in the HTTP server when the wildcard tail contains a decoded line feed. Wildcard route regexes now compile with re.DOTALL…"
       ],
-      "collected": "2026-08-28T11:53:07.074Z"
+      "collected": "2026-08-28T11:58:16.464Z"
     },
     {
       "tag": "pypi-x402@v2.18.0",
+      "date": "2026-08-04",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -56,16 +60,17 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.18.0",
       "highlights": [
-        "Merge server and client builder-code `s` arrays during extension re-merge instead of dropping the client's (fully deduped, including duplicates within either side), treat echoed builder-code `s` speci",
-        "Verify the expected ERC-20 Transfer event in exact EIP-3009 settle receipts when logs are available, matching the Go SDK check from #2727 and the open TypeScript fix in #2385. ([#3032](https://github.",
-        "Add Celo mainnet (chain ID 42220) and Celo Sepolia (chain ID 11142220) support with USDC as the default stablecoin ([#3025](https://github.com/x402-foundation/x402/pull/3025)) - Thanks [@GigaHierz](ht",
-        "Add Flare mainnet (chain ID 14) support with USD₮0 as the default stablecoin ([#3031](https://github.com/x402-foundation/x402/pull/3031)) - Thanks [@whawk46](https://github.com/whawk46)!",
-        "`builder-code` `s` entries now use dedicated per-party reservations (`MAX_CLIENT_SERVICE_CODES`=5, `MAX_SERVER_SERVICE_CODES`=5, `MAX_FACILITATOR_SERVICE_CODES`=1, summing to `MAX_SERVICE_CODES`=11) i"
+        "Merge server and client builder-code s arrays during extension re-merge instead of dropping the client's (fully deduped, including duplicates within either side)…",
+        "Verify the expected ERC-20 Transfer event in exact EIP-3009 settle receipts when logs are available, matching the Go SDK check from #2727 and the open TypeScript fix in #2385.",
+        "Add Celo mainnet (chain ID 42220) and Celo Sepolia (chain ID 11142220) support with USDC as the default stablecoin",
+        "Add Flare mainnet (chain ID 14) support with USD₮0 as the default stablecoin",
+        "builder-code s entries now use dedicated per-party reservations (MAX_CLIENT_SERVICE_CODES=5, MAX_SERVER_SERVICE_CODES=5, MAX_FACILITATOR_SERVICE_CODES=1, summing to MAX_SERVICE_CODES=11) instead of one shared cap…"
       ],
-      "collected": "2026-08-28T11:53:07.074Z"
+      "collected": "2026-08-28T11:58:16.621Z"
     },
     {
       "tag": "pypi-x402@v2.17.0",
+      "date": "2026-07-27",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -73,12 +78,13 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.17.0",
       "highlights": [
-        "Add SVM server blockhash hints and client fallback behavior. ([#2937](https://github.com/x402-foundation/x402/pull/2937)) - Thanks [@phdargen](https://github.com/phdargen)!"
+        "Add SVM server blockhash hints and client fallback behavior."
       ],
-      "collected": "2026-08-28T11:53:07.075Z"
+      "collected": "2026-08-28T11:58:16.786Z"
     },
     {
       "tag": "pypi-x402@v2.16.0",
+      "date": "2026-07-17",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -86,15 +92,16 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.16.0",
       "highlights": [
-        "Fixed auto-wrapping of custom signers extending eth_account's BaseAccount (not just LocalAccount) for x402 payment signing ([#2884](https://github.com/x402-foundation/x402/pull/2884)) - Thanks [@0xkur",
-        "Require a configured `origin` for SIWX server integration. Challenge issuance and proof validation now bind to this operator-defined public origin instead of deriving trust from request headers or per",
-        "The Flask WSGI middleware now logs the exception and surfaces a settle failure (`402` with a `PAYMENT-RESPONSE` header, `success=false`) when the settlement path raises an unexpected error, instead of",
-        "SIWX validation and verification results now use `is_valid`, `invalid_reason`, `invalid_message`, and `payer` instead of `valid`, `error`, and `address`. Each failure includes a machine-readable `inva"
+        "Fixed auto-wrapping of custom signers extending eth_account's BaseAccount (not just LocalAccount) for x402 payment signing",
+        "Require a configured origin for SIWX server integration. Challenge issuance and proof validation now bind to this operator-defined public origin instead of deriving trust from request headers or per-route declaration…",
+        "The Flask WSGI middleware now logs the exception and surfaces a settle failure (402 with a PAYMENT-RESPONSE header, success=false) when the settlement path raises an unexpected error, instead of a silent empty-body 402…",
+        "SIWX validation and verification results now use is_valid, invalid_reason, invalid_message, and payer instead of valid, error, and address…"
       ],
-      "collected": "2026-08-28T11:53:07.075Z"
+      "collected": "2026-08-28T11:58:16.948Z"
     },
     {
       "tag": "pypi-x402@v2.15.0",
+      "date": "2026-07-10",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -102,16 +109,17 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.15.0",
       "highlights": [
-        "Fixed Flask middleware skipping settlement on 3xx responses, allowing paid content behind redirects to be delivered without onchain payment. ([#2826](https://github.com/x402-foundation/x402/pull/2826)",
-        "Fixed `flask_payment_middleware_from_config`, which raised `TypeError` at construction because it built the async `x402ResourceServer` for the sync Flask middleware; it now uses `x402ResourceServerSyn",
-        "Fixed cross-SDK MCP interop: the FastMCP payment wrapper now verifies and settles against the advertised `accepts` entry that matches the payment payload instead of always using the first entry, and o",
-        "Add Igra mainnet (eip155:38833) default stablecoin USDC via Permit2 ([#2800](https://github.com/x402-foundation/x402/pull/2800)) - Thanks [@emdin](https://github.com/emdin)!",
-        "Added the `builder-code` extension for onchain payment attribution. Also added the enabling core capabilities: client re-merge preserving server-declared extension fields, server-side extension echo v"
+        "Fixed Flask middleware skipping settlement on 3xx responses, allowing paid content behind redirects to be delivered without onchain payment.",
+        "Fixed flask_payment_middleware_from_config, which raised TypeError at construction because it built the async x402ResourceServer for the sync Flask middleware; it now uses x402ResourceServerSync.",
+        "Fixed cross-SDK MCP interop: the FastMCP payment wrapper now verifies and settles against the advertised accepts entry that matches the payment payload instead of always using the first entry…",
+        "Add Igra mainnet (eip155:38833) default stablecoin USDC via Permit2",
+        "Added the builder-code extension for onchain payment attribution. Also added the enabling core capabilities: client re-merge preserving server-declared extension fields…"
       ],
-      "collected": "2026-08-28T11:53:07.075Z"
+      "collected": "2026-08-28T11:58:17.138Z"
     },
     {
       "tag": "pypi-x402@v2.14.0",
+      "date": "2026-06-26",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -119,13 +127,14 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.14.0",
       "highlights": [
-        "Expanded wallet compatibility so payments verify and settle consistently across plain EOAs, deployed smart accounts (ERC-4337 / ERC-7579), counterfactual ERC-6492 wallets, and ERC-7702-delegated EOAs.",
-        "Made the batch-settlement facilitator's receiver-authorizer signer optional: when omitted, the facilitator no longer advertises a `receiverAuthorizer` in `/supported`, and claim/refund execution retur"
+        "Expanded wallet compatibility so payments verify and settle consistently across plain EOAs, deployed smart accounts (ERC-4337 / ERC-7579), counterfactual ERC-6492 wallets, and ERC-7702-delegated EOAs…",
+        "Made the batch-settlement facilitator's receiver-authorizer signer optional: when omitted, the facilitator no longer advertises a receiverAuthorizer in /supported…"
       ],
-      "collected": "2026-08-28T11:53:07.075Z"
+      "collected": "2026-08-28T11:58:17.300Z"
     },
     {
       "tag": "pypi-x402@v2.13.0",
+      "date": "2026-06-12",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -133,14 +142,15 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.13.0",
       "highlights": [
-        "Fixed a bug where EVM facilitator verify accepted payments whose asset address was an EOA. Calling any function on an EOA via ``eth_call`` silently returns empty data without reverting, causing on-cha",
-        "Add Mezo mainnet (chain ID 31612) support with mUSD as the default stablecoin ([#2590](https://github.com/x402-foundation/x402/pull/2590)) - Thanks [@ryanRfox](https://github.com/ryanRfox)!",
-        "Add XDC Network mainnet (chain ID 50) and Apothem testnet (chain ID 51) support with USDC as the default stablecoin ([#2597](https://github.com/x402-foundation/x402/pull/2597)) - Thanks [@AnilChinchaw"
+        "Fixed a bug where EVM facilitator verify accepted payments whose asset address was an EOA. Calling any function on an EOA via eth_call silently returns empty data without reverting…",
+        "Add Mezo mainnet (chain ID 31612) support with mUSD as the default stablecoin",
+        "Add XDC Network mainnet (chain ID 50) and Apothem testnet (chain ID 51) support with USDC as the default stablecoin"
       ],
-      "collected": "2026-08-28T11:53:07.075Z"
+      "collected": "2026-08-28T11:58:17.476Z"
     },
     {
       "tag": "pypi-x402@v2.12.0",
+      "date": "2026-05-29",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -148,15 +158,16 @@
       "significance": "security",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.12.0",
       "highlights": [
-        "Fixed SVM exact facilitator deduplication to key on the transaction message hash rather than the full signed-transaction bytes, preventing an attacker from bypassing the cache by randomizing the mutab",
-        "[Breaking for facilitator implementers using ERC-4337 smart wallet deployment]** Fixed ERC-6492 factory call injection vulnerability in EVM exact settlement (v1 and v2) and simplified the configuratio",
-        "Added startup-time JSON-schema validation for bazaar discovery extensions in FastAPI and Flask middleware ([#671](https://github.com/x402-foundation/x402/pull/671))",
-        "Add unit tests for `sign_eip2612_permit` in the EIP-2612 gas sponsoring extension covering nonce read, EIP-712 domain/types/message construction, and return shape (mirrors the `sign_erc20_approval_tra"
+        "Fixed SVM exact facilitator deduplication to key on the transaction message hash rather than the full signed-transaction bytes…",
+        "[Breaking for facilitator implementers using ERC-4337 smart wallet deployment]** Fixed ERC-6492 factory call injection vulnerability in EVM exact settlement (v1 and v2) and simplified the configuration API…",
+        "Added startup-time JSON-schema validation for bazaar discovery extensions in FastAPI and Flask middleware",
+        "Add unit tests for sign_eip2612_permit in the EIP-2612 gas sponsoring extension covering nonce read, EIP-712 domain/types/message construction…"
       ],
-      "collected": "2026-08-28T11:53:07.075Z"
+      "collected": "2026-08-28T11:58:17.669Z"
     },
     {
       "tag": "pypi-x402@v2.11.0",
+      "date": "2026-05-22",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -164,16 +175,17 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.11.0",
       "highlights": [
-        "Add HPP mainnet (chain ID 190415) and HPP Sepolia (chain ID 181228) support with USDC.e (Bridged USDC) as the default stablecoin ([#add-hpp-chains-default-stablecoin](https://github.com/x402-foundatio",
-        "Add ADI Chain (chain ID 36900) support with USDC.e as the default stablecoin ([#adi-chain](https://github.com/x402-foundation/x402/pull/adi-chain))",
-        "Added `batch-settlement-evm` scheme: an EVM payment-channel mechanism that batches multiple requests off-chain using cumulative vouchers and submits a single on-chain claim instead of one transaction ",
-        "Added a curated testnet faucet map to the paywall plus `PaywallConfig.faucet_urls` (per-chain override keyed by CAIP-2). Unmapped chains render \"No faucet configured.\" instead of a fallback link. Avai",
-        "Added missing lifecycle hooks and extension/scheme-level adapter pattern ([#2388](https://github.com/x402-foundation/x402/pull/2388))"
+        "Add HPP mainnet (chain ID 190415) and HPP Sepolia (chain ID 181228) support with USDC.e (Bridged USDC) as the default stablecoin (#add-hpp-chains-default-stablecoin)",
+        "Add ADI Chain (chain ID 36900) support with USDC.e as the default stablecoin (#adi-chain)",
+        "Added batch-settlement-evm scheme: an EVM payment-channel mechanism that batches multiple requests off-chain using cumulative vouchers and submits a single on-chain claim instead of one transaction per payment…",
+        "Added a curated testnet faucet map to the paywall plus PaywallConfig.faucet_urls (per-chain override keyed by CAIP-2). Unmapped chains render \"No faucet configured.\" instead of a fallback link…",
+        "Added missing lifecycle hooks and extension/scheme-level adapter pattern"
       ],
-      "collected": "2026-08-28T11:53:07.076Z"
+      "collected": "2026-08-28T11:58:17.880Z"
     },
     {
       "tag": "pypi-x402@v2.9.0",
+      "date": "2026-04-27",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -181,12 +193,13 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.9.0",
       "highlights": [
-        "Added `extensions` parameter to MCP payment wrapper config and `declare_mcp_discovery_extension` helper so paid MCP tools can declare Bazaar discovery metadata and appear in `/discovery/resources`. (["
+        "Added extensions parameter to MCP payment wrapper config and declare_mcp_discovery_extension helper so paid MCP tools can declare Bazaar discovery metadata and appear in /discovery/resources."
       ],
-      "collected": "2026-08-28T11:53:07.076Z"
+      "collected": "2026-08-28T11:58:18.059Z"
     },
     {
       "tag": "pypi-x402@v2.8.0",
+      "date": "2026-04-17",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -194,13 +207,14 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.8.0",
       "highlights": [
-        "Add Arbitrum One (chain ID 42161) and Arbitrum Sepolia (chain ID 421614) support with USDC as the default stablecoin ([#1877](https://github.com/x402-foundation/x402/pull/1877))",
-        "Add `upto` scheme support for Python SDK, including EVM client, server, and facilitator implementations with partial settlement support ([#2023](https://github.com/x402-foundation/x402/pull/2023))"
+        "Add Arbitrum One (chain ID 42161) and Arbitrum Sepolia (chain ID 421614) support with USDC as the default stablecoin",
+        "Add upto scheme support for Python SDK, including EVM client, server, and facilitator implementations with partial settlement support"
       ],
-      "collected": "2026-08-28T11:53:07.076Z"
+      "collected": "2026-08-28T11:58:18.226Z"
     },
     {
       "tag": "pypi-x402@v2.7.0",
+      "date": "2026-04-13",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -208,12 +222,13 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.7.0",
       "highlights": [
-        "Add optional `extra.memo` support to SVM exact scheme. When present, the client uses the seller-provided memo as Memo instruction data instead of a random nonce, and the facilitator verifies the memo "
+        "Add optional extra.memo support to SVM exact scheme. When present, the client uses the seller-provided memo as Memo instruction data instead of a random nonce, and the facilitator verifies the memo content matches."
       ],
-      "collected": "2026-08-28T11:53:07.076Z"
+      "collected": "2026-08-28T11:58:18.415Z"
     },
     {
       "tag": "pypi-x402@v2.5.0",
+      "date": "2026-03-19",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -221,13 +236,14 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.5.0",
       "highlights": [
-        "Fixed Python HTTP middleware to return `502` instead of `500` when the facilitator responds with invalid JSON or schema-invalid data. ([#545](https://github.com/x402-foundation/x402/pull/545))",
-        "Added Permit2 support to the Python SDK exact EVM mechanism with full TS/Go parity. The client routes to Permit2 (`PermitWitnessTransferFrom`) when `assetTransferMethod == \"permit2\"` in payment requir"
+        "Fixed Python HTTP middleware to return 502 instead of 500 when the facilitator responds with invalid JSON or schema-invalid data.",
+        "Added Permit2 support to the Python SDK exact EVM mechanism with full TS/Go parity. The client routes to Permit2 (PermitWitnessTransferFrom) when assetTransferMethod == \"permit2\" in payment requirements extra…"
       ],
-      "collected": "2026-08-28T11:53:07.076Z"
+      "collected": "2026-08-28T11:58:18.579Z"
     },
     {
       "tag": "pypi-x402@v2.4.0",
+      "date": "2026-03-16",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -235,13 +251,14 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.4.0",
       "highlights": [
-        "Fixed paywall config injection targeting </body> causing SVG parse errors in the browser ([#1550](https://github.com/x402-foundation/x402/pull/1550))",
-        "Simulate transaction in verify and (optional) settle; Added multicall utility for efficient rpc calls; Fixed undeployed smart wallet handling to prevent facilitator grieving and account for implementa"
+        "Fixed paywall config injection targeting </body> causing SVG parse errors in the browser",
+        "Simulate transaction in verify and (optional) settle; Added multicall utility for efficient rpc calls; Fixed undeployed smart wallet handling to prevent facilitator grieving and account for implementation dependent…"
       ],
-      "collected": "2026-08-28T11:53:07.076Z"
+      "collected": "2026-08-28T11:58:18.755Z"
     },
     {
       "tag": "pypi-x402@v2.3.0",
+      "date": "2026-03-06",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -249,15 +266,16 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.3.0",
       "highlights": [
-        "Add in-memory SettlementCache to prevent duplicate SVM transaction settlement during on-chain confirmation window ([#svm-duplicate-settlement](https://github.com/x402-foundation/x402/pull/svm-duplicat",
-        "Added serialize_by_alias=True to BaseX402Model so model_dump_json() produces spec-compliant camelCase by default ([#1120](https://github.com/x402-foundation/x402/pull/1120))",
-        "Added assetTransferMethod and supportsEip2612 flag to defaultAssets ([#1359](https://github.com/x402-foundation/x402/pull/1359))",
-        "Added dynamic function for servers to generate custom response for settlement failures defaulting to empty ([#1430](https://github.com/x402-foundation/x402/pull/1430))"
+        "Add in-memory SettlementCache to prevent duplicate SVM transaction settlement during on-chain confirmation window (#svm-duplicate-settlement)",
+        "Added serialize_by_alias=True to BaseX402Model so model_dump_json() produces spec-compliant camelCase by default",
+        "Added assetTransferMethod and supportsEip2612 flag to defaultAssets",
+        "Added dynamic function for servers to generate custom response for settlement failures defaulting to empty"
       ],
-      "collected": "2026-08-28T11:53:07.076Z"
+      "collected": "2026-08-28T11:58:18.903Z"
     },
     {
       "tag": "pypi-x402@v2.2.0",
+      "date": "2026-02-20",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -265,14 +283,15 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.2.0",
       "highlights": [
-        "Fixed SVM V1 client transaction signing to use `VersionedTransaction.populate()` with explicit signature slots, matching the V2 approach and fixing \"not enough signers\" errors. ([#v1-svm-signers](http",
-        "Added payment-identifier extension for tracking and validating payment identifiers ([#1111](https://github.com/x402-foundation/x402/pull/1111))",
-        "Upgraded facilitator extension registration from string keys to FacilitatorExtension dataclass. Added FacilitatorContext passed through SchemeNetworkFacilitator.verify/settle for mechanism access to e"
+        "Fixed SVM V1 client transaction signing to use VersionedTransaction.populate() with explicit signature slots, matching the V2 approach and fixing \"not enough signers\" errors. (#v1-svm-signers)",
+        "Added payment-identifier extension for tracking and validating payment identifiers",
+        "Upgraded facilitator extension registration from string keys to FacilitatorExtension dataclass…"
       ],
-      "collected": "2026-08-28T11:53:07.076Z"
+      "collected": "2026-08-28T11:58:19.083Z"
     },
     {
       "tag": "pypi-x402@v2.1.0",
+      "date": "2026-02-11",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -280,14 +299,15 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.1.0",
       "highlights": [
-        "Add MegaETH mainnet (chain ID 4326) support with USDM as the default stablecoin ([#megaeth-support](https://github.com/x402-foundation/x402/pull/megaeth-support))",
-        "Added memo instruction with random nonce to SVM transactions to ensure uniqueness and prevent duplicate transaction attacks ([#1048](https://github.com/x402-foundation/x402/pull/1048))",
-        "Added MCP transport integration for x402 payment protocol ([#1131](https://github.com/x402-foundation/x402/pull/1131))"
+        "Add MegaETH mainnet (chain ID 4326) support with USDM as the default stablecoin (#megaeth-support)",
+        "Added memo instruction with random nonce to SVM transactions to ensure uniqueness and prevent duplicate transaction attacks",
+        "Added MCP transport integration for x402 payment protocol"
       ],
-      "collected": "2026-08-28T11:53:07.077Z"
+      "collected": "2026-08-28T11:58:19.278Z"
     },
     {
       "tag": "pypi-x402@v1.0.0",
+      "date": "2025-12-10",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -297,10 +317,11 @@
       "highlights": [
         "Implements x402 1.0.0 for the Python SDK."
       ],
-      "collected": "2026-08-28T11:53:07.077Z"
+      "collected": "2026-08-28T11:58:19.446Z"
     },
     {
       "tag": "pypi-x402@v0.3.0",
+      "date": "2025-12-09",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -308,10 +329,11 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v0.3.0",
       "highlights": [],
-      "collected": "2026-08-28T11:53:07.077Z"
+      "collected": "2026-08-28T11:58:19.606Z"
     },
     {
       "tag": "pypi-x402@v0.2.0",
+      "date": "2025-08-09",
       "repo": "x402-foundation/x402",
       "sdk": "Python SDK",
       "pkg": "pypi",
@@ -319,10 +341,11 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v0.2.0",
       "highlights": [],
-      "collected": "2026-08-28T11:53:07.077Z"
+      "collected": "2026-08-28T11:58:19.777Z"
     },
     {
       "tag": "npm-x402@v1.2.0",
+      "date": "2026-04-15",
       "repo": "x402-foundation/x402",
       "sdk": "npm x402 (legacy)",
       "pkg": "npm",
@@ -330,10 +353,11 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/npm-x402%40v1.2.0",
       "highlights": [],
-      "collected": "2026-08-28T11:53:07.150Z"
+      "collected": "2026-08-28T11:58:20.040Z"
     },
     {
       "tag": "npm-x402@v1.1.0",
+      "date": "2025-12-23",
       "repo": "x402-foundation/x402",
       "sdk": "npm x402 (legacy)",
       "pkg": "npm",
@@ -341,10 +365,11 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/npm-x402%40v1.1.0",
       "highlights": [],
-      "collected": "2026-08-28T11:53:07.151Z"
+      "collected": "2026-08-28T11:58:20.220Z"
     },
     {
       "tag": "npm-x402@v1.0.0",
+      "date": "2025-12-10",
       "repo": "x402-foundation/x402",
       "sdk": "npm x402 (legacy)",
       "pkg": "npm",
@@ -354,10 +379,11 @@
       "highlights": [
         "Implements x402 1.0.0 for the TypeScript SDK."
       ],
-      "collected": "2026-08-28T11:53:07.151Z"
+      "collected": "2026-08-28T11:58:20.385Z"
     },
     {
       "tag": "npm-x402@v0.8.0",
+      "date": "2025-12-09",
       "repo": "x402-foundation/x402",
       "sdk": "npm x402 (legacy)",
       "pkg": "npm",
@@ -365,10 +391,11 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/npm-x402%40v0.8.0",
       "highlights": [],
-      "collected": "2026-08-28T11:53:07.151Z"
+      "collected": "2026-08-28T11:58:20.577Z"
     },
     {
       "tag": "npm-x402@v0.6.0",
+      "date": "2025-09-06",
       "repo": "x402-foundation/x402",
       "sdk": "npm x402 (legacy)",
       "pkg": "npm",
@@ -376,10 +403,11 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/npm-x402%40v0.6.0",
       "highlights": [],
-      "collected": "2026-08-28T11:53:07.151Z"
+      "collected": "2026-08-28T11:58:20.749Z"
     },
     {
       "tag": "npm-x402@v0.5.0",
+      "date": "2025-08-09",
       "repo": "x402-foundation/x402",
       "sdk": "npm x402 (legacy)",
       "pkg": "npm",
@@ -387,10 +415,11 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/npm-x402%40v0.5.0",
       "highlights": [],
-      "collected": "2026-08-28T11:53:07.151Z"
+      "collected": "2026-08-28T11:58:20.939Z"
     },
     {
       "tag": "npm-x402@v0.4.0",
+      "date": "2025-06-13",
       "repo": "x402-foundation/x402",
       "sdk": "npm x402 (legacy)",
       "pkg": "npm",
@@ -398,10 +427,11 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/npm-x402%40v0.4.0",
       "highlights": [],
-      "collected": "2026-08-28T11:53:07.151Z"
+      "collected": "2026-08-28T11:58:21.288Z"
     },
     {
       "tag": "npm-x402@v0.3.0",
+      "date": "2025-05-06",
       "repo": "x402-foundation/x402",
       "sdk": "npm x402 (legacy)",
       "pkg": "npm",
@@ -409,10 +439,11 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/npm-x402%40v0.3.0",
       "highlights": [],
-      "collected": "2026-08-28T11:53:07.152Z"
+      "collected": "2026-08-28T11:58:21.642Z"
     },
     {
       "tag": "npm-x402-express@v1.2.0",
+      "date": "2026-04-17",
       "repo": "x402-foundation/x402",
       "sdk": "x402-express",
       "pkg": "npm",
@@ -420,10 +451,11 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/npm-x402-express%40v1.2.0",
       "highlights": [],
-      "collected": "2026-08-28T11:53:07.224Z"
+      "collected": "2026-08-28T11:58:21.950Z"
     },
     {
       "tag": "npm-x402-express@v1.1.0",
+      "date": "2025-12-23",
       "repo": "x402-foundation/x402",
       "sdk": "x402-express",
       "pkg": "npm",
@@ -431,10 +463,11 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/npm-x402-express%40v1.1.0",
       "highlights": [],
-      "collected": "2026-08-28T11:53:07.224Z"
+      "collected": "2026-08-28T11:58:22.129Z"
     },
     {
       "tag": "npm-x402-express@v1.0.0",
+      "date": "2025-12-10",
       "repo": "x402-foundation/x402",
       "sdk": "x402-express",
       "pkg": "npm",
@@ -444,10 +477,11 @@
       "highlights": [
         "Implements x402 1.0.0 for the TypeScript SDK."
       ],
-      "collected": "2026-08-28T11:53:07.224Z"
+      "collected": "2026-08-28T11:58:22.305Z"
     },
     {
       "tag": "npm-x402-express@v0.8.0",
+      "date": "2025-12-09",
       "repo": "x402-foundation/x402",
       "sdk": "x402-express",
       "pkg": "npm",
@@ -455,10 +489,11 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/npm-x402-express%40v0.8.0",
       "highlights": [],
-      "collected": "2026-08-28T11:53:07.224Z"
+      "collected": "2026-08-28T11:58:22.488Z"
     },
     {
       "tag": "npm-x402-express@v0.6.0",
+      "date": "2025-09-06",
       "repo": "x402-foundation/x402",
       "sdk": "x402-express",
       "pkg": "npm",
@@ -466,10 +501,11 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/npm-x402-express%40v0.6.0",
       "highlights": [],
-      "collected": "2026-08-28T11:53:07.224Z"
+      "collected": "2026-08-28T11:58:22.667Z"
     },
     {
       "tag": "npm-x402-express@v0.5.0",
+      "date": "2025-08-09",
       "repo": "x402-foundation/x402",
       "sdk": "x402-express",
       "pkg": "npm",
@@ -477,10 +513,11 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/npm-x402-express%40v0.5.0",
       "highlights": [],
-      "collected": "2026-08-28T11:53:07.224Z"
+      "collected": "2026-08-28T11:58:22.827Z"
     },
     {
       "tag": "npm-x402-express@v0.4.0",
+      "date": "2025-06-13",
       "repo": "x402-foundation/x402",
       "sdk": "x402-express",
       "pkg": "npm",
@@ -488,10 +525,11 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/npm-x402-express%40v0.4.0",
       "highlights": [],
-      "collected": "2026-08-28T11:53:07.224Z"
+      "collected": "2026-08-28T11:58:23.010Z"
     },
     {
       "tag": "npm-x402-express@v0.3.0",
+      "date": "2025-05-06",
       "repo": "x402-foundation/x402",
       "sdk": "x402-express",
       "pkg": "npm",
@@ -499,10 +537,11 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/npm-x402-express%40v0.3.0",
       "highlights": [],
-      "collected": "2026-08-28T11:53:07.224Z"
+      "collected": "2026-08-28T11:58:23.179Z"
     },
     {
       "tag": "npm-@x402/xrpl@v2.24.0",
+      "date": "2026-08-27",
       "repo": "x402-foundation/x402",
       "sdk": "@x402/xrpl",
       "pkg": "npm",
@@ -510,12 +549,13 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fxrpl%40v2.24.0",
       "highlights": [
-        "[bb46ffc](https://github.com/x402-foundation/x402/commit/bb46ffc): Declare `upfront` payment flow support on XRPL `exact` server schemes. `authorization` remains the default; servers opt in per route "
+        "bb46ffc: Declare upfront payment flow support on XRPL exact server schemes. authorization remains the default; servers opt in per route via accepts.extra.paymentFlow."
       ],
-      "collected": "2026-08-28T11:53:07.318Z"
+      "collected": "2026-08-28T11:58:23.454Z"
     },
     {
       "tag": "npm-@x402/xrpl@v2.23.0",
+      "date": "2026-08-18",
       "repo": "x402-foundation/x402",
       "sdk": "@x402/xrpl",
       "pkg": "npm",
@@ -523,9 +563,9 @@
       "significance": "minor",
       "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fxrpl%40v2.23.0",
       "highlights": [
-        "[4f58723](https://github.com/x402-foundation/x402/commit/4f58723): Normalize default assets into `DEFAULT_ASSETS` + `getDefaultAsset` / `findDefaultAsset`, and add client `spendControls`: by default o"
+        "4f58723: Normalize default assets into DEFAULT_ASSETS + getDefaultAsset / findDefaultAsset…"
       ],
-      "collected": "2026-08-28T11:53:07.318Z"
+      "collected": "2026-08-28T11:58:23.643Z"
     }
   ]
 }
