@@ -1,5 +1,18 @@
 [
   {
+    "slug": "x402-python-v2-21-sei-payment-flows",
+    "date": "2026-08-28",
+    "title": "x402 Python SDK v2.21: Sei Chain, Payment Flows, and a Batch Settlement Guard",
+    "excerpt": "The x402 Foundation shipped pypi-x402 v2.21.0 yesterday — Sei mainnet support, a new payment-flow abstraction for authorization and escrow ordering, and a quiet fix that stops untrusted batch-settlement state from persisting. Three things worth knowing if you're building on the Python side.",
+    "image": "/content/assets/x402-python-v2-21-sei-payment-flows.png",
+    "tags": [
+      "x402",
+      "python sdk",
+      "sei",
+      "changelog"
+    ]
+  },
+  {
     "slug": "nvidia-hugging-face-12b-acquisition",
     "date": "2026-08-27",
     "title": "Nvidia Is Buying the GitHub of AI. Here's What That Means for the Machine Economy.",
