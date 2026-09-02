@@ -99,11 +99,16 @@ function main() {
     .slice(0, TOP_LIMIT);
 
   // Biggest disclosed trades in the last 60 days by range ceiling.
-  const biggest = enriched
-    .filter((t) => within(t, d60))
-    .sort((a, b) => b._max - a._max)
-    .slice(0, BIGGEST_LIMIT)
-    .map(trim);
+  // Cap 2 per member so one heavy filer doesn't fill the whole panel.
+  const biggest = [];
+  const perMember = new Map();
+  for (const t of enriched.filter((x) => within(x, d60)).sort((a, b) => b._max - a._max)) {
+    const n = perMember.get(t.member) || 0;
+    if (n >= 2) continue;
+    perMember.set(t.member, n + 1);
+    biggest.push(trim(t));
+    if (biggest.length >= BIGGEST_LIMIT) break;
+  }
 
   function trim(t) {
     return {
