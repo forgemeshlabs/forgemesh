@@ -1,5 +1,18 @@
 [
   {
+    "slug": "congress-trades-tracker-launch",
+    "date": "2026-09-02",
+    "title": "Agents Paid Us $44 for Congress Trading Data. So We Gave It to Humans Free.",
+    "excerpt": "We've been parsing every electronic STOCK Act filing from the US House since spring — 10,622 trades from 129 members — and selling it to AI agents at two cents a call. Lifetime agent revenue: about $44. Meanwhile humans pay $15–60 a month for the same data elsewhere. Today we launched forgemesh.io/trades: the whole feed, free, updated daily.",
+    "image": "/content/assets/congress-trades-tracker-launch.png",
+    "tags": [
+      "congress-trades",
+      "stock-act",
+      "gov-transparency",
+      "product"
+    ]
+  },
+  {
     "slug": "x402-python-v2-21-sei-payment-flows",
     "date": "2026-08-28",
     "title": "x402 Python SDK v2.21: Sei Chain, Payment Flows, and a Batch Settlement Guard",

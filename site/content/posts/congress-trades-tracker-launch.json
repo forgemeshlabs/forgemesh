@@ -1,0 +1,76 @@
+{
+  "slug": "congress-trades-tracker-launch",
+  "date": "2026-09-02",
+  "title": "Agents Paid Us $44 for Congress Trading Data. So We Gave It to Humans Free.",
+  "excerpt": "We've been parsing every electronic STOCK Act filing from the US House since spring \u2014 10,622 trades from 129 members \u2014 and selling it to AI agents at two cents a call. Lifetime agent revenue: about $44. Meanwhile humans pay $15\u201360 a month for the same data elsewhere. Today we launched forgemesh.io/trades: the whole feed, free, updated daily.",
+  "tags": [
+    "congress-trades",
+    "stock-act",
+    "gov-transparency",
+    "product"
+  ],
+  "image": "/content/assets/congress-trades-tracker-launch.png",
+  "description": "ForgeMesh launches a free congressional stock trades tracker built on its daily-parsed House PTR dataset: 10,622 trades, 129 members, every row linked to the original filing.",
+  "seoTitle": "Free Congress Stock Trades Tracker | ForgeMesh",
+  "seoDescription": "Track every disclosed US House stock trade free \u2014 parsed daily from official STOCK Act filings. 10,622 trades, 129 members, updated daily.",
+  "twitterTitle": "Agents paid us $44 for Congress trading data. So we gave it to humans free.",
+  "twitterDescription": "10,622 parsed House STOCK Act trades, updated daily, every row linked to the original filing. No paywall, no login.",
+  "heroAlt": "The Congress Trades tracker page on forgemesh.io showing biggest recent disclosures and trading statistics on a dark interface",
+  "breadcrumb": "Congress Trades launch",
+  "lede": "Since spring we've run a parser that reads every electronic periodic transaction report filed by members of the US House \u2014 the STOCK Act disclosures that tell you, up to 45 days late, what the people writing the laws are buying and selling. We built it for AI agents and priced it at two cents a call. The agents have paid us roughly $44, lifetime. Humans, meanwhile, pay Unusual Whales up to $60 a month and Quiver Quantitative $15 a month for substantially the same public records. That gap is a lesson about who actually spends money in 2026, and today we acted on it: the whole feed is now live at forgemesh.io/trades, free.",
+  "sections": [
+    {
+      "heading": "The numbers that forced the question",
+      "paras": [
+        "Our gov-transparency pack has been one of the better-performing corners of the fleet \u2014 by agent-economy standards. But agent-economy standards are the problem. Across every x402 service we run, external settlements total tens of dollars over four months. That's not a knock on the protocol; it's the honest size of autonomous agent demand right now. The same weeks we were earning pennies from agents, the retail market for congressional trading data kept supporting multiple paid products at $15\u201360 a month.",
+        "The dataset itself was never the weak part. The parser reads the House Clerk's electronic PTR filings daily, extracts member, asset, ticker, transaction type, date, and disclosed amount range, and keeps the paper filings it can't parse in a separate list with links to the PDFs. As of this morning it holds 10,622 trades from 129 members, with filings through yesterday."
+      ],
+      "stats": [
+        {
+          "n": "10,622",
+          "d": "parsed House trades"
+        },
+        {
+          "n": "129",
+          "d": "members tracked"
+        },
+        {
+          "n": "264",
+          "d": "filed in the last 30 days"
+        },
+        {
+          "n": "$0",
+          "d": "paywall"
+        }
+      ]
+    },
+    {
+      "heading": "Same data, different buyer",
+      "paras": [
+        "So we pointed the pipeline at people instead. The new page renders the biggest disclosures of the last 60 days \u2014 this week that's a $1,000,001\u2013$5,000,000 Bloom Energy purchase filed by Nancy Pelosi \u2014 plus the most active members over 90 days, the hottest tickers over 30, and a filterable table of the latest 300 filings. Every row links back to the original filing PDF on disclosures-clerk.house.gov, because the whole point of transparency data is that you shouldn't have to trust our parsing.",
+        "The honest caveats live right on the page: amounts are disclosed as ranges, not exact figures, members have up to 45 days to file, and coverage today is the House's electronic filings \u2014 Senate is planned. None of it is financial advice. It's public record, made readable."
+      ]
+    },
+    {
+      "heading": "What happens next",
+      "paras": [
+        "There's a free email alert list on the page for notable filings \u2014 large disclosures and unusual clusters \u2014 and the feed refreshes every morning after the Clerk's site updates. Agents aren't cut off, either: the machine-readable version stays paid per-call through the gov-transparency pack, and the page's own trimmed feed is open JSON at /congress-trades.json.",
+        "The broader lesson we keep re-learning in public: build for the demand that exists, not the demand you wish existed. The agent economy will get there. Until it does, the humans get the good stuff too."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "See what Congress is trading",
+    "copy": "The full tracker is live \u2014 biggest disclosures, most active members, hottest tickers, and every filing linked to its source PDF. Free, no login: forgemesh.io/trades"
+  },
+  "related": [
+    {
+      "slug": "x402-record-day-money-didnt-move",
+      "text": "A record day on paper \u2014 and the money didn't move"
+    },
+    {
+      "slug": "lessons-from-500-paid-x402-endpoints",
+      "text": "Lessons from running 500 paid x402 endpoints"
+    }
+  ]
+}
