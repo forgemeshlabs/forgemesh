@@ -28,6 +28,7 @@ const STATIC_ROUTES = [
   '/scan',
   '/seo',
   '/texas',
+  '/trades',
   '/watch',
   '/x402',
 ];
