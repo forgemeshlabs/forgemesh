@@ -29,6 +29,7 @@ const STATIC_ROUTES = [
   '/seo',
   '/texas',
   '/trades',
+  '/vehicle-intelligence',
   '/watch',
   '/x402',
 ];

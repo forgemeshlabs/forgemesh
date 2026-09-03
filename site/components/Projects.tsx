@@ -62,6 +62,16 @@ const projects = [
     page: '/gov-transparency',
   },
   {
+    name: 'Vehicle Intelligence Pack',
+    surface: 'Stuffer endpoint pack',
+    description:
+      'The used-car due-diligence stack for agents. One VIN in — specs, recalls, crash ratings, real-world failure patterns, and running costs out. Six endpoints from official public-domain sources, headlined by a ranked "what actually breaks on this car" report. Half a cent to a cent per call.',
+    tags: ['x402', 'VIN decode', 'vehicle recalls', 'crash ratings', 'USDC', 'Base'],
+    status: 'active',
+    url: 'https://x402.forgemesh.io',
+    page: '/vehicle-intelligence',
+  },
+  {
     name: 'coinopai-mcp',
     surface: 'MCP package',
     description:
