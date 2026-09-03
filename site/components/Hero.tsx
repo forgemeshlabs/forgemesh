@@ -3,6 +3,7 @@
 import { MeshBackground } from './MeshBackground';
 import { RailPulse } from './RailPulse';
 import { RepoWatchStrip } from './RepoWatch';
+import { RulesWatchStrip } from './RulesWatch';
 import { ForgeMeshMark } from './ForgeMeshMark';
 
 export function Hero() {
@@ -79,6 +80,7 @@ export function Hero() {
         <div className="w-full">
           <RailPulse embedded />
           <RepoWatchStrip />
+          <RulesWatchStrip />
         </div>
       </div>
 
