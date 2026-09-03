@@ -2,6 +2,8 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+ ("agentic-payments-alliance-circle-x402", "Visa + Mastercard Are Writing the Agent Payment Rules. Circle Is in the Room.", "Authorization rules, not pricing — and the rail that's actually shrinking"),
+ ("how-to-read-a-vin", "A VIN Starting With J Really Does Mean Japan", "17 characters, 3 you can read by eye — and a built-in typo detector from 1981"),
  ("congress-trades-tracker-launch", "Agents Paid Us $44 for Congress Trading Data. We Gave It to Humans Free.", "10,622 trades, 129 members, updated daily"),
  ("x402-python-v2-21-sei-payment-flows", "x402 Python SDK v2.21: Sei, Payment Flows, Batch Settlement Guard", "The changelog, decoded"),
  ("nvidia-hugging-face-12b-acquisition", "Nvidia Is Buying the GitHub of AI for $12.9 Billion", "13M devs, 2.5M models — the model layer gets a tollbooth"),
