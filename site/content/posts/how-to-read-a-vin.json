@@ -1,0 +1,98 @@
+{
+  "slug": "how-to-read-a-vin",
+  "date": "2026-09-03",
+  "title": "A VIN Starting With J Really Does Mean Japan. The Other 16 Characters Are Where It Gets Interesting.",
+  "excerpt": "A story that crossed our desk this week: someone arranging car shipping wanted to confirm a car was assembled in Japan. An AI assistant looked at the VIN, saw it started with J, and said yes — correctly. Then it named the wrong model, confidently. Both halves of that story are about the same thing: a VIN is a 17-character structured record, and knowing which characters you can eyeball — and which you can't — is genuinely useful.",
+  "tags": [
+    "vin",
+    "vehicles",
+    "how-it-works",
+    "product"
+  ],
+  "image": "/content/assets/how-to-read-a-vin.png",
+  "description": "How to read a VIN: what each of the 17 characters means, which ones you can decode by eye (country, year, plant), and where eyeballing goes wrong.",
+  "seoTitle": "How to Read a VIN: All 17 Characters | ForgeMesh",
+  "seoDescription": "VIN decoding explained: first character = country (J is Japan), position 10 = model year, 9 = check digit. What you can eyeball and what needs a decoder.",
+  "twitterTitle": "A VIN starting with J really does mean Japan. The other 16 characters are where it gets interesting.",
+  "twitterDescription": "Country, model year, assembly plant, and a built-in typo detector — what a VIN actually encodes, which parts you can read by eye, and where confident guessing goes wrong.",
+  "heroAlt": "Stylized illustration of a 17-character vehicle identification number glowing on a dark background with a magnifier over the first character",
+  "breadcrumb": "How to read a VIN",
+  "lede": "Here's a story that crossed our desk this week. Someone arranging car shipping wanted to confirm the car they were buying had actually been assembled in Japan. An AI assistant looked at the VIN, saw it started with J, and said: built in Japan. That's correct — the first character of every VIN encodes the country that built the car, and J belongs exclusively to Japan. Then the same assistant confidently named the model. Wrong model. Also instructive: the model isn't sitting in any character you can eyeball. A VIN is a tightly structured 17-character record where some fields are readable at a glance and some genuinely require a lookup table the size of a phone book — and this week we shipped an API pack that reads all of it, so consider this the field guide.",
+  "sections": [
+    {
+      "heading": "The three zones of a VIN",
+      "paras": [
+        "Every vehicle sold since 1981 carries a 17-character VIN, and it splits into three zones. **Characters 1–3** are the World Manufacturer Identifier: character 1 is the build country (J = Japan, K = South Korea, W = Germany, S = the UK, Z = Italy, 1/4/5 = the United States, 2 = Canada, 3 = Mexico), and characters 2–3 identify the manufacturer and vehicle type. **Characters 4–8** are the Vehicle Descriptor Section — model, body style, engine, restraint system — encoded in each manufacturer's own scheme, which is exactly why you can't eyeball a model out of a VIN. **Characters 10–17** cover model year (10), assembly plant (11), and the sequential serial number (12–17).",
+        "The Honda case makes the country zone vivid: a US-market Accord built in Marysville, Ohio starts **1HG**; the same generation Accord built in Sayama, Japan starts **JHM**. Same badge, same showroom, one character apart. If you're paying to ship a car across an ocean because you specifically want the Japan-built one, that first character is doing real work. And three letters never appear anywhere in a VIN — I, O, and Q — banned because they read as 1 and 0."
+      ],
+      "stats": [
+        {
+          "n": "17",
+          "d": "characters since 1981"
+        },
+        {
+          "n": "J",
+          "d": "position 1: built in Japan"
+        },
+        {
+          "n": "1HG vs JHM",
+          "d": "Ohio Honda vs Japan Honda"
+        },
+        {
+          "n": "I O Q",
+          "d": "never appear in a VIN"
+        }
+      ]
+    },
+    {
+      "heading": "The check digit: a typo detector from 1981",
+      "paras": [
+        "Character 9 is our favorite: it's a **check digit**, computed from all the other characters. Every character maps to a number, each position carries a weight, and the weighted sum mod 11 must equal position 9 (with X standing in for ten). Transpose two characters typing a VIN into a form and the math stops working — a 1981 regulation quietly doing the job of a modern checksum. When our decoder returns a clean result it says so explicitly: 'VIN decoded clean. Check Digit (9th position) is correct.'",
+        "Character 10 is the model year, and it cycles: letters (skipping the banned ones, plus U and Z) through 2000, then digits 1–9, then back to letters — A meant 1980 and it meant 2010 again. Character 11 is the assembly plant, another single readable character: in our Ohio Accord example, the fifth-from-last A is Marysville. So a practiced eye gets country, year, and plant from three characters. Everything else — trim, engine, drivetrain, what the airbag configuration is — lives in the manufacturer-specific middle, which is lookup-table territory."
+      ]
+    },
+    {
+      "heading": "When eyeballing runs out, decode — and then keep going",
+      "paras": [
+        "This week we shipped a **vehicle intelligence pack** on our Utility Grid: six paid endpoints that start where eyeballing ends. VIN decode returns the full structured record — make, model, year, trim, engine, transmission, and the assembly plant spelled out — from half a cent a call. And because the decode is chained server-side, every other endpoint in the pack takes a bare VIN too: open safety recalls (with do-not-drive flags), 5-star crash-test ratings, owner-filed defect complaints, official fuel economy, and our favorite, a top-failure-components report that aggregates every complaint on file into a ranked list of what actually breaks on that exact year, make, and model.",
+        "The shipping-question version of that workflow: paste the VIN, confirm the J and the model in one call, then ask the failure report whether the car you're about to put on a boat has a transmission with a reputation. The 2003 Accord in our launch demo has 2,013 complaints on file and 46% of them name the power train — the kind of thing you'd rather learn before the ocean crossing than after. The whole pack is documented at forgemesh.io/vehicle-intelligence, speaks both x402 and MPP on the same 402, and never costs more than a cent a question."
+      ],
+      "stats": [
+        {
+          "n": "6",
+          "d": "endpoints in the pack"
+        },
+        {
+          "n": "$0.005",
+          "d": "per VIN decode"
+        },
+        {
+          "n": "2,013",
+          "d": "complaints on our demo Accord"
+        },
+        {
+          "n": "46%",
+          "d": "of them: power train"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "VIN in, everything out",
+    "copy": "The Vehicle Intelligence Pack is live on the Utility Grid: decode, recalls, crash ratings, complaints, failure patterns, and fuel economy — every endpoint takes a bare VIN, from $0.005 a call. Full docs, curl quickstart, and the Accord demo at forgemesh.io/vehicle-intelligence."
+  },
+  "related": [
+    {
+      "slug": "lessons-from-500-paid-x402-endpoints",
+      "text": "Lessons from running 500 paid x402 endpoints"
+    },
+    {
+      "slug": "congress-trades-tracker-launch",
+      "text": "Agents paid us $44 for Congress data, so we gave it to humans free"
+    },
+    {
+      "slug": "agentic-payments-alliance-circle-x402",
+      "text": "Visa, Mastercard, and the agent payment rules: why x402 is fine"
+    }
+  ]
+}
