@@ -29,6 +29,7 @@ const STATIC_ROUTES = [
   '/scan',
   '/seo',
   '/texas',
+  '/tools',
   '/trades',
   '/vehicle-intelligence',
   '/vin',
