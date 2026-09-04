@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import { Menu, X } from 'lucide-react';
 import { ForgeMeshMark } from './ForgeMeshMark';
 import { RailTicker } from './RailTicker';
 
@@ -53,8 +54,16 @@ const productLinks = [
   { label: 'ClawVoice', href: '/clawvoice' },
 ];
 
+const topLinks = [
+  { label: 'Blog', href: '/blog' },
+  { label: 'The Brief', href: '/brief' },
+  { label: 'Texas Watch', href: '/texas' },
+  { label: 'Calendar', href: '/calendar' },
+];
+
 export function NavBar() {
   const [scrolled, setScrolled] = useState(false);
+  const [open, setOpen] = useState(false);
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 40);
@@ -62,10 +71,28 @@ export function NavBar() {
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
 
+  // Mobile menu: close on Escape, lock page scroll while open, and reset if
+  // the viewport grows past the md breakpoint (desktop nav takes over).
+  useEffect(() => {
+    if (!open) return;
+    const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape') setOpen(false); };
+    const mq = window.matchMedia('(min-width: 768px)');
+    const onResize = () => { if (mq.matches) setOpen(false); };
+    document.addEventListener('keydown', onKey);
+    mq.addEventListener('change', onResize);
+    const prev = document.body.style.overflow;
+    document.body.style.overflow = 'hidden';
+    return () => {
+      document.removeEventListener('keydown', onKey);
+      mq.removeEventListener('change', onResize);
+      document.body.style.overflow = prev;
+    };
+  }, [open]);
+
   return (
     <nav
       className={`fixed top-0 inset-x-0 z-50 transition-all duration-300 ${
-        scrolled
+        scrolled || open
           ? 'border-b border-white/[0.06] bg-[#050509]/90 backdrop-blur-md'
           : 'bg-transparent'
       }`}
@@ -79,12 +106,7 @@ export function NavBar() {
         </a>
 
         <div className="hidden md:flex items-center gap-6">
-          {[
-            { label: 'Blog', href: '/blog' },
-            { label: 'The Brief', href: '/brief' },
-            { label: 'Texas Watch', href: '/texas' },
-            { label: 'Calendar', href: '/calendar' },
-          ].map(item => (
+          {topLinks.map(item => (
             <a
               key={item.label}
               href={item.href}
@@ -188,7 +210,62 @@ export function NavBar() {
             </svg>
             <span className="hidden sm:inline">GitHub</span>
           </a>
+
+          <button
+            type="button"
+            onClick={() => setOpen(o => !o)}
+            aria-expanded={open}
+            aria-controls="mobile-nav"
+            aria-label={open ? 'Close menu' : 'Open menu'}
+            className="flex h-8 w-8 items-center justify-center rounded border border-white/[0.12] text-slate-300 transition-all hover:border-blue-500/50 hover:text-white active:translate-y-px md:hidden"
+          >
+            {open ? <X className="h-4 w-4" aria-hidden /> : <Menu className="h-4 w-4" aria-hidden />}
+          </button>
         </div>
+      </div>
+
+      {/* Mobile menu — every link the desktop dropdowns hold, in one scrollable sheet. */}
+      <div
+        id="mobile-nav"
+        hidden={!open}
+        className="max-h-[calc(100dvh-4rem)] overflow-y-auto border-t border-white/[0.06] bg-[#050509]/98 px-6 pb-10 pt-4 backdrop-blur-md md:hidden"
+      >
+        <div className="grid grid-cols-2 gap-2">
+          {topLinks.map(item => (
+            <a
+              key={item.href}
+              href={item.href}
+              onClick={() => setOpen(false)}
+              className="rounded border border-white/[0.08] bg-white/[0.02] px-3 py-2.5 text-sm text-slate-200 hover:border-blue-500/40 hover:bg-blue-500/10"
+            >
+              {item.label}
+            </a>
+          ))}
+        </div>
+        {[
+          { title: 'Free', links: freeLinks },
+          { title: 'Projects', links: productLinks },
+          { title: 'Learn', links: learnLinks },
+        ].map(group => (
+          <div key={group.title} className="mt-6">
+            <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-slate-500">{group.title}</p>
+            <ul className="mt-2 divide-y divide-white/[0.04] rounded border border-white/[0.06]">
+              {group.links.map(link => (
+                <li key={link.href}>
+                  <a
+                    href={link.href}
+                    onClick={() => setOpen(false)}
+                    target={link.href.startsWith('http') ? '_blank' : undefined}
+                    rel={link.href.startsWith('http') ? 'noopener noreferrer' : undefined}
+                    className="block px-3 py-2.5 text-sm text-slate-300 hover:bg-blue-500/10 hover:text-slate-100"
+                  >
+                    {link.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
       </div>
       <RailTicker />
     </nav>
