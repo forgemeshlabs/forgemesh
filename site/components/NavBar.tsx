@@ -17,6 +17,7 @@ const learnLinks = [
 
 // Everything free — tools, checklists, data, MCPs. Funnel mouths, all of it.
 const freeLinks = [
+  { label: 'Free VIN check (recalls + what breaks)', href: '/vin' },
   { label: 'Endpoint scanner', href: '/scan' },
   { label: 'Seller pre-flight checklist', href: '/checklist' },
   { label: 'Seller kits + guides', href: 'https://kit.forgemesh.io' },

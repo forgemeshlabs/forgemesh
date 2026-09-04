@@ -96,6 +96,11 @@ export default function VehicleIntelligencePage() {
               VIN and chaining the decode server-side, so an agent never has to call two endpoints to
               get one answer.
             </p>
+            <p className="mt-4 text-base leading-7 text-slate-400">
+              Not an agent? The human version is free:{' '}
+              <a href="/vin" className="text-blue-400 hover:text-blue-300">check any VIN at forgemesh.io/vin</a>{' '}
+              — same data, no wallet, no signup.
+            </p>
             <p className="mt-4 text-base leading-8 text-slate-400">
               All data comes from official public-domain sources, fetched live with a 30-minute
               cache — always current, no licensing risk. Built for car-shopping agents, marketplace
