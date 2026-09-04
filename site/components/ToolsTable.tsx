@@ -1,7 +1,7 @@
 'use client';
 
 import { useMemo, useState } from 'react';
-import { Search } from 'lucide-react';
+import { Search, X } from 'lucide-react';
 import type { ToolGroup, ToolRow } from '@/lib/tools-catalog';
 
 const COST_CHIP: Record<ToolRow['cost'], { label: string; cls: string }> = {
@@ -12,38 +12,93 @@ const COST_CHIP: Record<ToolRow['cost'], { label: string; cls: string }> = {
 
 const FOR_LABEL: Record<ToolRow['for'][number], string> = { humans: 'people', agents: 'agents', builders: 'builders' };
 
-function matches(r: ToolRow, q: string) {
+type CostFilter = 'all' | ToolRow['cost'];
+type ForFilter = 'all' | ToolRow['for'][number];
+
+// Tappable hints — the searches people actually arrive with.
+const HINTS = ['vin', 'recalls', 'congress', 'scanner', 'mcp', 'x402', 'gov', 'crypto', 'voice', 'newsletter'];
+
+function matches(r: ToolRow, q: string, cost: CostFilter, who: ForFilter) {
+  if (cost !== 'all' && r.cost !== cost) return false;
+  if (who !== 'all' && !r.for.includes(who)) return false;
   if (!q) return true;
   const hay = `${r.name} ${r.what} ${r.cost} ${r.price ?? ''} ${r.for.join(' ')}`.toLowerCase();
   return q.split(/\s+/).every((t) => hay.includes(t));
 }
 
+const selectCls =
+  'rounded-lg border border-white/[0.1] bg-[#0b0b12] px-3 py-2.5 text-sm text-slate-200 focus:border-blue-500/60 focus:outline-none';
+
 export function ToolsTable({ groups }: { groups: ToolGroup[] }) {
   const [query, setQuery] = useState('');
+  const [cost, setCost] = useState<CostFilter>('all');
+  const [who, setWho] = useState<ForFilter>('all');
   const q = query.trim().toLowerCase();
+  const filtering = q !== '' || cost !== 'all' || who !== 'all';
 
   const visible = useMemo(
-    () => groups.map((g) => ({ ...g, rows: g.rows.filter((r) => matches(r, q)) })).filter((g) => g.rows.length),
-    [groups, q],
+    () => groups.map((g) => ({ ...g, rows: g.rows.filter((r) => matches(r, q, cost, who)) })).filter((g) => g.rows.length),
+    [groups, q, cost, who],
   );
   const shown = visible.reduce((n, g) => n + g.rows.length, 0);
 
   return (
     <div>
       <div className="sticky top-[6rem] z-30 -mx-4 bg-[#050509]/95 px-4 py-3 backdrop-blur-md sm:-mx-0 sm:px-0">
-        <label className="relative block">
-          <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-slate-500" aria-hidden />
-          <input
-            type="search"
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-            placeholder="Filter: vin, recalls, mcp, free, agents…"
-            aria-label="Filter the catalog"
-            className="w-full rounded-lg border border-white/[0.1] bg-white/[0.03] py-2.5 pl-9 pr-3 text-sm text-slate-100 placeholder:text-slate-500 focus:border-blue-500/60 focus:outline-none"
-          />
-        </label>
+        <div className="flex flex-col gap-2 sm:flex-row">
+          <label className="relative block flex-1">
+            <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-slate-500" aria-hidden />
+            <input
+              type="search"
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              placeholder="Type anything: vin, recalls, mcp…"
+              aria-label="Filter the catalog by text"
+              className="w-full rounded-lg border border-white/[0.1] bg-white/[0.03] py-2.5 pl-9 pr-3 text-sm text-slate-100 placeholder:text-slate-500 focus:border-blue-500/60 focus:outline-none"
+            />
+          </label>
+          <div className="grid grid-cols-2 gap-2 sm:flex">
+            <select value={cost} onChange={(e) => setCost(e.target.value as CostFilter)} aria-label="Filter by cost" className={selectCls}>
+              <option value="all">Any cost</option>
+              <option value="free">Free</option>
+              <option value="paid">Paid (per call)</option>
+              <option value="npm">npm install</option>
+            </select>
+            <select value={who} onChange={(e) => setWho(e.target.value as ForFilter)} aria-label="Filter by audience" className={selectCls}>
+              <option value="all">For anyone</option>
+              <option value="humans">For people</option>
+              <option value="agents">For AI agents</option>
+              <option value="builders">For builders</option>
+            </select>
+          </div>
+        </div>
+        <div className="-mx-4 mt-2 flex items-center gap-2 overflow-x-auto whitespace-nowrap px-4 sm:mx-0 sm:flex-wrap sm:px-0">
+          <span className="shrink-0 font-mono text-[10px] uppercase tracking-[0.15em] text-slate-600">Try</span>
+          {HINTS.map((h) => (
+            <button
+              key={h}
+              type="button"
+              onClick={() => setQuery(q === h ? '' : h)}
+              aria-pressed={q === h}
+              className={`shrink-0 rounded-full border px-2.5 py-1 text-xs transition-colors ${
+                q === h ? 'border-blue-400/60 bg-blue-500/15 text-blue-200' : 'border-white/[0.1] text-slate-400 hover:border-blue-500/40 hover:text-slate-200'
+              }`}
+            >
+              {h}
+            </button>
+          ))}
+          {filtering ? (
+            <button
+              type="button"
+              onClick={() => { setQuery(''); setCost('all'); setWho('all'); }}
+              className="inline-flex shrink-0 items-center gap-1 rounded-full px-2 py-1 text-xs text-rose-300 hover:text-rose-200"
+            >
+              <X className="h-3 w-3" aria-hidden /> clear
+            </button>
+          ) : null}
+        </div>
         <div className="-mx-4 mt-2 flex gap-x-4 overflow-x-auto whitespace-nowrap px-4 font-mono text-[11px] uppercase tracking-[0.15em] text-slate-500 sm:mx-0 sm:flex-wrap sm:px-0">
-          <span className="shrink-0">{shown} rows</span>
+          <span className="shrink-0">{shown} rows{filtering ? ' match' : ''}</span>
           {groups.map((g) => (
             <a key={g.id} href={`#${g.id}`} className="shrink-0 hover:text-slate-300">
               {g.title}
@@ -53,11 +108,11 @@ export function ToolsTable({ groups }: { groups: ToolGroup[] }) {
       </div>
 
       {visible.length === 0 ? (
-        <p className="mt-8 text-sm text-slate-400">Nothing matches “{query}”. Try a shorter word.</p>
+        <p className="mt-8 text-sm text-slate-400">Nothing matches those filters. Try a shorter word, or clear the cost / audience dropdowns.</p>
       ) : null}
 
       {visible.map((g) => (
-        <section key={g.id} id={g.id} className="mt-8 scroll-mt-36">
+        <section key={g.id} id={g.id} className="mt-8 scroll-mt-52 sm:scroll-mt-44">
           <div className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1">
             <h2 className="text-lg font-semibold text-slate-50">{g.title}</h2>
             <p className="text-xs text-slate-500">{g.blurb}</p>
