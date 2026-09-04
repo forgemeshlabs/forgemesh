@@ -25,10 +25,11 @@ const prettyPlace = (v: Report['vehicle']) => {
   return parts.join(', ');
 };
 const litres = (s: string | null) => (s ? `${(Math.round(Number(s) * 10) / 10).toFixed(1)}L` : null);
+// Recall dates arrive as DD/MM/YYYY.
 const fmtDate = (s: string) => {
   const m = s.match(/^(\d{2})\/(\d{2})\/(\d{4})$/);
   if (!m) return s;
-  const d = new Date(Number(m[3]), Number(m[1]) - 1, Number(m[2]));
+  const d = new Date(Number(m[3]), Number(m[2]) - 1, Number(m[1]));
   return isNaN(d.getTime()) ? s : d.toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
 };
 

@@ -310,10 +310,11 @@ async function fetchRecalls(v: Vehicle): Promise<RecallsSection> {
     park_outside: !!x.parkOutSide,
     over_the_air_update: !!x.overTheAirUpdate,
   }));
-  // Do-not-drive / fire-risk campaigns first, then newest first.
+  // Do-not-drive / fire-risk campaigns first, then newest first. The recall
+  // API writes ReportReceivedDate as DD/MM/YYYY (e.g. 27/06/2019).
   const dateKey = (s: string) => {
     const m = s.match(/^(\d{2})\/(\d{2})\/(\d{4})$/);
-    return m ? `${m[3]}-${m[1]}-${m[2]}` : s;
+    return m ? `${m[3]}-${m[2]}-${m[1]}` : s;
   };
   rows.sort((a, b) => {
     const fa = (a.park_it ? 2 : 0) + (a.park_outside ? 1 : 0);
