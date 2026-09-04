@@ -25,6 +25,8 @@ def hero_for(slug):
             return p
     raise FileNotFoundError(f"no hero for {slug} in content/assets or public/blog")
 
+FOOTER = {"vin-checker": ("forgemesh.io/vin  ·  link in bio", "Free VIN check · official U.S. government safety data")}
+
 for slug, title, kicker in POSTS:
     img = Image.new("RGB", (W, H), BG)
     d = ImageDraw.Draw(img)
@@ -41,7 +43,8 @@ for slug, title, kicker in POSTS:
         d.text((50, y), line, font=ft, fill=WHITE)
         y += 84
     d.rectangle([50, y + 24, 270, y + 33], fill=BLUE)
-    d.text((50, H - 120), "forgemesh.io/blog  ·  link in bio", font=ImageFont.truetype(reg, 38), fill=BLUE)
-    d.text((50, H - 68), "Plain-language field reports from the AI agent economy", font=ImageFont.truetype(reg, 28), fill=SLATE)
+    furl, ftag = FOOTER.get(slug, ("forgemesh.io/blog  ·  link in bio", "Plain-language field reports from the AI agent economy"))
+    d.text((50, H - 120), furl, font=ImageFont.truetype(reg, 38), fill=BLUE)
+    d.text((50, H - 68), ftag, font=ImageFont.truetype(reg, 28), fill=SLATE)
     img.save(f"{OUT}/{slug}.jpg", "JPEG", quality=92)
     print("ig card:", slug)

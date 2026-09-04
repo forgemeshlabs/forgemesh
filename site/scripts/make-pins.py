@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+ ("vin-checker", "Check Any VIN Free. See What Actually Breaks on That Car.", "Recalls · crash stars · fuel cost · complaints ranked"),
  ("agentic-payments-alliance-circle-x402", "Visa + Mastercard Are Writing the Agent Payment Rules. Circle Is in the Room.", "Authorization rules, not pricing — and the rail that's actually shrinking"),
  ("how-to-read-a-vin", "A VIN Starting With J Really Does Mean Japan", "17 characters, 3 you can read by eye — and a built-in typo detector from 1981"),
  ("congress-trades-tracker-launch", "Agents Paid Us $44 for Congress Trading Data. We Gave It to Humans Free.", "10,622 trades, 129 members, updated daily"),
@@ -29,6 +30,9 @@ POSTS = [
  ("lessons-from-500-paid-x402-endpoints", "5 Lessons From Running 500+ Paid AI Endpoints", "Field notes from the machine economy"),
  ("x402-foundation-linux-foundation-launch", "Visa, Mastercard & Stripe Just Joined the x402 Foundation", "Agent payments went institutional"),
 ]
+
+# Tool pages (not blog posts) get their own footer line instead of /blog.
+FOOTER = {"vin-checker": ("forgemesh.io/vin", "Free VIN check · official U.S. government safety data")}
 
 W,H = 1000,1500
 BG=(5,5,9); BLUE=(96,165,250); SLATE=(148,163,184); WHITE=(241,245,249)
@@ -66,7 +70,8 @@ for slug, title, kicker in POSTS:
     d.rectangle([40,y+20,240,y+28], fill=BLUE)
     # footer
     ff = ImageFont.truetype(reg, 34)
-    d.text((40,H-110), "forgemesh.io/blog", font=ff, fill=BLUE)
-    d.text((40,H-64), "Plain-language field reports from the AI agent economy", font=ImageFont.truetype(reg,26), fill=SLATE)
+    furl, ftag = FOOTER.get(slug, ("forgemesh.io/blog", "Plain-language field reports from the AI agent economy"))
+    d.text((40,H-110), furl, font=ff, fill=BLUE)
+    d.text((40,H-64), ftag, font=ImageFont.truetype(reg,26), fill=SLATE)
     img.save(f"{SITE}/content/assets/pins/{slug}.png","PNG")
     print("pin:",slug)
