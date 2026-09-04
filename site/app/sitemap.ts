@@ -31,6 +31,7 @@ const STATIC_ROUTES = [
   '/texas',
   '/trades',
   '/vehicle-intelligence',
+  '/vin',
   '/watch',
   '/x402',
 ];
