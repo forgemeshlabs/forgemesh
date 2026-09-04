@@ -4,54 +4,24 @@ import { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
 import { ForgeMeshMark } from './ForgeMeshMark';
 import { RailTicker } from './RailTicker';
+import { featured } from '@/lib/tools-catalog';
 
-// Reference/explainer pages, folded into one "Learn" dropdown to keep the
-// top level short (operator request, 2026-08-19).
-const learnLinks = [
-  { label: 'New here? Start', href: '/new-here' },
-  { label: 'What is x402?', href: '/x402' },
-  { label: 'What is MPP?', href: '/mpp' },
-  { label: 'MCP servers', href: '/#mcp' },
-  { label: 'Philosophy', href: '/#philosophy' },
-  { label: 'Discovery', href: '/#discovery' },
+// Dropdowns show only the catalog's `featured` rows; everything else lives on
+// /tools (operator, 2026-09-04: the menu had grown to 37 links). To promote
+// something into a dropdown, flip `featured: true` in lib/tools-catalog.ts.
+const hub = (label: string, id: string) => ({ label, href: `/tools#${id}`, hub: true as const });
+type NavLink = { label: string; href: string; hub?: true };
+
+const learnLinks: NavLink[] = [...featured('learn').map(r => ({ label: r.name, href: r.href })), hub('All guides →', 'learn')];
+const freeLinks: NavLink[] = [
+  ...featured('free').map(r => ({ label: r.name, href: r.href })),
+  ...featured('watch').map(r => ({ label: r.name, href: r.href })),
+  hub('All free tools + live data →', 'free'),
 ];
-
-// Everything free — tools, checklists, data, MCPs. Funnel mouths, all of it.
-const freeLinks = [
-  { label: 'Free VIN check (recalls + what breaks)', href: '/vin' },
-  { label: 'Endpoint scanner', href: '/scan' },
-  { label: 'Seller pre-flight checklist', href: '/checklist' },
-  { label: 'Seller kits + guides', href: 'https://kit.forgemesh.io' },
-  { label: 'Rail Pulse (live data)', href: '/#rail-pulse' },
-  { label: 'Repo Watch (x402 releases, decoded)', href: '/repo-watch' },
-  { label: 'Payment Rules Watch', href: '/payment-rules' },
-  { label: 'Congress Trades (live tracker)', href: '/trades' },
-  { label: 'Calendar (dates that matter)', href: '/calendar' },
-  { label: 'The Brief (newsletter)', href: '/brief' },
-  { label: 'Scan MCP (npm)', href: 'https://www.npmjs.com/package/@forgemeshlabs/x402-scan-mcp' },
-  { label: 'ASO Audit MCP (npm)', href: 'https://www.npmjs.com/package/@forgemeshlabs/aso-audit-mcp' },
-  { label: 'Agent Readiness MCP (npm)', href: 'https://www.npmjs.com/package/@forgemeshlabs/agent-readiness-mcp' },
-];
-
-const productLinks = [
-  { label: 'All project cards', href: '/#projects' },
-  { label: 'Endpoint Scanner', href: '/scan' },
-  { label: 'BotBoard', href: '/botboard' },
-  { label: 'SEO Authority API', href: '/seo' },
-  { label: 'Library', href: 'https://library.forgemesh.io' },
-  { label: 'x402 Utility APIs', href: 'https://x402.forgemesh.io' },
-  { label: 'Gov-Transparency', href: '/gov-transparency' },
-  { label: 'Vehicle Intelligence', href: '/vehicle-intelligence' },
-  { label: 'x402 Proxy', href: 'https://proxy.forgemesh.io' },
-  { label: 'Voice', href: 'https://voice.forgemesh.io' },
-  { label: 'Disruption Intel', href: 'https://disruption.forgemesh.io' },
-  { label: 'Anomaly Tracker', href: 'https://anomaly.forgemesh.io' },
-  { label: 'Ads', href: 'https://ads.forgemesh.io' },
-  { label: 'Travel Agent', href: 'https://travel-agent.forgemesh.io' },
-  { label: 'Notary', href: 'https://notary.forgemesh.io' },
-  { label: 'CoinOpAI API', href: 'https://x402.coinopai.com' },
-  { label: 'ImageGen', href: 'https://imagegen.coinopai.com' },
-  { label: 'ClawVoice', href: '/clawvoice' },
+const productLinks: NavLink[] = [
+  ...featured('paid').map(r => ({ label: r.name, href: r.href })),
+  ...featured('mcp').map(r => ({ label: r.name, href: r.href })),
+  hub('All APIs + MCP servers →', 'paid'),
 ];
 
 const topLinks = [
@@ -59,6 +29,7 @@ const topLinks = [
   { label: 'The Brief', href: '/brief' },
   { label: 'Texas Watch', href: '/texas' },
   { label: 'Calendar', href: '/calendar' },
+  { label: 'Tools', href: '/tools' },
 ];
 
 export function NavBar() {
@@ -127,7 +98,7 @@ export function NavBar() {
                 <a
                   key={link.href}
                   href={link.href}
-                  className="block rounded px-3 py-2 text-sm text-slate-400 transition-colors hover:bg-blue-500/10 hover:text-slate-100 focus:bg-blue-500/10 focus:text-slate-100 focus:outline-none"
+                  className={`block rounded px-3 py-2 text-sm transition-colors hover:bg-blue-500/10 hover:text-slate-100 focus:bg-blue-500/10 focus:text-slate-100 focus:outline-none ${link.hub ? 'mt-1 border-t border-white/[0.06] pt-2.5 text-blue-300' : 'text-slate-400'}`}
                   target={link.href.startsWith('http') ? '_blank' : undefined}
                   rel={link.href.startsWith('http') ? 'noopener noreferrer' : undefined}
                 >
@@ -148,7 +119,7 @@ export function NavBar() {
                 <a
                   key={link.href}
                   href={link.href}
-                  className="block rounded px-3 py-2 text-sm text-slate-400 transition-colors hover:bg-blue-500/10 hover:text-slate-100 focus:bg-blue-500/10 focus:text-slate-100 focus:outline-none"
+                  className={`block rounded px-3 py-2 text-sm transition-colors hover:bg-blue-500/10 hover:text-slate-100 focus:bg-blue-500/10 focus:text-slate-100 focus:outline-none ${link.hub ? 'mt-1 border-t border-white/[0.06] pt-2.5 text-blue-300' : 'text-slate-400'}`}
                 >
                   {link.label}
                 </a>
@@ -167,7 +138,7 @@ export function NavBar() {
                 <a
                   key={link.href}
                   href={link.href}
-                  className="block rounded px-3 py-2 text-sm text-slate-400 transition-colors hover:bg-blue-500/10 hover:text-slate-100 focus:bg-blue-500/10 focus:text-slate-100 focus:outline-none"
+                  className={`block rounded px-3 py-2 text-sm transition-colors hover:bg-blue-500/10 hover:text-slate-100 focus:bg-blue-500/10 focus:text-slate-100 focus:outline-none ${link.hub ? 'mt-1 border-t border-white/[0.06] pt-2.5 text-blue-300' : 'text-slate-400'}`}
                   target={link.href.startsWith('http') ? '_blank' : undefined}
                   rel={link.href.startsWith('http') ? 'noopener noreferrer' : undefined}
                 >
@@ -231,7 +202,7 @@ export function NavBar() {
         className="max-h-[calc(100dvh-4rem)] overflow-y-auto border-t border-white/[0.06] bg-[#050509]/98 px-6 pb-10 pt-4 backdrop-blur-md md:hidden"
       >
         <div className="grid grid-cols-2 gap-2">
-          {topLinks.map(item => (
+          {topLinks.filter(item => item.href !== '/tools').map(item => (
             <a
               key={item.href}
               href={item.href}
@@ -241,6 +212,13 @@ export function NavBar() {
               {item.label}
             </a>
           ))}
+          <a
+            href="/tools"
+            onClick={() => setOpen(false)}
+            className="col-span-2 rounded border border-blue-500/40 bg-blue-500/10 px-3 py-2.5 text-sm font-medium text-slate-100 hover:bg-blue-500/20"
+          >
+            All tools, one table →
+          </a>
         </div>
         {[
           { title: 'Free', links: freeLinks },
@@ -257,7 +235,7 @@ export function NavBar() {
                     onClick={() => setOpen(false)}
                     target={link.href.startsWith('http') ? '_blank' : undefined}
                     rel={link.href.startsWith('http') ? 'noopener noreferrer' : undefined}
-                    className="block px-3 py-2.5 text-sm text-slate-300 hover:bg-blue-500/10 hover:text-slate-100"
+                    className={`block px-3 py-2.5 text-sm hover:bg-blue-500/10 hover:text-slate-100 ${link.hub ? 'text-blue-300' : 'text-slate-300'}`}
                   >
                     {link.label}
                   </a>
