@@ -254,6 +254,10 @@ export default function Page() {
                   n: '5. Test-send before large transfers',
                   d: 'Moving something that would hurt to lose? Send a token amount first, confirm it arrived at the destination you meant, then send the rest. Thirty seconds of ceremony, permanent immunity to the worst version of this.',
                 },
+                {
+                  n: '6. Keep the treasury key off the hot box',
+                  d: 'The wallet that receives x402 settlements has to be hot; the wallet that holds the balance does not. Sweep to a hardware-signed address on a schedule and confirm that destination once, on the device screen, so a poisoned copy-paste can never redirect it. A lookalike address is only dangerous to a key that lives where the paste happens.',
+                },
               ].map((b) => (
                 <div key={b.n} className="rounded border border-white/[0.06] bg-white/[0.02] p-5">
                   <div className="text-base font-semibold text-blue-300">{b.n}</div>
@@ -261,6 +265,23 @@ export default function Page() {
                 </div>
               ))}
             </div>
+
+            <p className="mt-6 text-sm leading-7 text-slate-500">
+              The cold side of habit 6 is a hardware wallet. Ours is a{' '}
+              <a
+                href="/go/ledger"
+                target="_blank"
+                rel="noopener noreferrer sponsored"
+                data-umami-event="affiliate_click"
+                data-umami-event-partner="ledger"
+                data-umami-event-slot="address-poisoning-post"
+                className="text-blue-400 hover:text-blue-300"
+              >
+                Ledger
+              </a>
+              ; the settlement address stays hot, the balance does not. (Affiliate link. It funds the
+              free scanner and the write-ups, and your price never changes.)
+            </p>
 
             <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
               The part that stays with us
