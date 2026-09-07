@@ -163,6 +163,22 @@ export default function VinPage() {
 
         <section className="border-t border-white/[0.06] px-4 py-12 sm:px-6 sm:py-14">
           <div className="mx-auto max-w-3xl">
+            <h2 className="font-mono text-[11px] uppercase tracking-[0.2em] text-slate-500">Don't have a VIN handy?</h2>
+            <p className="mt-4 text-sm leading-7 text-slate-400">
+              Browse NHTSA complaint and recall data by year, make and model instead — the most
+              common problems on 60+ used-car models, ranked by what breaks most.
+            </p>
+            <a
+              href="/vin/problems"
+              className="mt-4 inline-flex items-center gap-2 rounded border border-white/[0.1] bg-white/[0.03] px-5 py-3 text-sm font-medium text-slate-100 transition-all hover:border-blue-400/50 hover:bg-white/[0.06]"
+            >
+              Browse common problems by model <ArrowRight className="h-4 w-4" aria-hidden />
+            </a>
+          </div>
+        </section>
+
+        <section className="border-t border-white/[0.06] px-4 py-12 sm:px-6 sm:py-14">
+          <div className="mx-auto max-w-3xl">
             <h2 className="font-mono text-[11px] uppercase tracking-[0.2em] text-slate-500">FAQ</h2>
             <dl className="mt-6 space-y-7">
               {faq.map((f) => (
