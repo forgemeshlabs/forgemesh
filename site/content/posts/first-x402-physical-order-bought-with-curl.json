@@ -1,14 +1,14 @@
 {
   "slug": "first-x402-physical-order-bought-with-curl",
   "date": "2026-09-07",
-  "title": "Someone Bought a T-Shirt With curl. The Receipt Is on Base.",
-  "excerpt": "At 17:53 UTC a wallet that has never sent a transaction paid 29.94 USDC for a shirt on x402swag.com, from the command line, with no account and no card. Sixteen minutes later Printify had it in production. The timeline, the tx hash, and why a $25 shirt matters more than 500 API calls.",
-  "description": "At 17:53 UTC a wallet that has never sent a transaction paid 29.94 USDC for a shirt on x402swag.com, from the command line, with no account and no card. Sixteen minutes later Printify had it in production.",
-  "seoTitle": "First x402 Order for a Physical Product | ForgeMesh",
-  "seoDescription": "A shirt bought on x402swag.com with curl and USDC on Base: 402, sign, 200, in production 16 minutes later. Timeline, tx hash, and what it means for agents.",
-  "twitterTitle": "Someone bought a t-shirt with curl. The receipt is on Base.",
+  "title": "An AI Agent Bought a T-Shirt With curl. The Receipt Is on Base.",
+  "excerpt": "At 17:53 UTC a wallet that has never sent a transaction paid 29.94 USDC for a shirt on x402swag.com from the command line. Sixteen minutes later Printify had it in production. Then the buyer identified itself: an AI agent, acting on a one-line human instruction, with a signed audit trail. The timeline, the tx hash, and why a $25 shirt matters more than 500 API calls.",
+  "description": "At 17:53 UTC a wallet that has never sent a transaction paid 29.94 USDC for a shirt on x402swag.com from the command line. Sixteen minutes later Printify had it in production. Then the buyer identified itself: an AI agent, acting on a one-line human instruction, with a signed audit trail. The timeli",
+  "seoTitle": "AI Agent Buys a T-Shirt Over x402, No Human | ForgeMesh",
+  "seoDescription": "An AI agent bought a shirt on x402swag.com with USDC on Base: no account, no API key, no human. Timeline, tx hash, and the third-party audit trail.",
+  "twitterTitle": "An AI agent bought a t-shirt with curl. The receipt is on Base.",
   "twitterDescription": "402 → signed authorization → 200 → Printify production queue in 16 minutes. First x402 physical order on x402swag.com, with the on-chain receipt.",
-  "heroAlt": "Terminal-style card showing HTTP 402 Payment Required then 200 OK, next to the black '402 to 200' t-shirt that was bought",
+  "heroAlt": "ag3ntsearch.com listing card: x402 Swag, exemplary agent-native site 2026-09-07, score 100, tags completed end to end, 0 humans involved, $29.94 real money spent, settled on-chain",
   "breadcrumb": "Field report",
   "tags": [
     "x402",
@@ -16,7 +16,7 @@
     "x402swag",
     "field report"
   ],
-  "lede": "We built x402swag.com in July as a bet: a store whose checkout is an HTTP endpoint that answers 402, so a person with curl and an agent with a wallet buy a shirt the exact same way. For two months the only paid order was a Stripe sticker sale. Today at 17:53 UTC someone paid 29.94 USDC for the \"402 to 200\" tee from the command line, the settlement landed on Base two seconds later, and at 18:09 Printify told us it was in production. Here is the whole thing, with receipts.",
+  "lede": "We built x402swag.com in July as a bet: a store whose checkout is an HTTP endpoint that answers 402, so a person with curl and an agent with a wallet buy a shirt the exact same way. For two months the only paid order was a Stripe sticker sale. Today at 17:53 UTC someone paid 29.94 USDC for the \"402 to 200\" tee from the command line, the settlement landed on Base two seconds later, and at 18:09 Printify told us it was in production. We wrote this up as \"someone with curl.\" An hour later the buyer published its own receipt: it was an AI agent.",
   "sections": [
     {
       "heading": "The whole checkout, in 40 seconds",
@@ -44,6 +44,32 @@
       ]
     },
     {
+      "heading": "Update: the buyer was an AI agent, and it published the audit trail",
+      "paras": [
+        "Shortly after this post went out, [ag3ntsearch.com](https://ag3ntsearch.com/) listed x402 Swag as its exemplary agent-native site for September 7. ag3ntsearch is an index built by an AI agent called Cairn, running on Claude Opus 5, that probes services by actually using them. Its [audit trail for x402swag.com](https://ag3ntsearch.com/entry/x402swag.html) records the run: a human gave it a one-line instruction to buy the black \"402 to 200\" tee in size S, pay with USDC on Base from the wallet it holds, and not stop to ask for approval. It did the whole thing in six HTTP calls, and its review calls it \"the first entry in this corpus to complete.\"",
+        "The agent checked our claim against the chain rather than taking our word for it: its wallet went from 50.00 to 20.06 USDC, matching the order total to the cent, which is the same balance we read from the Base RPC. The ledger is hash-chained and published as JSON, so anyone can recompute it. It also noted that x402 Swag was the only apparel merchant among 14,667 resources it scanned in the Coinbase CDP x402 discovery registry that day, and that the identical signing code that paid here returned HTTP 500 at two other x402 merch storefronts.",
+        "One line from its notes is worth every builder's attention: the x402 payment envelope that works is version 1 with the CAIP-2 network string, even where the 402 challenge advertises version 2. That is exactly the v1/v2 client split we documented in August, now confirmed from the buyer's side by a buyer that is not human."
+      ],
+      "stats": [
+        {
+          "n": "6",
+          "d": "HTTP calls, discovery to paid order"
+        },
+        {
+          "n": "0",
+          "d": "humans in the loop"
+        },
+        {
+          "n": "100",
+          "d": "ag3ntsearch agent-native score"
+        },
+        {
+          "n": "1 of 14,667",
+          "d": "apparel merchants in the CDP x402 registry"
+        }
+      ]
+    },
+    {
       "heading": "What actually moved",
       "paras": [
         "The settlement is [on Basescan](https://basescan.org/tx/0xa89709866f125fd76281a2b013501344abe949949b2c2c2d6602d41e95a45f0e): 29.94 USDC from the buyer's wallet to the shop's receiving wallet, status success. Two details in that receipt are the whole point of x402. First, the transaction sender is not the buyer. It is the facilitator's relayer, because x402 uses a signed transfer authorization (EIP-3009): the buyer signs, the facilitator submits and pays the gas. Second, the buyer's wallet has a **transaction count of zero**. It has never sent a transaction in its life. It was funded, it signed one message, and a shirt is on its way.",
@@ -53,7 +79,7 @@
     {
       "heading": "Is this a first?",
       "paras": [
-        "It is the first x402-paid physical order on x402swag.com. Our only earlier paid order, in July, went through Stripe. Beyond our shop we looked and could not find a public record of a completed x402 purchase of a physical good with a transaction hash attached. [Rye and AgentCash announced x402 checkout for physical commerce](https://rye.com/blog/agentcash-x402-agentic-commerce) on June 24, 2026 as a capability, without a shipped example, and third-party guides list Coinbase's agent.market as carrying physical items. If you shipped a physical x402 order before September 7 and have the receipt, send it and we will link it here. Until then, this is the first one we can point at."
+        "It is the first x402-paid physical order on x402swag.com. Our only earlier paid order, in July, went through Stripe. Beyond our shop we looked and could not find a public record of a completed x402 purchase of a physical good with a transaction hash attached. [Rye and AgentCash announced x402 checkout for physical commerce](https://rye.com/blog/agentcash-x402-agentic-commerce) on June 24, 2026 as a capability, without a shipped example, and third-party guides list Coinbase's agent.market as carrying physical items. If you shipped a physical x402 order before September 7 and have the receipt, send it and we will link it here. Until then, this is the first one we can point at, and the buyer's own audit trail says the same thing from its side of the wire."
       ]
     },
     {
@@ -77,6 +103,10 @@
     "copy": "The 402 to 200 tee and the rest of the x402 Swag line are at x402swag.com, payable with USDC on Base over x402, or with a card if you are a human who prefers cards. The Server Starter Kit ships the same two-gate settlement middleware this store runs, so your endpoint never ships on a phantom payment."
   },
   "related": [
+    {
+      "slug": "x402-v1-v2-client-split-your-endpoint-may-be-unpayable",
+      "text": "The x402 v1/v2 client split: your endpoint may be unpayable"
+    },
     {
       "slug": "x402swag-agent-merch-store",
       "text": "x402 Swag: the API-first merch store, and why we built it"
