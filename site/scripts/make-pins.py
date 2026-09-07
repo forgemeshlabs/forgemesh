@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("first-x402-physical-order-bought-with-curl", "Someone Bought a T-Shirt With curl. The Receipt Is on Base.", "402 → signed USDC → 200 → in production 16 min later"),
  ("vin-checker", "Check Any VIN Free. See What Actually Breaks on That Car.", "Recalls · crash stars · fuel cost · complaints ranked"),
  ("agentic-payments-alliance-circle-x402", "Visa + Mastercard Are Writing the Agent Payment Rules. Circle Is in the Room.", "Authorization rules, not pricing — and the rail that's actually shrinking"),
  ("how-to-read-a-vin", "A VIN Starting With J Really Does Mean Japan", "17 characters, 3 you can read by eye — and a built-in typo detector from 1981"),
