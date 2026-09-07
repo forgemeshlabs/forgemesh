@@ -1,0 +1,140 @@
+{
+  "slug": "2015-toyota-camry",
+  "year": 2015,
+  "make": "Toyota",
+  "model": "Camry",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 270,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 105,
+        "share_pct": 38.9,
+        "excerpts": [
+          "The contact owns a 2015 Toyota Camry. The contact stated that while driving at an undisclosed speed, the contact became aware that the electronic power steering was not functioning properly, requiring",
+          "I am writing to report a serious incident involving my 2015 Toyota Camry LE (VIN: [XXX] ), which I believe is connected to a potential defect or recall issue.      On [XXX], I was involved in a car cr",
+          "I have the same issue described in a recall notice for my year make and model.  My EPS light is coming on and I'm losing power to the vehicle.  My VIN was not included in the recall.  Steering: Electr"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 39,
+        "share_pct": 14.4,
+        "excerpts": [
+          "The vehicle's braking system intermittently self-activates, engaging the brakes with no obstruction, pedestrian, or object present in the vehicle's path and no driver input. This creates an unpredicta",
+          "The contact owns a 2015 Toyota Camry. The contact stated that while driving at various speeds and attempting to decelerate, there was an abnormal sound while depressing the brake pedal and the brake w",
+          "The ABS system failure with out warning and it was hard to control  on the HWY"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 36,
+        "share_pct": 13.3,
+        "excerpts": [
+          "The contact owns a 2015 Toyota Camry. The contact stated while driving 20-30 MPH and depressing the accelerator pedal, the vehicle started shuddering and there was a 20-30 seconds lag in acceleration,",
+          "The contact owns a 2015 Toyota Camry. The contact stated that while driving at undisclosed speeds, the check engine warning light illuminated. The vehicle was taken to a local dealer where it was diag",
+          "I had no problems with my 2015 Toyota Camry SE that does not even have 90,000 miles on it, and then I started experiencing a shutter when driving between 25 and 50mph. It feels like you are driving ov"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 30,
+        "share_pct": 11.1,
+        "excerpts": [
+          "I am writing to report a serious incident involving my 2015 Toyota Camry LE (VIN: [XXX] ), which I believe is connected to a potential defect or recall issue.      On [XXX], I was involved in a car cr",
+          "The sunroofs have a drain which sometimes can plug up.  This car was maintained several times a year since purchase by Toyota dealer.  When the drain plugged up this fall,  water backed up and came do",
+          "I have the same issue described in a recall notice for my year make and model.  My EPS light is coming on and I'm losing power to the vehicle.  My VIN was not included in the recall.  Steering: Electr"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 24,
+        "share_pct": 8.9,
+        "excerpts": [
+          "The car burns oil excessively, I bought this car 11/07/2022 every week to 2 weeks I have to put 2-2 1/2 quarts of oil in. There is nothing wet under the car no oil stains anywhere so oil is not leakin",
+          "I had no problems with my 2015 Toyota Camry SE that does not even have 90,000 miles on it, and then I started experiencing a shutter when driving between 25 and 50mph. It feels like you are driving ov",
+          "ENGINE SHUTS OFF WHEN I SLOW DOWN AND STOP THE CAR."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 33,
+      "fires": 3,
+      "injuries": 18,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 2
+      },
+      {
+        "year": 2015,
+        "count": 23
+      },
+      {
+        "year": 2016,
+        "count": 30
+      },
+      {
+        "year": 2017,
+        "count": 26
+      },
+      {
+        "year": 2018,
+        "count": 51
+      },
+      {
+        "year": 2019,
+        "count": 49
+      },
+      {
+        "year": 2020,
+        "count": 37
+      },
+      {
+        "year": 2021,
+        "count": 14
+      },
+      {
+        "year": 2022,
+        "count": 11
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 8
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "15V144000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2015 Camry, Camry Hybrid, Highlander, and Highlander Hybrid, and 2014-2015 Rav4 vehicles.  A component of the electric power steering (EPS) electronic control unit (ECU) may have been damaged during the manufacturing p",
+        "report_date": "13/03/2015",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:37:46.592Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

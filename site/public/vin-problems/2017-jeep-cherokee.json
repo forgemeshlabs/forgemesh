@@ -1,0 +1,184 @@
+{
+  "slug": "2017-jeep-cherokee",
+  "year": 2017,
+  "make": "Jeep",
+  "model": "Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1332,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 646,
+        "share_pct": 48.5,
+        "excerpts": [
+          "The contact's mother owns a 2017 Jeep Cherokee. While the owner was driving at an undisclosed speed, the vehicle vibrated, and the vehicle was shaking erratically. The “Service 4WD” message was displa",
+          "The contact owns a 2017 Jeep Cherokee. The contact stated that while driving at an undisclosed speed, the vehicle lost motive power and stalled. There was an abnormal sound coming from the vehicle and",
+          "The contact owns 2017 Jeep Cherokee. The contact stated that while driving at 70 MPH the vehicle lost automotive power, and the transmission shifted into a lower gear. No warning lights were illuminat"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 341,
+        "share_pct": 25.6,
+        "excerpts": [
+          "The component that failed/malfunctioned was the module that activates the EPB. It is available for inspection if requested.  My safety was put at risk because the parking brake would engage every time",
+          "PER DIAGNOSTICS, PTU HAS BEEN COMPROMISED.  I was driving on the highway and the car started to shake and make a loud, grinding noise and seemed to be stuck in gear. When I stopped it wouldn't go into",
+          "Service 4WD drive light is on due to rear PTU failure or issue.  Signaled by code: C14A7-97 Has been confirmed by Jeep dealership upon inspection. Had inspected by 2 private auto shops confirming same"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 258,
+        "share_pct": 19.4,
+        "excerpts": [
+          "The contact owns a 2017 Jeep Cherokee. The contact stated that while driving at an undisclosed speed, the vehicle lost motive power and stalled. There was an abnormal sound coming from the vehicle and",
+          "The contact owns 2017 Jeep Cherokee. The contact stated that while driving at 70 MPH the vehicle lost automotive power, and the transmission shifted into a lower gear. No warning lights were illuminat",
+          "The contact owns a 2017 Jeep Cherokee. The contact stated that while driving 57 MPH, the check engine warning light illuminated and the message to “Service Vehicle Immediately” was displayed. The cont"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 60,
+        "share_pct": 4.5,
+        "excerpts": [
+          "The contact owns a 2017 Jeep Cherokee. The contact received notification of NHTSA Campaign Number: 25V011000 (POWER TRAIN); however, the part to do the recall repair was unavailable. The local dealer ",
+          "A SERVICE SHIFTER message appeared out of nowhere, and now all the lights turn on regardless of which gear I'm in. After a quick internet search, it appears MANY people have experienced this exact sam",
+          "Vehicle has a known safety  Bulletin out from Stellantis for the PTU but this model does not fall under it. I am having issues with the PtU and concerns with safety of driving and others.  Will need r"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 58,
+        "share_pct": 4.4,
+        "excerpts": [
+          "The component that failed/malfunctioned was the module that activates the EPB. It is available for inspection if requested.  My safety was put at risk because the parking brake would engage every time",
+          "on 11/1/25 we were driving our Jeep and it malfunctioned while at a stop light. We heard a loud \"clunk\" and the car would barely go and if we tried to put in park, it would continue to roll. We were o",
+          "My car back in June 2025 left me stranded in the turn lane with traffic backing up after the emergency parking brake turned on without warning. I was not able to drive e my car or to release the brake"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 24,
+      "fires": 6,
+      "injuries": 27,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 3
+      },
+      {
+        "year": 2017,
+        "count": 51
+      },
+      {
+        "year": 2018,
+        "count": 115
+      },
+      {
+        "year": 2019,
+        "count": 295
+      },
+      {
+        "year": 2020,
+        "count": 281
+      },
+      {
+        "year": 2021,
+        "count": 121
+      },
+      {
+        "year": 2022,
+        "count": 84
+      },
+      {
+        "year": 2023,
+        "count": 90
+      },
+      {
+        "year": 2024,
+        "count": 87
+      },
+      {
+        "year": 2025,
+        "count": 158
+      },
+      {
+        "year": 2026,
+        "count": 44
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "20V343000",
+        "component": "POWER TRAIN:DRIVELINE:DIFFERENTIAL UNIT",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2017 Jeep Cherokee vehicles equipped with a two-speed Power Transfer Unit (PTU).  Relative movement in the Power Transfer Unit (PTU) between the differential input splines and the transmission output shaft may cause some input spline teeth to wear off,",
+        "report_date": "11/06/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V543000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2017-2018 Jeep Cherokee vehicles.  The tire and rim size information required to be on the Certification label was omitted during manufacturing, which may result in an incorrect tire and rim combination being installed on the vehicle.  As such, these vehicl",
+        "report_date": "31/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V799000",
+        "component": "AIR BAGS:KNEE BOLSTER",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2017 Jeep Cherokee vehicles manufactured October 13, 2016, to October 17, 2016.  Improper welds on the driver's knee air bag inflator may prevent the air bag from properly inflating.",
+        "report_date": "02/11/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V302000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2016-2017 Jeep Cherokee vehicles.  The power transfer unit (PTU) may become damaged and disengage the transmission and differential, resulting in a loss of drive power or loss of park function.",
+        "report_date": "27/04/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V011000",
+        "component": "POWER TRAIN",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2017-2019 Jeep Cherokee vehicles.  The power transfer unit (PTU) may become damaged and disengage the transmission and differential, resulting in a loss of drive power and/or loss of park function.",
+        "report_date": "29/04/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:40:51.176Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

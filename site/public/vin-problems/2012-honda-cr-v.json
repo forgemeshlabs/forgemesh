@@ -1,0 +1,172 @@
+{
+  "slug": "2012-honda-cr-v",
+  "year": 2012,
+  "make": "Honda",
+  "model": "CR-V",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 403,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 89,
+        "share_pct": 22.1,
+        "excerpts": [
+          "Subject: Engine Stalls Upon Acceleration from Stop - Near Collision ​Description: I am experiencing intermittent engine stalling on my 2012 Honda CR-V. The issue occurs specifically when attempting to",
+          "Upon cold start, the engine makes a loud knocking or rattling noise for several seconds, most noticeable after the vehicle has been sitting overnight. The noise seems to be coming from the timing area",
+          "The 2012 Honda CRV with 107,000 miles was making noise on startup and first few minutes of running.   This only happened a few times.  No Engine light or oil light came on, but planned to bring to rep"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 68,
+        "share_pct": 16.9,
+        "excerpts": [
+          "2012 Honda CR-V - I've had to replace my battery multiple times. I would go out the car and it would be dead. I even tried replacing the alternator. I am replacing batteries at an average of every 2.5",
+          "WINDSHIELD DEFROST ON DRIVERS SIDE PRODUCES NO AIR OR HEAT.  WINDSHIELD BECAME FROSTY AND HAD TO PULL CAR OVER BECAUSE OF LACK OF VISIBILITY. ALSO HEAT ON DRIVER'S SIDE DOES NOT WORK, WHICH IS NOT A S",
+          "In July of this year, I took a 20 minute drive with my kids and then went to a bagel shop. I tried to turn on the car and it acted like the battery had been drained. I got a jump, had my battery teste"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 48,
+        "share_pct": 11.9,
+        "excerpts": [
+          "The contact owns a 2012 Honda CR-V. The contact stated while driving 60 MPH, the steering wheel started shaking, and the vehicle vibrated abnormally. The contact stated that the vehicle had previously",
+          "Complete rear tire assembly came loose from the unibody frame from rust. Not a drop of rust on the body of the car.Thank god we weren’t on the highway. they told me it was unfixable.Thank you Honda.An",
+          "The contact owns a 2012 Honda CR-V. The contact stated that an abnormal grinding was coming from the engine. There was no warning light illuminated. The contact also stated that after coming to a comp"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 35,
+        "share_pct": 8.7,
+        "excerpts": [
+          "I was driving Honda CRV on Route 60, MPH was about 30 when the vehicle went to side by side on the road. This is a 2 lane highway. If some was coming the other way I could not help from colliding into",
+          "I attempted to make a right turn and the steering wheel locked, not allowing me to continue turning. The steering wheel returned to its original position and I again attempted to make the turn. This t",
+          "While I was driving the car, an indicator with \"Battery\" symbol showed up on the monitor. All off a sudden I see all the lights went ON/OFF and I couldn't steer the wheel. The Power Steering stopped w"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 30,
+        "share_pct": 7.4,
+        "excerpts": [
+          "The side air bags popped upon one car tire going on curb when I was driving in the dark and thought I saw a deer.   My  safety was put at risk because now I don't have airbags   Insurance will inspect",
+          "In the accident, side curtain airbags malfunctioned. They started to deploy but did not finish deploying. Pictures and incident report are available. The car was a total loss and was not returned to o",
+          "The airbag light often turns red, indicating that airbags are not likely to be deployed if needed. This happens usually when the steering is turned in a certain way when I take left or right turn (mor"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 27,
+      "fires": 4,
+      "injuries": 24,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 3
+      },
+      {
+        "year": 2012,
+        "count": 67
+      },
+      {
+        "year": 2013,
+        "count": 25
+      },
+      {
+        "year": 2014,
+        "count": 33
+      },
+      {
+        "year": 2015,
+        "count": 50
+      },
+      {
+        "year": 2016,
+        "count": 42
+      },
+      {
+        "year": 2017,
+        "count": 39
+      },
+      {
+        "year": 2018,
+        "count": 30
+      },
+      {
+        "year": 2019,
+        "count": 20
+      },
+      {
+        "year": 2020,
+        "count": 13
+      },
+      {
+        "year": 2021,
+        "count": 14
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 22
+      },
+      {
+        "year": 2024,
+        "count": 11
+      },
+      {
+        "year": 2025,
+        "count": 20
+      },
+      {
+        "year": 2026,
+        "count": 7
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "12V501000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Honda is recalling certain model year 2012 CR-V, equipped with the LX trim level and manufactured from August 30, 2012, to August 31, 2012.  These vehicles fail to comply with the requirements of 49 CFR Part 567, \"Certification.\"  The incorrect values for Gross Vehicle Weight Rating, Gross Axle Weig",
+        "report_date": "16/10/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V143000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Honda is recalling certain model year 2012-2013 CR-V, Odyssey, and model year 2013 Acura RDX vehicles.  During sub-freezing temperatures, the brake-shift interlock blocking mechanism may become slow and allow the gear selector to be moved from the Park position without pressing the brake pedal.  As ",
+        "report_date": "15/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V338000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Honda is recalling certain model year 2012 Honda CR-V and model year 2013 Acura ILX vehicles.  If the manual or power door lock is activated while an interior front door handle is being operated by an occupant, the cable connecting the interior door handle to the door latch mechanism may become loos",
+        "report_date": "19/07/2012",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:32:40.710Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

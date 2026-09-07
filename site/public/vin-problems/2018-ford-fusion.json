@@ -1,0 +1,140 @@
+{
+  "slug": "2018-ford-fusion",
+  "year": 2018,
+  "make": "Ford",
+  "model": "Fusion",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 437,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 201,
+        "share_pct": 46,
+        "excerpts": [
+          "We have coolant intrusion in cylinder 2 of our engine.  This can cause highway failure of engine cuts out, car runs rough and it can become a fire hazard. We paid for a diagnostics through a ford deal",
+          "my 2018 ford fusion has catastrophic engine failure. Engine stuttering and misfires with check engine light. Low coolant levels with no visible puddles under the car. Engine overheating, could possibl",
+          "The 1.5L EcoBoost motor has coolant intrusion problem on cylinder 3.  The 1.5L EcoBoost motor sputters while driving causing the engine to be sluggish and not get up to speed when turning and might ca"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 105,
+        "share_pct": 24,
+        "excerpts": [
+          "There is a recall for the transmission cable bushings for years 2013-2106. The recall came out in 2022. This same bushing is used in the 2018 ford fusion model that was not fixed. The bushing on my ve",
+          "Transmission/cracked flexplate started approximately 12 months prior with vibrations getting progressively worse, complete failure needing replacement along with shift cable bushing causes vehicle to ",
+          "When I put my car in drive it locked up on me & kept reversing all the way back to park the car would not move no matter what gear it was in it was just locked.  I had to have the car towed."
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 88,
+        "share_pct": 20.1,
+        "excerpts": [
+          "The contact owns a 2018 Ford Fusion. The contact stated that the check engine warning light was illuminated. Additionally, there was white smoke coming from the exhaust pipes. The vehicle was taken to",
+          "See attached document for complaint.",
+          "The contact owns a 2018 Ford Fusion. The contact stated that while driving at an undisclosed speed, the vehicle started shuddering violently, hesitated, and failed to accelerate to approximately 35 MP"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 26,
+        "share_pct": 5.9,
+        "excerpts": [
+          "The electric power steering went out and locked my steering cannot figure out why and traction control light on and service light",
+          "My vehicle has been throwing codes that the shifter cable is misaligned or misadjusted for a long time now. The dash flashes between neutral and drive while im driving. It says shift system fault all ",
+          "Sensor that believe the car to be overheating shut the car down while driving in on the highway.. turning the car off completely or powering it down 99%."
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 22,
+        "share_pct": 5,
+        "excerpts": [
+          "I purchase this car on XXX Clinton Ford Dealership and engine need replacement Jan 2020 . I at that time did many replacement until the final diagnostic said engine replacement confirm by dealership F",
+          "Formal Complaint – 2018 Ford Fusion 1.5L EcoBoost – Engine Block Defect  Statement of Issue:I am writing to report a premature engine failure on my 2018 Ford Fusion 1.5L. The vehicle is exhibiting all",
+          "- There is a crack in the engine block; coolant is leaking into cylinder 3. I am having the car taken by carvana on 3/30 and it will no longer be available for inspection, but I have record of the mec"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 1,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 2
+      },
+      {
+        "year": 2018,
+        "count": 6
+      },
+      {
+        "year": 2019,
+        "count": 6
+      },
+      {
+        "year": 2020,
+        "count": 16
+      },
+      {
+        "year": 2021,
+        "count": 23
+      },
+      {
+        "year": 2022,
+        "count": 43
+      },
+      {
+        "year": 2023,
+        "count": 113
+      },
+      {
+        "year": 2024,
+        "count": 113
+      },
+      {
+        "year": 2025,
+        "count": 80
+      },
+      {
+        "year": 2026,
+        "count": 34
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "18V167000",
+        "component": "STEERING: STEERING WHEEL/HANDLE BAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2014-2018 Lincoln MKZ and Ford Fusion vehicles.  The steering wheel retaining bolt may loosen allowing the steering wheel to detach while driving.",
+        "report_date": "12/03/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V162000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2018 Fusion and Lincoln MKZ vehicles.  The front brake hoses may rupture and leak brake fluid.",
+        "report_date": "10/03/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:41:40.948Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

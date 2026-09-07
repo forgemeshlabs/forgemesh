@@ -1,0 +1,152 @@
+{
+  "slug": "2017-toyota-camry",
+  "year": 2017,
+  "make": "Toyota",
+  "model": "Camry",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 148,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 24,
+        "share_pct": 16.2,
+        "excerpts": [
+          "The contact owns a 2017 Toyota Camry. The contact stated that while the wife was driving approximately 25 MPH and pressing the brake pedal to stop, the braking system malfunctioned causing the brake p",
+          "My Toyota Camry SE 2017 while driving on freeway, my car started to smell like something burning few minutes later the car radio and lighting started to go crazy on off flashing randomly. going on off",
+          "The airbag lite is on."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 23,
+        "share_pct": 15.5,
+        "excerpts": [
+          "Odometer Fraud. The contact owns a 2017 Toyota Camry, which was purchased via Facebook Marketplace. Shortly after purchase, the Check Engine warning light illuminated, leading the contact to replace t",
+          "Odometer Fraud. The contact owns a 2017 Toyota Camry. The contact purchased the vehicle from a private seller. The contact stated that the selling advertisement reported the odometer reading was 96,18",
+          "My Toyota Camry SE 2017 while driving on freeway, my car started to smell like something burning few minutes later the car radio and lighting started to go crazy on off flashing randomly. going on off"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 21,
+        "share_pct": 14.2,
+        "excerpts": [
+          "when turning left right steering  makes a cracked noise.",
+          "I am deeply concerned and appalled about the safety issue with the 2017 Toyota Camry, which rolled back while it was parked in the driveway of my parents’ house, and resulted in my mother’s foot being",
+          "My brake system light turn on my car won’t brake properly, Already change All the brake pads, brake fluid from all 4tires also taken it to the dealership and they changed the brake sensor . My car Sti"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 19,
+        "share_pct": 12.8,
+        "excerpts": [
+          "The contact owned a 2017 Toyota Camry. The contact stated that while driving at approximately 20-25 MPH, the vehicle independently accelerated and crashed into an embankment of a church’s building on ",
+          "Car in reverse and going forward when foot on gas the car will take off at a high speed. Need to hit brakes quick to stop the car. Could cause an accident if other cars are around or pedestrians walki",
+          "The contact owns a 2017 Toyota Camry. The contact stated while at a complete stop and depressing the brake pedal, the engine revved to 3500-4000 RPM. The contact stated that he depressed the brake ped"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 14,
+        "share_pct": 9.5,
+        "excerpts": [
+          "take to dealer about my steering reslove the battery issues few days  after the electric power steering wearing light came back on for a fact the it have a defective issues and i will like to have a r",
+          "when turning left right steering  makes a cracked noise.",
+          "The contact owns a 2017 Toyota Camry. The contact stated while driving 20 MPH and accelerating, while depressing the accelerator pedal, the vehicle shuddered and was shaking abnormally. There was no w"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 28,
+      "fires": 5,
+      "injuries": 29,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2008,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 2
+      },
+      {
+        "year": 2017,
+        "count": 33
+      },
+      {
+        "year": 2018,
+        "count": 23
+      },
+      {
+        "year": 2019,
+        "count": 12
+      },
+      {
+        "year": 2020,
+        "count": 20
+      },
+      {
+        "year": 2021,
+        "count": 15
+      },
+      {
+        "year": 2022,
+        "count": 9
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 14
+      },
+      {
+        "year": 2025,
+        "count": 10
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "19V503000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2017-2019 Toyota Camry, Corolla, Rav4, Sienna, and Yaris iA vehicles equipped with factory-installed floor mats.  The load carrying capacity modification label may be incorrect.  As such, these vehicles fail to comply with the requirement",
+        "report_date": "28/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V906000",
+        "component": "AIR BAGS:KNEE BOLSTER",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2016 Avalon, and 2017 Camry vehicles manufactured August 3, 2016, to September 12, 2016.  The front passenger knee air bag module may have been attached to the lower instrument panel with incorrect fasteners.",
+        "report_date": "16/12/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V295000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "Gulf States Toyota, Inc. (Gulf States) is recalling certain 2017 4Runner , 86, Avalon, Camry, Camry Hybrid, Corolla, Corolla iM, Highlander, Highlander Hybrid, Prius, Prius C, RAV4, RAV4 Hybrid, Sienna  and Yaris vehicles.  The spare tire air pressure was not adjusted to the proper pressure as state",
+        "report_date": "02/05/2017",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:54.480Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

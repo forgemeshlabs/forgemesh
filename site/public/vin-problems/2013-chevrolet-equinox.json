@@ -1,0 +1,156 @@
+{
+  "slug": "2013-chevrolet-equinox",
+  "year": 2013,
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 750,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 412,
+        "share_pct": 54.9,
+        "excerpts": [
+          "We changed the external fuel pump, we changed the oil cap to the vented oil cap, We changed the oil 2x within 2 days, once trying to get it by until we could get the new fuel pump on,and once directly",
+          "My 2013 Equinox is experiencing the excessive oil loss without warning..this led to transmission..engine..timing failure. The car loses power jerks at slower speeds it sounds horrible and has cost a l",
+          "While driving at around 110,900 to 111,115 miles(it being 111,115 now), it occassionally will get a very loud thumping sound and my car goes into limp mode and loses power. Shakes horribly bad in the "
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 144,
+        "share_pct": 19.2,
+        "excerpts": [
+          "I was driving my car like usual and I almost reached home and my windshield vipers stopped working. I parked my car and checked it and  the wipers are not working.",
+          "ONE OF THE WIPER ARMS HAS FAILED ENTIRELY.  THE DEALERSHIP WE PURCHASED IT FROM (USED) ADVISED IT WAS REPAIRED, BUT IT HAS FAILED NONETHELESS.  OUR 18 YEAR OLD SON DRIVES THIS CAR AND IT IS NOT SAFE. ",
+          "Was driving thru Atlanta at night in a rainstorm and without any warning my passenger side wiper totally quit. The driver side wiper was all I had. I had to cautiously keep driving in the very center "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 80,
+        "share_pct": 10.7,
+        "excerpts": [
+          "My 2013 Equinox is experiencing the excessive oil loss without warning..this led to transmission..engine..timing failure. The car loses power jerks at slower speeds it sounds horrible and has cost a l",
+          "My 2013 Chevrolet Equinox (~132,000 miles) has a serious and unsafe oil consumption problem. I had a full oil change, and only two weeks later the dipstick was completely dry. The vehicle provided no ",
+          "When gas is applied the transmission skips and doesn't get the power needed to drive car safely. I don't have any lights to indicate this is a problem within the engine. This recall has been issued fo"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 69,
+        "share_pct": 9.2,
+        "excerpts": [
+          "It failed inspection after repairs secondary air injection pump TCM PMC . Check engine light came back on after it passed .",
+          "My car is chewing through oil, about 1 quart every 500 miles. There are no leaks, I change oil regularly. It went into limp mode, to then discover the 2.4 4 cylinder Chevys and GMCs are having massive",
+          "Vehicle shakes when turning on and while driving, check engine light is on or blinking, service stabilitrack warning, traction control light is on, poor acceleration, Tire monitor system light is on a"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 43,
+        "share_pct": 5.7,
+        "excerpts": [
+          "My 2013 Equinox is experiencing the excessive oil loss without warning..this led to transmission..engine..timing failure. The car loses power jerks at slower speeds it sounds horrible and has cost a l",
+          "My 2013 Chevrolet Equinox (~132,000 miles) has a serious and unsafe oil consumption problem. I had a full oil change, and only two weeks later the dipstick was completely dry. The vehicle provided no ",
+          "It keeps throwing an error and my truck goes into Reduced engine power mode. It happens out of nowhere. One minute it's fine the next my engine starts to reduce power and I can't go faster then 25 mph"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 20,
+      "fires": 5,
+      "injuries": 20,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 2
+      },
+      {
+        "year": 2013,
+        "count": 30
+      },
+      {
+        "year": 2014,
+        "count": 26
+      },
+      {
+        "year": 2015,
+        "count": 23
+      },
+      {
+        "year": 2016,
+        "count": 128
+      },
+      {
+        "year": 2017,
+        "count": 76
+      },
+      {
+        "year": 2018,
+        "count": 99
+      },
+      {
+        "year": 2019,
+        "count": 101
+      },
+      {
+        "year": 2020,
+        "count": 71
+      },
+      {
+        "year": 2021,
+        "count": 57
+      },
+      {
+        "year": 2022,
+        "count": 45
+      },
+      {
+        "year": 2023,
+        "count": 44
+      },
+      {
+        "year": 2024,
+        "count": 22
+      },
+      {
+        "year": 2025,
+        "count": 19
+      },
+      {
+        "year": 2026,
+        "count": 7
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "16V582000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2013 Chevrolet Equinox and GMC Terrain vehicles.  In the affected vehicles, the ball joints in the windshield wiper module may corrode and wear over time, possibly resulting in one or both of the windshield wipers becoming inoperative.",
+        "report_date": "04/08/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V502000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016-2017 Buick Verano and 2016 Chevrolet Malibu as the electronic park lock lever may allow the ignition key to be removed without the transmission being in PARK.  Also, certain 2013 Buick Encore,  2011 Buick Regal, 2013-2014 Buick Verano, 201",
+        "report_date": "05/07/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:35:52.924Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

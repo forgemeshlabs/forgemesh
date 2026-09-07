@@ -1,0 +1,148 @@
+{
+  "slug": "2017-toyota-rav4",
+  "year": 2017,
+  "make": "Toyota",
+  "model": "RAV4",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 305,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 107,
+        "share_pct": 35.1,
+        "excerpts": [
+          "This vehicle has twice had the same issue where the sunroof drain lines become clogged or dislocated and the water fills the liner in the front driver and passenger seats resulting in flooding in the ",
+          "Odometer Fraud. The contact purchased a 2017 Toyota Rav4. It was discovered that there was a mileage discrepancy. The vehicle was a private sale. At the time of purchase, the vehicle mileage was 110,0",
+          "While driving the vehicle on an uphill stretch of highway with cruise control set at approximately 65 mph, the vehicle suddenly slowed down without warning. A distinct clunk was heard at the same mome"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 37,
+        "share_pct": 12.1,
+        "excerpts": [
+          "I was pulling into a parking spot in a parking garage and pressed on the brake. The brake pedal did not offer the usual resistance and went flat to the floor. The car began to accelerate and smashed i",
+          "The brake system on my 2017 Toyota RAV4 LE has repeatedly failed to provide normal stopping power, even after the replacement of pads and rotors in July 2025. This poses a serious safety hazard and ma",
+          "Hi, Im  reporting  a serious safety issue with my 2017 Toyota rav4 The emergencybrake failed to engage, which  caused the car to roll down the hill  , I took the car to Toyota dealership while it was "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 31,
+        "share_pct": 10.2,
+        "excerpts": [
+          "Yesterday March 25th 2026 I went to work and parked my 2017 Toyota RAV4 and about 30minutes later it was on fire in the parking lot. The fire happened around the battery area",
+          "11/1/23 recall for battery safety. Hold down clamp issue. I received an interim recall notification in 2023. I have called Toyota twice and they still don’t have a remedy. It’s been over a year and th",
+          "As the driver was making a right hand turn, the dash lights came on and the vehicle lost power.  The driver was able to get the vehicle to roll to a stop in the middle of the road after making the tur"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 31,
+        "share_pct": 10.2,
+        "excerpts": [
+          "The contact owns a 2017 Toyota Rav4. The contact stated that after turning the vehicle off and later attempting to restart the vehicle, the vehicle failed to restart. The battery was then recharged. T",
+          "While we were driving in the mountains, the wiring harness shorted and fried all 4 of our front bulbs, causing us to have no visibility while driving on unlit back roads in Colorado. Toyota has a know",
+          "The contact owns 2017 Toyota Rav4. The contact stated while driving downhill at night with the headlights illuminated, the windshield darkened, and the contact lost visibility of the roadway. The vehi"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 20,
+        "share_pct": 6.6,
+        "excerpts": [
+          "This vehicle has twice had the same issue where the sunroof drain lines become clogged or dislocated and the water fills the liner in the front driver and passenger seats resulting in flooding in the ",
+          "When the passenger front airbag deployed in an accident, a coil about 3 inches long and an inch wide was ejected from the airbag compartment and info the face of the occupant. Minor injuries sustained",
+          "Related to a car accident when getting hit in the front my air bags didn’t deploy . Only the driver side was hit pretty bad . Another car accident related to a tree branch no air bag deploy . I was to"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 33,
+      "fires": 24,
+      "injuries": 28,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 5
+      },
+      {
+        "year": 2017,
+        "count": 43
+      },
+      {
+        "year": 2018,
+        "count": 39
+      },
+      {
+        "year": 2019,
+        "count": 23
+      },
+      {
+        "year": 2020,
+        "count": 34
+      },
+      {
+        "year": 2021,
+        "count": 25
+      },
+      {
+        "year": 2022,
+        "count": 24
+      },
+      {
+        "year": 2023,
+        "count": 35
+      },
+      {
+        "year": 2024,
+        "count": 43
+      },
+      {
+        "year": 2025,
+        "count": 25
+      },
+      {
+        "year": 2026,
+        "count": 9
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "19V503000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2017-2019 Toyota Camry, Corolla, Rav4, Sienna, and Yaris iA vehicles equipped with factory-installed floor mats.  The load carrying capacity modification label may be incorrect.  As such, these vehicles fail to comply with the requirement",
+        "report_date": "28/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V295000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "Gulf States Toyota, Inc. (Gulf States) is recalling certain 2017 4Runner , 86, Avalon, Camry, Camry Hybrid, Corolla, Corolla iM, Highlander, Highlander Hybrid, Prius, Prius C, RAV4, RAV4 Hybrid, Sienna  and Yaris vehicles.  The spare tire air pressure was not adjusted to the proper pressure as state",
+        "report_date": "02/05/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V734000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2013-2018 RAV4 vehicles.  Certain replacement 12-volt batteries may not fit properly in the battery tray, allowing the battery to move and contact the hold-down bracket, possibly causing a short circuit.",
+        "report_date": "01/11/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:57.245Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

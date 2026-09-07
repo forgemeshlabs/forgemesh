@@ -1,0 +1,140 @@
+{
+  "slug": "2019-nissan-rogue",
+  "year": 2019,
+  "make": "Nissan",
+  "model": "Rogue",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 332,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 124,
+        "share_pct": 37.3,
+        "excerpts": [
+          "While driving the automatic brake stopped the car while turning in a curve. However in another incident I was cut off and brakes did not automatically stop. The brakes works when they want too. Not re",
+          "Brakes automatically stop car.",
+          "This system will activate on its own with no warning"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 99,
+        "share_pct": 29.8,
+        "excerpts": [
+          "While driving underneath an overpass immediately, followed by an intersection, as I accelerate through the stop lit intersection in the early hours of the morning, my Rogue’s forward collision, alert ",
+          "I bought the car new, and the entire time I've owned this NIssan Rogue, the automatic emergency braking has a tendency to engage at 5-15 MPH when the car drives over grates or certain water drains (se",
+          "The seat has been repaired at a Nissan two or three times and still the motor on the seat just stops working so it will not go forward or backward. Regarding the auto braking system, the camera or car"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 59,
+        "share_pct": 17.8,
+        "excerpts": [
+          "On XXX I was traveling with my [XXX] mother who has 2 plates to her hips from a fx. We had stopped at a rest area. I went to get her out of the front passenger side and the door would not open from ou",
+          "Passenger side door lock will not respond via iKey or button inside of car rear automatic trunk hatch will let down and close on its own with someone bending over to remove or put something in the tru",
+          "Driver side door will not unlock or lock if the sun is shining on it. It gets overheated and will not function. This is a safety issue when it comes to my ability to enter the vehicle in a timely mann"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 22,
+        "share_pct": 6.6,
+        "excerpts": [
+          "Confirmed transfer case broken by independent auto technician.,  No warning lamps detected",
+          "Driving and smelled a strong odor of burning rubber and engine started to make a strange noise, causing engine to stop then hesitate and jump .",
+          "The contact owns a 2019 Nissan Rogue. The contact stated that on several occasions while driving approximately 30 MPH, the vehicle started lurching forward and hesitating as if the vehicle would shut "
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 21,
+        "share_pct": 6.3,
+        "excerpts": [
+          "2019 Nissan Rogue, this is the first (09/21/21) of 2 (03/16/22) electrical issues with my car  which I bought new from a Nissan Dealer. The mileage on 9/21/21 was 9,868.        There had been a squeal",
+          "WHILE DRIVING 55 MPH AND COMING TO A FOUR WAY INTERSECTION THE AUTOMATIC BRAKING SYSTEM ENGAGED AND MOMENTARILY APPLIED THE BRAKES. THIS DID NOT CAUSE AN ACCIDENT BECAUSE IT WAS BRIEF. IT WOULD HAVE C",
+          "The contact owns a 2019 Nissan Rogue. The contact stated that while attempting to make a turn, the transmission inadvertently downshifted and the accelerator pedal was inadvertently depressed. There w"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 27,
+      "fires": 1,
+      "injuries": 28,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 90
+      },
+      {
+        "year": 2020,
+        "count": 64
+      },
+      {
+        "year": 2021,
+        "count": 38
+      },
+      {
+        "year": 2022,
+        "count": 38
+      },
+      {
+        "year": 2023,
+        "count": 37
+      },
+      {
+        "year": 2024,
+        "count": 25
+      },
+      {
+        "year": 2025,
+        "count": 20
+      },
+      {
+        "year": 2026,
+        "count": 19
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "19V654000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2018-2019 Nissan Altima, Armada, Frontier, Kicks, Leaf, Maxima, Murano, NV, NV200, Pathfinder, Rogue, Rogue Sport, Sentra, Titan, Titan Diesel, Versa Note and Versa Sedan vehicles, as well as Infiniti Q50, Q60, QX30 and QX80 vehicles.  Additio",
+        "report_date": "12/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V839000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:ENGINE CONTROL MODULE (ECU/ECM)",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2017-2019 Rogue Hybrid vehicles.  Contact with the Electronic Control Module (ECM) bracket may damage the engine harness, causing a blown fuse.",
+        "report_date": "26/10/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V093000",
+        "component": "ELECTRICAL SYSTEM:IGNITION:ANTI-THEFT:IMMOBILIZER/PROXIMITY:KEY/SENDER",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2014-2020 Rogue and 2017-2022 Rogue Sport vehicles equipped with a jackknife style ignition key.  The jackknife key may collapse into a folded position while driving.",
+        "report_date": "16/02/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:37.301Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

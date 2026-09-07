@@ -1,0 +1,220 @@
+{
+  "slug": "2013-jeep-grand-cherokee",
+  "year": 2013,
+  "make": "Jeep",
+  "model": "Grand Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 802,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 374,
+        "share_pct": 46.6,
+        "excerpts": [
+          "I brought my vehicle to the dealership (Axis Chrysler Dodge Jeep Ram in Jersey City, NJ) for open safety recalls. The vehicle has been at the dealership for approximately 3 weeks. I was repeatedly tol",
+          "The contact owns a 2013 Jeep Grand Cherokee. The contact stated that while driving at an undisclosed speed, the check engine warning light illuminated. The vehicle was taken to the dealer; however, no",
+          "I will be going 50-65 mph down the highway and my jeep will just die. It will die for about 10-15 seconds then start again. This is very dangerous. I have talked to multiple people that this has happe"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 152,
+        "share_pct": 19,
+        "excerpts": [
+          "I brought my vehicle to the dealership (Axis Chrysler Dodge Jeep Ram in Jersey City, NJ) for open safety recalls. The vehicle has been at the dealership for approximately 3 weeks. I was repeatedly tol",
+          "The contact owns a 2013 Jeep Grand Cherokee. The contact stated while driving approximately 15-25 MPH and  depressing the accelerator pedal, the vehicle hesitated before accelerating as intended. The ",
+          "The contact owns a 2013 Jeep Grand Cherokee. The contact stated while driving approximately 45 MPH and slowing for traffic, the brake pedal was depressed; however, the brake pedal was firm. The contac"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 106,
+        "share_pct": 13.2,
+        "excerpts": [
+          "My 2013 Jeep Grand Cherokee equipped with the 3.6L Pentastar v6 has a persistent cylinder 2 misfire (P0302). The cylinder 2 spark plug, ignition coil, and fuel injector have already been replaced, but",
+          "I was on the highway and the truck escalated in speed then it would decreased In speed .  (61 mph to 45-41mph. Then it decreased speed all the way to a complete stop. Then burst into flames in front o",
+          "The contact owns a 2013 Jeep Grand Cherokee. The contact stated that while driving at an undisclosed speed, the check engine warning light illuminated. The vehicle was taken to the dealer; however, no"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 103,
+        "share_pct": 12.8,
+        "excerpts": [
+          "Took my vehicle to dealership for fuel pump recall. Was told it wasn’t the actual pump but the wiring and they fixed it. Vehicle continued to have the same issues plus a new issue where the car comple",
+          "Recall V62/NHTSA 19V-813 that was done on my vehicle in Jan 2023 at 44607 miles failed 0n March 4 2026 the vehicle died and would not start and the repair shop had to replace the fuel pump relay again",
+          "Was driving on highway going 60 miles following traffic my car suddenly stalled took me a little bit to pull over, switched off the car, the car made a funny sound. Waited 5 mins and the car started a"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 57,
+        "share_pct": 7.1,
+        "excerpts": [
+          "On August 17, 2026, while my wife was driving our 2013 Jeep Grand Cherokee SRT8 under normal conditions, the front passenger Active Head Restraint (AHR/headrest) suddenly and violently deployed withou",
+          "Active head restraint deployed on drivers side while auto was moving in parking lot. This unexpected event made the driver come to a sudden stop. There was no impacts of this vehicle into any object. ",
+          "Hello,  I am reporting failure on the 2013 Jeep Grand Cherokee in which the drivers side headrest activated while the vehicle was not in operation and not involved in any accident. The active head res"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 23,
+      "fires": 27,
+      "injuries": 28,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 10
+      },
+      {
+        "year": 2013,
+        "count": 32
+      },
+      {
+        "year": 2014,
+        "count": 136
+      },
+      {
+        "year": 2015,
+        "count": 124
+      },
+      {
+        "year": 2016,
+        "count": 35
+      },
+      {
+        "year": 2017,
+        "count": 82
+      },
+      {
+        "year": 2018,
+        "count": 74
+      },
+      {
+        "year": 2019,
+        "count": 88
+      },
+      {
+        "year": 2020,
+        "count": 80
+      },
+      {
+        "year": 2021,
+        "count": 55
+      },
+      {
+        "year": 2022,
+        "count": 23
+      },
+      {
+        "year": 2023,
+        "count": 25
+      },
+      {
+        "year": 2024,
+        "count": 16
+      },
+      {
+        "year": 2025,
+        "count": 12
+      },
+      {
+        "year": 2026,
+        "count": 10
+      }
+    ]
+  },
+  "recalls": {
+    "count": 10,
+    "recalls": [
+      {
+        "campaign_number": "19V813000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2013 Dodge Durango and Jeep Grand Cherokee vehicles equipped with a 3.6, 5.7, or 6.4 liter engine and previously recalled under NHTSA Recall 14V530 or 15V115.  The fuel pump relay inside the Totally Integrated Power Module (TIPM-7) may fail, causing th",
+        "report_date": "14/11/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V435000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2014 Dodge Challenger, Dodge Charger, Chrysler 300, Dodge Durango, and 2012-2014 Jeep Grand Cherokee vehicles.  The affected vehicles have electro-hydraulic power steering (EHPS) and are equipped with a 5.7L or a 3.6L engine and a 160, 180 o",
+        "report_date": "10/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17E061000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:GASOLINE:TURBO/SUPERCHARGER",
+        "summary": "Accessible Technologies, Inc. (ATI) is recalling certain ProCharger Superchargers, model numbers AB037A-100, AB037A-100P, and A037A-100B, sold for installation on 2012-2017 Jeep Grand Cherokee SRT8 and SRT vehicles.  The supercharger mounting bracket may contact and damage the ABS line, possibly res",
+        "report_date": "19/10/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V572000",
+        "component": "SERVICE BRAKES",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2014 Dodge Durango and Jeep Grand Cherokee vehicles.  The affected vehicles had brake booster shields installed under a previous campaign to prevent water from entering the brake booster and limiting braking ability.  This recall is to verify that the ",
+        "report_date": "18/09/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V154000",
+        "component": "SERVICE BRAKES",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Jeep Grand Cherokee and Dodge Durango vehicles manufactured from January 5, 2010, through September 8, 2013.  The subject vehicles have a brake booster with a center shell that may corrode and allow water to get inside.",
+        "report_date": "01/04/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V879000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2013 Dodge Durango and Jeep Grand Cherokee vehicles manufactured December 3, 2009, to September 1, 2012.  In the affected vehicles, the wiring for the vanity lamp in the sun visor may short circuit, after having been remedied for a prior rec",
+        "report_date": "28/12/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V391000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Dodge Durango and Jeep Grand Cherokee vehicles manufactured January 5, 2010, through December 11, 2013.  In the affected vehicles, the wiring for the vanity lamp in the sun visor may short circuit, after a service repair is perf",
+        "report_date": "02/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V115000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2012-2013 Jeep Grand Cherokee vehicles manufactured September 17, 2010, to August 19, 2013, and equipped with a 3.6, 5.7 or 6.4 liter engine, and 2012-2013 Dodge Durango vehicles manufactured January 18, 2011, to August 19, 2013, and equipped wit",
+        "report_date": "27/02/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V104000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2012-2013 Dodge Durango and Jeep Grand Cherokee vehicles manufactured October 11, 2011, through October 1, 2012.  Under certain braking events, the Ready Alert Braking System (RAB) may result in the driver experiencing a hard brake pedal ",
+        "report_date": "04/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V634000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Chrysler 300, Dodge Charger, Challenger, and Durango; and 2012-2014 Jeep Grand Cherokee vehicles manufactured April 22, 2010, to January 2, 2014, and equipped with a 3.6L engine and a 160 amp alternator.  In the affected vehicle",
+        "report_date": "08/10/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:36:03.107Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

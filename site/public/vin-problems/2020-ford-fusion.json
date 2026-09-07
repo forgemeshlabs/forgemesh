@@ -1,0 +1,132 @@
+{
+  "slug": "2020-ford-fusion",
+  "year": 2020,
+  "make": "Ford",
+  "model": "Fusion",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 178,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 66,
+        "share_pct": 37.1,
+        "excerpts": [
+          "A failed transmission cooling line caused the transmission fluid to leak. At no point did the vehicle display a check engine light, transmission warning, or any other indication that there was a probl",
+          "I’ve learned a while ago that the vehicle doesn’t have a working horn, I’ve replaced the fuse at least five times and it’s still not working. Yes the car was sold to me this way. Also I’ve been gettin",
+          "I have had this car for 6 years and the transmission has gone out on top of the purge valve, I have seen many people have the same issues with this model and year of this car. THIS NEEDS TO BE ADRESSE"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 49,
+        "share_pct": 27.5,
+        "excerpts": [
+          "COMPONENT THAT FAILED: The engine cooling fan on my 2020 Ford Fusion SEL (1.5L, non-hybrid) became inoperable and blew three fuses. With the fans not operating, the engine overheated, destroying the h",
+          "While driving at 75mph on the freeway, my 2020 Ford Fusion suffered a sudden, catastrophic EcoBoost engine coolant failure. The vehicle instantly lost power and dropped to 35mph in active traffic, cre",
+          "I have had this car for 6 years and the transmission has gone out on top of the purge valve, I have seen many people have the same issues with this model and year of this car. THIS NEEDS TO BE ADRESSE"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 37,
+        "share_pct": 20.8,
+        "excerpts": [
+          "I don't know if this qualifies as an immediate safety issue, however, if the vehicle is stopped and placed into park on a busy freeway, or in traffic in any way, then this absolutely is a safety issue",
+          "I am reporting a life-threatening incident involving my 2020 Ford Fusion PHEV. On December 5, 2025, while my wife was driving on a public street, the vehicle suffered a sudden, complete engine failure",
+          "I keep getting SHIFT SYS FAULT error. My car will not move out of P (park).  I towed my car to repair shop on 2/11/2026 - 02/13/2026 the mechanic told me he replaced the bushing kit and the gear dial."
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 12,
+        "share_pct": 6.7,
+        "excerpts": [
+          "I was backing out of my drive way when a shift system fault message appeared on my dashboard. When I went to change gears the rotary dial locked up and shifted to park. My safety as well as other peop",
+          "I’ve learned a while ago that the vehicle doesn’t have a working horn, I’ve replaced the fuse at least five times and it’s still not working. Yes the car was sold to me this way. Also I’ve been gettin",
+          "The front left lower control arm (driver's side) snapped off (broke) while turning a corner.  There was no reason for the breakage other than turning.  It was repaired through insurance.  The driver's"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 11,
+        "share_pct": 6.2,
+        "excerpts": [
+          "I am reporting a life-threatening incident involving my 2020 Ford Fusion PHEV. On December 5, 2025, while my wife was driving on a public street, the vehicle suffered a sudden, complete engine failure",
+          "purge solenoid unplugged, several times for years, which causes the vehicle not to start up after getting fuel. Check engine light come on often due to this. When I bring vehicle to Mecanic shop they ",
+          "I have a check engine light on due to an issue in the emissions system. The issue is that the purge valve is stuck open. I know that this is an issue that you had a recall on for older models of the f"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 3,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 5
+      },
+      {
+        "year": 2021,
+        "count": 12
+      },
+      {
+        "year": 2022,
+        "count": 21
+      },
+      {
+        "year": 2023,
+        "count": 30
+      },
+      {
+        "year": 2024,
+        "count": 31
+      },
+      {
+        "year": 2025,
+        "count": 60
+      },
+      {
+        "year": 2026,
+        "count": 19
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "23V440000",
+        "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY:MANAGEMENT SYSTEM/ENERGY CONTROL MODULE (BMS/BECM)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2019-2020 Fusion PHEV vehicles.  The battery energy control module (BECM) may become damaged due to excessive voltage and current flow.",
+        "report_date": "23/06/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V442000",
+        "component": "BACK OVER PREVENTION:SOFTWARE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2022 Transit Connect, 2019-2020 MKZ, MKX,  Edge, Continental, F-150, Nautilus, Fusion, 2019-2023 Ranger, Mustang, 2020-2021 EcoSport, Expedition, Navigator, 2020-2022 Escape, F-250 SD, Corsair, 2020-2023 Aviator, Transit, 2020-2024 Explorer, 2021-2",
+        "report_date": "27/06/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V685000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Lincoln MKC, 2016-2023 Explorer, 2019-2020 Fusion, 2019-2024 Ranger, 2020-2022 Lincoln Corsair, Escape, 2021-2024 Bronco, Bronco Sport, and 2022-2024 Maverick vehicles. The engine block heater may crack and develop a coolant leak, causing it t",
+        "report_date": "10/10/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:34.698Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

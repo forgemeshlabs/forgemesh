@@ -1,0 +1,140 @@
+{
+  "slug": "2020-toyota-camry",
+  "year": 2020,
+  "make": "Toyota",
+  "model": "Camry",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 270,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 66,
+        "share_pct": 24.4,
+        "excerpts": [
+          "The fuel pump has a malfunction. The car started jerking and started to accelerate by itself when I was driving it. Yes the problem reproduced. The vehicle is currently under inspection by the manufac",
+          "The vehicle contains a known manufacturing defect where the engine coolant bypass valve cracks internally, leaking pressurized fluid directly into the main electrical connector (covered under Toyota C",
+          "First time it was the middle of the night I was leaving a party and the car cut off in the middle of the street in the intersection. I had to wait for hours for the car to start back up … a couple wee"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 59,
+        "share_pct": 21.9,
+        "excerpts": [
+          "The fuel pump has a malfunction. The car started jerking and started to accelerate by itself when I was driving it. Yes the problem reproduced. The vehicle is currently under inspection by the manufac",
+          "The vehicle contains a known manufacturing defect where the engine coolant bypass valve cracks internally, leaking pressurized fluid directly into the main electrical connector (covered under Toyota C",
+          "coolant bypass valve"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 48,
+        "share_pct": 17.8,
+        "excerpts": [
+          "My 12 Volt plug does not work. My infatainment system stopped workin",
+          "The contact owns a 2020 Toyota Camry. The contact was notified of NHTSA Campaign Number: 23V865000 (Air Bags); however, the part to do the recall repair was not yet available. The local dealer was mad",
+          "The Airbag recall on select Toyota Camry. The manufacturer of the airbags in Japan are said to be defective. I have not received new sensors that are on back order. Seatbelt sensors continue to go off"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 35,
+        "share_pct": 13,
+        "excerpts": [
+          "The fuel pump has a malfunction. The car started jerking and started to accelerate by itself when I was driving it. Yes the problem reproduced. The vehicle is currently under inspection by the manufac",
+          "Fuel pump control circuit circuit/shirt Fuel rail pressure sensor b circuit range/performance",
+          "Coolant leak pink fluid under the car and thermostat going crazy."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 32,
+        "share_pct": 11.9,
+        "excerpts": [
+          "The vehicle contains a known manufacturing defect where the engine coolant bypass valve cracks internally, leaking pressurized fluid directly into the main electrical connector (covered under Toyota C",
+          "Went in to get a service done for my vehicle and all the highlighted areas were the problem. They stated models from 2019-2022 The Camrys all have had transmission issues. I still have my car and it’s",
+          "Transmission is making a whining sound when accelerating. The car only has 99,000 miles on it."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 14,
+      "fires": 2,
+      "injuries": 22,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2019,
+        "count": 3
+      },
+      {
+        "year": 2020,
+        "count": 52
+      },
+      {
+        "year": 2021,
+        "count": 35
+      },
+      {
+        "year": 2022,
+        "count": 18
+      },
+      {
+        "year": 2023,
+        "count": 38
+      },
+      {
+        "year": 2024,
+        "count": 47
+      },
+      {
+        "year": 2025,
+        "count": 51
+      },
+      {
+        "year": 2026,
+        "count": 24
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V064000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020 Toyota Avalon Hybrid, Camry, Camry Hybrid and  Lexus ES300h and 2019-2020 RAV4 and RAV4 Hybrid vehicles equipped with 2.5L 4-Cylinder engines.  Porosity in the engine castings may result in cracks than can allow coolant to l",
+        "report_date": "06/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V865000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020-2021 Avalon, Avalon Hybrid, Corolla, Highlander, Highlander Hybrid, RAV4, RAV4 Hybrid, Lexus ES350, Lexus RX350, Lexus RX450H, 2021 Sienna Hybrid, Lexus ES250, 2020-2022 Camry, Camry Hybrid, and ES300H vehicles.  A short cir",
+        "report_date": "20/12/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:00.094Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

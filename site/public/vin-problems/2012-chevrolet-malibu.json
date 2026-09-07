@@ -1,0 +1,168 @@
+{
+  "slug": "2012-chevrolet-malibu",
+  "year": 2012,
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 906,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 290,
+        "share_pct": 32,
+        "excerpts": [
+          "Electrical system problems that create unsafe driving conditions!! Vehicle has electrical glitches. Internal warning lights flicker on and off. Battery drains. Car randomly will not start. Multiple in",
+          "Rear defrost stopped working.  Hasn't worked in years.  I took it to GM, they had a print out of a kit that I had to purchase to repair.  This stopped working back around 2016.",
+          "Was driving home on the parkway and the headlights shut off on their own had to call for roadside assistance to get my vehicle home they will work on dim but brights will not work and if I drive for m"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 202,
+        "share_pct": 22.3,
+        "excerpts": [
+          "Was driving home on the parkway and the headlights shut off on their own had to call for roadside assistance to get my vehicle home they will work on dim but brights will not work and if I drive for m",
+          "Passenger side headlamp burned out took off bumper to inspect and the wiring pigtail to the headlight has melted causing it to malfunction so now in order to make it work you have to disconnect the da",
+          "Passenger and or driver side low beam headlight continues to go out. Mechanic has found connector keeps burning out the socket. Light is burnt out on bott sides. but connector is shorting out. Fire an"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 191,
+        "share_pct": 21.1,
+        "excerpts": [
+          "On March 4, 2026, my wife was driving the vehicle when she suddenly lost power steering. The steering wheel became extremely difficult to turn, creating a dangerous situation that could have resulted ",
+          "i was driving and the steering wheel locked, the whole steering column has to be replaced it brought up a code saying torque input sensor i've only put 10,000 miles on this car and have only had it fo",
+          "The “service ESC” light came on while I was driving on the freeway causing the steering wheel to lock up and I couldn’t turn the wheel. It was really stiff after it said “Service ESC” and “ESC Off”"
+        ]
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "complaints": 129,
+        "share_pct": 14.2,
+        "excerpts": [
+          "The contact owns a 2012 Chevrolet Malibu. The contact stated that the power steering warning light was illuminated, and the message \"ESC OFF\" was displayed. The contact stated that the vehicle experie",
+          "The contact owns a 2012 Chevrolet Malibu. The contact stated that while driving at an undisclosed speed, the vehicle briefly lost motive power and came to a complete stop. The vehicle returned to norm",
+          "The contact owns a 2012 Chevrolet Malibu. The contact stated that while driving approximately 60 MPH and following a slight right turn on the highway, the ESC warning illuminated, and the vehicle slow"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 101,
+        "share_pct": 11.1,
+        "excerpts": [
+          "My airbag warning light and notification have came on and sometimes seat belt lights come on unexpectedly and will not go off I feel like this is a safety issue",
+          "The contact owns a 2012 Chevrolet Malibu. The contact stated that while driving at 55 MPH, the temperature gauge began to indicate the vehicle was overheating after which the vehicle lost motive power",
+          "The catalytic converter and exhaust manifold are suspected to be malfunctioning. These components are part of the vehicle’s exhaust system, and their failure is believed to be contributing to hesitati"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 50,
+      "fires": 13,
+      "injuries": 35,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 3
+      },
+      {
+        "year": 2012,
+        "count": 34
+      },
+      {
+        "year": 2013,
+        "count": 30
+      },
+      {
+        "year": 2014,
+        "count": 70
+      },
+      {
+        "year": 2015,
+        "count": 89
+      },
+      {
+        "year": 2016,
+        "count": 78
+      },
+      {
+        "year": 2017,
+        "count": 86
+      },
+      {
+        "year": 2018,
+        "count": 156
+      },
+      {
+        "year": 2019,
+        "count": 147
+      },
+      {
+        "year": 2020,
+        "count": 91
+      },
+      {
+        "year": 2021,
+        "count": 32
+      },
+      {
+        "year": 2022,
+        "count": 26
+      },
+      {
+        "year": 2023,
+        "count": 24
+      },
+      {
+        "year": 2024,
+        "count": 24
+      },
+      {
+        "year": 2025,
+        "count": 11
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "15V269000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2011-2012 Chevrolet Malibu vehicles manufactured April 8, 2010, to October 11, 2012.  In the affected vehicles, the flexible steel cables that connect the seat belts to the vehicle at the outside of the driver seat and the front passenger seat ",
+        "report_date": "08/05/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V252000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2004-2012 Chevrolet Malibu vehicles manufactured May 16, 2003, through October 11, 2012, 2004-2007 Malibu Maxx vehicles manufactured June 25, 2003, through April 5, 2007, 2005-2010 Pontiac G6 vehicles manufactured May 26, 2004, through January ",
+        "report_date": "14/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14E044000",
+        "component": "STEERING",
+        "summary": "Dorman Products, Inc. (Dorman) is recalling certain replacement intermediate steering shafts sold under the Dorman, OE Solutions, and Solutions brand names, part numbers 425-167, 2425167, and 7-3074, for installation on 2004-2012 Chevrolet Malibu, 2005-2010 Pontiac G6, and 2007-2009 Saturn Aura vehi",
+        "report_date": "21/07/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:33:49.887Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

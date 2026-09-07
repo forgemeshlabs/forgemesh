@@ -1,0 +1,224 @@
+{
+  "slug": "2019-jeep-cherokee",
+  "year": 2019,
+  "make": "Jeep",
+  "model": "Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1625,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 788,
+        "share_pct": 48.5,
+        "excerpts": [
+          "My vehicle (2019 Cherokee trailhawk) was subject to 2 PTU recalls. I had the first one replaced after the dash light came on, then had that one replaced after it failed and began leaking fluid. When i",
+          "PTU failure. Jeep Cherokee manufacture in 2019 through February and again in December have recalled PTU failure. The ones manufactured in between were not recalled but have same dangerous failure.",
+          "Service 4w drive light came on vehicle stores going up in Kleins as well as it shut off on me on an interstate thank goodness there was no vehicles I was able to get it started and get to safety on si"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 454,
+        "share_pct": 27.9,
+        "excerpts": [
+          "Plastic manifold cover has developed a hairline crack and is leaking oil. Vehicle has only 68,000 miles. Mechanic advised there is a national backorder of replacement manifold covers so up to the merc",
+          "An NHSTA #26V290000 report received on 07/05/2026-Power Train from AAA, NHSTA Campaign #25V011000- Power Train, and NHSTA #18V523000- Service brakes, hydraulic foundation and components disc caliper. ",
+          "The contact owns a 2019 Jeep Cherokee. The contact stated that while driving at an undisclosed speed, the messages \"Reset - Start Unavailable\" and \"START/STOP System Unavailable\" were displayed. Addit"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 338,
+        "share_pct": 20.8,
+        "excerpts": [
+          "The contact owns a 2019 Jeep Cherokee. The contact stated that while driving at an undisclosed speed, the messages \"Reset - Start Unavailable\" and \"START/STOP System Unavailable\" were displayed. Addit",
+          "My driver side seat belt will not stay latched. The screen on my dashboard will freeze up and not turn on or off",
+          "Had cruise control on set on 64 up and down hills and around curves it just started going faster & faster I had to stomp the brakes 3 times to get it to quit afterwards the power train is now not shif"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 120,
+        "share_pct": 7.4,
+        "excerpts": [
+          "​NHTSA ODI Case Update – Supplement to Complaint #XXX ​Vehicle: 2019 Jeep Cherokee Latitude Plus (VIN: [XXX] ) Subject: Dealership Deflection Tactics and Denial of Recall Repair Verification   ​This s",
+          "My 2019 Jeep Cherokee Latitude Plus is exhibiting a persistent metallic rattling and grinding noise originating from the Power Transfer Unit (PTU) and the propeller shaft interface. The noise is most ",
+          "While driving home from Church Sunday afternoon, I was on the highway driving 65 mph.  Suddenly, and without warning lights or any other ability to know or prepare for the catastrophe about to take pl"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 107,
+        "share_pct": 6.6,
+        "excerpts": [
+          "the parking brake comes on when driving shutting down the car..this happened yesterday and has happened once before",
+          "I was leaving the parking lot of a grocery store - I was probably 100 yards from where I parked to the exit to the road. My [XXX] and [XXX] were in car seats in the back. I went to merge into traffic ",
+          "My vehicle has an open PTU recall and when driving down the road my vehicle completely lost power was unable to drive or put vehicle in park in the middle of a turn which resulted in on coming traffic"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 40,
+      "fires": 19,
+      "injuries": 37,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 1992,
+        "count": 1
+      },
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 148
+      },
+      {
+        "year": 2019,
+        "count": 234
+      },
+      {
+        "year": 2020,
+        "count": 151
+      },
+      {
+        "year": 2021,
+        "count": 112
+      },
+      {
+        "year": 2022,
+        "count": 101
+      },
+      {
+        "year": 2023,
+        "count": 156
+      },
+      {
+        "year": 2024,
+        "count": 165
+      },
+      {
+        "year": 2025,
+        "count": 411
+      },
+      {
+        "year": 2026,
+        "count": 141
+      }
+    ]
+  },
+  "recalls": {
+    "count": 11,
+    "recalls": [
+      {
+        "campaign_number": "18V917000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Jeep Cherokee vehicles. The instrument cluster may fail resulting in a lack of\r\nactivation of warning chimes, messages, and gauges.",
+        "report_date": "20/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V492000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Jeep Cherokee vehicles and 2018 Chrysler Pacifica non-hybrid vehicles.  A component in the transmission may not have been welded properly, possibly causing the transmission to not transmit engine power to the wheels.",
+        "report_date": "26/07/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V739000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Chrysler(FCA US LLC) is recalling certain 2019 Jeep Cherokee vehicles equipped with 2.4L engines.  Improper transmission calibration may result in a stall.",
+        "report_date": "19/10/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V449000",
+        "component": "AIR BAGS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Jeep Cherokee vehicles.  The impact and acceleration sensors may fail and reduce the air bag system's ability to properly detect certain crash events.",
+        "report_date": "13/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V637000",
+        "component": "STEERING:RACK AND PINION:RACK",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019-2020 Jeep Cherokee vehicles.  The steering rack gear may break, possibly causing a loss of steering control.",
+        "report_date": "29/08/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V344000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Jeep Cherokee vehicles equipped with 2.0L engines.  The engines in these vehicles may be missing valve stem keepers, which can allow the valve to drop into the engine cylinder causing engine damage.  These engines may also have a reversed camshaft cap ",
+        "report_date": "25/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V248000",
+        "component": "SEATS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Jeep Cherokee vehicles.  The front passenger seat mounting bolts may be loose.",
+        "report_date": "28/03/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V524000",
+        "component": "ELECTRICAL SYSTEM:WIRING:FRONT UNDERHOOD",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Jeep Renegade, Compass and Grand Cherokee, RAM 1500 and Promaster, Fiat 500x, Dodge Journey, Challenger, Charger and Durango and Chrysler 300x vehicles, 2017-2018 Jeep Wrangler, Dodge Grand Caravan and Chrysler Town and Country vehicles and 2018-2019 J",
+        "report_date": "09/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V523000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018-2019 Dodge Grand Caravan and Jeep Compass, 2018 Dodge Journey, and 2019 Jeep Cherokee vehicles.  The rear brake caliper pistons on these vehicles may have an insufficient coating causing gas pockets to form, potentially reducing rear brake performance.",
+        "report_date": "09/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V011000",
+        "component": "POWER TRAIN",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2017-2019 Jeep Cherokee vehicles.  The power transfer unit (PTU) may become damaged and disengage the transmission and differential, resulting in a loss of drive power and/or loss of park function.",
+        "report_date": "29/04/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V290000",
+        "component": "POWER TRAIN",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019-2023 Jeep Cherokee vehicles. The power transfer unit (PTU) may fail.",
+        "report_date": "07/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:54.483Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

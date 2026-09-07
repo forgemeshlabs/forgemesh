@@ -1,0 +1,172 @@
+{
+  "slug": "2012-toyota-tundra",
+  "year": 2012,
+  "make": "Toyota",
+  "model": "Tundra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 155,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 57,
+        "share_pct": 36.8,
+        "excerpts": [
+          "Wife was driving truck and immediately went into limp mode on the highway.  Check engine light came on, no accelerating then died.  Had to get it towed.  This is the 3rd incident with this issue.",
+          "The contact owns a 2012 Toyota Tundra. The contact stated while starting the vehicle, the check engine warning light was illuminated. The contact stated that the light stayed illuminated while driving",
+          "Computer software issues. Flex full engine."
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 25,
+        "share_pct": 16.1,
+        "excerpts": [
+          "Wife was driving truck and immediately went into limp mode on the highway.  Check engine light came on, no accelerating then died.  Had to get it towed.  This is the 3rd incident with this issue.",
+          "The fuel pump failed on my Tundra.  Several dashboard check engine lights suddenly lit up to warn me of the issue.  While I was able to safely get it to a mechanic to repair the independent Toyota cer",
+          "ECM safety recall air injection pump failure"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 21,
+        "share_pct": 13.5,
+        "excerpts": [
+          "My power steering gear blew its  seal on the passenger side losing all power steering fluid and almost making me crash into a car next to me, and Toyota refuses to cover it stating that I hadn't had t",
+          "2012 Tundra faced a lot of problems like air injection pump failures, sticking of secondary air pumps, knock, along with other issues like speed control, engine cooling, and throttle failure. At prese",
+          "The contact owns a 2012 Toyota Tundra. The contact stated that while plowing his driveway, there was an abnormal burning odor detected. The vehicle suddenly lost power. There were no warning lights il"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 18,
+        "share_pct": 11.6,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2012 Toyota Tundra. The contact discovered that there was a mileage discrepancy after the purchase. The vehicle was a dealer sale. At the time of purchase, the ",
+          "Odometer Fraud. The contact purchased a 2012 Toyota Tundra. At the time of the purchase, the mileage was 149,000. The vehicle was a dealer sale. An independent mechanic checked the vehicle history rep",
+          "Odometer Fraud. The contact purchased a 2012 Toyota Tundra. The contact discovered a mileage discrepancy after the purchase. The vehicle was a private sale. At the time of purchase, the mileage was 13"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 12,
+        "share_pct": 7.7,
+        "excerpts": [
+          "My power steering gear blew its  seal on the passenger side losing all power steering fluid and almost making me crash into a car next to me, and Toyota refuses to cover it stating that I hadn't had t",
+          "The contact owns a 2012 Toyota Tundra. The contact stated while driving approximately 10 MPH, the vehicle experienced steering failure with abnormal popping sounds. There were no warning lights illumi",
+          "I WAS DRIVING AND ALL THE SUDDEN MY POWER STEERING WENT OUT. I WAS IN TRAFFIC AND ALMOST WAS IN AN ACCIDENT BECAUSE OF NO POWER STEERING. I IMMEDIATELY PULLED OVER AND LOOKED ON THE PASSENGER SIDE AND"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 2,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 11
+      },
+      {
+        "year": 2013,
+        "count": 8
+      },
+      {
+        "year": 2014,
+        "count": 5
+      },
+      {
+        "year": 2015,
+        "count": 2
+      },
+      {
+        "year": 2016,
+        "count": 13
+      },
+      {
+        "year": 2017,
+        "count": 13
+      },
+      {
+        "year": 2018,
+        "count": 30
+      },
+      {
+        "year": 2019,
+        "count": 23
+      },
+      {
+        "year": 2020,
+        "count": 21
+      },
+      {
+        "year": 2021,
+        "count": 8
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V123000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota is recalling certain model year 2008 and 2010-2013 Toyota Tundra, 2010-2012 Rav4, 2012 Toyota Sequoia, 2010-2011 Toyota Corolla, 2010-2011 Toyota Camry and Camry Hybrid, 2010-2013 Toyota Highlander and Highlander Hybrid, 2010-2013 Toyota FJ Cruiser, 2011 Toyota Land Cruiser, 2010-20",
+        "report_date": "09/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V920000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2008-2022 Sequoia and 2007-2021 Tundra vehicles.  The power steering gear assembly may have been manufactured incorrectly, which can result in an oil leak.",
+        "report_date": "23/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21E103000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain JTEKT power steering gear assembly service parts for 2007-2021 Tundra and 2008-2022 Sequoia, part numbers 44250-0C160, 44250-0C131, 44250-0C170, and 11250-0C121.  The power steering gear assembly may have been manufactured incorr",
+        "report_date": "23/12/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:33:11.660Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

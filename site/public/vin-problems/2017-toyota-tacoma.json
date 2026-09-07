@@ -1,0 +1,164 @@
+{
+  "slug": "2017-toyota-tacoma",
+  "year": 2017,
+  "make": "Toyota",
+  "model": "Tacoma",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 239,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 68,
+        "share_pct": 28.5,
+        "excerpts": [
+          "My 2017 Tacoma TRD Off Road (manual transmission) makes a constant chirping sound when the engine is running and increases chirping sound when accelerator is pressed.  The chirping sound ceases when t",
+          "There is a leak the rear differential. There is a recall on this issue",
+          "I was driving on the highway when my vehicle suddenly lost power. The engine light and traction control light came on, and I lost power, and the engine started sputtering. I had to pull off to the sid"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 36,
+        "share_pct": 15.1,
+        "excerpts": [
+          "Truck has 116k miles, started losing power and acceleration diminished. CEL and Trac Off light came on. Pulled over twice after experiencing same issue. Took to mechanic and diagnostic code P0301 (cyl",
+          "The contact owns a 2017 Toyota Tacoma. The contact stated that while driving, the engine revved lightly. Over time the vehicle began to lunge forward, and the revving had become more intense. The RPM ",
+          "Have had engine issues such as stalling, rattling, limp mode, rough idling and engine missing. Have had repairs done but continues to have major issues where it is not functioning properly."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 32,
+        "share_pct": 13.4,
+        "excerpts": [
+          "The parking brake sticks. This is an issue because the vehicle automatically applies the parking brake briefly when switching from neutral to first gear or reverse to prevent rollback. When this happe",
+          "Common issue reported amongst 2016-2019 Toyota Tacoma owners. Noticed brake fluid dripping from under driver's side dash directly under brake pedal onto floor mat. Upon inspection, found brake fluid d",
+          "Hydraulic, power assist:vacuum"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 26,
+        "share_pct": 10.9,
+        "excerpts": [
+          "Clear coat and paint began to oxidize and fade after 4 years of ownership even when maintaining with wax",
+          "Water leak from cabin pressure vents behind rear seats. Water leaks directly into carpet causing unknown mold growth. This mold growth is a safety issue due to the cognitive and respiratory problems a",
+          "My 2017 Tacoma extra cab has paint peeling around the both windows and both fenders. Toyota states the four door trucks are covered under the customer support program 23TE08 but the extra cabs are not"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 23,
+        "share_pct": 9.6,
+        "excerpts": [
+          "Truck has 116k miles, started losing power and acceleration diminished. CEL and Trac Off light came on. Pulled over twice after experiencing same issue. Took to mechanic and diagnostic code P0301 (cyl",
+          "Vehicle stalled on highway bridge. Took to mechanic shop. They put the diagnostic code machine on and the code indicated fuel pump failure. Toyota does have a recall notice for the year, make, and mod",
+          "Fuel leak at the fuel lines  at the rear connection near the fuel tank, drivers side rear."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 12,
+      "fires": 6,
+      "injuries": 9,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 6
+      },
+      {
+        "year": 2017,
+        "count": 51
+      },
+      {
+        "year": 2018,
+        "count": 45
+      },
+      {
+        "year": 2019,
+        "count": 25
+      },
+      {
+        "year": 2020,
+        "count": 22
+      },
+      {
+        "year": 2021,
+        "count": 26
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 15
+      },
+      {
+        "year": 2024,
+        "count": 19
+      },
+      {
+        "year": 2025,
+        "count": 14
+      },
+      {
+        "year": 2026,
+        "count": 10
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "17V831000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2017-2018 Toyota 4Runner and Tundra, 2018 Toyota Highlander, RAV4 and Lexus GX460 and 2017 Toyota Sienna and Tacoma vehicles.  These vehicles may have incorrect load carrying capacity modification labels.  As such, these vehicles",
+        "report_date": "20/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V356000",
+        "component": "ENGINE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2016-2017 Tacoma vehicles equipped with a six-cylinder engine.  The affected vehicles have a crank position sensor that may malfunction, potentially resulting in an engine stall.",
+        "report_date": "01/06/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V285000",
+        "component": "POWER TRAIN:DRIVELINE:DIFFERENTIAL UNIT",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2016-2017 Tacoma vehicles.  Oil may leak from the area where the rear differential carrier is assembled to rear axle housing.",
+        "report_date": "27/04/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V211000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018 Toyota Camry and Highlander vehicles, 2017 Toyota Sienna and Tacoma vehicles and 2017 Lexus RX350 vehicles.  During the manufacturing process, the oil galley in the rotor for the brake booster vacuum pump assembly may have b",
+        "report_date": "03/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:40:16.858Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

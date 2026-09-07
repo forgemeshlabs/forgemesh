@@ -1,0 +1,156 @@
+{
+  "slug": "2013-toyota-rav4",
+  "year": 2013,
+  "make": "Toyota",
+  "model": "RAV4",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 256,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 74,
+        "share_pct": 28.9,
+        "excerpts": [
+          "The system that failed is the 12-volt battery hold-down assembly and associated electrical infrastructure, exactly as described under NHTSA Safety Recall Campaign Number 23V-729 (Toyota Recalls 23TA13",
+          "Odometer Fraud. The contact purchased a 2013 Toyota RAV4. The contact stated that a mileage discrepancy was discovered after the purchase. The vehicle was a private sale. At the time of purchase, the ",
+          "Odometer Fraud. The contact purchased a 2013 Toyota Rav4. It was discovered that there was a mileage discrepancy. The vehicle was a private sale. At the time of the purchase, the mileage was 89,704. A"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 29,
+        "share_pct": 11.3,
+        "excerpts": [
+          "Over the course of the past two days, 2013 Toyota RAV4 has engine cut-off while moving on surface streets, tollroads, and Interstate Highways.  Thus far, this has occurred 9 times without any warning ",
+          "I was traveling south on [XXX]  when the vehicle stalled. I started the engine and proceeded. I noticed my Rav4 smoking from the engine so I turned off into a Extra Space Storage parking at 1415 Berge",
+          "I had a 2013 Rav4, while i was driving the car the car started a fire under the hood and burn completely up. Im trying to file a complaint or talk to someone discussing this matter. Toyota says I need"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 29,
+        "share_pct": 11.3,
+        "excerpts": [
+          "The vehicle shudders significantly when accelerating/cruising between 35-45 mph.  The shudder started slight and did not pose an issue for a while, but now its significant enough that is causes errati",
+          "My 2013 RAV4 has been experiencing shuddering and vibrations at low speeds. Turns out it is the torque converter which Toyota was aware some 2013-2014 RAV4 have the problem. But instead of doing a rec",
+          "The contact owns a 2013 Toyota Rav4. The contact stated that while driving at an undisclosed speed, she heard an abnormal sound coming from the vehicle. The contact stated that the service engine warn"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 28,
+        "share_pct": 10.9,
+        "excerpts": [
+          "The vehicle has experienced premature and widespread paint peeling and clear coat failure on multiple body panels. The paint began deteriorating without impact, collision, or environmental damage and ",
+          "The contact owns a 2013 Toyota Rav4. The contact stated that large pieces of paint had separated from the hood and contacted the front windshield while driving, creating a visibility hazard for the dr",
+          "The paint on the roof of my 2013 Toyota Rav4 has begun to peel (delaminate). I first noticed it in May 2025. More recently, in June, while driving I saw in my rearview mirror what was clearly a chunk "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 23,
+        "share_pct": 9,
+        "excerpts": [
+          "In at least 5 or more instances the vehicle has had unintended acceleration and thrust the car forward while I was braking and trying to come to a stop. Once it happened at  a  4-way intersection and ",
+          "Brakes failed to stop while parking vehicle with a speed of less than 5 mph hitting landscaping with a young pine tree  that made the vehicle stopped. Hit and went over some matured bushes on the land",
+          "The brake line on the on the driver's side leaked brake fluid on the rotors and pads leading to an increased risk of crash due to lubricated brakes"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 22,
+      "fires": 29,
+      "injuries": 15,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 52
+      },
+      {
+        "year": 2014,
+        "count": 29
+      },
+      {
+        "year": 2015,
+        "count": 18
+      },
+      {
+        "year": 2016,
+        "count": 19
+      },
+      {
+        "year": 2017,
+        "count": 14
+      },
+      {
+        "year": 2018,
+        "count": 15
+      },
+      {
+        "year": 2019,
+        "count": 11
+      },
+      {
+        "year": 2020,
+        "count": 15
+      },
+      {
+        "year": 2021,
+        "count": 16
+      },
+      {
+        "year": 2022,
+        "count": 15
+      },
+      {
+        "year": 2023,
+        "count": 15
+      },
+      {
+        "year": 2024,
+        "count": 20
+      },
+      {
+        "year": 2025,
+        "count": 10
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "15V011000",
+        "component": "TRAILER HITCHES",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2013-2015 Toyota Rav4 vehicles manufactured June 1, 2013, to December 29, 2014, and equipped with an accessory trailer light module.  The software within the module may incorrectly detect an electrical short and preventively tu",
+        "report_date": "16/01/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V734000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2013-2018 RAV4 vehicles.  Certain replacement 12-volt batteries may not fit properly in the battery tray, allowing the battery to move and contact the hold-down bracket, possibly causing a short circuit.",
+        "report_date": "01/11/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:34:34.761Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

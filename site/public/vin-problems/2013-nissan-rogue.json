@@ -1,0 +1,148 @@
+{
+  "slug": "2013-nissan-rogue",
+  "year": 2013,
+  "make": "Nissan",
+  "model": "Rogue",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 608,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 314,
+        "share_pct": 51.6,
+        "excerpts": [
+          "The transmission failed while I was driving on the freeway and I couldn’t go more than 30 mph while traffic was going 75-80 mph. Just to reach a spot to safely stop myself and my passenger were fearin",
+          "No warning light. Going down the freeway at About 70-80  mph then the accelerator stops working. It goes down to about 44 mph with my foot floored in gas pad.  I have to get off the road and then let ",
+          "The contact owns a 2013 Nissan Rogue. The contact stated that while depressing the accelerator pedal, the vehicle hesitated. No warning light was illuminated. An independent mechanic and dealer were c"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 104,
+        "share_pct": 17.1,
+        "excerpts": [
+          "My 2013 nissan rouge looses power and makes a jarring noise immediately after stopping at every stop when I accelerate it suddenly losses almost all power its already caused a crash I got hit right af",
+          "I have already reported a crash due to sudden loos of power and submitted everything except the info that the air bags did not deploy and they should definitely",
+          "1. What component or system failed or malfunctioned, and is it available for inspection upon request? The primary system affected appears to be the CVT transmission. Additionally, the engine computer "
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 90,
+        "share_pct": 14.8,
+        "excerpts": [
+          "1. What component or system failed or malfunctioned, and is it available for inspection upon request? The primary system affected appears to be the CVT transmission. Additionally, the engine computer ",
+          "No warning light. Going down the freeway at About 70-80  mph then the accelerator stops working. It goes down to about 44 mph with my foot floored in gas pad.  I have to get off the road and then let ",
+          "Vehicle has a habit of losing speed, even on cruise control, when going more than 70 mph for extended times and dropping below 60 when doing so on Interstate with no warning lights or system notificat"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 89,
+        "share_pct": 14.6,
+        "excerpts": [
+          "Drivers side airbag module defective",
+          "My 2013 nissan rouge looses power and makes a jarring noise immediately after stopping at every stop when I accelerate it suddenly losses almost all power its already caused a crash I got hit right af",
+          "I have already reported a crash due to sudden loos of power and submitted everything except the info that the air bags did not deploy and they should definitely"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 64,
+        "share_pct": 10.5,
+        "excerpts": [
+          "unknown. all I know is my car started smoking and caught on fire",
+          "I am writing to formally notify NHTSA of a serious safety incident involving my 2013 Nissan Rogue. My vehicle experienced an electrical fire while parked in my driveway following heavy snowstorms and ",
+          "1. What component or system failed or malfunctioned, and is it available for inspection upon request? The primary system affected appears to be the CVT transmission. Additionally, the engine computer "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 14,
+      "fires": 15,
+      "injuries": 9,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 2
+      },
+      {
+        "year": 2013,
+        "count": 15
+      },
+      {
+        "year": 2014,
+        "count": 37
+      },
+      {
+        "year": 2015,
+        "count": 28
+      },
+      {
+        "year": 2016,
+        "count": 52
+      },
+      {
+        "year": 2017,
+        "count": 68
+      },
+      {
+        "year": 2018,
+        "count": 97
+      },
+      {
+        "year": 2019,
+        "count": 93
+      },
+      {
+        "year": 2020,
+        "count": 58
+      },
+      {
+        "year": 2021,
+        "count": 57
+      },
+      {
+        "year": 2022,
+        "count": 38
+      },
+      {
+        "year": 2023,
+        "count": 23
+      },
+      {
+        "year": 2024,
+        "count": 23
+      },
+      {
+        "year": 2025,
+        "count": 9
+      },
+      {
+        "year": 2026,
+        "count": 8
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "15V032000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2008-2013 Nissan Rogue vehicles manufactured March 7, 2007, to November 26, 2013, and 2014 Nissan Rogue Select vehicles manufactured September 23, 2013, to July 2, 2014.  The affected vehicles may experience an electrical short in t",
+        "report_date": "26/01/2015",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:35:27.787Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

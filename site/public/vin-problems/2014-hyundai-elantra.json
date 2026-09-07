@@ -1,0 +1,156 @@
+{
+  "slug": "2014-hyundai-elantra",
+  "year": 2014,
+  "make": "Hyundai",
+  "model": "Elantra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 383,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 164,
+        "share_pct": 42.8,
+        "excerpts": [
+          "I woke up to my neighbor banging on my door that my car was on fire.  My car was in flames.  The fire department had already been called.  The entire front of my car as well as the interior was comple",
+          "On XXX the vehicle stalled on a busy road, with no warning/ messages appearing until the car died. It was left at Dakota K Auto Repair in Buffalo Grove, IL the same day. They replicated the stalling i",
+          "I am writing to formally log a safety defect complaint regarding a severe mechanical failure in my 2014 Hyundai Elantra, equipped with the Nu 1.8L engine. The vehicle has been professionally diagnosed"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 87,
+        "share_pct": 22.7,
+        "excerpts": [
+          "The contact owns a 2014 Hyundai Elantra. The contact stated that while driving at an undisclosed speed, the brake pedal was depressed and went to the floorboard, and the brakes made abnormal grinding ",
+          "The constant-velocity joint on the driver's side tends to vibrate, and at certain speeds there is play in the steering.  Sometimes the handbrake doesn't work properly, and the right-side brake light d",
+          "The vehicle caught fire while it was in motion; there were loud bangs and a lot of noise, and smoke started coming out of the front, and the engine and the undercarriage caught fire.I managed to turn "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 47,
+        "share_pct": 12.3,
+        "excerpts": [
+          "I woke up to my neighbor banging on my door that my car was on fire.  My car was in flames.  The fire department had already been called.  The entire front of my car as well as the interior was comple",
+          "Vehicle was parked and turned off in a residential driveway when a fire spontaneously ignited in the engine compartment. There were no warning lights, unusual sounds, or symptoms prior to the incident",
+          "Vehicle Information: 2014 Hyundai Elantra SE Sedan, 4-Cylinder, 6-Speed Automatic, FWD  Build Location:  USA-Built Version (Montgomery, AL - VIN '5NP')  Ownership: Second owner, purchased Certified Pr"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 45,
+        "share_pct": 11.7,
+        "excerpts": [
+          "The contact owns a 2014 Hyundai Elantra. The contact stated that while driving at an undisclosed speed, the brake pedal was depressed and went to the floorboard, and the brakes made abnormal grinding ",
+          "See attached document for complaint.",
+          "The contact owns a 2014 Hyundai Elantra. The contact received notification of NHTSA Campaign Number: 23V651000 (Service Brakes, Hydraulic); however, the part to do the recall repair was not yet availa"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 32,
+        "share_pct": 8.4,
+        "excerpts": [
+          "Vehicle Information: 2014 Hyundai Elantra SE Sedan, 4-Cylinder, 6-Speed Automatic, FWD  Build Location:  USA-Built Version (Montgomery, AL - VIN '5NP')  Ownership: Second owner, purchased Certified Pr",
+          "I started to see the oil light on the dashboard and i heard a hard sound from the engine so that i changed the oil then after a couple days i saw the light again on with a little bit high temperature,",
+          "There is a light is always on and it says passenger airbag off"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 35,
+      "fires": 15,
+      "injuries": 29,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 2
+      },
+      {
+        "year": 2014,
+        "count": 24
+      },
+      {
+        "year": 2015,
+        "count": 27
+      },
+      {
+        "year": 2016,
+        "count": 27
+      },
+      {
+        "year": 2017,
+        "count": 24
+      },
+      {
+        "year": 2018,
+        "count": 36
+      },
+      {
+        "year": 2019,
+        "count": 40
+      },
+      {
+        "year": 2020,
+        "count": 31
+      },
+      {
+        "year": 2021,
+        "count": 24
+      },
+      {
+        "year": 2022,
+        "count": 35
+      },
+      {
+        "year": 2023,
+        "count": 44
+      },
+      {
+        "year": 2024,
+        "count": 47
+      },
+      {
+        "year": 2025,
+        "count": 14
+      },
+      {
+        "year": 2026,
+        "count": 7
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "17V769000",
+        "component": "SERVICE BRAKES, HYDRAULIC:PEDALS AND LINKAGES",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain 2013-2014 Elantra sedan, coupe and GT vehicles.  The brake pedal stopper pad can deteriorate allowing the brake light switch plunger to remain extended when the brake pedal is released.  This will allow the brake lights to remain illuminated conti",
+        "report_date": "30/11/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V651000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2015 Elantra, Genesis Coupe, Sonata Hybrid, 2012-2015 Accent, Azera, Veloster, 2013-2015 Elantra Coupe, Santa Fe, 2014-2015 Equus, 2010-2012 Veracruz, 2010-2013 Tucson, 2015 Tucson Fuel Cell, and 2013 Santa Fe Sport vehicles.  The Anti-Lock B",
+        "report_date": "22/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:37:40.914Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

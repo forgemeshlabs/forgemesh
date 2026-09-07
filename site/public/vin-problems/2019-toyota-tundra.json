@@ -1,0 +1,196 @@
+{
+  "slug": "2019-toyota-tundra",
+  "year": 2019,
+  "make": "Toyota",
+  "model": "Tundra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 72,
+    "top_failure_components": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 15,
+        "share_pct": 20.8,
+        "excerpts": [
+          "We had just exited the interstate when my Toyota Tundra stopped.  We had it towed to the closest Toyota dealer. We had to have fuel pump replaced.  They said the previous year Tundra was recalled for ",
+          "My toyota tundra is having issues with the fuel pump. It is saying I am using e85 fuel when that is not the case. As a result I am having issues with cold start. There are recalls however I am being t",
+          "Truck shut off while driving  fuel pump connector in the tank was melted and could have started a fire. Was told my tundra doesn’t fall under the recall but is having the same problem"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 13,
+        "share_pct": 18.1,
+        "excerpts": [
+          "The contact owns a 2019 Toyota Tundra. The contact stated that while parked for 5-10 minutes, the contact noticed a burning plastic odor, and upon looking up moments later, the contact noticed flames ",
+          "Intermittent message displaying \"Trailer Brakes Disconnected\" while towing. Trailer lights continued to operate even while message was displayed. On average trailer connected and disconnected every 2-",
+          "Keep getting the messages  \"Trailer brake error, if towing come to a stop with manual controls\"  And  \"Pre-collision system malfunction\"  The messages go away usually after restarting the vehicle but "
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 11,
+        "share_pct": 15.3,
+        "excerpts": [
+          "Keep getting the messages  \"Trailer brake error, if towing come to a stop with manual controls\"  And  \"Pre-collision system malfunction\"  The messages go away usually after restarting the vehicle but ",
+          "Having fuel pump issue. Car stalls very badly and pre collision light and engine lights start flashing. Severe jumping by car driving down the road. When accelerating the car has no acceleration and h",
+          "There was three warning light showing malfunction collision warning and i tried to to dealership and they said nothing is wrong"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 9,
+        "share_pct": 12.5,
+        "excerpts": [
+          "Intermittent message displaying \"Trailer Brakes Disconnected\" while towing. Trailer lights continued to operate even while message was displayed. On average trailer connected and disconnected every 2-",
+          "The contact owns a 2019 Toyota Tundra. The contact stated that while replacing the shocks, the contact noticed that the shocks were oily. The vehicle was taken to the local dealer for warranty repair,",
+          "IBC errors while towing. Serious safety issue."
+        ]
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "complaints": 7,
+        "share_pct": 9.7,
+        "excerpts": [
+          "The contact owns a 2019 Toyota Tundra. The contact stated that while starting the vehicle, the engine sounded rough. The check engine warning light was illuminated. The vehicle was turned off and fail",
+          "The contact owns 2019 Toyota Tundra. The contact stated that while attempting to start the vehicle, the vehicle failed to respond immediately. The contact stated that while driving 40 MPH and depressi",
+          "The contact owns a 2019 Toyota Tundra. The contact stated while driving at an undisclosed speed on several occasions, the vehicle stalled. There was no warning light illuminated. The vehicle failed to"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 2,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2019,
+        "count": 13
+      },
+      {
+        "year": 2020,
+        "count": 13
+      },
+      {
+        "year": 2021,
+        "count": 7
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 10
+      },
+      {
+        "year": 2024,
+        "count": 8
+      },
+      {
+        "year": 2025,
+        "count": 9
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 10,
+    "recalls": [
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V920000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2008-2022 Sequoia and 2007-2021 Tundra vehicles.  The power steering gear assembly may have been manufactured incorrectly, which can result in an oil leak.",
+        "report_date": "23/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V688000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2021 Tundra vehicles.  The headlight electrical circuits may power the high and low beams simultaneously, which could overheat the electrical connector.",
+        "report_date": "02/09/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V410000",
+        "component": "EXTERIOR LIGHTING:TURN SIGNAL",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2020 Toyota Tundra vehicles equipped with LED headlight assemblies.  Due to a wiring error, the front turn signals may not flash brightly enough.  As such, these vehicles fail to comply with the requirements of Federal Motor",
+        "report_date": "15/07/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21E103000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain JTEKT power steering gear assembly service parts for 2007-2021 Tundra and 2008-2022 Sequoia, part numbers 44250-0C160, 44250-0C131, 44250-0C170, and 11250-0C121.  The power steering gear assembly may have been manufactured incorr",
+        "report_date": "23/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V012000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) recalled certain 2018-2019 4Runner, Highlander, Camry, Land Cruiser, Sequoia, Sienna, Tacoma and Tundra, and Lexus RC 300, RC 350, GS 350, GX 460, IS 300, LC 500, LS 500, LX 570, RX 350L, and 2019 Toyota Avalon and Corolla, and certain Lexus NX 300, ",
+        "report_date": "13/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V685000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 Toyota Tundra and Sequoia vehicles and 2019 Toyota Avalon and Avalon Hybrid vehicles. The air bag electronic control unit (ECU) may erroneously detect a fault during the vehicle start-up self check.  If this occurs, the",
+        "report_date": "04/10/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V711000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 Toyota Tundra vehicles.  The accessory all-weather floormats may have been counted twice when creating the load carrying capacity modification label, resulting in the capacity modification label incorrectly overstating ",
+        "report_date": "11/10/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V900000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2019 Toyota Tundra standard and long bed trucks equipped with a spray-in bed liner.  The load carrying capacity modification label may have been incorrectly calculated.  If the label is followed, the vehicle may be overloaded.  A",
+        "report_date": "19/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V244000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Gulf States Toyota (GST) is recalling certain 2019 C-HR, 4Runner, Avalon, Avalon Hybrid, Camry, Camry Hybrid, Highlander, Land Cruiser, Prius, RAV4, Sequoia, Tacoma, Sienna, Tundra and Yaris vehicles.  The text on the load capacity label may become illegible.  As such, these vehicles fail to comply ",
+        "report_date": "27/03/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:34.421Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,232 @@
+{
+  "slug": "2014-ford-focus",
+  "year": 2014,
+  "make": "Ford",
+  "model": "Focus",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 2652,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 1595,
+        "share_pct": 60.1,
+        "excerpts": [
+          "The transmission over heating light comes on and says stop safely or wait 5 mins you can be going down the road and it jumps out gear and want go anywhere and it very dangerous.and I want no if ford f",
+          "I own a 2014 Ford Focus Titanium with approximately 75,000 miles and the DPS6 automatic transmission.  The transmission has developed a serious and recurring problem. The vehicle began violently jerki",
+          "The contact owns a 2014 Ford Focus. The contact stated that while driving at an undisclosed speed, the vehicle was shaking erratically, and the vehicle stopped independently. No warning lights were il"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 458,
+        "share_pct": 17.3,
+        "excerpts": [
+          "The contact owns a 2014 Ford Focus. The contact stated that upon reversing, the rear-view camera displayed a blank screen. The message \"See the Dealer\" was displayed, and the check engine warning ligh",
+          "The contact owns a 2014 Ford Focus. The contact stated that while his wife was driving 15 MPH and attempting to make a left turn, while depressing the accelerator pedal, the vehicle failed to respond.",
+          "The contact owns a 2014 Ford Focus. The contact stated that while driving at an undisclosed speed, the vehicle stalled. The contact stated that the gear shifter was shifted from neutral(N), to park(P)"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 308,
+        "share_pct": 11.6,
+        "excerpts": [
+          "Ford Camelback Lincoln refused to replace my leaking fuel tank and would only complete the software updates for the CPV. The fuel tank is leaking due to a deformed seal on the filler neck. Ford Corpor",
+          "I started smelling gasoline coming from the rear outside part of the car. I took the car to the local Ford dealership and they found a canister purge valve stuck open. They fixed it and I paid $414. A",
+          "I am submitting this complaint regarding ongoing transmission and Transmission Control Module (TCM) issues with my 2014 Ford Focus.  In October 2022, the transmission was replaced, yet I continue to e"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 274,
+        "share_pct": 10.3,
+        "excerpts": [
+          "My 2014 Ford Focus with a DPS6 dual-clutch transmission began experiencing severe shuddering and harsh shifting. A Ford dealership confirmed the concern and diagnosed DTC P07A3 — Transmission Friction",
+          "The Transmission Controm Module (TCM) has gone bad on my car. Ford has recalled other cars of the same Make, Model and Year, but they refuse to repair the same problem on mine, because my VIN was not ",
+          "hello my name is [XXX]  and I bought this 2014 Ford focus from a private dealer without being told what was wrong with the car for 4100 dollars and since I have had it it's been giving me problems it "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 227,
+        "share_pct": 8.6,
+        "excerpts": [
+          "The contact owns a 2014 Ford Focus. The contact stated that upon reversing, the rear-view camera displayed a blank screen. The message \"See the Dealer\" was displayed, and the check engine warning ligh",
+          "When I turned on my car the power steering said at fault and normally I could turn it off then turn it back on and it worked but after that time it never turned back on",
+          "I was driving down the road when the car dinged and a yellow light came on the bottom of the dash and it said steering loss please pull over for safety reasons so I pulled over shut the car off waited"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 69,
+      "fires": 10,
+      "injuries": 47,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 39
+      },
+      {
+        "year": 2014,
+        "count": 330
+      },
+      {
+        "year": 2015,
+        "count": 325
+      },
+      {
+        "year": 2016,
+        "count": 288
+      },
+      {
+        "year": 2017,
+        "count": 202
+      },
+      {
+        "year": 2018,
+        "count": 278
+      },
+      {
+        "year": 2019,
+        "count": 414
+      },
+      {
+        "year": 2020,
+        "count": 146
+      },
+      {
+        "year": 2021,
+        "count": 124
+      },
+      {
+        "year": 2022,
+        "count": 164
+      },
+      {
+        "year": 2023,
+        "count": 132
+      },
+      {
+        "year": 2024,
+        "count": 93
+      },
+      {
+        "year": 2025,
+        "count": 87
+      },
+      {
+        "year": 2026,
+        "count": 30
+      }
+    ]
+  },
+  "recalls": {
+    "count": 12,
+    "recalls": [
+      {
+        "campaign_number": "18V735000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012-2018 Ford Focus vehicles with a 2.0L GDI or 2.0L GTDI engine.  The Canister Purge Valve (CPV) may malfunction, possibly causing excessive vacuum in fuel vapor management system.",
+        "report_date": "22/10/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V515000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012 and 2017 Focus vehicles equipped with 2.0L GDI gasoline engines and 2013-2014 Focus ST vehicles equipped with 2.0L GTDI engines, previously recalled under 18V-735.  The affected vehicles did not have the Powertrain Control Module (PCM) updated as i",
+        "report_date": "05/07/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V813000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013 Escape vehicles manufactured January 11, 2012, to April 1, 2013, and 2013-2014 Focus ST vehicles manufactured May 03, 2012, to October 14, 2013.  Insufficient compression in the engine wiring harness splices to the Manifold Absolute Pres",
+        "report_date": "02/12/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V643000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2012-2015 Ford Focus, 2013-2015 Ford Escape and Ford C-MAX, 2015 Lincoln MKC and Ford Mustang, and 2014-2016 Ford Transit Connect vehicles.  A component within the door latches may break, preventing the doors from latching and/or leading the ",
+        "report_date": "06/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V698000",
+        "component": "LATCHES/LOCKS/LINKAGES:HATCHBACK/LIFTGATE:LOCK",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2017 Ford Focus hatchback vehicles manufactured February 14, 2012, to August 26, 2016 and equipped with a manual transmission.  The hatchback of the affected vehicles may be unlatched with a single press of the interior latch release but",
+        "report_date": "28/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V525000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2014 Ford Focus vehicles manufactured May 1, 2014, to May 24, 2014, 2014 Ford Escape vehicles manufactured on June 6, 2014, and 2015 Lincoln MKC vehicles manufactured June 4, 2014, to July 7, 2014.  In the affected vehicles, the Fuel Delivery",
+        "report_date": "02/09/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V495000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2014 Escape vehicles manufactured October 5, 2011, to April 1, 2013, and equipped with 2.0 liter engines and Focus ST vehicles manufactured February 14, 2012, to October 14, 2013, and equipped with 2.0 liter engines.  Insufficient compre",
+        "report_date": "11/08/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V514000",
+        "component": "STEERING",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2014 Focus and C-Max vehicles manufactured August 8, 2014, to August 15, 2014.  The affected vehicles may have steering gears that were incorrectly assembled.",
+        "report_date": "22/08/2014",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V005000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Ford Motor Company (Ford) notified the agency on January 8, 2015, that they are recalling certain model year 2014 Ford Escape vehicles manufactured April 15, 2014, to May 8, 2014, and 2015 Lincoln MKC vehicles manufactured April 21, 2014, to May 15, 2014.  On April 30, 2015, Ford expanded the recall",
+        "report_date": "09/01/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V331000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2014 Fiesta, 2013-2014 Fusion, 2015 Mustang, 2013-2015 Escape and C-Max, 2012-2015 Focus, 2014-2016 Transit Connect, 2013-2014 Lincoln MKZ, and 2015 MKC vehicles.  These vehicles were previously recalled and repaired under recalls 15V-246, 16V-643 ",
+        "report_date": "08/06/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V011000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2018 Focus, 2013-2019 Escape, and 2015-2016 MKC vehicles equipped with a 2.0L engine. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+        "report_date": "15/01/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V369000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:EVAPORATIVE EMISSIONS:CANISTER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012-2018 Focus vehicles previously repaired incorrectly under recall number 18V735. The Canister Purge Valve (CPV) may malfunction, causing the engine to stall unexpectedly while driving.",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:37:14.546Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "2018-nissan-rogue",
+  "year": 2018,
+  "make": "Nissan",
+  "model": "Rogue",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 609,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 253,
+        "share_pct": 41.5,
+        "excerpts": [
+          "The backup camera picture/screen has randomly cut out while backing up putting myself and whatever is behind me at risk for collision. In the section where it asks for the date, it's happens randomly ",
+          "Since I purchased my car in September of 2022, a 2018 Nissan Rogue SL AWD, whenever I drive down to Houston, TX, my AEB symbol (2 cars crashing symbol) flashes. This is consistent with me going to Hou",
+          "Since my purchase of my Rogue 2.5 years ago, it has randomly given a warning and braked out of nowhere. With no cars around, in front or behind, it was alarming. Since purchasing the car, this issue h"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 161,
+        "share_pct": 26.4,
+        "excerpts": [
+          "Engine seems very weak. Not enough power to safely pass on a highway. Absolutely gutless and sometimes upon acceleration and/or braking it jerks.",
+          "The backup camera picture/screen has randomly cut out while backing up putting myself and whatever is behind me at risk for collision. In the section where it asks for the date, it's happens randomly ",
+          "It has happened where I am driving on the highway with big vehicle's are next to me and it will  brake and take me from 65 miles per hour down to 30 mph quickly . I always hope that no one  is in back"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 81,
+        "share_pct": 13.3,
+        "excerpts": [
+          "Driver door will not open from outside or inside vehicle.  Based on research this is an acuator issue that Nissan has known about since 2014 & failed to issue a recall.  I am in the process of costly ",
+          "The A/C does not work on the driver side making it impossible to defrost the windshield.  The passenger side of the windshield defrosted, but not the drivers side making the vehicle impossible to driv",
+          "Driver seat moves back and forth while driving, speed control goes wild while driving, transmission does keep gear nor speed level .. leaking out of motor while the car is turned off after driving for"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 52,
+        "share_pct": 8.5,
+        "excerpts": [
+          "Engine seems very weak. Not enough power to safely pass on a highway. Absolutely gutless and sometimes upon acceleration and/or braking it jerks.",
+          "After driving for awhile it will take a minute once putting foot on the gas for car to take off at a traffic light. Also malfunction error comes up on dashboard and car starts to slow down and try’s t",
+          "The contact owns a 2018 Nissan Rogue. The contact stated while driving 60 MPH on the highway, the vehicle suddenly decelerated to 40 MPH. The contact stated that the vehicle was jumping while accelera"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 34,
+        "share_pct": 5.6,
+        "excerpts": [
+          "The contact owns a 2018 Nissan Rogue. The contact stated while driving 60 MPH on the highway, the vehicle suddenly decelerated to 40 MPH. The contact stated that the vehicle was jumping while accelera",
+          "The car has never been in an accident or flooded. Mechanics have been unable to computer diagnose the problem. Warning lights depend on what is happening at the time. However the rear camera light rem",
+          "The contact owns a 2018  Nissan Rogue. The contact stated that while entering her garage, the vehicle accelerated. The brake pedal was applied but failed to respond.  The contact swerved and crashed i"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 32,
+      "fires": 1,
+      "injuries": 45,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 95
+      },
+      {
+        "year": 2019,
+        "count": 209
+      },
+      {
+        "year": 2020,
+        "count": 80
+      },
+      {
+        "year": 2021,
+        "count": 62
+      },
+      {
+        "year": 2022,
+        "count": 53
+      },
+      {
+        "year": 2023,
+        "count": 58
+      },
+      {
+        "year": 2024,
+        "count": 34
+      },
+      {
+        "year": 2025,
+        "count": 18
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "19V654000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2018-2019 Nissan Altima, Armada, Frontier, Kicks, Leaf, Maxima, Murano, NV, NV200, Pathfinder, Rogue, Rogue Sport, Sentra, Titan, Titan Diesel, Versa Note and Versa Sedan vehicles, as well as Infiniti Q50, Q60, QX30 and QX80 vehicles.  Additio",
+        "report_date": "12/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V839000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:ENGINE CONTROL MODULE (ECU/ECM)",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2017-2019 Rogue Hybrid vehicles.  Contact with the Electronic Control Module (ECM) bracket may damage the engine harness, causing a blown fuse.",
+        "report_date": "26/10/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V093000",
+        "component": "ELECTRICAL SYSTEM:IGNITION:ANTI-THEFT:IMMOBILIZER/PROXIMITY:KEY/SENDER",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2014-2020 Rogue and 2017-2022 Rogue Sport vehicles equipped with a jackknife style ignition key.  The jackknife key may collapse into a folded position while driving.",
+        "report_date": "16/02/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:41:24.464Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

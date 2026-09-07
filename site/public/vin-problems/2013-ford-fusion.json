@@ -1,0 +1,300 @@
+{
+  "slug": "2013-ford-fusion",
+  "year": 2013,
+  "make": "Ford",
+  "model": "Fusion",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1954,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 418,
+        "share_pct": 21.4,
+        "excerpts": [
+          "My power steering failed. There is no pump it's electronic so I can get it replaced without taking it to a dealer. There were 2 recalls for the Power Steering for this make and model, but my VIN numbe",
+          "The steering wheel of my 2013 ford fusion S.E 2.5 Lm was tightly connected to the steering system until now. It has start wobbling over time and the problem have greatly increased as of 05\\31\\2026. I ",
+          "While driving a 2013 Ford Fusion Hybrid Titanium (approximately 157,000 miles), the Electronic Power-Assisted Steering (EPAS) system suddenly failed without warning during heavy rain in Philadelphia, "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 398,
+        "share_pct": 20.4,
+        "excerpts": [
+          "The contact owns a 2013 Ford Fusion. The contact stated that while stopped in a drive-thru, there was an abnormal hissing sound coming from the brake pedal. There was no warning light illuminated. The",
+          "While driving my Ford Fusion, I experienced a serious transmission-related loss of propulsion.  Leading up to the failure, I noticed that the engine RPM would fluctuate considerably and the vehicle ap",
+          "Vehicle blew upper radiator hose due to blown head gasket. Vehicle has trouble starting and releases grey blue smoke via exhaust at all times. Has not been looked at by anyone other than an odot emplo"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 315,
+        "share_pct": 16.1,
+        "excerpts": [
+          "Vehicle makes strange sounds from the fuel fill inlet and proceeds to stall shortly after while driving and most of the times fails to restart based on my own research it looks like purge valve issues",
+          "Vehicle transmission shifts harshly from 2nd to 3rd gear and occasionally from 1st to 2nd gear  I believe it’s a safety issue because it causes slower acceleration and jerkiness which causes vehicle i",
+          "The contact owns a 2013 Ford Fusion. The contact stated that while driving at an undisclosed speed, the vehicle failed to respond normally while depressing the brake pedal. Several unknown warning lig"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 189,
+        "share_pct": 9.7,
+        "excerpts": [
+          "My  2013 Ford Fusion equipped with the 1.6L EcoBoost engine started blowing thick white smoke  (Burning Coolant) while I was driving on the freeway. Engine coolant was leaking and my card died right t",
+          "“Temporary loss service climate system ford fusion 2013”  Ac turns on and off windows lock up when ac turns off. everything freezes up!   I see online this should be a recall a lot of ford owners havi",
+          "See attached document for complaint."
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 179,
+        "share_pct": 9.2,
+        "excerpts": [
+          "I own a 2013 Ford Fusion SE with a 1.6L EcoBoost engine. Prior to the incident, the vehicle displayed a “Check Charging System” warning and the engine overheated. After parking the vehicle and shuttin",
+          "Two recalls for this make year and model car had been recalled previously but not for my VIN specifically and the issues are appearing. The first is “doors may open driving” recall on your website and",
+          "The trunk randomly opens. Sitting in our driveway, going down the highway which does obscure the rear view mirror. It’s happened many times and I haven’t been able to duplicate"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 65,
+      "fires": 94,
+      "injuries": 55,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2007,
+        "count": 2
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 12
+      },
+      {
+        "year": 2013,
+        "count": 69
+      },
+      {
+        "year": 2014,
+        "count": 119
+      },
+      {
+        "year": 2015,
+        "count": 123
+      },
+      {
+        "year": 2016,
+        "count": 208
+      },
+      {
+        "year": 2017,
+        "count": 250
+      },
+      {
+        "year": 2018,
+        "count": 301
+      },
+      {
+        "year": 2019,
+        "count": 263
+      },
+      {
+        "year": 2020,
+        "count": 155
+      },
+      {
+        "year": 2021,
+        "count": 99
+      },
+      {
+        "year": 2022,
+        "count": 109
+      },
+      {
+        "year": 2023,
+        "count": 95
+      },
+      {
+        "year": 2024,
+        "count": 78
+      },
+      {
+        "year": 2025,
+        "count": 40
+      },
+      {
+        "year": 2026,
+        "count": 30
+      }
+    ]
+  },
+  "recalls": {
+    "count": 19,
+    "recalls": [
+      {
+        "campaign_number": "19V632000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2016 Ford Fusion and Lincoln MKZ, 2015-2016 Ford Edge, and 2016 Lincoln MKX vehicles originally sold, or currently registered in Connecticut, Delaware, the District of Columbia, Illinois, Indiana, Iowa, Maine, Maryland, Massachusetts, Michigan, Min",
+        "report_date": "29/08/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V471000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:LEVER AND LINKAGE:FLOOR SHIFT",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2014 Ford Escape, and 2013-2016 Ford Fusion vehicles, equipped with six-speed automatic transmissions.  The bushing that attaches the transmission shifter cable to the transmission may degrade over time and cause the bushing to detach from the tran",
+        "report_date": "16/07/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V362000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:LEVER AND LINKAGE:FLOOR SHIFT",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2016 Fusion vehicles equipped with 2.5 liter engines.  The bushing that attaches the transmission shifter cable to the transmission may degrade over time and cause the bushing to detach from the transmission.  The condition could allow the driver t",
+        "report_date": "13/05/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V875000",
+        "component": "SEAT BELTS:FRONT",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2016 Ford Fusion vehicles manufactured November 2, 2012, to July 31, 2014, and 2013-2015 Lincoln MKZ vehicles manufactured November 14, 2012, to July 31, 2014.  In the event of a crash, heat from the deployment of a seat belt pretensione",
+        "report_date": "05/12/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V169000",
+        "component": "POWER TRAIN:MANUAL TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2014 Ford Fusion vehicles equipped with a 1.6L GTDI engine and 6-speed manual transmission and 2015-2016 Ford Focus vehicles equipped with a 1.0L GTDI engine and 6-speed manual transmission.  Also included are four 2017 Ford Focus vehicles that had",
+        "report_date": "12/03/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V210000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2014 Ford Fiesta, 2013-2014 Ford Fusion and 2013-2014 Lincoln MKZ vehicles.  A component within the door latches may break making the doors difficult to latch and/or leading the driver or a passenger to believe a door is securely closed when, in fact, i",
+        "report_date": "27/03/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V209000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2014 Escape, 2014-2015 Fiesta ST, 2013-2014 Fusion and 2013-2015 Transit Connect vehicles equipped with 1.6L GTDI engines.  If the vehicle is started and driven with an insufficient level of coolant within the engine cooling system, the engine cylinder ",
+        "report_date": "27/03/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V597000",
+        "component": "AIR BAGS",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2014 Ford C-Max vehicles manufactured January 19, 2012, to November 21, 2013; Ford Fusion vehicles manufactured February 3, 2012, to August 24, 2013; Ford Escape vehicles manufactured October 5, 2011, to November 1, 2013; and Lincoln MKZ",
+        "report_date": "26/09/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V250000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2015 Ford Fusion and Lincoln MKZ vehicles manufactured February 3, 2012, to March 20, 2015, and 2015 Ford Edge vehicles manufactured February 26, 2015, to February 28, 2015, and originally sold, or currently registered in, Connecticut, D",
+        "report_date": "28/04/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V246000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Ford Motor Company (Ford) notified the agency on April 23, 2015, that they are recalling certain model year 2013-2014 Ford Fusion and Lincoln MKZ vehicles manufactured July 1, 2012, to May 31, 2013, and 2012-2014 Fiesta vehicles manufactured February 1, 2012, to May 31, 2013.  On April 30, 2015, For",
+        "report_date": "24/04/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V164000",
+        "component": "SEATS:FRONT ASSEMBLY:RECLINER",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2014 Ford Fusion and Lincoln MKZ vehicles manufactured August 15, 2012, through September 10, 2013, 2013-2014 Ford Escape vehicles manufactured June 5, 2012, through August 12, 2013, and 2013-2014 Ford C-Max vehicles manufactured from Ju",
+        "report_date": "02/04/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V553000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Ford is recalling certain model year 2013 Fusion vehicles, manufactured from February 3, 2012, through October 20, 2012, for failing to conform to the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 108, \"Lamps, Reflective Devices, and Associated Equipment.\"  The affected vehicl",
+        "report_date": "30/11/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V551000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "This is an update to a recently announced recall.  Ford is recalling certain model year 2013 Escape vehicles manufactured from October 5, 2011, through November 26, 2012, equipped with 1.6L engines, as well as certain model year 2013 Fusion vehicles manufactured from February 3, 2012, through Novemb",
+        "report_date": "03/12/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V232000",
+        "component": "STEERING",
+        "summary": "Ford is recalling certain model year 2013 Fusion vehicles manufactured April 19, 2013, through April 23, 2013.  The steering gears may be missing an internal retaining clip.  If the clip is missing, components inside the steering gear may become dislodged inside the gear assembly.",
+        "report_date": "31/05/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V227000",
+        "component": "FUEL SYSTEM, GASOLINE",
+        "summary": "Ford is recalling certain model year 2013 Explorer, Taurus, Flex, Fusion, Police Interceptor Sedan and Police Interceptor Utility vehicles; and certain model year 2013 Lincoln MKS, MKT, and MKZ vehicles.  In the affected vehicles, the fuel delivery module may develop a crack, allowing fuel to leak.",
+        "report_date": "31/05/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V331000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2014 Fiesta, 2013-2014 Fusion, 2015 Mustang, 2013-2015 Escape and C-Max, 2012-2015 Focus, 2014-2016 Transit Connect, 2013-2014 Lincoln MKZ, and 2015 MKC vehicles.  These vehicles were previously recalled and repaired under recalls 15V-246, 16V-643 ",
+        "report_date": "08/06/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V413000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2019 Escape, 2013-2018 C-Max, 2013-2016 Fusion, 2013-2021 Transit Connect, and  2015-2018 Edge vehicles.  The bushing that attaches the shifter cable to the transmission may degrade or detach.",
+        "report_date": "10/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V162000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2018 Fusion and Lincoln MKZ vehicles.  The front brake hoses may rupture and leak brake fluid.",
+        "report_date": "10/03/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V376000",
+        "component": "POWER TRAIN:MANUAL TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2018 Focus and 2013-2016 Fusion vehicles previously repaired incorrectly under recall numbers 18V169 and 18V845. The clutch may fracture, resulting in damage to the transmission assembly and possibly a transmission fluid leak.",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:35:52.563Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

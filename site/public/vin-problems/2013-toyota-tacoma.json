@@ -1,0 +1,192 @@
+{
+  "slug": "2013-toyota-tacoma",
+  "year": 2013,
+  "make": "Toyota",
+  "model": "Tacoma",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 124,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 22,
+        "share_pct": 17.7,
+        "excerpts": [
+          "The contact owns a 2013 Toyota Tacoma. The contact stated that the unoccupied vehicle was parked on a slightly inclined driveway. The contact later noticed that the vehicle had rolled across the stree",
+          "TL* THE CONTACT OWNS A 2013 TOYOTA TACOMA. THE CONTACT STATED HE RECEIVED AN UNKNOWN RECALL LETTER FOR THE CHASSIS, WHERE IT WAS COMPLETED AT LOCAL DEALER ANTWERPEN TOYOTA (12420 AUTO DR, CLARKSVILLE,",
+          "TL* THE CONTACT OWNS A 2013 TOYOTA TACOMA. THE CONTACT STATED THAT WHILE ATTEMPTING TO MOVE FROM A STOP, THE VEHICLE FAILED TO RESPOND. THE CONTACT STATED THAT INTERMITTENTLY THE VEHICLE FAILED TO ACC"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 18,
+        "share_pct": 14.5,
+        "excerpts": [
+          "The power brake booster failed while driving with my [XXX]  and [XXX]  old. Fortunately I was in a school zone with no traffic. This particular part is known to fail with Toyota's (recalled on a few m",
+          "The contact owns a 2013 Toyota Tacoma. The contact stated that the ABS activated at approximately 35 MPH while making a turn. There were no warning lights illuminated. The local dealer was not contact",
+          "REPORTING PROBLEMS WITH MY 2013 TOYOTA TACOMA VIN [XXX]:  ALTHOUGH THE VEHICLE HAS BEEN VERY RELIABLE OTHERWISE, THERE ARE THREE SIGNIFICANT PROBLEMS I HAVE HAD WITH MY VEHICLE:  1. THE VEHICLE CAN EX"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 14,
+        "share_pct": 11.3,
+        "excerpts": [
+          "2013 Toyota Tacoma rear leaf spring is broken in half 3 leaf set up exactly like the recall up to 2011. Why didn’t the recall go up to 2013. Truck would bottom out easily for years on bumpy back roads",
+          "The rear leaf springs are rusted and corroded, and make a noise when I drive the vehicle.",
+          "REAR LEAF SPRING BROKE"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 13,
+        "share_pct": 10.5,
+        "excerpts": [
+          "my lower [ntermediate steering shaft has to be replaced  repair is pending   the u joint was so rusted steering was very difficult      i noticed that the vehicle   steering wheel would not return to ",
+          "This issue has been ongoing. Taken into local Toyota dealer and was told they needed to replace entire rack and pinion at a cost of nearly $1500. Three days after picking up it is doing same thing. Wh",
+          "STEERING SUDDENLY BECAME EXTREMELY STIFF WHEN MAKING A LEFT OR RIGHT TURN.  BROUGHT TO MECHANIC AND CONFIRMED THE LOWER INTERMEDIATE STEERING SHAFT WAS BADLY RUSTED AND NEEDED TO BE REPLACED"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 13,
+        "share_pct": 10.5,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2013 TOYOTA TACOMA. THE CONTACT STATED WHILE DRIVING AT VARIOUS SPEEDS, THE SPEEDOMETER AND THE FUEL GAUGE STOPPED WORKING. THE CONTACT ALSO STATED THAT AFTER REPLACING THE BATT",
+          "TL* THE CONTACT OWNS A 2013 TOYOTA TACOMA. WHILE DRIVING 40-45 MPH THE HEATER/ AIR CONDITIONER UNIT BECAME INOPERABLE AS SMOKE WAS ENTERED THE VEHICLE THROUGH THE VENTS. THE CONTACT NOTICED THE WIRES ",
+          "ON AUGUST 17, 2019, I HAD BEEN STOPPED AT A DRIVE THROUGH FAST FOOD RESTAURANT WHEN I HEARD A HISSING SOUND AND WHAT LOOKED LIKE STEAM COMING FROM THE REAR UNDERCARRIAGE OF MY TRUCK.  IT WAS NOTICEABL"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 11,
+      "fires": 6,
+      "injuries": 8,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 2
+      },
+      {
+        "year": 2013,
+        "count": 27
+      },
+      {
+        "year": 2014,
+        "count": 11
+      },
+      {
+        "year": 2015,
+        "count": 16
+      },
+      {
+        "year": 2016,
+        "count": 9
+      },
+      {
+        "year": 2017,
+        "count": 7
+      },
+      {
+        "year": 2018,
+        "count": 11
+      },
+      {
+        "year": 2019,
+        "count": 11
+      },
+      {
+        "year": 2020,
+        "count": 8
+      },
+      {
+        "year": 2021,
+        "count": 6
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "17V425000",
+        "component": "STRUCTURE:BODY:HOOD:HINGE AND ATTACHMENTS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2011-2016 Toyota Tacoma and 4Runner vehicles equipped with accessory hood scoops installed by SET or SET dealers.  The adhesive attaching the hood scoop may weaken, allowing the hood scoop to detach from the vehicle.",
+        "report_date": "03/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V054000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Toyota is recalling certain model year 2012 and 2013 Toyota Tacoma and Lexus RX350 vehicles and certain model year 2012 Toyota Rav4 vehicles.  In the affected vehicles, the brake system contains a brake actuator that adjusts the fluid pressure of each wheel cylinder.  An electrical component within ",
+        "report_date": "12/02/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V475000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2008-2014 FJ Cruiser and Tacoma vehicles equipped with accessory wheels and tires installed by Toyota or dealers prior to the vehicle's first sale.  The affected vehicles may list incorrect spare tire size and/or cold ",
+        "report_date": "04/08/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V557000",
+        "component": "ENGINE",
+        "summary": "Toyota Motor Engineering & Manufacturing North America (Toyota) is recalling certain model year 2013-2014 Tacoma vehicles manufactured July 1, 2013, through October 11, 2013.  The engines of the affected vehicles contain valve springs that may break over time.",
+        "report_date": "07/11/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V494000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2012-2013 Tacoma vehicles equipped with 18\" Maverick Alloy Wheels.  In the affected vehicles, the spare tire requires the use of a different style of lug nut to attach it to the vehicle than the other wheels use.  These lug nut",
+        "report_date": "17/10/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V123000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota is recalling certain model year 2008 and 2010-2013 Toyota Tundra, 2010-2012 Rav4, 2012 Toyota Sequoia, 2010-2011 Toyota Corolla, 2010-2011 Toyota Camry and Camry Hybrid, 2010-2013 Toyota Highlander and Highlander Hybrid, 2010-2013 Toyota FJ Cruiser, 2011 Toyota Land Cruiser, 2010-20",
+        "report_date": "09/04/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:35:18.716Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,280 @@
+{
+  "slug": "2017-chevrolet-silverado",
+  "year": 2017,
+  "make": "Chevrolet",
+  "model": "Silverado",
+  "matched_as": {
+    "complaints": [
+      "SILVERADO 1500",
+      "SILVERADO 2500",
+      "SILVERADO 3500"
+    ],
+    "recalls": [
+      "SILVERADO 1500",
+      "SILVERADO 2500",
+      "SILVERADO 3500"
+    ]
+  },
+  "failures": {
+    "total_complaints": 1153,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 301,
+        "share_pct": 26.1,
+        "excerpts": [
+          "NHTSA Safety Complaint  To: National Highway Traffic Safety Administration (NHTSA) Regarding: Vehicle Safety Hazard / Fraudulent Repairs on 2017 Chevrolet Silverado  VIN: [XXX]  To Whom It May Concern",
+          "Vehicle would not shift through gears while driving. Torque converter shudder. Dealer found excessive metal in trans pan. Had to replace transmission. Vehicle had 107, 000 miles. Almost $5700 to repla",
+          "The contact owns a 2017 Chevrolet Silverado 1500. The contact stated that while driving 60 MPH and depressing the accelerator pedal, the vehicle failed to respond as intended and the vehicle lost powe"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 290,
+        "share_pct": 25.2,
+        "excerpts": [
+          "Interstate driving when I was required to brake quickly. Truck aggressively pulled to the right nearly colliding with another vehicle. There was a recall out for the very same thing on later model Z71",
+          "The contact owns a 2017 Chevrolet Silverado 1500. The contact stated that while driving at an undisclosed speed, the brake pedal was depressed and went to the floorboard. The vehicle failed to stop im",
+          "There is an open recall but my truck is not listed. I was driving around today and my front brakes are not fully releasing. Brakes are hot and do not feel comfortable driving with this issue.Call my l"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 176,
+        "share_pct": 15.3,
+        "excerpts": [
+          "Driving home on the interstate my truck started making a knocking sound and the vehicle would shake over 45 miles an hour. We took to a dealer that said the lifters were bad, and potentially caused da",
+          "NHTSA Safety Complaint  To: National Highway Traffic Safety Administration (NHTSA) Regarding: Vehicle Safety Hazard / Fraudulent Repairs on 2017 Chevrolet Silverado  VIN: [XXX]  To Whom It May Concern",
+          "The vehicle has experienced persistent engine performance issues that have not been resolved through standard repairs. Initial diagnostics indicated knock sensor faults, which were replaced at signifi"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 168,
+        "share_pct": 14.6,
+        "excerpts": [
+          "NHTSA Safety Complaint  To: National Highway Traffic Safety Administration (NHTSA) Regarding: Vehicle Safety Hazard / Fraudulent Repairs on 2017 Chevrolet Silverado  VIN: [XXX]  To Whom It May Concern",
+          "Transmission issues that I have reported since 2 months into owning it.  Anti-lock brake issues or braking issues where brake pedal is stiff but not stopping vehicle.  Front grill shutter issues  Temp",
+          "Odometer Fraud. The contact purchased a 2017 Chevrolet Silverado 1500 on January 16, 2026. The contact stated that while an independent mechanic was attempting to repair the engine, it was discovered "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 86,
+        "share_pct": 7.5,
+        "excerpts": [
+          "When driving all gauges go to zero, truck doesn’t illuminate which gear it’s in, warning lights come on (service 4WD, service stabilitrak, service traction control, reduced power steering, service tra",
+          "Issue is based off of this service bulletin, but GM has failed to call a recall on this for coverage. I was driving my daughter to softball practice. Every few minutes there would be a \"stabilitrak\" m",
+          "The contact owns a 2017 Chevrolet Silverado 1500. The contact stated that while operating the vehicle, the message \"Service Power Steering\" was displayed, and the steering wheel was difficult to turn "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 77,
+      "fires": 26,
+      "injuries": 30,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 3
+      },
+      {
+        "year": 2016,
+        "count": 4
+      },
+      {
+        "year": 2017,
+        "count": 130
+      },
+      {
+        "year": 2018,
+        "count": 120
+      },
+      {
+        "year": 2019,
+        "count": 235
+      },
+      {
+        "year": 2020,
+        "count": 133
+      },
+      {
+        "year": 2021,
+        "count": 104
+      },
+      {
+        "year": 2022,
+        "count": 102
+      },
+      {
+        "year": 2023,
+        "count": 119
+      },
+      {
+        "year": 2024,
+        "count": 98
+      },
+      {
+        "year": 2025,
+        "count": 77
+      },
+      {
+        "year": 2026,
+        "count": 25
+      }
+    ]
+  },
+  "recalls": {
+    "count": 17,
+    "recalls": [
+      {
+        "campaign_number": "19V645000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2017 Cadillac Escalade, 2014-2018 Chevrolet Silverado, GMC Sierra, 2015-2018 Chevrolet Suburban, Tahoe, GMC Yukon vehicles.  The amount of vacuum created by the vacuum pump may decrease over time.",
+        "report_date": "06/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V761000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is tra",
+        "report_date": "24/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V651000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015-2017 Chevrolet Silverado 2500 HD, 3500 HD, Tahoe, Suburban,  GMC Sierra 2500 HD and 3500 HD, GMC Yukon, GMC Yukon XL, Cadillac Escalade and Cadillac Escalade ESV vehicles and 2014-2017 Chevrolet Corvette, Silverado 1500, Trax, Caprice Poli",
+        "report_date": "08/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V487000",
+        "component": "CHILD SEAT:TETHER: CONNECTOR/CLIP",
+        "summary": "General Motors LLC (GM) is recalling certain 2017 Chevrolet Silverado 1500, and GMC Sierra 1500 trucks.  The owner's manual for the affected vehicles may be missing instructions on how to use the tether anchorage and child restraint anchorage systems.  As such, these vehicles fail to comply with the",
+        "report_date": "03/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V256000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016-2017 Chevrolet Silverado 1500 and 2016 Cadillac Escalade, Cadillac Escalade ESV, Chevrolet Suburban, Chevrolet Tahoe, GMC Sierra, GMC Yukon and GMC Yukon XL vehicles.  The front upper control arms may have inadequate welds near the control",
+        "report_date": "28/04/2016",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V437000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2016 Buick Lacrosse and Chevrolet Spark EV, Caprice PPV and SS vehicles, 2014-2017 Buick Encore and Chevrolet Corvette, Silverado 1500 and GMC Sierra 1500 vehicles, 2015-2016 Cadillac Escalade and Escalade ESV, Chevrolet Tahoe, Trax, Subur",
+        "report_date": "10/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V567000",
+        "component": "SEAT BELTS:FRONT:RETRACTOR",
+        "summary": "General Motors (GM) is recalling certain 2017-2018 Chevrolet Silverado 2500 and 3500 and GMC Sierra 2500 and 3500 trucks.  The front seat belt retractor assemblies were built with the incorrect torsion bar.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety",
+        "report_date": "14/09/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V328000",
+        "component": "ENGINE",
+        "summary": "General Motors LLC (GM) is recalling certain 2019 Chevrolet Silverado 4500, 5500 and 6500 vehicles and 2017-2019 Chevrolet Silverado 2500 and 3500 vehicles and GMC Sierra 2500 and 3500 vehicles equipped with Duramax 6.6 liter diesel engines and an optional engine-block heater.  The engine block heat",
+        "report_date": "25/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V651000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015-2017 Chevrolet Silverado 2500 HD, 3500 HD, Tahoe, Suburban,  GMC Sierra 2500 HD and 3500 HD, GMC Yukon, GMC Yukon XL, Cadillac Escalade and Cadillac Escalade ESV vehicles and 2014-2017 Chevrolet Corvette, Silverado 1500, Trax, Caprice Poli",
+        "report_date": "08/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V496000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "General Motors, LLC (GM) is recalling certain 2017-2019 Chevrolet Silverado 2500, 3500 and 2017-2019 GMC Sierra 2500 and 3500 vehicles equipped with a Duramax diesel 6.6 liter engine and an optional engine-block heater cord.  An electrical short-circuit may occur in the engine-block heater cable or ",
+        "report_date": "01/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V047000",
+        "component": "FUEL SYSTEM, DIESEL:STORAGE:TANK ASSEMBLY",
+        "summary": "General Motors, LLC (GM) is recalling certain 2017-2019 Chevrolet Silverado 2500, 3500, and GMC Sierra 2500, 3500 vehicles equipped with a dual fuel tank option.  The rear fuel tank may collapse and prevent the fuel pump from transferring fuel to the front tank, resulting in an engine stall.",
+        "report_date": "02/02/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V567000",
+        "component": "SEAT BELTS:FRONT:RETRACTOR",
+        "summary": "General Motors (GM) is recalling certain 2017-2018 Chevrolet Silverado 2500 and 3500 and GMC Sierra 2500 and 3500 trucks.  The front seat belt retractor assemblies were built with the incorrect torsion bar.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety",
+        "report_date": "14/09/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V328000",
+        "component": "ENGINE",
+        "summary": "General Motors LLC (GM) is recalling certain 2019 Chevrolet Silverado 4500, 5500 and 6500 vehicles and 2017-2019 Chevrolet Silverado 2500 and 3500 vehicles and GMC Sierra 2500 and 3500 vehicles equipped with Duramax 6.6 liter diesel engines and an optional engine-block heater.  The engine block heat",
+        "report_date": "25/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V088000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "General Motors, LLC (GM) is recalling certain 2016-2018 GMC Sierra 3500 and Chevrolet Silverado 3500 trucks equipped with gasoline engines and dual fuel tanks.  The fuel-level sensor in the front tank may stick in a low-level position, allowing the rear tank to overfill the front tank.",
+        "report_date": "07/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V651000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015-2017 Chevrolet Silverado 2500 HD, 3500 HD, Tahoe, Suburban,  GMC Sierra 2500 HD and 3500 HD, GMC Yukon, GMC Yukon XL, Cadillac Escalade and Cadillac Escalade ESV vehicles and 2014-2017 Chevrolet Corvette, Silverado 1500, Trax, Caprice Poli",
+        "report_date": "08/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V496000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "General Motors, LLC (GM) is recalling certain 2017-2019 Chevrolet Silverado 2500, 3500 and 2017-2019 GMC Sierra 2500 and 3500 vehicles equipped with a Duramax diesel 6.6 liter engine and an optional engine-block heater cord.  An electrical short-circuit may occur in the engine-block heater cable or ",
+        "report_date": "01/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V047000",
+        "component": "FUEL SYSTEM, DIESEL:STORAGE:TANK ASSEMBLY",
+        "summary": "General Motors, LLC (GM) is recalling certain 2017-2019 Chevrolet Silverado 2500, 3500, and GMC Sierra 2500, 3500 vehicles equipped with a dual fuel tank option.  The rear fuel tank may collapse and prevent the fuel pump from transferring fuel to the front tank, resulting in an engine stall.",
+        "report_date": "02/02/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:40:10.183Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "2018-toyota-corolla",
+  "year": 2018,
+  "make": "Toyota",
+  "model": "Corolla",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 133,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 35,
+        "share_pct": 26.3,
+        "excerpts": [
+          "On October 17, 2025, a 2018 Toyota Corolla LE was delivered to an authorized Toyota dealership for an airbag recall repair. The recall involved the airbag electronic control unit (ECU), which, accordi",
+          "A car was going to hit my car, I went to hit the horn and the horn doesn't work a few days later a airbag light went on. Went to the dealership and they said it's a know malfunction in toyota corolla.",
+          "My brother was driving his car and it was involved in a hard right front impact yesterday after a young girl pulled out in front of him. None of the airbags went off, severe front end damage on the ri"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 23,
+        "share_pct": 17.3,
+        "excerpts": [
+          "Due to recent reports of fuel pump recalls, my daughter bought a 2018 Toyota Corolla almost a year ago. Right now that is problem and her car will not start. I need a free replacement of her fuel pump",
+          "After having no indication of any issue, my 2018 Toyota Corolla has stopped re-starting after fueling. The only light that appeared was regarding my battery. My battery is brand new and tested.",
+          "My 2018 Toyota Corolla has ongoing fuel pump-related issues that mirror those in the official recall, yet my VIN is not included. Every time I refuel, my car shuts off and will not restart for 1–2 hou"
+        ]
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "complaints": 15,
+        "share_pct": 11.3,
+        "excerpts": [
+          "The contact owns a 2018 Toyota Corolla. The contact stated while attempting to start the vehicle, or upon approaching a stop, the engine sounded very weak, almost as if the vehicle would shut off. The",
+          "The contact owns a 2018 Toyota Corolla. The contact stated while driving 60 MPH, the vehicle shut off unexpectedly on several occasions. The check engine warning light was illuminated. The contact sta",
+          "The contact owns a 2018 Toyota Corolla. The contact stated that while driving at various speeds, the brake warning and the master warning lights illuminated intermittently. The vehicle was taken to an"
+        ]
+      },
+      {
+        "component": "GASOLINE",
+        "complaints": 15,
+        "share_pct": 11.3,
+        "excerpts": [
+          "The contact owns a 2018 Toyota Corolla. The contact stated while attempting to start the vehicle, or upon approaching a stop, the engine sounded very weak, almost as if the vehicle would shut off. The",
+          "The contact owns a 2018 Toyota Corolla. The contact stated while driving 60 MPH, the vehicle shut off unexpectedly on several occasions. The check engine warning light was illuminated. The contact sta",
+          "The contact owns a 2018 Toyota Corolla. The contact stated that while driving at various speeds, the brake warning and the master warning lights illuminated intermittently. The vehicle was taken to an"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 15,
+        "share_pct": 11.3,
+        "excerpts": [
+          "The contact owns a 2018 Toyota Corolla. The contact stated while driving 60 MPH, the vehicle shut off unexpectedly on several occasions. The check engine warning light was illuminated. The contact sta",
+          "I was driving down the highway and I heard a tapping noise thought it might have been a piece of trim loose on the car so I pulled over and stopped. Immediately the engine died would not restart. I lo",
+          "corolla 2018, has 90k miles, reently, (3rd time already). driving o freeway car reduced speed, and wont go over 40mph, although rpm goes high all the way to 4,000. had to stop aside  waitied 3 hours t"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 25,
+      "fires": 5,
+      "injuries": 17,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 3
+      },
+      {
+        "year": 2018,
+        "count": 21
+      },
+      {
+        "year": 2019,
+        "count": 26
+      },
+      {
+        "year": 2020,
+        "count": 37
+      },
+      {
+        "year": 2021,
+        "count": 7
+      },
+      {
+        "year": 2022,
+        "count": 13
+      },
+      {
+        "year": 2023,
+        "count": 9
+      },
+      {
+        "year": 2024,
+        "count": 8
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "19V503000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2017-2019 Toyota Camry, Corolla, Rav4, Sienna, and Yaris iA vehicles equipped with factory-installed floor mats.  The load carrying capacity modification label may be incorrect.  As such, these vehicles fail to comply with the requirement",
+        "report_date": "28/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V024000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing  (Toyota) is recalling certain 2011-2019 Corolla, 2011-2013 Matrix, 2012-2018 Avalon, and 2013-2018 Avalon Hybrid vehicles.  During certain crashes, the air bag electronic control unit (ECU) may malfunction, possibly disabling the deployment of the air bags a",
+        "report_date": "17/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V012000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) recalled certain 2018-2019 4Runner, Highlander, Camry, Land Cruiser, Sequoia, Sienna, Tacoma and Tundra, and Lexus RC 300, RC 350, GS 350, GX 460, IS 300, LC 500, LS 500, LX 570, RX 350L, and 2019 Toyota Avalon and Corolla, and certain Lexus NX 300, ",
+        "report_date": "13/01/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:41:03.882Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

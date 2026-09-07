@@ -1,0 +1,168 @@
+{
+  "slug": "2018-honda-cr-v",
+  "year": 2018,
+  "make": "Honda",
+  "model": "CR-V",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 2128,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 525,
+        "share_pct": 24.7,
+        "excerpts": [
+          "Car abruptly lost power while driving.   I was barely able to pull over to the side and park the car in lot that happened to be next to where I was driving.  The car was towed to a award-winning servi",
+          "Head Gasket failure due to coolant interference in engine",
+          "Vehicles began starting very rough. Had spark plugs and coils. Replaced still continued to have issues with rough starting. Got an engine overheating message and the thermostat begin reading hot cold "
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 391,
+        "share_pct": 18.4,
+        "excerpts": [
+          "I took my Honda in to a dealership for a trade-in value assessment. The dealership used automatic start with my key fob. Once they got in, they began to drive it in immediately it would not go past 10",
+          "I was driving 35 mph and my car automatically braked suddenly despite no object in the road. Afterwards I checked the front of my vehicle and there was no obvious dirt/bugs/etc on the front radar or c",
+          "Second time in the last two months, while traveling on a 55mph roadway, vehicle started auto braking with no vehicles ahead of me or any obstacles.  Scared the daylights out of me, I cant imagine what"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 367,
+        "share_pct": 17.2,
+        "excerpts": [
+          "[XXX]  It's security risk, Honda customer service not taking any ownership. Anything happens to my family who is going to take responsibility. Please open case against and help all customers who owns ",
+          "Every warning light possible randomly came on a few months ago. The lights stay on for about a week, then go off for about two weeks. Took to Honda, first time they said nothing was wrong and preforme",
+          "Before the recall repairs, I did not experience any loss of acceleration, hesitation, jerking, or flashing warning lights. These symptoms began only after the recall service was completed.  1. What co"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 320,
+        "share_pct": 15,
+        "excerpts": [
+          "This car has the same Steering Rack sticking problem for this Model and year that there is a recall for but the VIN for this car is not included in the recall.  The problem has been confirmed by a Hon",
+          "The steering on my 2018 Honda CR-V intermittently sticks around the center position. When making small steering corrections, the steering wheel does not move smoothly and requires additional force to ",
+          "I am writing to report a severe, premature safety defect in the steering system of my 2018 Honda CR-V.While attempting to turn the vehicle,I noticed an audible grinding sound accompanied by a distinct"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 278,
+        "share_pct": 13.1,
+        "excerpts": [
+          "[XXX]  It's security risk, Honda customer service not taking any ownership. Anything happens to my family who is going to take responsibility. Please open case against and help all customers who owns ",
+          "The contact owns a 2018 Honda CR-V. The contact stated that while driving 35 MPH, the vehicle lost automotive power and jolted to a complete stop. The vehicle independently restarted. There was no war",
+          "Before the recall repairs, I did not experience any loss of acceleration, hesitation, jerking, or flashing warning lights. These symptoms began only after the recall service was completed.  1. What co"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 46,
+      "fires": 2,
+      "injuries": 47,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 4
+      },
+      {
+        "year": 2015,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 11
+      },
+      {
+        "year": 2018,
+        "count": 351
+      },
+      {
+        "year": 2019,
+        "count": 287
+      },
+      {
+        "year": 2020,
+        "count": 100
+      },
+      {
+        "year": 2021,
+        "count": 136
+      },
+      {
+        "year": 2022,
+        "count": 239
+      },
+      {
+        "year": 2023,
+        "count": 267
+      },
+      {
+        "year": 2024,
+        "count": 369
+      },
+      {
+        "year": 2025,
+        "count": 218
+      },
+      {
+        "year": 2026,
+        "count": 145
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "21V215000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2020 Acura MDX, MDX Sport Hybrid, RDX, TLX, Honda Accord, Civic Hatchback, Insight, 2019 Acura ILX, Honda Accord Hybrid, Civic Coupe, Civic Coupe Si, Civic Sedan, Civic Sedan Si, Civic Type R, Fit, HR-V, Odyssey, Passport, Pilot and Ridgelin",
+        "report_date": "25/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V663000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017-2018 Honda Civic and CR-V vehicles.  The magnet that controls the\r\ntorque sensor output signal for the electronic power steering system may not be properly secured, allowing the magnet to become dislodged.  During a full lock turn, the dislo",
+        "report_date": "27/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V158000",
+        "component": "SEAT BELTS:FRONT:BUCKLE ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017-2020 CR-V, 2018-2019 Accord and Accord Hybrid, 2018-2020 Odyssey, 2019 Insight, and 2019-2020 Acura RDX vehicles.  A manufacturing issue with the front seat belts may cause the seat belt buckle channel to interfere with the release button, p",
+        "report_date": "09/03/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:41:09.955Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

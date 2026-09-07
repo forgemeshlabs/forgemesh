@@ -1,0 +1,308 @@
+{
+  "slug": "2020-ford-escape",
+  "year": 2020,
+  "make": "Ford",
+  "model": "Escape",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1519,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 605,
+        "share_pct": 39.8,
+        "excerpts": [
+          "The contact owns a 2020 Ford Escape. The contact stated that after the dealer performed an unknown recall repair on the front driver’s side door, the failure occurred. The contact stated that the fron",
+          "The contact owns a 2020 Ford Escape. The contact stated that while the vehicle was parked, the hatch was automatically raised to place groceries inside the vehicle; however, the hatch unexpectedly low",
+          "LIFTGATE APPEARS TO HAVE BEEN REMOVED AND REPLACED.  THERE IS A GAP DIFFERENCE FROM THE LEFT REAR TO THE RIGHT REAR ON LIFTGATE. THERE IS ALSO RUST APPEARING ON THE BOLTS. CONDENSATION TUBE HAS DETACH"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 236,
+        "share_pct": 15.5,
+        "excerpts": [
+          "The contact owns a 2020 Ford Escape. The contact stated while driving at an undisclosed speed, the message that the door was unlocked was displayed. The vehicle was taken to a dealer, and the contact ",
+          "The contact owns a 2020 Ford Escape. The contact stated that upon shifting into drive(D), the vehicle jerked significantly. The contact continued to drive the vehicle despite the failure, which intens",
+          "I have a 2020 Ford escape all-wheel-drive, it only has 42,000 miles on it, and I had to have the differential replaced."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 154,
+        "share_pct": 10.1,
+        "excerpts": [
+          "On 8th of June 2026, exiting I35W onto Convery Dr. I notice my dash gauges failed in proving any information. I immediately pulled over turned off the vehicle and turn it on. Gauges did not work, but ",
+          "The contact owns a 2020 Ford Escape. The contact received notifications of NHTSA Campaign Numbers: 25V467000 (Fuel System, Gasoline) and 26V123000 (Back Over Prevention); however, the parts to do the ",
+          "My husband I originally purchased this vehicle around October 2020.  We are the only owners and when we purchased it, it had 78 miles on it.  Since I purchased it I have had to pay out of pocket for a"
+        ]
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "complaints": 118,
+        "share_pct": 7.8,
+        "excerpts": [
+          "The contact owns a 2020 Ford Escape. The contact received notifications of NHTSA Campaign Numbers: 25V467000 (Fuel System, Gasoline) and 26V123000 (Back Over Prevention); however, the parts to do the ",
+          "The contact owns a 2020 Ford Escape. The contact received notification of NHTSA Campaign Number: 25V467000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The",
+          "The contact owns a 2020 Ford Escape. The contact received notification of NHTSA Campaign Number: 25V467000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 117,
+        "share_pct": 7.7,
+        "excerpts": [
+          "UNKNOWN, just here to make a complaint. Fuel Injectors have not failed yet but Ford Motor Company has not yet found a remedy even after 12+ months since recall was initiated. Recall was sent out Augus",
+          "The contact owns a 2020 Ford Escape. The contact stated that upon shifting into drive(D), the vehicle jerked significantly. The contact continued to drive the vehicle despite the failure, which intens",
+          "2020 ford fusion taken to Bessemer Ford dealership July 20 2026 with issues to vehicle sputtering.  The vehicle was returned as no problem found  On August 15, 2026vehicle ran hot and shut down 140 mi"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 20,
+      "fires": 4,
+      "injuries": 28,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 5
+      },
+      {
+        "year": 2003,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 3
+      },
+      {
+        "year": 2020,
+        "count": 56
+      },
+      {
+        "year": 2021,
+        "count": 55
+      },
+      {
+        "year": 2022,
+        "count": 94
+      },
+      {
+        "year": 2023,
+        "count": 531
+      },
+      {
+        "year": 2024,
+        "count": 363
+      },
+      {
+        "year": 2025,
+        "count": 279
+      },
+      {
+        "year": 2026,
+        "count": 131
+      }
+    ]
+  },
+  "recalls": {
+    "count": 23,
+    "recalls": [
+      {
+        "campaign_number": "19V633000",
+        "component": "SEATS:FRONT ASSEMBLY:RECLINER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 and 2019-2020 F-250, F-350, F-450, and F-550 Super Duty pickup trucks, and 2018-2019 Ford Explorer, 2019-2020 Expedition, and 2020 Escape vehicles equipped with driver and/or passenger's manual front seat back recliner mechanisms.  Also ",
+        "report_date": "28/08/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V415000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020 Escape and Transit vehicles.  The affected vehicles may have an improperly crimped diffuser in the side curtain air bags which may result in the diffuser detaching from the inflator in the event of an air bag deployment.",
+        "report_date": "17/07/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V635000",
+        "component": "ELECTRICAL SYSTEM:BODY CONTROL MODULE/BCM",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020 Escape vehicles equipped with a key-start ignition system.  The Body Control Module (BCM) intermittently may not pick up the signal from the rear Tire Pressure Monitoring System (TPMS) sensors or the Remote Key Fob.  In the event of a low tire pres",
+        "report_date": "15/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V550000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2019-2020 Edge, Transit Connect and Lincoln MKX and 2020 Escape and Lincoln Corsair vehicles.  The start/stop accumulator endcap may have missing or loose bolts.",
+        "report_date": "10/09/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V575000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020 Ford F-150, F-250, F-350, F-450, F-550, Explorer, Mustang, Transit, Expedition, Escape, Ranger and Edge, and Lincoln Nautilus and Corsair vehicles.  Due to a poor electrical connection, the rearview camera may intermittently display a blank or dist",
+        "report_date": "23/09/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V011000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2021 Edge, 2020 Lincoln Nautilus and Ford Escape and 2021 Lincoln Corsair and Ford Bronco Sport vehicles.  An inadequate amount of lubricant in the rear drive unit may cause seizure of the rear drive axle.",
+        "report_date": "15/01/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V191000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2022 Escape and 2021-2022 Bronco Sport vehicles equipped with 1.5L engines.  The engine oil separator housing may crack and develop an oil leak.",
+        "report_date": "25/03/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V331000",
+        "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020 Escape and 2021 Lincoln Corsair vehicles equipped with 2.5L hybrid powertrains.  Insufficient welds inside the high voltage battery may fail, resulting in a loss of drive power.",
+        "report_date": "13/05/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V484000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2022 Escape, 2021-2022 Lincoln Corsair, and 2022 Maverick vehicles equipped with 2.5L HEV or PHEV engines.  In the event of an engine failure, engine oil and fuel vapor may be released into the engine compartment and accumulate near ignition source",
+        "report_date": "07/07/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V859000",
+        "component": "FUEL SYSTEM, GASOLINE:FUEL INJECTION SYSTEM",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2023 Escape and 2021-2023 Bronco Sport vehicles equipped with 1.5L engines.  A fuel injector may crack and leak fuel inside the engine compartment.",
+        "report_date": "18/11/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V380000",
+        "component": "ENGINE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2023 Escape, 2022-2023 Maverick, and 2021-2023 Corsair vehicles equipped with 2.5L HEV or PHEV engines.  In the event of an engine failure, engine oil and fuel vapor may be released into the engine compartment and accumulate near ignition sources s",
+        "report_date": "26/05/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V330000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2022-2024 Maverick, 2020-2022 Escape, and 2021-2022 Lincoln Corsair vehicles.  The Hybrid Powertrain Control Module (HPCM) software may cause the vehicle to shift into neutral unexpectedly, causing a loss of drive power.",
+        "report_date": "10/05/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V852000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2025 Explorer, Lincoln Aviator, 2020-2024 Escape, Lincoln Corsair, 2018-2024 F-150, Expedition and Lincoln Navigator vehicles.  The air bag warning label may be missing from the dashboard.  As such, these vehicles fail to comply with the requiremen",
+        "report_date": "08/11/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V954000",
+        "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY:MANAGEMENT SYSTEM/ENERGY CONTROL MODULE (BMS/BECM)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2024 Ford Escape, and 2021-2024 Lincoln Corsair vehicles.  A manufacturing defect in one or more of the high voltage battery cells may result in an internal short circuit and battery failure.",
+        "report_date": "20/12/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V165000",
+        "component": "FUEL SYSTEM, GASOLINE:FUEL INJECTION SYSTEM",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2022 Escape and 2021-2023 Bronco Sport vehicles previously repaired incorrectly under recall numbers 22V-859 or 24V-187.  A fuel injector may crack and leak fuel inside the engine compartment.",
+        "report_date": "14/03/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V345000",
+        "component": "ENGINE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2023 Escape, 2021-2023 Corsair, and 2022-2023 Maverick vehicles equipped with 2.5L HEV or PHEV engines that were repaired incorrectly under recall 23V380. In the event of an engine failure, engine oil and fuel vapor may be released into the engine ",
+        "report_date": "23/05/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V442000",
+        "component": "BACK OVER PREVENTION:SOFTWARE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2022 Transit Connect, 2019-2020 MKZ, MKX,  Edge, Continental, F-150, Nautilus, Fusion, 2019-2023 Ranger, Mustang, 2020-2021 EcoSport, Expedition, Navigator, 2020-2022 Escape, F-250 SD, Corsair, 2020-2023 Aviator, Transit, 2020-2024 Explorer, 2021-2",
+        "report_date": "27/06/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V467000",
+        "component": "FUEL SYSTEM, GASOLINE:FUEL INJECTION SYSTEM",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2024 Bronco Sport and 2020-2022 Escape vehicles equipped with 1.5L engines. A fuel injector may crack and leak fuel inside the engine compartment.",
+        "report_date": "11/07/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V685000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Lincoln MKC, 2016-2023 Explorer, 2019-2020 Fusion, 2019-2024 Ranger, 2020-2022 Lincoln Corsair, Escape, 2021-2024 Bronco, Bronco Sport, and 2022-2024 Maverick vehicles. The engine block heater may crack and develop a coolant leak, causing it t",
+        "report_date": "10/10/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V693000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:PADS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020 Escape vehicles. The rear brake pads may have been manufactured incorrectly, which can reduce brake function in the event of a brake booster malfunction.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety ",
+        "report_date": "10/10/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V829000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE:HINGE AND ATTACHMENTS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2022 Escape and 2025 Escape vehicles. The liftgate hinge covers may not be properly secured and detach from the vehicle.",
+        "report_date": "01/12/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V117000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2022 Explorer, Escape, Lincoln Aviator, and Lincoln Corsair vehicles. The windshield wiper motor may fail and prevent the windshield wipers from operating properly.",
+        "report_date": "03/03/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V123000",
+        "component": "BACK OVER PREVENTION:SOFTWARE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2022 Escape, Lincoln Corsair, 2020-2024 Lincoln Aviator, and Explorer vehicles. The image on the center display may flip or invert, resulting in an incorrectly displayed rearview image when the vehicle is placed in reverse. As such, these vehicles ",
+        "report_date": "03/03/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:28.165Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

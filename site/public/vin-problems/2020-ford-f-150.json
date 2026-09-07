@@ -1,0 +1,184 @@
+{
+  "slug": "2020-ford-f-150",
+  "year": 2020,
+  "make": "Ford",
+  "model": "F-150",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 33,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 28,
+        "share_pct": 84.8,
+        "excerpts": [
+          "Transmission shifted from 4th to 1st while driving a steady 25 mph, then lost all forward drive, the transmission slips, then will slam into gear.  I parked it for two weeks until I could get it to th",
+          "Harsh shifting from 3rd to 4th and 7th to 8th",
+          "I am reporting a safety-related transmission problem I experienced with my 2020 Ford F-150 equipped with the 10R80 automatic transmission. While driving normally, the transmission shifts hard (ie: jer"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 4,
+        "share_pct": 12.1,
+        "excerpts": [
+          "After starting my 2020 Ford F150  for the last few months on the dash 2 warnings comes up, Front Camera Malfunction Service Required and Pre Collision Assist Not Available. These come on every time I ",
+          "When driving the vehicle it randomly jumps gears, when taking off it went into limp mode today. My wife almost got slammed by a semi truck! I called ford and they are not interested in hearing my case",
+          "While driving I will get a wrench symbol with a bunch of codes pop up u0121:00:28 u0131:00:28 u0137:00:28 u0164:00:28 u0199:00:28 u0200:00:28 u0212:00:28 u0252:00:28 u0256:00:28 u1012:00:28 p0557:00:2"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 3,
+        "share_pct": 9.1,
+        "excerpts": [
+          "We purchased a used 2020 F­150 in late summer 2024. We brought it in for issues in November 2024, but the Ford dealership found no repairs were needed. We returned in March 2025 when the CDF drum fail",
+          "Camshaft had to be replaced a couple years ago,  followed by cam shaft sensor. Then another $6,300 of \"critical\" issu3s to be fixed. The vehicle is 5 1/2 y/o. Absolutely ridiculous that this amount of",
+          "I. Vehicle Purchase and Maintenance History In September 2020, I purchased this 2020 Ford F-150 new.    II. Chronology of Defect and Repair Attempts Around 33,000 miles, the vehicle began exhibiting s"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 1,
+        "share_pct": 3,
+        "excerpts": [
+          "After starting my 2020 Ford F150  for the last few months on the dash 2 warnings comes up, Front Camera Malfunction Service Required and Pre Collision Assist Not Available. These come on every time I "
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 1,
+        "share_pct": 3,
+        "excerpts": [
+          "When driving the vehicle it randomly jumps gears, when taking off it went into limp mode today. My wife almost got slammed by a semi truck! I called ford and they are not interested in hearing my case"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 0,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 24
+      }
+    ]
+  },
+  "recalls": {
+    "count": 11,
+    "recalls": [
+      {
+        "campaign_number": "19V903000",
+        "component": "TIRES:BEAD",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020 F-150 trucks equipped with 17-inch spare tires.  The spare tire could have been damaged when it was installed on the rim.",
+        "report_date": "18/12/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V097000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 trucks equipped with high series LED headlamps with Autolamp (On/Off) functionality.  The Daytime Running Lamps (DRL) may remain activated instead of dimming to parking lamps when the Master Lighting Switch (MLS) is manually rotated from",
+        "report_date": "21/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V805000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY:CABLES",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2019-2020 F-150 vehicles. The fastener securing the Power Distribution Box (PDB) 12V cable and Battery Monitoring System (BMS) eyelets to the positive battery terminal may loosen and affect the vehicle's systems such as instrument panel displays and bra",
+        "report_date": "12/11/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V575000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020 Ford F-150, F-250, F-350, F-450, F-550, Explorer, Mustang, Transit, Expedition, Escape, Ranger and Edge, and Lincoln Nautilus and Corsair vehicles.  Due to a poor electrical connection, the rearview camera may intermittently display a blank or dist",
+        "report_date": "23/09/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V467000",
+        "component": "ELECTRICAL SYSTEM:STARTER ASSEMBLY",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020 F-150 vehicles.  An incorrect attachment nut may have been used to attach the battery positive (B+) power supply cable to the starter motor, possibly affecting the electrical conductivity, resulting in excess heat and electrical arcing.",
+        "report_date": "10/08/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V197000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020 Ranger and F-150 vehicles equipped with 10-speed automatic transmissions and certain 2020 Expedition vehicles equipped with a \"police\" package.  The transmission shift cable lock clip may not be fully seated, allowing the transmission to actually b",
+        "report_date": "03/04/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V633000",
+        "component": "SEATS:FRONT ASSEMBLY:RECLINER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 and 2019-2020 F-250, F-350, F-450, and F-550 Super Duty pickup trucks, and 2018-2019 Ford Explorer, 2019-2020 Expedition, and 2020 Escape vehicles equipped with driver and/or passenger's manual front seat back recliner mechanisms.  Also ",
+        "report_date": "28/08/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V250000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:LINKAGES",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2021 F-150, Expedition, 2020-2022 Super Duty F-250, F-350, F-450, F-550, and 2020-2021 Lincoln Navigator vehicles.  The windshield wiper arms may break, causing the windshield wipers to fail.",
+        "report_date": "14/04/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V852000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2025 Explorer, Lincoln Aviator, 2020-2024 Escape, Lincoln Corsair, 2018-2024 F-150, Expedition and Lincoln Navigator vehicles.  The air bag warning label may be missing from the dashboard.  As such, these vehicles fail to comply with the requiremen",
+        "report_date": "08/11/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V442000",
+        "component": "BACK OVER PREVENTION:SOFTWARE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2022 Transit Connect, 2019-2020 MKZ, MKX,  Edge, Continental, F-150, Nautilus, Fusion, 2019-2023 Ranger, Mustang, 2020-2021 EcoSport, Expedition, Navigator, 2020-2022 Escape, F-250 SD, Corsair, 2020-2023 Aviator, Transit, 2020-2024 Explorer, 2021-2",
+        "report_date": "27/06/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V373000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 vehicles previously repaired incorrectly under recall number 20V097. When the headlight switch is turned from \"Autolamps\" to \"Headlamps On,\" the Daytime Running Lamps (DRLs) may remain fully bright instead of dimming to parking lamps as ",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:06.557Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

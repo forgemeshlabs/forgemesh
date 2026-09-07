@@ -1,0 +1,212 @@
+{
+  "slug": "2015-ford-escape",
+  "year": 2015,
+  "make": "Ford",
+  "model": "Escape",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1081,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 284,
+        "share_pct": 26.3,
+        "excerpts": [
+          "The contact owns a 2015 Ford Escape. The contact stated that while driving at an undisclosed speed with the transmission shifting from second to third gear, the vehicle was jerking, and the vehicle be",
+          "Dash board panel comes on when you turn on the car, but once you put it in drive it automatically shuts off accept the rpm gauge, car goes into limp mode when driving and causes it to not allow any ac",
+          "When car in parking spot (running or started after overnight parked); when put into reverse nothing happens.  Backed into a slot today; had to pull forward and redo; but when put into reverse nothing "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 238,
+        "share_pct": 22,
+        "excerpts": [
+          "Engine cylinder head. Coolant is leaking into the engine cylinder(s) (coolant intrusion). Vehicle is available for inspection upon request.  I was driving to DCA and while on [XXX] on the highway my e",
+          "I am hoping you can help me. I have a 2015 Ford Escape. It has 107,000 miles on it. I do the regular maintenance items as needed. Last Friday I was driving my car and my temperature gauge went to Hot ",
+          "The battery keeps dying even though it's been tested and is good. Lights keep shorting out I've had to replace the brake light and wires twice. The coolant is disappearing causing the vehicle to overh"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 134,
+        "share_pct": 12.4,
+        "excerpts": [
+          "Ford  has yet to provide a remedy to this recall nearly a year after being notified.   NHTSA: #25V695 Recall: #25SA9 REAR VIEW CAMERA INSPECTION",
+          "Sound control module, can't hook up phone for hands free driving",
+          "At least once per day the back up camera goes black.  While I am in the act of backing up or starting to back up.  This has been happening for over 3 years.  No one believed me at the dealership for y"
+        ]
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "complaints": 133,
+        "share_pct": 12.3,
+        "excerpts": [
+          "The contact owns a 2015 Ford Escape. The contact received notification of NHTSA Campaign Number: 25V695000 (Back Over Prevention); however, the part to do the recall repair was not yet available. The ",
+          "The contact owns a 2015 Ford Escape. The contact stated that while attempting to reverse, the rear-view camera became inoperable. The contact stated that the rearview camera image intermittently fluct",
+          "The contact owns a 2015 Ford Escape. The contact received notification of NHTSA Campaign Number: 25V695000 (Back Over Prevention); however, the part to do the recall repair was not yet available. The "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 80,
+        "share_pct": 7.4,
+        "excerpts": [
+          "\"While driving down a steep mountain hill, my 2015 Ford Escape suffered a sudden and complete loss of electric power steering assist without any advance warning... We came within inches of a catastrop",
+          "The vehicle currently has 119,000 miles. While driving, I received a service steering assist fault on my dashboard and immediately lost all power steering. There was no previous signs of any sort of p",
+          "The contact owns a 2015 Ford Escape. The contact stated that while driving approximately 75 MPH, the vehicle unexpectedly started to decelerate even though the RPM was extremely elevated. There was a "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 29,
+      "fires": 19,
+      "injuries": 32,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1945,
+        "count": 1
+      },
+      {
+        "year": 1969,
+        "count": 4
+      },
+      {
+        "year": 2014,
+        "count": 2
+      },
+      {
+        "year": 2015,
+        "count": 39
+      },
+      {
+        "year": 2016,
+        "count": 38
+      },
+      {
+        "year": 2017,
+        "count": 38
+      },
+      {
+        "year": 2018,
+        "count": 78
+      },
+      {
+        "year": 2019,
+        "count": 90
+      },
+      {
+        "year": 2020,
+        "count": 106
+      },
+      {
+        "year": 2021,
+        "count": 71
+      },
+      {
+        "year": 2022,
+        "count": 149
+      },
+      {
+        "year": 2023,
+        "count": 109
+      },
+      {
+        "year": 2024,
+        "count": 102
+      },
+      {
+        "year": 2025,
+        "count": 177
+      },
+      {
+        "year": 2026,
+        "count": 77
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "17V472000",
+        "component": "SEAT BELTS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2014 Ford F-150 and E-350, 2014-2015 Ford Escape, and 2015 Lincoln MKC vehicles.  Improperly manufactured bolts may have been used to install certain seats, seatbacks, seatbelt buckles, or seatbelt anchors on these vehicles.",
+        "report_date": "25/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V643000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2012-2015 Ford Focus, 2013-2015 Ford Escape and Ford C-MAX, 2015 Lincoln MKC and Ford Mustang, and 2014-2016 Ford Transit Connect vehicles.  A component within the door latches may break, preventing the doors from latching and/or leading the ",
+        "report_date": "06/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V406000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2014-2015 Ford Escape vehicles manufactured May 19, 2014, to February 6, 2015, and Transit Connect vehicles manufactured May 11, 2014, to July 2, 2015.  Due to a software incompatibility issue, the instrument panel cluster be inoperative incl",
+        "report_date": "24/06/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V436000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2015 Ford Escape vehicles manufactured April 1, 2014, to June 12, 2015, Ford Focus vehicles manufactured June 17, 2014, to June 12, 2015, and Ford C-Max vehicles manufactured April 22, 2014, to June 12, 2015.  In the affected vehicles, the en",
+        "report_date": "08/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V331000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2014 Fiesta, 2013-2014 Fusion, 2015 Mustang, 2013-2015 Escape and C-Max, 2012-2015 Focus, 2014-2016 Transit Connect, 2013-2014 Lincoln MKZ, and 2015 MKC vehicles.  These vehicles were previously recalled and repaired under recalls 15V-246, 16V-643 ",
+        "report_date": "08/06/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V254000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015 Escape vehicles equipped with 2.0L engines.  The bushing that attaches the shifter cable to the transmission may degrade or detach.",
+        "report_date": "14/04/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V413000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2019 Escape, 2013-2018 C-Max, 2013-2016 Fusion, 2013-2021 Transit Connect, and  2015-2018 Edge vehicles.  The bushing that attaches the shifter cable to the transmission may degrade or detach.",
+        "report_date": "10/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V695000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2019 Flex, 2015 Explorer, Lincoln MKT,  Lincoln MKZ, 2015-2016 C-Max, Escape, Taurus, 2016 Fusion, 2018-2019 Taurus, 2019 Lincoln MKT, Fiesta, and 2020 Mustang vehicles.  The rearview camera may display a distorted,  intermittent, or blank image wh",
+        "report_date": "13/10/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V011000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2018 Focus, 2013-2019 Escape, and 2015-2016 MKC vehicles equipped with a 2.0L engine. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+        "report_date": "15/01/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:24.465Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

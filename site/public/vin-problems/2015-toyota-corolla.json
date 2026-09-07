@@ -1,0 +1,140 @@
+{
+  "slug": "2015-toyota-corolla",
+  "year": 2015,
+  "make": "Toyota",
+  "model": "Corolla",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 219,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 56,
+        "share_pct": 25.6,
+        "excerpts": [
+          "The contact owned a 2015 Toyota Corolla. The contact stated that the vehicle was previously involved in a front-impact collision, and the air bags had failed to deploy. The contact sustained injuries ",
+          "I purchased this vehicle in November 2024 from a dealership. On July 8, 2025, I was involved in a crash where the airbag failed to deploy. After the accident, I learned there was an active recall from",
+          "I had my airbag repaired back in 2022 due to a safety recall and that light has since then turned on again"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 32,
+        "share_pct": 14.6,
+        "excerpts": [
+          "There was a recall for the paint on this vehicle and over the past 4 years the paint has peeled off exposing under the clear coat putting the body of the vehicle at risk for futher rust and damage. Wh",
+          "I own a 2015 Toyota Corolla with Super White paint. The vehicle has experienced widespread paint peeling and delamination consistent with Toyota's known Super White paint defect.  The paint is peeling",
+          "Blizzard pearl paint is peeling all over the vehicle. Large chips of paint are coming off. I took it to the dealer and called the Toyota corporate office and was told that the recall had expired and I"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 30,
+        "share_pct": 13.7,
+        "excerpts": [
+          "Falla en tren motriz o transmisión",
+          "The problem started 11/12/2021. The car started jerking and dropping out of gear while driving. A mechanic changed the transmission fluid and filter thinking it may resolve the problem. It did not now",
+          "vehicle was going down highway. then decreased speed. then wont go at all. mechanic stated cvt transmission not working."
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 18,
+        "share_pct": 8.2,
+        "excerpts": [
+          "On [XXX] at [XXX]. in Cupey, Puerto Rico I was moving from west to east in the[XXX] parish underground parking. While parking my car in reverse, I needed to drive forward to accommodate the car in the",
+          "Falla en tren motriz o transmisión",
+          "I am not sure exactly what happened but their was indeed an internal systems failure of some sort that definitely needs to be resolved and the public needs to be made aware of. I lost control of my ve"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 18,
+        "share_pct": 8.2,
+        "excerpts": [
+          "On [XXX] at [XXX]. in Cupey, Puerto Rico I was moving from west to east in the[XXX] parish underground parking. While parking my car in reverse, I needed to drive forward to accommodate the car in the",
+          "I am not sure exactly what happened but their was indeed an internal systems failure of some sort that definitely needs to be resolved and the public needs to be made aware of. I lost control of my ve",
+          "I tried to stop as car in front me had stepped on brakes. I didn't stop and slid into back of another vehicle. Air bags did not deploy."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 60,
+      "fires": 1,
+      "injuries": 50,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 2
+      },
+      {
+        "year": 2015,
+        "count": 48
+      },
+      {
+        "year": 2016,
+        "count": 20
+      },
+      {
+        "year": 2017,
+        "count": 21
+      },
+      {
+        "year": 2018,
+        "count": 32
+      },
+      {
+        "year": 2019,
+        "count": 25
+      },
+      {
+        "year": 2020,
+        "count": 21
+      },
+      {
+        "year": 2021,
+        "count": 12
+      },
+      {
+        "year": 2022,
+        "count": 11
+      },
+      {
+        "year": 2023,
+        "count": 7
+      },
+      {
+        "year": 2024,
+        "count": 10
+      },
+      {
+        "year": 2025,
+        "count": 7
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "20V024000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing  (Toyota) is recalling certain 2011-2019 Corolla, 2011-2013 Matrix, 2012-2018 Avalon, and 2013-2018 Avalon Hybrid vehicles.  During certain crashes, the air bag electronic control unit (ECU) may malfunction, possibly disabling the deployment of the air bags a",
+        "report_date": "17/01/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:37:46.951Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

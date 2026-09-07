@@ -1,0 +1,136 @@
+{
+  "slug": "2018-nissan-altima",
+  "year": 2018,
+  "make": "Nissan",
+  "model": "Altima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 225,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 49,
+        "share_pct": 21.8,
+        "excerpts": [
+          "I’ve had to replace the break sensor a few times and it’s unusual… My check engine light came on and it reads the code for the catalyst converter.., the auto part store saw a recall on this for my mak",
+          "Brake switch failure contributed to intermitten braking resulting in near crashes",
+          "The problem of delayed acceleration.  The problem occurs when the vehicle does not seem to accelerate for a short period of time. When I'm  at a stop. and I depresses the pedal. The vehicle does not r"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 37,
+        "share_pct": 16.4,
+        "excerpts": [
+          "Didn't know what the list this one but at a certain speed on the highway the hood latch comes loose unlocks, and my backup camera All of a sudden doesn't always work, sometimes the screen is completel",
+          "My Nissan Altima's power door locks failed making entry and egress sometimes impossible. While the key will unlock the driver's door, rear seat  passengers have been unable to exit the vehicle without",
+          "The driver's side door lock actuator stopped working around June 2024. Haven't replaced it yet, but bought another part. Read where others are having same issue.  Just in the last couple of weeks, aro"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 36,
+        "share_pct": 16,
+        "excerpts": [
+          "The passenger‑side airbag warning light first appeared within the first year of ownership. During that visit, the dealership did not repair the defect. They only reset the warning light and told me it",
+          "The warning light on the dash is indicating that there is a problem with the airbag. I took it to a Nissan Dealership and was told that the side airbag needed to be replaced.  I was quoted $3,241.41la",
+          "While driving my Nissan Altima 2018 on Sunday 2-1  the indicator light came on. I looked it up in the manual to the car and it stated it was something with the air bag. I took it to the Larry Miller N"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 23,
+        "share_pct": 10.2,
+        "excerpts": [
+          "I am currently experiencing CVT failure as of  I have filed a case with the nissan consumer affairs unit, case number 56846043. I was advised that even though there was a class action suit in 2022 for",
+          "Transmission stopped working on me in the highway cvt code that comes up is P17f0 was in the highway going 45 mph then dropped 5 mph very dangerous. Almost crashed",
+          "The problem is I have that transmission in my car that nissan was sued for . Yes I received a extended warranty  85 months or 85,000 miles . My transmission started going out as soon I rolled over 85,"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 15,
+        "share_pct": 6.7,
+        "excerpts": [
+          "Didn't know what the list this one but at a certain speed on the highway the hood latch comes loose unlocks, and my backup camera All of a sudden doesn't always work, sometimes the screen is completel",
+          "I bought my car in February 2021 and me not knowing anything about vehicles I first heard the popping noise when I backed my car out of the driveway.I thought it was something to do with the steering ",
+          "My airbag light recently came on after driving through some standing water and I have tried filing through my insurance company and they have stated that due to the fact that water wasnt submerged ins"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 11,
+      "fires": 0,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 14
+      },
+      {
+        "year": 2019,
+        "count": 57
+      },
+      {
+        "year": 2020,
+        "count": 51
+      },
+      {
+        "year": 2021,
+        "count": 28
+      },
+      {
+        "year": 2022,
+        "count": 18
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 21
+      },
+      {
+        "year": 2025,
+        "count": 15
+      },
+      {
+        "year": 2026,
+        "count": 8
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "20V315000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2018 Nissan Altima vehicles.  If the primary hood latch is inadvertently released, there is an increased likelihood that the secondary hood latch may corrode over time.",
+        "report_date": "28/05/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V654000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2018-2019 Nissan Altima, Armada, Frontier, Kicks, Leaf, Maxima, Murano, NV, NV200, Pathfinder, Rogue, Rogue Sport, Sentra, Titan, Titan Diesel, Versa Note and Versa Sedan vehicles, as well as Infiniti Q50, Q60, QX30 and QX80 vehicles.  Additio",
+        "report_date": "12/09/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:41:22.361Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

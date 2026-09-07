@@ -1,0 +1,204 @@
+{
+  "slug": "2012-ford-explorer",
+  "year": 2012,
+  "make": "Ford",
+  "model": "Explorer",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 826,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 358,
+        "share_pct": 43.3,
+        "excerpts": [
+          "The contact owns a 2012 Ford Explorer. The contact stated that while driving at an undisclosed speed and making turns, the steering wheel made loud grinding sounds and was loose. The vehicle was not d",
+          "Loss of power steering assist . Yes it is available for inspection on request. I can't steer it . It has not been confirmed by anybody yet. It has not been inspected by anybody yet. There are no warni",
+          "The contact owns a 2012 Ford Explorer. The contact stated that while driving approximately 15 MPH, the \"Service Power Steering\" message was displayed. The contact pulled into a parking lot, turned off"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 143,
+        "share_pct": 17.3,
+        "excerpts": [
+          "The contact owns a 2012 Ford Explorer. The contact received notification of NHTSA Campaign Number: 24V031000 (Structure); however, the part to do the recall repair was not yet available. The vehicle w",
+          "The contact owns a 2012 Ford Explorer. The contact received notification for NHTSA Campaign Number: 24V031000 (Structure); however, the part to complete the recall repair was unavailable. The contact ",
+          "Failure of the dealerships to fix recall in timely manner  It’s been over two years and parts still unavailable"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 79,
+        "share_pct": 9.6,
+        "excerpts": [
+          "The contact owns a 2012 Ford Explorer. The contact stated that while driving approximately 45 MPH, the traction control and check engine warning lights illuminated. The contact stated that a minute an",
+          "while driving the vehicle goes into what I have found is called sleep mode.. The check engine lite comes on and the left info panel shows that the all wheel drive is not working. The dealer tried to s",
+          "Engine mounds wearing out and Ford says they are in backorder for almost a year now. If there's such a demand. Then why isn't there recall that so many people are requesting them but Ford can't supply"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 63,
+        "share_pct": 7.6,
+        "excerpts": [
+          "Total loss of Electric power steering assistance while driving on the interstate.",
+          "Hello I’m a concerned citizen and I have a question about the Ford recall on the back up cameras, I have 2012 Explorer and my camera has been acting up for a while the same way that ford has mentioned",
+          "The contact's wife owns a 2021 Ford Explorer. The contact stated that while his wife was driving, on at least three occasions, the steering wheel became very stiff. The contact's wife was not able to "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 55,
+        "share_pct": 6.7,
+        "excerpts": [
+          "The contact owns a 2012 Ford Explorer. The contact stated that while driving approximately 40-60 MPH, the vehicle hesitated while depressing the accelerator pedal. There was no warning light illuminat",
+          "The contact owns a 2012 Ford Explorer. The contact stated while driving 3 MPH, the power steering fault, the turn signal, advance-trac alert, and power train warning lights illuminated. The contact st",
+          "The truck has been in shop 5 times or actually 5 different dealerships. The recall has yet to be fixed but I continually pay to have the problem INVESTIGATED. The dash flashes loss of fuel pressure, s"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 6,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2011,
+        "count": 14
+      },
+      {
+        "year": 2012,
+        "count": 59
+      },
+      {
+        "year": 2013,
+        "count": 43
+      },
+      {
+        "year": 2014,
+        "count": 47
+      },
+      {
+        "year": 2015,
+        "count": 68
+      },
+      {
+        "year": 2016,
+        "count": 70
+      },
+      {
+        "year": 2017,
+        "count": 54
+      },
+      {
+        "year": 2018,
+        "count": 48
+      },
+      {
+        "year": 2019,
+        "count": 77
+      },
+      {
+        "year": 2020,
+        "count": 33
+      },
+      {
+        "year": 2021,
+        "count": 45
+      },
+      {
+        "year": 2022,
+        "count": 55
+      },
+      {
+        "year": 2023,
+        "count": 61
+      },
+      {
+        "year": 2024,
+        "count": 85
+      },
+      {
+        "year": 2025,
+        "count": 51
+      },
+      {
+        "year": 2026,
+        "count": 14
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "19V435000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2017 Explorer vehicles.  The rear suspension toe links may fracture due to stress on the rear suspension.",
+        "report_date": "10/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17E048000",
+        "component": "WHEELS:HUB",
+        "summary": "Ford Motor Company (Ford) is recalling certain Wheel Hub Bearing assemblies, part number HB5Z-1104-C, incorrectly listed as being for installation on the rear axles of 2011-2017 Ford Explorer 4X2 vehicles.  These bearings assemblies were manufactured without a self retention feature, possibly result",
+        "report_date": "28/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V171000",
+        "component": "STRUCTURE:BODY:DOOR",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2011-2013 Explorer vehicles.  In the affected vehicles, the interior door handle return spring may unseat, resulting in interior door handle that does not return to the fully stowed position after actuation.",
+        "report_date": "24/03/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14E001000",
+        "component": "STEERING",
+        "summary": "Ford Motor Company (Ford) is recalling certain replacement steering gears installed on model year 2011-2012 Explorers as service parts in September 2013 and January 2014.  The affected gears may lock, preventing the driver from being able to steer the vehicle.",
+        "report_date": "06/01/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V286000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2011-2013 Ford Explorer vehicles manufactured May 17, 2010, through February 28, 2012.  The affected vehicles may experience an intermittent connection in the electric power steering gear, which can cause a loss of the motor position sensor s",
+        "report_date": "29/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V746000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2013 Explorer vehicles originally sold, or currently registered in Connecticut, Delaware, the District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota,\r\nMissouri, New Hampshire, New Jersey, New Yo",
+        "report_date": "22/09/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V031000",
+        "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2019 Explorer vehicles.  The A-pillar trim retention clips may not be properly engaged, allowing the trim to detach.",
+        "report_date": "19/01/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:33:24.359Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

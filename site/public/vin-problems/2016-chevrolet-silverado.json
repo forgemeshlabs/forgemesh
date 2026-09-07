@@ -1,0 +1,153 @@
+{
+  "slug": "2016-chevrolet-silverado",
+  "year": 2016,
+  "make": "Chevrolet",
+  "model": "Silverado",
+  "matched_as": {
+    "complaints": [
+      "SILVERADO 2500",
+      "SILVERADO 1500",
+      "SILVERADO 3500",
+      "SILVERADO HD"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 989,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 292,
+        "share_pct": 29.5,
+        "excerpts": [
+          "Tranmission isn't running right and gas and brakes are not working properly.  Also fuel pump or relay gets hot shuts off while driving.",
+          "Chevy Duramax trucks, 2011-2016 use a CP4 fuel pump that will eventually fail. The engine shuts off and there is a loss of steering and brakes. This is a major safety issue. I called Chevy GM 1800 222",
+          "My trailer brake warning bell keeps coming on all the time saying service trailer brake , then says connected. I have pulled the fuse as to not here this bell all the time. I just changed the module a"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 216,
+        "share_pct": 21.8,
+        "excerpts": [
+          "the vehicle developed a extremely hard down shift and then a check engine light came on. the vehicle went into limp mode, took the vehicle to local diesel mechanic and i was informed that the transmis",
+          "The contact owns a 2016 Chevrolet Silverado 2500. The contact stated while driving 45-55 MPH and hauling a trailer, there was an abnormal clunking sound coming from the vehicle. The vehicle was shudde",
+          "Transmission was acting funny. Check engine light came on. Took it to a reputable transmission shop who stated it needs a full rebuild due to bad torque converter. $5500. The truck only has 65k mi."
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 177,
+        "share_pct": 17.9,
+        "excerpts": [
+          "Steering is loose/has play. Vehicle shakes with driving. Steering gear box is leaking. Issue puts myself and others at risk due to the sudden pulling to either side while driving. Vehicle will be insp",
+          "Chevy Duramax trucks, 2011-2016 use a CP4 fuel pump that will eventually fail. The engine shuts off and there is a loss of steering and brakes. This is a major safety issue. I called Chevy GM 1800 222",
+          "- Electronic power steering assist malfunctioning. Available for inspection - Vehicle jerks steering to the left or right at highway speeds, causing near miss accidents.  - Dealer performed alignment "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 146,
+        "share_pct": 14.8,
+        "excerpts": [
+          "Had new Western Wideout snowplow (recommended by Western) installed by Western dealership on a 2016 Chevrolet Silverado 2500hd with the factory snow plow prep package (RPO VYU). Vehicles instrument cl",
+          "Had new Western Wideout snowplow (recommended by western) installed by Western dealership on a 2016 Chevrolet Silverado 2500hd with snow plow prep package. Vehicle's Instrument cluster, HVAS, Radio an",
+          "Tranmission isn't running right and gas and brakes are not working properly.  Also fuel pump or relay gets hot shuts off while driving."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 85,
+        "share_pct": 8.6,
+        "excerpts": [
+          "Had new Western Wideout snowplow (recommended by Western) installed by Western dealership on a 2016 Chevrolet Silverado 2500hd with the factory snow plow prep package (RPO VYU). Vehicles instrument cl",
+          "Transmission needed rebuild at 108000 miles. Lifter failure in engine which damaged camshaft at 120000 miles. Each costing thousands in dollars of repairs probably close to $10000.",
+          "The motor started running bad and within seconds it stopped no other signs or problems"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 53,
+      "fires": 12,
+      "injuries": 26,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 2
+      },
+      {
+        "year": 2016,
+        "count": 98
+      },
+      {
+        "year": 2017,
+        "count": 65
+      },
+      {
+        "year": 2018,
+        "count": 123
+      },
+      {
+        "year": 2019,
+        "count": 161
+      },
+      {
+        "year": 2020,
+        "count": 115
+      },
+      {
+        "year": 2021,
+        "count": 85
+      },
+      {
+        "year": 2022,
+        "count": 87
+      },
+      {
+        "year": 2023,
+        "count": 107
+      },
+      {
+        "year": 2024,
+        "count": 55
+      },
+      {
+        "year": 2025,
+        "count": 64
+      },
+      {
+        "year": 2026,
+        "count": 26
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "15V830000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016 Chevrolet Silverado and GMC Sierra pick up trucks manufactured October 13, 2015, to October 14, 2015.  In the affected vehicles, the mounting stud used to secure the air bag sensing and diagnostic Module (SDM) may be incorrectly positioned",
+        "report_date": "10/12/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V084000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Genera Motors LLC (GM) is recalling certain model year 2016 Chevrolet Camaro, Malibu, Silverado and GMC Sierra vehicles.  The radio may intermittently fail to provide an audio warning when the key has been left in the ignition and the door is opened or when the driver does not fasten their seat belt",
+        "report_date": "11/02/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:07.607Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

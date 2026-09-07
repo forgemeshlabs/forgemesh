@@ -1,0 +1,152 @@
+{
+  "slug": "2013-toyota-camry",
+  "year": 2013,
+  "make": "Toyota",
+  "model": "Camry",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 301,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 67,
+        "share_pct": 22.3,
+        "excerpts": [
+          "The contact owns a 2013 Toyota Camry. The contact stated that the dealer had replaced the battery four times within 8 years, and the water pump and the alternator had been replaced within 18 months. A",
+          "Having issues with the ac condenser drain hose. And  Transmission shuddering during acceleration.",
+          "The contact owns a 2013 Toyota Camry. The contact stated while driving at an undisclosed speed, the transmission shuddered, with the check engine warning light illuminated. In addition, the contact be"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 38,
+        "share_pct": 12.6,
+        "excerpts": [
+          "Shifting shudder",
+          "The contact owns a 2013 Toyota Camry. The contact stated while driving 15-20 MPH and depressing the accelerator pedal, the vehicle hesitated to respond. There was no warning light illuminated. The con",
+          "While driving have noticed shuddering at random times. Car just now has 134k on it and the service records never showed what computer update was done. Was unaware of any issues with torque converter i"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 37,
+        "share_pct": 12.3,
+        "excerpts": [
+          "Having issues with the ac condenser drain hose. And  Transmission shuddering during acceleration.",
+          "I just bought my car it's a 2013camry SE and I noticed the paint on the roof is flaking and now there's a couple spots on the trunk that are flaking I recently found out that Toyota has a recall on th",
+          "The spiral coil is rusted and needs to be replaced. Notes of mechanic will be provided"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 32,
+        "share_pct": 10.6,
+        "excerpts": [
+          "The contact owns a 2013 Toyota Camry. The contact stated that while driving on several occasions at various speeds, there was a knocking sound coming from the steering column. The contact stated that ",
+          "This complaint has to do with Toyota's electrical steering. I will begin this complaint by explaining what I've learned about the new Toyota vehicles. I've been having electrical problems with my car ",
+          "AIRBAG LIGHTS COMES AND GO WHILE DRIVING AT ONE POINT IT STAY ON FOR A LOG PERIOD , IS VERY DIFFICULT TO MOVE THE STEERING WHEEL NOW WHILE DRIVING"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 32,
+        "share_pct": 10.6,
+        "excerpts": [
+          "This complaint has to do with Toyota's electrical steering. I will begin this complaint by explaining what I've learned about the new Toyota vehicles. I've been having electrical problems with my car ",
+          "The panel that controls the interior lights, garage door operation, moon window and an SOS button appeared to have an electrical malfunction and part of that control panel which is on the ceiling betw",
+          "I had this car for 5 months, the dealer lied to me about the engine being repaired, the coverage he has on the vehicle.  The electronic doesn't work front driver/ passenger doors, we have to unlock th"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 46,
+      "fires": 1,
+      "injuries": 29,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 2
+      },
+      {
+        "year": 2013,
+        "count": 67
+      },
+      {
+        "year": 2014,
+        "count": 40
+      },
+      {
+        "year": 2015,
+        "count": 25
+      },
+      {
+        "year": 2016,
+        "count": 27
+      },
+      {
+        "year": 2017,
+        "count": 26
+      },
+      {
+        "year": 2018,
+        "count": 23
+      },
+      {
+        "year": 2019,
+        "count": 36
+      },
+      {
+        "year": 2020,
+        "count": 10
+      },
+      {
+        "year": 2021,
+        "count": 11
+      },
+      {
+        "year": 2022,
+        "count": 12
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 8
+      },
+      {
+        "year": 2025,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "13V505000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:SWITCH/WIRING",
+        "summary": "Toyota Motor Engineering & manufacturing North America, Inc. (Toyota) is recalling certain model year 2013-2014 Camry and Camry HV, model year 2013 Avalon and Avalon HV and model year 2014 Corolla vehicles.  In the affected vehicles, the windshield wiper switch assembly may short circuit.  As such, ",
+        "report_date": "17/10/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V442000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Toyota is recalling certain model year 2012-2013 Avalon, Avalon HV, Venza, Camry, and Camry HV vehicles.  In the affected vehicles, the drain hose for the air conditioning condenser may become clogged causing water to accumulate at the bottom of the air conditioning condenser unit housing.  The accu",
+        "report_date": "17/10/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:34:32.087Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

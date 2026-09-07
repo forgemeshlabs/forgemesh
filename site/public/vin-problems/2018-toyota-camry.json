@@ -1,0 +1,196 @@
+{
+  "slug": "2018-toyota-camry",
+  "year": 2018,
+  "make": "Toyota",
+  "model": "Camry",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 736,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 193,
+        "share_pct": 26.2,
+        "excerpts": [
+          "The vehicle has developed a high-pitched whine that is most noticeable around 30 to 55 mph. The pitch increases directly with vehicle speed, not engine RPM. The sound occurs whenever positive throttle",
+          "I own a 2018 Toyota Camry SE with approximately 120,000 miles. The vehicle is equipped with the 2.5L engine and 8-speed automatic transmission.  I have recently developed a noticeable whining noise fr",
+          "The transmission has begun failing, with less than 60,000 miles and a perfect maintenance record. While driving I noticed a \"whine\" while accelerating and it would go away when not pressing the accele"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 166,
+        "share_pct": 22.6,
+        "excerpts": [
+          "The contact owns a 2018 Toyota Camry. The contact stated while drivng at an undisclosed speed, the brake pedal was depressed, however the vehicle failed to stop as intended. The vehicle was towed to t",
+          "2018 Camry XSE, Vacuum pump went on my car less then a year ago. I had my car towed to the dealership for the recall to be fixed.  Since that incident my car hasn’t been the same.  While stopped at a ",
+          "The contact owns a 2018 Toyota Camry. The contact stated that while parking on two occasions, a \"brake pressure low, stop at a safe place\" message appeared and an unknown warning light. The vehicle wa"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 131,
+        "share_pct": 17.8,
+        "excerpts": [
+          "Reduce power and break power malfunction",
+          "When driving, the car would go into limp mode and wouldn’t get out of 2nd gear. it was super jerky as well. when taken to a mechanic, it was diagnosed with malfunctioning transmission among some other",
+          "The contact owns a 2018 Toyota Camry. The contact stated while drivng at an undisclosed speed, the brake pedal was depressed, however the vehicle failed to stop as intended. The vehicle was towed to t"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 72,
+        "share_pct": 9.8,
+        "excerpts": [
+          "Reduce power and break power malfunction",
+          "Toyota has recognized a problem with the low pressure fuel pump on some 2018 Camry cars which causes a hesitation when driving from a stop creating a rear danger of a rear-end collision.   It has been",
+          "Car stalled while driving and needed to be towed to dealership. Dealership confirmed that there was coolant intrusion into the engine that clogged the fuel injector causing the car to stall while driv"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 72,
+        "share_pct": 9.8,
+        "excerpts": [
+          "When driving, the car would go into limp mode and wouldn’t get out of 2nd gear. it was super jerky as well. when taken to a mechanic, it was diagnosed with malfunctioning transmission among some other",
+          "On March 19, 2026, I was driving to work when traffic began to slow, and I reduced my speed accordingly. As traffic started to return to normal speed, I pressed the accelerator; however, although the ",
+          "Poor acceleration and lose of transmission control ….complete safety hazard and the car has a failure to lose power while driving…..a humming noise and the car jerks while shifting gears"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 46,
+      "fires": 4,
+      "injuries": 45,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 28
+      },
+      {
+        "year": 2018,
+        "count": 124
+      },
+      {
+        "year": 2019,
+        "count": 85
+      },
+      {
+        "year": 2020,
+        "count": 95
+      },
+      {
+        "year": 2021,
+        "count": 102
+      },
+      {
+        "year": 2022,
+        "count": 54
+      },
+      {
+        "year": 2023,
+        "count": 54
+      },
+      {
+        "year": 2024,
+        "count": 62
+      },
+      {
+        "year": 2025,
+        "count": 80
+      },
+      {
+        "year": 2026,
+        "count": 49
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "19V503000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2017-2019 Toyota Camry, Corolla, Rav4, Sienna, and Yaris iA vehicles equipped with factory-installed floor mats.  The load carrying capacity modification label may be incorrect.  As such, these vehicles fail to comply with the requirement",
+        "report_date": "28/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V108000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018 Toyota Camry vehicles equipped with V6 engines.  These vehicles have fuel delivery pipes that may not be properly connected to the fuel hoses in the engine compartment.",
+        "report_date": "14/02/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V200000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018 Toyota Camry vehicles equipped with a 2.5L, four-cylinder engine.  The pistons on these vehicles may be larger than specified, possibly causing the engine to stall.",
+        "report_date": "28/03/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V211000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018 Toyota Camry and Highlander vehicles, 2017 Toyota Sienna and Tacoma vehicles and 2017 Lexus RX350 vehicles.  During the manufacturing process, the oil galley in the rotor for the brake booster vacuum pump assembly may have b",
+        "report_date": "03/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V890000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 Camry vehicles.  The vane cap inside the vacuum pump may break, causing the pump to fail, which could result in a sudden loss of braking assist.",
+        "report_date": "17/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V012000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) recalled certain 2018-2019 4Runner, Highlander, Camry, Land Cruiser, Sequoia, Sienna, Tacoma and Tundra, and Lexus RC 300, RC 350, GS 350, GX 460, IS 300, LC 500, LS 500, LX 570, RX 350L, and 2019 Toyota Avalon and Corolla, and certain Lexus NX 300, ",
+        "report_date": "13/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V028000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018 Camry, 2019 Lexus NX300, and 2019 RX350L vehicles.  The low-pressure fuel pump inside the fuel tank may fail.",
+        "report_date": "22/01/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:41:03.522Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,208 @@
+{
+  "slug": "2015-nissan-rogue",
+  "year": 2015,
+  "make": "Nissan",
+  "model": "Rogue",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 551,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 140,
+        "share_pct": 25.4,
+        "excerpts": [
+          "I acquired a 2015 Nissan Rogue, but it seems the transmission has failed. Interestingly, the transmission is identified as a 2014 model within the 2015 vehicle. I reached out to the dealership for cla",
+          "The contact's daughter owns a 2015 Nissan Rogue. The contact stated that while his daughter was driving approximately 40–45 MPH, the vehicle began making a whining sound. The \"4WD Failure\" message was",
+          "I am the original owner of a 2015 Nissan Rogue (VIN: [XXX] ) with approximately 63,000 miles. After driving for about 20–30 minutes, the engine will suddenly rev up but the vehicle will not accelerate"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 98,
+        "share_pct": 17.8,
+        "excerpts": [
+          "Recently bought this car used with about 105,000 miles and I noticed that the air bag light comes on and stays on. Previous owner said it had always been an issue, but he was told that it would cost o",
+          "Date of Incident: [XXX]   On [XXX], my sister and I traveled from Maryland to Newport News, Virginia, to celebrate with family. Upon  returning home to Maryland, my sister attempted to fasten her fron",
+          "The contact owns a 2015 Nissan Rogue. The contact stated that while driving at an undisclosed speed, the front passenger's side seat belt seized, and the air bag warning light illuminated. Additionall"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 82,
+        "share_pct": 14.9,
+        "excerpts": [
+          "I am reporting a severe safety hazard and failure of a critical safety remedy on my 2015 Nissan Rogue. Over a 23-day period, a Faulkner Nissan, a certified Nissan dealer mismanaged a severe water intr",
+          "2015 Nissan Rogue was off and parked for 20 minutes when it went up in flames.  There was a recall of 2014-2016 Rogues for electrical issues that could lead to fire, but my car was NOT recalled.",
+          "I am writing to formally document my experience with the service performed at Nissan Heights following a recall repair on my vehicle. My vehicle was brought to Nissan Heights on Monday, March 2, for r"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 56,
+        "share_pct": 10.2,
+        "excerpts": [
+          "My vehicle has a lack of power it won't change gears move slow hard to go up hills shakes",
+          "To Whom It May Concern,  I am filing a vehicle safety complaint regarding a sudden and complete failure of the Body Control Module (BCM) in my 2015 Nissan Rogue. This failure has resulted in a complet",
+          "It has a CVT transmission and when you try to accelerate quickly, it box down it does not go every now and then when it tries to change gears it shimmy it gives a humping sensation"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 39,
+        "share_pct": 7.1,
+        "excerpts": [
+          "I have a 2015 Nissan rogue select and the paint is peeling and chipping tremendously, on the driver side the paint is chipping so bad on the backseat door that half of the door is gray from missing pa",
+          "The contact owns a 2015 Nissan Rogue. The contact stated that while driving at an undisclosed speed over a bump in the roadway, the vehicle shuddered and swayed to one side and made an abnormal clunki",
+          "Hatch hydraulic lift failed and trunk slammed on me. I also believe the hood latch might be a safety concern due to the hood wiggling like it doesn’t want to stay shut and shaking when on highway"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 30,
+      "fires": 8,
+      "injuries": 40,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 6
+      },
+      {
+        "year": 2015,
+        "count": 40
+      },
+      {
+        "year": 2016,
+        "count": 40
+      },
+      {
+        "year": 2017,
+        "count": 31
+      },
+      {
+        "year": 2018,
+        "count": 54
+      },
+      {
+        "year": 2019,
+        "count": 57
+      },
+      {
+        "year": 2020,
+        "count": 62
+      },
+      {
+        "year": 2021,
+        "count": 53
+      },
+      {
+        "year": 2022,
+        "count": 75
+      },
+      {
+        "year": 2023,
+        "count": 50
+      },
+      {
+        "year": 2024,
+        "count": 40
+      },
+      {
+        "year": 2025,
+        "count": 26
+      },
+      {
+        "year": 2026,
+        "count": 16
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "16V911000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2015 Altima vehicles manufactured January 3, 2013, to July 29, 2013, 2015-2016 Rogue vehicles manufactured October 14, 2014, to August 12, 2016, and 2016 Maxima vehicles manufactured June 4, 2015, to August 19, 2015.  An incorr",
+        "report_date": "19/12/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V453000",
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2015 Nissan Rogue vehicles manufactured June 9, 2015, to June 10, 2015, and 2015 Nissan Sentra and Versa Note vehicles manufactured June 5, 2015, to June 13, 2015.  In the affected vehicles, the driver side front and rear doors may ",
+        "report_date": "21/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V219000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE:SUPPORT DEVICE/STRUT",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2014-2016 Nissan Rogue vehicles manufactured July 31, 2013, to January 16, 2016.  In the affected vehicles, the rear lift gate support stays may corrode due to insufficient anti-corrosion treatment.",
+        "report_date": "15/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V368000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2015 Rogue Select vehicles manufactured November 17, 2014, to December 12, 2014 and equipped with seventeen-inch wheels.  The affected vehicles have incorrect tire size information on the tire labels.  As such, these vehicles fail t",
+        "report_date": "12/06/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V244000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2016-2017 Nissan Maxima, 2013-2016 Nissan Altima, NV200, LEAF, Sentra, and Pathfinder, 2014-2016 Nissan NV200 Taxi, Infiniti QX60, QX60 Hybrid, and Q50 Hybrid, 2014-2017 Nissan Rogue and Infiniti Q50, 2015-2016 Nissan Murano, Murano",
+        "report_date": "26/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V012000",
+        "component": "SERVICE BRAKES",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2014-2015 Nissan Pathfinder and Infiniti QX60 vehicles manufactured August 14, 2014, to November 5, 2014, and 2014-2015 Nissan Rogue vehicles manufactured August 12, 2014, to November 15, 2014.  During the assembly process, the fron",
+        "report_date": "14/01/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V775000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2015 Rogue vehicles manufactured February 10, 2015, to May 13, 2015.  In the affected vehicles, due to a problem with the shift selector knob, it may be possible to shift out of the \"Park\" position without depressing the brake pedal",
+        "report_date": "20/11/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V024000",
+        "component": "ELECTRICAL SYSTEM:WIRING:INTERIOR/UNDER DASH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2014-2016 Rogue vehicles.  The electrical connector for the under dash harness may corrode due to water and salt intrusion from the driver's side foot well.",
+        "report_date": "21/01/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V093000",
+        "component": "ELECTRICAL SYSTEM:IGNITION:ANTI-THEFT:IMMOBILIZER/PROXIMITY:KEY/SENDER",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2014-2020 Rogue and 2017-2022 Rogue Sport vehicles equipped with a jackknife style ignition key.  The jackknife key may collapse into a folded position while driving.",
+        "report_date": "16/02/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:19.547Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

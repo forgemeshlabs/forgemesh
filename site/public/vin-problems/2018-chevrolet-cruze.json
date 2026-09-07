@@ -1,0 +1,144 @@
+{
+  "slug": "2018-chevrolet-cruze",
+  "year": 2018,
+  "make": "Chevrolet",
+  "model": "Cruze",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 109,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 27,
+        "share_pct": 24.8,
+        "excerpts": [
+          "Coming to a stop sign or red light the car won’t accelerate or will go in traction control making it difficult to move or not accelerate. Had 2-3 fuel leaks this year also having problems to keep the ",
+          "Unknown. The car seems to stall or slip when accelerating as is misfiring. It cuts off in the middle of the streets after coming out of auto stop mode. Pcv valve keeps popping up as issue. I had the p",
+          "-The engine experienced internal failure resulting in low compression in cylinder 1. The failure has rendered the vehicle inoperable. The vehicle and engine are currently available for inspection upon"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 23,
+        "share_pct": 21.1,
+        "excerpts": [
+          "The steering started to shake.  The car seat started to shake as well.  It felt very unsafe, but there was no serious injury.  John from Feldman Chevrolet in New Hudson, Michigan said that there is a ",
+          "The car is making a whistling sound, the check engine light is on and it has low power. Also wanting to stall",
+          "While sitting at a stop light the hydraulic clutch line failed causing the clutch pedal to stick to the floor. This issue prevents the clutch actuation preventing the the transmission from being disco"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 14,
+        "share_pct": 12.8,
+        "excerpts": [
+          "The car is making a whistling sound, the check engine light is on and it has low power. Also wanting to stall",
+          "The infotainment touchscreen on my 2018 Chevrolet Cruze has become unresponsive and frozen on the startup warning screen. Because of this, I am unable to access basic functions such as Bluetooth, CarP",
+          "I own a 2018 Chevrolet Cruze, and the infotainment touchscreen system has completely frozen with the same error screen that many other Cruze owners have reported online. This is not simply a case of a"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 13,
+        "share_pct": 11.9,
+        "excerpts": [
+          "Purchased new in 2019 – 32k miles - Oil changes every 6 months. Lightly driven, no modifications, all original engine components and tune. Engine developed a significant miss. Several warnings on Stab",
+          "The rear brakes are gouging the rotors on both wheels.  The car has less than 26,000 miles on it.  Front brakes are still in excellent condition and and car is having no problem with braking except th",
+          "The contact owns a 2018 Chevrolet Cruze. The contact stated while driving approximately 50 MPH, his brake warning light had illuminated. The contact stated that he attempted to depress the brake pedal"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 9,
+        "share_pct": 8.3,
+        "excerpts": [
+          "Purchased new in 2019 – 32k miles - Oil changes every 6 months. Lightly driven, no modifications, all original engine components and tune. Engine developed a significant miss. Several warnings on Stab",
+          "9/28/2024 abs light and traction control light came on my 2018 chevy Cruze LT along with steering assist reduced while driving home making car hard to steer above 50 mph and coming into curves Chevrol",
+          "The contact owns a 2018 Chevrolet Cruze. The contact stated that while making a turn, the vehicle went in another direction. While her son was driving at 2–3 MPH, making a turn, the vehicle went in an"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 17,
+      "fires": 3,
+      "injuries": 7,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 13
+      },
+      {
+        "year": 2019,
+        "count": 20
+      },
+      {
+        "year": 2020,
+        "count": 19
+      },
+      {
+        "year": 2021,
+        "count": 13
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 11
+      },
+      {
+        "year": 2024,
+        "count": 9
+      },
+      {
+        "year": 2025,
+        "count": 9
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "20V668000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Cruze and Buick LaCrosse, 2018-2020 Chevrolet Equinox, Chevrolet Traverse and GMC Terrain, 2018 Chevrolet Malibu, 2019-2020 Buick Encore, Buick Enclave, Cadillac XT4, Chevrolet Blazer and GMC Acadia, and 2020 Cadillac XT6 vehicles.  Th",
+        "report_date": "29/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V576000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Equinox, Impala, Cruze, Volt and Bolt EV vehicles, GMC Terrain vehicles, Buick Lacrosse and Regal vehicles, Cadillac XTS and XTS Professional vehicles and 2018 Chevrolet Malibu vehicles. The rear brake caliper pistons may have an insuf",
+        "report_date": "30/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V304000",
+        "component": "FUEL SYSTEM, GASOLINE",
+        "summary": "General Motors LLC (GM) is recalling certain 2016-2018 Chevrolet Cruze LS vehicles, equipped with a gasoline engine and a tire inflator kit instead of a spare tire.  The vehicles may leak gasoline following a rear-impact crash and a rollover.  As such, these vehicles fail to comply with the requirem",
+        "report_date": "10/05/2018",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:41:46.134Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

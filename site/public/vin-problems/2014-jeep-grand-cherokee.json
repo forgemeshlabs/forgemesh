@@ -1,0 +1,304 @@
+{
+  "slug": "2014-jeep-grand-cherokee",
+  "year": 2014,
+  "make": "Jeep",
+  "model": "Grand Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 2374,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 482,
+        "share_pct": 20.3,
+        "excerpts": [
+          "The vehicle has a severe, life-threatening safety defect where it randomly drops into neutral while driving at speed, physically locks the shifter, and actively engages the electronic braking system o",
+          "My 2014 Jeep Grand Cherokee suddenly developed a no-start condition after previously operating normally. The vehicle would crank but would not start. The battery and fuel injectors were checked and re",
+          "My Son just bought the car from a private party. On our way home the engine light and a lightning bolt icon illuminated on the dash, followed by the vehicle going into limp mode. We had the vehicle sc"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 473,
+        "share_pct": 19.9,
+        "excerpts": [
+          "The vehicle has a severe, life-threatening safety defect where it randomly drops into neutral while driving at speed, physically locks the shifter, and actively engages the electronic braking system o",
+          "See attached document for complaint.",
+          "While driving home from work on March 13, 2026, the alternator in my 2014 Jeep Grand Cherokee (3.0L EcoDiesel) failed, resulting in a progressive loss of electrical power. As battery voltage dropped, "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 408,
+        "share_pct": 17.2,
+        "excerpts": [
+          "This complaint is being filed regarding a failed and botched remedy of two federal safety recalls: the Crankshaft Position Sensor recall and Safety Recall Z46 (High-Pressure Fuel Pump) on my Jeep Gran",
+          "engine transmission motor mount backup camera fuel pump headlights dash cluster radio mirrors inside mirrors tailgate latch seat belt climate control  engine light transmission shifter",
+          "My 2014 Jeep Grand Cherokee suffered a total intake manifold failure directly resulting from a secondary breakdown of Safety Recall W79 (NHTSA Campaign 20V-699). Physical teardown at an independent fa"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 338,
+        "share_pct": 14.2,
+        "excerpts": [
+          "The contact owns a 2014 Jeep Grand Cherokee. The contact stated that while driving approximately 40 MPH, the front passenger’s side active head restraint inadvertently deployed without an impact. The ",
+          "engine transmission motor mount backup camera fuel pump headlights dash cluster radio mirrors inside mirrors tailgate latch seat belt climate control  engine light transmission shifter",
+          "Active head restraint on driver seat deployed today for no reason. No collision, just deployed on its own."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 268,
+        "share_pct": 11.3,
+        "excerpts": [
+          "The vehicle has a severe, life-threatening safety defect where it randomly drops into neutral while driving at speed, physically locks the shifter, and actively engages the electronic braking system o",
+          "I am reporting a safety-related issue involving a 2014 Jeep Grand Cherokee Summit 5.7 HEMI.  Within days of purchase, the vehicle experienced transmission slipping and delayed shifting, as well as bra",
+          "The Anti-lock braking system and the electronic traction control system are both failing. There were previous recalls on both systems that say they have been repaired, but the lights for both are cons"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 149,
+      "fires": 40,
+      "injuries": 138,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2003,
+        "count": 2
+      },
+      {
+        "year": 2009,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 2
+      },
+      {
+        "year": 2013,
+        "count": 117
+      },
+      {
+        "year": 2014,
+        "count": 395
+      },
+      {
+        "year": 2015,
+        "count": 203
+      },
+      {
+        "year": 2016,
+        "count": 151
+      },
+      {
+        "year": 2017,
+        "count": 134
+      },
+      {
+        "year": 2018,
+        "count": 182
+      },
+      {
+        "year": 2019,
+        "count": 265
+      },
+      {
+        "year": 2020,
+        "count": 307
+      },
+      {
+        "year": 2021,
+        "count": 173
+      },
+      {
+        "year": 2022,
+        "count": 144
+      },
+      {
+        "year": 2023,
+        "count": 122
+      },
+      {
+        "year": 2024,
+        "count": 81
+      },
+      {
+        "year": 2025,
+        "count": 65
+      },
+      {
+        "year": 2026,
+        "count": 29
+      }
+    ]
+  },
+  "recalls": {
+    "count": 19,
+    "recalls": [
+      {
+        "campaign_number": "20V475000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:DIESEL",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Ram 1500 and 2014-2016 Jeep Grand Cherokee vehicles equipped with 3.0L diesel engines.  The crankshaft position sensor tone wheel may delaminate causing the engine to lose its ability to synchronize the fuel injector pulses and cam shaft timing, p",
+        "report_date": "13/08/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V699000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:EMISSION CONTROL:GAS RECIRCULATION VALVE (EGR VALVE)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2019 Jeep Grand Cherokee vehicles equipped with the 3.0L EcoDiesel\r\nengines.  The Exhaust Gas Recirculation (EGR) cooler may crack and allow pre-heated vaporized coolant to enter the EGR system.  This mixture may combust inside the intake manifold.",
+        "report_date": "12/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V435000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2014 Dodge Challenger, Dodge Charger, Chrysler 300, Dodge Durango, and 2012-2014 Jeep Grand Cherokee vehicles.  The affected vehicles have electro-hydraulic power steering (EHPS) and are equipped with a 5.7L or a 3.6L engine and a 160, 180 o",
+        "report_date": "10/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17E061000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:GASOLINE:TURBO/SUPERCHARGER",
+        "summary": "Accessible Technologies, Inc. (ATI) is recalling certain ProCharger Superchargers, model numbers AB037A-100, AB037A-100P, and A037A-100B, sold for installation on 2012-2017 Jeep Grand Cherokee SRT8 and SRT vehicles.  The supercharger mounting bracket may contact and damage the ABS line, possibly res",
+        "report_date": "19/10/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V572000",
+        "component": "SERVICE BRAKES",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2014 Dodge Durango and Jeep Grand Cherokee vehicles.  The affected vehicles had brake booster shields installed under a previous campaign to prevent water from entering the brake booster and limiting braking ability.  This recall is to verify that the ",
+        "report_date": "18/09/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V741000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014 Dodge Challenger, Charger, Durango, Chrysler 300, and Jeep Grand Cherokee vehicles equipped with a 3.6L engine and a 160 amp alternator.  In the affected vehicles, the alternator may suddenly fail.",
+        "report_date": "21/11/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V154000",
+        "component": "SERVICE BRAKES",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Jeep Grand Cherokee and Dodge Durango vehicles manufactured from January 5, 2010, through September 8, 2013.  The subject vehicles have a brake booster with a center shell that may corrode and allow water to get inside.",
+        "report_date": "01/04/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V461000",
+        "component": "EQUIPMENT:ELECTRICAL:RADIO/TAPE DECK/CD ETC.",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2013-2015 Ram 1500, 2500, 3500, 4500, and 5500, 2015 Chrysler 200, Chrysler 300, Dodge Charger, and Dodge Challenger, 2014-2015 Jeep Grand Cherokee, Cherokee, and Dodge Durango, and 2013-2015 Dodge Viper vehicles.  The affected vehicles are equip",
+        "report_date": "23/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V293000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2014 Dodge Durango vehicles manufactured January 16, 2014 to April 8, 2014, Jeep Grand Cherokee vehicles manufactured January 16, 2014 to April 8, 2014, Jeep Grand Cherokee SRT vehicles manufactured February 3, 2014 to April 8, 2014, and ",
+        "report_date": "04/06/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V391000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Dodge Durango and Jeep Grand Cherokee vehicles manufactured January 5, 2010, through December 11, 2013.  In the affected vehicles, the wiring for the vanity lamp in the sun visor may short circuit, after a service repair is perf",
+        "report_date": "02/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V643000",
+        "component": "SEAT BELTS",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2014 Dodge Durango vehicles manufactured June 2, 2013, to June 28, 2014, and 2014 Jeep Grand Cherokee vehicles manufactured October 30, 2012, to April 30, 2014.  Due to a fault within the Occupant Restraint Control (OCR) module, the front",
+        "report_date": "14/10/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V240000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2012-2014 Dodge Charger and Chrysler 300 vehicles manufactured February 15, 2011, to November 27, 2014, and 2014-2015 Jeep Grand Cherokee vehicles manufactured July 16, 2012, to December 22, 2015.  The affected vehicles, equipped with an eight-sp",
+        "report_date": "25/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V636000",
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2014 Dodge Durango, and Jeep Grand Cherokee vehicles manufactured October 3, 2013, to April 11, 2014.  Due to an issue with the software for the Steering Column Control Module (SCCM), the Electronic Stability Control (ESC) may be disabled",
+        "report_date": "08/10/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V634000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Chrysler 300, Dodge Charger, Challenger, and Durango; and 2012-2014 Jeep Grand Cherokee vehicles manufactured April 22, 2010, to January 2, 2014, and equipped with a 3.6L engine and a 160 amp alternator.  In the affected vehicle",
+        "report_date": "08/10/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V483000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Chrysler Group, LLC (Chrysler) is recalling certain model year 2014 Jeep Grand Cherokee vehicles manufactured January 8, 2013, through August 20, 2013.  Due to a disruption of computer communications and loose alternator ground wires, the affected vehicles may experience random illumination of multi",
+        "report_date": "17/10/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V289000",
+        "component": "EXTERIOR LIGHTING",
+        "summary": "Chrysler is recalling certain model year 2014, non-SRT trimmed, Grand Cherokee vehicles manufactured January 14, 2013, through March 20, 2013 equipped with premium headlamps.  In the affected vehicles, when switching between daytime running lights and parking lights, electrical spikes may cause the ",
+        "report_date": "02/07/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V406000",
+        "component": "FUEL SYSTEM, DIESEL:DELIVERY:FUEL PUMP",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2020 Jeep Grand Cherokee, and 2014-2019 Ram 1500 vehicles equipped with 3.0L diesel engines.  A high pressure fuel pump (HPFP) failure may introduce internal debris into the fuel system, potentially resulting in fuel starvation.",
+        "report_date": "09/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V411000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2019 Ram 1500 and 2014-2020 Jeep Grand Cherokee vehicles equipped with 3.0L Diesel engines.  The crankshaft position sensor tone wheel may delaminate, causing the engine to lose its ability to synchronize the fuel injector pulses and cam shaft timing,",
+        "report_date": "08/06/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:37:31.822Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

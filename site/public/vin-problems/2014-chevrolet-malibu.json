@@ -1,0 +1,184 @@
+{
+  "slug": "2014-chevrolet-malibu",
+  "year": 2014,
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 362,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 127,
+        "share_pct": 35.1,
+        "excerpts": [
+          "Received vehicle at roughly 181,000 miles. Operated fine for about 5,000 miles and then began to show problems. In most cases when pressing down hard on the accelerator pedal, transmission drops into ",
+          "Automatic Start/Stop feature is faulty! When it activates, it prevents the engine from restarting for several minutes. This puts myself and others in my car at a major risk of getting in an accident. ",
+          "The headlights burn out frequently the air conditioner does not work the ignition had to be replaced there's always a code of p0171 the start/stop feature does not work the brakes make the car shake. "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 88,
+        "share_pct": 24.3,
+        "excerpts": [
+          "Odometer Fraud. The contact owns a 2014 Chevrolet Malibu. It was later discovered that there was a mileage discrepancy. The vehicle mileage was 177,918. The contact had owned the vehicle since 2022. A",
+          "Car started shaking in the middle of driving it about 30 mph and all the electrical like door locks were going up and down car wasn’t accelerating and an alert came up for stabilizing wheels i believe",
+          "Unknown, The ignition switch turns on when off position or restart engine when in off selection on ignition switch And the radio is powered back on if key left in the ignition switch powered off When "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 53,
+        "share_pct": 14.6,
+        "excerpts": [
+          "Received vehicle at roughly 181,000 miles. Operated fine for about 5,000 miles and then began to show problems. In most cases when pressing down hard on the accelerator pedal, transmission drops into ",
+          "The contact owns a 2014 Chevrolet Malibu. The contact stated that while driving at various speeds, the lights on the gear shifter was flashing, with the power steering assist and parking assist messag",
+          "powertrain there is a problem with auto stop restarting then dying. The transmission not engaging after a complete stop like it is neutral this only happens after the car has been driven a bit everyth"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 50,
+        "share_pct": 13.8,
+        "excerpts": [
+          "Car started shaking in the middle of driving it about 30 mph and all the electrical like door locks were going up and down car wasn’t accelerating and an alert came up for stabilizing wheels i believe",
+          "The contact owns a 2014 Chevrolet Malibu. The contact stated that the heater and A/C system were inoperable. The vehicle was taken to the dealer, where the contact was provided an estimate for the rep",
+          "The contact owns a 2014 Chevrolet Malibu. The contact stated that while driving 20-25 MPH, there was an abnormal sound coming from the engine. The contact was unsure if any warning lights were illumin"
+        ]
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "complaints": 36,
+        "share_pct": 9.9,
+        "excerpts": [
+          "SERVICE ENGINE SIGNAL WON'T COME OFF     AND MY CAR WON'T CUT OFF",
+          "AUTO/STOP IS HAVING ISSUES. WHEN IN GAUGED IT STALLS THE CAR OUT AND WILL NOT ALLOW IT TO TURN BACK OVER. I HAVE BEEN IN TRAFFIC AT A STOP LIGHT SEVERAL TIMES WHEN THIS HAS HAPPENED AND ALMOST GOT INT",
+          "MY AUTO STOP AND START HAS NOT WORKED IN 6 MONTHS AND NOW THE STABILITRAK LIGHT COMES ON AND MY CAR STALLS AS I AM DRIVING SO MANY PARTS HAVE BEEN CHANGED AND NOW NO ONE KNOWS WHAT TO DO ITS BEEN IN T"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 19,
+      "fires": 8,
+      "injuries": 17,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 42
+      },
+      {
+        "year": 2015,
+        "count": 19
+      },
+      {
+        "year": 2016,
+        "count": 23
+      },
+      {
+        "year": 2017,
+        "count": 22
+      },
+      {
+        "year": 2018,
+        "count": 31
+      },
+      {
+        "year": 2019,
+        "count": 76
+      },
+      {
+        "year": 2020,
+        "count": 47
+      },
+      {
+        "year": 2021,
+        "count": 22
+      },
+      {
+        "year": 2022,
+        "count": 25
+      },
+      {
+        "year": 2023,
+        "count": 15
+      },
+      {
+        "year": 2024,
+        "count": 19
+      },
+      {
+        "year": 2025,
+        "count": 15
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "16V502000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016-2017 Buick Verano and 2016 Chevrolet Malibu as the electronic park lock lever may allow the ignition key to be removed without the transmission being in PARK.  Also, certain 2013 Buick Encore,  2011 Buick Regal, 2013-2014 Buick Verano, 201",
+        "report_date": "05/07/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V240000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014 Buick Lacrosse vehicles manufactured January 29, 2014, through March 31, 2014 and 2014 Chevrolet Malibu vehicles manufactured February 7, 2014, through March 31, 2014, and equipped with 17 inch front brake rotors.  The affected vehicles ma",
+        "report_date": "08/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V164000",
+        "component": "VISIBILITY:SUN/MOON ROOF ASSEMBLY",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2013-2015 Chevrolet Malibu vehicles October 24, 2011, to March 5, 2015.  In the affected vehicles, the Slide or Tilt switch for the roof panel may not be adequately recessed to prevent the switch from inadvertently being pressed.  As such, thes",
+        "report_date": "23/03/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V092000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014 Buick Regal, LaCrosse, Verano, and Enclave, and Chevrolet  Impala, Malibu, Cruze, and Traverse, and GMC Acadia vehicles equipped with automatic transmissions.  In the affected vehicles, the transmission shift cable adjuster may disengage f",
+        "report_date": "21/02/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V247000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014 Chevrolet Malibu vehicles manufactured June 12, 2013, through May 2, 2014, and equipped with a 2.5L engine with the auto stop/start option.  The affected vehicles may experience a complete loss of brake vacuum assist, disabling the hydraul",
+        "report_date": "14/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V567000",
+        "component": "VISIBILITY:DEFROSTER/DEFOGGER/HVAC SYSTEM",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014 Chevrolet Malibu vehicles manufactured June 12, 2013, through November 5, 2013. The heating, ventilation, and air conditioning (HVAC) control in these vehicles may intermittently become inoperable when the vehicle is started, preventing th",
+        "report_date": "13/11/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:37:21.928Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

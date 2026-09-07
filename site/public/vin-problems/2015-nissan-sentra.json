@@ -1,0 +1,156 @@
+{
+  "slug": "2015-nissan-sentra",
+  "year": 2015,
+  "make": "Nissan",
+  "model": "Sentra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 351,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 172,
+        "share_pct": 49,
+        "excerpts": [
+          "I am writing to report a life-threatening, sudden-onset mechanical defect in my vehicle’s Continuously Variable Transmission (CVT). While driving in heavy traffic, my son experienced a complete and su",
+          "Transmission failed on major highway out of no where would not accelerate above 5 MPH",
+          "The contact owns a 2015 Nissan Sentra. The contact stated that while driving 35 MPH, the vehicle unexpectedly stalled while in traffic. There was an abnormal screeching sound coming from the vehicle. "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 68,
+        "share_pct": 19.4,
+        "excerpts": [
+          "When driving the transmission it shudders/hesitates when pressing the accelerator.",
+          "The contact owns a 2015 Nissan Sentra. The contact stated that while driving 35 MPH, the vehicle unexpectedly stalled while in traffic. There was an abnormal screeching sound coming from the vehicle. ",
+          "Complete transmission failure and need replacement the car is less than 10 years old  Nissan has had major issues with the CVT system and transmission…transmission lose power on the highway"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 49,
+        "share_pct": 14,
+        "excerpts": [
+          "The contact owns a 2015 Nissan Sentra. The contact stated that while driving 5 MPH and making a right turn, the vehicle experienced unintended acceleration and the steering wheel turned independently.",
+          "The contact owns a 2015 Nissan Sentra. The contact stated that while driving 35 MPH, the vehicle unexpectedly stalled while in traffic. There was an abnormal screeching sound coming from the vehicle. ",
+          "Complete transmission failure and need replacement the car is less than 10 years old  Nissan has had major issues with the CVT system and transmission…transmission lose power on the highway"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 44,
+        "share_pct": 12.5,
+        "excerpts": [
+          "When a passenger sits in the passenger seat it doesn't register them in the seat and doesn't turn passenger airbag on. It always stays off and my air bag light on the dash never turns off. It's been l",
+          "My wife was rear ended and side collision accident. She was injured with side airbags both arm was severely cut. The steering airbag did not deploy as a result she had head injury and the upper teeth ",
+          "On [XXX] I was driving my 2015 Nissan Sentra S (manual transmission) in Los Angeles, CA. While traveling at a moderate speed on a city street, another vehicle crossed into my lane, resulting in a dire"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 25,
+        "share_pct": 7.1,
+        "excerpts": [
+          "My car would we still in the middle of the road and one day I was turning to go home and it cut off with everything on the dashboard was still on and the power steering went out and I tried to turn re",
+          "The car keeps throwing a P0101 code. The MAF Sensor has been replaced and the throttle body has been clean and the engine light and code keep showing up. It is causing acceleration issues making it da",
+          "Mass air flow sensor code keeps coming on. I have replaced the sensor with the Nissan brand and the check engine light comes on again being the MAF sensor.  Also the radio screen is blank."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 23,
+      "fires": 3,
+      "injuries": 23,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 15
+      },
+      {
+        "year": 2016,
+        "count": 43
+      },
+      {
+        "year": 2017,
+        "count": 27
+      },
+      {
+        "year": 2018,
+        "count": 32
+      },
+      {
+        "year": 2019,
+        "count": 59
+      },
+      {
+        "year": 2020,
+        "count": 39
+      },
+      {
+        "year": 2021,
+        "count": 27
+      },
+      {
+        "year": 2022,
+        "count": 28
+      },
+      {
+        "year": 2023,
+        "count": 32
+      },
+      {
+        "year": 2024,
+        "count": 24
+      },
+      {
+        "year": 2025,
+        "count": 16
+      },
+      {
+        "year": 2026,
+        "count": 8
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "16V244000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2016-2017 Nissan Maxima, 2013-2016 Nissan Altima, NV200, LEAF, Sentra, and Pathfinder, 2014-2016 Nissan NV200 Taxi, Infiniti QX60, QX60 Hybrid, and Q50 Hybrid, 2014-2017 Nissan Rogue and Infiniti Q50, 2015-2016 Nissan Murano, Murano",
+        "report_date": "26/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V453000",
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2015 Nissan Rogue vehicles manufactured June 9, 2015, to June 10, 2015, and 2015 Nissan Sentra and Versa Note vehicles manufactured June 5, 2015, to June 13, 2015.  In the affected vehicles, the driver side front and rear doors may ",
+        "report_date": "21/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V242000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2016 Sentra vehicles manufactured June 4, 2012, to April 9, 2016.  The front passenger seat belt bracket may become deformed if it is used to secure a Child Restraint System (CRS).  The deformed seat bracket may cause the Occup",
+        "report_date": "26/04/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:20.964Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

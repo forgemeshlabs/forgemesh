@@ -1,0 +1,212 @@
+{
+  "slug": "2020-jeep-wrangler",
+  "year": 2020,
+  "make": "Jeep",
+  "model": "Wrangler",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 606,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 238,
+        "share_pct": 39.3,
+        "excerpts": [
+          "When driving down the road, 55mph, I drove across some bumps in the road, and my steering, tires and the front of my Jeep started shaking violently. Couldn't hardly control it. Please help.",
+          "These new Jeep Wrangles came from the factory with an aluminum steering box and Jeep has made 8 new steering boxes to try to fix the \"wondering\" steering issue but has not made any recalls. This is a ",
+          "On July 1,2026 , My 2020 Jeep wrangler jl sport died in the middle of traffic causing a safety issue. I was not able to start my jeep and move out of traffic. I was able to disable the transmission an"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 176,
+        "share_pct": 29,
+        "excerpts": [
+          "Instrument cluster panel stopped working.",
+          "The contact owns a 2020 Jeep Wrangler. The contact stated that while driving at an undisclosed speed, the instrument panel cluster started flickering and went from blue to black. The contact associate",
+          "While driving on the highway, the check engine light illuminated. Approximately 5 to 10 minutes later, the battery warning light came on. Upon exiting the highway and coming to a stop at an intersecti"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 53,
+        "share_pct": 8.7,
+        "excerpts": [
+          "Absolutely terrible gasoline vapor filling the inside cabin of the vehicle causing burning eyes, nausea and feeing ill. Checked for fuel, leak, leakage recall, while there was one it wasn’t including ",
+          "The 2.0L Turbo engine suffers from premature failures.  Jeep issued a TSB over leaking around the water pump, but did not notify owners.  My engine overheated due to low coolant (there's no low coolan",
+          "While driving on the highway, the check engine light illuminated. Approximately 5 to 10 minutes later, the battery warning light came on. Upon exiting the highway and coming to a stop at an intersecti"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 51,
+        "share_pct": 8.4,
+        "excerpts": [
+          "When driving down the road, 55mph, I drove across some bumps in the road, and my steering, tires and the front of my Jeep started shaking violently. Couldn't hardly control it. Please help.",
+          "At approximately 58,000 miles I discovered that the rear upper coil spring mounts on my 2020 Jeep Wrangler JL Unlimited Rubicon are separating from the frame. The factory welds attaching the upper coi",
+          "My jeep steering wheel and entire vehicle shake violently at high speeds and after a bump."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 47,
+        "share_pct": 7.8,
+        "excerpts": [
+          "While driving on the highway, the check engine light illuminated. Approximately 5 to 10 minutes later, the battery warning light came on. Upon exiting the highway and coming to a stop at an intersecti",
+          "Transmission pops out of second gear after downshifting from third. This has left me stranded in the middle of an intersection in front of oncoming traffic at least five times while struggling to get ",
+          "Vehicle Information: 2020 Jeep Wrangler Rubicon  Complaint: I am reporting a safety issue involving my 2020 Jeep Wrangler Rubicon related to both the transmission and instrument cluster.  In 2025, the"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 16,
+      "fires": 12,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 32
+      },
+      {
+        "year": 2020,
+        "count": 126
+      },
+      {
+        "year": 2021,
+        "count": 43
+      },
+      {
+        "year": 2022,
+        "count": 60
+      },
+      {
+        "year": 2023,
+        "count": 78
+      },
+      {
+        "year": 2024,
+        "count": 83
+      },
+      {
+        "year": 2025,
+        "count": 125
+      },
+      {
+        "year": 2026,
+        "count": 58
+      }
+    ]
+  },
+  "recalls": {
+    "count": 12,
+    "recalls": [
+      {
+        "campaign_number": "20V191000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2020 Jeep Gladiator and Jeep Cherokee, 2019-2020 Ram 1500 Pickup, Ram 2500 Pickup, Ram 3500 Pickup, Chrysler Pacifica, Dodge Durango, Jeep Grand Cherokee, Jeep Wrangler, and Jeep Renegade and 2019 Dodge Challenger vehicles equipped with 8.4\" or 12\" radio di",
+        "report_date": "10/09/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V042000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM:LOWER ARM",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2020 Jeep Wrangler vehicles.  The left side lower control arm bracket and weld may not be correctly positioned.",
+        "report_date": "24/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V665000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020 Jeep Wrangler vehicles equipped with the 2.0 Liter engine.   A cracked fuel supply line connector may leak fuel into the engine compartment.",
+        "report_date": "26/08/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V028000",
+        "component": "POWER TRAIN:CLUTCH ASSEMBLY",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2021 Jeep Wrangler and 2020-2021 Jeep Gladiator vehicles equipped with manual transmissions.  The clutch pressure plate may overheat and fracture.",
+        "report_date": "28/01/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V124000",
+        "component": "POWER TRAIN:CLUTCH ASSEMBLY",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018-2020 Jeep Wrangler and 2020 Gladiator vehicles equipped with manual transmissions.  The clutch pressure plate may overheat and fracture.",
+        "report_date": "03/03/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V638000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2021 Jeep Wrangler, RAM 1500 and 2021 Jeep Gladiator vehicles.  A radio software error may prevent the rearview image from displaying.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 111, \"",
+        "report_date": "25/08/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V767000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2022 Jeep Wrangler, Ram 1500, and 2021-2022 Jeep Gladiator vehicles equipped with 3.0L diesel engines.  The high pressure fuel pump (HPFP) may fail, causing an engine stall.",
+        "report_date": "13/10/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V116000",
+        "component": "POWER TRAIN:CLUTCH ASSEMBLY",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2023 Jeep Wrangler, and 2020-2023 Jeep Gladiator vehicles equipped with manual transmissions.  The clutch pressure plate may overheat and fracture.",
+        "report_date": "23/02/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V191000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2022 Jeep Wrangler vehicles.  A stud on the frame assembly may puncture the fuel tank in a crash, which can result in a fuel leak.",
+        "report_date": "23/03/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V652000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2024 Jeep Gladiator and 2018-2024 Jeep Wrangler vehicles.  The instrument panel cluster may experience an internal short circuit and fail.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 10",
+        "report_date": "05/09/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V676000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2024 Jeep Wrangler vehicles.  The wiring harness for the rearview camera and the center brake light may short circuit, which can disable the rearview camera image and center brake light.  As such, these vehicles fail to comply with the requirements of",
+        "report_date": "12/09/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V741000",
+        "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2025 Jeep Wrangler 4Xe and 2022-2026 Grand Cherokee 4Xe vehicles. The high voltage battery may fail internally and lead to a vehicle fire while parked or driving.",
+        "report_date": "30/10/2025",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:40.933Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

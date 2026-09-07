@@ -1,0 +1,156 @@
+{
+  "slug": "2019-toyota-corolla",
+  "year": 2019,
+  "make": "Toyota",
+  "model": "Corolla",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 201,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 53,
+        "share_pct": 26.4,
+        "excerpts": [
+          "Premature slave cylinder failure at ~70k miles. Suddenly started leaking brake fluid profusely. Inspected and confirmed by Toyota dealership. No symptoms prior to failure.  Clutch stopped functioning,",
+          "DESCRIPTION OF SAFETY ISSUE:  The Concentric Slave Cylinder (CSC) on my 2019 Toyota Corolla Hatchback 6-speed manual failed during normal driving at around 60mph, creating an immediate and uncontrolle",
+          "6 speed manual transmission.  79K miles.  Vehicle was checked at a dealer due to a sluggish clutch.   Dealer found low brake fluid, but no problems with the clutch.  The next day the clutch failed com"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 39,
+        "share_pct": 19.4,
+        "excerpts": [
+          "Error message that said 'drive start control malfunction.  Took 6 mos and numerous attempts to resolve.  Replaced numerous parts including the fuel pump because the plastic it's made out of was just d",
+          "The slave cylinder failed l3aving me stranded in a parking lot. Luckily I wasnt driving down the highway as the slave cylinder is also part of the brake system they use the shared brake fluid reservoi",
+          "Faulty slave cylinders  , that lead  to more damage such as the clutch & flywheel and"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 31,
+        "share_pct": 15.4,
+        "excerpts": [
+          "I was driving on a two lane state road. Two vehicles we traveling in front of me in the left lane. The further vehicle in left decide to make a sudden stop at a traffic light. The silver sedan behind ",
+          "I had recalls “repaired”, but my airbags do not work and Bob Howard Toyota told me that they work and that they only check the sensor to make sure the sensor works. My fuel pump was was supposedly rep",
+          "UNKNOWN  The vehicle stalled mid turn as I was turning left, my wheel locked up and brakes wouldn’t engage."
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 31,
+        "share_pct": 15.4,
+        "excerpts": [
+          "Error message that said 'drive start control malfunction.  Took 6 mos and numerous attempts to resolve.  Replaced numerous parts including the fuel pump because the plastic it's made out of was just d",
+          "I had recalls “repaired”, but my airbags do not work and Bob Howard Toyota told me that they work and that they only check the sensor to make sure the sensor works. My fuel pump was was supposedly rep",
+          "I have a 2019 Toyota Corolla Hatchback. The problems started on July 21st, 2025. While driving my 2019 Toyota Corolla Hatchback, I noted white exhaust smoke, even after the engine was warm. One week p"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 16,
+        "share_pct": 8,
+        "excerpts": [
+          "I believe the break booster on my 2019 Toyota Corolla is defective. This caused my stopping distance to increase significantly, making it difficult to control my vehicle and putting myself and other d",
+          "Faulty slave cylinders  , that lead  to more damage such as the clutch & flywheel and",
+          "The emblem on my car contains a sensor/radar for adaptive cruise control and foward collision warning that is also connected to automatic emergency brakes. The safety of me and my [XXX]  old are at ri"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 23,
+      "fires": 1,
+      "injuries": 15,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 3
+      },
+      {
+        "year": 2019,
+        "count": 31
+      },
+      {
+        "year": 2020,
+        "count": 39
+      },
+      {
+        "year": 2021,
+        "count": 12
+      },
+      {
+        "year": 2022,
+        "count": 24
+      },
+      {
+        "year": 2023,
+        "count": 19
+      },
+      {
+        "year": 2024,
+        "count": 37
+      },
+      {
+        "year": 2025,
+        "count": 28
+      },
+      {
+        "year": 2026,
+        "count": 8
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "20V024000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing  (Toyota) is recalling certain 2011-2019 Corolla, 2011-2013 Matrix, 2012-2018 Avalon, and 2013-2018 Avalon Hybrid vehicles.  During certain crashes, the air bag electronic control unit (ECU) may malfunction, possibly disabling the deployment of the air bags a",
+        "report_date": "17/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V012000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) recalled certain 2018-2019 4Runner, Highlander, Camry, Land Cruiser, Sequoia, Sienna, Tacoma and Tundra, and Lexus RC 300, RC 350, GS 350, GX 460, IS 300, LC 500, LS 500, LX 570, RX 350L, and 2019 Toyota Avalon and Corolla, and certain Lexus NX 300, ",
+        "report_date": "13/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V901000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:TORQUE CONVERTER",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2019 Toyota Corolla hatchback vehicles equipped with Continuously Variable Transmissions (CVT).  The pump impeller blades within the torque converter may detach, especially when driven under high load, potentially causing a vehic",
+        "report_date": "19/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V503000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2017-2019 Toyota Camry, Corolla, Rav4, Sienna, and Yaris iA vehicles equipped with factory-installed floor mats.  The load carrying capacity modification label may be incorrect.  As such, these vehicles fail to comply with the requirement",
+        "report_date": "28/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V244000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Gulf States Toyota (GST) is recalling certain 2019 C-HR, 4Runner, Avalon, Avalon Hybrid, Camry, Camry Hybrid, Highlander, Land Cruiser, Prius, RAV4, Sequoia, Tacoma, Sienna, Tundra and Yaris vehicles.  The text on the load capacity label may become illegible.  As such, these vehicles fail to comply ",
+        "report_date": "27/03/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:06.454Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,160 @@
+{
+  "slug": "2016-nissan-altima",
+  "year": 2016,
+  "make": "Nissan",
+  "model": "Altima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 552,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 235,
+        "share_pct": 42.6,
+        "excerpts": [
+          "To recap: •Nissan manufactured defective transmissions. •Nissan granted me a warranty extension with a fleeting expiration date (2023) to shift the cost away from them. •In 2020, Nissan performed work",
+          "My 2016 Nissan Altima has approximately 68,900 miles. When I am stopped and press the gas pedal, the vehicle sometimes hesitates before it begins moving. It does not accelerate normally, which is dang",
+          "My daughter was driving down the road and came to a 2-wayy stop. Went to pull out and the car stalled and started shuddering. On down the road leaving a red light it did the same thing and not wanting"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 86,
+        "share_pct": 15.6,
+        "excerpts": [
+          "Delayed gear change from 1st to 2nd/delayed acceleration 1-5 seconds mid-traffic because the car overheats soon after driving which causes the car to not properly accelerate causing more RPMs than nec",
+          "The contact owns a 2016 Nissan Altima. The contact stated while driving at various speeds and depressing the accelerator pedal, the vehicle failed to respond while the engine was running.  The contact",
+          "I am writing to formally request a recall for my 2016 Nissan Altima due to a known issue with the Continuously Variable Transmission (CVT). Recently, my vehicle has exhibited concerning symptoms, incl"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 70,
+        "share_pct": 12.7,
+        "excerpts": [
+          "There is an active recall for the generic 2016 Nissan Altima OCS sensor, but it does not apply to my specific VIN apparently. This sensor is a problem with other vehicles of the same year, make, and m",
+          "Upon impact driver's side and passenger side airbags did not deploy.",
+          "The contact owns a 2016 Nissan Altima. The contact stated that the air bag warning light was illuminated. The vehicle was taken to the dealer, where it was diagnosed with curtain air bags failure. The"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 65,
+        "share_pct": 11.8,
+        "excerpts": [
+          "My 2016 Nissan Altima has approximately 68,900 miles. When I am stopped and press the gas pedal, the vehicle sometimes hesitates before it begins moving. It does not accelerate normally, which is dang",
+          "Icc stopped working",
+          "The contact owns a 2016 Nissan Altima. The contact stated while driving at various speeds and depressing the accelerator pedal, the vehicle failed to respond while the engine was running.  The contact"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 42,
+        "share_pct": 7.6,
+        "excerpts": [
+          "The contact owns a 2016 Nissan Altima. The contact stated that the driver's side headlight had become inoperable. The vehicle was taken to a dealer, where it was diagnosed with an internal headlight f",
+          "The headlights on this vehicle are very dim because of a defect by the manufacturer.  The inside of the headlight has delamination and causes the lights to be very dim which is a hazardous situation w",
+          "Headlights on vehicle are very dim and often do not appear to be on causing bright lights to be used in replacement. Lights are not burnt out."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 28,
+      "fires": 3,
+      "injuries": 32,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2015,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 20
+      },
+      {
+        "year": 2017,
+        "count": 28
+      },
+      {
+        "year": 2018,
+        "count": 67
+      },
+      {
+        "year": 2019,
+        "count": 121
+      },
+      {
+        "year": 2020,
+        "count": 75
+      },
+      {
+        "year": 2021,
+        "count": 56
+      },
+      {
+        "year": 2022,
+        "count": 61
+      },
+      {
+        "year": 2023,
+        "count": 46
+      },
+      {
+        "year": 2024,
+        "count": 33
+      },
+      {
+        "year": 2025,
+        "count": 30
+      },
+      {
+        "year": 2026,
+        "count": 14
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "18V915000",
+        "component": "STRUCTURE:EMERGENCY:ESCAPE/EGRESS/EXIT",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2015-2017 Altima vehicles, previously remedied under recall number 17V-040.  The door latch-lock cable may not have been routed properly in the rear door when the remedy was applied.  As a result, the cable may interfere with the window regula",
+        "report_date": "19/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V040000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2015-2017 Altima vehicles. The rear door latch/lock cable on the vehicles may have been improperly routed.  As a result, lowering a rear window may inadvertently cause that door to unlatch and open.",
+        "report_date": "18/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V244000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2016-2017 Nissan Maxima, 2013-2016 Nissan Altima, NV200, LEAF, Sentra, and Pathfinder, 2014-2016 Nissan NV200 Taxi, Infiniti QX60, QX60 Hybrid, and Q50 Hybrid, 2014-2017 Nissan Rogue and Infiniti Q50, 2015-2016 Nissan Murano, Murano",
+        "report_date": "26/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V315000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2018 Nissan Altima vehicles.  If the primary hood latch is inadvertently released, there is an increased likelihood that the secondary hood latch may corrode over time.",
+        "report_date": "28/05/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:18.052Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

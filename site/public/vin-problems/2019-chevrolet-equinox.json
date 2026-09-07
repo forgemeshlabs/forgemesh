@@ -1,0 +1,148 @@
+{
+  "slug": "2019-chevrolet-equinox",
+  "year": 2019,
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 300,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 100,
+        "share_pct": 33.3,
+        "excerpts": [
+          "Unusual engine noise inspection at 86011 miles determined engine failure do to metal shavings and particles found in engine oils and oil filter by GM Dealership wher serviced only by them at mileage i",
+          "In May 2026 while driving home from her job in downtown St. Louis, my daughter was driving my equinox. While traveling on the highway at the speed limit of 55 miles an hour her brakes failed and she c",
+          "Car fails to move while in reverse, the rpm’s accelerate but the car doesn’t move the transmission seems to not be griping when in reverse i get a reading from diagnostic saying P2723"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 80,
+        "share_pct": 26.7,
+        "excerpts": [
+          "Hard brake pedal and Service Assist message.  This issue was recalled for trucks and larger SUVs but not the Equinox.  This is a known safety issue to Chevrolet, making my vehicle undrivable until I c",
+          "In May 2026 while driving home from her job in downtown St. Louis, my daughter was driving my equinox. While traveling on the highway at the speed limit of 55 miles an hour her brakes failed and she c",
+          "To Whom It May Concern,  I am submitting this formal complaint regarding my 2019 Chevrolet Equinox and the repeated failure of its brake vacuum pump. This is not an isolated repair issue. I have had t"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 43,
+        "share_pct": 14.3,
+        "excerpts": [
+          "On multiple occasions my vehicle (2019 equinox LT) that I bought just over 30 days ago has falsely activated the forward collision feature and slammed on its own brakes followed by “service ESC” and “",
+          "The instrument cluster and driver information center is completely blank, and none of the steering wheel controls are operating. Vehicle starts and runs normally, but no indication of speed, turn sign",
+          "In FMVSS 138, it says that the tire pressure monitoring system will warn drivers of under inflated tires.  My TPMS system failed on my MY19 Chevrolet Equinox around 49,000 miles and no longer warns me"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 40,
+        "share_pct": 13.3,
+        "excerpts": [
+          "The Fuel Pump Control Module (FPCM) connector corroded and disabled the fuel pump system. My car's fuel system failed while driving, and I had to pull over. After further research, I found that this p",
+          "This issue presents a serious safety concern. During the initial occurrence, the vehicle was unable to sustain highway speeds for extended periods (approximately 10 minutes or more). When coming to a ",
+          "A \"Reduced Engine Power\" warning in a 2019 Chevrolet Equinox LT usually indicates the car has entered \"limp mode\" to protect the engine, most commonly caused by a dirty/faulty throttle body, loose Cha"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 35,
+        "share_pct": 11.7,
+        "excerpts": [
+          "The contact owns a 2019 Chevrolet Equinox. The contact stated that while driving at an undisclosed speed, the accelerator pedal was depressed; however, the vehicle failed to accelerate as intended. Th",
+          "The transmission system failed abruptly. I pulled away from a stoplight, had accelerated to 20-25 mph, and then the car came to a sudden stop, as if someone had put on an emergency brake. It continued",
+          "The contact owns a 2019 Chevrolet Equinox. The contact stated while driving approximately 20-30 MPH, the vehicle jerked and stalled, and the vehicle was nearly rear-ended. There was no warning light i"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 22,
+      "fires": 7,
+      "injuries": 9,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 2
+      },
+      {
+        "year": 2019,
+        "count": 71
+      },
+      {
+        "year": 2020,
+        "count": 18
+      },
+      {
+        "year": 2021,
+        "count": 23
+      },
+      {
+        "year": 2022,
+        "count": 28
+      },
+      {
+        "year": 2023,
+        "count": 36
+      },
+      {
+        "year": 2024,
+        "count": 47
+      },
+      {
+        "year": 2025,
+        "count": 49
+      },
+      {
+        "year": 2026,
+        "count": 26
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "20V668000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Cruze and Buick LaCrosse, 2018-2020 Chevrolet Equinox, Chevrolet Traverse and GMC Terrain, 2018 Chevrolet Malibu, 2019-2020 Buick Encore, Buick Enclave, Cadillac XT4, Chevrolet Blazer and GMC Acadia, and 2020 Cadillac XT6 vehicles.  Th",
+        "report_date": "29/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V576000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Equinox, Impala, Cruze, Volt and Bolt EV vehicles, GMC Terrain vehicles, Buick Lacrosse and Regal vehicles, Cadillac XTS and XTS Professional vehicles and 2018 Chevrolet Malibu vehicles. The rear brake caliper pistons may have an insuf",
+        "report_date": "30/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V667000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "General Motors LLC (GM) is recalling certain 2019-2020 Chevrolet Equinox all-wheel drive vehicles.  The fuel tanks may have been manufactured with an improperly sealed seam, possibly allowing fuel to leak along the seam near the fuel inlet.",
+        "report_date": "19/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V184000",
+        "component": "SEATS",
+        "summary": "General Motors LLC (GM) is recalling certain Chevrolet Equinox and GMC Terrain vehicles.  The rear-right seat may have insufficient welds on the head-restraint bracket.",
+        "report_date": "07/03/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:47.554Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,208 @@
+{
+  "slug": "2016-jeep-cherokee",
+  "year": 2016,
+  "make": "Jeep",
+  "model": "Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1406,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 629,
+        "share_pct": 44.7,
+        "excerpts": [
+          "The vehicle suffered a complete internal failure of the Power Transfer Unit (PTU) drivetrain assembly. Authorized dealership Milford Auto Group diagnosed the vehicle on Invoice #45604 and confirmed in",
+          "My PTU/transfer case has failed and our Jeep is currently in the shop. They are stating that this exact issue is part of an ongoing recall and that our vehicle should also be added to the recall list ",
+          "My 2016 Jeep Cherokee developed severe grinding/scraping noise and vibration associated with the PTU. In 2023, I brought it to Larry H. Miller Jeep 104th for PTU-related Safety Recall 45A and also rep"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 314,
+        "share_pct": 22.3,
+        "excerpts": [
+          "I was driving home from work, the digital display (center)!showed my speed at 82m/h and revving the engine, the actual speedometer showed the actual speed I was doing of 32m/h…(right side of display).",
+          "pulling out of a gas station the engine revved and accelerated without me pressing on the pedal harder. i tried pressing the brakes and they would not respond. It caused my vehicle to crash into a pol",
+          "Beginning in late October 2025, my 2016 Jeep Cherokee North Edition began experiencing a recurring electronic shifter and transmission malfunction. The vehicle displays a “Service Shifter” warning (wi"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 297,
+        "share_pct": 21.1,
+        "excerpts": [
+          "I was driving home from work, the digital display (center)!showed my speed at 82m/h and revving the engine, the actual speedometer showed the actual speed I was doing of 32m/h…(right side of display).",
+          "The vehicle show code B0020-13.  This is a fault in the wiring system for the airbags.  Caused by Jeep engineering being bad. This has nothing to do with how is driven or used and is a massive safety ",
+          "Odometer Fraud. The contact purchased a 2016 Jeep Cherokee. It was discovered that there was a mileage discrepancy after the purchase. The vehicle was a dealer sale. At the time of purchase, the vehic"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 94,
+        "share_pct": 6.7,
+        "excerpts": [
+          "The parking brake has engaged on it's own 4 times. Twice while I was driving and twice while I was parked in my driveway with car started and attempting to leave. When parked it will not let me roll. ",
+          "I was stopped at a traffic light and when it tire we green I was unable to drive as the emergency brake was holding the vehicle. I was unable to release it. Car would not go forward or backwards. Fina",
+          "The parking brake will sometimes activate while driving the vehicle, I happens twice driving loosing control of the vehicle."
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 76,
+        "share_pct": 5.4,
+        "excerpts": [
+          "The PTU was bad and was replaced by the dealership under Chrysler extended warranty. The dealership then said the transfer case module and motor needed to be replaced and while at the dealership repla",
+          "Vibrating issue and missing fire originating from engine. Intake camshaft broken and left cylinder head is damaged and needs replacement. This should not be happening to this car. Cannot drive a faste",
+          "The car is not shifting properly and will \"jump\" or \"lunge\" forward while driving. I have noticed that the RPM's will jump and bounce around, seemingly down shifting, then shift again, and then down s"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 37,
+      "fires": 14,
+      "injuries": 27,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2005,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 8
+      },
+      {
+        "year": 2016,
+        "count": 93
+      },
+      {
+        "year": 2017,
+        "count": 103
+      },
+      {
+        "year": 2018,
+        "count": 144
+      },
+      {
+        "year": 2019,
+        "count": 281
+      },
+      {
+        "year": 2020,
+        "count": 176
+      },
+      {
+        "year": 2021,
+        "count": 106
+      },
+      {
+        "year": 2022,
+        "count": 102
+      },
+      {
+        "year": 2023,
+        "count": 138
+      },
+      {
+        "year": 2024,
+        "count": 124
+      },
+      {
+        "year": 2025,
+        "count": 95
+      },
+      {
+        "year": 2026,
+        "count": 34
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V826000",
+        "component": "ELECTRICAL SYSTEM:WIRING: REAR COMPARTMENT/TRUNK",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2015-2016 Jeep Cherokee vehicles manufactured February 18, 2015, to September 10, 2015 and equipped with the power liftgate option.  In the affected vehicles, water may leak into the Power Liftgate Control Module and result in a high resistance s",
+        "report_date": "09/12/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V824000",
+        "component": "EQUIPMENT",
+        "summary": "Chrysler (FCA US LLC) is recalling various Dodge, Chrysler, and RAM vehicles equipped with Kidde Plastic-Handle or Push Button 'Pindicator' Fire Extinguishers.  A list of the affected trailer models is available at: https://static.nhtsa.gov/odi/rcl/2017/RMISC-17V824-0103.pdf.  These extinguishers ma",
+        "report_date": "21/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V590000",
+        "component": "SEATS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2014-2016 Jeep Cherokee vehicles manufactured July 29, 2013, to February 5, 2016.  The seat fasteners on the first or second row seats may not have been tightened to the proper torque specification.",
+        "report_date": "10/08/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V287000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2016 Jeep Cherokee vehicles manufactured September 30, 2015, to October 2, 2015.  The left halfshaft may have been incorrectly manufactured causing it to fracture without warning.",
+        "report_date": "11/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V284000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2016 Jeep Cherokee vehicles manufactured October 3, 2015, to March 22, 2016.  The right halfshaft may have been incorrectly manufactured causing it to fracture without warning.",
+        "report_date": "11/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V343000",
+        "component": "POWER TRAIN:DRIVELINE:DIFFERENTIAL UNIT",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2017 Jeep Cherokee vehicles equipped with a two-speed Power Transfer Unit (PTU).  Relative movement in the Power Transfer Unit (PTU) between the differential input splines and the transmission output shaft may cause some input spline teeth to wear off,",
+        "report_date": "11/06/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V302000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2016-2017 Jeep Cherokee vehicles.  The power transfer unit (PTU) may become damaged and disengage the transmission and differential, resulting in a loss of drive power or loss of park function.",
+        "report_date": "27/04/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V338000",
+        "component": "ELECTRICAL SYSTEM:WIRING: REAR COMPARTMENT/TRUNK",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2016 Jeep Cherokee vehicles equipped with a power liftgate.  An electrical short in the power liftgate module may lead to a vehicle fire with the ignition on or off.",
+        "report_date": "11/05/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:47.916Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

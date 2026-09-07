@@ -1,0 +1,232 @@
+{
+  "slug": "2013-chevrolet-malibu",
+  "year": 2013,
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 922,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 424,
+        "share_pct": 46,
+        "excerpts": [
+          "The contact owns a 2013 Chevrolet Malibu. The contact stated that while driving 55 MPH, the electrical system failed inside the vehicle, causing the air conditioning system to fail to operate, and the",
+          "My battery warning light on the dash is illuminated with the notification saying \"service battery charging system.\" I've researched online and found out that more vehicles of the same year make and mo",
+          "The vehicle was purchased on 04/07 and represented with a mileage of 167,334 at the time of sale. No issues with the odometer or mileage accuracy were disclosed prior to purchase. On 04/08, the vehicl"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 226,
+        "share_pct": 24.5,
+        "excerpts": [
+          "While driving my 2013 Chevrolet Malibu (2.5L), I experienced a sudden and severe failure of the braking system. [Insert exactly what happened here—for example: 'The brake pedal suddenly went completel",
+          "My battery warning light on the dash is illuminated with the notification saying \"service battery charging system.\" I've researched online and found out that more vehicles of the same year make and mo",
+          "The vehicle was purchased on 04/07 and represented with a mileage of 167,334 at the time of sale. No issues with the odometer or mileage accuracy were disclosed prior to purchase. On 04/08, the vehicl"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 197,
+        "share_pct": 21.4,
+        "excerpts": [
+          "I have not been involved in no incident or accident with anybody but my vehicle is installing up and dying in the middle of the road the power steering is locking up the battery is draining and the ca",
+          "The contact owns a 2013 Chevrolet Malibu. The contact stated that while driving at an undisclosed speed, the vehicle experienced several electrical failures, causing a loss of power and the vehicle to",
+          "While driving my 2013 Chevrolet Malibu, the electrical system intermittently fails: the radio shuts off, the instrument cluster goes blank (gauges drop to zero, fuel/temperature show empty), headlight"
+        ]
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "complaints": 84,
+        "share_pct": 9.1,
+        "excerpts": [
+          "HAVING PROBLEMS WITH THE EASSIST SYSTEM. THE AUTO STOP  FUNCTION CAUSE THE CAR TO STALL AND STOP AND SHAKE SOMETIMES WHILE DRIVING AND STOP AT THE LIGHT OR STOP SIGN I HAVE TO DRIVE IN MANUEL MODE TO ",
+          "WHEN YOU ARE DRIVING THE ELECTRICAL SYSTEM CUTS OFF, MAKING IT HARD TO STEER AND AFFECTING OTHER ELECTRICAL CONTROLS SUCH AS: TOUCH SCREEN, LIGHTS, AND CONTROL PANEL. THE SYSTEM USUALLY SHUTS OFF FOR ",
+          "AFTER ABOUT A MONTH WITH MY CAR MY BLUETOOTH SYSTEM WENT OUT AND WOULD NOT LET ME CONNECT, THEN AFTER SWITCHING TO THE ACTUALLY USB PORT TO PLAY MUSIC AND TALK IT STILL WILL NOT CONNECT."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 69,
+        "share_pct": 7.5,
+        "excerpts": [
+          "Driver going 60+ mph hit metal guardrail, spun and slammed into concrete side of bridge. No airbags deployed",
+          "I got sick and I split a utility pole.  The airbags did not deploy",
+          "My instrument cluster is failing"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 38,
+      "fires": 11,
+      "injuries": 34,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2008,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 10
+      },
+      {
+        "year": 2013,
+        "count": 55
+      },
+      {
+        "year": 2014,
+        "count": 68
+      },
+      {
+        "year": 2015,
+        "count": 64
+      },
+      {
+        "year": 2016,
+        "count": 99
+      },
+      {
+        "year": 2017,
+        "count": 87
+      },
+      {
+        "year": 2018,
+        "count": 124
+      },
+      {
+        "year": 2019,
+        "count": 135
+      },
+      {
+        "year": 2020,
+        "count": 90
+      },
+      {
+        "year": 2021,
+        "count": 82
+      },
+      {
+        "year": 2022,
+        "count": 28
+      },
+      {
+        "year": 2023,
+        "count": 19
+      },
+      {
+        "year": 2024,
+        "count": 26
+      },
+      {
+        "year": 2025,
+        "count": 18
+      },
+      {
+        "year": 2026,
+        "count": 14
+      }
+    ]
+  },
+  "recalls": {
+    "count": 10,
+    "recalls": [
+      {
+        "campaign_number": "16V502000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016-2017 Buick Verano and 2016 Chevrolet Malibu as the electronic park lock lever may allow the ignition key to be removed without the transmission being in PARK.  Also, certain 2013 Buick Encore,  2011 Buick Regal, 2013-2014 Buick Verano, 201",
+        "report_date": "05/07/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V164000",
+        "component": "VISIBILITY:SUN/MOON ROOF ASSEMBLY",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2013-2015 Chevrolet Malibu vehicles October 24, 2011, to March 5, 2015.  In the affected vehicles, the Slide or Tilt switch for the roof panel may not be adequately recessed to prevent the switch from inadvertently being pressed.  As such, thes",
+        "report_date": "23/03/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V245000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2013 Chevrolet Malibu vehicles manufactured April 10, 2012, to August 2, 2012.  In the affected vehicles, the console transmission gear selection indicator may not illuminate the shift position selected.  As such, these vehicles fail to comply ",
+        "report_date": "24/04/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V484000",
+        "component": "EXTERIOR LIGHTING:TURN SIGNAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2011-2013 Buick Regal and model year 2013 Chevrolet Malibu vehicles.  These vehicles are equipped with two turn signal bulbs in each front turn signal.  If one of the two front turn signal bulbs burn out in either front turn signal lamp, there ",
+        "report_date": "04/10/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V566000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2013 Chevrolet Malibu vehicles manufactured October 25, 2011, through June 29, 2012 and equipped with the 8-way power adjustable front seat feature.  The wiring harness for the power seat may contact the seat frame which may chafe the harness.",
+        "report_date": "13/11/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V024000",
+        "component": "SUSPENSION:REAR",
+        "summary": "General Motors is recalling certain model year 2013 Chevrolet Malibu vehicles, manufactured December 6, 2011, through January 15, 2013.  One or more rear suspension bolts may not have been tightened to the specified torque.  This may lead to sudden changes in vehicle handling.",
+        "report_date": "23/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V224000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "GENERAL MOTORS (GM) IS RECALLING CERTAIN MODEL YEAR 2013 CHEVROLET MALIBU VEHICLES MANUFACTURED FROM OCTOBER 24, 2011, THROUGH MARCH 31, 2012.  AFTER AN EVENT OF HARD BRAKING, THE SENSING AND DIAGNOSTIC MODULE (SDM) MAY RESET ITSELF.",
+        "report_date": "18/05/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V764000",
+        "component": "SUSPENSION:REAR",
+        "summary": "General Motors, LLC (GM) is recalling certain 2012-2013 Buick Regal, 2013 Chevrolet Malibu, and 2010-2013 Buick Lacrosse vehicles sold or ever registered in Connecticut, Delaware, the District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missou",
+        "report_date": "21/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V633000",
+        "component": "SUSPENSION:REAR",
+        "summary": "General Motors, LLC (GM) is recalling certain 2013 Buick Regal, Chevrolet Malibu, and Buick Lacrosse vehicles sold or ever registered in Connecticut, Delaware, the District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshire, N",
+        "report_date": "12/08/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V00F000",
+        "component": "SUSPENSION:REAR",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2013 Buick Lacrosse, 2012-2013 Buick Regal, and 2013 Chevrolet Malibu vehicles sold or ever registered in Connecticut, Delaware, the District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missou",
+        "report_date": "22/12/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:35:55.505Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

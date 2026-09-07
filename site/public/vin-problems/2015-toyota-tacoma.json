@@ -1,0 +1,164 @@
+{
+  "slug": "2015-toyota-tacoma",
+  "year": 2015,
+  "make": "Toyota",
+  "model": "Tacoma",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 101,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 15,
+        "share_pct": 14.9,
+        "excerpts": [
+          "My frame of my truck rotted from the inside out and now I don’t qualify for their safety safety program, they only give you enough time and cover it up with a coating so by the time you realized it’s ",
+          "Paint starting to peel on exterior of both passenger and rear passenger side doors above window frame.   Apparently Toyota is aware of the problem in models with the Super White paint color and has is",
+          "The vehicle's Super White Factory Applied paint (040) is peeling around the exterior window frame. Took it to local dealership and was advised to speak with Toyota Customer Service who advised that my"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 12,
+        "share_pct": 11.9,
+        "excerpts": [
+          "The emergency brakes locked up during use and the truck has to be rocked back and forth for the emergency brakes to get unstuck. Did some searching and lots of other Tacoma owners has experienced the ",
+          "I came to a complete stop right after a left turn into strip shopping parking lot. My automatic transmission in drive with my left foot on the brake. My truck suddenly took off on its own hitting anot",
+          "The contact owns a 2015 Toyota Tacoma. The contact stated that there was brake fluid leaking from the brake booster which was leaking into the cabin. The contact stated no warning light was illuminate"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 12,
+        "share_pct": 11.9,
+        "excerpts": [
+          "TRAC OFF & ENGINE lights came on.  Removed gas cap and put it back on.  Removed cables to the battery and left them off.  Replaced battery cables.  Lights remain on.  Went to dealership and they charg",
+          "When starting vehicle (2015 Tacoma TRD Sport) on a cold morning, received check engine light and trac light. Used code reader and received code P0418 Secondary Air Injection System Control A Circuit e",
+          "Due to the failure of the secondary air pump system vehicle will experience a sudden loss of power and could cause a loss of control. Toyota is aware of the problem but will not issue a recall."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 11,
+        "share_pct": 10.9,
+        "excerpts": [
+          "Was in a serious accident while driving and rear ended another vehicle and my airbags did not deploy. Serious front end damage resulting in a total  loss of my Tacoma. Shocked airbags did not deploy. ",
+          "Purchased this vehicle used from dealership after reviewing the carfax and receiving reassurance from dealer that airbags were never deployed. 4 days after purchase passenger window needed to be reset",
+          "The contact owns a 2015 Toyota Tacoma. The contact stated that while driving 30-35 MPH with the seat belt engaged, the vehicle in front of the contact suddenly stopped at a set of train tracks, and th"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 9,
+        "share_pct": 8.9,
+        "excerpts": [
+          "Driving around a winding turn incline , tacoma hesitated at 40 mph while going down incline. Tacoma rpms fluctuates at 40 mph as if the engine is having difficulty accelerating. You can hear the engin",
+          "Due to the failure of the secondary air pump system vehicle will experience a sudden loss of power and could cause a loss of control. Toyota is aware of the problem but will not issue a recall.",
+          "U JOINT BROKE WHILE DRIVING"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 15,
+      "fires": 2,
+      "injuries": 11,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 26
+      },
+      {
+        "year": 2016,
+        "count": 17
+      },
+      {
+        "year": 2017,
+        "count": 5
+      },
+      {
+        "year": 2018,
+        "count": 4
+      },
+      {
+        "year": 2019,
+        "count": 5
+      },
+      {
+        "year": 2020,
+        "count": 7
+      },
+      {
+        "year": 2021,
+        "count": 6
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 10
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "17V425000",
+        "component": "STRUCTURE:BODY:HOOD:HINGE AND ATTACHMENTS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2011-2016 Toyota Tacoma and 4Runner vehicles equipped with accessory hood scoops installed by SET or SET dealers.  The adhesive attaching the hood scoop may weaken, allowing the hood scoop to detach from the vehicle.",
+        "report_date": "03/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V828000",
+        "component": "EQUIPMENT",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2014-2015 Toyota 4Runner, Tacoma, FJ Cruiser, Land Cruiser, RAV4, Scion FRS, and XB vehicles.  The affected vehicles may have accessories installed by SET, such as running boards or other items, that were incorrectly installed.",
+        "report_date": "30/12/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V099000",
+        "component": "TIRES",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2015 Tacoma pickup trucks manufactured August 7, 2014, to December 22, 2014. The affected vehicles may have had their tires and wheels changed to TRD PRO accessory tires and wheels, causing the inflation information on",
+        "report_date": "23/02/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V663000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Gulf States Toyota, Inc. (Gulf States) is recalling certain model year 2015 Toyota Tacoma vehicles manufactured September 2, 2014, to October 15, 2014.  The affected vehicles may contain an incorrect Load Carrying Capacity Modification Label.  As a result, these vehicles fail to comply with the requ",
+        "report_date": "22/10/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:14.092Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

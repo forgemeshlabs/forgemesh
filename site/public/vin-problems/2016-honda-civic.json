@@ -1,0 +1,176 @@
+{
+  "slug": "2016-honda-civic",
+  "year": 2016,
+  "make": "Honda",
+  "model": "Civic",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1078,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 442,
+        "share_pct": 41,
+        "excerpts": [
+          "The contact owns a 2016 Honda Civic. The contact stated while driving 50 MPH, the steering wheel jerked, and the steering wheel was sticking. The contact stated that the failure was a known failure wi",
+          "My 2016 Honda Civic has developed a steering problem in which the steering feels sticky or notchy while driving. The steering wheel does not move smoothly when making small corrections and can feel li",
+          "Failure of my Electric Power Steering General Assembly/Steering Rack and Pinion in my 2016 Honda Civic EX sedan while driving at highway speeds. My steering wheel sticks or feels notchy at highway spe"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 119,
+        "share_pct": 11,
+        "excerpts": [
+          "Failure of my Electric Power Steering General Assembly/Steering Rack and Pinion in my 2016 Honda Civic EX sedan while driving at highway speeds. My steering wheel sticks or feels notchy at highway spe",
+          "With increasing frequency, at seemingly any condition or speed, a cluster of dashboard warnings, including power steering EPS, ABS, tire pressure TPMS, and others, flash on and stay on. Shortly after,",
+          "Honda civic is stalling while driving due to faulty fuel pump or fuel delivery component.  Computer not coordinating correct power."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 95,
+        "share_pct": 8.8,
+        "excerpts": [
+          "The check engine light came on the car had no power. The head gasket was blown.",
+          "2016 Honda Civic EX-T 1.5L turbo. Coolant is disappearing with no visible external leak. Diagnosed by mechanic as likely head gasket failure. This is a known defect affecting 2016-2022 Civics with the",
+          "I was driving my vehicle on the highway and I experienced a loss of power / limp mode and my car started decelerating very quickly and I pulled off and parked because I got super scared of driving and"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 95,
+        "share_pct": 8.8,
+        "excerpts": [
+          "Car suddenly had many warning lights. A  red “BRAKE” light flashes. Lane keep and adaptive cruise stopped working. The steering feels numb and doesn’t return to center.   Took to dealer for diagnostic",
+          "I was driving my car home from work and many warning lights lit up on my car dashboard (brake problem, engine problem, uphill start, steering  problem) etc.. I got off the freeway and my car dashboard",
+          "Warning display of the following on the dashboard: Early lane departure mitigation problem collision mitigation system problem brake system mitigation Adaptive cruise control problem lane keeping assi"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 48,
+        "share_pct": 4.5,
+        "excerpts": [
+          "The paint on my car has been chipping nonstop and I have called Honda multiple times about the issue and they will not correct nor acknowledge the problem. This issue has been occurring before 2025, i",
+          "The white paint on my 2016 Honda Civic keeps peeling, which looks bad and is leading to structural rust developing in several areas of my car. Fixing it will be costly, and the paint quality on these ",
+          "The paint is flaking all areas surrounding the rear windshield which will cause rust damage and may lead to rear windshield needing to be replaced"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 36,
+      "fires": 4,
+      "injuries": 16,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1991,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 4
+      },
+      {
+        "year": 2016,
+        "count": 137
+      },
+      {
+        "year": 2017,
+        "count": 68
+      },
+      {
+        "year": 2018,
+        "count": 78
+      },
+      {
+        "year": 2019,
+        "count": 153
+      },
+      {
+        "year": 2020,
+        "count": 154
+      },
+      {
+        "year": 2021,
+        "count": 84
+      },
+      {
+        "year": 2022,
+        "count": 77
+      },
+      {
+        "year": 2023,
+        "count": 89
+      },
+      {
+        "year": 2024,
+        "count": 97
+      },
+      {
+        "year": 2025,
+        "count": 84
+      },
+      {
+        "year": 2026,
+        "count": 51
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "16V526000",
+        "component": "EXTERIOR LIGHTING",
+        "summary": "American Honda Motor Co. (Honda) is recalling certain model year 2016 Civic 2-Door vehicles manufactured February 23, 2016, through May 20, 2016.  The affected vehicles may have a damaged LED side marker light circuit board inside the taillight assembly, making the marker light inoperable.  As such,",
+        "report_date": "11/07/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V725000",
+        "component": "PARKING BRAKE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2016 Honda Civic two door and four door 1.5L turbo and 2.0L vehicles.  The electric parking brake (EPB) may not engage if it is applied immediately after turning the ignition off.",
+        "report_date": "11/10/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V074000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2016 Civic vehicles manufactured September 22, 2015, to February 3, 2016 and equipped with 2.0L engines.  The affected vehicles have engines with piston assemblies that may have been manufactured without a piston wrist pin circlip or w",
+        "report_date": "09/02/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:53.119Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

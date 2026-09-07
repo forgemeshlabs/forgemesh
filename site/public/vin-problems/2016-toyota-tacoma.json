@@ -1,0 +1,164 @@
+{
+  "slug": "2016-toyota-tacoma",
+  "year": 2016,
+  "make": "Toyota",
+  "model": "Tacoma",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 323,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 136,
+        "share_pct": 42.1,
+        "excerpts": [
+          "The contact owns a 2024 Ford Edge. The contact stated that the vehicle was shaking while driving. The contact noticed there was fluid emerging from the rear of the vehicle near the tire. There were no",
+          "2016 Toyota Tacoma is known to have an issue with the timing cover leaking oil.  This is a Fire Hazard: Oil leaking onto hot engine components can vaporize and ignite, posing a fire risk to the vehicl",
+          "I purchased the vehicle new and noticed right away that the transmisson would clunk right away when I put it into gear[ it's an automatic]. I asked the dealership about it and they said it was normal "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 47,
+        "share_pct": 14.6,
+        "excerpts": [
+          "Bought 2016 Tacoma in 2022 w/ 53k miles.  Hit 58,850 (ish) and had an noticable oil leak… apparently this was a “Well Known” issue, as the mechanic @ Surprise, AZ Dealership (Toyota of Surprise, 13543",
+          "I have experienced two major failures on my 2016 Toyota Tacoma TRD Sport with less than 90,000 miles: a leaking coolant crossover pipe, which required partial engine disassembly and cost me approximat",
+          "Upper Intake manifold flap actuator ( part: Toyota 17190-0P101 ) brakes in the intake resulting  in wrong air reading and forcing vehicle into limp mode causing the vehicle to rapidly decrease speed, "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 36,
+        "share_pct": 11.1,
+        "excerpts": [
+          "I am reporting a persistent and unsafe issue with the factory-installed Entune infotainment system in my 2016 Toyota Tacoma. While driving — whether locally or on the highway — the system frequently f",
+          "Seat heating module for my driver seat has melted and is further irrepairable without buying the entire harness to fix the issue.   There are multiple reports of this happening across forums.",
+          "Vehicle is designed in such a way as to allow moisture accumulating in drivers side floor mat and carpeting to wick upward and be deposited on the primary vehicle wiring harness located in the drivers"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 22,
+        "share_pct": 6.8,
+        "excerpts": [
+          "Toyota has a paint problem on the tacomas. The paint is the bright white, .040 . They have painted all 4 doors,both front fenders and the pillars on each side of the windshield. I’m having the same pr",
+          "Severe clear coat and paint fading on hood, roof and sides of truck.",
+          "2016 Toyota Tacoma – severe clear coat and paint failure on the hood and roof.  The clear coat began peeling in 2022 and has progressively worsened. Large sections of the hood and roof show complete d"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 22,
+        "share_pct": 6.8,
+        "excerpts": [
+          "Dear Toyota Japan Customer Experience Team,  I am the owner of a 2016 Toyota Tacoma currently registered in Guam, U.S.A. I am writing to request your assistance regarding a water leak issue from the r",
+          "Heated seat had stopped working, checked and found the problem. The module that controls the heated seats had a melted connector and wires, causing the seat to no longer be able to have heated seats.",
+          "Seat heating module for my driver seat has melted and is further irrepairable without buying the entire harness to fix the issue.   There are multiple reports of this happening across forums."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 4,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 10
+      },
+      {
+        "year": 2016,
+        "count": 67
+      },
+      {
+        "year": 2017,
+        "count": 99
+      },
+      {
+        "year": 2018,
+        "count": 30
+      },
+      {
+        "year": 2019,
+        "count": 23
+      },
+      {
+        "year": 2020,
+        "count": 22
+      },
+      {
+        "year": 2021,
+        "count": 15
+      },
+      {
+        "year": 2022,
+        "count": 19
+      },
+      {
+        "year": 2023,
+        "count": 13
+      },
+      {
+        "year": 2024,
+        "count": 15
+      },
+      {
+        "year": 2025,
+        "count": 7
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "17V425000",
+        "component": "STRUCTURE:BODY:HOOD:HINGE AND ATTACHMENTS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2011-2016 Toyota Tacoma and 4Runner vehicles equipped with accessory hood scoops installed by SET or SET dealers.  The adhesive attaching the hood scoop may weaken, allowing the hood scoop to detach from the vehicle.",
+        "report_date": "03/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V356000",
+        "component": "ENGINE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2016-2017 Tacoma vehicles equipped with a six-cylinder engine.  The affected vehicles have a crank position sensor that may malfunction, potentially resulting in an engine stall.",
+        "report_date": "01/06/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V285000",
+        "component": "POWER TRAIN:DRIVELINE:DIFFERENTIAL UNIT",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2016-2017 Tacoma vehicles.  Oil may leak from the area where the rear differential carrier is assembled to rear axle housing.",
+        "report_date": "27/04/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V656000",
+        "component": "AIR BAGS:KNEE BOLSTER",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2016 Tacoma trucks manufactured August 20, 2015, to September 10, 2015.  In the affected vehicles, incorrect bolts were used to install the driver's knee air bag module.",
+        "report_date": "14/10/2015",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:14.948Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

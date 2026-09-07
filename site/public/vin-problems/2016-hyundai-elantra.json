@@ -1,0 +1,144 @@
+{
+  "slug": "2016-hyundai-elantra",
+  "year": 2016,
+  "make": "Hyundai",
+  "model": "Elantra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 292,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 111,
+        "share_pct": 38,
+        "excerpts": [
+          "Vehicle stalls while driving which is very dangerous. All dashboard lights go on prior to stalling. No engine light is on. Knocking sound coming from engine. Dealer states engine needs to be replaced.",
+          "The motor started to make a ticking noise 5 months earlier. 5 months later at 180,000 miles a borascope finding, reveled all 4 cylinder walls were worn related to cylinder slap. Called Hyundai dealers",
+          "Engine burned oil and had knocking sound, despite having regular oil changes.  Stalked out while driving took to dealer initial said it was covered by the exerted coverage but ultimately denied. It ha"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 31,
+        "share_pct": 10.6,
+        "excerpts": [
+          "P0420 P0441 P0014 P1326 C1260 C1688 C2130 These are the codes that's affecting my car",
+          "Transmission P0731 code. Vehicle will not shift into 1st gear when idle but will stay in 3 or 4 gear. Speedometer would indicate high speed when pressing on accelerator.  At traffic light when light t",
+          "2016 Hyundai Elantra (75k miles) experiences severe, un-commanded Loss of Propulsive Power and a Severe Drivetrain Instability Hazard. At steady highway speeds, the automatic transmission completely l"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 26,
+        "share_pct": 8.9,
+        "excerpts": [
+          "The contact owns a 2016 Hyundai Elantra. The contact stated that while operating the vehicle, the air bag warning light remained illuminated. The vehicle was taken to the local mechanic, who informed ",
+          "On [XXX] I was struck by a OVI driver at 50mph the side airbags deployed however the front airbag never deployed. The vehicle was totaled out my insurance company. The vehicle had no record or open re",
+          "The contact owns a 2016 Hyundai Elantra. The contact stated that while her daughter attempted to adjust the front driver's side seat while the vehicle was turned off, the front Driver-side air bag had"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 22,
+        "share_pct": 7.5,
+        "excerpts": [
+          "The vehicle's security system malfunctioned immediately after service at Parks Hyundai of Gainesville on 05/27/26 for Recall 256 & Campaign P33. The alarm blares & emergency lights flash while I am dr",
+          "No accident has occurred as of yet (for my case).  Ongoing issues with Hyundai left brake bulb and center brake bulb burning out due to over-amperage. These two are on their own 10A circuit separate f",
+          "My fuel pump comes up and my check engine light saying that it needs to be replaced when I fill up my car it automatically resets my mileage for AAA and trippy and it will tell me that I have no gas e"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 19,
+        "share_pct": 6.5,
+        "excerpts": [
+          "Vehicle stalls while driving which is very dangerous. All dashboard lights go on prior to stalling. No engine light is on. Knocking sound coming from engine. Dealer states engine needs to be replaced.",
+          "I received confirmation from my local Hyundai dealership that my 2016 Hyundai Elantra GT is consuming over 1.8 quarts of oil every 1000 miles. The mileage is currently 70k miles. This is not the resul",
+          "While driving on the freeway at normal highway speed, the vehicle experienced a sudden and catastrophic engine failure. The engine immediately lost power, and the vehicle shut down within seconds. The"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 22,
+      "fires": 5,
+      "injuries": 17,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2015,
+        "count": 10
+      },
+      {
+        "year": 2016,
+        "count": 22
+      },
+      {
+        "year": 2017,
+        "count": 14
+      },
+      {
+        "year": 2018,
+        "count": 26
+      },
+      {
+        "year": 2019,
+        "count": 22
+      },
+      {
+        "year": 2020,
+        "count": 26
+      },
+      {
+        "year": 2021,
+        "count": 33
+      },
+      {
+        "year": 2022,
+        "count": 38
+      },
+      {
+        "year": 2023,
+        "count": 38
+      },
+      {
+        "year": 2024,
+        "count": 26
+      },
+      {
+        "year": 2025,
+        "count": 24
+      },
+      {
+        "year": 2026,
+        "count": 13
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "24V146000",
+        "component": "LATCHES/LOCKS/LINKAGES:TRUNK LID:LATCH",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2015-2016 Elantra vehicles.  The trunk latch may become damaged, preventing the opening of the trunk from the inside.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 401, \"Internal Trun",
+        "report_date": "23/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V307000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2015-2016 Elantra and 2016 Elantra GT vehicles. The driver's air bag inflator may rupture during deployment.",
+        "report_date": "15/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:49.499Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

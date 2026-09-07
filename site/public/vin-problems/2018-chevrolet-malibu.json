@@ -1,0 +1,172 @@
+{
+  "slug": "2018-chevrolet-malibu",
+  "year": 2018,
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 695,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 279,
+        "share_pct": 40.1,
+        "excerpts": [
+          "The contact owns a 2018 Chevrolet Malibu. The contact stated that while the vehicle was parked, the message \"Shift to Park\" was displayed on the instrument panel. The gear shifter was shifted back int",
+          "The contact owns a 2018 Chevrolet Malibu. The contact stated that there was an abnormally strong gasoline odor coming from the vehicle. The contact stated that while driving at various speeds on sever",
+          "I own a 2018 Chevy Malibu.   At approximately 57,000 miles, the original engine experienced a vacuum pump failure that resulted in catastrophic engine damage. The engine was replaced by General Motors"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 191,
+        "share_pct": 27.5,
+        "excerpts": [
+          "A software error in 1.5L turbo model disable fuel injectors, preventing the engine from starting or causing a sudden stall while driving. It’s been confirmed to be an previously opened recall that was",
+          "JUST BOUGHT THE CAR AND THE CAR IS RECEIVING ERROR: \"SHIFT TO PARK\".  THIS APPEAR TO BE A KNOW ISSUE FOR 2018 CHEVY MALIBU HYBRID. CAR CUT OFF IN MIDDLE OF TRAFFIC",
+          "Odometer Fraud. The contact purchased a 2018 Chevrolet Malibu. It was discovered that there was a mileage discrepancy. The vehicle was a dealer sale. At the time of purchase, the vehicle mileage was 9"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 169,
+        "share_pct": 24.3,
+        "excerpts": [
+          "The contact owns a 2018 Chevrolet Malibu. The contact stated that while the vehicle was parked, the message \"Shift to Park\" was displayed on the instrument panel. The gear shifter was shifted back int",
+          "REDUCED ENGINE LIGHT CAME ON TICKING NOISE STOPPED 2 TIMES ON THE HIGHWAY REPAIR LOT RAN A DIAGNOSTIC UNABLE TO FIND THE ISSUE CAR IS NOT WORKING FOUND MANY CODES STILLUNABLE TO FIX THE ISSUE",
+          "The shift to park is a problem it killed my battery because the car stays on and when I was driving the car turned off in the middle of turning causing someone to almost hit me this is the 3rd time th"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 111,
+        "share_pct": 16,
+        "excerpts": [
+          "A software error in 1.5L turbo model disable fuel injectors, preventing the engine from starting or causing a sudden stall while driving. It’s been confirmed to be an previously opened recall that was",
+          "REDUCED ENGINE LIGHT CAME ON TICKING NOISE STOPPED 2 TIMES ON THE HIGHWAY REPAIR LOT RAN A DIAGNOSTIC UNABLE TO FIND THE ISSUE CAR IS NOT WORKING FOUND MANY CODES STILLUNABLE TO FIX THE ISSUE",
+          "The check engine light keeps coming on and off with a warning that the engine power is being reduced. The dealership's service center can't locate the issue. The car's traction warning went off and th"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 84,
+        "share_pct": 12.1,
+        "excerpts": [
+          "A software error in 1.5L turbo model disable fuel injectors, preventing the engine from starting or causing a sudden stall while driving. It’s been confirmed to be an previously opened recall that was",
+          "In 2020, I received multiple red recall notices in the mail regarding a safety issue. I scheduled an appointment with a Chevrolet dealership in Los Angeles and have a voicemail confirming the appointm",
+          "The vehicle shut off in the middle of the street.  I had to get it jumped to start again. There was a fuel leak. Car is still smelling like fuel after getting it repaired.  The vehicle doesn't alert i"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 23,
+      "fires": 4,
+      "injuries": 17,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 3
+      },
+      {
+        "year": 2017,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 22
+      },
+      {
+        "year": 2019,
+        "count": 97
+      },
+      {
+        "year": 2020,
+        "count": 121
+      },
+      {
+        "year": 2021,
+        "count": 124
+      },
+      {
+        "year": 2022,
+        "count": 99
+      },
+      {
+        "year": 2023,
+        "count": 80
+      },
+      {
+        "year": 2024,
+        "count": 55
+      },
+      {
+        "year": 2025,
+        "count": 63
+      },
+      {
+        "year": 2026,
+        "count": 30
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "18V400000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "General Motors LLC (GM) is recalling certain 2016-2018 Chevrolet Malibu vehicles.  During servicing, a Passenger Presence System (PPS) may have been installed that was not correctly calibrated to the vehicle's seat type.  As a result, the PPS may not properly identify an adult passenger from a child",
+        "report_date": "14/06/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V576000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Equinox, Impala, Cruze, Volt and Bolt EV vehicles, GMC Terrain vehicles, Buick Lacrosse and Regal vehicles, Cadillac XTS and XTS Professional vehicles and 2018 Chevrolet Malibu vehicles. The rear brake caliper pistons may have an insuf",
+        "report_date": "30/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V358000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2018 GMC Canyon, 2016-2017 Buick Envision, 2016-2018 Chevrolet Colorado and Malibu, 2017-2018 GMC Acadia, 2018 Buick LaCrosse, Cadillac ATS, Chevrolet Equinox, and GMC Terrain vehicles.  The high pressure fuel pump may detach from its mounting flange",
+        "report_date": "31/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V642000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "General Motors LLC (GM) is recalling certain 2018 Chevrolet Malibu vehicles equipped with 1.5L turbo engines.  An error in the Engine Control Module (ECM) software may result in the fuel injectors being disabled.",
+        "report_date": "06/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V668000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Cruze and Buick LaCrosse, 2018-2020 Chevrolet Equinox, Chevrolet Traverse and GMC Terrain, 2018 Chevrolet Malibu, 2019-2020 Buick Encore, Buick Enclave, Cadillac XT4, Chevrolet Blazer and GMC Acadia, and 2020 Cadillac XT6 vehicles.  Th",
+        "report_date": "29/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V649000",
+        "component": "SEAT BELTS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2016-2021 Chevrolet Malibu and 2019-2021 Cadillac XT4 vehicles.  The rear seat belt retractors may be improperly secured with loose or missing fasteners.",
+        "report_date": "20/08/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:41:45.120Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,168 @@
+{
+  "slug": "2013-ford-f-150",
+  "year": 2013,
+  "make": "Ford",
+  "model": "F-150",
+  "matched_as": {
+    "complaints": [
+      "F-150 REGULAR CAB",
+      "F-150 SUPER CREW",
+      "F-150 SUPERCAB"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 8388,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 3636,
+        "share_pct": 43.3,
+        "excerpts": [
+          "At about [XXX] [XXX], Tuesday, I was N/B on [XXX] , my speed was approximately 60 mph. All of a sudden, my brakes locked up as if I slammed on by brakes. Although a safe distance behind my, vehicles b",
+          "The contact owns a 2013 Ford F-150. The contact stated while driving 10 MPH, the speedometer went to 0 MPH, and the transmission failed to shift out of 1st gear. The contact shifted into neutral and s",
+          "While driving my vehicle speedometer goes to zero which no recognition of speed. If brought to a stop I can’t get out of first gear. Ford issued a “Customer Satisfaction Program 19N01” related to the "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 1593,
+        "share_pct": 19,
+        "excerpts": [
+          "Truck has 91,200 miles and  was well maintained.  Truck has a loud rattle (like rocks in a can) on dry  start up after sitting for several days.  Rattle goes away after starting and is consistent with",
+          "While driving my vehicle speedometer goes to zero which no recognition of speed. If brought to a stop I can’t get out of first gear. Ford issued a “Customer Satisfaction Program 19N01” related to the ",
+          "The contact owns a 2013 Ford F-150. The contact stated that while driving at various speeds and accelerating, the vehicle started to lose motive power and unexpectedly downshifted to 1st or 2nd gear. "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 1062,
+        "share_pct": 12.7,
+        "excerpts": [
+          "The contact owns a 2013 Ford F-150. The contact stated that while hauling a trailer, the brake pedal independently went to the floorboard. The ABS and other unknown warning lights were illuminated. In",
+          "The contact owns a 2013 Ford F-150. The contact stated while in reverse, the brake pedal was depressed, and the brake pedal went to the floorboard. The brake and parking brake warning lights were illu",
+          "Complete, instant brake failure at only 105871 miles. My wife was backing out of the drive @5 mph, brake pedal pushed clear to floor with no warning.  3-4 minutes later, the brake warning light came o"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 918,
+        "share_pct": 10.9,
+        "excerpts": [
+          "Ford dealership Jack Kissee in Claremore, OK is telling me my truck is 6k miles out of warranty for Recall 19N01.  I have owned my 2013 F150 for less than 2 years with no knowledge of any previous rec",
+          "Odometer Fraud. The contact's client purchased a 2013 Ford F-150. The contact stated that it was discovered that there was a mileage discrepancy. The vehicle was a private sale. At the time of purchas",
+          "When putting truck in Reverse... Back-Up Camera goes Blank(Black-Out)"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 825,
+        "share_pct": 9.8,
+        "excerpts": [
+          "the speed sensor in transmission isn't working properly it shift down to 1st gear as shown in these recalls 19S07,19S19,AND 24S37. IM NOT SURE IF IT IS RELATED TO 19N01 in any way but the problem was ",
+          "While driving my vehicle speedometer goes to zero which no recognition of speed. If brought to a stop I can’t get out of first gear. Ford issued a “Customer Satisfaction Program 19N01” related to the ",
+          "While driving at highway speeds, about 55mph, transmission just jerked.  Happened multiple times until I could get it in to be serviced.  Service light comes on, speedometer goes to zero, safety light"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 222,
+      "fires": 93,
+      "injuries": 180,
+      "deaths": 3
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 3
+      },
+      {
+        "year": 2012,
+        "count": 39
+      },
+      {
+        "year": 2013,
+        "count": 468
+      },
+      {
+        "year": 2014,
+        "count": 297
+      },
+      {
+        "year": 2015,
+        "count": 384
+      },
+      {
+        "year": 2016,
+        "count": 669
+      },
+      {
+        "year": 2017,
+        "count": 759
+      },
+      {
+        "year": 2018,
+        "count": 1296
+      },
+      {
+        "year": 2019,
+        "count": 1320
+      },
+      {
+        "year": 2020,
+        "count": 510
+      },
+      {
+        "year": 2021,
+        "count": 468
+      },
+      {
+        "year": 2022,
+        "count": 528
+      },
+      {
+        "year": 2023,
+        "count": 537
+      },
+      {
+        "year": 2024,
+        "count": 708
+      },
+      {
+        "year": 2025,
+        "count": 402
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "19V075000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2013 F-150 vehicles equipped with a 6-speed automatic transmission.  The transmission may unexpectedly downshift into first gear, regardless of vehicle speed.",
+        "report_date": "11/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V433000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013 F-150 vehicles equipped with 5.0L or 6.2L gasoline engines, that previously had the powertrain control module (PCM) software reprogrammed under recall 19V-075.  The software used to reprogram the PCM did not have the necessary updates to prevent th",
+        "report_date": "10/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V345000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FLUID",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2014 F-150 vehicles manufactured August 1, 2013, to August 31, 2014 equipped with 3.5L engines.  The master cylinder rear cup seal may roll, resulting in brake fluid leakage from the primary reservoir into the brake booster.",
+        "report_date": "24/05/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:35:04.928Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

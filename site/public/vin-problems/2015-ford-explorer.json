@@ -1,0 +1,220 @@
+{
+  "slug": "2015-ford-explorer",
+  "year": 2015,
+  "make": "Ford",
+  "model": "Explorer",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1774,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 407,
+        "share_pct": 22.9,
+        "excerpts": [
+          "The contact owns a 2015 Ford Explorer. The contact stated while the vehicle was parked, the contact's brother became aware that the driver's side exterior B-pillar trim was loose. The contact was conc",
+          "The contact owns a 2015 Ford Explorer. The contact received notification of NHTSA Campaign Number: 24V031000 (Structure). The contact stated that while parked, the windshield molding trim next to the ",
+          "Manufacturer Safety recall: # 24S02 2011-19 Explorer A-Pillar Trim Detachment Safety   NHTSA: #24V031 [XXX] came a loose on FL interstate and reported to Riverside Ford 8-17-26 And dropped car off 8-1"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 345,
+        "share_pct": 19.4,
+        "excerpts": [
+          "I was driving at 65 mph on the highway when the light for the steering came up and the power steering shut down. I had a hard time to turn the steering wheel until I was able to exit the road. I shut ",
+          "Power-assisted steering fails repeatedly.  No warning lights, codes, or alarms are presented or shown.  Steering reverts to manual control only and becomes very difficult to turn.  This presents a pot",
+          "ABS module has failed.  Causing a number of other safety systems to be deactivated.  Power steering, traction control, drive mode selection, and braking. All these lights are illuminated on dash.  Ind"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 226,
+        "share_pct": 12.7,
+        "excerpts": [
+          "Exhaust fumes leak into the cabin while increasing speed.",
+          "The specific component or system has not fully failed. However, my vehicle is currently experiencing an intermittent check engine light condition, turning off and on, which was diagnosed at a Retailer",
+          "ENGINE LIGHT ACTIVATION code: P0430 Catalyst system efficiency below threshold Bank 2"
+        ]
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "complaints": 125,
+        "share_pct": 7,
+        "excerpts": [
+          "The contact owns a 2015 Ford Explorer. The contact received notification for NHTSA Campaign Number: 25V695000 (Back Over Prevention); however, the part to complete the recall repair was not available.",
+          "The rear view camera is distorted/and or blank,  and can potentially cause an accident. It is available for inspection upon request.   By not being able to see correctly with the rear view camera, I a",
+          "The contact owns a 2015 Ford Explorer. The contact received notification for NHTSA Campaign Number: 25V695000 (Back Over Prevention); however, the part to do the recall repair was not yet available. T"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 90,
+        "share_pct": 5.1,
+        "excerpts": [
+          "My camera failed and I backed into a very pole causing over $5,000 worth of damage and time I didn’t have to have it fixed. I had this fixed at the dealership I purchased the vehicle from. My exhaust ",
+          "Recall for faulty rearview camera. Still has no remedy. Mine is giving issues. Glitches, freezes, and displays error message to contact dealership. Has almost caused multiple accidents.   Have spoken ",
+          "Ford has had this recall open since October of last year. My car has a faulty backup camera that is not working. It’s been 9 months since it came out and there still no forward motion except for musta"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 37,
+      "fires": 1,
+      "injuries": 98,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2000,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 29
+      },
+      {
+        "year": 2015,
+        "count": 141
+      },
+      {
+        "year": 2016,
+        "count": 124
+      },
+      {
+        "year": 2017,
+        "count": 195
+      },
+      {
+        "year": 2018,
+        "count": 139
+      },
+      {
+        "year": 2019,
+        "count": 178
+      },
+      {
+        "year": 2020,
+        "count": 125
+      },
+      {
+        "year": 2021,
+        "count": 93
+      },
+      {
+        "year": 2022,
+        "count": 126
+      },
+      {
+        "year": 2023,
+        "count": 149
+      },
+      {
+        "year": 2024,
+        "count": 241
+      },
+      {
+        "year": 2025,
+        "count": 186
+      },
+      {
+        "year": 2026,
+        "count": 44
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "19V435000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2017 Explorer vehicles.  The rear suspension toe links may fracture due to stress on the rear suspension.",
+        "report_date": "10/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17E048000",
+        "component": "WHEELS:HUB",
+        "summary": "Ford Motor Company (Ford) is recalling certain Wheel Hub Bearing assemblies, part number HB5Z-1104-C, incorrectly listed as being for installation on the rear axles of 2011-2017 Ford Explorer 4X2 vehicles.  These bearings assemblies were manufactured without a self retention feature, possibly result",
+        "report_date": "28/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V464000",
+        "component": "PARKING BRAKE",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2015 Ford Taurus, Ford Flex, and Lincoln MKS vehicles manufactured May 4, 2015, to May 23, 2015, Lincoln MKT vehicles manufactured May 4, 2015, to May 21, 2015, and 2015-2016 Ford Explorer vehicles manufactured May 4, 2015, to May 23, 2015. T",
+        "report_date": "24/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V245000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2014-2015 Ford Explorer vehicles manufactured January 17, 2014 to May 31, 2014.  The affected vehicles may have improperly welded rear suspension toe links that may fracture.",
+        "report_date": "26/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V692000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2014-2016 Explorer, 2014-2015 Taurus and 2014 Edge vehicles equipped with 2.0L or 2.3L engines and front wheel drive.  The support bracket for the front drive axle halfshaft may fail.",
+        "report_date": "10/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V537000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2017 Explorer vehicles originally sold, or ever registered, in Connecticut, Delaware, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshire, New Jersey, New York, Ohio, Pennsylvania, Rhode I",
+        "report_date": "15/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V675000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2017 Explorer vehicles originally sold, or currently registered in Connecticut, Delaware, the District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshire, New Jersey, New Yor",
+        "report_date": "12/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V031000",
+        "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2019 Explorer vehicles.  The A-pillar trim retention clips may not be properly engaged, allowing the trim to detach.",
+        "report_date": "19/01/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V695000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2019 Flex, 2015 Explorer, Lincoln MKT,  Lincoln MKZ, 2015-2016 C-Max, Escape, Taurus, 2016 Fusion, 2018-2019 Taurus, 2019 Lincoln MKT, Fiesta, and 2020 Mustang vehicles.  The rearview camera may display a distorted,  intermittent, or blank image wh",
+        "report_date": "13/10/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:29.088Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

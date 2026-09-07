@@ -1,0 +1,140 @@
+{
+  "slug": "2017-chevrolet-cruze",
+  "year": 2017,
+  "make": "Chevrolet",
+  "model": "Cruze",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 201,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 73,
+        "share_pct": 36.3,
+        "excerpts": [
+          "THE ENGINE HAS EXCESSIVE BLOW BY FROM THE OIL FILLER CAP. HAVING A MISFIRE ON CYLINDER NUMBER 1 AND IDLING ROUGH. THERE ARE SEVERAL THREADS ONLINE CONCERNING THIS ISSUE BEING CAUSED BY WORN PISTONS AN",
+          "Recently my car's check engine light and the message \"Service Stabilitrak\" started coming up on my car, then my car started shaking while idling. I quickly took the car to my mechanic who assessed it,",
+          "Car is currently not drivable due to strong smell of gas coming from under the hood.  Findings, gas is leaking into the engine and car will not crank.  Diagnostic machine indicates poor fuel to fuel i"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 39,
+        "share_pct": 19.4,
+        "excerpts": [
+          "My 2017 Chevy Cruze had the throttle body replaced by STG Auto Group in Montclair, CA. A few months after the repair, my car began shaking violently and then shut off in the middle of the street while",
+          "Apparently there is a TSB from GM regarding the  end for updated/replacement of parts concerning the hydraulic piping, slave cylinder and accumulator. My clutch became spongy then stuck on the floor. ",
+          "Slave cylinder failure. At approximately 125,000 miles, the slave cylinder began to fail. Clutch pedal would only come back up about half way, and would need to be pulled the rest of the way up. Assoc"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 33,
+        "share_pct": 16.4,
+        "excerpts": [
+          "My head lights stopped working except the day time running lights. The high beams don’t work nor the actual head lights. They just went out.",
+          "The 3rd brake light is known to leak on Chevy cars, which I found out when searching up the issues, which allows water inside trunk without your knowledge and does water damage to the battery and othe",
+          "The contact owns a 2017 Chevrolet Cruze. The contact stated while driving at an undisclosed speed, the door latches independently unlocked and locked. Additionally, the contact stated that the failure"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 19,
+        "share_pct": 9.5,
+        "excerpts": [
+          "The contact owns a 2017 Chevrolet Cruze. The contact stated while attempting to reverse, the accelerator pedal was depressed, and the vehicle failed to accelerate as intended. The contact stated while",
+          "Operating vehicle on German autobahn, 90mph, brake assist light came on, check engine light came on, vehicle loss turbo power, felt a shift in the transmission feeling, without notice as a slowly pull",
+          "I want to know if there is a recall on GM cars with standard transmissions that have the shared master cylinder. That is when the clutch master cylinder and the brake master cylinder are the same part"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 16,
+        "share_pct": 8,
+        "excerpts": [
+          "Paint bubbling and rusting alone the car even though it’s washed and is no where near salt never even been hit there are tons of issues with GM paint yall need to fix these and recall every gm car wit",
+          ".",
+          "The contact owns a 2017 Chevrolet Cruze. The contact stated that while the vehicle was parked, the contact observed a 1-inch crack in the third brake light. The contact stated that there was condensat"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 6,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 2
+      },
+      {
+        "year": 2017,
+        "count": 17
+      },
+      {
+        "year": 2018,
+        "count": 24
+      },
+      {
+        "year": 2019,
+        "count": 33
+      },
+      {
+        "year": 2020,
+        "count": 31
+      },
+      {
+        "year": 2021,
+        "count": 17
+      },
+      {
+        "year": 2022,
+        "count": 21
+      },
+      {
+        "year": 2023,
+        "count": 22
+      },
+      {
+        "year": 2024,
+        "count": 17
+      },
+      {
+        "year": 2025,
+        "count": 12
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "18V304000",
+        "component": "FUEL SYSTEM, GASOLINE",
+        "summary": "General Motors LLC (GM) is recalling certain 2016-2018 Chevrolet Cruze LS vehicles, equipped with a gasoline engine and a tire inflator kit instead of a spare tire.  The vehicles may leak gasoline following a rear-impact crash and a rollover.  As such, these vehicles fail to comply with the requirem",
+        "report_date": "10/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V057000",
+        "component": "SEATS:FRONT ASSEMBLY:HEAD RESTRAINT",
+        "summary": "General Motors LLC (GM) is recalling certain 2016-2017 Chevrolet Cruze vehicles.  A bracket used in the driver or front passenger seat-back recliner mechanism may have been incorrectly welded to the seat-back frame, as a result, in the event of a crash, the head-restraints may not function properly.",
+        "report_date": "26/01/2017",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:40:44.682Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

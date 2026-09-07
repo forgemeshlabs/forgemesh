@@ -1,0 +1,216 @@
+{
+  "slug": "2012-ford-focus",
+  "year": 2012,
+  "make": "Ford",
+  "model": "Focus",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 3800,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 1459,
+        "share_pct": 38.4,
+        "excerpts": [
+          "Rowe ford came stated he checked to see it the software was there also stated there were codes and said he was done. He never fixed the software cause i have u codes that state pcm and has locked my c",
+          "The contact owns a 2012 Ford Focus. The contact stated that while driving at an undisclosed speed, the vehicle unexpectedly decelerated and stalled. The vehicle was able to restart but failed to move.",
+          "The contact owns a 2012 Ford Focus. The contact stated that while driving approximately 60 MPH, the check engine warning light illuminated, with an abnormal sound coming from the vehicle before the ve"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 933,
+        "share_pct": 24.6,
+        "excerpts": [
+          "The TCU/TCM has been going in and out of control. Sometimes it will work then others it will shut off. Speedometer won’t work, power steering won’t work, cruise control won’t work, etc. and when you d",
+          "Electric power steering failed at 65,000 miles. No power assist in the steering. Trying to steer the car with no power assist is very difficult and not safe.",
+          "The contact owns a 2012 Ford Focus. The contact stated that while driving at an undisclosed speed, the steering wheel seized. There was no warning light illuminated. The contact stated that the steeri"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 477,
+        "share_pct": 12.6,
+        "excerpts": [
+          "I am submitting this complaint because Ford dealers do not appear to be following Ford Motor Company's published procedure for Customer Satisfaction Program 24N07.  I visited two Ford service departme",
+          "The contact owns a 2012 Ford Focus. The contact stated that the vehicle previously failed the vehicle state inspection due to the check engine warning light being illuminated. Additionally, the vehicl",
+          "On XXX I received email from CARFAX regarding my vehicle recall \"26S40 PCM REPROGRAMMING FOR FUEL TANK DEFORMATION”. I contacted Ford Cutter Hawaii answering spoke with [XXX] over the phone regarding "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 366,
+        "share_pct": 9.6,
+        "excerpts": [
+          "Beginning in approximately May 2025, the vehicle began displaying diagnostic trouble codes identified by independent auto parts retailers and service providers. These codes indicated potential issues ",
+          "The car started shutting down while I am driving and also hard to start after",
+          "I own a 2012 Ford Focus with approximately 51,000 miles. The transmission warning light came on, and I was informed by a repair shop that the transmission control module (TCM) and gears need repair. T"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 332,
+        "share_pct": 8.7,
+        "excerpts": [
+          "Started July 2026, my drivers side door handle keeps getting stuck open",
+          "My driver side door was working perfect until one day i went into my car and tryed closing my door but it wont close so i had to go to work while holding the door so it dosent open i favent talked to ",
+          "While driving on the highway the sunroof suddenly blew off. The sunroof had not been opened prior. The frame bent upwards from the front, and the glass completely flew out onto the highway."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 108,
+      "fires": 15,
+      "injuries": 88,
+      "deaths": 5
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1971,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 2
+      },
+      {
+        "year": 2011,
+        "count": 63
+      },
+      {
+        "year": 2012,
+        "count": 238
+      },
+      {
+        "year": 2013,
+        "count": 225
+      },
+      {
+        "year": 2014,
+        "count": 312
+      },
+      {
+        "year": 2015,
+        "count": 449
+      },
+      {
+        "year": 2016,
+        "count": 718
+      },
+      {
+        "year": 2017,
+        "count": 329
+      },
+      {
+        "year": 2018,
+        "count": 325
+      },
+      {
+        "year": 2019,
+        "count": 502
+      },
+      {
+        "year": 2020,
+        "count": 173
+      },
+      {
+        "year": 2021,
+        "count": 127
+      },
+      {
+        "year": 2022,
+        "count": 136
+      },
+      {
+        "year": 2023,
+        "count": 84
+      },
+      {
+        "year": 2024,
+        "count": 53
+      },
+      {
+        "year": 2025,
+        "count": 42
+      },
+      {
+        "year": 2026,
+        "count": 21
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "18V735000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012-2018 Ford Focus vehicles with a 2.0L GDI or 2.0L GTDI engine.  The Canister Purge Valve (CPV) may malfunction, possibly causing excessive vacuum in fuel vapor management system.",
+        "report_date": "22/10/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V515000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012 and 2017 Focus vehicles equipped with 2.0L GDI gasoline engines and 2013-2014 Focus ST vehicles equipped with 2.0L GTDI engines, previously recalled under 18V-735.  The affected vehicles did not have the Powertrain Control Module (PCM) updated as i",
+        "report_date": "05/07/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V643000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2012-2015 Ford Focus, 2013-2015 Ford Escape and Ford C-MAX, 2015 Lincoln MKC and Ford Mustang, and 2014-2016 Ford Transit Connect vehicles.  A component within the door latches may break, preventing the doors from latching and/or leading the ",
+        "report_date": "06/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12E035000",
+        "component": "EQUIPMENT",
+        "summary": "This recall involves aftermarket parts sold by Yakima Products, Inc. for use on  model year 2012 and 2013 Ford Focus vehicles.  This recall is being conducted by Yakima, not by Ford.  Certain combined Q-Tower and Q128 Clip rooftop rack systems, part numbers 8000124 and 8000728, do not fully contact ",
+        "report_date": "02/10/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V149000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:SWITCH/WIRING",
+        "summary": "FORD IS RECALLING CERTAIN MODEL YEAR 2012 FOCUS VEHICLES MANUFACTURED FROM AUGUST 1, 2010, THROUGH OCTOBER 18, 2011.  A SEAL IN THE WIRING HARNESS CONNECTOR TO THE PASSENGER SIDE WIPER MOTOR MAY BE MISSING.",
+        "report_date": "05/04/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V335000",
+        "component": "EXTERIOR LIGHTING",
+        "summary": "Ford is recalling certain model year 2012-2013 Focus BEV vehicles equipped with High Intensity Discharge (HID) headlights, manufactured September 15, 2011, through May 6, 2013; and model year 2013 Focus ST vehicles equipped with High Intensity Discharge (HID) headlights, manufactured February 16, 20",
+        "report_date": "01/08/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V331000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2014 Fiesta, 2013-2014 Fusion, 2015 Mustang, 2013-2015 Escape and C-Max, 2012-2015 Focus, 2014-2016 Transit Connect, 2013-2014 Lincoln MKZ, and 2015 MKC vehicles.  These vehicles were previously recalled and repaired under recalls 15V-246, 16V-643 ",
+        "report_date": "08/06/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V369000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:EVAPORATIVE EMISSIONS:CANISTER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012-2018 Focus vehicles previously repaired incorrectly under recall number 18V735. The Canister Purge Valve (CPV) may malfunction, causing the engine to stall unexpectedly while driving.",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:33:36.018Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

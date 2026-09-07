@@ -1,0 +1,152 @@
+{
+  "slug": "2017-nissan-altima",
+  "year": 2017,
+  "make": "Nissan",
+  "model": "Altima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 390,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 133,
+        "share_pct": 34.1,
+        "excerpts": [
+          "Shuddering and loss of acceleration/vehicle slowed on its own while driving on the highway. Managed to get to Firestone and diagnostic codes P0776 and P0841 came up. Advised to take vehicle to dealer ",
+          "The contact owns a 2017 Nissan Altima. The contact stated that while driving at an undisclosed speed, the accelerator pedal was depressed; however, the vehicle failed to accelerate as intended. The ve",
+          "Just bought a 2017 Nissan Altima SR.  Took it for a ride.  Attempted to merge into traffic and the car had zero acceleration once I merged and then the transmission seemed to completely disengage.  Th"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 72,
+        "share_pct": 18.5,
+        "excerpts": [
+          "I was driving home from the store like 4 blocks away and on the road there’s dip n the road you can’t avoid it so after i drive over it the airbag light comes on with hitting anything.",
+          "The contact owns a 2017 Nissan Altima. The contact stated that while attempting to start the vehicle with a passenger inside the vehicle, the air big warning light illuminated. A dealer was contacted.",
+          "AIRBAG LIGHT UNEXPECTANTLY CAME  ON WITHOUT ANY COLLISION ACTION, OR OTHER UNUSUAL ACTIVITY ON 5/28/26.  DELAY GETTING CAR FOR INSPECTION DUE TO PERSONAL CIRCUMSTANCES.  ON 6/29/26 CAR CHECKED A  NISS"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 41,
+        "share_pct": 10.5,
+        "excerpts": [
+          "Shuddering and loss of acceleration/vehicle slowed on its own while driving on the highway. Managed to get to Firestone and diagnostic codes P0776 and P0841 came up. Advised to take vehicle to dealer ",
+          "Driving on the freeway and car goes into limp mode very dangerous situation as spend was reduced and almost got rear ended by truck",
+          "The first code it threw was for the master air flow sensor  then it started bogging out not going over 1RPM -throwing the code \"P17F0 CVT Judder\" and has left me in some really,really bad situations i"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 39,
+        "share_pct": 10,
+        "excerpts": [
+          "Check engine light came on will not go off transmission fluid burnt replaced transmission fluid because transmission was slipping out of gear not finding the correct gear I do believe it was starting ",
+          "Check engine light came on at approximately 96,000 miles in which vehicle would have a delayed acceleration upon stepping on gas pedal or going up hills. Took it to 3 different mechanics including Nis",
+          "The 2017 Nissan Altima has a delay in acceleration when the gas pedal is pressed. I couldn't accelerate pass 35-40 mph when I was driving. Thankfully it was bumper to bumper traffic."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 26,
+        "share_pct": 6.7,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2017 Nissan Altima. The contact stated that after purchasing the vehicle from a private seller on Facebook Marketplace, the vehicle was then sold to a third per",
+          "The issue appears to involve the vehicle’s battery system. The issue is abnormal battery drain and corrosion buildup on the battery terminals. The failure results in the vehicle being unable to start ",
+          "When driving down the street car shuts off lights flicker on and off continuously sometimes it don’t turn back on sometimes it does but I usually just coast until it turns back on very dangerous if on"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 24,
+      "fires": 7,
+      "injuries": 23,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2005,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 11
+      },
+      {
+        "year": 2018,
+        "count": 26
+      },
+      {
+        "year": 2019,
+        "count": 45
+      },
+      {
+        "year": 2020,
+        "count": 73
+      },
+      {
+        "year": 2021,
+        "count": 51
+      },
+      {
+        "year": 2022,
+        "count": 46
+      },
+      {
+        "year": 2023,
+        "count": 48
+      },
+      {
+        "year": 2024,
+        "count": 41
+      },
+      {
+        "year": 2025,
+        "count": 31
+      },
+      {
+        "year": 2026,
+        "count": 16
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "18V915000",
+        "component": "STRUCTURE:EMERGENCY:ESCAPE/EGRESS/EXIT",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2015-2017 Altima vehicles, previously remedied under recall number 17V-040.  The door latch-lock cable may not have been routed properly in the rear door when the remedy was applied.  As a result, the cable may interfere with the window regula",
+        "report_date": "19/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V040000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2015-2017 Altima vehicles. The rear door latch/lock cable on the vehicles may have been improperly routed.  As a result, lowering a rear window may inadvertently cause that door to unlatch and open.",
+        "report_date": "18/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V315000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2018 Nissan Altima vehicles.  If the primary hood latch is inadvertently released, there is an increased likelihood that the secondary hood latch may corrode over time.",
+        "report_date": "28/05/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:40:19.674Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,204 @@
+{
+  "slug": "2017-ford-focus",
+  "year": 2017,
+  "make": "Ford",
+  "model": "Focus",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 902,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 453,
+        "share_pct": 50.2,
+        "excerpts": [
+          "The transmission on my 2017 Ford Focus started not shifting correctly. It would shudder, slip and hesitate when shifting. At times when it did get up to speed it would unexpectedly downshift and go in",
+          "2017 focus slow down for traffic go to accelerate and nothing like it wasn’t in gear had to jump out and push car out of intersection told the clutch stuck or tcm but ford won’t fix their mistakes and",
+          "I am filing this complaint regarding a severe safety hazard and prolonged failure to resolve an official recall repair by the manufacturer and dealership.  In April 2026, the vehicle was brought to th"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 232,
+        "share_pct": 25.7,
+        "excerpts": [
+          "What component or system failed or malfunctioned, and is it available for inspection upon request? Transmission failure after 2 recall/warranty repairs, most recently in July 2026.  How was your safet",
+          "I was driving and during the drive I realized that if the accelerator pedal was pressed more than the lightest touch the car would stop accelerating. I decided that I had to turn back to go home, and ",
+          "I am filing this complaint regarding a severe safety hazard and prolonged failure to resolve an official recall repair by the manufacturer and dealership.  In April 2026, the vehicle was brought to th"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 117,
+        "share_pct": 13,
+        "excerpts": [
+          "I am filing this complaint regarding a severe safety hazard and prolonged failure to resolve an official recall repair by the manufacturer and dealership.  In April 2026, the vehicle was brought to th",
+          "While driving approximately 53 mph on a main road, my 2017 Ford Focus suddenly displayed the message “Engine Fault Service Now.” The vehicle immediately entered limp mode, downshifted into 2nd gear, a",
+          "UNKOWN my rpms rev up randomly I can’t shut my car off when I get gas and makes a raving up sound  I can’t reverse"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 81,
+        "share_pct": 9,
+        "excerpts": [
+          "The contact owns a 2017 Ford Focus. The contact stated that the vehicle was taken to a dealer for a recall repair associated with an engine oil failure and tensioner replacement. The contact stated th",
+          "The contact owns a 2017 Ford Focus. The contact stated that while driving at an undisclosed speed, the low engine oil pressure warning light illuminated, and the contact stopped driving the vehicle. T",
+          "See attached document for complaint."
+        ]
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "complaints": 61,
+        "share_pct": 6.8,
+        "excerpts": [
+          "The contact owns a 2017 Ford Focus. The contact stated that while driving at an undisclosed speed, the accelerator pedal was depressed, but the vehicle failed to accelerate as intended and stalled. No",
+          "The contact owns a 2017 Ford Focus. The contact stated that occasionally while driving at various speeds, the vehicle suddenly lost automotive power and hesitated while the accelerator pedal was depre",
+          "The contact owns a 2017 Ford Focus.  The contact stated that while stopped at the bank drive-thru line, the vehicle stalled. After several attempts, the vehicle restarted. The failure was progressivel"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 18,
+      "fires": 2,
+      "injuries": 16,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1940,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 31
+      },
+      {
+        "year": 2018,
+        "count": 82
+      },
+      {
+        "year": 2019,
+        "count": 120
+      },
+      {
+        "year": 2020,
+        "count": 86
+      },
+      {
+        "year": 2021,
+        "count": 79
+      },
+      {
+        "year": 2022,
+        "count": 114
+      },
+      {
+        "year": 2023,
+        "count": 126
+      },
+      {
+        "year": 2024,
+        "count": 154
+      },
+      {
+        "year": 2025,
+        "count": 84
+      },
+      {
+        "year": 2026,
+        "count": 25
+      }
+    ]
+  },
+  "recalls": {
+    "count": 10,
+    "recalls": [
+      {
+        "campaign_number": "18V735000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012-2018 Ford Focus vehicles with a 2.0L GDI or 2.0L GTDI engine.  The Canister Purge Valve (CPV) may malfunction, possibly causing excessive vacuum in fuel vapor management system.",
+        "report_date": "22/10/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V515000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012 and 2017 Focus vehicles equipped with 2.0L GDI gasoline engines and 2013-2014 Focus ST vehicles equipped with 2.0L GTDI engines, previously recalled under 18V-735.  The affected vehicles did not have the Powertrain Control Module (PCM) updated as i",
+        "report_date": "05/07/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V845000",
+        "component": "POWER TRAIN:MANUAL TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2018 Ford Focus vehicles equipped with a 1.0L Fox GTDI engine and a 6-speed manual transmission.  The clutch may fracture, resulting in damage to the transmission assembly and possibly a transmission fluid leak.",
+        "report_date": "28/11/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V528000",
+        "component": "SEAT BELTS:REAR/OTHER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2017 Focus vehicles.  The rear left side seat back frame may have an insufficient weld between the outboard pivot bracket and the pivot nut joint, resulting in the seat back having reduced strength.  As such, these vehicles fail to comply with the requi",
+        "report_date": "28/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V698000",
+        "component": "LATCHES/LOCKS/LINKAGES:HATCHBACK/LIFTGATE:LOCK",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2017 Ford Focus hatchback vehicles manufactured February 14, 2012, to August 26, 2016 and equipped with a manual transmission.  The hatchback of the affected vehicles may be unlatched with a single press of the interior latch release but",
+        "report_date": "28/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V905000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION:PUMP",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2018 Ford Focus and 2018-2022 Ford EcoSport vehicles.  The oil pump drive belt or drive belt tensioner may fail, resulting in a loss of engine oil pressure.",
+        "report_date": "22/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V011000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2018 Focus, 2013-2019 Escape, and 2015-2016 MKC vehicles equipped with a 2.0L engine. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+        "report_date": "15/01/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V012000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2018 Focus, 2019 Explorer, and 2024 Explorer vehicles. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+        "report_date": "15/01/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V369000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:EVAPORATIVE EMISSIONS:CANISTER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012-2018 Focus vehicles previously repaired incorrectly under recall number 18V735. The Canister Purge Valve (CPV) may malfunction, causing the engine to stall unexpectedly while driving.",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V376000",
+        "component": "POWER TRAIN:MANUAL TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2018 Focus and 2013-2016 Fusion vehicles previously repaired incorrectly under recall numbers 18V169 and 18V845. The clutch may fracture, resulting in damage to the transmission assembly and possibly a transmission fluid leak.",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:40:34.109Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

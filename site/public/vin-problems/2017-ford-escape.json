@@ -1,0 +1,164 @@
+{
+  "slug": "2017-ford-escape",
+  "year": 2017,
+  "make": "Ford",
+  "model": "Escape",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 2667,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 1558,
+        "share_pct": 58.4,
+        "excerpts": [
+          "My Ford Escape Titanium 2.0L 2017 started overheating. The coolant had just disappeared. The car sputtered in the morning with large plumes of white smoke. Due to the overheating my thermostat failed.",
+          "The vehicle suffered catastrophic engine failure at 72,000 miles due to a known Ford EcoBoost manufacturing defect where engine coolant leaks internally into the cylinders. Upon starting the vehicle i",
+          "Vehicle just hit 70k miles, started abruptly shaking between 30 and 50 mph. Torque converter is needing replaced. PCV hose has cracked and needs replaced. COOLANT DISAPPEARING DUE TO INTRUSION LEAK. E"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 506,
+        "share_pct": 19,
+        "excerpts": [
+          "The contact owns a 2017 Ford Escape. The contact stated that during the initial start-up, the vehicle would sputter. The Check Engine Light illuminated. While driving at approximately 45 - 50 MPH,  th",
+          "The contact owns a 2017 Ford Escape. The contact stated that the vehicle experienced rough start-ups with the check engine warning light remaining illuminated. The vehicle was taken to the local deale",
+          "The contact owns a 2017 Ford Escape. The contact stated that while driving at an undisclosed speed, an unknown warning light illuminated on the instrument panel. The vehicle was taken to an independen"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 390,
+        "share_pct": 14.6,
+        "excerpts": [
+          "Vehicle just hit 70k miles, started abruptly shaking between 30 and 50 mph. Torque converter is needing replaced. PCV hose has cracked and needs replaced. COOLANT DISAPPEARING DUE TO INTRUSION LEAK. E",
+          "The 4th cylinder started misfiring due to a coolant leak, which is being caused due to the known engine design flaw with the Ford EcoBoost engines. My local mechanic diagnosed the problem and said tha",
+          "Transmission failed/malfunctioned. Available for inspection. Safety at risk due to driving on busy road when transmission failed and car wouldn't move.  Transmission recall for VIN [XXX] Vehicle compo"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 153,
+        "share_pct": 5.7,
+        "excerpts": [
+          "The customer may notice coolant spots on the driveway or garage floor, a loss of cabin heat, powertrain unit overheating, or a warning indicator for a low coolant level. Additionally, the condition ca",
+          "The contact owns a 2017 Ford Escape. The contact stated that while the vehicle was parked, the vehicle failed to start. The contact check the vanity lights but there was no power inside the vehicle. T",
+          "Vehicles auto start stop malfunctions and turns car off at red light. Message states to shift to park and then to press ignition."
+        ]
+      },
+      {
+        "component": "WHEELS",
+        "complaints": 76,
+        "share_pct": 2.8,
+        "excerpts": [
+          "The contact owns a 2017 Ford Escape. The contact stated that while taking the vehicle in for a routine tire rotation, the dealer informed the contact that the lug nuts were swollen, and the tires coul",
+          "The contact owns a 2017 Ford Escape. The contact stated that while receiving regular maintenance, the mechanic informed the contact that the lug nuts were swollen and needed to be replaced. The vehicl",
+          "I have a 2017 Ford Escape and just had it in the Ford dealer for inspection and was informed that all of my lug nuts are swollen a;nd stripped and need replacement.  I checked online and found that th"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 39,
+      "fires": 15,
+      "injuries": 56,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 8
+      },
+      {
+        "year": 2017,
+        "count": 56
+      },
+      {
+        "year": 2018,
+        "count": 65
+      },
+      {
+        "year": 2019,
+        "count": 121
+      },
+      {
+        "year": 2020,
+        "count": 124
+      },
+      {
+        "year": 2021,
+        "count": 140
+      },
+      {
+        "year": 2022,
+        "count": 262
+      },
+      {
+        "year": 2023,
+        "count": 408
+      },
+      {
+        "year": 2024,
+        "count": 717
+      },
+      {
+        "year": 2025,
+        "count": 589
+      },
+      {
+        "year": 2026,
+        "count": 174
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "16V617000",
+        "component": "VISIBILITY:POWER WINDOW DEVICES AND CONTROLS",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2017 Ford Escape Titanium and SE vehicles manufactured October 5, 2015, to May 12, 2016.  The settings for the closing-force of the power-operated windows may allow the windows to close on an object such as a body part and injure it before th",
+        "report_date": "24/08/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V413000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2019 Escape, 2013-2018 C-Max, 2013-2016 Fusion, 2013-2021 Transit Connect, and  2015-2018 Edge vehicles.  The bushing that attaches the shifter cable to the transmission may degrade or detach.",
+        "report_date": "10/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V011000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2018 Focus, 2013-2019 Escape, and 2015-2016 MKC vehicles equipped with a 2.0L engine. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+        "report_date": "15/01/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V374000",
+        "component": "VISIBILITY:POWER WINDOW DEVICES AND CONTROLS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2017 Escape vehicles previously repaired incorrectly under recall number 16V617. The power-operated windows may exert excessive force when encountering an object, before they automatically reverse. As such, these vehicles fail to comply with the require",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:40:27.829Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

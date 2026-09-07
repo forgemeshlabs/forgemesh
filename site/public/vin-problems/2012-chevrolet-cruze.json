@@ -1,0 +1,208 @@
+{
+  "slug": "2012-chevrolet-cruze",
+  "year": 2012,
+  "make": "Chevrolet",
+  "model": "Cruze",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 865,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 268,
+        "share_pct": 31,
+        "excerpts": [
+          "I was driving and the engine caught on fire.  The flames came from the turbo gasket compartment not sure why or how it ignited. Thankfully the damage was not that extensive the car was towed to my res",
+          "Was driving and my car literally wouldn't go forward. Prior to I had an oil change and I would smell burning oil",
+          "Have called about this starting 2020. Had 137000. Also previous owner since 99000mi. Drive train & Turbo. Brake assist. Oil leaks, shutting off while driving. Now as of Saturday April 25 2026 Car shut"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 196,
+        "share_pct": 22.7,
+        "excerpts": [
+          "My breaks do not work in reverse. Pump valve seems to be bad",
+          "The contact owns a 2012 Chevrolet Cruze. The contact stated that while driving at 40 MPH and accelerating over a speed bump, the key slid out of the ignition switch. An independent mechanic was contac",
+          "My car keeps telling me my trunk is open then it dings constantly going back and forth from tire monitor system to the trunk open. Then Everytime I turn the car off I have to wiggle the battery cable "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 152,
+        "share_pct": 17.6,
+        "excerpts": [
+          "My breaks do not work in reverse. Pump valve seems to be bad",
+          "Have called about this starting 2020. Had 137000. Also previous owner since 99000mi. Drive train & Turbo. Brake assist. Oil leaks, shutting off while driving. Now as of Saturday April 25 2026 Car shut",
+          "Runs like the black stallion with a stud of a hide [XXX] INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 137,
+        "share_pct": 15.8,
+        "excerpts": [
+          "Have called about this starting 2020. Had 137000. Also previous owner since 99000mi. Drive train & Turbo. Brake assist. Oil leaks, shutting off while driving. Now as of Saturday April 25 2026 Car shut",
+          "The contact owns a 2012 Chevrolet Cruze. The contact stated that while driving at 40 MPH and accelerating over a speed bump, the key slid out of the ignition switch. An independent mechanic was contac",
+          "Had a 3-5-R wave plate failure. Symptoms started at around 87,000 miles. Bouncing/jerking when put into reverse. 5th gear slams hard into gear when upshifting and downshifting, making it feel like I h"
+        ]
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "complaints": 108,
+        "share_pct": 12.5,
+        "excerpts": [
+          "LESS THAN 30 DAYS I HAVE PURCHASE A CAR FROM GALLIMORE MOTORS STARTED HAVING ISSUES WITH THE TRANSMISSION SLIPPING REPORTED IT TO THE DEALER, WHO DID NOTHING. IT WAS LIKE OH WELL. THEN NOW THE STABILI",
+          "THE CAR HAS HAD ISSUES SINCE I BOUGHT IT. EVERYTHING FROM THE TRANSMISSION TO THE SEATBELTS TO THE ENGINE TO THE BRAKES THERE IS SOMETHING WRONG. MY VIN NUMBER DOESNT MATCH THE RECALLS BUT TEVERYTHING",
+          "MY SON WAS DRIVING DOWN THE ROAD LAST WEEK AND DASH FLASHED STABILINK AND HE LOST ALL POWER AND FORCES HIM TO TRY TO PULL OVER WHICH HE COULD BECAUSE STEERING WHEEL LOCKED UP AND BRAKES GOT HARD TO PU"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 62,
+      "fires": 18,
+      "injuries": 30,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1999,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 10
+      },
+      {
+        "year": 2012,
+        "count": 86
+      },
+      {
+        "year": 2013,
+        "count": 89
+      },
+      {
+        "year": 2014,
+        "count": 139
+      },
+      {
+        "year": 2015,
+        "count": 91
+      },
+      {
+        "year": 2016,
+        "count": 81
+      },
+      {
+        "year": 2017,
+        "count": 91
+      },
+      {
+        "year": 2018,
+        "count": 75
+      },
+      {
+        "year": 2019,
+        "count": 76
+      },
+      {
+        "year": 2020,
+        "count": 39
+      },
+      {
+        "year": 2021,
+        "count": 32
+      },
+      {
+        "year": 2022,
+        "count": 14
+      },
+      {
+        "year": 2023,
+        "count": 18
+      },
+      {
+        "year": 2024,
+        "count": 12
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 7
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "16V502000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016-2017 Buick Verano and 2016 Chevrolet Malibu as the electronic park lock lever may allow the ignition key to be removed without the transmission being in PARK.  Also, certain 2013 Buick Encore,  2011 Buick Regal, 2013-2014 Buick Verano, 201",
+        "report_date": "05/07/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V300000",
+        "component": "AIR BAGS",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2012 Buick Verano vehicles manufactured December 2, 2011 to July, 16, 2012, Chevrolet Cruze vehicles manufactured December 7, 2011 to July 25, 2012, Chevrolet Sonic vehicles manufactured December 5, 2011 to August 2, 2012, and Chevrolet Camaro ",
+        "report_date": "06/06/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V289000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY:MOUNTING",
+        "summary": "GENERAL MOTORS (GM) IS RECALLING CERTAIN MODEL YEAR 2011 AND 2012 CHEVROLET CRUZE VEHICLES MANUFACTURED FROM OCTOBER 2, 2009, THROUGH MAY 14, 2012.  ATTACHMENT WELDS FOR THE FUEL TANK STRAP SECONDARY BRACKETS MAY HAVE BEEN OMITTED.",
+        "report_date": "22/06/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V288000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "GENERAL MOTORS (GM) IS RECALLING CERTAIN MODEL YEAR 2011 AND 2012 CHEVROLET CRUZE VEHICLES MANUFACTURED FROM OCTOBER 2, 2009, THROUGH MAY 31, 2012.  SPILLED OR DRIPPING OIL (SUCH AS AFTER AN OIL CHANGE) MAY COLLECT IN THE ENGINE SHIELD (BELLYPAN) NEAR HOT ENGINE OR EXHAUST SYSTEM SURFACES.  AS A RES",
+        "report_date": "22/06/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V522000",
+        "component": "AIR BAGS",
+        "summary": "General Motors is recalling certain model year 2012 Buick Verano, Chevrolet Cruze, and Chevrolet Sonic vehicles. The driver side frontal air bag has a shorting bar which may intermittently contact the air bag terminals.",
+        "report_date": "31/10/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V023000",
+        "component": "AIR BAGS",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2012 Chevrolet Camaro, Cruze and Sonic, and model year 2012 Buick Verano vehicles.  The driver side frontal air bag has a shorting bar which may intermittently contact the air bag terminals.",
+        "report_date": "24/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V360000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST",
+        "summary": "General Motors (GM) is recalling certain model year 2011-2012 Chevrolet Cruze vehicles equipped with 1.4L DOHC gasoline turbo engines and 6T40 front wheel drive automatic transmissions and equipped with an electric vacuum pump to provide supplemental vacuum for brake assist, when needed.  In the aff",
+        "report_date": "15/08/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:33:53.054Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "2020-hyundai-elantra",
+  "year": 2020,
+  "make": "Hyundai",
+  "model": "Elantra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 248,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 103,
+        "share_pct": 41.5,
+        "excerpts": [
+          "The contact owns a 2020 Hyundai Elantra. The contact stated that while driving 25 MPH, there was an abnormal rattling sound coming from the engine, with the check engine warning light illuminated. The",
+          "At 105,000 MI. My car stalled out and the engine stopped.  It needs a new cam shaft, timing chain set, cam phaser and timing cover.  We also had to replace the Variable valve timing solenoids as the m",
+          "\"I was not notified of Campaign 974 and later experienced engine problems/failure. I am requesting review of whether the campaign was completed and whether the failure is related to the condition the "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 47,
+        "share_pct": 19,
+        "excerpts": [
+          "Transmission TCM/IVT had a service campaign recall #963 for TCM relearn / IVT replacement for premature transmission failure. Hyundai USA and dealership Big Star Hyundai of Friendswood, TX have made c",
+          "My 2020 Hyundai Elantra SEL experienced a total transmission/IVT failure at 81,185 miles. I paid $4,804.14 out of pocket to have the vehicle repaired at a certified Hyundai dealership, Dick Smith Hyun",
+          "Reporting on 2020 Hyundai Elantra.   I have owned since 2023, my car is currently at a Hyundai certified dealership for it's 3rd transmission in the three years I have owned it.  All 3 transmission we"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 28,
+        "share_pct": 11.3,
+        "excerpts": [
+          "The high beam lights don’t work. Doesn’t make changes to high. Relay, bulbs and breakers appear to be ok.",
+          "Unknown and about 4 months ago my headlights stopped working one would go out I’d replace the bulb then the other goes out then a different bulb in my headlight would go out I’d replace it and it woul",
+          "The manufacturer's Executive Case Management has ceased communication after verifying a total headlight failure. Despite providing evidence that the vehicle is grounded 150+ miles from home during a s"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 26,
+        "share_pct": 10.5,
+        "excerpts": [
+          "The high beam lights don’t work. Doesn’t make changes to high. Relay, bulbs and breakers appear to be ok.",
+          "I have a 2020 Hyundai Elantra Limited that was purchased new in December of 2020, has 17,764 miles, and no damage. At the end of May/early June of 2026, the car gave warning messages for the following",
+          "The contact owns a 2020 Hyundai Elantra. The contact stated that the vehicle unexpectedly turned off while driving 25 MPH on a local road. The engine symbol was displayed. Additionally, the battery wa"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 20,
+        "share_pct": 8.1,
+        "excerpts": [
+          "Steering wheel has been making whining noises when turning. Previously replaced worm shaft on steering while under warranty due to malfunction when first purchased. Issue has resurfaced but no longer ",
+          "On January 1, 2025, I discovered my vehicle had been stolen after finding broken glass in my driveway and immediately reported the incident to the police, who arrived within approximately 20 minutes; ",
+          "There is a grinding in my steering column, worse at lower speeds.   I have spoke to Hyundai about this and several other shops and they said this is a common recall for Elantras and there is a barring"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 20,
+      "fires": 6,
+      "injuries": 15,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 8
+      },
+      {
+        "year": 2020,
+        "count": 30
+      },
+      {
+        "year": 2021,
+        "count": 48
+      },
+      {
+        "year": 2022,
+        "count": 22
+      },
+      {
+        "year": 2023,
+        "count": 38
+      },
+      {
+        "year": 2024,
+        "count": 39
+      },
+      {
+        "year": 2025,
+        "count": 35
+      },
+      {
+        "year": 2026,
+        "count": 28
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "21V301000",
+        "component": "ENGINE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2019-2020 Elantra, 2019-2021 Kona and Veloster vehicles equipped with 2.0L Nu MPI engines.  The piston oil rings may not have been properly heat-treated, which could result in engine damage.",
+        "report_date": "28/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V720000",
+        "component": "WHEELS:LUGS/NUTS/BOLTS/STUDS",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2019 Ioniq Hybrid and 2020 Elantra vehicles.  The right-side rear wheel lug nuts may have been insufficiently tightened, allowing the wheel to detach from the vehicle.",
+        "report_date": "09/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V721000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM:LOWER BALL JOINT",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2020 Elantra vehicles.  The lower control arm ball joint fasteners may have been insufficiently tightened allowing the ball joint to detach from the lower control arm.",
+        "report_date": "09/10/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:43.694Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

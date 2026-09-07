@@ -1,0 +1,176 @@
+{
+  "slug": "2012-nissan-altima",
+  "year": 2012,
+  "make": "Nissan",
+  "model": "Altima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 425,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 149,
+        "share_pct": 35.1,
+        "excerpts": [
+          "I drove out of town about 40 miles and everything was fine, next day went to leave to come home and immediately noticed high RPMs going about 20MPH. I pulled over, turned the car off and turned it bac",
+          "The vehicle is unsafe to driver and others on the road. The power steering hose has had a leak since it was manufactured and was not fixed by the manufacturer at all! Tie rods gave away within 5 years",
+          "The contact owns a 2012 Nissan Altima. The contact stated that while driving at an undisclosed speed and attempting to accelerate, the vehicle briefly lost motive power before slamming into gear. The "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 68,
+        "share_pct": 16,
+        "excerpts": [
+          "There is a recall for the manufacturer emissions that the website doesn’t have on this car.",
+          "Clunking and bouncing from right tire followed by acceleration not working properly",
+          "The sensor was replaced but the light engine light still came back on now the speed sensor is causing the issue. The abs light comes on while accelerating it jumps and jerks"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 57,
+        "share_pct": 13.4,
+        "excerpts": [
+          "I was working, and as I was on my way to a location a lady in front of me came to a complete stop since a couple of ducks were crossing causing me to come to a complete stop as well. As I stopped I lo",
+          "The contact owns a 2012 Nissan Altima. The contact stated while starting the vehicle, the air bag warning light illuminated. The vehicle was taken to the dealer, where it was diagnosed that the OCS co",
+          "The contact owns a 2012 Nissan Altima. The contact stated while driving at an undisclosed speed, the air bag warning light illuminated. The vehicle was taken to an independent mechanic, but the cause "
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 49,
+        "share_pct": 11.5,
+        "excerpts": [
+          "The sensor was replaced but the light engine light still came back on now the speed sensor is causing the issue. The abs light comes on while accelerating it jumps and jerks",
+          "What component or system failed or malfunction and is it available for inspection upon request. The CVT failsafe high fluid temperature protection mode enacted while I was driving on the highway at sp",
+          "Hi I’m having trouble with my transmission in my car due to a safety feature that Nissan has installed on there cvt transmissions. After driving for 1 1/2 to 2 hour trips my car does not accelerate or"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 44,
+        "share_pct": 10.4,
+        "excerpts": [
+          "When I BARELY accelerate my car it does a very aggressive bucking motion along with loud noise. I have done put over $3k in vehicle! Nissan fix your shit!",
+          "Have a '12 SR coupe. Car keeps turning over for 5-10 seconds before starting. The alternator checked fine, but the battery voltage was a little low. I bought a brand new battery and that seemed to fix",
+          "The contact owns a 2012 Nissan Altima. The contact stated that while driving at various speeds, the traction control warning light would intermittently illuminate. As a result, the vehicle would hesit"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 24,
+      "fires": 2,
+      "injuries": 26,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 7
+      },
+      {
+        "year": 2012,
+        "count": 29
+      },
+      {
+        "year": 2013,
+        "count": 26
+      },
+      {
+        "year": 2014,
+        "count": 33
+      },
+      {
+        "year": 2015,
+        "count": 39
+      },
+      {
+        "year": 2016,
+        "count": 34
+      },
+      {
+        "year": 2017,
+        "count": 50
+      },
+      {
+        "year": 2018,
+        "count": 67
+      },
+      {
+        "year": 2019,
+        "count": 55
+      },
+      {
+        "year": 2020,
+        "count": 38
+      },
+      {
+        "year": 2021,
+        "count": 15
+      },
+      {
+        "year": 2022,
+        "count": 10
+      },
+      {
+        "year": 2023,
+        "count": 10
+      },
+      {
+        "year": 2024,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "12V055000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "NISSAN IS RECALLING CERTAIN MODEL YEAR 2012 ALTIMA AND VERSA VEHICLES.  THESE VEHICLES MAY BE EQUIPPED WITH SIDE CURTAIN AIR BAGS THAT CONTAIN AN INCORRECT PROPELLANT MIXTURE FOR THE INITIATOR COMPONENT USED, RESULTING IN INSUFFICIENT OUTPUT OF COMPRESSED GAS.",
+        "report_date": "14/02/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V408000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "NISSAN IS RECALLING CERTAIN MODEL YEAR 2012 NISSAN ALTIMA VEHICLES MANUFACTURED FROM JUNE 15, 2011, THROUGH JUNE 21, 2011 AND MODEL YEAR 2012 NISSAN NV VEHICLES MANUFACTURED FROM JUNE 23, 2011, THROUGH JUNE 28, 2011 BECAUSE THE AIR BAG CONTROL UNIT (ACU) WAS ASSEMBLED INCORRECTLY.",
+        "report_date": "09/08/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V494000",
+        "component": "STEERING",
+        "summary": "Nissan is recalling certain model year 2012-2013 Altima vehicles manufactured from May 10, 2012, through July 26, 2012.  These vehicles may have been equipped with transverse link bolts and power steering rack bolts that were not torqued to proper specification.",
+        "report_date": "10/10/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V371000",
+        "component": "SUSPENSION",
+        "summary": "NISSAN IS RECALLING CERTAIN MODEL YEAR 2011-2012 NISSAN ALTIMA SEDAN VEHICLES MANUFACTURED FROM APRIL 25, 2011, THROUGH JUNE 10, 2011 AT THE CANTON, MISSISSIPPI PLANT.  THE TRANSVERSE LINK BOLT MAY NOT HAVE BEEN TORQUED TO THE PROPER SPECIFICATION. THIS CONDITION COULD CAUSE THE BOLT TO BECOME LOOSE",
+        "report_date": "19/07/2011",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:33:13.627Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,152 @@
+{
+  "slug": "2020-toyota-tundra",
+  "year": 2020,
+  "make": "Toyota",
+  "model": "Tundra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 45,
+    "top_failure_components": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 6,
+        "share_pct": 13.3,
+        "excerpts": [
+          "Can not fuel truck normally. Gas stops pumping after 2secs and have confirmed the issues with multiple gas stations.",
+          "Vehicle stalled and lost power at approximately 45 mph. Warning lights activated and \"Not ready to drive\" message was displayed. Vehicle has had 3 other similar episodes all resulting in the vehicle l",
+          "FUEL PUMP RUNNING WHILE ENGINE IS OFF AND KEY IS TURNED OFF"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 5,
+        "share_pct": 11.1,
+        "excerpts": [
+          "Air conditioning compressor partially seizes if air conditioning is turned on while driving and when air conditioning knob is on at time engine is started. Makes very loud noise. When driving, and it ",
+          "TL* THE CONTACT OWNS A 2020 TOYOTA TUNDRA. THE CONTACT STATED WHILE DRIVING AT LOW SPEEDS, HE STARTED TO HEAR AN ABNORMAL NOISE. THE CONTACT STATED NO WARNING LIGHT WAS ILLUMINATED. THE VEHICLE WAS TA",
+          "WHEN WEATHER GETS WARM (100F+), IT WILL OFTEN TAKE A FEW SECONDS TO START THE CAR.  IT CRANKS OVER, BUT WON'T CATCH.  WHEN  WEATHER GETS TO 110F, IT WOULD FAIL TO START AFTER IT HAS BEEN DRIVEN, THEN "
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 4,
+        "share_pct": 8.9,
+        "excerpts": [
+          "Between the hours of 11:00 a.m. and 1:00 p.m. while heading west with cruise control on and I passed a truck that was fully in the left turn lane my vehicle has done a collision avoidance complete sto",
+          "The contact owns a 2020 Toyota Tundra. The contact stated that on several occasions while driving at various speeds, the \"Pre-Collision System Failure” warning light and icon were illuminated. Additio",
+          "was struck in front right corner of truck and air bags did not deploy or the automatic braking system did not respond causing me to be thrown in to rearview mirror and breaking the windshiled  and cau"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 4,
+        "share_pct": 8.9,
+        "excerpts": [
+          "Steering is intermittently difficult, almost as if no power steering. Steering wheel does not return to center after a turn.  There were no warning lamps or messages displayed on the vehicle. This is ",
+          "I bought a 2020 Tundra in mid year of 2020. By December 2020 I started to notice a strong vibration in the steering and from the front end between the low speeds of 20-30 mph and between 60-70 mph. Th",
+          "TL* THE CONTACT OWNS A 2020 TOYOTA TUNDRA. THE CONTACT STATED THAT WHILE DRIVING BETWEEN 55 TO 75 MPH, THE STEERING WHEEL AND VEHICLE SEVERELY SHOOK AND VIBRATED. EVENTUALLY THE FAILURE STARTED OCCURR"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 4,
+        "share_pct": 8.9,
+        "excerpts": [
+          "I was driving in a 25 MPH zone approaching a red light preparing to stop. I had increased the pressure on my brake pedal and then my foot slipped of the pedal just seconds before I ran into a truck th",
+          "Breaks and rotors and caliber broke 2 times and the car is brand new, it cost me over 2400. Bought the truck with 0miles- have all paper work.",
+          "TL* THE CONTACT OWNS A 2020 TOYOTA TUNDRA. THE CONTACT STATED THAT WHILE DRIVING AT 6 MPH, AN ABNORMAL SOUND WAS HEARD COMING FROM THE VEHICLE.  THE VEHICLE WAS TAKEN TO TOYOTA OF DEKALB (1890 SYCAMOR"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 1,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 3
+      },
+      {
+        "year": 2020,
+        "count": 15
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V920000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2008-2022 Sequoia and 2007-2021 Tundra vehicles.  The power steering gear assembly may have been manufactured incorrectly, which can result in an oil leak.",
+        "report_date": "23/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V688000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2021 Tundra vehicles.  The headlight electrical circuits may power the high and low beams simultaneously, which could overheat the electrical connector.",
+        "report_date": "02/09/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V410000",
+        "component": "EXTERIOR LIGHTING:TURN SIGNAL",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2020 Toyota Tundra vehicles equipped with LED headlight assemblies.  Due to a wiring error, the front turn signals may not flash brightly enough.  As such, these vehicles fail to comply with the requirements of Federal Motor",
+        "report_date": "15/07/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21E103000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain JTEKT power steering gear assembly service parts for 2007-2021 Tundra and 2008-2022 Sequoia, part numbers 44250-0C160, 44250-0C131, 44250-0C170, and 11250-0C121.  The power steering gear assembly may have been manufactured incorr",
+        "report_date": "23/12/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:21.094Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

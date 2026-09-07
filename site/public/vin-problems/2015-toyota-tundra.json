@@ -1,0 +1,172 @@
+{
+  "slug": "2015-toyota-tundra",
+  "year": 2015,
+  "make": "Toyota",
+  "model": "Tundra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 48,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 10,
+        "share_pct": 20.8,
+        "excerpts": [
+          "Soft pedal when braking goes nearly to floor before engaging. Repairs attempted flushing brakes, new brake fluid and new master cylinder at dealer still not fixed. Toyota wants to replace ABS actuator",
+          "Front Rotors purchased on Amazon warped in under 5,000 miles/3 months of normal highway and city driving conditions.  Issue caused high vibrations in front end when braking from 40+ mph.  Paired with ",
+          "GEAR SHIFTER HANGS UP IN PARK, TOYOTA WANTED $1,000.00 TO REPLACE TOTAL GEAR-SHIFTER THEY SAID IT IS A COMMON PROBLEM."
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 7,
+        "share_pct": 14.6,
+        "excerpts": [
+          "Unknown Truck stuck in Branchport NY  Started truck. Drove for ~20miles then died Has ~1/4 tank of gas Started truck again let it idle then died again Started truck again, gave it gas, ran fine, then ",
+          "Have replaced every part in the fuel system. Pumps, modules, etc. and it continues to have issues. Now a fuel smell issue. These cars have constant issues and need a full recall. Still has issues and ",
+          "Truck shuts down after running for about 2 minutes; As if the ignition switch was turned off while driving. I then have to wait about 30 seconds to restart the truck. The truck will not start immediat"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 7,
+        "share_pct": 14.6,
+        "excerpts": [
+          "The contact owns a 2015 Toyota Tundra. The contact stated that the horn failed to sound while pressing the horn pad in the center of the steering wheel. The horn only sounded while activated with the ",
+          "When using the turn signal to indicate turning direction at night, all lights shut off randomly, leaving you with no way to see where you're going. This includes all cabin lights so you can't find the",
+          "WHEN AT 55 DEGREES OR BELOW GETTING A MISFIRE ON CYLINDER 2, ENGINE LIGHT ON WITH TRACTION CONTROL OFF ON MY DISPLAY (NOT THE ACTUAL ICON). CODE READER SAYS P0302, C1201, AND B1242. ENGINE LIGHT START"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 5,
+        "share_pct": 10.4,
+        "excerpts": [
+          "At irregular intervals and at the most random of times my headlights will cut out (including dash lights & radio). It happened this morning driving to the airport but it has been months since it last ",
+          "When using the turn signal to indicate turning direction at night, all lights shut off randomly, leaving you with no way to see where you're going. This includes all cabin lights so you can't find the",
+          "THE DASH INSTRUMENT AND GAUGE LIGHTS DO NOT WORK DURING DAYTIME WHEN LIGHTS ARE SET TO AUTOMATIC. BASIC INSTRUMENTS ARE NOT CLEAR AND REQUIRE THAT THE DRIVER BE DISTRACTED MUCH LONGER THAN IS ACCEPTAB"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 3,
+        "share_pct": 6.3,
+        "excerpts": [
+          "Was living in South Carolina at the time, but now live in West Virginia. Airbag light came on and Horn stopped working. Has not worked since and received a recall in the mail, but they are saying my v",
+          "2015 TOYOTA TUNDRA.  CONSUMER WRITES IN REGARDS TO VEHICLE BRAKE FAILURE.  *SMD    THE CONSUMER STATED AS HE WAS APPROACHING A RED LIGHT, HE ATTEMPTED SO SLOW DOWN. CONSEQUENTLY, HE REAR ENDED THE VEH",
+          "TL* THE CONTACT OWNS A 2015 TOYOTA TUNDRA. WHILE ATTEMPTING TO AVOID A HEAD ON COLLISION, THE CONTACT STEERED THE VEHICLE INTO AN EMBANKMENT. ALL THE AIR BAGS DEPLOYED EXCEPT THE FRONT PASSENGER SIDE "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 1,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 5
+      },
+      {
+        "year": 2016,
+        "count": 5
+      },
+      {
+        "year": 2017,
+        "count": 6
+      },
+      {
+        "year": 2018,
+        "count": 5
+      },
+      {
+        "year": 2019,
+        "count": 5
+      },
+      {
+        "year": 2020,
+        "count": 7
+      },
+      {
+        "year": 2021,
+        "count": 3
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "17V311000",
+        "component": "WHEELS:LUGS/NUTS/BOLTS/STUDS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2013-2017 Toyota Tundra and Sequoia vehicles accessorized with Southeast Toyota accessory 20-inch Rockstar wheels installed by Southeast Toyota or a Southeast Toyota dealer.  The Rockstar wheels were installed with lugnuts that",
+        "report_date": "11/05/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V420000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2016 Toyota Camry and Highlander, 2015-2016 Toyota Tundra, Scion FR-S, and tC vehicles.  The Load Carrying Capacity Modification Label may not reflect the correct added weight of the installed accessories.  As a result, these v",
+        "report_date": "09/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V315000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2015 Toyota Tundra vehicles manufactured March 11, 2015, to April 11, 2015 and equipped with Nitto Terra Grappler G2 275/60R20 116S XL tires.  These vehicles have a tire placcard that incorrectly states the recommended cold tir",
+        "report_date": "27/05/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V920000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2008-2022 Sequoia and 2007-2021 Tundra vehicles.  The power steering gear assembly may have been manufactured incorrectly, which can result in an oil leak.",
+        "report_date": "23/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21E103000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain JTEKT power steering gear assembly service parts for 2007-2021 Tundra and 2008-2022 Sequoia, part numbers 44250-0C160, 44250-0C131, 44250-0C170, and 11250-0C121.  The power steering gear assembly may have been manufactured incorr",
+        "report_date": "23/12/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:14.987Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

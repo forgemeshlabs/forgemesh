@@ -1,0 +1,252 @@
+{
+  "slug": "2013-ford-explorer",
+  "year": 2013,
+  "make": "Ford",
+  "model": "Explorer",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 2231,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 834,
+        "share_pct": 37.4,
+        "excerpts": [
+          "This is a 2013 Ford Explorer experiencing the exact catastrophic power steering failure described in Recall 14S06 / 15S18. The rack has failed twice, creating an immediate crash hazard. The current re",
+          "I was driving and the steering locked. I could not move steering wheel either way.  Towed to ford repair… they replaced steering rack.  Four times it was replaced..4 times it locked.",
+          "Same issue as in recall 14S06. However, I do not see this recall under my VIN, nor has this vehicle been repaired in the past for this issue. I was hoping that possibly the recall doesn't show up beca"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 438,
+        "share_pct": 19.6,
+        "excerpts": [
+          "The contact owns a 2013 Ford Explorer. The contact received a recall notification for NHTSA Campaign Number: 24V031000 (Structure); however, the parts to complete the recall repair were not yet availa",
+          "The contact owns a 2013 Ford Explorer. The contact received notification of NHTSA Campaign Number: 24V031000 (Structure); however, the part to do the recall repair was not yet available. The contact s",
+          "See attached document for complaint."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 224,
+        "share_pct": 10,
+        "excerpts": [
+          "I am submitting a formal safety complaint regarding a severe design defect in the 3.5L V6 engine of my 2013 Ford Explorer.  The vehicle is equipped with an internal, chain-driven water pump that is cu",
+          "I was leaving the store pulled out on a main road in town about to head on the highway. My steering wheel locked and would hardly move with all my strength and the help of my significant other we pull",
+          "The contact owns a 2013 Ford Explorer. The contact stated that while the vehicle was parked unattended and turned off for a few hours, it caught fire. There were no warning lights illuminated prior to"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 163,
+        "share_pct": 7.3,
+        "excerpts": [
+          "This is a 2013 Ford Explorer experiencing the exact catastrophic power steering failure described in Recall 14S06 / 15S18. The rack has failed twice, creating an immediate crash hazard. The current re",
+          "Backup camera only works sometimes which is a safety risk when backing up. Other year models have had a recall for this same reason. It has been doing it for at least 6 months now.",
+          "The rearview camera reverses and inverts the image and the guiding lines disappear. I am unable to use the camera when reversing. There is a recall on other Ford Explorers (2020-2024) just not my year"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 120,
+        "share_pct": 5.4,
+        "excerpts": [
+          "In September I started to notice a strong fuel odor coming from my 2013 Ford Explorer. I had the exterior of the vehicle cleaned thoroughly to ensure no gasoline was spilled on the vehicle while refue",
+          "Service advancetrac light came on while driving.  Lost all propulsion and power steering.  Almost went off road around a curve due to no power steering.  Ford dealership diagnosed it as faulty steerin",
+          "The contact owns a 2013 Ford Explorer. The contact stated that upon approaching the vehicle she smelled a strong odor of gasoline inside her inclosed garage, after which, she overserved gasoline leaki"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 44,
+      "fires": 11,
+      "injuries": 61,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2001,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 2
+      },
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 38
+      },
+      {
+        "year": 2013,
+        "count": 100
+      },
+      {
+        "year": 2014,
+        "count": 78
+      },
+      {
+        "year": 2015,
+        "count": 131
+      },
+      {
+        "year": 2016,
+        "count": 191
+      },
+      {
+        "year": 2017,
+        "count": 220
+      },
+      {
+        "year": 2018,
+        "count": 191
+      },
+      {
+        "year": 2019,
+        "count": 275
+      },
+      {
+        "year": 2020,
+        "count": 159
+      },
+      {
+        "year": 2021,
+        "count": 113
+      },
+      {
+        "year": 2022,
+        "count": 167
+      },
+      {
+        "year": 2023,
+        "count": 206
+      },
+      {
+        "year": 2024,
+        "count": 196
+      },
+      {
+        "year": 2025,
+        "count": 124
+      },
+      {
+        "year": 2026,
+        "count": 36
+      }
+    ]
+  },
+  "recalls": {
+    "count": 12,
+    "recalls": [
+      {
+        "campaign_number": "19V435000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2017 Explorer vehicles.  The rear suspension toe links may fracture due to stress on the rear suspension.",
+        "report_date": "10/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17E048000",
+        "component": "WHEELS:HUB",
+        "summary": "Ford Motor Company (Ford) is recalling certain Wheel Hub Bearing assemblies, part number HB5Z-1104-C, incorrectly listed as being for installation on the rear axles of 2011-2017 Ford Explorer 4X2 vehicles.  These bearings assemblies were manufactured without a self retention feature, possibly result",
+        "report_date": "28/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V171000",
+        "component": "STRUCTURE:BODY:DOOR",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2011-2013 Explorer vehicles.  In the affected vehicles, the interior door handle return spring may unseat, resulting in interior door handle that does not return to the fully stowed position after actuation.",
+        "report_date": "24/03/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V812000",
+        "component": "FUEL SYSTEM, GASOLINE",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013 Explorer, Explorer Police Utility, Taurus, Taurus Police Interceptor, Flex, Lincoln MKS, and Lincoln MKT vehicles.  In the affected vehicles, the fuel delivery module may crack, allowing fuel to leak.",
+        "report_date": "02/12/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V286000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2011-2013 Ford Explorer vehicles manufactured May 17, 2010, through February 28, 2012.  The affected vehicles may experience an intermittent connection in the electric power steering gear, which can cause a loss of the motor position sensor s",
+        "report_date": "29/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V109000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "Ford is recalling certain model year 2012 Taurus, Lincoln MKS, and model year 2013 Explorer vehicles manufactured July 19, 2011, through March 15, 2012.  In the affected vehicles, the fuel tanks may have a marginally sealed seam in the side of the tank.  As a result, the fuel tanks may not provide t",
+        "report_date": "27/03/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V227000",
+        "component": "FUEL SYSTEM, GASOLINE",
+        "summary": "Ford is recalling certain model year 2013 Explorer, Taurus, Flex, Fusion, Police Interceptor Sedan and Police Interceptor Utility vehicles; and certain model year 2013 Lincoln MKS, MKT, and MKZ vehicles.  In the affected vehicles, the fuel delivery module may develop a crack, allowing fuel to leak.",
+        "report_date": "31/05/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V270000",
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013 Ford Explorer, Taurus, and Lincoln MKS vehicles manufactured November 29, 2012, through December 12, 2012.  In the affected vehicles, with sufficient door openings and closings, the child safety locks may change from an activated positio",
+        "report_date": "26/06/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V746000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2013 Explorer vehicles originally sold, or currently registered in Connecticut, Delaware, the District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota,\r\nMissouri, New Hampshire, New Jersey, New Yo",
+        "report_date": "22/09/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V537000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2017 Explorer vehicles originally sold, or ever registered, in Connecticut, Delaware, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshire, New Jersey, New York, Ohio, Pennsylvania, Rhode I",
+        "report_date": "15/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V675000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2017 Explorer vehicles originally sold, or currently registered in Connecticut, Delaware, the District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshire, New Jersey, New Yor",
+        "report_date": "12/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V031000",
+        "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2019 Explorer vehicles.  The A-pillar trim retention clips may not be properly engaged, allowing the trim to detach.",
+        "report_date": "19/01/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:35:42.451Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

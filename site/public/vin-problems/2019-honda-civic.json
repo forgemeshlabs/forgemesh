@@ -1,0 +1,144 @@
+{
+  "slug": "2019-honda-civic",
+  "year": 2019,
+  "make": "Honda",
+  "model": "Civic",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 348,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 80,
+        "share_pct": 23,
+        "excerpts": [
+          "I purchased a 2019 Honda Civic LX July 3rd 2025 I noticed that the steering front end didn't feel right so I brought it back they still to this day the dealership has the car I cannot drive it on the ",
+          "The stirring wheel consistently sticks and jerks in speeds 35 and over. The steering wheel constantly has to be adjusted to drive in a lane. It is unsettling situation.",
+          "When driving at highway speeds steering sticks. Steering wheel does not move without more effort than usual. Being unable to make small adjustments freely means I must constantly drive with two hands "
+        ]
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "complaints": 63,
+        "share_pct": 18.1,
+        "excerpts": [
+          "The contact owns a 2019 Honda Civic. The contact received notification of NHTSA Campaign Number: 23V858000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The",
+          "The contact owns a 2019 Honda Civic. The contact stated that while her husband was driving approximately 30 MPH, the vehicle started losing motive power and then stalled. The contact stated that her h",
+          "See attached document for complaint."
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 62,
+        "share_pct": 17.8,
+        "excerpts": [
+          "When trying to start the car  the car won't turn over. When it finally does start and i am driving it seems to lose power as if it wants to shut down.  Im afraid to drive long distances. I looked up r",
+          "I brought my car to the dealership Honda North at 382 Newbury Street in Danvers MA on 6/5/25 to repair NHTSA Recall number 23V-858. The vehicle was returned to me on 6/7/25 at which time I was told th",
+          "The fuel injector on my 2019 honda civic si went bad at 58,000 miles, which is over a $2,000 repair.  Not only is this a widespread problem with Honda,..they KNOW about the fuel injectors being faulty"
+        ]
+      },
+      {
+        "component": "GASOLINE",
+        "complaints": 62,
+        "share_pct": 17.8,
+        "excerpts": [
+          "The contact owns a 2019 Honda Civic. The contact received notification of NHTSA Campaign Number: 23V858000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The",
+          "The contact owns a 2019 Honda Civic. The contact stated that while her husband was driving approximately 30 MPH, the vehicle started losing motive power and then stalled. The contact stated that her h",
+          "See attached document for complaint."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 32,
+        "share_pct": 9.2,
+        "excerpts": [
+          "While driving the dash showed a \"12 volt battery charging system problem.\" Continued to drive to a safe location roughly a mile down the road and while enroute all the error lights illuminated and pro",
+          "Steering began to \"stick\", especially at highway speeds and when trying to keep car centered in lane, causing frequent overcorrection and difficulty maintaining lane control. No warning lights, messag",
+          "See attached document for complaint."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 23,
+      "fires": 0,
+      "injuries": 14,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 39
+      },
+      {
+        "year": 2020,
+        "count": 29
+      },
+      {
+        "year": 2021,
+        "count": 34
+      },
+      {
+        "year": 2022,
+        "count": 25
+      },
+      {
+        "year": 2023,
+        "count": 64
+      },
+      {
+        "year": 2024,
+        "count": 112
+      },
+      {
+        "year": 2025,
+        "count": 44
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "20V314000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2019 Acura NSX, 2019 Acura RDX, RLX and RLX Sport Hybrid, 2018-2019 Honda Accord, Civic Hatchback, Civic Type R and HR-V, 2019-2020 Insight and 2019 Fit vehicles.  The low-pressure fuel pump inside the fuel tank may fail.",
+        "report_date": "28/05/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V215000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2020 Acura MDX, MDX Sport Hybrid, RDX, TLX, Honda Accord, Civic Hatchback, Insight, 2019 Acura ILX, Honda Accord Hybrid, Civic Coupe, Civic Coupe Si, Civic Sedan, Civic Sedan Si, Civic Type R, Fit, HR-V, Odyssey, Passport, Pilot and Ridgelin",
+        "report_date": "25/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:41:59.202Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

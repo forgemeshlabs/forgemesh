@@ -1,0 +1,156 @@
+{
+  "slug": "2020-honda-civic",
+  "year": 2020,
+  "make": "Honda",
+  "model": "Civic",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 222,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 35,
+        "share_pct": 15.8,
+        "excerpts": [
+          "The turbocharger bypass control solenoid valve circuit on my 2020 Civic Si has developed an intermittent open, setting DTC P0035. I diagnosed it myself: the solenoid coil measures 45 ohms and function",
+          "I have owned my vehicle for nearly 18 months and absolutely NO ACTION has been taken on Honda's part to remedy this solution with the capacitor in the circuit board of the front passenger seat weight ",
+          "The air conditioning system in my 2020 Honda Civic EX has a refrigerant leak at the evaporator assembly, causing very weak or almost no cooling even when set to the lowest temperature settings. This h"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 31,
+        "share_pct": 14,
+        "excerpts": [
+          "I am the second owner of this year and model of Civic. I initially bought it back in 2021 with 14,000 miles on it. The clutch slipped and blew at around 29K miles in 2023. I brought it into a honda de",
+          "Clutch started slipping all of a sudden. Check to see if it was under warranty said the warranty had expired because the car was over 36,000 MI did not know about the extended clutch warranty at the t",
+          "This model Civic Si was build by Honda with a defective clutch.  Mine began to fail at less than 60K miles.  It started in the higher RPM 5K to 6K in the taller overdrive gears.  This clutch design wa"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 29,
+        "share_pct": 13.1,
+        "excerpts": [
+          "The contact owns a 2020 Honda Civic. The contact stated that while driving 60 MPH, a bobcat crossed the road, and the bobcat was struck by the vehicle. The contact stated that there was extensive fron",
+          "The contact owns a 2020 Honda Civic. The contact received notification of NHTSA Campaign Number: 24V064000 (AIR BAGS). The vehicle was taken to the dealer for the recall repairs, and the contact was i",
+          "The contact owns a 2020 Honda Civic. The contact received notification of NHTSA Campaign Number: 24V064000 (Air Bags); however, the part to do the recall repair was not yet available. The dealer was c"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 28,
+        "share_pct": 12.6,
+        "excerpts": [
+          "The contact owns a 2020 Honda Civic. The contact stated that while driving at highway speeds, the steering wheel was sticking with resistance while turning the steering wheel to the left. The cause of",
+          "Steering system failed and started to jerk -- Contacted Honda and while there was a recall on the NEWER models, we experienced a similar issue on our 2020 Civic.",
+          "The contact owns a 2020 Honda Civic. The contact stated that while operating the vehicle, the steering wheel became sticky and jerked while turning in either direction. The vehicle was taken to the lo"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 24,
+        "share_pct": 10.8,
+        "excerpts": [
+          "on 7-28-26 After filling my vehicle with gas at the next red light, all lights on dashboard went on flickering warning (Christmas tree effect).  on 7-29-26 After researching online Roadside came out a",
+          "At least a half dozen times the car would brake automatically when nothing was in front of the car. The BRAKE warning light would appear on the dashboard as the car abruptly slowed down. The car slowe",
+          "The collision mitigation braking system consistently detects objects in the road and forcibly brakes when the road ahead of me is completely empty. This has happened 4 or 5 times just in the last year"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 15,
+      "fires": 1,
+      "injuries": 11,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 2
+      },
+      {
+        "year": 2020,
+        "count": 20
+      },
+      {
+        "year": 2021,
+        "count": 32
+      },
+      {
+        "year": 2022,
+        "count": 26
+      },
+      {
+        "year": 2023,
+        "count": 32
+      },
+      {
+        "year": 2024,
+        "count": 51
+      },
+      {
+        "year": 2025,
+        "count": 42
+      },
+      {
+        "year": 2026,
+        "count": 16
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "21V215000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2020 Acura MDX, MDX Sport Hybrid, RDX, TLX, Honda Accord, Civic Hatchback, Insight, 2019 Acura ILX, Honda Accord Hybrid, Civic Coupe, Civic Coupe Si, Civic Sedan, Civic Sedan Si, Civic Type R, Fit, HR-V, Odyssey, Passport, Pilot and Ridgelin",
+        "report_date": "25/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V458000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:MASTER CYLINDER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020-2021 Civic, 2020-2023 Ridgeline, 2021-2023 Passport, 2021-2022 Pilot, and 2020 Acura MDX vehicles.  The tie rod fastener that connects the brake booster and the brake master cylinder may have been improperly assembled during manufacturing, w",
+        "report_date": "29/06/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V064000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020-2022 Pilot, Accord, Civic sedan, HR-V, Odyssey, 2020 Civic coupe, Fit, 2021-2022 Civic hatchback, 2021 Civic Type R, Insight, 2020-2021 CR-V, CR-V Hybrid, Passport, Ridgeline, Accord Hybrid, 2020 Acura MDX, 2022 Acura MDX, 2020-2022 Acura RD",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:57.334Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

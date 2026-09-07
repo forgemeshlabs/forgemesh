@@ -1,0 +1,212 @@
+{
+  "slug": "2015-nissan-altima",
+  "year": 2015,
+  "make": "Nissan",
+  "model": "Altima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 949,
+    "top_failure_components": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 269,
+        "share_pct": 28.3,
+        "excerpts": [
+          "The headlights are dangerously dim. There has been a class action lawsuit for these specific makes and models for the reflectors in the headlights being damaged over time, resulting in the entire head",
+          "When driving at night, the low beam headlights were noticeably dim. The headlight bulbs were replaced and the lenses were cleaned on both headlights. This did not fix the issue. I have also adjusted t",
+          "The contact owns a 2015 Nissan Altima. The contact stated that while driving at various speeds, the headlights were very dim. Due to the failure, the high beam headlights were activated while driving "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 175,
+        "share_pct": 18.4,
+        "excerpts": [
+          "The contact owns a 2015 Nissan Altima. The contact stated that the SRS warning light was illuminated. The vehicle was taken to the dealer, where it was diagnosed with a driver's side air bag module in",
+          "SRS - Airbag LF Side Impact: B0020-13  Error  2,000.00 to replace faulty air bag",
+          "The passenger seat airbag detection system consistently mis-characterizes whether a passenger is in the seat. The vehicle should have been covered under the 2016 recall - before I owned it. The websit"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 161,
+        "share_pct": 17,
+        "excerpts": [
+          "Subject: Dangerous Transmission Failure in 2015 Nissan Altima  While my 2015 Nissan Altima has always exhibited questionable performance—including abnormal acceleration, hesitation during throttle res",
+          "The transmission failed in my 2015 Nissan Altima. The check engine light is currently on due to a defective transmission.  While I understand that Nissan extended the transmission warranty by two year",
+          "The contact owns a 2015 Nissan Altima. The contact stated that the check engine warning light was illuminated, and the vehicle failed to accelerate from a complete stop and jerked. Additionally, the v"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 66,
+        "share_pct": 7,
+        "excerpts": [
+          "Vvt valve has failed twice now despite timely oil changes.  This is a safety risk because vehicle will stall at low speeds like when starting at an intersection from a stopped position",
+          "Engine light comes on i get it checked out every time is the same issue saying it's \"mass air flow\" it's now the 4th time i switch the piece and the car keeps on leaving me stranded now it's lead to a",
+          "The contact owns a 2015 Nissan Altima. The contact stated that while driving 10 MPH, the vehicle lost automotive power. The contact stated that the TPMS warning light was illuminated. The contact pull"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 64,
+        "share_pct": 6.7,
+        "excerpts": [
+          "The passenger side rear spring mount/Lower Control Arm separated at the weld and failed at highway speed. Control of the vehicle was momentarily lost and I was able to safely pull to the side of the h",
+          "The rear lower control arms (lower links) on my 2015 Nissan Altima are actively cracked and broken at 91,359 miles. An authorized Nissan dealership inspected the vehicle and confirmed the severe struc",
+          "Today (8/15/26) the vehicle broke down while driving. A component to the rear left suspension has busted off that appears to be the rear lower control arm/link. Not drivable. Steering wheel and tire a"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 45,
+      "fires": 5,
+      "injuries": 26,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 13
+      },
+      {
+        "year": 2015,
+        "count": 67
+      },
+      {
+        "year": 2016,
+        "count": 97
+      },
+      {
+        "year": 2017,
+        "count": 76
+      },
+      {
+        "year": 2018,
+        "count": 95
+      },
+      {
+        "year": 2019,
+        "count": 139
+      },
+      {
+        "year": 2020,
+        "count": 121
+      },
+      {
+        "year": 2021,
+        "count": 99
+      },
+      {
+        "year": 2022,
+        "count": 90
+      },
+      {
+        "year": 2023,
+        "count": 54
+      },
+      {
+        "year": 2024,
+        "count": 44
+      },
+      {
+        "year": 2025,
+        "count": 31
+      },
+      {
+        "year": 2026,
+        "count": 23
+      }
+    ]
+  },
+  "recalls": {
+    "count": 10,
+    "recalls": [
+      {
+        "campaign_number": "18V915000",
+        "component": "STRUCTURE:EMERGENCY:ESCAPE/EGRESS/EXIT",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2015-2017 Altima vehicles, previously remedied under recall number 17V-040.  The door latch-lock cable may not have been routed properly in the rear door when the remedy was applied.  As a result, the cable may interfere with the window regula",
+        "report_date": "19/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V040000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2015-2017 Altima vehicles. The rear door latch/lock cable on the vehicles may have been improperly routed.  As a result, lowering a rear window may inadvertently cause that door to unlatch and open.",
+        "report_date": "18/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V911000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2015 Altima vehicles manufactured January 3, 2013, to July 29, 2013, 2015-2016 Rogue vehicles manufactured October 14, 2014, to August 12, 2016, and 2016 Maxima vehicles manufactured June 4, 2015, to August 19, 2015.  An incorr",
+        "report_date": "19/12/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V733000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2015 Altima and 2016 Maxima vehicles manufactured October 6, 2015, to October 7, 2015.  The affected vehicles have front brake calipers whose mounting bolts may not be properly tightened.",
+        "report_date": "05/11/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V244000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2016-2017 Nissan Maxima, 2013-2016 Nissan Altima, NV200, LEAF, Sentra, and Pathfinder, 2014-2016 Nissan NV200 Taxi, Infiniti QX60, QX60 Hybrid, and Q50 Hybrid, 2014-2017 Nissan Rogue and Infiniti Q50, 2015-2016 Nissan Murano, Murano",
+        "report_date": "26/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V681000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2015 Altima and Pathfinder vehicles, 2013-2014 Nissan Sentra vehicles, 2013 Infiniti JX35 vehicles, 2014-2015 Infiniti QX60 vehicles and 2014 Infiniti QX60 Hybrid vehicles.  The affected vehicles received an incorrect occupant ",
+        "report_date": "20/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V486000",
+        "component": "FUEL SYSTEM, GASOLINE",
+        "summary": "Nissan North America, Inc. (Nissan) notified the agency on July 31, 2015, that they are recalling certain model year 2016 Nissan Maxima vehicles manufactured February 10, 2015, to August 18, 2015.  On October 14, 2015, Nissan expanded the recall to cover an additional 41,388 vehicles, including cert",
+        "report_date": "04/08/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V116000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2015 Nissan Altima vehicles manufactured March 1, 2013, to December 31, 2014.  In the affected vehicles, the secondary hood latch may bind and remain in the unlatched position when the hood is closed.",
+        "report_date": "27/02/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V029000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2015 Nissan Altima vehicles manufactured March 6, 2012, to December 31, 2014.  In the affected vehicles, the secondary hood latch may bind and remain in the unlatched position when the hood is closed.",
+        "report_date": "22/01/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V315000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2018 Nissan Altima vehicles.  If the primary hood latch is inadvertently released, there is an increased likelihood that the secondary hood latch may corrode over time.",
+        "report_date": "28/05/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:17.511Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

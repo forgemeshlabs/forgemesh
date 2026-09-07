@@ -1,0 +1,240 @@
+{
+  "slug": "2008-toyota-camry",
+  "year": 2008,
+  "make": "Toyota",
+  "model": "Camry",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1178,
+    "top_failure_components": [
+      {
+        "component": "VISIBILITY",
+        "complaints": 210,
+        "share_pct": 17.8,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2008 TOYOTA CAMRY. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 12V491000 (VISIBILITY) HOWEVER, THE PART TO DO THE RECALL REPAIR WAS NOT YET AVAILABLE. THE CONTAC",
+          "TL* THE CONTACT OWNS A 2008 TOYOTA CAMRY. WHILE DRIVING VARIOUS SPEEDS, THE SUN VISOR FELL DOWN AND OBSTRUCTED THE CONTACT'S VIEW OF THE WINDSHIELD. ADDITIONALLY, THE SUN VISOR FAILED TO SECURE IN PLA",
+          "RE: RECALL POWER WINDOW MASTER SWITCH    THIS VEHICLE IS SHOWING RECALL ITEM NOT TAKEN CARE OF. LONG AGO I CALLED THE MANUFACTURER AND THEY CONFERENCE CALLED THE DEALERSHIP REPAIR SHOP. THE SHOP KEEPS"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 186,
+        "share_pct": 15.8,
+        "excerpts": [
+          "The contact owns a 2008 Toyota Camry. The contact received a warranty-enhanced program related to the dashboard. The vehicle was taken to a dealer where the repair was performed, but the vehicle exper",
+          "The dashboard in my 2008 Toyota Camry LE has deteriorated over time and has melted, becoming sticky and glossy. This condition causes sunlight to reflect off the dashboard onto the windshield, creatin",
+          "The contact owns a 2008 Toyota Solara. The contact stated that upon inspection, the interior dashboard was sticky and had started to deteriorate. The vehicle was taken to a local dealer, and the failu"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 169,
+        "share_pct": 14.3,
+        "excerpts": [
+          "There was unexpected and unintended acceleration that resulted in hitting a house and causing a lot of damage.",
+          "CAR LURCHES FORWARD AFTER TOUCHING AN ICE PATCH AND SCARILY WANTS TO SPEED AHEAD. EVEN IN MY DRIVEWAY, IT SUDDENLY BEGINS TO SPEED FORWARD OR BACKWARD WHEN IT MERELY TOUCHES A SHEET OF ICE. THIS IS EX",
+          "TL* THE CONTACT OWNS A 2008 TOYOTA CAMRY. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 12V491000 (VISIBILITY) HOWEVER, THE PART TO DO THE RECALL REPAIR WAS NOT YET AVAILABLE. THE CONTAC"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 149,
+        "share_pct": 12.6,
+        "excerpts": [
+          "ABS light on, Brake warning light on, difficult to brake, Air Conditioner malfunctioning and seems connected to this issue.",
+          "am writing to report a critical safety issue with my 2008 Toyota Camry Hybrid's ABS module. The problems I've encountered include failing ABS modules, weak braking, VSC light illumination, a ringing s",
+          "Actuator and Pump Assembly, leaks won't build pressure makes brakes where pedal don't work"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 144,
+        "share_pct": 12.2,
+        "excerpts": [
+          "Excessive oil consumption after 1000 miles low oil pressure warning comes on.",
+          "Vehicle consumes an excessive amount of oil.",
+          "The contact's sister-in-law owns a 2008 Toyota Camry. The contact stated while his sister-in-law was driving at an undisclosed speed, the vehicle stalled inadvertently. There were no warning lights il"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 109,
+      "fires": 17,
+      "injuries": 71,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 6
+      },
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 1988,
+        "count": 1
+      },
+      {
+        "year": 2000,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 19
+      },
+      {
+        "year": 2008,
+        "count": 56
+      },
+      {
+        "year": 2009,
+        "count": 75
+      },
+      {
+        "year": 2010,
+        "count": 115
+      },
+      {
+        "year": 2011,
+        "count": 172
+      },
+      {
+        "year": 2012,
+        "count": 117
+      },
+      {
+        "year": 2013,
+        "count": 112
+      },
+      {
+        "year": 2014,
+        "count": 148
+      },
+      {
+        "year": 2015,
+        "count": 78
+      },
+      {
+        "year": 2016,
+        "count": 62
+      },
+      {
+        "year": 2017,
+        "count": 55
+      },
+      {
+        "year": 2018,
+        "count": 54
+      },
+      {
+        "year": 2019,
+        "count": 38
+      },
+      {
+        "year": 2020,
+        "count": 19
+      },
+      {
+        "year": 2021,
+        "count": 17
+      },
+      {
+        "year": 2022,
+        "count": 11
+      },
+      {
+        "year": 2023,
+        "count": 9
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "14V743000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2011 Prius and Corolla, 2009-2011 Venza, 2006-2010 Avalon, 2007-2010 FJ Cruiser, 2005-2011 Sienna and Sequoia, 2006-2011 Tacoma 4x2 and 4x4, Camry, Highlander, Tundra 4x2 and 4x4, and 2007-2011 Rav4 and 4Runner.  The affec",
+        "report_date": "19/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V396000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2005-2011 4Runner, Highlander, Sequoia, and Sienna, 2005-2010 Avalon and Tundra, 2006-2008 Camry Solara, 2006-2010 Highlander hybrid, 2006-2011 Rav4 and Tacoma, 2007-2010 FJ Cruiser, 2007-2011 Camry hybrid, 2009-2010 Venza, 2010-2012 Priu",
+        "report_date": "02/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V491000",
+        "component": "VISIBILITY:POWER WINDOW DEVICES AND CONTROLS",
+        "summary": "Toyota is recalling certain model year 2007-2009 Camry, Camry Hybrid, RAV4, Corolla, Corolla Matrix, Tundra, Sequoia, Highlander, Highlander Hybrid, Yaris, Scion xB, Scion xD and Pontiac Vibe vehicles.  The power window master switch assemblies in some of these vehicles were built using a less preci",
+        "report_date": "10/10/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V388000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2004-2010 PASSENGER VEHICLES.  THE ACCELERATOR PEDAL CAN GET STUCK IN THE WIDE OPEN POSITION DUE TO ITS BEING TRAPPED BY AN UNSECURED OR INCOMPATIBLE DRIVER'S FLOOR MAT.",
+        "report_date": "05/10/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V035000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "GULF STATES TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2010 VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD BETWEEN SEPTEMBER 1, 2005 AND JUNE 2, 2008 WITHOUT THE REQUISITE LOAD CARRYING CAPA",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V036000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2011 PASSENGER VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD WITHOUT THE REQUISITE LOAD CARRYING CAPACITY MODIFICATION LABELS.",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V017000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2010 AVALON, MODEL YEAR 2007-2010 CAMRY, MODEL YEAR 2009-2010 COROLLA, COROLLA MATRIX, RAV4, MODEL YEAR 2010 HIGHLANDER, MODEL YEAR 2008-2010 SEQUOIA, AND MODEL YEAR 2007-2010 TUNDRA VEHICLES.  DUE TO THE MANNER IN WHICH THE FRICTION LEVER INTERACTS WITH T",
+        "report_date": "21/01/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "07E082000",
+        "component": "EQUIPMENT",
+        "summary": "CERTAIN ALL WEATHER FLOOR MATS (AWFM) SPECIFICALLY SOLD AS AN OPTIONAL ACCESSORY FOR USE ON THE 2007 AND 2008 MODEL YEAR LEXUS ES350 AND TOYOTA CAMRY VEHICLES.  THE AWFM INCLUDES TWO GROMMET HOLES AND RETAINING HOOKS (CLIPS) TO SECURE THE MAT TO THE VEHICLE'S CARPET.  IF THE AWFM IS NOT SECURED BY I",
+        "report_date": "26/09/2007",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:45:51.395Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

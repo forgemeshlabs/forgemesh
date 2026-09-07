@@ -1,0 +1,168 @@
+{
+  "slug": "2014-toyota-rav4",
+  "year": 2014,
+  "make": "Toyota",
+  "model": "RAV4",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 197,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 69,
+        "share_pct": 35,
+        "excerpts": [
+          "BATTERY DIED MID-DRIVE NOW THE RADIO HEAD UNIT IS IN A BOOT LOOP RENDERING ALL FUNCTIONS UNAVAILABLE.",
+          "Year: 2014 Make: Toyota Model: RAV4 Approx. mileage: 60K  2. Incident Details  Date of most recent incident: [XXX] Problem: Vehicle stalls and loses power steering while turning. Engine shuts off sudd",
+          "The contact owns a 2014 Toyota Rav4. The contact received notification of NHTSA Campaign Number: 23V734000 (ELECTRICAL SYSTEM). The dealer was contacted; however, the contact was informed that parts w"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 31,
+        "share_pct": 15.7,
+        "excerpts": [
+          "1) Vehicle had a recall for something concerning the transmission.  Service was done and just after the warranty expired on that issue the transmission went out while driving and I had to put a new on",
+          "The contact owns a 2014 Toyota Rav4. The contact’s son stated that while attempting to start the vehicle, the vehicle failed to start and became inoperable, and lost power. There was no warning light ",
+          "The contact owned a 2014 Toyota RAV4. The contact stated that while driving at 30-40 MPH, while depressing the accelerator pedal, the vehicle stopped independently. No warning lights illuminated. The "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 21,
+        "share_pct": 10.7,
+        "excerpts": [
+          "We purchased a used 2014 RAV4 (VIN [XXX]) a few months ago.  During a trip to the store my wife all of a sudden found it extremely hard to steer and almost went into a ditch!  (thank God she didn't). ",
+          "The contact owns a 2014 Toyota Rav4. While driving at various speeds, the steering wheel became difficult to turn, with several unknown warning lights illuminated. The failure was intermittent. The fa",
+          "The contact owns a 2014 Toyota Rav4. The contact stated that while driving approximately 20 MPH and turning right at an intersection, the steering wheel seized with several unknown warning lights illu"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 20,
+        "share_pct": 10.2,
+        "excerpts": [
+          "UPDATE TO PRIOR COMPLAINT — Filed April 2, 2026. VIN: [XXX] . 2014 Toyota RAV4 AWD XLE. Team Toyota Langhorne, 746 E Lincoln Hwy, Langhorne PA 19047. Vehicle remains out of service — 53 days as of Apr",
+          "2014 Toyota RAV4 AWD XLE purchased June 2025. Multiple pre-existing safety defects confirmed by dealership personnel were never disclosed at time of sale. POWER TRAIN: Torque converter failure — vibra",
+          "Transmission fluid was serviced at Bill page Toyota, Falls Church, VA 22042 (102,468 miles on 11/2/2023) Transmission failed to operate at 104,771 miles. Car failed to go reverse, noise from transmiss"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 18,
+        "share_pct": 9.1,
+        "excerpts": [
+          "Request for Investigation – 2014 Toyota RAV4 Airbag Non-Deployment  On [XXX], at approximately [XXX]., the vehicle was involved in a traffic collision in Lakeland, Florida. The vehicle sustained a sig",
+          "The contact owns a 2014 Toyota Rav4. The contact stated that during a rainstorm, rainwater leaked into the cabin of the vehicle from the A, B, C, and D pillars and the ceiling control center. The cont",
+          "“The factory paint on my 2014 Toyota RAV4 (Blue ) is peeling in large sections on the roof and hood. The metal underneath is exposed. This appears to be a widespread issue affecting this paint color, "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 20,
+      "fires": 25,
+      "injuries": 22,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 18
+      },
+      {
+        "year": 2015,
+        "count": 19
+      },
+      {
+        "year": 2016,
+        "count": 10
+      },
+      {
+        "year": 2017,
+        "count": 13
+      },
+      {
+        "year": 2018,
+        "count": 23
+      },
+      {
+        "year": 2019,
+        "count": 17
+      },
+      {
+        "year": 2020,
+        "count": 15
+      },
+      {
+        "year": 2021,
+        "count": 19
+      },
+      {
+        "year": 2022,
+        "count": 11
+      },
+      {
+        "year": 2023,
+        "count": 14
+      },
+      {
+        "year": 2024,
+        "count": 18
+      },
+      {
+        "year": 2025,
+        "count": 12
+      },
+      {
+        "year": 2026,
+        "count": 7
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "14V828000",
+        "component": "EQUIPMENT",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2014-2015 Toyota 4Runner, Tacoma, FJ Cruiser, Land Cruiser, RAV4, Scion FRS, and XB vehicles.  The affected vehicles may have accessories installed by SET, such as running boards or other items, that were incorrectly installed.",
+        "report_date": "30/12/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V011000",
+        "component": "TRAILER HITCHES",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2013-2015 Toyota Rav4 vehicles manufactured June 1, 2013, to December 29, 2014, and equipped with an accessory trailer light module.  The software within the module may incorrectly detect an electrical short and preventively tu",
+        "report_date": "16/01/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V144000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2015 Camry, Camry Hybrid, Highlander, and Highlander Hybrid, and 2014-2015 Rav4 vehicles.  A component of the electric power steering (EPS) electronic control unit (ECU) may have been damaged during the manufacturing p",
+        "report_date": "13/03/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V734000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2013-2018 RAV4 vehicles.  Certain replacement 12-volt batteries may not fit properly in the battery tray, allowing the battery to move and contact the hold-down bracket, possibly causing a short circuit.",
+        "report_date": "01/11/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:36:19.119Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

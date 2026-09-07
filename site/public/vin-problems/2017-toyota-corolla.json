@@ -1,0 +1,152 @@
+{
+  "slug": "2017-toyota-corolla",
+  "year": 2017,
+  "make": "Toyota",
+  "model": "Corolla",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 189,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 57,
+        "share_pct": 30.2,
+        "excerpts": [
+          "My 2017 Toyota Corolla is Involved in Illegal Airbags that Are A Horrible CRASH RATING F - by .Toyota of Spartanburg South Carolina in  3 Recall To the Owner of 2017 Toyota Certified Pre Owned USA Aut",
+          "My2017 Toyota Corolla was Purchased at  Dave Edward’s Certified Pre Owned Car Dealer in  Spartanburg South Carolina in 2018  It has Multiple Recall Notices by Toyota USA on ILLEGAL FACTORY INSTALLED  ",
+          "While I was driving in the middle lane through an intersection, a car from the opposite side failed to yield while turning and hit me on my driver's side. My car was traveling at approximately 35 MPH,"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 30,
+        "share_pct": 15.9,
+        "excerpts": [
+          "Recently purchased a used 2017 Toyota Corolla. During the test drive I did not attempt to use the cruise control as it was only driven on city or small highways. Travel with the car at those locations",
+          "The contact owns a 2017 Toyota Corolla. The contact stated that while driving at an undisclosed speed, the engine revved and the vehicle experienced unintended acceleration. The vehicle crashed into a",
+          "Vehicle went out of control in regards of speed when traveling downhill with cruise control on. Vehicle began heavily decelerating and accelerating along with high engine rpm. This is extremely danger"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 26,
+        "share_pct": 13.8,
+        "excerpts": [
+          "While reversing out of a parking spot, I noticed my break and steering wheel felt extremely stiff. I lost control of the vehicle for a second until I instinctively pushed HARD on the break. I realized",
+          "I am contacting you on a problem I cannot fully describe. However, I believe there is a mechanical problem with the right side of my vehicle with handling and braking. I have downloaded the form with ",
+          "Drum Brakes - no inspection hole. There are no inspection holes in any of my drum breaks"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 21,
+        "share_pct": 11.1,
+        "excerpts": [
+          "While reversing out of a parking spot, I noticed my break and steering wheel felt extremely stiff. I lost control of the vehicle for a second until I instinctively pushed HARD on the break. I realized",
+          "Odometer Fraud. The contact purchased a 2017 Toyota Corolla. The contact discovered that there was a mileage discrepancy after the purchase. The vehicle was an independent dealer sale. At the time of ",
+          "The contact owns a 2017 Toyota Corolla. The contact stated while driving at an undisclosed speed, the air bags and seat belt warning lights were illuminated.  The contact stated that upon starting the"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 17,
+        "share_pct": 9,
+        "excerpts": [
+          "The contact owns a 2017 Toyota Corolla. The contact stated that while the vehicle was at an independent mechanic for brake service, the contact was informed that the transmission chain had fractured a",
+          "My college son was driving down from Orlando, and when he got here I took his/my  car to my mechanic because the AC was not cold. I felt a hard shift when I put it in reverse, and when I started to dr",
+          "During a routine drive on the 91 West freeway my car got stuck in gear. I was unable to move the car that was on a busy freeway that was seconds ago driving perfectly."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 47,
+      "fires": 1,
+      "injuries": 44,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 3
+      },
+      {
+        "year": 2017,
+        "count": 39
+      },
+      {
+        "year": 2018,
+        "count": 32
+      },
+      {
+        "year": 2019,
+        "count": 26
+      },
+      {
+        "year": 2020,
+        "count": 30
+      },
+      {
+        "year": 2021,
+        "count": 15
+      },
+      {
+        "year": 2022,
+        "count": 15
+      },
+      {
+        "year": 2023,
+        "count": 10
+      },
+      {
+        "year": 2024,
+        "count": 7
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "20V024000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing  (Toyota) is recalling certain 2011-2019 Corolla, 2011-2013 Matrix, 2012-2018 Avalon, and 2013-2018 Avalon Hybrid vehicles.  During certain crashes, the air bag electronic control unit (ECU) may malfunction, possibly disabling the deployment of the air bags a",
+        "report_date": "17/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V503000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2017-2019 Toyota Camry, Corolla, Rav4, Sienna, and Yaris iA vehicles equipped with factory-installed floor mats.  The load carrying capacity modification label may be incorrect.  As such, these vehicles fail to comply with the requirement",
+        "report_date": "28/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V295000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "Gulf States Toyota, Inc. (Gulf States) is recalling certain 2017 4Runner , 86, Avalon, Camry, Camry Hybrid, Corolla, Corolla iM, Highlander, Highlander Hybrid, Prius, Prius C, RAV4, RAV4 Hybrid, Sienna  and Yaris vehicles.  The spare tire air pressure was not adjusted to the proper pressure as state",
+        "report_date": "02/05/2017",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:55.734Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

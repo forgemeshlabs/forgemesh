@@ -1,5 +1,6 @@
 import type { MetadataRoute } from 'next';
 import { allPosts } from '@/lib/runtime-blog';
+import { loadVinProblemsIndex } from '@/lib/vin-problems';
 
 // Regenerated per-request so runtime-published posts are indexed immediately.
 export const dynamic = 'force-dynamic';
@@ -33,6 +34,7 @@ const STATIC_ROUTES = [
   '/trades',
   '/vehicle-intelligence',
   '/vin',
+  '/vin/problems',
   '/watch',
   '/x402',
 ];
@@ -43,6 +45,7 @@ const DISCOVERY_ROUTES = ['/llms.txt', '/index.json', '/.well-known/x402'];
 export default function sitemap(): MetadataRoute.Sitemap {
   const POSTS = allPosts();
   const latestPost = POSTS.map((p) => p.date).sort().reverse()[0];
+  const VIN_PROBLEMS = loadVinProblemsIndex();
 
   return [
     ...STATIC_ROUTES.map((path) => ({
@@ -54,6 +57,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: `${BASE}/blog/${p.slug}`,
       lastModified: p.date,
     })),
+    ...VIN_PROBLEMS.map((e) => ({ url: `${BASE}/vin/${e.slug}` })),
     ...DISCOVERY_ROUTES.map((path) => ({ url: `${BASE}${path}` })),
   ];
 }

@@ -1,0 +1,284 @@
+{
+  "slug": "2014-ram-ram-1500",
+  "year": 2014,
+  "make": "Ram",
+  "model": "Ram 1500",
+  "matched_as": {
+    "complaints": [
+      "1500"
+    ],
+    "recalls": [
+      "1500"
+    ]
+  },
+  "failures": {
+    "total_complaints": 1758,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 500,
+        "share_pct": 28.4,
+        "excerpts": [
+          "Sudden, complete loss of electric power steering while backing out in a parking lot.  I was driving our 2014 Ram 1500.  It was approximately 9:00 pm and I was in a post office parking lot.  I started ",
+          "Rack and pinion/steering assist failed it is available for inspection and has not been repaired. My safety was put at risk along with the general public I was driving about 40 mph when all of the sudd",
+          "This truck has a failed steering rack that literally almost took me off the road mid driving, but yet doesn't fall under the 2015-2016 official recall. I am documenting this because this is going to b"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 302,
+        "share_pct": 17.2,
+        "excerpts": [
+          "ABS Traction control and Brake light displays on the dash,  Mechanic retreived code C2200-49  Also causes Service Trailer Brake system to be inoperative.",
+          "The contact owns a 2014 Ram 1500. The contact stated that the electronic throttle control (ETC) warning light was illuminated while driving. The vehicle was forced to stop. While driving over a bump, ",
+          "As is clearly a very common defect, my exhaust manifold bolts broke and the manifold warped.  This is the second time this has happened.  RAM knows about this problem.  In fact, it is so well known th"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 243,
+        "share_pct": 13.8,
+        "excerpts": [
+          "ABS Traction control and Brake light displays on the dash,  Mechanic retreived code C2200-49  Also causes Service Trailer Brake system to be inoperative.",
+          "Shortly after purchasing this truck, the ABS, Traction Control, Electronic braking system, and trailer brake system lights all came on. Back then I did some research and learned it was just something ",
+          "With no warning my truck lost all anti-lock braking, traction control, stability control, trailer brakes, and 4x4 capability (computer will not allow 4x4 to engage). This is due to an \"abs module\" fai"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 212,
+        "share_pct": 12.1,
+        "excerpts": [
+          "2014 ram 1500 gas tank strap bracket let go tank was hanging off truck",
+          "Check Engine light came on with a code P0463.  This indicates that the fuel level sensor is bad.  This is a VERY common issue on these trucks.  It causes the vehicle to no longer go into \"ECO\" mode wh",
+          "This complaint concerns failure of the remedy for Safety Recall Z46 / NHTSA Campaign 22V406 involving the high pressure fuel pump (HPFP) on a 3.0L diesel pickup. The HPFP had previously been replaced "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 191,
+        "share_pct": 10.9,
+        "excerpts": [
+          "With no warning my truck lost all anti-lock braking, traction control, stability control, trailer brakes, and 4x4 capability (computer will not allow 4x4 to engage). This is due to an \"abs module\" fai",
+          "The vehicle experienced a sudden loss of power steering while in operation, creating a safety concern due to reduced ability to control the vehicle. At the time of failure, multiple electrical and con",
+          "The recall for the loss of signal from the tone ring in recall 66A was supposed to allow the vehicle to use the signal from the camshaft positioning sensor.  This recall was completed on my truck but "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 98,
+      "fires": 24,
+      "injuries": 88,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 10
+      },
+      {
+        "year": 2014,
+        "count": 80
+      },
+      {
+        "year": 2015,
+        "count": 129
+      },
+      {
+        "year": 2016,
+        "count": 87
+      },
+      {
+        "year": 2017,
+        "count": 103
+      },
+      {
+        "year": 2018,
+        "count": 134
+      },
+      {
+        "year": 2019,
+        "count": 229
+      },
+      {
+        "year": 2020,
+        "count": 119
+      },
+      {
+        "year": 2021,
+        "count": 110
+      },
+      {
+        "year": 2022,
+        "count": 106
+      },
+      {
+        "year": 2023,
+        "count": 194
+      },
+      {
+        "year": 2024,
+        "count": 221
+      },
+      {
+        "year": 2025,
+        "count": 167
+      },
+      {
+        "year": 2026,
+        "count": 67
+      }
+    ]
+  },
+  "recalls": {
+    "count": 17,
+    "recalls": [
+      {
+        "campaign_number": "20V475000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:DIESEL",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Ram 1500 and 2014-2016 Jeep Grand Cherokee vehicles equipped with 3.0L diesel engines.  The crankshaft position sensor tone wheel may delaminate causing the engine to lose its ability to synchronize the fuel injector pulses and cam shaft timing, p",
+        "report_date": "13/08/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V347000",
+        "component": "LATCHES/LOCKS/LINKAGES:TAILGATE:LATCH",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2015-2017 Ram 1500, 2500 and 3500 pickup trucks equipped with an 8 foot bed and a power locking tailgate.  Chrysler is also recalling all 2013-2014 and 2018 Ram 1500, 2500 and 3500 pickup trucks built before April 1, 2018 with a 6 or 8 foot bed and a power ",
+        "report_date": "09/05/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V757000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:EMISSION CONTROL:GAS RECIRCULATION VALVE (EGR VALVE)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2019 Ram 1500 and 1500 Classic Pickup trucks equipped with 3.0L Eco Diesel engines.  The Exhaust Gas Recirculation (EGR) cooler may crack and allow pre-heated vaporized coolant to enter the EGR system. This mixture may combust inside the intake manifol",
+        "report_date": "24/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V517000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY:CABLES",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2014-2015 Ram 1500 diesel 4x2 trucks manufactured August 8, 2013, to July 2, 2015.  The affected vehicles have a battery harness that may rub against the frame bracket for the right engine mount resulting in an electrical short.",
+        "report_date": "14/08/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V821000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:LEVER AND LINKAGE:COLUMN SHIFT",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2016-2017 Ram 3500 Cab Chassis with a Gross Vehicle Weight Rating (GVWR) of less than 10,000 lbs, 2011-2017 Ram 3500, 4500 and 5500 Cab Chassis vehicles, 2009-2017 Ram 1500 and 2010-2017 Ram 2500 and 3500 pickup trucks, all equipped with a column shifter.  ",
+        "report_date": "20/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V302000",
+        "component": "AIR BAGS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2013-2016 Ram 1500, Ram 2500, and 2014-2016 Ram 3500 vehicles.  Certain driving conditions, such as driving off-road or debris striking the vehicle may cause the roll rate sensor to trigger a fault within the Occupant Restraint Controller (ORC). ",
+        "report_date": "09/05/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V459000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2012-2014 Ram 1500, 2500, 3500, 4500, and 5500 trucks manufactured January 18, 2011, to October 7, 2014, and equipped with the Electronic Vehicle Information Center option.  The affected vehicles have a steering wheel wiring harness that may rub ",
+        "report_date": "22/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V460000",
+        "component": "SEAT BELTS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2013-2015 Ram 1500, 2500, and 3500 trucks manufactured June 20, 2012, to January 26, 2015.  In the affected vehicles, the side impact sensor calibrations may be overly sensitive, and as a result, the side air bag inflatable curtains and seat air ",
+        "report_date": "22/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V461000",
+        "component": "EQUIPMENT:ELECTRICAL:RADIO/TAPE DECK/CD ETC.",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2013-2015 Ram 1500, 2500, 3500, 4500, and 5500, 2015 Chrysler 200, Chrysler 300, Dodge Charger, and Dodge Challenger, 2014-2015 Jeep Grand Cherokee, Cherokee, and Dodge Durango, and 2013-2015 Dodge Viper vehicles.  The affected vehicles are equip",
+        "report_date": "23/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V534000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2014-2015 Ram 1500 Quad Cab trucks manufactured August 26, 2013, to August 8, 2015.  The affected vehicles are equipped with side air bag inflatable curtains (SABIC) that may not fully overlap the C-pillars in the event of a vehicle crash.  As su",
+        "report_date": "21/08/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V486000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2014 RAM 1500, 2500, and 3500 trucks manufactured July 1, 2013, through August 22, 2013.  Randomly, the warning lights in the instrument cluster may fail to illuminate as designed.",
+        "report_date": "17/10/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16E041000",
+        "component": "EQUIPMENT",
+        "summary": "Chrysler (FCA US LLC) is recalling aftermarket Mopar Canvas Seat Covers for certain 2012-2016 RAM 1500, 2500, and 3500 trucks.  These Mopar canvas seat covers were sold through Chrysler dealerships beginning October 15, 2015.  The seat covers can impede the deployment of the seat thorax airbags.",
+        "report_date": "16/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V161000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2014 Ram 1500 4x4 vehicles manufactured January 24, 2014, through February 5, 2014.  In the affected vehicles, the transmission case may have been improperly machined which can result in the park pawl not properly engaging when the transm",
+        "report_date": "01/04/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V392000",
+        "component": "SUSPENSION:REAR:SHOCK ABSORBER",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2014 Jeep Cherokee and Ram 1500 and 2015 Chrysler 200 vehicles.  Due to an insufficient weld, the rear shocks may detach from the vehicle at one end and possibly damage other chassis components, the tire or result in reduced braking.",
+        "report_date": "02/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V406000",
+        "component": "FUEL SYSTEM, DIESEL:DELIVERY:FUEL PUMP",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2020 Jeep Grand Cherokee, and 2014-2019 Ram 1500 vehicles equipped with 3.0L diesel engines.  A high pressure fuel pump (HPFP) failure may introduce internal debris into the fuel system, potentially resulting in fuel starvation.",
+        "report_date": "09/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V411000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2019 Ram 1500 and 2014-2020 Jeep Grand Cherokee vehicles equipped with 3.0L Diesel engines.  The crankshaft position sensor tone wheel may delaminate, causing the engine to lose its ability to synchronize the fuel injector pulses and cam shaft timing,",
+        "report_date": "08/06/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:36:48.647Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

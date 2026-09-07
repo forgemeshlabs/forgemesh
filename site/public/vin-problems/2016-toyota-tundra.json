@@ -1,0 +1,176 @@
+{
+  "slug": "2016-toyota-tundra",
+  "year": 2016,
+  "make": "Toyota",
+  "model": "Tundra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 119,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 34,
+        "share_pct": 28.6,
+        "excerpts": [
+          "The trailer brake controller went out.  It does not supply electronic braking and the truck no longer recognizes the controller on the dashboard.  Multiple on line chats and forums, along with my trai",
+          "1)Over 60 MPH with new tires the vehicle pulses & shakes on front end, checked alignment everything OK per Mechanic. Just started to occur 2)Bluetooth when on iPhone will at any time cut out guarantee",
+          "The integrated brake controller does not apply enough power to the trailer brakes."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 26,
+        "share_pct": 21.8,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2016 Toyota Tundra. The contact stated while going through prior service paperwork found in the vehicle, he discovered that there was a mileage discrepancy. The",
+          "1)Over 60 MPH with new tires the vehicle pulses & shakes on front end, checked alignment everything OK per Mechanic. Just started to occur 2)Bluetooth when on iPhone will at any time cut out guarantee",
+          "Seat heater stopped working. Turns out there is a burnt connector leading to part number 87501-0C020, which appears to be a seat heater amp. One pin of the connector is completely melted. I've purchas"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 21,
+        "share_pct": 17.6,
+        "excerpts": [
+          "Bed is rusting out from the bottom in a fashion that looks very similar to a previous Tundra bed rusting issue that had a TSB and remedy from Toyota.  On the driver's side bed bolt closest to the cab,",
+          "I have had multiple incidents where the front hood bulge has blown off going down the interstate and nearly hit other cars. It’s not been worth buying a new one with the risk of them flying off. It’s ",
+          "The frame of the truck is extremely rusted.  I am unsure if it can be fixed.  It is available for inspection.  This 2016 Tundra has 71,000 miles and is used as a third car.  It has been serviced at th"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 15,
+        "share_pct": 12.6,
+        "excerpts": [
+          "My right front headlamp is getting moisture inside the headlamp assembly. It can be inspected any time. Chance that headlamp will not work. Did not take to a dealer.",
+          "HEADLIGHTS IN THE ON OR AUTO POSITION RANDOMLY GO OUT WHEN BLINKER RETURNS TO NEUTRAL POSITION AFTER BEING ENGAGED.  THIS HAS HAPPENED WHILE IN MOTION AT LOW AND HIGHSPEEDS ON CITY STREETS AND HIGHWAY",
+          "MY HEADLIGHTS SHUT OFF WHEN USING MY TURN SIGNAL"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 7,
+        "share_pct": 5.9,
+        "excerpts": [
+          "The steering rack internal seal inside the steering rack failed/ \"blew\" per mechanic and is leaking.  I could lose my ability to steer at any time while driving my vehicle and wreck.  It is currently ",
+          "The power steering went out during routine around-town driving. One moment it was steering fine, the next moment it became extremely difficult and sluggish. There were no warning lights or warning of ",
+          "1)Over 60 MPH with new tires the vehicle pulses & shakes on front end, checked alignment everything OK per Mechanic. Just started to occur 2)Bluetooth when on iPhone will at any time cut out guarantee"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 0,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2015,
+        "count": 6
+      },
+      {
+        "year": 2016,
+        "count": 36
+      },
+      {
+        "year": 2017,
+        "count": 22
+      },
+      {
+        "year": 2018,
+        "count": 7
+      },
+      {
+        "year": 2019,
+        "count": 15
+      },
+      {
+        "year": 2020,
+        "count": 6
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 7
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "17V416000",
+        "component": "AIR BAGS:KNEE BOLSTER",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2016 Tundra vehicles.  The affected vehicles have a passenger knee air bag module that was attached to the instrument panel mounting brackets with incorrect bolts.",
+        "report_date": "29/06/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V051000",
+        "component": "STRUCTURE:BODY:BUMPERS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2016-2017 Tundra vehicles equipped with a resin rear step bumper and resin reinforcement brackets (vehicles with chrome step bumpers are not affected).  In the event of an impact to the corner of the bumper, the resin bracket may",
+        "report_date": "24/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V311000",
+        "component": "WHEELS:LUGS/NUTS/BOLTS/STUDS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2013-2017 Toyota Tundra and Sequoia vehicles accessorized with Southeast Toyota accessory 20-inch Rockstar wheels installed by Southeast Toyota or a Southeast Toyota dealer.  The Rockstar wheels were installed with lugnuts that",
+        "report_date": "11/05/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V420000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2016 Toyota Camry and Highlander, 2015-2016 Toyota Tundra, Scion FR-S, and tC vehicles.  The Load Carrying Capacity Modification Label may not reflect the correct added weight of the installed accessories.  As a result, these v",
+        "report_date": "09/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V920000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2008-2022 Sequoia and 2007-2021 Tundra vehicles.  The power steering gear assembly may have been manufactured incorrectly, which can result in an oil leak.",
+        "report_date": "23/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21E103000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain JTEKT power steering gear assembly service parts for 2007-2021 Tundra and 2008-2022 Sequoia, part numbers 44250-0C160, 44250-0C131, 44250-0C170, and 11250-0C121.  The power steering gear assembly may have been manufactured incorr",
+        "report_date": "23/12/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:16.252Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "2020-toyota-corolla",
+  "year": 2020,
+  "make": "Toyota",
+  "model": "Corolla",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 306,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 108,
+        "share_pct": 35.3,
+        "excerpts": [
+          "Part is the coolant bypass valve.  Toyota has been taken to court but dealership claims now that I’m over 100k miles I can’t do it.  There was also a second part about 10 years but I wasn’t clear on t",
+          "A message came on the screen saying “engine maintenance required” and it’s not going away. Upon doing a google search, there is a common failure in the cooling system for these cars reported by a lot ",
+          "The contact owns a 2020 Toyota Corolla. The contact stated that while at a red light, the vehicle shut off with the check engine and several other unknown warning lights illuminated. The vehicle resta"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 37,
+        "share_pct": 12.1,
+        "excerpts": [
+          "FAILED COMPONENT & AVAILABILITY: The manual transmission Concentric Slave Cylinder (CSC) failed internally. Due to caustic hydraulic fluid contamination and severe system pressure loss, I had to repla",
+          "Design issue: The 12th-generation (E210) Corolla manual transmission utilizes a CSC unit containing plastic/ABS components that owners and forum communities frequently cite as a weak point prone to pr",
+          "The contact owns a 2020 Toyota Corolla. The contact stated that while driving at an undisclosed speed, the clutch failed to operate as intended. The contact stated that the clutch seized, and the RPM "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 31,
+        "share_pct": 10.1,
+        "excerpts": [
+          "DESIGN FLAW & SAFETY RISK: Toyota critically mismatched the standard battery to the vehicle's electrical charging profile; an AGM battery should be specified from the factory. Engine programming drops",
+          "The contact purchased a 2020 Toyota Corolla. The contact stated that they discovered a mileage discrepancy after the purchase. The vehicle was a private sale on Facebook market. At the time of purchas",
+          "when I use blinker windshield wipers turn on and sometimes when I call or somebody calls my cell phone I can hear them, but they cannot hear me. does not happen all the time, but I was concerned since"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 22,
+        "share_pct": 7.2,
+        "excerpts": [
+          "I am having a problem with my 2020 Toyota Corolla's brakes. I live in [XXX] . In the winter when the car is cold the brakes work normally. When the car has been driven for a while, the car has warmed ",
+          "Clutch slave cylinder started leaking leading to a sticking clutch pedal, making it difficult to engage the transmission with the engine, and a lower brake/clutch fluid level which could have caused b",
+          "Beginning on April 18, 2025, my 2020 Toyota Corolla LE began experiencing repeated failures involving multiple safety systems while driving. Without warning, several lights illuminate at the same time"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 18,
+        "share_pct": 5.9,
+        "excerpts": [
+          "When I start the car it informs me that my seat belt is not being worn. Even though it is. Then a message appears on my dash that says \"Srs airbag system malfunction visit your dealer\"   My family's s",
+          "The current recall on this car (passenger front seat weigh sensor issue) has been going on for too long (since 2023). Based on the recall info, i have not been able to drive with anyone sitting on the",
+          "My airbag sensory notifications keeps coming on. When I start my car normally it isn’t on but once I start driving the notification will come on along with the ding noise it makes when you don’t have "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 22,
+      "fires": 1,
+      "injuries": 23,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 17
+      },
+      {
+        "year": 2020,
+        "count": 34
+      },
+      {
+        "year": 2021,
+        "count": 19
+      },
+      {
+        "year": 2022,
+        "count": 27
+      },
+      {
+        "year": 2023,
+        "count": 30
+      },
+      {
+        "year": 2024,
+        "count": 108
+      },
+      {
+        "year": 2025,
+        "count": 55
+      },
+      {
+        "year": 2026,
+        "count": 16
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V877000",
+        "component": "SEAT BELTS: REAR/OTHER:BUCKLE ASSEMBLY",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2019-2020 C-HR and 2020 Corolla and Corolla Hybrid vehicles equipped with rear seat belt assemblies with a dual-mode locking mechanism.  The seat belt webbing sensor locking mechanism may not lock as intended.",
+        "report_date": "11/12/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V865000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020-2021 Avalon, Avalon Hybrid, Corolla, Highlander, Highlander Hybrid, RAV4, RAV4 Hybrid, Lexus ES350, Lexus RX350, Lexus RX450H, 2021 Sienna Hybrid, Lexus ES250, 2020-2022 Camry, Camry Hybrid, and ES300H vehicles.  A short cir",
+        "report_date": "20/12/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:01.615Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

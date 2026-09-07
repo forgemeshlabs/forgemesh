@@ -1,0 +1,176 @@
+{
+  "slug": "2019-toyota-rav4",
+  "year": 2019,
+  "make": "Toyota",
+  "model": "RAV4",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 875,
+    "top_failure_components": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 255,
+        "share_pct": 29.1,
+        "excerpts": [
+          "While driving in the mountains on a hot day, the car suddenly reported numerous faults, including check engine, parking brake malfunction, pre-collision system malfunction, AWD system malfunction, and",
+          "Vehicle consistently accepts only approximately 9–10 gallons of fuel when the fuel gauge indicates empty, resulting in significantly reduced driving range. Issue has been widely reported by other Toyo",
+          "This is another complaint with the same issue. Got gas on January 1, 2026, the truck did not how any indication that it was going to have any problems. Engine shut down and wouldn’t turn back on. This"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 203,
+        "share_pct": 23.2,
+        "excerpts": [
+          "The Coolant Bypass Valve on my vehicle failed, leading to a risk of sudden engine overheating and potential coolant leaks into the electrical harness. This is a documented defect (CSP 23TE03) that Toy",
+          "The 8-speed automatic on my 2019 RAV4 (2.5L 4 Cyl) has been shifting super rough at lower speeds, to the point to where downshifts can send the revs into redline territory, but the car really doesn't ",
+          "The contact owns a 2019 Toyota Rav4. The contact stated that while driving at an undisclosed speed, the message \"Engine Maintenance Required - Visit the Dealer\" was displayed on the screen. The vehicl"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 101,
+        "share_pct": 11.5,
+        "excerpts": [
+          "Display of RAV4 Hybrid is malfunctioning as it randomly turns on and off at frequent intervals, the screen turns on an off in a similar manner, the display controls are not operative even if displayed",
+          "Door locks failed to lock or unlock via the key fob, intermittent problem",
+          "Was in a front driver side T-bone @ 35 miles and hour accident and no Airbags deployed"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 89,
+        "share_pct": 10.2,
+        "excerpts": [
+          "The rear door (lift gate) hinges are failing and tearing away from the vehicle body, causing misalignment of the rear door, operational failure of the automated lift gate, and water leaking into the i",
+          "The rear hatch hinges are undersized causing them to fail and undue stress on the motor.",
+          "Tailgate problem since Purchase. Tailgate won't close. Gets stuck open. Dangerous. Known issue. Fixed 3 times at Toyota dealer. Faulty hinge and other real parts problems. Dealer says there is a class"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 80,
+        "share_pct": 9.1,
+        "excerpts": [
+          "transmission went out at 109,217 k miles had to pay for it out of pocket  Toyota doesn't recommend transmission fluid replacement until 120k miles",
+          "The 8-speed automatic on my 2019 RAV4 (2.5L 4 Cyl) has been shifting super rough at lower speeds, to the point to where downshifts can send the revs into redline territory, but the car really doesn't ",
+          "My 2019 Toyota RAV4 Adventure suffered a sudden catastrophic transmission failure while driving on the highway on April 28, 2026, resulting in loss of forward gears and a dangerous situation.  On Apri"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 25,
+      "fires": 2,
+      "injuries": 21,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 2
+      },
+      {
+        "year": 2019,
+        "count": 245
+      },
+      {
+        "year": 2020,
+        "count": 126
+      },
+      {
+        "year": 2021,
+        "count": 59
+      },
+      {
+        "year": 2022,
+        "count": 76
+      },
+      {
+        "year": 2023,
+        "count": 117
+      },
+      {
+        "year": 2024,
+        "count": 131
+      },
+      {
+        "year": 2025,
+        "count": 87
+      },
+      {
+        "year": 2026,
+        "count": 31
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V064000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020 Toyota Avalon Hybrid, Camry, Camry Hybrid and  Lexus ES300h and 2019-2020 RAV4 and RAV4 Hybrid vehicles equipped with 2.5L 4-Cylinder engines.  Porosity in the engine castings may result in cracks than can allow coolant to l",
+        "report_date": "06/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V373000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2019-2020 RAV4 and 2020 RAV4 Hybrid vehicles equipped with electric power steering (EPS).  Water may enter through the steering gear box cover and cause a loss of electric power steering assist.",
+        "report_date": "24/06/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V286000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM:LOWER ARM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2019-2020 RAV4 and RAV4 Hybrid vehicles.  The front lower suspension arms may have cracks, which may result in the suspension arm separating from the front wheel assembly.",
+        "report_date": "20/05/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V503000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2017-2019 Toyota Camry, Corolla, Rav4, Sienna, and Yaris iA vehicles equipped with factory-installed floor mats.  The load carrying capacity modification label may be incorrect.  As such, these vehicles fail to comply with the requirement",
+        "report_date": "28/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V576000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2019 RAV4 and RAV4 Hybrid vehicles.  Due to a damaged electrical connector, the back-up camera may not activate when the vehicle is in reverse.  As such, these vehicles fail to comply to Federal Motor Safety Standard (FMVSS) numb",
+        "report_date": "06/08/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V244000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Gulf States Toyota (GST) is recalling certain 2019 C-HR, 4Runner, Avalon, Avalon Hybrid, Camry, Camry Hybrid, Highlander, Land Cruiser, Prius, RAV4, Sequoia, Tacoma, Sienna, Tundra and Yaris vehicles.  The text on the load capacity label may become illegible.  As such, these vehicles fail to comply ",
+        "report_date": "27/03/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:09.133Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

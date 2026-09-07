@@ -1,0 +1,156 @@
+{
+  "slug": "2015-hyundai-elantra",
+  "year": 2015,
+  "make": "Hyundai",
+  "model": "Elantra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 261,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 91,
+        "share_pct": 34.9,
+        "excerpts": [
+          "Failed engine due to class action recall",
+          "I purchased the vehicle from a private party on 8/18/21 with 38,310 miles. Almost immediately after owning the vehicle I noticed the engine oil level was low.. The owner had said she had just got an o",
+          "The engine failed on a 2015 Hyundai Elantra with approximately 71,000 miles. The vehicle has an open, unresolved safety recall (Recall 251, NHTSA #23V651000) for an ABS module brake fluid leak that Hy"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 55,
+        "share_pct": 21.1,
+        "excerpts": [
+          "The engine failed on a 2015 Hyundai Elantra with approximately 71,000 miles. The vehicle has an open, unresolved safety recall (Recall 251, NHTSA #23V651000) for an ABS module brake fluid leak that Hy",
+          "Abs and traction control lights on as well as e brake light this is all after I had recall work that was supposed to fix this problem but only made it worse I am dealing with Hyundai but I don’t see a",
+          "The contact owns a 2015 Hyundai Elantra. The contact stated while driving 65 MPH, the vehicle started shuddering. The check engine warning light was illuminated. The vehicle was taken to the dealer, w"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 26,
+        "share_pct": 10,
+        "excerpts": [
+          "I am writing to formally report a serious vehicle safety concern involving a 2015 Hyundai Elantra, VIN [XXX], which is owned by my mother.  The vehicle experienced a sudden loss of power steering assi",
+          "When driving the car loses power steering and is harder to control. I am at risk because I cannot control the car how I am suppose to. I have called before but there are no Hyundai service dealers clo",
+          "The contact owns a 2015 Hyundai Elantra. The contact stated while driving at an undisclosed speed, the vehicle experienced a loss of motive power, and the vehicle was difficult to steer. The ABS light"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 26,
+        "share_pct": 10,
+        "excerpts": [
+          "The contact owns a 2015 Hyundai Elantra. The contact stated while driving 65 MPH, the vehicle started shuddering. The check engine warning light was illuminated. The vehicle was taken to the dealer, w",
+          "The contact owns a 2015 Hyundai Elantra. The contact stated while driving at an undisclosed speed, the vehicle made an abnormal sound. The contact stated that the sound was like an airplane propeller ",
+          "The contact owns a 2015 Hyundai Elantra. The contact received notification of NHTSA Campaign Number: 23V651000 (Service Brakes, Hydraulic). The contact stated that on two occasions while driving at 45"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 23,
+        "share_pct": 8.8,
+        "excerpts": [
+          "The engine failed on a 2015 Hyundai Elantra with approximately 71,000 miles. The vehicle has an open, unresolved safety recall (Recall 251, NHTSA #23V651000) for an ABS module brake fluid leak that Hy",
+          "Odometer Fraud. The contact purchased a 2015 Hyundai Elantra. It was discovered that there was a mileage discrepancy. The vehicle was a dealer sale. At the time of purchase, the vehicle mileage was ap",
+          "Abs and traction control lights on as well as e brake light this is all after I had recall work that was supposed to fix this problem but only made it worse I am dealing with Hyundai but I don’t see a"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 27,
+      "fires": 8,
+      "injuries": 25,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 5
+      },
+      {
+        "year": 2015,
+        "count": 16
+      },
+      {
+        "year": 2016,
+        "count": 17
+      },
+      {
+        "year": 2017,
+        "count": 12
+      },
+      {
+        "year": 2018,
+        "count": 22
+      },
+      {
+        "year": 2019,
+        "count": 31
+      },
+      {
+        "year": 2020,
+        "count": 16
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 27
+      },
+      {
+        "year": 2023,
+        "count": 48
+      },
+      {
+        "year": 2024,
+        "count": 33
+      },
+      {
+        "year": 2025,
+        "count": 15
+      },
+      {
+        "year": 2026,
+        "count": 9
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "23V651000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2015 Elantra, Genesis Coupe, Sonata Hybrid, 2012-2015 Accent, Azera, Veloster, 2013-2015 Elantra Coupe, Santa Fe, 2014-2015 Equus, 2010-2012 Veracruz, 2010-2013 Tucson, 2015 Tucson Fuel Cell, and 2013 Santa Fe Sport vehicles.  The Anti-Lock B",
+        "report_date": "22/09/2023",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "24V146000",
+        "component": "LATCHES/LOCKS/LINKAGES:TRUNK LID:LATCH",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2015-2016 Elantra vehicles.  The trunk latch may become damaged, preventing the opening of the trunk from the inside.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 401, \"Internal Trun",
+        "report_date": "23/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V307000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2015-2016 Elantra and 2016 Elantra GT vehicles. The driver's air bag inflator may rupture during deployment.",
+        "report_date": "15/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:50.039Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

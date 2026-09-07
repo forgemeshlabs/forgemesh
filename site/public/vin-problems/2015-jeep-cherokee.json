@@ -1,0 +1,228 @@
+{
+  "slug": "2015-jeep-cherokee",
+  "year": 2015,
+  "make": "Jeep",
+  "model": "Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1785,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 1001,
+        "share_pct": 56.1,
+        "excerpts": [
+          "The contact owns a 2015 Jeep Cherokee. The contact stated that there was an abnormal burning odor coming from the A/C unit while in operation. The contact also stated that after starting the vehicle, ",
+          "While driving my 2015 Jeep Cherokee on an interstate trip, we began noticing a strong unusual odor inside the vehicle. At first, we thought we were simply driving past a paper mill or another external",
+          "Slipping of transmission"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 364,
+        "share_pct": 20.4,
+        "excerpts": [
+          "I have a complaint concerning the 3.2L V6 Pentastar engine.  A repair was necessary for a manufacturer KNOWN fault concerning factory installation using improperly hardened steel for the Rocker arms/l",
+          "Vehicle is overheating, have had issues right after purchasing from carmax burbank and issues after the recall was worked on at van nuys jeep dealership.",
+          "The Vehicle suddenly stopped and I was unable to brake or steer the wheel while driving (loss of power/limp mode). I took it to a shop who ran a diagnostic and it came back as DTC code. I now had to t"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 327,
+        "share_pct": 18.3,
+        "excerpts": [
+          "Online is saying there is 0 recalls after a year of having the vehicle a recall was sent by mail. I got it fixed by jeep van nuys, the engine and the other equipment attached looks unsafe and it is co",
+          "My Jeep caught on fire in the area of the power lift gate control module . A fire department report was filed.",
+          "The contact owns a 2015 Jeep Cherokee. The contact stated that on multiple occasions, the brake pedal became inoperable and felt spongy while attempting to stop the vehicle. The contact also stated th"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 127,
+        "share_pct": 7.1,
+        "excerpts": [
+          "Online is saying there is 0 recalls after a year of having the vehicle a recall was sent by mail. I got it fixed by jeep van nuys, the engine and the other equipment attached looks unsafe and it is co",
+          "The contact owns a 2015 Jeep Cherokee. The contact stated that on multiple occasions, the brake pedal became inoperable and felt spongy while attempting to stop the vehicle. The contact also stated th",
+          "Parking brake module went out and locked up the back end this has happened multiple times now while driving at different speeds!"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 120,
+        "share_pct": 6.7,
+        "excerpts": [
+          "Check engine light on 2015 Jeep Cherokee Sport turned on, vehicle \"went limp\".  Pulled over, turned car off, waited, turned car back on.  Happened again taking car to dealership.  The dealership said ",
+          "My vehicle - at random - will switch to traction control, 4x4, and will slow down while driving, and will not allow me to go above 45 mph, with the engine rpm’s revved as  high as if I’m driving 85 mp",
+          "Hello my jeep got a message of service 4 wheel drive so i brought it to the dealership. the looked at it and it turns out to be a failing PTU. Jeep did a recall and extended warranty on it but they ar"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 45,
+      "fires": 28,
+      "injuries": 32,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1916,
+        "count": 1
+      },
+      {
+        "year": 2005,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 47
+      },
+      {
+        "year": 2015,
+        "count": 387
+      },
+      {
+        "year": 2016,
+        "count": 221
+      },
+      {
+        "year": 2017,
+        "count": 133
+      },
+      {
+        "year": 2018,
+        "count": 160
+      },
+      {
+        "year": 2019,
+        "count": 204
+      },
+      {
+        "year": 2020,
+        "count": 150
+      },
+      {
+        "year": 2021,
+        "count": 101
+      },
+      {
+        "year": 2022,
+        "count": 82
+      },
+      {
+        "year": 2023,
+        "count": 136
+      },
+      {
+        "year": 2024,
+        "count": 74
+      },
+      {
+        "year": 2025,
+        "count": 63
+      },
+      {
+        "year": 2026,
+        "count": 25
+      }
+    ]
+  },
+  "recalls": {
+    "count": 11,
+    "recalls": [
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V393000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2014-2015 Jeep Cherokee vehicles manufactured January 4, 2013, to February 18, 2015 and equipped with a Power Liftgate option.  In the affected vehicles, water may enter the Power Liftgate Control Module and cause a high resistance short circuit ",
+        "report_date": "22/06/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V824000",
+        "component": "EQUIPMENT",
+        "summary": "Chrysler (FCA US LLC) is recalling various Dodge, Chrysler, and RAM vehicles equipped with Kidde Plastic-Handle or Push Button 'Pindicator' Fire Extinguishers.  A list of the affected trailer models is available at: https://static.nhtsa.gov/odi/rcl/2017/RMISC-17V824-0103.pdf.  These extinguishers ma",
+        "report_date": "21/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V590000",
+        "component": "SEATS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2014-2016 Jeep Cherokee vehicles manufactured July 29, 2013, to February 5, 2016.  The seat fasteners on the first or second row seats may not have been tightened to the proper torque specification.",
+        "report_date": "10/08/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V529000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2014-2015 Jeep Cherokee and 2015 Chrysler 200, Jeep Renegade, RAM ProMaster, and 2016 Fiat 500X vehicles equipped with 9-speed automatic transmissions.  The transmission sensor clusters may have insufficient crimps in the transmission wire harnes",
+        "report_date": "12/07/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V461000",
+        "component": "EQUIPMENT:ELECTRICAL:RADIO/TAPE DECK/CD ETC.",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2013-2015 Ram 1500, 2500, 3500, 4500, and 5500, 2015 Chrysler 200, Chrysler 300, Dodge Charger, and Dodge Challenger, 2014-2015 Jeep Grand Cherokee, Cherokee, and Dodge Durango, and 2013-2015 Dodge Viper vehicles.  The affected vehicles are equip",
+        "report_date": "23/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V041000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Chrysler is recalling certain model year 2014-2015 Jeep Cherokee vehicles manufactured January 1, 2013, to November 19, 2014.  The affected vehicles may experience unintended side curtain and seat air bag deployment during vehicle operation.",
+        "report_date": "28/01/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V826000",
+        "component": "ELECTRICAL SYSTEM:WIRING: REAR COMPARTMENT/TRUNK",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2015-2016 Jeep Cherokee vehicles manufactured February 18, 2015, to September 10, 2015 and equipped with the power liftgate option.  In the affected vehicles, water may leak into the Power Liftgate Control Module and result in a high resistance s",
+        "report_date": "09/12/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V676000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2015 Jeep Cherokee vehicles manufactured October 1, 2014, to June 18, 2015.  The affected vehicles may have a misrouted air conditioning suction/discharge hose.",
+        "report_date": "19/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V343000",
+        "component": "POWER TRAIN:DRIVELINE:DIFFERENTIAL UNIT",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2017 Jeep Cherokee vehicles equipped with a two-speed Power Transfer Unit (PTU).  Relative movement in the Power Transfer Unit (PTU) between the differential input splines and the transmission output shaft may cause some input spline teeth to wear off,",
+        "report_date": "11/06/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V338000",
+        "component": "ELECTRICAL SYSTEM:WIRING: REAR COMPARTMENT/TRUNK",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2016 Jeep Cherokee vehicles equipped with a power liftgate.  An electrical short in the power liftgate module may lead to a vehicle fire with the ignition on or off.",
+        "report_date": "11/05/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:48.940Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

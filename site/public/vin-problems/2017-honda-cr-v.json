@@ -1,0 +1,180 @@
+{
+  "slug": "2017-honda-cr-v",
+  "year": 2017,
+  "make": "Honda",
+  "model": "CR-V",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1759,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 528,
+        "share_pct": 30,
+        "excerpts": [
+          "The manufacturer, American Honda, issued a 10-year extended warranty (TSB 19-091) for defective, leaking A/C condensers on the 2017 Honda CR-V. Authorized Honda dealerships (specifically Napleton Hond",
+          "The contact owns a 2017 Honda CR-V. The contact stated that while driving at an undisclosed speed, the accelerator pedal was depressed; however, the vehicle failed to accelerate as intended, and the v",
+          "vehicle may experience driveability issues, which may result in DTCs P0300 (random misfire detected), P0301 (No. 1 cylinder misfire detected), P0302 (No. 2 cylinder misfire detected), P0303 (No. 3 cyl"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 396,
+        "share_pct": 22.5,
+        "excerpts": [
+          "All dash warning indicators come on randomly and a code reader indicates fuel injector issue. That was checked and is not the issue. This is a well-known symptom in this model year that head gasket le",
+          "I have a 2017 Honda crv which has intermittent bucking type issues, if I accelerate during that time the check engine light will turn on and the car will stop, sometimes when I turn the car on it will",
+          "All warning lamps have been coming on at random times. The dealerships have always said there is no problem. Now, outside of warranty, I am reading that it's possible that the problem is that all of t"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 346,
+        "share_pct": 19.7,
+        "excerpts": [
+          "Over the past 6/7 months, the following:  ALL warning lights on dashboard flashing whenever car in running,  strong smell of gasoline detected in home garage,  and 5/6 times during the past 4/5 weeks ",
+          "Emission warning light along with LKAS, ACC, Brake system are coming on the DASH. No driveability issues.  The dealership in Walnut Creek pull code and find P0304 missfire #4 CYCLINDE, test #1 and #2 ",
+          "All brake systems warning lamps illuminated while driving on the highway, the vehicle was pulled off the road and shut off, brakes were visually inspected and all fluid levels were examined and everyt"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 280,
+        "share_pct": 15.9,
+        "excerpts": [
+          "The safety driver assist options work periodically ... all the dash lights are on when breaking system is not working properly.   While driving with cruise control on the brake system/driver assist op",
+          "Car automatically applies brakes for no reason.  Happens at least once a month.   Beside the startle factor, I am going to cause an accident by someone rear ending me because brakes are being applied ",
+          "vehicle may experience driveability issues, which may result in DTCs P0300 (random misfire detected), P0301 (No. 1 cylinder misfire detected), P0302 (No. 2 cylinder misfire detected), P0303 (No. 3 cyl"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 175,
+        "share_pct": 9.9,
+        "excerpts": [
+          "The contact owns a 2017 Honda CR-V. The contact stated that while driving 45 MPH, the brake message was displayed, causing the brakes to engage independently. An independent mechanic was contacted. Th",
+          "There doesn't have to be a vehicle or obstacle in front of the vehicle and the brake system will automatically apply. This is extremely dangerous as vehicles behind the CRV have no warning the brakes ",
+          "The contact owns a 2017 HONDA CR-V. The contact stated that while driving at an undisclosed speed, numerous warning lights illuminated on the dashboard, including the ABS and check engine lights. Conc"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 42,
+      "fires": 4,
+      "injuries": 36,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 2
+      },
+      {
+        "year": 2017,
+        "count": 151
+      },
+      {
+        "year": 2018,
+        "count": 435
+      },
+      {
+        "year": 2019,
+        "count": 294
+      },
+      {
+        "year": 2020,
+        "count": 124
+      },
+      {
+        "year": 2021,
+        "count": 132
+      },
+      {
+        "year": 2022,
+        "count": 162
+      },
+      {
+        "year": 2023,
+        "count": 141
+      },
+      {
+        "year": 2024,
+        "count": 116
+      },
+      {
+        "year": 2025,
+        "count": 130
+      },
+      {
+        "year": 2026,
+        "count": 72
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "18V663000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017-2018 Honda Civic and CR-V vehicles.  The magnet that controls the\r\ntorque sensor output signal for the electronic power steering system may not be properly secured, allowing the magnet to become dislodged.  During a full lock turn, the dislo",
+        "report_date": "27/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V442000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017 Honda CR-V 2WD and AWD vehicles.  The affected vehicles have a fuel supply pipe that may have been improperly manufactured, possibly resulting in the pipe disconnecting and leaking while driving.",
+        "report_date": "13/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V256000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017 CR-V and Acura RDX vehicles.  The Certification Labels on the affected vehicles were printed with ink that may be inadvertently wiped away with an alcohol solvent.  As such, these vehicles fail to comply with the requirements of 49 CFR Part ",
+        "report_date": "18/04/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V158000",
+        "component": "SEAT BELTS:FRONT:BUCKLE ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017-2020 CR-V, 2018-2019 Accord and Accord Hybrid, 2018-2020 Odyssey, 2019 Insight, and 2019-2020 Acura RDX vehicles.  A manufacturing issue with the front seat belts may cause the seat belt buckle channel to interfere with the release button, p",
+        "report_date": "09/03/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V524000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017, 2020, and 2022 CR-V vehicles.  The certification label on the driver's side door states incorrect Gross Vehicle Weight Rating (GVWR), Gross Axle Weight Rating (GAWR), and tire size information.  As such, these vehicles fail to comply with t",
+        "report_date": "27/07/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:40:02.275Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

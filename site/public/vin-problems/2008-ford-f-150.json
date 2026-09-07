@@ -1,0 +1,168 @@
+{
+  "slug": "2008-ford-f-150",
+  "year": 2008,
+  "make": "Ford",
+  "model": "F-150",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 369,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 53,
+        "share_pct": 14.4,
+        "excerpts": [
+          "The truck has a body frame that was cracked in several spots and welded back together in more then 5 different spots and the welding job is very poor. The truck has a power steering line leak, cvs axl",
+          "CAM PHASERS WENT OUT TWICE BEFORE 150K.     STEERING SHAFT AND STEERING FLUID LINES RUST OUT AROUND 150K.",
+          "THREE MONTHS AGO I HEARD A POP NOISE UNDER THE HOOD THEN SHORTLY AFTER THE STEERING BEGAN TO FEEL STIFF EVEN ON THE RETURN AFTER TURNING I NEEDED TO HELP.UPON INSPECTION I FOUND THE LOWER INTERMEDIATE"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 53,
+        "share_pct": 14.4,
+        "excerpts": [
+          "My 5.4 v8 triton motor timing came phasers are bad the truck runs fine when cold when it gets warmer up it rattles and shakes and stalls air bag light stays on I had to pull the fuse bc it beeps and w",
+          "I experienced a loss in power while driving and not driving, as well as locking my keys in the vehicle once It would not unlock. The gear shifting knob stopped due to what seemed like resistance an th",
+          "Vehicle caught on fire from the engine compartment while driving. Total loss, Fire Department responded to the scene. Two persons on board of the vehicle had to escape the fire, pulled over and jumped"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 50,
+        "share_pct": 13.6,
+        "excerpts": [
+          "The contact owns a 2008 Ford F-150. The contact stated that after turning off the vehicle, the contact attempted to restart the vehicle and became aware that the gear shifter was not in park(P). The c",
+          "Vehicle will not go into reverse.  After research and reviews of this transmission in this year model, the reverse band is a known issue by Ford. Even the transmissions installed for replacement have ",
+          "The contact owns a 2008 Ford F-150. The contact stated that while driving at an undisclosed speed, the contact heard an abnormal clicking sound. The vehicle was driven to a nearby parking lot. In addi"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 41,
+        "share_pct": 11.1,
+        "excerpts": [
+          "HAD CRUISE CONTROL SET WHILE DRIVING ALONG FREEWAY.  NEEDED TO SLOW DOWN AND TAPPED BRAKE TO RELEASE CRUISE CONTROL.  NOTHING HAPPENED.  PRESSED BRAKE AGAIN TO SLOW DOWN AND ENGINE POWER INCREASED TO ",
+          "WHEN I BRAKE THE ENGINE SOUNDS LIKE ITS RACING LOUDER AND LOUDER AND SEEMS LIKE I'M EXCELLERATING INSTEAD OF STOPPING. ITS VERY HARD TO STOP IN TIME AT A STOP SIGN AND I CAN'T. I ALMOST IT A CROSSING ",
+          "WHEN THE BRAKE IS DEPRESSED THE ENGINE ACCELERATES (NEVER KNOW WHEN THIS IS GOING TO HAPPEN).  I HAVE HAD THREE INSTANCES OVER THE TOTAL 8 YEARS (FIRST OWNER).  ALL THREE TIMES THE BRAKES ARE INEFFECT"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 39,
+        "share_pct": 10.6,
+        "excerpts": [
+          "My emergency brake doesn't work and light is on,and air bags did not deploy when I was hit from behind.",
+          "When stepping  on brake peddle gos so far Dow foot hits accelerator pedal causing the truck to lunge forward as if accelerator stuck. Nearly caused accident, dealer said there was no fix to raise the ",
+          "The three rear brake lights stay on all the time, even after the truck is turned off and key removed. The malfunction is definitely available for inspection upon request. The safety of myself and othe"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 39,
+      "fires": 12,
+      "injuries": 46,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2007,
+        "count": 2
+      },
+      {
+        "year": 2008,
+        "count": 44
+      },
+      {
+        "year": 2009,
+        "count": 30
+      },
+      {
+        "year": 2010,
+        "count": 30
+      },
+      {
+        "year": 2011,
+        "count": 20
+      },
+      {
+        "year": 2012,
+        "count": 21
+      },
+      {
+        "year": 2013,
+        "count": 28
+      },
+      {
+        "year": 2014,
+        "count": 27
+      },
+      {
+        "year": 2015,
+        "count": 30
+      },
+      {
+        "year": 2016,
+        "count": 32
+      },
+      {
+        "year": 2017,
+        "count": 24
+      },
+      {
+        "year": 2018,
+        "count": 23
+      },
+      {
+        "year": 2019,
+        "count": 22
+      },
+      {
+        "year": 2020,
+        "count": 6
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2024,
+        "count": 9
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "08V523000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "ROUSH IS RECALLING 213 MY 2007-2008 FORD\r\nF-150 TRUCKS ALTERED TO OPERATE USING LIQUID PROPANE INJECTION.  THE HYDRO-CARBON PAPER AFFIXED TO THE INSIDE OF THE AIRBOX LID WITH ADHESIVE MAY BECOME DISLODGED DURING OPERATION.",
+        "report_date": "08/10/2008",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:46:00.655Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

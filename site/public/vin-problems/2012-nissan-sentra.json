@@ -1,0 +1,139 @@
+{
+  "slug": "2012-nissan-sentra",
+  "year": 2012,
+  "make": "Nissan",
+  "model": "Sentra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 180,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 68,
+        "share_pct": 37.8,
+        "excerpts": [
+          "Our nissan Sentra with 106K miles the car lost nearly all power as my son was turning onto the freeway. He could only drive 16 miles an hour and it was hopping and jumping through a 8 lane freeway/hig",
+          "Leaking transmission oil. Also burning engine oil a week after doing an oil change to the point there is no oil but no leaks.",
+          "The Transmission is making a whining nose and smells terribly bad!  When driving on the interstate and parkways; after the car reaches 60 -70 miles, the car starts shaking and slows down; almost comin"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 39,
+        "share_pct": 21.7,
+        "excerpts": [
+          "The contact owns a 2012 Nissan Sentra. The contact stated that while driving 35 MPH and depressing the accelerator pedal, the vehicle hesitated to respond. The check engine warning light was illuminat",
+          "Our nissan Sentra with 106K miles the car lost nearly all power as my son was turning onto the freeway. He could only drive 16 miles an hour and it was hopping and jumping through a 8 lane freeway/hig",
+          "Leaking transmission oil. Also burning engine oil a week after doing an oil change to the point there is no oil but no leaks."
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 22,
+        "share_pct": 12.2,
+        "excerpts": [
+          "The contact owns a 2012 Nissan Sentra. The contact stated that while driving 35 MPH and depressing the accelerator pedal, the vehicle hesitated to respond. The check engine warning light was illuminat",
+          "car stalled no power in gas pedal traveling across for lane traffic just lost power to the gas pedal. was able to pull over and tuned off car after a few minutes of sitting power was restore and was a",
+          "While traveling down the interstate doing the normal speed limit, I was forced to pull over to the emergency lane so cars can pass me. My car lost power to the engine without notice. No check system e"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 20,
+        "share_pct": 11.1,
+        "excerpts": [
+          "The contact owned a 2012 Nissan Sentra. The contact stated that while her boyfriend was driving at 40 MPH and passing a side street, another driver traveling in a Subaru failed to yield. As a result, ",
+          "The contact owns a 2012 Nissan Sentra. The contact stated that while driving at an undisclosed speed and attempting to turn on the headlights, the air bags deployed. The vehicle was not diagnosed or r",
+          "AIR BAG LIGHT IS ON ALL THE TIME AND THE HORN DON'T WORK"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 17,
+        "share_pct": 9.4,
+        "excerpts": [
+          "CANNOT MOVE CAR OUT OF PARK.",
+          "THE PLASTIC PIECE ON DRIVERS FRONT FENDER KEEPS POPPING OUT SO YOU HAVE TO KEEP POPPING IT BACK SO IT'S SECURE ON FRAME  AS AFRAID IT WILL FALL OFF IF DON'T. I NOTICED IT AFTER I HAD PARKED. PREVIOUSL",
+          "I WAS PULLED OVER STATING MY TAGS WERE BAD AND TO GO TO THE DEALERSHIP TO OBTAIN NEW ONES. HE THEN INSPECTED MY CAR AND I WAS ON MY WAY AFTET WE DISCUSSED THE TIEROD ISSUE AND MADE AN APPOINTMENT I TH"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 4,
+      "injuries": 10,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 3
+      },
+      {
+        "year": 2012,
+        "count": 12
+      },
+      {
+        "year": 2013,
+        "count": 14
+      },
+      {
+        "year": 2014,
+        "count": 20
+      },
+      {
+        "year": 2015,
+        "count": 18
+      },
+      {
+        "year": 2016,
+        "count": 17
+      },
+      {
+        "year": 2017,
+        "count": 15
+      },
+      {
+        "year": 2018,
+        "count": 19
+      },
+      {
+        "year": 2019,
+        "count": 29
+      },
+      {
+        "year": 2020,
+        "count": 4
+      },
+      {
+        "year": 2021,
+        "count": 9
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T19:33:17.888Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

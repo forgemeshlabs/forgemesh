@@ -1,0 +1,168 @@
+{
+  "slug": "2015-chevrolet-cruze",
+  "year": 2015,
+  "make": "Chevrolet",
+  "model": "Cruze",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 251,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 98,
+        "share_pct": 39,
+        "excerpts": [
+          "I have replaced my whole engine and the cars fuel system..  my gas was backing into my oil along with the engine failing .. has happened again. This car has been a nightmare and just keeps failing. St",
+          "I have had car repairs done identical with the 2014 models with the same exact issues described in those year recalls, car hesitant and jerking, breaking down on numerous occasions and replacing gaske",
+          "I have had to replace the turbo 3 times now. My car was leaking oil where the the oil filter is so I replaced that whole part. I watched a video how to replace the part. And it said in the video to re"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 49,
+        "share_pct": 19.5,
+        "excerpts": [
+          "The contact owns a 2015 Chevrolet Cruze. The contact stated that while driving approximately 55 MPH, the “Service Stabili-trak” message was displayed. The warning light turned on and off, and the vehi",
+          "I understand this vehicle is over 10 years old. I bought this vehicle pre-owned and have only had it for less than 6 months. This vehicle has 71,000 miles on it and isn't very good condition cosmetica",
+          "My engine light has been randomly coming on then off leaving many history codes. It's normally a diesel particulate filter code and I have paid hundreds replacing each sensor or part. So this time, Ca"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 37,
+        "share_pct": 14.7,
+        "excerpts": [
+          "The check engine light came up, after having the code read it was discovered that the turbo charger  was bad. My vehicle was fixed by the dealer.   Prior to being fixed my vehicle was running rougher ",
+          "I have been up there date for fixing this vehicle for the last 4 years when i bought it with 60k miles , I have replaced multiple parts so far from foil pump , wheel, coolant pipes and the container m",
+          "My engine light has been randomly coming on then off leaving many history codes. It's normally a diesel particulate filter code and I have paid hundreds replacing each sensor or part. So this time, Ca"
+        ]
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "complaints": 30,
+        "share_pct": 12,
+        "excerpts": [
+          "The contact owns a 2015 Chevrolet Cruze. The contact stated that while driving approximately 55 MPH, the “Service Stabili-trak” message was displayed. The warning light turned on and off, and the vehi",
+          "STEREO BLINKS ON AND OFF, WHILE DRIVING OR PUTTING THE WINDOWS UP OR DOWN OR EVEN SITTING AT A STOP LIGHT. DASH LIGHTS BELOW THE STEREO BLINK ON AND OFF. STABILI TRACK LIGHT, ABS LIGHT BLINK ON AND OF",
+          "I ALMOST LOST MY [XXX] LIFE ON THE HIGHWAY TODAY BECAUSE IT'S A RECALL ON MY CAR THAT Y'ALL DON'T WANT TO FIX BECAUSE MY VIN NUMBER WASN'T CALL .    PARTS OF THIS DOCUMENT HAVE BEEN REDACTED TO PROTEC"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 24,
+        "share_pct": 9.6,
+        "excerpts": [
+          "I have been up there date for fixing this vehicle for the last 4 years when i bought it with 60k miles , I have replaced multiple parts so far from foil pump , wheel, coolant pipes and the container m",
+          "The steering wheel will intermittently \"stick\" requiring a slight tug to release.",
+          "Driving the car and suddenly it began to stall, next engine light came on, stability light came on, engine overheating waring came on, radio turned off, ac stopped working, smelling antifreeze, car sh"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 20,
+      "fires": 4,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 2
+      },
+      {
+        "year": 2015,
+        "count": 18
+      },
+      {
+        "year": 2016,
+        "count": 17
+      },
+      {
+        "year": 2017,
+        "count": 32
+      },
+      {
+        "year": 2018,
+        "count": 34
+      },
+      {
+        "year": 2019,
+        "count": 56
+      },
+      {
+        "year": 2020,
+        "count": 26
+      },
+      {
+        "year": 2021,
+        "count": 18
+      },
+      {
+        "year": 2022,
+        "count": 18
+      },
+      {
+        "year": 2023,
+        "count": 20
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "16V502000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016-2017 Buick Verano and 2016 Chevrolet Malibu as the electronic park lock lever may allow the ignition key to be removed without the transmission being in PARK.  Also, certain 2013 Buick Encore,  2011 Buick Regal, 2013-2014 Buick Verano, 201",
+        "report_date": "05/07/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V113000",
+        "component": "PARKING BRAKE",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015 Chevrolet Cruze vehicles manufactured February 4, 2015, to February 9, 2015. The left-rear or right-rear parking brake cable brackets may not have been properly fastened during the assembly process.  As a result, the fastening bolts may ba",
+        "report_date": "27/02/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V876000",
+        "component": "SEAT BELTS:FRONT:ANCHORAGE",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015 Chevrolet Cruze vehicles manufactured September 24, 2014, to May 29, 2015. In the affected vehicles, one of the driver-side seat belt assembly bolts may not be properly tightened.",
+        "report_date": "23/12/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V442000",
+        "component": "STEERING",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2015 Chevrolet Cruze vehicles manufactured November 8, 2013, to March 12, 2015, and 2015 Chevrolet Volt vehicles manufactured April 11, 2014.  In the affected vehicles, the inner tie rod may not be tightened to specification allowing the t",
+        "report_date": "10/07/2015",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:42.714Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

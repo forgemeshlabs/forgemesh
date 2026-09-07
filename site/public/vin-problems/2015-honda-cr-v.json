@@ -1,0 +1,164 @@
+{
+  "slug": "2015-honda-cr-v",
+  "year": 2015,
+  "make": "Honda",
+  "model": "CR-V",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 669,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 243,
+        "share_pct": 36.3,
+        "excerpts": [
+          "The contact’s daughter owns a 2015 Honda CR-V. The contact stated that while driving at an undisclosed speed, the vehicle lost motive power with no warning lights illuminated. The vehicle was able to ",
+          "The contact owns a 2015 Honda CR-V. The contact stated that while driving at various speeds, the vehicle stalled unexpectedly. The failure also occurred several times while stopped at a stoplight. The",
+          "The contact owns a 2015 Honda CR-V. The contact stated that while driving at 70 MPH, the vehicle stalled, and the vehicle decelerated unintendedly. There was no warning light illuminated. The vehicle "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 147,
+        "share_pct": 22,
+        "excerpts": [
+          "The contact owns a 2015 Honda CR-V. The contact stated that while driving at various speeds, the vehicle hesitated to respond while depressing the accelerator pedal. The contact stated that while maki",
+          "While driving at normal speed, the vehicle suddenly began to shudder and produce unusual mechanical noise. Within seconds, the car lost all ability to accelerate despite pressing the gas pedal. The ve",
+          "While driving on highway at 70 mph on cruise control, the transmission went out of gear causing the engine to rev and the vehicle to slow. Pulled over to side of road, turned off engine, turned it bac"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 83,
+        "share_pct": 12.4,
+        "excerpts": [
+          "CHRONOLOGY OF CASCADING VEHICLE SAFETY FAILURES VIN [XXX]  Vehicle 2015 Honda CR-V. 1 STRUCTURAL BODY FRAME DEFECT. Vehicle has a chronic upper body structural alignment defect allowing massive water ",
+          "Odometer Fraud. The contact purchased a 2015 Honda CR-V. It was discovered that there was a mileage discrepancy. The vehicle was a dealer sale. At the time of purchase, the vehicle mileage was 150,000",
+          "Case #16014967 Topic: Recalls/Campaigns VIN: [XXX]  Vehicle Mileage: 64,935 Description: Subject: Transmission Recall Concern – 2015 Honda CR-V CVT Dear American Honda Customer Service / NHTSA, I am r"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 45,
+        "share_pct": 6.7,
+        "excerpts": [
+          "The contact owns a 2015 Honda CR-V. The contact stated while driving approximately 35 MPH, the \"Steering Assist Fault\" warning light illuminated. The contact was able to pull over. The contact turned ",
+          "The contact owns a 2015 Honda CR-V. The contact stated that when the vehicle was started, the traction control, steering, and ABS warning lights illuminated. The vehicle was taken to a dealer where it",
+          "The contact owns a 2015 Honda CR-V. The contact stated while driving 45 MPH, the vehicle started pulling to the right. The contact became aware that the electric power steering was not functioning pro"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 39,
+        "share_pct": 5.8,
+        "excerpts": [
+          "The contact owns a 2015 Honda CR-V. The contact stated that while the vehicle was either idle or while driving at various speeds, the steering wheel, seats, and dashboard all would sporadically start ",
+          "Heated seats are ALWAYS ON",
+          "IN EVERY STATEMENT/COMPLAINT AT THE SERVICE CENTER, I ALWAYS STATED THAT THE FRONT SEATS VIBRATE WHEN THE ENGINE IS ON AND IN GEAR. AFTER REVIEWING SB 15-046, THE INITIAL REPAIR IN 2016 WAS FOR DRIVIN"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 38,
+      "fires": 4,
+      "injuries": 23,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 2
+      },
+      {
+        "year": 2013,
+        "count": 2
+      },
+      {
+        "year": 2014,
+        "count": 36
+      },
+      {
+        "year": 2015,
+        "count": 265
+      },
+      {
+        "year": 2016,
+        "count": 71
+      },
+      {
+        "year": 2017,
+        "count": 58
+      },
+      {
+        "year": 2018,
+        "count": 42
+      },
+      {
+        "year": 2019,
+        "count": 37
+      },
+      {
+        "year": 2020,
+        "count": 26
+      },
+      {
+        "year": 2021,
+        "count": 28
+      },
+      {
+        "year": 2022,
+        "count": 22
+      },
+      {
+        "year": 2023,
+        "count": 30
+      },
+      {
+        "year": 2024,
+        "count": 22
+      },
+      {
+        "year": 2025,
+        "count": 17
+      },
+      {
+        "year": 2026,
+        "count": 11
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "17V305000",
+        "component": "ENGINE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2015-2016 Honda CR-V vehicles that recently received a replacement engine.  The replacement engine may have been built with the wrong pistons, potentially affecting the engine's performance.",
+        "report_date": "04/05/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V121000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "American Honda Motor Co. (Honda) is recalling certain model year 2014 Accord L4 vehicles manufactured July 29, 2014, to July 31, 2014, 2015 Accord L4 vehicles manufactured August 14, 2014, to January 30, 2015, and 2015 CR-V vehicles manufactured September 9, 2014, to February 6, 2015. The affected v",
+        "report_date": "02/03/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:37:50.555Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

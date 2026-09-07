@@ -1,0 +1,176 @@
+{
+  "slug": "2013-toyota-corolla",
+  "year": 2013,
+  "make": "Toyota",
+  "model": "Corolla",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 201,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 72,
+        "share_pct": 35.8,
+        "excerpts": [
+          "UNKNOWN",
+          "The contact owns a 2013 Toyota Corolla. The contact received notifications of NHTSA Campaign Numbers: 20V024000 (AIR BAGS) and 19V005000 (AIR BAGS) and would like to be removed from the recall distrib",
+          "On Monday, [XXX], I was at the CVS pharmacy drive through when the failure occurred. There was no accident and otherwise no warning before it happened. I attempted to pull out when I noticed the car w"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 39,
+        "share_pct": 19.4,
+        "excerpts": [
+          "On Monday, [XXX], I was at the CVS pharmacy drive through when the failure occurred. There was no accident and otherwise no warning before it happened. I attempted to pull out when I noticed the car w",
+          "The contact owns a 2013 Toyota Corolla. The contact stated that on several occasions while driving at various speeds, the steering wheel became loose while making left and right turns. As a result, th",
+          "Steering wanders left to right like car is buffeted by wind. Difficult keeping in lane."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 24,
+        "share_pct": 11.9,
+        "excerpts": [
+          "On Monday, [XXX], I was at the CVS pharmacy drive through when the failure occurred. There was no accident and otherwise no warning before it happened. I attempted to pull out when I noticed the car w",
+          "ABS and Traction Control not functioning. Indicator light on. Air bag recall due to metal possibly killing driver or passenger is more likely to happen because the ABS and Traction control not working",
+          "ON 11/19/20 THE CAR ACCELERATED AND BRAKES STUCK WHEN TURNING RIGHT AT ABOUT 5-10 MILES TO THE PARKING SPACE AT JALAPENOS RESTAURANT, 450 E 1ST ST TUSTIN CA 92780. CAR STOPPED BECAUSE THE BAR ON THE G"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 18,
+        "share_pct": 9,
+        "excerpts": [
+          "HI SIR  I HAVE PROBLEMS IN ADJUST THE ANGLES THAT AFFECT TO MY STARING AND SPEED  THE MECHANICAL SAID I HAVE TO REPLACE THE REAR SUP FRAME THAT WILL COST ABOUT 900$",
+          "MY WIFE HAD A COLLISION AND MY COROLLA BECAME TOTAL BUT AIRBAG NEVER INFLATE",
+          "TL* THE CONTACT OWNS A 2013 TOYOTA COROLLA. WHILE DRIVING 45 MPH, THE VEHICLE SHOOK AND FAILED TO ACCELERATE WHEN THE ACCELERATOR PEDAL WAS DEPRESSED. THE CONTACT STATED THAT THE TRAC OFF WARNING INDI"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 16,
+        "share_pct": 8,
+        "excerpts": [
+          "ENGINE, POWER TRAIN, IGNITION COIL. Code P219A BANK 1 AIR-FUEL RATIO IMBALANCE. Code P0302 CYLINDER 2 MISFIRE DETECTED. While in motion will shake, jerk, self-fluctuate speed, and lose power up to 100",
+          "CAR OVERHEATING AND WHEN I WAS CHECKING UNDER HOOD WHILE VEHICLE WAS STATIONARY IN DRIVEWAY TO SEE IF RADIATOR FAN WAS WORKING PLACE WHERE SMALL HOSE THAT CONNECTS TO RESERVOIR IS ATTACHED TO PLASTIC ",
+          "2013 TOYOTA COROLLA CONSUMING EXCESSIVE OIL. CONTINUING TO REFILL ENGINE OIL. NO VISIBLE LEAKS, NO OIL STAINS UNDER VEHICLE.VEHICLE IS SLOWLY LOSING POWER. NOTICED MANY OTHER TOYOTA VEHICLES GOING THR"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 46,
+      "fires": 1,
+      "injuries": 51,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 3
+      },
+      {
+        "year": 2013,
+        "count": 36
+      },
+      {
+        "year": 2014,
+        "count": 33
+      },
+      {
+        "year": 2015,
+        "count": 22
+      },
+      {
+        "year": 2016,
+        "count": 19
+      },
+      {
+        "year": 2017,
+        "count": 17
+      },
+      {
+        "year": 2018,
+        "count": 31
+      },
+      {
+        "year": 2019,
+        "count": 9
+      },
+      {
+        "year": 2020,
+        "count": 12
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 7
+      },
+      {
+        "year": 2025,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "19V005000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2014-2016 Toyota 4Runner, 2014-2015 Scion xB, Lexus IS350C, IS250C, 2014 Toyota Sienna, Lexus IS-F, and 2014-2017 Lexus GX460 vehicles sold, or ever registered in the states of Alabama, California, Florida, Georgia, Hawaii, Louis",
+        "report_date": "09/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V741000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2010-2016 4Runner, 2003-2006 Tundra, 2003-2013 Corolla, 2009-2010 Corolla Matrix, 2004-2005 RAV4, 2002-2007 Sequoia, 2011-2013 Sienna, 2008-2012 Scion xB, 2008-2009 Lexus IS-F, 2007-2012 Yaris and Lexus ES350, 2010-2017 Lexus GX4",
+        "report_date": "17/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V024000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2013 Scion xB, Toyota Corolla, Corolla Matrix, Sienna, 4Runner, Lexus IS250, IS350, IS250C, IS350C, IS-F, and GX460 vehicles sold, ever registered, in the states of AL, CA, FL, GA, HI, LA, MS, SC, TX, PR, AS, GU, the MP (Saipan),",
+        "report_date": "09/01/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V024000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing  (Toyota) is recalling certain 2011-2019 Corolla, 2011-2013 Matrix, 2012-2018 Avalon, and 2013-2018 Avalon Hybrid vehicles.  During certain crashes, the air bag electronic control unit (ECU) may malfunction, possibly disabling the deployment of the air bags a",
+        "report_date": "17/01/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:34:33.329Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

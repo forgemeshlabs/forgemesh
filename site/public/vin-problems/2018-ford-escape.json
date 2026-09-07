@@ -1,0 +1,152 @@
+{
+  "slug": "2018-ford-escape",
+  "year": 2018,
+  "make": "Ford",
+  "model": "Escape",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1778,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 1135,
+        "share_pct": 63.8,
+        "excerpts": [
+          "Coolant is going into the cylinder. Car was starting rough and exhaust smelled strange. No warning lights came on. Service center reproduced issue. It’s an issue Ford has been aware of but hasn’t issu",
+          "Ford has known about a flaw with this engine and coolant intrusion. I have owned the vehicle for 5 months and they are refusing to cover the cost of a new engine. I know there is a lawsuit going on ri",
+          "I have a 2018 Ford Escape with the 1.5L engine with 108k miles purchased new in 2018. Noticed the car recently stuttered at times upon vehicle start up and then would smooth out shortly after starting"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 342,
+        "share_pct": 19.2,
+        "excerpts": [
+          "The contact owns a 2018 Ford Escape. The contact stated that the vehicle failed to start immediately but started after several attempts. The vehicle was driven to an independent mechanic, where diagno",
+          "The contact owns a 2018 Ford Escape. The contact stated that while driving at an undisclosed speed, a message was displayed to exit the vehicle immediately. The contact pulled over and called someone ",
+          "The contact owns a 2018 Ford Escape. The contact stated that the engine overheated while driving, causing the contact to be four minutes late for work. There was white smoke coming from the exhaust wh"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 269,
+        "share_pct": 15.1,
+        "excerpts": [
+          "Transmission spudder when accelerates only at 75K miles",
+          "Check engine light would come on vehicle was not running well, seemed to stall. When I turned off the car I could hear liquid moving around from inside the vehicle. I am a Mom so I am driving with my ",
+          "Coolant is leaking into the head causing engine failure. This car has fewer than 60,00 miles. From what I have read this is a common problem and is due to a manufacturer’s design flaw. Ford refused to"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 53,
+        "share_pct": 3,
+        "excerpts": [
+          "Multiple instances of low power to ignition coils (all of have been replaced with new coils and plugs).  Transmission immediately stopped transmitting power to the wheels and would not re-engage. Tran",
+          "My car shifts into gears when in drive and I am breaking, it has locked in park, or drive, my car without emergency break has rolled down my driveway while off and in park. My local dealership claims ",
+          "My 2018 Ford Escape has experienced coolant intrusion into the engine cylinders, a known issue affecting this model year. The vehicle began misfiring and consuming coolant without external leaks. This"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 42,
+        "share_pct": 2.4,
+        "excerpts": [
+          "2018 Ford escape ecoboost coolant leak and engine overheating. If not repaired, will destroy the entire engine.",
+          "Request for NHTSA Investigation – 2018 Ford Escape 1.5L EcoBoost Coolant Intrusion Engine Defect ​Vehicle Information ​Year/Make/Model: 2018 Ford Escape ​Engine: 1.5L EcoBoost ​VIN: [XXX] ​I am submit",
+          "The vehicle is experiencing severe engine malfunction due to a documented manufacturing defect: coolant intrusion into the engine cylinders (per Ford Technical Service Bulletin TSB 22-2134). An author"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 25,
+      "fires": 5,
+      "injuries": 30,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 4
+      },
+      {
+        "year": 2018,
+        "count": 36
+      },
+      {
+        "year": 2019,
+        "count": 44
+      },
+      {
+        "year": 2020,
+        "count": 44
+      },
+      {
+        "year": 2021,
+        "count": 62
+      },
+      {
+        "year": 2022,
+        "count": 168
+      },
+      {
+        "year": 2023,
+        "count": 275
+      },
+      {
+        "year": 2024,
+        "count": 465
+      },
+      {
+        "year": 2025,
+        "count": 465
+      },
+      {
+        "year": 2026,
+        "count": 215
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "17V803000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 Ford Escape vehicles. The side curtain air bags on these vehicles have a component that may detach during deployment of the inflatable curtain air bag.",
+        "report_date": "18/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V104000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 Ford Escape and Lincoln MKC vehicles.  These vehicles may be equipped with incorrect front brake hoses that may chafe against other components, possibly resulting in a brake fluid leak.",
+        "report_date": "12/02/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V413000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2019 Escape, 2013-2018 C-Max, 2013-2016 Fusion, 2013-2021 Transit Connect, and  2015-2018 Edge vehicles.  The bushing that attaches the shifter cable to the transmission may degrade or detach.",
+        "report_date": "10/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V011000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2018 Focus, 2013-2019 Escape, and 2015-2016 MKC vehicles equipped with a 2.0L engine. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+        "report_date": "15/01/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:41:32.823Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "2020-honda-accord",
+  "year": 2020,
+  "make": "Honda",
+  "model": "Accord",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 355,
+    "top_failure_components": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 100,
+        "share_pct": 28.2,
+        "excerpts": [
+          "I was driving on 42 at 2:05 a.m. And I was heading towards the exit to get off and I started slowing down and after I took my foot off the brake, the brake light illuminated on my dashboard for me to ",
+          "I was driving on route 42 at 11:52 PM and my brake light illuminated on my dashboard indicating me to hit the brake so I stepped on the break so my car wouldn't brake itself. There was nothing directl",
+          "The contact owns a 2020 Honda Accord. The contact stated that while driving on several occasions at various speeds, the messages \"Emissions System Failure,\" \"Electric Power Steering Failure,\" \"Hill St"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 70,
+        "share_pct": 19.7,
+        "excerpts": [
+          "The contact owns a 2020 Honda Accord. The contact stated that while driving on several occasions at various speeds, the messages \"Emissions System Failure,\" \"Electric Power Steering Failure,\" \"Hill St",
+          "I was driving on the hwy going about 75 mph which is the posted speed when all of a sudden my car went into limp mode almost causing a 18 wheeler to run over top of my car with me and my child in it n",
+          "The car has a blown head gasket at 72k miles the odometer. This seems to be a major problem with 2018-2022 honda accords with the 1.5 turbo engine. it also has a bad fuel pump."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 55,
+        "share_pct": 15.5,
+        "excerpts": [
+          "9 warnings lights turned on on my dashboard and when going slow and accelerating it brakes by it self also brakes on freeway going 70 mph and then recovers",
+          "Driving on the white horse pike in Berlin New Jersey at 1:39pm on January 21st and my BREAK light warning light came on. There was nothing in front of me, I was doing 40mph. The roads were dry, There ",
+          "Was operating the vehicle at about 30mph and the braking system started malfunctioning by giving me limited braking power and throwing a bunch of lights on the dash along with sudden loss of accelerat"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 51,
+        "share_pct": 14.4,
+        "excerpts": [
+          "I’m taking my car to the body shop over five occasions and have to take it back one due for it being a computer chip, which was replaced, but the lights on my dash all of them comes on after the secon",
+          "1) The infotainment system/8-inch LCD touch screen that controls the system settings is exhibiting ghost/phantom touches and is faulty since July 7th 2026. I tried to self-diagnose it but could not fi",
+          "Took my car to Honda they stated my head gaskets and turbo charger was bad .. every shop that i talked to about the problem had stated that they have been getting a alot of my models coming in with th"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 50,
+        "share_pct": 14.1,
+        "excerpts": [
+          "On July 9-11, 2026, an authorized Honda dealership performed Honda Safety Recall 24-040 involving the fuel pump motor and Honda campaign 21-076 involving replacement of the fuel tank. Approximately fi",
+          "The fueling system is/has failed. The car randomly stops accelerating while on the highway. Yes, it's available for inspections.  The car has stopped accelerating while I was on I95, causing others to",
+          "The car has a blown head gasket at 72k miles the odometer. This seems to be a major problem with 2018-2022 honda accords with the 1.5 turbo engine. it also has a bad fuel pump."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 14,
+      "fires": 2,
+      "injuries": 11,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 32
+      },
+      {
+        "year": 2021,
+        "count": 35
+      },
+      {
+        "year": 2022,
+        "count": 42
+      },
+      {
+        "year": 2023,
+        "count": 23
+      },
+      {
+        "year": 2024,
+        "count": 67
+      },
+      {
+        "year": 2025,
+        "count": 106
+      },
+      {
+        "year": 2026,
+        "count": 48
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "20V771000",
+        "component": "ELECTRICAL SYSTEM:BODY CONTROL MODULE:SOFTWARE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2020 Accord Sedan, Accord Hybrid, and 2019-2020 Insight vehicles.  A software error may cause intermittent or continuous disruptions in communication between the Body Control Module (BCM) and other components.  This may result in malfunction",
+        "report_date": "10/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V215000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2020 Acura MDX, MDX Sport Hybrid, RDX, TLX, Honda Accord, Civic Hatchback, Insight, 2019 Acura ILX, Honda Accord Hybrid, Civic Coupe, Civic Coupe Si, Civic Sedan, Civic Sedan Si, Civic Type R, Fit, HR-V, Odyssey, Passport, Pilot and Ridgelin",
+        "report_date": "25/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V064000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020-2022 Pilot, Accord, Civic sedan, HR-V, Odyssey, 2020 Civic coupe, Fit, 2021-2022 Civic hatchback, 2021 Civic Type R, Insight, 2020-2021 CR-V, CR-V Hybrid, Passport, Ridgeline, Accord Hybrid, 2020 Acura MDX, 2022 Acura MDX, 2020-2022 Acura RD",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:58.807Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

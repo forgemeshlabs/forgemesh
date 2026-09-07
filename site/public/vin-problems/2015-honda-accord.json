@@ -1,0 +1,180 @@
+{
+  "slug": "2015-honda-accord",
+  "year": 2015,
+  "make": "Honda",
+  "model": "Accord",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 601,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 237,
+        "share_pct": 39.4,
+        "excerpts": [
+          "this has actually been a problem since I first got the car in 2015 but probably started happening in 2016.  but it happens so intermittently that I hardly thought about it or figured it just needed a ",
+          "In my 2015 Honda Accord. The ABS, adaptive cruise control, vehicle stability assist, power steering, lane departure warning, forward collision warning, traction control, hill start assist, and brake s",
+          "First time my 2015 Accord 4dr FWD V6 AT failed to turn, I was coming out of parking area onto busy highway when I suddenly wasn't able to turn steering wheel to right enough to complete the turn and c"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 106,
+        "share_pct": 17.6,
+        "excerpts": [
+          "this has actually been a problem since I first got the car in 2015 but probably started happening in 2016.  but it happens so intermittently that I hardly thought about it or figured it just needed a ",
+          "2015 Honda Accord EX-L presenting with constant knocking in the lower back part of the engine. Knocking varies with engine RPMs and is consistent across all drives. Oil has been maintained and at time",
+          "ABS MODULATOR INTERNAL FAILURE 85-01/61-11  The car cut off in the middle of me driving on the highway with my children also in the car with me   it has been inspected  by [XXX]  who also states this "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 78,
+        "share_pct": 13,
+        "excerpts": [
+          "First time my 2015 Accord 4dr FWD V6 AT failed to turn, I was coming out of parking area onto busy highway when I suddenly wasn't able to turn steering wheel to right enough to complete the turn and c",
+          "All of a sudden the power steering wasn't working. I had to use all of my strength to turn the wheels. I had to pay for a tow truck take it to my local Honda dealer. They checked it out and said I had",
+          "1. POWER STEERING RACK  2. ABS MODULATOR My 2015 Honda Accord experienced a sudden failure of both the ABS system and power steering rack. The dealership confirmed the failure was not due to neglect o"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 40,
+        "share_pct": 6.7,
+        "excerpts": [
+          "In my 2015 Honda Accord. The ABS, adaptive cruise control, vehicle stability assist, power steering, lane departure warning, forward collision warning, traction control, hill start assist, and brake s",
+          "The Power Steering Light, Traction Light, ABS Light, and Brake Light all came on and would stay on leading me to check the code which was a 121-11 which seems to be a very common issue with the 9th ge",
+          "The abs module failed.  It is designed to fail as the wires are super thin. Repair quote was $4,000. The part, I’m sure, is then sent out and fixed cheaply then resold for a premium."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 40,
+        "share_pct": 6.7,
+        "excerpts": [
+          "There is a clicking noise from both sides of the wheels and it causing to vibrate at higher speeds. cClicking sound is more prominent when turning from left to right. I am concerned that the axles may",
+          "The transmission on my 2015 Honda Accord failed and I was stranded on the side of the road. The engine started to accelerate on its own and soon after the gas peddle was not working and I was forced t",
+          "Faulty starter which went and was replaced at least twice by previous owner. Upon 2nd replacement of starter by me, the car still would not run. It was determined by my mechanic that this was a bigger"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 37,
+      "fires": 7,
+      "injuries": 33,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2004,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 5
+      },
+      {
+        "year": 2015,
+        "count": 61
+      },
+      {
+        "year": 2016,
+        "count": 35
+      },
+      {
+        "year": 2017,
+        "count": 59
+      },
+      {
+        "year": 2018,
+        "count": 58
+      },
+      {
+        "year": 2019,
+        "count": 104
+      },
+      {
+        "year": 2020,
+        "count": 75
+      },
+      {
+        "year": 2021,
+        "count": 60
+      },
+      {
+        "year": 2022,
+        "count": 31
+      },
+      {
+        "year": 2023,
+        "count": 38
+      },
+      {
+        "year": 2024,
+        "count": 26
+      },
+      {
+        "year": 2025,
+        "count": 28
+      },
+      {
+        "year": 2026,
+        "count": 19
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "19V060000",
+        "component": "FUEL SYSTEM, OTHER:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2016-2018 Acura MDX, 2015-2019 Acura TLX and 2015-2017 Honda Accord vehicles, equipped with a 3.5L V6 engine.  Particulates in fuel may adhere to the internal components of the fuel pump, reducing its performance.",
+        "report_date": "29/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V418000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2016 Honda Accord vehicles.  The case for the battery sensor, part of the battery management system, may allow water to get in, potentially causing an electrical short.",
+        "report_date": "29/06/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V121000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "American Honda Motor Co. (Honda) is recalling certain model year 2014 Accord L4 vehicles manufactured July 29, 2014, to July 31, 2014, 2015 Accord L4 vehicles manufactured August 14, 2014, to January 30, 2015, and 2015 CR-V vehicles manufactured September 9, 2014, to February 6, 2015. The affected v",
+        "report_date": "02/03/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V769000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2015 Accord vehicles equipped with a 4-cylinder engine and a continuously-variable transmission that were originally sold, or ever registered, in Connecticut, Delaware, District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland",
+        "report_date": "10/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:37:44.594Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,200 @@
+{
+  "slug": "2013-honda-accord",
+  "year": 2013,
+  "make": "Honda",
+  "model": "Accord",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1418,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 497,
+        "share_pct": 35,
+        "excerpts": [
+          "Whenever in park or reverse the vehicle suddenly power cycles. The vehicle also power cycles when steering and locks the wheel. This can be fatal if it happens on the public road in the middle of traf",
+          "The first time it happened, the power steering of the car suddenly stopped working while driving on the highway.  Now it happens randomly and usually start with a quick jerking motion of the steering ",
+          "Sudden and total loss of Electronic Power Steering (EPS) while driving. The EPS light came on and the steering wheel became too heavy to safely steer, creating an immediate crash hazard. The dealer fo"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 413,
+        "share_pct": 29.1,
+        "excerpts": [
+          "DIAGNOSTIC TROUBLE CODE 81-20 INTERNAL CIRCUIT FAILURE. CLEARED DTC. ROAD TEST VEHICLE, 81-20 DTC RETURN REPLACE VSA MODULATOR W/BRAKE FLUSH, STARTER MOTOR INTERMITTENTLY SEIZING UP, FRONT ENGINE MOUN",
+          "Whenever in park or reverse the vehicle suddenly power cycles. The vehicle also power cycles when steering and locks the wheel. This can be fatal if it happens on the public road in the middle of traf",
+          "Honda Accord 9th Gen ABS/VSA Issues - DTC Code 81-20 /32-11. TPMS/ABS/VSA/Brake/Power Steering lights are on. Dealer claim is an ABS module issue and need replacement."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 179,
+        "share_pct": 12.6,
+        "excerpts": [
+          "DIAGNOSTIC TROUBLE CODE 81-20 INTERNAL CIRCUIT FAILURE. CLEARED DTC. ROAD TEST VEHICLE, 81-20 DTC RETURN REPLACE VSA MODULATOR W/BRAKE FLUSH, STARTER MOTOR INTERMITTENTLY SEIZING UP, FRONT ENGINE MOUN",
+          "Starter grind and not starting",
+          "2013 Honda Accord with proper Maintenance and oil changes on time burns oil since few years despite its a low mileage car with total 69000 miles. I see online a lot people facing same issues with Hond"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 115,
+        "share_pct": 8.1,
+        "excerpts": [
+          "Honda Accord 9th Gen ABS/VSA Issues - DTC Code 81-20 /32-11. TPMS/ABS/VSA/Brake/Power Steering lights are on. Dealer claim is an ABS module issue and need replacement.",
+          "I was just driving normally when, completely out of nowhere, my whole dashboard suddenly lit up with a massive cluster of warning lights all at the exact same time. The power steering light, ABS light",
+          "The ABS/Brake warning lights have lighted up on my instrument panel. It appears that the ABS/VSA module is bad. I do not see a recall for this from Honda but after doing further research, I have learn"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 109,
+        "share_pct": 7.7,
+        "excerpts": [
+          "The contact owns a 2013 Honda Accord.  The stated that the vehicle was taken for the recall repair for NHTSA Campaign Number 25V422000 (Power Train).  The contact stated that after the recall repair w",
+          "Honda issued a recall for the protective coating for the driveshaft. Months prior to this recall, our axle failed. We paid for the replacement. Honda's recall letter clearly states that we can apply f",
+          "2013 Honda Accord with proper Maintenance and oil changes on time burns oil since few years despite its a low mileage car with total 69000 miles. I see online a lot people facing same issues with Hond"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 67,
+      "fires": 9,
+      "injuries": 59,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1913,
+        "count": 1
+      },
+      {
+        "year": 1916,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 3
+      },
+      {
+        "year": 2012,
+        "count": 19
+      },
+      {
+        "year": 2013,
+        "count": 157
+      },
+      {
+        "year": 2014,
+        "count": 92
+      },
+      {
+        "year": 2015,
+        "count": 111
+      },
+      {
+        "year": 2016,
+        "count": 116
+      },
+      {
+        "year": 2017,
+        "count": 138
+      },
+      {
+        "year": 2018,
+        "count": 127
+      },
+      {
+        "year": 2019,
+        "count": 100
+      },
+      {
+        "year": 2020,
+        "count": 93
+      },
+      {
+        "year": 2021,
+        "count": 134
+      },
+      {
+        "year": 2022,
+        "count": 77
+      },
+      {
+        "year": 2023,
+        "count": 89
+      },
+      {
+        "year": 2024,
+        "count": 74
+      },
+      {
+        "year": 2025,
+        "count": 65
+      },
+      {
+        "year": 2026,
+        "count": 19
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "17V418000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2016 Honda Accord vehicles.  The case for the battery sensor, part of the battery management system, may allow water to get in, potentially causing an electrical short.",
+        "report_date": "29/06/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V297000",
+        "component": "FUEL SYSTEM, GASOLINE",
+        "summary": "American Honda Motor Co., Inc. (Honda) is recalling certain model year 2013 Accord vehicles that are Low-Emission Vehicle (LEV) II rated that were manufactured January 15, 2013, through April 5, 2013.  The fuel tank neck may be out of specification causing the fuel pump to not properly seal to the f",
+        "report_date": "08/07/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V769000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2015 Accord vehicles equipped with a 4-cylinder engine and a continuously-variable transmission that were originally sold, or ever registered, in Connecticut, Delaware, District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland",
+        "report_date": "10/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V422000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013 Honda Accord vehicles equipped with a 4-cylinder engine and a continuously-variable transmission. The affected vehicles were originally sold, or ever registered, in Connecticut, Delaware, District of Columbia, Illinois, Indiana, Iowa, Kentuc",
+        "report_date": "19/06/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:34:28.665Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

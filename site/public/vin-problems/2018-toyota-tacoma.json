@@ -1,0 +1,140 @@
+{
+  "slug": "2018-toyota-tacoma",
+  "year": 2018,
+  "make": "Toyota",
+  "model": "Tacoma",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 202,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 46,
+        "share_pct": 22.8,
+        "excerpts": [
+          "The contact owns a 2018 Toyota Tacoma. The contact stated that the brake pedal was spongy while depressed. There was no warning light illuminated. The failure persisted, and the contact discovered oil",
+          "The vacuum pump. This vehicle was inspected by Dunn Tire. Yes, the vehicle is available for inspection. The safety issue that occurs is the loss of power assist to your brake system, and if not repair",
+          "The Break booster has failed or started since the break fluid is leaking inside the cab. And other trucks from the same year as my truck did have a recall for the break master cylinder failing. My bre"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 41,
+        "share_pct": 20.3,
+        "excerpts": [
+          "Truck has strong smell of fuel in the cab",
+          "The fuel pump as stopped working the vehicle will not start and the 4x4 is showing that it is not working. The vehicle is available for inspection. Thankfully this happened while the vehicle was sitti",
+          "yes has been inspected by the manufacturer and they fixed it but I want to file a claim."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 29,
+        "share_pct": 14.4,
+        "excerpts": [
+          "I HAVE HAD BELOW ISSUE AT 57000 MILES ON MY TACOMA. I WAS TOLD BY THE DEALER THAT I AM NOT UNDER THE WARRANTY, AND COPORATE THAT THERE IS NO RECALL FOR MY TRUCK BY SEARCH VIN, BUT ITS CLEAR IM EXPERIE",
+          "When I go to accelerate at low speed my vehicle shudders shakes and vibrates, no engine lights or codes have popped up, the issue is somewhere from transmission to the rear end. Im guessing transmissi",
+          "2018 2WD Tacoma. Auto transmission. Ever since new and even today, when traveling 30-40 MPH and slowing to anywhere from 10-25 MPH, and then trying to accelerate, the engine and/or transmission stumbl"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 25,
+        "share_pct": 12.4,
+        "excerpts": [
+          "The engine in my 2018 Toyota Tacoma failed at 39000 miles and Toyota is refusing to cover the repair costs. I have records of all regularly scheduled maintenance performed and I have never done anythi",
+          "While driving I can here a ticking sound coming from the motor and it gets worse while I pick up speed",
+          "Unknown it changed and I have not kept track of new or old details."
+        ]
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "complaints": 24,
+        "share_pct": 11.9,
+        "excerpts": [
+          "The contact owns a 2018 Toyota Tacoma. The contact stated that while driving at an undisclosed speed, the vehicle made a rattling sound. Upon inspection, the contact noticed that the fuel tank cover h",
+          "The contact owns a 2018 Toyota Tacoma. The contact received notification of NHTSA campaign number: 20V012000 (Fuel system, gasoline) however, the part to do the recall repair was unavailable. The cont",
+          "TL* THE CONTACT OWNS A 2018 TOYOTA TACOMA. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 20V012000 (FUEL SYSTEM, GASOLINE) HOWEVER, THE PART TO DO THE RECALL REPAIR WAS UNAVAILABLE. THE "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 0,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 29
+      },
+      {
+        "year": 2019,
+        "count": 41
+      },
+      {
+        "year": 2020,
+        "count": 55
+      },
+      {
+        "year": 2021,
+        "count": 15
+      },
+      {
+        "year": 2022,
+        "count": 16
+      },
+      {
+        "year": 2023,
+        "count": 9
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 20
+      },
+      {
+        "year": 2026,
+        "count": 11
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V012000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) recalled certain 2018-2019 4Runner, Highlander, Camry, Land Cruiser, Sequoia, Sienna, Tacoma and Tundra, and Lexus RC 300, RC 350, GS 350, GX 460, IS 300, LC 500, LS 500, LX 570, RX 350L, and 2019 Toyota Avalon and Corolla, and certain Lexus NX 300, ",
+        "report_date": "13/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V888000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:MASTER CYLINDER",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 Toyota Tacoma vehicles.  Improper machining of the brake master cylinder may result in internal damage of one of the seals, affecting brake performance.",
+        "report_date": "13/12/2018",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:41:20.437Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

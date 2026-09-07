@@ -1,0 +1,176 @@
+{
+  "slug": "2019-nissan-altima",
+  "year": 2019,
+  "make": "Nissan",
+  "model": "Altima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 229,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 58,
+        "share_pct": 25.3,
+        "excerpts": [
+          "All 4 door actuators failed over the course of a few months. Now none of the locks work, and the cost to fix them is prohibitive.",
+          "Well I can’t get into my car because the locks won’t work and someone broke into my car because of it. No warning signs.",
+          "Coolant leak not visible egr cooler and egr valve malfunction catalytic converter malfunction. Diagnosted at nissan a known issue with nissan make and model."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 47,
+        "share_pct": 20.5,
+        "excerpts": [
+          "Cracked Engine Head- The vehicle is around 165,000 miles and the engine has cracked. No collisions or crashes or any fault of owner.   At around 100,000 miles ALL four doors had the actuators stop wor",
+          "Coolant leak not visible egr cooler and egr valve malfunction catalytic converter malfunction. Diagnosted at nissan a known issue with nissan make and model.",
+          "Ever since I bought the car with zero miles I been having electrical issues. From reverse camera to low wash fluid light that doesn’t turned off . Now even when it’s over 100 degrees outside my car ma"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 41,
+        "share_pct": 17.9,
+        "excerpts": [
+          "Have been getting “engine malfunction power reduced” already had it repaired once. Not sure what is causing this since it was just “repaired “.  New battery in place.  Also has accident icons on dashb",
+          "I changed the Air Mass Flow sensor and it’s still showing the check engine light on my dash board and giving me the same code after replacing it brand new.  My brakes sound horrible after replacing bo",
+          "Every time I put the breaks on or go over any kind of speed bump, it bounces and sounds like warn out bed springs. Out of nowhere The volume on my radio will turn up extremely loud. Its happened more "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 29,
+        "share_pct": 12.7,
+        "excerpts": [
+          "I changed the Air Mass Flow sensor and it’s still showing the check engine light on my dash board and giving me the same code after replacing it brand new.  My brakes sound horrible after replacing bo",
+          "Driving down the road and my parking brake light came on when it wasn’t in park and i was on a highway. Malfunction light came on, but car runs fine and had it looked at with no problems.",
+          "car constantly is breaking saying there are cars in front of me when there are not, especially going under bridges. the light flashes 90% of the time warning me. i have cleaned off the sensor and it s"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 14,
+        "share_pct": 6.1,
+        "excerpts": [
+          "1st.  I would like to report defective windshields, I've replaced it once and the one I replaced got a crack now also. I don't speed I don't tailgate I drive proper and my insurance records my driving",
+          "I’m driving on expressway going southbound with no traffic & out of no where the hood jumps open, the result of that resulted in the windshield being cracked also the sunroof. The glass from sunroof c",
+          "When the rearview mirror was adjusted, the mirror fell off of the windshield entirely and took a chunk of glass out with the rearview mirror."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 22,
+      "fires": 5,
+      "injuries": 11,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 4
+      },
+      {
+        "year": 2019,
+        "count": 32
+      },
+      {
+        "year": 2020,
+        "count": 25
+      },
+      {
+        "year": 2021,
+        "count": 27
+      },
+      {
+        "year": 2022,
+        "count": 33
+      },
+      {
+        "year": 2023,
+        "count": 28
+      },
+      {
+        "year": 2024,
+        "count": 23
+      },
+      {
+        "year": 2025,
+        "count": 36
+      },
+      {
+        "year": 2026,
+        "count": 20
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "21V169000",
+        "component": "TIRES",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2019-2020 Altima and 2018-2021 Titan vehicles equipped with Continental tires.  On the affected vehicles, it is possible that one or more tires were cured for too long during tire production.",
+        "report_date": "11/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V316000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2019 Altima vehicles equipped with front wheel drive (FWD) and 2.5 liter engines.  The fuel pump lock ring may not be fully engaged, possibly causing fuel to leak.  As such, these vehicles fail to comply with the requirements of Federal Motor ",
+        "report_date": "18/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V922000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Nissan North America, Inc (Nissan) is recalling certain 2019 Altima vehicles.  The retainer clip connecting the low pressure fuel tube to the high pressure fuel pump may not have been locked into position.",
+        "report_date": "20/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V235000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2019 Nissan Altima vehicles.  The brake switch bracket may be in the incorrect location, which may cause the brake switch to remain on.",
+        "report_date": "25/03/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V654000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2018-2019 Nissan Altima, Armada, Frontier, Kicks, Leaf, Maxima, Murano, NV, NV200, Pathfinder, Rogue, Rogue Sport, Sentra, Titan, Titan Diesel, Versa Note and Versa Sedan vehicles, as well as Infiniti Q50, Q60, QX30 and QX80 vehicles.  Additio",
+        "report_date": "12/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V628000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2019-2021 Altima and 2020-2021 Sentra vehicles.  Damage to the camera harness can cause distortion or loss of the rearview camera display image.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Stan",
+        "report_date": "08/09/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V437000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2021-2024 Rogue, 2019-2020 Altima, 2019-2022 Infiniti QX50, and 2022 Infiniti QX55 vehicles equipped with 3-cylinder 1.5L or 4-cylinder 2.0L variable compression turbo (VC-Turbo) engines. The engine bearings may have manufacturing defects that",
+        "report_date": "27/06/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:35.765Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

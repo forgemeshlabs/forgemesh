@@ -1,0 +1,148 @@
+{
+  "slug": "2020-jeep-grand-cherokee",
+  "year": 2020,
+  "make": "Jeep",
+  "model": "Grand Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 234,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 70,
+        "share_pct": 29.9,
+        "excerpts": [
+          "My screen has started to delaminate I’m very worried it will soon completely not work . I would like to have this issue addressed by jeep themselves I refuse to pay for a new one this vehicle has 40,0",
+          "On the 26th of  April 2026, the transfer Case on my 2020 Grand Cherokee (with less 114,000 miles) failed during  highway travel.  This resulted in a sudden downshift and temporary deceleration followe",
+          "The uconnect touch screen is delaminating. It is causing issues with being able to use the backup camera with accuracy because the delamination causes a visual distortion. Also, it has been causing is"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 50,
+        "share_pct": 21.4,
+        "excerpts": [
+          "I am submitting this complaint to report a serious safety concern involving my 2020 Jeep Grand Cherokee.  At approximately 44,000–45,000 miles, the vehicle suffered a catastrophic engine failure. This",
+          "On the 26th of  April 2026, the transfer Case on my 2020 Grand Cherokee (with less 114,000 miles) failed during  highway travel.  This resulted in a sudden downshift and temporary deceleration followe",
+          "I am reporting a potential safety issue involving my 2020 Jeep Grand Cherokee Limited X. The vehicle developed a condition in which it would not stay running. I brought the vehicle to an authorized Je"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 39,
+        "share_pct": 16.7,
+        "excerpts": [
+          "On the 26th of  April 2026, the transfer Case on my 2020 Grand Cherokee (with less 114,000 miles) failed during  highway travel.  This resulted in a sudden downshift and temporary deceleration followe",
+          "At 50k grand cherokee  would flash reverse indicator  and message shift to park also when reverse would engage it was with a harsh engagement. At 58k  transmission would hesitate to shift into 4th gea",
+          "The contact owns a 2020 Jeep Grand Cherokee. The contact stated while driving at an undisclosed speed, the service four-wheel drive warning light illuminated. In addition, the contact stated that the "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 17,
+        "share_pct": 7.3,
+        "excerpts": [
+          "While driving on the interstate at highway speeds, the vehicle suffered a sudden and complete loss of motive power without warning, causing the engine to stall. The vehicle became a severe safety haza",
+          "all grand cherokees have an issue where you lose all power to your jeep while driving and cant do anything! ON top of all the electrical issues. HUGE safety problem when your driving in traffic and ca",
+          "The internal fuel pump/fuel pump circuit on my 2020 Jeep Grand Cherokee (VIN: [XXX] ) failed prematurely, resulting in a sudden and severe 'no-crank' safety hazard. The fuel pump failure triggered a m"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 17,
+        "share_pct": 7.3,
+        "excerpts": [
+          "Airbags did not deploy in an accident where someone ran me into a tree front center of front of car it involves Two injury because airbags didn't come out on impact",
+          "It was a clear day as I arrived at work. While pulling into a parking spot, the Jeep suddenly accelerated over a curb and into a tree. I was able to turn the wheel upon seeing the tree, which helped m",
+          "The contact owned a 2020 Jeep Grand Cherokee. The contact stated while driving at 30 MPH, another vehicle pulled out in front of his vehicle, causing him to T-bone the vehicle on the front driver side"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 24,
+      "fires": 5,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 4
+      },
+      {
+        "year": 2020,
+        "count": 27
+      },
+      {
+        "year": 2021,
+        "count": 21
+      },
+      {
+        "year": 2022,
+        "count": 20
+      },
+      {
+        "year": 2023,
+        "count": 31
+      },
+      {
+        "year": 2024,
+        "count": 40
+      },
+      {
+        "year": 2025,
+        "count": 64
+      },
+      {
+        "year": 2026,
+        "count": 24
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "20V191000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2020 Jeep Gladiator and Jeep Cherokee, 2019-2020 Ram 1500 Pickup, Ram 2500 Pickup, Ram 3500 Pickup, Chrysler Pacifica, Dodge Durango, Jeep Grand Cherokee, Jeep Wrangler, and Jeep Renegade and 2019 Dodge Challenger vehicles equipped with 8.4\" or 12\" radio di",
+        "report_date": "10/09/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V406000",
+        "component": "FUEL SYSTEM, DIESEL:DELIVERY:FUEL PUMP",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2020 Jeep Grand Cherokee, and 2014-2019 Ram 1500 vehicles equipped with 3.0L diesel engines.  A high pressure fuel pump (HPFP) failure may introduce internal debris into the fuel system, potentially resulting in fuel starvation.",
+        "report_date": "09/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V411000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2019 Ram 1500 and 2014-2020 Jeep Grand Cherokee vehicles equipped with 3.0L Diesel engines.  The crankshaft position sensor tone wheel may delaminate, causing the engine to lose its ability to synchronize the fuel injector pulses and cam shaft timing,",
+        "report_date": "08/06/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:41.308Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

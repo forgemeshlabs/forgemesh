@@ -1,0 +1,124 @@
+{
+  "slug": "2019-chevrolet-malibu",
+  "year": 2019,
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 189,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 66,
+        "share_pct": 34.9,
+        "excerpts": [
+          "I understand that the vehicle is outside of its original warranty period. However, I do not believe that the expiration of the warranty should automatically make me responsible for a component failure",
+          "The first problem with my car was the tire pressure monitor. The location of each tire was wrong on the informant section. Soon after purchasing the car when ever I would park the car would not shut o",
+          "The contact owns a 2019 Chevrolet Malibu. The contact stated that upon shifting to park(P) and attempting to turn off the vehicle, the message \"Shift to Park\" was displayed. While investigating the fa"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 62,
+        "share_pct": 32.8,
+        "excerpts": [
+          "I understand that the vehicle is outside of its original warranty period. However, I do not believe that the expiration of the warranty should automatically make me responsible for a component failure",
+          "Since 2024/2025 car has been malfunctioning, I’ve had it checked out but it just got worse and nothing was fixed l, it is I driveable and very unsafe.  When driving it abruptly stops like it’s crashin",
+          "The first problem with my car was the tire pressure monitor. The location of each tire was wrong on the informant section. Soon after purchasing the car when ever I would park the car would not shut o"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 61,
+        "share_pct": 32.3,
+        "excerpts": [
+          "Since 2024/2025 car has been malfunctioning, I’ve had it checked out but it just got worse and nothing was fixed l, it is I driveable and very unsafe.  When driving it abruptly stops like it’s crashin",
+          "I am reporting a safety concern involving a 2019 Chevrolet Malibu. The vehicle was previously involved in accidents prior to my purchase and had known mechanical issues, including a gear shifting prob",
+          "The component that failed is the internal microswitch/sensor within the gear shifter assembly. The specific part that requires replacement is often documented in General Motors Technical Service Bulle"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 24,
+        "share_pct": 12.7,
+        "excerpts": [
+          "Since 2024/2025 car has been malfunctioning, I’ve had it checked out but it just got worse and nothing was fixed l, it is I driveable and very unsafe.  When driving it abruptly stops like it’s crashin",
+          "The brake booster vacuum pump went out in my car it broke which caused hard breaking while driving vehicle. When the brake booster vacuum pump broke a piece of it damage my camshaft as well as my timi",
+          "The vacuum pump has a tendency of breaking and when it does it affects the exhaust camshaft making the car completely inoperable. When this happened my vehicle lost all brakes and power and would not "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 17,
+        "share_pct": 9,
+        "excerpts": [
+          "My 2019 Chevrolet Malibu has severe safety defects involving the engine, powertrain, and speed control. The vehicle will sometimes accelerate on its own with my foot off the gas, and other times it lo",
+          "I was traveling down i-25 at 75 mph because that is what the speed limit here in Colorado. I was traveling south heading to Colorado Springs to visit family and i was entering near Castle Rock and my ",
+          "Throttlebody hose pops off of the throttlebody due to a missing gasket ring as well as the retention clip/spring clip. The plastic pieces on the spring clip have popped off since the issue has been pr"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 1,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 9
+      },
+      {
+        "year": 2020,
+        "count": 20
+      },
+      {
+        "year": 2021,
+        "count": 14
+      },
+      {
+        "year": 2022,
+        "count": 45
+      },
+      {
+        "year": 2023,
+        "count": 39
+      },
+      {
+        "year": 2024,
+        "count": 21
+      },
+      {
+        "year": 2025,
+        "count": 36
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "21V649000",
+        "component": "SEAT BELTS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2016-2021 Chevrolet Malibu and 2019-2021 Cadillac XT4 vehicles.  The rear seat belt retractors may be improperly secured with loose or missing fasteners.",
+        "report_date": "20/08/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:49.005Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "2016-nissan-rogue",
+  "year": 2016,
+  "make": "Nissan",
+  "model": "Rogue",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 538,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 175,
+        "share_pct": 32.5,
+        "excerpts": [
+          "Formal complaint against Nissan North America regarding premature CVT transmission failure on a 2016 Nissan Rogue (VIN: [XXX], Case #XXX, XXX with under 54,000 original miles. During a routine check-u",
+          "Vehicle experienced hesitation and intermittent delayed acceleration beginning around 2018, with symptoms progressively worsening over time. In the past week, the check engine light illuminated and th",
+          "The contact owns a 2016 Nissan Rogue. The contact stated that while driving at various speeds, the vehicle lost automotive power and decelerated and failed to properly accelerate. During the failure, "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 125,
+        "share_pct": 23.2,
+        "excerpts": [
+          "From time to time the accelleration hesitates. I have to press the accelerator very deeply before the car starts moving. Usually it happens when the car reaches a complete stop and takes off. It clear",
+          "All 4 car doors lock and unlock and the trunk lock door (tries yo open) warning comes on",
+          "My vehicle is included in the correct year range and shows the same symptoms as NHTSA ID Number: 16V911000. The airbag light is also on and I am worried that it will not operate properly in an acciden"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 63,
+        "share_pct": 11.7,
+        "excerpts": [
+          "The contact owns a 2016 Nissan Rogue. The contact stated that while driving at an undisclosed speed, the vehicle failed to accelerate as intended while depressing the accelerator pedal, and the engine",
+          "My check engine light came on spring of 2025 and my Rogue was losing speed from 80mph to 50mph on the intersate with the RPM's shooting up to 5-6. On 5/30/2025, I paid $800 to get the intake manifold ",
+          "Within one month of purchase, the vehicle had been switching out of the Drive gear, and making an unusual noise. The check engine light, and many others appeared on the dashboard.  I brought the vehic"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 61,
+        "share_pct": 11.3,
+        "excerpts": [
+          "My vehicle is included in the correct year range and shows the same symptoms as NHTSA ID Number: 16V911000. The airbag light is also on and I am worried that it will not operate properly in an acciden",
+          "The contact owns a 2016 Nissan Rogue. The contact stated that while the vehicle was parked, the passenger’s side air bag warning illuminated even though the passenger’s side seat was not occupied and ",
+          "The contact's daughter owns a 2016 Nissan Rogue. The contact stated that the front passenger's side air bag warning light was illuminated. The vehicle was taken to the dealer, where it was diagnosed a"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 30,
+        "share_pct": 5.6,
+        "excerpts": [
+          "The contact owns a 2016 Nissan Rogue. The contact stated that while attempting to maintain the lift gate open, the lift gate independently lowered and fell down. No warning lights illuminated. The con",
+          "The contact owns a 2016 Nissan Rogue. The contact stated that there was water leaking inside the vehicle through the sunroof. The vehicle was taken to the dealer, where the contact was informed that t",
+          "Trunk Lift Gate  Trunk will not stay open, it slams back shut, causing injury, risk for closed limbs problem has been confirmed with dealership no warning lights or mesages"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 35,
+      "fires": 3,
+      "injuries": 36,
+      "deaths": 3
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 41
+      },
+      {
+        "year": 2017,
+        "count": 33
+      },
+      {
+        "year": 2018,
+        "count": 37
+      },
+      {
+        "year": 2019,
+        "count": 47
+      },
+      {
+        "year": 2020,
+        "count": 68
+      },
+      {
+        "year": 2021,
+        "count": 61
+      },
+      {
+        "year": 2022,
+        "count": 102
+      },
+      {
+        "year": 2023,
+        "count": 73
+      },
+      {
+        "year": 2024,
+        "count": 34
+      },
+      {
+        "year": 2025,
+        "count": 31
+      },
+      {
+        "year": 2026,
+        "count": 11
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "17V716000",
+        "component": "SEATS",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2016 Nissan Rogue vehicles.  The vehicles have front passenger seat frames that may be improperly welded.  As such, these vehicles fail to meet performance requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 202a, \"Head Restra",
+        "report_date": "14/11/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V244000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2016-2017 Nissan Maxima, 2013-2016 Nissan Altima, NV200, LEAF, Sentra, and Pathfinder, 2014-2016 Nissan NV200 Taxi, Infiniti QX60, QX60 Hybrid, and Q50 Hybrid, 2014-2017 Nissan Rogue and Infiniti Q50, 2015-2016 Nissan Murano, Murano",
+        "report_date": "26/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V663000",
+        "component": "SEATS",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2016-2017 Nissan Rogue vehicles.  The recliner joints on the lower seat frame for the rear seats may have improper welds.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standards (FMVSS) number 20",
+        "report_date": "18/10/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V911000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2015 Altima vehicles manufactured January 3, 2013, to July 29, 2013, 2015-2016 Rogue vehicles manufactured October 14, 2014, to August 12, 2016, and 2016 Maxima vehicles manufactured June 4, 2015, to August 19, 2015.  An incorr",
+        "report_date": "19/12/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V219000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE:SUPPORT DEVICE/STRUT",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2014-2016 Nissan Rogue vehicles manufactured July 31, 2013, to January 16, 2016.  In the affected vehicles, the rear lift gate support stays may corrode due to insufficient anti-corrosion treatment.",
+        "report_date": "15/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V024000",
+        "component": "ELECTRICAL SYSTEM:WIRING:INTERIOR/UNDER DASH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2014-2016 Rogue vehicles.  The electrical connector for the under dash harness may corrode due to water and salt intrusion from the driver's side foot well.",
+        "report_date": "21/01/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V093000",
+        "component": "ELECTRICAL SYSTEM:IGNITION:ANTI-THEFT:IMMOBILIZER/PROXIMITY:KEY/SENDER",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2014-2020 Rogue and 2017-2022 Rogue Sport vehicles equipped with a jackknife style ignition key.  The jackknife key may collapse into a folded position while driving.",
+        "report_date": "16/02/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:20.155Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

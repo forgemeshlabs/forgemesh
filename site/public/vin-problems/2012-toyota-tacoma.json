@@ -1,0 +1,196 @@
+{
+  "slug": "2012-toyota-tacoma",
+  "year": 2012,
+  "make": "Toyota",
+  "model": "Tacoma",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 295,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 122,
+        "share_pct": 41.4,
+        "excerpts": [
+          "June 1st 2021  I went to park in a parking space at a local mall. My truck instead of stopping it accelerated out of control jumped two stone curbs, drove though a fence and landed into a swamp. Call ",
+          "I BROUGHT TRUCK TO TOYOTA DEALERSHIP AS PART OF RUSTED FRAME RECALL TO BE VERIFIED.  THEY STATED TRUCK WAS NOT RUSTED ENOUGH UNDERNEATH FOR TOYOTA TO APPROVE RECALL.  THAT WAS A COUPLE OF MONTHS AGO. ",
+          "MY 2012 TACOMA WARNING LIGHT 1) ENGINE AND 2 TRAC OFF WARNING LIGHT CAME ON AND LOST POWER GOING 65 MPH ON FREEWAY AND WOULD NOT GO OVER 25 MPH (DANGEROUS!). OBD-II SCANNER DISPLAYED ERROR CODE CHECK "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 52,
+        "share_pct": 17.6,
+        "excerpts": [
+          "Vehicle: 2012 Toyota Tacoma VIN: [XXX]  Toyota Special Service Campaign 20TC01 was performed on September 19, 2024, at approximately 103,417 miles. The campaign addressed the secondary air injection s",
+          "The check engine light on the dashboard of my 2012 Tacoma turned on and will no longer accelerate appropriately and especially while driving uphill, posing a danger to myself and other drivers. I was ",
+          "My truck lost drivability while I was going 60 I ran into a ditch to stop. It hads two codes . I took it in they replaced my rack  n pinion. Check engine light came on . Mechanic said he could not wor"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 35,
+        "share_pct": 11.9,
+        "excerpts": [
+          "The contact owns a 2012 Toyota Tacoma. The contact stated that the undercarriage of the vehicle was significantly rusted. The TPMS warning light was illuminated. The vehicle was taken to the local dea",
+          "My truck started having a vibration when driving around 45-55 mph.  This problem first became noticeable when it had about 115,000 miles on it.  Over time the speed that the vibration became noticeabl",
+          "Drivetrain vibration and cricket chripping noise; likly coming from propeller shaft"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 22,
+        "share_pct": 7.5,
+        "excerpts": [
+          "Will not fix the frame. my husband has a 2005 and it looks new compared to my 2012. The last mechanic I used told me not to bring it back to him  to much rust. Toyota said it passed their inspection. ",
+          "My truck lost drivability while I was going 60 I ran into a ditch to stop. It hads two codes . I took it in they replaced my rack  n pinion. Check engine light came on . Mechanic said he could not wor",
+          "The contact owns a 2012 Toyota Tacoma. The contact stated that while driving at various speeds in areas with low traction, several unknown warning lights would illuminate on the instrument panel and t"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 22,
+        "share_pct": 7.5,
+        "excerpts": [
+          "June 1st 2021  I went to park in a parking space at a local mall. My truck instead of stopping it accelerated out of control jumped two stone curbs, drove though a fence and landed into a swamp. Call ",
+          "WHEN ACCELERATING THE TRUCK LOST ALL POWER AND ACCELERATION. ENGINE LIGHT IS ON. ENGINE WILL NOT INCREASE RPM WHEN ACCELERATOR IS PRESSED. TRUCK WILL SLOWLY DRIVE BUT IS UNSAFE TO BE ON THE ROAD AS IT",
+          "'TAKATA RECALL' SECONDARY AIR INJECTION PUMP SECONDARY AIR SWITCHING VALVES LIMP MODE DON'T GO OVER 40 CRUDE CONTROLS DOESN'T WORK"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 16,
+      "fires": 0,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 19
+      },
+      {
+        "year": 2013,
+        "count": 12
+      },
+      {
+        "year": 2014,
+        "count": 11
+      },
+      {
+        "year": 2015,
+        "count": 14
+      },
+      {
+        "year": 2016,
+        "count": 54
+      },
+      {
+        "year": 2017,
+        "count": 93
+      },
+      {
+        "year": 2018,
+        "count": 28
+      },
+      {
+        "year": 2019,
+        "count": 23
+      },
+      {
+        "year": 2020,
+        "count": 11
+      },
+      {
+        "year": 2021,
+        "count": 15
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "17V425000",
+        "component": "STRUCTURE:BODY:HOOD:HINGE AND ATTACHMENTS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2011-2016 Toyota Tacoma and 4Runner vehicles equipped with accessory hood scoops installed by SET or SET dealers.  The adhesive attaching the hood scoop may weaken, allowing the hood scoop to detach from the vehicle.",
+        "report_date": "03/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V054000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Toyota is recalling certain model year 2012 and 2013 Toyota Tacoma and Lexus RX350 vehicles and certain model year 2012 Toyota Rav4 vehicles.  In the affected vehicles, the brake system contains a brake actuator that adjusts the fluid pressure of each wheel cylinder.  An electrical component within ",
+        "report_date": "12/02/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V475000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2008-2014 FJ Cruiser and Tacoma vehicles equipped with accessory wheels and tires installed by Toyota or dealers prior to the vehicle's first sale.  The affected vehicles may list incorrect spare tire size and/or cold ",
+        "report_date": "04/08/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V494000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2012-2013 Tacoma vehicles equipped with 18\" Maverick Alloy Wheels.  In the affected vehicles, the spare tire requires the use of a different style of lug nut to attach it to the vehicle than the other wheels use.  These lug nut",
+        "report_date": "17/10/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V158000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "GULF STATES TOYOTA (GST) IS RECALLING CERTAIN MODEL YEAR 2012 TACOMA TRUCKS. THE TIRE AND LOADING INFORMATION PLACARD ON EACH VEHICLE CONTAINS INACCURATE SPARE TIRE SIZE AND COLD INFLATION PRESSURE INFORMATION.  THUS, THESE VEHICLES FAIL TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFET",
+        "report_date": "10/04/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V123000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota is recalling certain model year 2008 and 2010-2013 Toyota Tundra, 2010-2012 Rav4, 2012 Toyota Sequoia, 2010-2011 Toyota Corolla, 2010-2011 Toyota Camry and Camry Hybrid, 2010-2013 Toyota Highlander and Highlander Hybrid, 2010-2013 Toyota FJ Cruiser, 2011 Toyota Land Cruiser, 2010-20",
+        "report_date": "09/04/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:33:10.415Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

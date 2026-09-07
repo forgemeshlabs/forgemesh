@@ -1,0 +1,124 @@
+{
+  "slug": "2019-chevrolet-cruze",
+  "year": 2019,
+  "make": "Chevrolet",
+  "model": "Cruze",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 21,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 6,
+        "share_pct": 28.6,
+        "excerpts": [
+          "For a year I have had my car to the shop multiple times due to a musty smell inside my car. I have never been able to find any fluids or moisture inside the car, however, the inside of my windshield t",
+          "The vehicle needs the transmission bolts replaced has a recall need repaired as as possible. The automatic transmission jerk",
+          "The bolts on the transmission accumulator needs to be replaced I see an unrepaired recall"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 5,
+        "share_pct": 23.8,
+        "excerpts": [
+          "For a year I have had my car to the shop multiple times due to a musty smell inside my car. I have never been able to find any fluids or moisture inside the car, however, the inside of my windshield t",
+          "I am leasing this vehicle and it continues to have warning light on staring the vehicle engine power reduced as I'm driving and holds back vehicle and also airbag restraining system light continues al",
+          "Timing chain rattles, due the the chain tensioner not having motor oil at early morning start-up.  This causes the chain to be loose and eventually engine damage.  Europe already issued recalls to thi"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 4,
+        "share_pct": 19,
+        "excerpts": [
+          "An authorized Chevrolet dealer diagnosed an electrical problem on my 2019 Chevrolet Cruze and found that the HVAC case/condensate drain was disconnected. The dealer determined that condensate water ha",
+          "I am leasing this vehicle and it continues to have warning light on staring the vehicle engine power reduced as I'm driving and holds back vehicle and also airbag restraining system light continues al",
+          "The vehicle needs the transmission bolts replaced has a recall need repaired as as possible. The automatic transmission jerk"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 3,
+        "share_pct": 14.3,
+        "excerpts": [
+          "An authorized Chevrolet dealer diagnosed an electrical problem on my 2019 Chevrolet Cruze and found that the HVAC case/condensate drain was disconnected. The dealer determined that condensate water ha",
+          "The contact owns a 2019 Chevrolet Cruze. The contact stated that after starting the vehicle and shifting into drive(D), the SRS warning light illuminated on the instrument panel. The contact stated th",
+          "The airbags did not deploy, and the driver hit the windshield."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 3,
+        "share_pct": 14.3,
+        "excerpts": [
+          "The brakes system didnt seem to be stopping properly almost as if i had to push really hard on the brakes to get the car to stop. Finally today, I was 1.6 car lengths behind another vehicle whom slamm",
+          "Brakes on vehicle failed while driving down the freeway, when I needed to slow down to take my exit. Brakes were hard, and would not stop the vehicle. I shifted into neutral, and used the ramp to stop",
+          "MY CAR IS BRAND NEW BROUGHT IT AT 9MILES ON DASH. EXACTLY 2 MONTHS LATER OUTTA NOWHERE THERE WAS THIS GRINDING SOUND WHEN I WOULD BRAKE LIKE THE SOUND OF ROOTERS GRINDING AS IF BRAKES WHERE BAD ,,4 OT"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 1,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 4
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 1
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "20V668000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Cruze and Buick LaCrosse, 2018-2020 Chevrolet Equinox, Chevrolet Traverse and GMC Terrain, 2018 Chevrolet Malibu, 2019-2020 Buick Encore, Buick Enclave, Cadillac XT4, Chevrolet Blazer and GMC Acadia, and 2020 Cadillac XT6 vehicles.  Th",
+        "report_date": "29/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V576000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Equinox, Impala, Cruze, Volt and Bolt EV vehicles, GMC Terrain vehicles, Buick Lacrosse and Regal vehicles, Cadillac XTS and XTS Professional vehicles and 2018 Chevrolet Malibu vehicles. The rear brake caliper pistons may have an insuf",
+        "report_date": "30/08/2018",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:50.076Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

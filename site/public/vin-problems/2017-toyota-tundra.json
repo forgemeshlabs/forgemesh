@@ -1,0 +1,172 @@
+{
+  "slug": "2017-toyota-tundra",
+  "year": 2017,
+  "make": "Toyota",
+  "model": "Tundra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 78,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 27,
+        "share_pct": 34.6,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2017 Toyota Tundra. The contact discovered that there was a mileage discrepancy after the purchase. The vehicle was a private sale. At the time of the purchase,",
+          "Headlights go out randomly usually when using turn signal.  Because this happens at night all visibility is lost temporarily. This also confuses other drivers.  I haven’t taken the vehicle to the deal",
+          "Intermittent failure of the integrated trailer brake controller system. System indicates a frequent intermittent fault indicating a wiring or connection issue that disables the signal to activate the "
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 17,
+        "share_pct": 21.8,
+        "excerpts": [
+          "Headlights go out randomly usually when using turn signal.  Because this happens at night all visibility is lost temporarily. This also confuses other drivers.  I haven’t taken the vehicle to the deal",
+          "When driving at night, the front lights of the vehicle turn off randomly. Been driving on an highway at going at 75mph and randomly the headlights shuts off. Happened 4 times in the past year.",
+          "Headlights, taillights and all dash and interior lights go out when using turn signal at night. My and others safety has been put at risk due to the loss of headlights and taillights when engaging the"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 14,
+        "share_pct": 17.9,
+        "excerpts": [
+          "Began experiencing long cranking, difficulty starting, then rough idling. Started researching online and found recalls for 2018 -2019 Flex fuel 5.7 Tundras. My 2017 is also a Flex fuel 5.7 with exactl",
+          "Cold starting problems so the dealer diagnosed as a defective fuel pump.",
+          "My 2017 Toyota Tundra had been starting roughly the past couple of weeks, I initially thought this was due to the very cold weather we recently had.  It has just over 71k miles on it, so there should "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 14,
+        "share_pct": 17.9,
+        "excerpts": [
+          "The factory IBC is a safety issue. I would not tow anything over 1500lbs as the brake controller does not work. This controller is an accident waiting to happen. When set on gain 10 you can barely fee",
+          "Intermittent failure of the integrated trailer brake controller system. System indicates a frequent intermittent fault indicating a wiring or connection issue that disables the signal to activate the ",
+          "Integrated Brake Controller (IBC) not sending sufficient power to electric dual-axle travel trailer brakes producing weak if any braking ability. On the approach to the first red traffic signal, there"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 6,
+        "share_pct": 7.7,
+        "excerpts": [
+          "The transmission solenoid D shows high voltage which sets my check engine light off. At first no difference would be noticed and it would randomly turn off and then back on randomly. After doing this ",
+          "Diagnostic report indicates problem with shift solenoid and it’s replaceable. Dealership instead charge me for full transmission replacement.",
+          "THIS HAPPENED 4 TIMES TODAY THE VEHICLE WOULD STAY AT 1000 RPM WHILE DRIVING WITH NO ACCELERATION POSSIBLE, IT WAS AS IF THE GAS PEDAL WAS DISCONNECTED, TRIED TO CROSS BUSY INTERSECTION , BUT COULD ON"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 0,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 16
+      },
+      {
+        "year": 2018,
+        "count": 9
+      },
+      {
+        "year": 2019,
+        "count": 6
+      },
+      {
+        "year": 2020,
+        "count": 12
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "21V920000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2008-2022 Sequoia and 2007-2021 Tundra vehicles.  The power steering gear assembly may have been manufactured incorrectly, which can result in an oil leak.",
+        "report_date": "23/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21E103000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain JTEKT power steering gear assembly service parts for 2007-2021 Tundra and 2008-2022 Sequoia, part numbers 44250-0C160, 44250-0C131, 44250-0C170, and 11250-0C121.  The power steering gear assembly may have been manufactured incorr",
+        "report_date": "23/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V831000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2017-2018 Toyota 4Runner and Tundra, 2018 Toyota Highlander, RAV4 and Lexus GX460 and 2017 Toyota Sienna and Tacoma vehicles.  These vehicles may have incorrect load carrying capacity modification labels.  As such, these vehicles",
+        "report_date": "20/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V051000",
+        "component": "STRUCTURE:BODY:BUMPERS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2016-2017 Tundra vehicles equipped with a resin rear step bumper and resin reinforcement brackets (vehicles with chrome step bumpers are not affected).  In the event of an impact to the corner of the bumper, the resin bracket may",
+        "report_date": "24/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V123000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2017 Toyota Tundra vehicles.  One of the rear split bench seat leg brackets may not have been properly tightened to the vehicle's floor pan, possibly allowing the seat to move in a crash.  A vehicle with an improperly tightened s",
+        "report_date": "20/02/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V311000",
+        "component": "WHEELS:LUGS/NUTS/BOLTS/STUDS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2013-2017 Toyota Tundra and Sequoia vehicles accessorized with Southeast Toyota accessory 20-inch Rockstar wheels installed by Southeast Toyota or a Southeast Toyota dealer.  The Rockstar wheels were installed with lugnuts that",
+        "report_date": "11/05/2017",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:40:17.935Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

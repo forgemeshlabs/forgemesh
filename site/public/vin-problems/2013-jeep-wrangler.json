@@ -1,0 +1,196 @@
+{
+  "slug": "2013-jeep-wrangler",
+  "year": 2013,
+  "make": "Jeep",
+  "model": "Wrangler",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 649,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 229,
+        "share_pct": 35.3,
+        "excerpts": [
+          "The contact owns a 2013 Jeep Wrangler. The contact stated that after her husband had arrived at his destination, upon returning to the vehicle and attempting to start the vehicle, the vehicle failed t",
+          "The contact owns a 2013 Jeep Wrangler. The contact stated while driving approximately 30 MPH, while depressing the accelerator pedal the vehicle failed to respond. The contact stated that it felt as i",
+          "When  driving approximately 45 mph and above the entire car starts to violently shake.  I don't know what part causes this problem.  I've heard it could be :  steering damper, ball joints, tie rods, t"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 167,
+        "share_pct": 25.7,
+        "excerpts": [
+          "My 2013 RHD jeep wrangler is showing codes B1B02 and B1B06. I took it to jason lewis automotive in sparta tn yesterday. The airbag light is on and the horn does not work. These are the exact same fail",
+          "The contact owns a 2013 Jeep Wrangler. The contact stated while driving approximately 30 MPH, the contact crashed into the guard rail. There were no warning lights illuminated. The contact exited the ",
+          "Air bag light keeps coming on and off while driving . none stop digging....can not seem to Find the problem other them air bags may not work properly"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 140,
+        "share_pct": 21.6,
+        "excerpts": [
+          "The oil filter housing is known to leak, crack or break in standard weather conditions. This can be exacerbated by extreme climate or by simply storing the vehicle outside of a climate controlled area",
+          "Loud rattle noise on start up and ticking sound when running. Also using a little antifreeze. There is no antifreeze leaks.",
+          "This vehicle is notorious for a common issue yet that same issue which has not been recalled is the reason my engine blew on the highway and Jeep has failed to notify owners of this issue or give some"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 102,
+        "share_pct": 15.7,
+        "excerpts": [
+          "I have a 2013 Jeep Wrangler with 180,000 miles.  I never off road the vehicle, but after driving on a dirt road, the stability control kicked in during a turn.  At the start of the next drive after th",
+          "The clockspring went bad, but the recall for that only applies to 2007-2010 Jeep Wranglers. The airbag light is on, my horn does not work, and the buttons on my steering wheel don't work.",
+          "ABS anti lock module stopped working. Vehicle braking system is now compromise. It also send the speed to the transmission, which is causing the erratic drivability."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 72,
+        "share_pct": 11.1,
+        "excerpts": [
+          "Faulty Clockspring  Diagnosed by independent dealer.  The occupant restraint system came on my dash about a 2 weeks ago without any warning. The clockspring controls the airbags and puts me and my fam",
+          "2013 Jeep Wrangler, which is currently subject to a manufacturer-issued “Do Not Drive” safety recall involving the driver’s airbag.  Upon learning of the recall, I immediately acted responsibly by del",
+          "I purchased a 2013 Jeep Wrangler Unlimited Sahara (VIN [XXX] ) from Soliman Motors Inc., [XXX]  (phone [XXX] ) on April 11, 2026. The vehicle is subject to active NHTSA stop-drive recall #19V-018 for "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 14,
+      "fires": 16,
+      "injuries": 8,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 6
+      },
+      {
+        "year": 2013,
+        "count": 145
+      },
+      {
+        "year": 2014,
+        "count": 110
+      },
+      {
+        "year": 2015,
+        "count": 48
+      },
+      {
+        "year": 2016,
+        "count": 66
+      },
+      {
+        "year": 2017,
+        "count": 38
+      },
+      {
+        "year": 2018,
+        "count": 45
+      },
+      {
+        "year": 2019,
+        "count": 65
+      },
+      {
+        "year": 2020,
+        "count": 28
+      },
+      {
+        "year": 2021,
+        "count": 16
+      },
+      {
+        "year": 2022,
+        "count": 18
+      },
+      {
+        "year": 2023,
+        "count": 15
+      },
+      {
+        "year": 2024,
+        "count": 20
+      },
+      {
+        "year": 2025,
+        "count": 14
+      },
+      {
+        "year": 2026,
+        "count": 15
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "19V018000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2010 Dodge Ram 3500, Ram 4500/5500, 2010-2011 Dodge Dakota, 2010-2014 Dodge Challenger, 2010-2015 Dodge Challenger, Chrysler 300, and 2010-2016 Jeep Wrangler vehicles.  Upon deployment of the driver's frontal air bag, excessive internal pressure may cause t",
+        "report_date": "15/01/2019",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V680000",
+        "component": "SEAT BELTS:FRONT:ANCHORAGE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2018 Jeep Wrangler right hand drive vehicles.  The driver's seat belt buckle mounting strap may fracture and separate from the seat frame.",
+        "report_date": "26/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V021000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2009-2013 Jeep Wrangler, Chrysler 300, Dodge Challenger and Dodge Charger vehicles, and 2009-2011 Dodge Dakota vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, ",
+        "report_date": "09/01/2018",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V288000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2016 Right Hand Drive Jeep Wrangler vehicles manufactured February 16, 2010, to May 2, 2016. The clockspring assembly may become contaminated with dust and cause the air bag circuit to fail.",
+        "report_date": "11/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13E010000",
+        "component": "EQUIPMENT",
+        "summary": "Quadratec, Inc. is recalling certain aftermarket accessory, driver-side, Ultimate Floor Liners part numbers 14254.0301 07, 14254.0301 08, 14254.0301Q, 14254.0302 07, 14254.0302 08, 14254.0302Q, 14254.0303 07, 14254.0303 08, 14254.0303Q, 14254.0309 07, 14254.0309 08, and 14254.0309Q sold from May 1, ",
+        "report_date": "25/02/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V631000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2013 Jeep Wrangler vehicles manufactured February 16, 2010, to July 19, 2013.  Corrosion in the exterior heated power mirror electrical connector may result in an electrical short.",
+        "report_date": "08/10/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V234000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST:HOSE, PIPING, AND CONNECTIONS",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2012-2013 Jeep Wrangler vehicles equipped with a 3.6L engine and an automatic transmission and manufactured January 23, 2011, through February 23, 2013.  The power steering line may contact and wear a hole in the transmission oil cooler l",
+        "report_date": "04/06/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:35:59.768Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

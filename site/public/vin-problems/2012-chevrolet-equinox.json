@@ -1,0 +1,176 @@
+{
+  "slug": "2012-chevrolet-equinox",
+  "year": 2012,
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 683,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 354,
+        "share_pct": 51.8,
+        "excerpts": [
+          "The abs braking and stability control light came on and has stayed on and took to mechanic shop and was told to repair would be 4000 .that's more than what the car is worth!changed motor oil many time",
+          "The vehicles oil needs to be checked every day to make sure the levels are not low. The vehicle has no visible oil leaks on the ground or inside, but the oil levels will drop. With that I have to cons",
+          "I had the excessive oil consumption recall repair done when it was recalled originally, however the problem has returned and from my research it appears that the piston rings were not the proper size "
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 121,
+        "share_pct": 17.7,
+        "excerpts": [
+          "Wipers do not work  Seems to not recognize when idling and starts to shake if stopped at a red light. Randomly will go through 2 quarts of oil in one day",
+          "My drivers side wiper blade stopped working while the passenger side is still working. I saw a recall for this linkage on the site but it’s not for my specific VIN. Additionally, my catalytic converte",
+          "Windshield wipers stopped working"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 84,
+        "share_pct": 12.3,
+        "excerpts": [
+          "Its iz using 2 or 3 courts of oil every 200 miles",
+          "2012 Chevrolet equinox burns/leaks oil which cause the serpentine belt to pop off & I had to replace it. Having problems with the MAT & IAT codes, just replaced the fuel pump, crankshaft sensor, camsh",
+          "The contact owns a 2012 Chevrolet Equinox. The contact stated that her husband discovered that the timing chain had failed. In addition, there was an excessive consumption of oil causing the contact t"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 70,
+        "share_pct": 10.2,
+        "excerpts": [
+          "See attached document for complaint.",
+          "Rear tailgate.  Borrowed vehicle from a friend for a trip.  When opening the tailgate with the external switch it opens all the way and immediately comes back down about 12 inches or so then it immedi",
+          "2012 Chevrolet equinox burns/leaks oil which cause the serpentine belt to pop off & I had to replace it. Having problems with the MAT & IAT codes, just replaced the fuel pump, crankshaft sensor, camsh"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 54,
+        "share_pct": 7.9,
+        "excerpts": [
+          "Wipers do not work  Seems to not recognize when idling and starts to shake if stopped at a red light. Randomly will go through 2 quarts of oil in one day",
+          "Recently got an oil change, and in a month I’ve had to “top-off” my oil. Constantly have to make sure I carry a few quarts of oil to make sure my oil is filled. One day, I forgot to check the oil and ",
+          "2012 Chevrolet equinox burns/leaks oil which cause the serpentine belt to pop off & I had to replace it. Having problems with the MAT & IAT codes, just replaced the fuel pump, crankshaft sensor, camsh"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 16,
+      "fires": 6,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2000,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 5
+      },
+      {
+        "year": 2012,
+        "count": 23
+      },
+      {
+        "year": 2013,
+        "count": 21
+      },
+      {
+        "year": 2014,
+        "count": 32
+      },
+      {
+        "year": 2015,
+        "count": 37
+      },
+      {
+        "year": 2016,
+        "count": 56
+      },
+      {
+        "year": 2017,
+        "count": 87
+      },
+      {
+        "year": 2018,
+        "count": 117
+      },
+      {
+        "year": 2019,
+        "count": 106
+      },
+      {
+        "year": 2020,
+        "count": 75
+      },
+      {
+        "year": 2021,
+        "count": 47
+      },
+      {
+        "year": 2022,
+        "count": 25
+      },
+      {
+        "year": 2023,
+        "count": 15
+      },
+      {
+        "year": 2024,
+        "count": 22
+      },
+      {
+        "year": 2025,
+        "count": 10
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "16V502000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016-2017 Buick Verano and 2016 Chevrolet Malibu as the electronic park lock lever may allow the ignition key to be removed without the transmission being in PARK.  Also, certain 2013 Buick Encore,  2011 Buick Regal, 2013-2014 Buick Verano, 201",
+        "report_date": "05/07/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V447000",
+        "component": "SEATS:FRONT ASSEMBLY:POWER ADJUST",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2011-2012 Buick LaCrosse, Regal and Chevrolet Camaro, as well as certain 2010-2012 Cadillac SRX, Chevrolet Equinox and GMC Terrain vehicles, equipped with power height adjustable driver and passenger seats.  In the affected vehicles, the bolt t",
+        "report_date": "23/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V511000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "GENERAL MOTORS (GM) IS RECALLING CERTAIN MODEL YEAR 2012 CHEVROLET EQUINOX  AND GMC TERRAIN VEHICLES, MANUFACTURED FROM JULY 18, 2011, THROUGH SEPTEMBER 6, 2011, FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NUMBER 138, \"TIRE PRESSURE MONITORING SYSTEM\" (TPMS).",
+        "report_date": "19/10/2011",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:33:45.870Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "2012-chevrolet-silverado",
+  "year": 2012,
+  "make": "Chevrolet",
+  "model": "Silverado",
+  "matched_as": {
+    "complaints": [
+      "SILVERADO 1500",
+      "SILVERADO 2500",
+      "SILVERADO 3500",
+      "SILVERADO 1500 HYBRID"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 774,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 190,
+        "share_pct": 24.5,
+        "excerpts": [
+          "My husband picked me up from work in [XXX] we went over a very icy bridge the truck spun around and hit the guard rail on the bridge the airbags popped and broke two of my ribs I went to the hospital ",
+          "The contact owns a 2012 Chevrolet Silverado 1500. The contact stated while her son was driving at low speeds during snow weather, the driver-side air bag deployed on its own without a crash or impact ",
+          "Airbag light came on indicating an issue.   Went to dealer and the codes that came up are B0030 (Passenger Instrument Panel Air Bag Deployment Loop Stage 2 Short to Ground) and B0413 (Temperature Cont"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 131,
+        "share_pct": 16.9,
+        "excerpts": [
+          "Rusted Frame and body",
+          "The contact owns a 2012 Chevrolet Silverado 1500. The contact stated that the frame of the vehicle was significantly rusted, and the contact did not feel safe driving the vehicle. The vehicle was take",
+          "I have been shopping for a truck for a little over a year now specifically a 2012 Chevy Silverado. To date everyone I found has frame and body rust but the frame rust is so bad that most aren’t safe t"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 85,
+        "share_pct": 11,
+        "excerpts": [
+          "The contact owns a 2012 Chevrolet Silverado 1500. The contact stated that while driving at an undisclosed speed and stopping at a stop light, the accelerator pedal was depressed, and the accelerator p",
+          "I HAVE A SEVERE ENGINE STALL AT SLIGHT ACCELERATION IT FEELS LIKE THE TIRES ARE GOING TO LOCK UP OR BREAK SOMETHING IN THE DRIVE TRAIN  DEALER SAYS MY COMPLAINT IS NORMAL",
+          "Engine power reduced warning keeps coming on. As well as stabilitrak and traction control turns off. Code p2138 pops up. I’ve spent over $1,000 trying to get this fixed because it is unsafe to drive i"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 70,
+        "share_pct": 9,
+        "excerpts": [
+          "Odometer Fraud. The contact owns a 2012 Chevrolet Silverado 1500. While the vehicle was being registered with the Department of Motor Vehicle, it was discovered that there was a mileage discrepancy. T",
+          "I got the code p2138 and I’ve had it inspected and throttle body and accelerator pedal assembly replaced. The problem is still not fixed. I lost power driving to work and heavy vibration and shaking. ",
+          "Engine power reduced warning keeps coming on. As well as stabilitrak and traction control turns off. Code p2138 pops up. I’ve spent over $1,000 trying to get this fixed because it is unsafe to drive i"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 70,
+        "share_pct": 9,
+        "excerpts": [
+          "I got the code p2138 and I’ve had it inspected and throttle body and accelerator pedal assembly replaced. The problem is still not fixed. I lost power driving to work and heavy vibration and shaking. ",
+          "While driving down interstate my transmission just went out down shifted almost causing someone to hit me from behind after some research I learned gmc vehicles have been having this problem for the l",
+          "The contact owns a 2012 Chevrolet Silverado 1500. The contact stated while driving 30 MPH, the transmission disengaged upon depression of the accelerator pedal without warning. The vehicle then went i"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 52,
+      "fires": 18,
+      "injuries": 44,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 64
+      },
+      {
+        "year": 2013,
+        "count": 53
+      },
+      {
+        "year": 2014,
+        "count": 70
+      },
+      {
+        "year": 2015,
+        "count": 95
+      },
+      {
+        "year": 2016,
+        "count": 120
+      },
+      {
+        "year": 2017,
+        "count": 53
+      },
+      {
+        "year": 2018,
+        "count": 43
+      },
+      {
+        "year": 2019,
+        "count": 39
+      },
+      {
+        "year": 2020,
+        "count": 52
+      },
+      {
+        "year": 2021,
+        "count": 63
+      },
+      {
+        "year": 2022,
+        "count": 30
+      },
+      {
+        "year": 2023,
+        "count": 39
+      },
+      {
+        "year": 2024,
+        "count": 33
+      },
+      {
+        "year": 2025,
+        "count": 15
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "14V827000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2011-2012 Cadillac Escalade, Escalade ESV, Escalade EXT, Chevrolet Avalanche, Silverado HD, Silverado LD, Suburban, Tahoe, GMC Sierra LD, Sierra HD, Yukon, and Yukon XL vehicles.  In the affected vehicles, the ignition lock actuator may bind, m",
+        "report_date": "30/12/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V615000",
+        "component": "FUEL SYSTEM, DIESEL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2012-2013 Chevrolet Silverado HD and GMC Sierra HD vehicles, equipped with 6.6L diesel engines and dual fuel tanks.  In the affected vehicles, the transfer pump which moves fuel from the rear tank to the front tank could malfunction and cause t",
+        "report_date": "11/12/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:33:02.695Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

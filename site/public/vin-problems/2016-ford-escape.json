@@ -1,0 +1,164 @@
+{
+  "slug": "2016-ford-escape",
+  "year": 2016,
+  "make": "Ford",
+  "model": "Escape",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1102,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 319,
+        "share_pct": 28.9,
+        "excerpts": [
+          "Statement in uploaded files",
+          "The contact owns a 2016 Ford Escape. The contact stated that while driving approximately 25 MPH, the vehicle sputtered and intermittently lost motive power. The message \"Transmission Fault\" was displa",
+          "I was driving home on se stark to go to 60 uh then turn into burnside I was going 30 Mph per speed limit then all the sudden it jerked and slowed down very unsafe when the transmission just went slow "
+        ]
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "complaints": 198,
+        "share_pct": 18,
+        "excerpts": [
+          "The contact owns a 2016 Ford Escape. The contact received notification of NHTSA Campaign Number: 25V695000 (Back Over Prevention). The contact stated that while in reverse(R) on several occasions, the",
+          "The contact owns a 2016 Ford Escape. The contact received notice of NHTSA Campaign Number: 25V695000 (Back Over Prevention). The contact stated that while in reverse(R) on several occasions, the rear-",
+          "I am submitting a formal vehicle-safety complaint regarding my 2016 Ford Escape. My vehicle is included in NHTSA Safety Recall 25V695 / Ford Campaign 25SA9 concerning a rearview camera that may displa"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 197,
+        "share_pct": 17.9,
+        "excerpts": [
+          "It appears the engine has gone bad.  Water leaking into cylinders.  Car is in shop now.  Friendly Ford in Arkansas City, Ks.  They may have contacted you.",
+          "First the transmission failed on the freeway and was almost squished between a semi and car. I pay thousands to get it fixed and now the engine light is on and the transmission fluid and the coolant a",
+          "Statement in uploaded files"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 91,
+        "share_pct": 8.3,
+        "excerpts": [
+          "The contact owns a 2016 Ford Escape. The contact received notification of NHTSA Campaign Number: 25V695000 (Back Over Prevention); however, the part to do the recall repair was not yet available. The ",
+          "I am filing this complaint regarding a serious safety issue with the rearview camera on my Ford vehicle. My rearview/backup camera does not function properly when I place the vehicle in reverse. The d",
+          "My 2016 Ford Escape is subject to safety recall 25SA9 / NHTSA 25V695 involving the rearview camera. Ford's recall states that the rearview camera may display a blank or distorted image in reverse, or "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 71,
+        "share_pct": 6.4,
+        "excerpts": [
+          "The contact owns a 2016 Ford Escape. The contact stated that while operating the vehicle, the message \"Power Steering Assist\" was displayed. The vehicle was restarted, and the message was no longer di",
+          "While driving the car, the electronic power assist steering stopped working, making it extremely difficult to steer and drove straight into a curb. Was able to slowly back the car up then very careful",
+          "Car started with loss of steering fault, then power steering completely failed and car was not driveable."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 36,
+      "fires": 10,
+      "injuries": 19,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 3
+      },
+      {
+        "year": 2016,
+        "count": 56
+      },
+      {
+        "year": 2017,
+        "count": 35
+      },
+      {
+        "year": 2018,
+        "count": 64
+      },
+      {
+        "year": 2019,
+        "count": 94
+      },
+      {
+        "year": 2020,
+        "count": 75
+      },
+      {
+        "year": 2021,
+        "count": 67
+      },
+      {
+        "year": 2022,
+        "count": 160
+      },
+      {
+        "year": 2023,
+        "count": 123
+      },
+      {
+        "year": 2024,
+        "count": 140
+      },
+      {
+        "year": 2025,
+        "count": 188
+      },
+      {
+        "year": 2026,
+        "count": 96
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "17V398000",
+        "component": "AIR BAGS:KNEE BOLSTER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016 Ford Escape vehicles.  The driver's knee airbag modules installed in these vehicles were produced without the inflator gas generant material, and, as a result, the air bags may not inflate properly in the event of a crash.  As such, these vehicles ",
+        "report_date": "26/06/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V413000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2019 Escape, 2013-2018 C-Max, 2013-2016 Fusion, 2013-2021 Transit Connect, and  2015-2018 Edge vehicles.  The bushing that attaches the shifter cable to the transmission may degrade or detach.",
+        "report_date": "10/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V695000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2019 Flex, 2015 Explorer, Lincoln MKT,  Lincoln MKZ, 2015-2016 C-Max, Escape, Taurus, 2016 Fusion, 2018-2019 Taurus, 2019 Lincoln MKT, Fiesta, and 2020 Mustang vehicles.  The rearview camera may display a distorted,  intermittent, or blank image wh",
+        "report_date": "13/10/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V011000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2018 Focus, 2013-2019 Escape, and 2015-2016 MKC vehicles equipped with a 2.0L engine. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+        "report_date": "15/01/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:21.056Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

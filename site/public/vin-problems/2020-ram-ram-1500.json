@@ -1,0 +1,232 @@
+{
+  "slug": "2020-ram-ram-1500",
+  "year": 2020,
+  "make": "Ram",
+  "model": "Ram 1500",
+  "matched_as": {
+    "complaints": [
+      "1500"
+    ],
+    "recalls": [
+      "1500"
+    ]
+  },
+  "failures": {
+    "total_complaints": 622,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 159,
+        "share_pct": 25.6,
+        "excerpts": [
+          "Twice in the past two years, the eTorque system had failed will driving on the highest. When the unit fails, you lose all power asks if you're battery is low, you can pose the ability to even steer. T",
+          "MGU Failed, 48v code P0DAF had early signs of premature failure. when on the highway, vehicle shut off completely, no power what so ever. Couldn't steer correctly and vehicle was going highway speeds ",
+          "Loud whining sound coming from engine. The dealership confirmed a MGU Alternator failure."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 154,
+        "share_pct": 24.8,
+        "excerpts": [
+          "Twice in the past two years, the eTorque system had failed will driving on the highest. When the unit fails, you lose all power asks if you're battery is low, you can pose the ability to even steer. T",
+          "I am having DEF related issues with my 2020 Ram 1500 ecodiesel that will ultimately cause the vehicle to no longer operate. Ram has an extended warranty for my exact problem but I am being told that m",
+          "While driving down the highway the vehicle radiator fan kicked on high (could hear it from the cab) then my electronic power steering went out seconds after receiving the “Service Electronic Power Ste"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 62,
+        "share_pct": 10,
+        "excerpts": [
+          "MGU Failed, 48v code P0DAF had early signs of premature failure. when on the highway, vehicle shut off completely, no power what so ever. Couldn't steer correctly and vehicle was going highway speeds ",
+          "I PCSd from Springfield, MO to Fort Bliss Texas. I bought the truck [XXX]. I make it to TX. Driving the first Saturday in TX on [XXX] it just shuts down and put me in a very scary situation. I was stu",
+          "At 60mph the vehie suddenly did a 180 and went backwards down the road.  Fortunately it was a straight stretch and no oncoming traffic.  Rear axle sized up, drive shaft shrown, and rear shaft froze re"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 59,
+        "share_pct": 9.5,
+        "excerpts": [
+          "The power steering goes out at random times after the steering warning light comes on. This usually happens after the secondary cooling system kicks in. I have had it looked at by one mechanic who thi",
+          "I was attempting to turn around in my driveway when the steering locked up and I could not control the steering.  If I had been driving on the road instead of in my driveway I could have crashed into ",
+          "I was attempting to turn around in my driveway to go someplace when the steering locked up and I could not control the steering.  It stopped working. If I had been driving on the road, instead of driv"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 52,
+        "share_pct": 8.4,
+        "excerpts": [
+          "A crack developed in the plastic frame of the rear sliding backlite window, allowing water to enter the vehicle cabin from the rear glass area. Water intrusion has been observed on the rear seating su",
+          "The driver's side windshield wiper is not working because the wiper arm attachment (at the spindle) is stripped. The motor spindle rotates but the wiper does not wipe the windshield. Visibility during",
+          "In 2022, I had the dealer replace the driver's visor because it broke and was hanging down by its electrical connection. It was obstructing the drivers forward view. This repair was covered under the "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 24,
+      "fires": 6,
+      "injuries": 14,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 6
+      },
+      {
+        "year": 2020,
+        "count": 69
+      },
+      {
+        "year": 2021,
+        "count": 62
+      },
+      {
+        "year": 2022,
+        "count": 75
+      },
+      {
+        "year": 2023,
+        "count": 115
+      },
+      {
+        "year": 2024,
+        "count": 102
+      },
+      {
+        "year": 2025,
+        "count": 132
+      },
+      {
+        "year": 2026,
+        "count": 60
+      }
+    ]
+  },
+  "recalls": {
+    "count": 14,
+    "recalls": [
+      {
+        "campaign_number": "20V622000",
+        "component": "VISIBILITY:REARVIEW MIRRORS/DEVICES:EXTERIOR",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2020 Ram 2500 and 1500 vehicles.  The driver side mirror glass can detach from the backing plate and no longer provide a reflective surface.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) numbe",
+        "report_date": "08/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V580000",
+        "component": "SEAT BELTS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Jeep Wrangler and Ram 2500, 2019-2020 Ram 1500 and 2020 Jeep Gladiator vehicles.  In the event of a crash, a front seat belt retractor may not properly slow the occupant's forward movement after locking.",
+        "report_date": "24/09/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V191000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2020 Jeep Gladiator and Jeep Cherokee, 2019-2020 Ram 1500 Pickup, Ram 2500 Pickup, Ram 3500 Pickup, Chrysler Pacifica, Dodge Durango, Jeep Grand Cherokee, Jeep Wrangler, and Jeep Renegade and 2019 Dodge Challenger vehicles equipped with 8.4\" or 12\" radio di",
+        "report_date": "10/09/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V407000",
+        "component": "AIR BAGS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019-2020 Ram 1500 vehicles.  The flash memory of the Occupant Restraint Controller (ORC) may become corrupted, disabling the vehicle's air bags and seat belt pretensioners.",
+        "report_date": "31/05/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V208000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:LINKAGES",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019-2020 Ram 1500, 1500 Classic and Jeep Compass vehicles.  The windshield wiper arm or arms may loosen, possibly causing the wipers to not operate properly and reduce the driver's visibility in certain weather conditions.",
+        "report_date": "09/04/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V632000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN:INFLATOR",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2015-2020 Ram 1500 Classic, 2015-2016 Ram 3500, and Ram 2500 vehicles, and 2016 Ram 3500 Cab Chassis with a gross vehicle weight rating less than 10,000 lbs.  The side air bag inflatable curtain (SABIC) inflator end cap may detach from the inflator, or the",
+        "report_date": "12/08/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V374000",
+        "component": "AIR BAGS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2020 Ram Promaster vans and 1500 pickups.  The affected vehicles may have an improperly crimped diffuser in the side curtain airbag which may result in the diffuser detaching from the inflator in the event of an air bag deployment.",
+        "report_date": "25/06/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V513000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019-2020 Ram 1500 vehicles equipped with adjustable pedals.  In certain accelerator pedal positions, the floormats may prevent the pedal from returning to the normal resting (idle) position.",
+        "report_date": "27/08/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V638000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2021 Jeep Wrangler, RAM 1500 and 2021 Jeep Gladiator vehicles.  A radio software error may prevent the rearview image from displaying.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 111, \"",
+        "report_date": "25/08/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V767000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2022 Jeep Wrangler, Ram 1500, and 2021-2022 Jeep Gladiator vehicles equipped with 3.0L diesel engines.  The high pressure fuel pump (HPFP) may fail, causing an engine stall.",
+        "report_date": "13/10/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V904000",
+        "component": "STRUCTURE:BODY:TAILGATE:HINGE AND ATTACHMENTS",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2019-2022 Ram 1500, 2500, and 3500 pickup trucks.  The tailgate may not latch properly due to misaligned tailgate strikers, which could result in the tailgate opening while driving.",
+        "report_date": "08/12/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V754000",
+        "component": "VISIBILITY:REARVIEW MIRRORS/DEVICES",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2023 Ram 1500 Classic vehicles equipped with heated trailer tow rearview mirrors.  The mirror glass may detach from the driver's side heated trailer tow rearview mirror.  As such these vehicles fail to comply with the requirements of Federal Motor Veh",
+        "report_date": "10/10/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V298000",
+        "component": "AIR BAGS",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2019-2024 Ram 1500 vehicles.  The driver's side air bag may not be connected properly, which can cause the air bag not to deploy as intended.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 208,",
+        "report_date": "08/05/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V495000",
+        "component": "SEAT BELTS:REAR/OTHER:ANCHORAGE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2019-2026 Ram 1500 vehicles. The second-row seat belt buckle anchors may have been improperly installed. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 210, \"Seat Belt Assembly Anchorages.\"",
+        "report_date": "30/07/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:19.792Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

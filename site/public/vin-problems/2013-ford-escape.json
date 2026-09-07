@@ -1,0 +1,292 @@
+{
+  "slug": "2013-ford-escape",
+  "year": 2013,
+  "make": "Ford",
+  "model": "Escape",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 2749,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 1267,
+        "share_pct": 46.1,
+        "excerpts": [
+          "The contact's son owns a 2013 Ford Escape. The contact stated that while her son was driving 30 MPH, the vehicle stalled with an unknown message displayed on the instrument panel. The contact's son pu",
+          "Car caught fire in engine, near transmission",
+          "Vehicle: 2013 Ford Escape SEL (1.6L EcoBoost) Approximate current Mileage: 134,646 miles System: Engine / Engine Cooling / Powertrain  Incident Description:  I am filing this complaint to report a sev"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 401,
+        "share_pct": 14.6,
+        "excerpts": [
+          "The contact's son owns a 2013 Ford Escape. The contact stated that while her son was driving 30 MPH, the vehicle stalled with an unknown message displayed on the instrument panel. The contact's son pu",
+          "The shifter wouldn't go into park or start in park had to put in neutral to start it, was at a gas pump and the car started moving on its own had to jump in and pull the emergency brake to stop it and",
+          "Transmission stopped working. It completely disengaged and i was unable to move the vehicle in the middle of an intersection.  This created a potentially fatal breakdown."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 340,
+        "share_pct": 12.4,
+        "excerpts": [
+          "I took my car in for a safety recall for the bushing on the transmission.  A short time after getting it back my cabin filled with smoke when I used the remote start. I had never had this problem unti",
+          "The contact owns a 2013 Ford Escape. The contact stated that while driving at an undisclosed speed, the passenger seated in the front passenger's seat became aware of smoke inside the vehicle. No warn",
+          "Im having the same issues as the current recall and have been having nonstop issues with my 2013 ford escape that dealerships/mechanics can't seem to figure out or won't figure out, but it says that m"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 302,
+        "share_pct": 11,
+        "excerpts": [
+          "The contact owns a 2013 Ford Escape. The contact stated that on three separate occasions, the steering wheel became firm while driving. There was no warning light illuminated. Due to the failure, exce",
+          "Failed part: Electronic Steering Gear Assembly. Starting January 15th 2026 this car began having steering problems, since then it has occurred 2 more times. I immediately determined this car was undri",
+          "Steering wheel locked up hard to turn wheel Consuming(burning) way more gas than normally would"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 247,
+        "share_pct": 9,
+        "excerpts": [
+          "This Ford Escape has had numerous issues with coolant leaks leading to total engine failure on October 2025. The vehicle is unrepairable with the turbo being damaged and is no longer on the road",
+          "The coolant leaks into the engine. I had the coolant container replaced as well as the coolant bypass valve.Coolant still leaks into the engine and container has to be filled every day. It’s unsafe to",
+          "This was a recall earlier, twice, and it was supposedly fixed but the fuel vacuum line to the gas tank is leaking and giving off gasoline odors in the passenger area.  Also another recall that was sup"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 50,
+      "fires": 89,
+      "injuries": 55,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2003,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 2
+      },
+      {
+        "year": 2012,
+        "count": 43
+      },
+      {
+        "year": 2013,
+        "count": 118
+      },
+      {
+        "year": 2014,
+        "count": 155
+      },
+      {
+        "year": 2015,
+        "count": 128
+      },
+      {
+        "year": 2016,
+        "count": 192
+      },
+      {
+        "year": 2017,
+        "count": 246
+      },
+      {
+        "year": 2018,
+        "count": 323
+      },
+      {
+        "year": 2019,
+        "count": 388
+      },
+      {
+        "year": 2020,
+        "count": 277
+      },
+      {
+        "year": 2021,
+        "count": 222
+      },
+      {
+        "year": 2022,
+        "count": 237
+      },
+      {
+        "year": 2023,
+        "count": 173
+      },
+      {
+        "year": 2024,
+        "count": 149
+      },
+      {
+        "year": 2025,
+        "count": 73
+      },
+      {
+        "year": 2026,
+        "count": 22
+      }
+    ]
+  },
+  "recalls": {
+    "count": 18,
+    "recalls": [
+      {
+        "campaign_number": "18V471000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:LEVER AND LINKAGE:FLOOR SHIFT",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2014 Ford Escape, and 2013-2016 Ford Fusion vehicles, equipped with six-speed automatic transmissions.  The bushing that attaches the transmission shifter cable to the transmission may degrade over time and cause the bushing to detach from the tran",
+        "report_date": "16/07/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V239000",
+        "component": "STRUCTURE:BODY:DOOR",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2014 Escape vehicles manufactured October 5, 2011, through April 10, 2014.  Due to an assembly misalignment between the exterior door handle and the door outer panel, the affected vehicles have doors that may be difficult to close or may",
+        "report_date": "07/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V813000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013 Escape vehicles manufactured January 11, 2012, to April 1, 2013, and 2013-2014 Focus ST vehicles manufactured May 03, 2012, to October 14, 2013.  Insufficient compression in the engine wiring harness splices to the Manifold Absolute Pres",
+        "report_date": "02/12/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V643000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2012-2015 Ford Focus, 2013-2015 Ford Escape and Ford C-MAX, 2015 Lincoln MKC and Ford Mustang, and 2014-2016 Ford Transit Connect vehicles.  A component within the door latches may break, preventing the doors from latching and/or leading the ",
+        "report_date": "06/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V597000",
+        "component": "AIR BAGS",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2014 Ford C-Max vehicles manufactured January 19, 2012, to November 21, 2013; Ford Fusion vehicles manufactured February 3, 2012, to August 24, 2013; Ford Escape vehicles manufactured October 5, 2011, to November 1, 2013; and Lincoln MKZ",
+        "report_date": "26/09/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V237000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2014 C-MAX, and Escape vehicles.  In the affected vehicles, the restraint control module (RCM) may have errors in the programming software which may result in a delayed deployment of the side-curtain rollover air bag.",
+        "report_date": "07/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V495000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2014 Escape vehicles manufactured October 5, 2011, to April 1, 2013, and equipped with 2.0 liter engines and Focus ST vehicles manufactured February 14, 2012, to October 14, 2013, and equipped with 2.0 liter engines.  Insufficient compre",
+        "report_date": "11/08/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V164000",
+        "component": "SEATS:FRONT ASSEMBLY:RECLINER",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2014 Ford Fusion and Lincoln MKZ vehicles manufactured August 15, 2012, through September 10, 2013, 2013-2014 Ford Escape vehicles manufactured June 5, 2012, through August 12, 2013, and 2013-2014 Ford C-Max vehicles manufactured from Ju",
+        "report_date": "02/04/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V551000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "This is an update to a recently announced recall.  Ford is recalling certain model year 2013 Escape vehicles manufactured from October 5, 2011, through November 26, 2012, equipped with 1.6L engines, as well as certain model year 2013 Fusion vehicles manufactured from February 3, 2012, through Novemb",
+        "report_date": "03/12/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V319000",
+        "component": "SERVICE BRAKES, HYDRAULIC:PEDALS AND LINKAGES",
+        "summary": "FORD IS RECALLING CERTAIN MODEL YEAR 2013 ESCAPE VEHICLES MANUFACTURED FROM MARCH 8, 2012 THROUGH JUNE 7, 2012.  DUE TO MIS-POSITIONED CARPET PADDING THE CENTER CONSOLE TRIM PANEL MAY BE PUSHED OUTBOARD OF THE INTENDED POSITION, REDUCING CLEARANCE RELATIVE TO THE PEDAL PACKAGE.",
+        "report_date": "06/07/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V584000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013 Escape vehicles manufactured from October 5, 2011, through July 11, 2012, and equipped with a 1.6L engine subject to prior safety recall NHTSA 12V-336.  In some cases, the engine compartment fuel line may have been installed incorrectly ",
+        "report_date": "25/11/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V583000",
+        "component": "ENGINE",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013 Escape vehicles manufactured October 5, 2011, through June 2, 2013 and equipped with 1.6L engines.  The affected vehicles may experience localized overheating of the engine cylinder head which may cause cracks that could allow oil to lea",
+        "report_date": "25/11/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V085000",
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "summary": "Ford is recalling certain model year 2013 Focus and C-Max vehicles built from November 16, 2012, through November 21, 2012; and model year 2013 Escape vehicles manufactured from November 14, 2012, through November 21, 2012.  The left rear door child lock was built incorrectly.  As a result, the chil",
+        "report_date": "07/03/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V336000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Ford is recalling certain model year 2013 Escape vehicles manufactured from October 5, 2011, through July 11, 2012, and equipped with a 1.6L engine.  These vehicles have an engine compartment fuel line which may split, resulting in a leak.",
+        "report_date": "18/07/2012",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V431000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "Ford is recalling certain model year 2013 Escape vehicles manufactured from October 5, 2011, through August 31, 2012, equipped with 1.6L engines.  The cylinder head cup plug (freeze plug) may become dislodged resulting in significant loss of engine coolant.",
+        "report_date": "04/09/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V331000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2014 Fiesta, 2013-2014 Fusion, 2015 Mustang, 2013-2015 Escape and C-Max, 2012-2015 Focus, 2014-2016 Transit Connect, 2013-2014 Lincoln MKZ, and 2015 MKC vehicles.  These vehicles were previously recalled and repaired under recalls 15V-246, 16V-643 ",
+        "report_date": "08/06/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V413000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2019 Escape, 2013-2018 C-Max, 2013-2016 Fusion, 2013-2021 Transit Connect, and  2015-2018 Edge vehicles.  The bushing that attaches the shifter cable to the transmission may degrade or detach.",
+        "report_date": "10/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V011000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2018 Focus, 2013-2019 Escape, and 2015-2016 MKC vehicles equipped with a 2.0L engine. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+        "report_date": "15/01/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:35:37.391Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

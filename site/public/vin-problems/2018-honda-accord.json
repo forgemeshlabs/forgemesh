@@ -1,0 +1,172 @@
+{
+  "slug": "2018-honda-accord",
+  "year": 2018,
+  "make": "Honda",
+  "model": "Accord",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1864,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 544,
+        "share_pct": 29.2,
+        "excerpts": [
+          "I own a 2018 Honda Accord Sport 2.0T that has been consistently maintained through authorized Honda dealerships. On July 30, 2026, at 135,968 miles, I took my vehicle to Nalley Honda for a Blind Spot ",
+          "Car went into limp mode and was struggling to accelerate, went and got it diagnosed and was notified that my spark plugs needed to be replaced. Car began running fine but a few months went by and the ",
+          "There is a hole in the engine block and it happed while I was driving, people could’ve been hurt on the road because of this mechanical failure. Vehicle has only been inspected by a private mechanic w"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 335,
+        "share_pct": 18,
+        "excerpts": [
+          "On August 29th 2026 at 1:28PM (13:28) 148,320 mi. on odometer During interstate driving and topping the Sunshine Skyway Bridge on Interstate 275 Northbound (27.617863, -82.653639)  the vehicle detecte",
+          "I purchased my 2018 Honda Accord Sport from CarMax on January 16, 2026, and I have had several serious problems with the vehicle since purchasing it. Every warning light on the dashboard has come on, ",
+          "Issue 1: Faulty Collision Mitigation Braking System & Subsequent Crash  Incident Details: In July of  2025, my vehicle’s automatic braking warning lights randomly activated and triggered an unprompted"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 300,
+        "share_pct": 16.1,
+        "excerpts": [
+          "I purchased my 2018 Honda Accord Sport from CarMax on January 16, 2026, and I have had several serious problems with the vehicle since purchasing it. Every warning light on the dashboard has come on, ",
+          "In September 2025, all dashboard lights came on while driving down the road. I immediately pulled over and turned the car off. When turning the car back on, all lights remained on and I drove to the n",
+          "A lot of warning sides are on the dash , has been coming on every since the mileage hit 100k"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 286,
+        "share_pct": 15.3,
+        "excerpts": [
+          "Car went into limp mode and was struggling to accelerate, went and got it diagnosed and was notified that my spark plugs needed to be replaced. Car began running fine but a few months went by and the ",
+          "turbo and the head gasket",
+          "The contact owns a 2018 Honda Accord. The contact stated that after stopping the vehicle, the check engine, stabili-trak, steering, and the Forward Collision Avoidance warning lights were illuminated,"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 258,
+        "share_pct": 13.8,
+        "excerpts": [
+          "On August 29th 2026 at 1:28PM (13:28) 148,320 mi. on odometer During interstate driving and topping the Sunshine Skyway Bridge on Interstate 275 Northbound (27.617863, -82.653639)  the vehicle detecte",
+          "The car dashboard Is lit up and loose power out of nowhere when driving .",
+          "Doors lock actuators problem the break  so fast , Fuel  injector  problem  head gasket, Break  warning  sistem problems"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 35,
+      "fires": 4,
+      "injuries": 39,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2017,
+        "count": 10
+      },
+      {
+        "year": 2018,
+        "count": 151
+      },
+      {
+        "year": 2019,
+        "count": 171
+      },
+      {
+        "year": 2020,
+        "count": 149
+      },
+      {
+        "year": 2021,
+        "count": 147
+      },
+      {
+        "year": 2022,
+        "count": 172
+      },
+      {
+        "year": 2023,
+        "count": 222
+      },
+      {
+        "year": 2024,
+        "count": 316
+      },
+      {
+        "year": 2025,
+        "count": 316
+      },
+      {
+        "year": 2026,
+        "count": 208
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "20V314000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2019 Acura NSX, 2019 Acura RDX, RLX and RLX Sport Hybrid, 2018-2019 Honda Accord, Civic Hatchback, Civic Type R and HR-V, 2019-2020 Insight and 2019 Fit vehicles.  The low-pressure fuel pump inside the fuel tank may fail.",
+        "report_date": "28/05/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V771000",
+        "component": "ELECTRICAL SYSTEM:BODY CONTROL MODULE:SOFTWARE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2020 Accord Sedan, Accord Hybrid, and 2019-2020 Insight vehicles.  A software error may cause intermittent or continuous disruptions in communication between the Body Control Module (BCM) and other components.  This may result in malfunction",
+        "report_date": "10/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V629000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018 Honda Accord and 2019 Honda Insight vehicles.  In certain scenarios, the back-up camera center display may not function properly.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) ",
+        "report_date": "13/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V158000",
+        "component": "SEAT BELTS:FRONT:BUCKLE ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017-2020 CR-V, 2018-2019 Accord and Accord Hybrid, 2018-2020 Odyssey, 2019 Insight, and 2019-2020 Acura RDX vehicles.  A manufacturing issue with the front seat belts may cause the seat belt buckle channel to interfere with the release button, p",
+        "report_date": "09/03/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:41:00.788Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

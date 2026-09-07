@@ -1,0 +1,168 @@
+{
+  "slug": "2014-toyota-tacoma",
+  "year": 2014,
+  "make": "Toyota",
+  "model": "Tacoma",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 93,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 20,
+        "share_pct": 21.5,
+        "excerpts": [
+          "The Clear coat is failing on the roof and the hood causing the paint to fade. Toyota knows about the problem and fails to do anything to rectify the problem. Thousands of customers are being affected ",
+          "My 2014 Toyota Tacoma is experiencing paint chipping in large sections on multiple sections of the vehicle.  Primarily this can be seen on the passenger side doors near the windows.  I believe there w",
+          "Body is rusted"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 17,
+        "share_pct": 18.3,
+        "excerpts": [
+          "Brake master cylinder is leaking into the cab, truck has 80k miles on it. OEM replacement part only available through Toyota dealer (Part number: 47050-04092) is INSANE at $1500. No warning indicators",
+          "THIS IS THE 2ND TIME MY TOYOTA TACOMA HAS BEEN DAMAGED BY RODENTS:   THE 1ST TIME (12/15/2015), THE ENGINE WAS RUNNING ROUGH, THE ENGINE AND TRAC OFF WARNING LIGHTS  WERE ON,  AND THE DAMAGE WAS ABOUT",
+          "I HAVE MADE REPLACEMENT ON THE FRONT BRAKES, I DONE THIS TWICE THIS YEAS 2020.  AND IT CONTINUES TO DO THE SAME , THE BRAKE PETAL KEEPS MOVING DOWN AS I KEEP PRESSURE ON IT. IT WORKS FINE FOR THE 1ST "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 13,
+        "share_pct": 14,
+        "excerpts": [
+          "While driving the vehicle there is a groaning sound coming from the front end of the Tacoma from the front differential. There is a TSB from Toyota, but they only cover it under warranty and are not t",
+          "In the past two years my Tacoma has had to have the air switching valve replaced twice. Vehicle going into limp mode is not safe. Dealer tells me I need to drive it more than 5K miles a year. So I nee",
+          "REAR DIFFERENTIAL IS SHOWING SIGNS OF LEAKAGE AND TOYOTA IS REFUSING TO COVER UNDER POWERTRAIN WARRANTY. PHOTOS ARE ATTACHED. DIFFERENTIAL CLEARLY SHOWS SIGNS OF OIL LEAKAGE WHICH CAN LEAD TO SAFETY C"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 8,
+        "share_pct": 8.6,
+        "excerpts": [
+          "When you are driving down the road and get in a curve the wheels lock up like you are on ice or hydroplaining  and have no control of vehicle.  only happens in curves and i know of multiple trucks doi",
+          "Horn will honk when steering wheel was turned to the right or left but could not get it to honk when the steering wheel was in the straight or normal position. Took to local Toyota Dealer and it was f",
+          "I took my vehicle in to the dealer where I always have it serviced, and asked them to do a front end alignment, since it pulls slightly and I noticed a little uneven tire wear. The mechanic said the f"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 8,
+        "share_pct": 8.6,
+        "excerpts": [
+          "The contact owned a 2014 Toyota Tacoma. The contact stated that while driving at 52 MPH, the vehicle drove over a pothole, causing the driver’s and passenger’s side curtain air bags to erroneously dep",
+          "THIS IS THE 2ND TIME MY TOYOTA TACOMA HAS BEEN DAMAGED BY RODENTS:   THE 1ST TIME (12/15/2015), THE ENGINE WAS RUNNING ROUGH, THE ENGINE AND TRAC OFF WARNING LIGHTS  WERE ON,  AND THE DAMAGE WAS ABOUT",
+          "THE AIR BAG DIDN'T REACT IN A MOTION CRASHING."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 1,
+      "injuries": 8,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 3
+      },
+      {
+        "year": 2014,
+        "count": 15
+      },
+      {
+        "year": 2015,
+        "count": 12
+      },
+      {
+        "year": 2016,
+        "count": 6
+      },
+      {
+        "year": 2017,
+        "count": 6
+      },
+      {
+        "year": 2018,
+        "count": 6
+      },
+      {
+        "year": 2019,
+        "count": 10
+      },
+      {
+        "year": 2020,
+        "count": 6
+      },
+      {
+        "year": 2021,
+        "count": 9
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "17V425000",
+        "component": "STRUCTURE:BODY:HOOD:HINGE AND ATTACHMENTS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2011-2016 Toyota Tacoma and 4Runner vehicles equipped with accessory hood scoops installed by SET or SET dealers.  The adhesive attaching the hood scoop may weaken, allowing the hood scoop to detach from the vehicle.",
+        "report_date": "03/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V828000",
+        "component": "EQUIPMENT",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2014-2015 Toyota 4Runner, Tacoma, FJ Cruiser, Land Cruiser, RAV4, Scion FRS, and XB vehicles.  The affected vehicles may have accessories installed by SET, such as running boards or other items, that were incorrectly installed.",
+        "report_date": "30/12/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V475000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2008-2014 FJ Cruiser and Tacoma vehicles equipped with accessory wheels and tires installed by Toyota or dealers prior to the vehicle's first sale.  The affected vehicles may list incorrect spare tire size and/or cold ",
+        "report_date": "04/08/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V557000",
+        "component": "ENGINE",
+        "summary": "Toyota Motor Engineering & Manufacturing North America (Toyota) is recalling certain model year 2013-2014 Tacoma vehicles manufactured July 1, 2013, through October 11, 2013.  The engines of the affected vehicles contain valve springs that may break over time.",
+        "report_date": "07/11/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:36:49.014Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

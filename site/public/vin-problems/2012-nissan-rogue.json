@@ -1,0 +1,160 @@
+{
+  "slug": "2012-nissan-rogue",
+  "year": 2012,
+  "make": "Nissan",
+  "model": "Rogue",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 317,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 136,
+        "share_pct": 42.9,
+        "excerpts": [
+          "August 1, 2025 I was trying to get to [XXX]  from [XXX]  to see my mother, before Kansas City, Mo.  Before getting to KC while cruise was engaged car RPM’s began amping but car did not speed up.  I pu",
+          "My vehicle is making this rattling noise so I took it to the dealership and they said I need a subframe. Be advised this vehicle has never been in a accident so why is the subframe needed and I only h",
+          "The rear transmission area makes a loud grinding noise on turns under 10 miles an hour. Needs a rear electronic coupler. Happening on many years of this car model"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 43,
+        "share_pct": 13.6,
+        "excerpts": [
+          "August 1, 2025 I was trying to get to [XXX]  from [XXX]  to see my mother, before Kansas City, Mo.  Before getting to KC while cruise was engaged car RPM’s began amping but car did not speed up.  I pu",
+          "That my engine stalled while I’m driving. And I almost crashed another car.",
+          "I have a Nissan Rogue 2012...I get a P0101 error code a lot...doing a quick search on the internet, seems like I'm not the only one."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 41,
+        "share_pct": 12.9,
+        "excerpts": [
+          "The doors unlock or lock on their own.  Some locks then don’t lock or unlock.  Sometimes they have to be unlocked manually.  The trunk does not unlock at all. I can’t open the trunk.",
+          "2008-13 Nissan Rogue/2014 Rogue Select (S35) Driver’s Kick Panel Harness Connector Inspection Voluntary Safety Recall Campaign Reference: R1421  I spoke with Nissan and the recall does not cover my VI",
+          "I was looking at the fact that this car has 2 recalls for problems that I never bothered to check, but it's better to have everything in order. everything is in order."
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 41,
+        "share_pct": 12.9,
+        "excerpts": [
+          "August 1, 2025 I was trying to get to [XXX]  from [XXX]  to see my mother, before Kansas City, Mo.  Before getting to KC while cruise was engaged car RPM’s began amping but car did not speed up.  I pu",
+          "1/2024 car loses power going from 70mph to about 40mph - dealership adjusted transmission fluid, 12/2024 started having power issues again dropping from 40mph to 20mph. Dealership said they couldn't d",
+          "The main and most dangerous issue is first hearing high pitch whining/winding sound while driving as the rpm's start to spike and stay high resulting & causing vehicle to lose power and speed for no a"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 41,
+        "share_pct": 12.9,
+        "excerpts": [
+          "Passenger side air bag inoperable,have been told it was sensor in seat",
+          "Air bags are common problem. It can be googled. Ours stopped working. When braking the steering wheel shakes bad. Got fixed and came right back week later. Common problem. O2 sensor needed changed cau",
+          "Front passenger occupancy sensor failed. Other years have a recall on this sensor, why not 2012."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 10,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 12
+      },
+      {
+        "year": 2013,
+        "count": 13
+      },
+      {
+        "year": 2014,
+        "count": 11
+      },
+      {
+        "year": 2015,
+        "count": 30
+      },
+      {
+        "year": 2016,
+        "count": 39
+      },
+      {
+        "year": 2017,
+        "count": 40
+      },
+      {
+        "year": 2018,
+        "count": 49
+      },
+      {
+        "year": 2019,
+        "count": 36
+      },
+      {
+        "year": 2020,
+        "count": 22
+      },
+      {
+        "year": 2021,
+        "count": 16
+      },
+      {
+        "year": 2022,
+        "count": 17
+      },
+      {
+        "year": 2023,
+        "count": 13
+      },
+      {
+        "year": 2024,
+        "count": 9
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "15V032000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2008-2013 Nissan Rogue vehicles manufactured March 7, 2007, to November 26, 2013, and 2014 Nissan Rogue Select vehicles manufactured September 23, 2013, to July 2, 2014.  The affected vehicles may experience an electrical short in t",
+        "report_date": "26/01/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V068000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "NISSAN IS RECALLING CERTAIN MODEL YEAR 2012 MURANO AND ROGUE VEHICLES, MANUFACTURED FROM NOVEMBER 23, 2011 THROUGH JANUARY 11, 2012.  DURING ASSEMBLY, THE TIRE PRESSURE MONITORING SYSTEM (TPMS) WAS NOT ACTIVATED. THUS, THESE VEHICLES FAIL TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFE",
+        "report_date": "22/02/2012",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:33:15.648Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

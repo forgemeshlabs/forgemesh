@@ -1,0 +1,140 @@
+{
+  "slug": "2016-toyota-corolla",
+  "year": 2016,
+  "make": "Toyota",
+  "model": "Corolla",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 213,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 65,
+        "share_pct": 30.5,
+        "excerpts": [
+          "In 2024, my 2016 Toyota Corolla was involved in a collision. The airbags did not deploy. I went to the emergency room following the crash and later required additional medical treatment, including reh",
+          "The driver seat belt dont work and once in a great while it will work but even whenever it does latch it still shows the seat belt isn't on and that noise keeps going off but after a while the noise g",
+          "The contact owns a 2016 Toyota Corolla. The contact stated that while driving at an undisclosed speed, the vehicle was rear-ended.  The contact stated that the air bags did not deploy.  The contact st"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 29,
+        "share_pct": 13.6,
+        "excerpts": [
+          "I recently 6 weeks ago bought a used certified 2016 Toyota Corolla with 43,000 miles. I have been going back and forth with Toyota since the day after I bought it about the many mechanical issues that",
+          "TL* THE CONTACT OWNS A 2016 TOYOTA COROLLA. THE CONTACT STATED THAT WHILE ATTEMPTING TO MAKE A LEFT TURN AT 5 MPH, THE STEERING WHEEL LOCKED AS AN UNKNOWN WARNING LIGHT ILLUMINATED ON THE INSTRUMENT P",
+          "DOLAN TOYOTA SCION INFORMED ME THAT MY BRAKE CALIPER WAS LEAKING--I WOULD HAVE TO REPLACE THE ASSEMBLY CYLINDER-- IT COULD NOT BE REPAIRED.  I NEEDED NEW PADS AND THE ROTORS TO BE RESURFACED.  THE CAR"
+        ]
+      },
+      {
+        "component": "SEAT BELTS",
+        "complaints": 26,
+        "share_pct": 12.2,
+        "excerpts": [
+          "The driver seat belt dont work and once in a great while it will work but even whenever it does latch it still shows the seat belt isn't on and that noise keeps going off but after a while the noise g",
+          "12/09/2019,  The ECU did not have adequate protection against certain electrical noise that occurred during the collision. Airbags did not deploy in the event of under ride collision, a freak accident",
+          "My seat belt has to be messed around with a lot in order to release my seat belt. I have to press at least 3 to 4 times super hard before my seat belt releases."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 22,
+        "share_pct": 10.3,
+        "excerpts": [
+          "The CVT transmission on my 2016 Toyota Corolla initially suffered a complete mechanical failure and was repaired on 01/08/2024, forcing me to pay $3,696 out of pocket for a replacement at an independe",
+          "I was driving on the highway and the transmission gave completely out!! with no warning! No check engine light no error message. Car only has 160000 miles on it, if i wasn't calm as I was that could'v",
+          "My 2016 Toyota Corolla suddenly showed a Check Engine light, and the dealer diagnosed a CVT transmission failure with code P2757. This code is linked directly to Toyota’s own TSB T-SB-0150-16 for torq"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 22,
+        "share_pct": 10.3,
+        "excerpts": [
+          "The contact owns a 2016 Toyota Corolla. The contact stated while driving at an undisclosed speed, the vehicle downshifted with no warning light illuminated. The contact also stated that the steering w",
+          "I recently 6 weeks ago bought a used certified 2016 Toyota Corolla with 43,000 miles. I have been going back and forth with Toyota since the day after I bought it about the many mechanical issues that",
+          "A knocking noise is coming from the front of car.  Noise correlates with car motion.  Worn parts in suspension were replaced by Euro Car Doctor in Costa Mesa. One problem complies with Toyota Technica"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 66,
+      "fires": 1,
+      "injuries": 56,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 3
+      },
+      {
+        "year": 2016,
+        "count": 28
+      },
+      {
+        "year": 2017,
+        "count": 35
+      },
+      {
+        "year": 2018,
+        "count": 26
+      },
+      {
+        "year": 2019,
+        "count": 43
+      },
+      {
+        "year": 2020,
+        "count": 37
+      },
+      {
+        "year": 2021,
+        "count": 9
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 12
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "20V024000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing  (Toyota) is recalling certain 2011-2019 Corolla, 2011-2013 Matrix, 2012-2018 Avalon, and 2013-2018 Avalon Hybrid vehicles.  During certain crashes, the air bag electronic control unit (ECU) may malfunction, possibly disabling the deployment of the air bags a",
+        "report_date": "17/01/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:56.697Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

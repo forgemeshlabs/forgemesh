@@ -1,0 +1,140 @@
+{
+  "slug": "2019-ford-escape",
+  "year": 2019,
+  "make": "Ford",
+  "model": "Escape",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 580,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 304,
+        "share_pct": 52.4,
+        "excerpts": [
+          "I recently bought a 2019 Ford Escape from Superior Mazda in Bentonville, Arkansas for my daughter going off to college.  Soon after purchasing the vehicle a giant puff of smoke started coming out the ",
+          "The transmission had to be replaced in 2024 and now the engine needs to be replaced in 2026. Ford customer service will not help with any of the repairs.",
+          "Vehicle began losing engine coolant.  No external leaks visible.  Took to Ford dealership for inspection and diagnostics.  They found coolant intrusion in cylinders 1 and 2.  They say that TSB 22-2322"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 123,
+        "share_pct": 21.2,
+        "excerpts": [
+          "Vehicle purchased from dealer with concealed total loss history and federal/state odometer fraud. Official state title records show the odometer froze at 73,539 miles between Tennessee title issued Ma",
+          "My Ford Escape powertrain went out when I was driving in town, it went from driving fine to not getting out of 1st gear. No warning prior got it towed to my mechanic and he did a diagnostic and it is ",
+          "Was driving and a loud pop happened when pulling onto the hwy and lost power. Immediately pulled into parking lot and tried to restart but would not start. My son came over that evening and towed back"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 91,
+        "share_pct": 15.7,
+        "excerpts": [
+          "The contact owns a 2019 Ford Escape. The contact stated that while driving at an undisclosed speed, the check engine warning light illuminated. The contact connected a portable diagnostic tester to th",
+          "When I originally attempted to start the car, white smoke was pouring from the exhaust pipe. We came to the conclusion that my head gasket on the car blew. We came to this conclusion because it was mi",
+          "The contact owns a 2019 Ford Escape. The contact received notification of NHTSA Campaign Number: 26V011000 (Equipment); however, the part to do the recall repair was not yet available. The contact sta"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 37,
+        "share_pct": 6.4,
+        "excerpts": [
+          "Dash board has been flashing images and turning black and white like something is malfunctioning the automatic stop start has been inconsistently working I have issues with the lights getting dimmer w",
+          "I am reporting the failure of Ford Motor Company to perform a mandatory safety recall (Recall 22S43 / NHTSA ID 22V413) on my 2019 Ford Escape. This failure is compounded by evidence of falsified inter",
+          "The accident occurred while I was driving south on Highway 38 at approximately 45 mph. Another driver pulled forward into my path and did not appear to see my vehicle. I attempted to swerve to avoid a"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 16,
+        "share_pct": 2.8,
+        "excerpts": [
+          "Electric power steering failed and the vehicle is available for inspection upon request. The power steering unit failed while driving down a curvy highway in Kenai Burrow, Alaska. I took the vehicle t",
+          "My battery light has been on for about a week it will come off and on thos morning as I was pulling into work I notice the power steering wasn't working right!",
+          "After turning the car on, the car started to shake for a couple minutes, the engine light came on after a few minutes of the car doing that. Took it to get it scanned and the code given was P0302 and "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 24,
+      "fires": 3,
+      "injuries": 28,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1983,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 26
+      },
+      {
+        "year": 2020,
+        "count": 29
+      },
+      {
+        "year": 2021,
+        "count": 26
+      },
+      {
+        "year": 2022,
+        "count": 47
+      },
+      {
+        "year": 2023,
+        "count": 70
+      },
+      {
+        "year": 2024,
+        "count": 135
+      },
+      {
+        "year": 2025,
+        "count": 162
+      },
+      {
+        "year": 2026,
+        "count": 84
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "21V155000",
+        "component": "TIRES",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 F-150, 2018-2020 F-250, F-350, and 2019 Escape vehicles equipped with Continental tires.  On the affected vehicles, it is possible that one or more tires were cured for too long during tire production.",
+        "report_date": "10/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V413000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2019 Escape, 2013-2018 C-Max, 2013-2016 Fusion, 2013-2021 Transit Connect, and  2015-2018 Edge vehicles.  The bushing that attaches the shifter cable to the transmission may degrade or detach.",
+        "report_date": "10/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V011000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2018 Focus, 2013-2019 Escape, and 2015-2016 MKC vehicles equipped with a 2.0L engine. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+        "report_date": "15/01/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:40.778Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

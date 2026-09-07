@@ -1,0 +1,120 @@
+{
+  "slug": "2020-nissan-rogue",
+  "year": 2020,
+  "make": "Nissan",
+  "model": "Rogue",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 149,
+    "top_failure_components": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 55,
+        "share_pct": 36.9,
+        "excerpts": [
+          "Drivers seat, unsafe movement wall car in motion, and when applying Brake. Seat lever at times constantly drains battery rear and forward motion sensor applies brakes when nothing obstructing rear sea",
+          "Today when we attempted to back out of our driveway, the ABS came on unexpectedly and stopped the vehicle for no reason (spilling my hot coffee in my lap).  I set the parking brake and got out of the ",
+          "THE VEHICLE HAS ACTIVATED A FALSE AEB ON SEVERAL OCASSIONS SINCE I PURCHASED THE VEHICLE.  I IMMEDIATELY TOOK IT BACK TO NISSAN AND THEY STATED THERE WERE NO RECALLS AND THE VEHICLE SEEMED TO HAVE NO "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 31,
+        "share_pct": 20.8,
+        "excerpts": [
+          "Today when we attempted to back out of our driveway, the ABS came on unexpectedly and stopped the vehicle for no reason (spilling my hot coffee in my lap).  I set the parking brake and got out of the ",
+          "THE VEHICLE HAS ACTIVATED A FALSE AEB ON SEVERAL OCASSIONS SINCE I PURCHASED THE VEHICLE.  I IMMEDIATELY TOOK IT BACK TO NISSAN AND THEY STATED THERE WERE NO RECALLS AND THE VEHICLE SEEMED TO HAVE NO ",
+          "The contact owns a 2020 Nissan Rogue. The contact stated while driving at an undisclosed speed, the emergency brake system would inadvertently apply with no warning light illuminated.  The contact was"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 30,
+        "share_pct": 20.1,
+        "excerpts": [
+          "Vehicle Information: 2020 Nissan Rogue Component: Structure/Doors Latch/Lock/Linkage Description of Incident: I am writing to report a serious safety defect regarding the front door lock actuators on ",
+          "Drivers seat, unsafe movement wall car in motion, and when applying Brake. Seat lever at times constantly drains battery rear and forward motion sensor applies brakes when nothing obstructing rear sea",
+          "Driver's side door locks intermittently will not lock or unlock with button or intelli key fob.  Requiring to use manual key inside intelli key to unlock/lock car or manual inside lock itself.  Multip"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 10,
+        "share_pct": 6.7,
+        "excerpts": [
+          "Drivers seat, unsafe movement wall car in motion, and when applying Brake. Seat lever at times constantly drains battery rear and forward motion sensor applies brakes when nothing obstructing rear sea",
+          "Driver Seat moves forward when brakes are applied - yes the seat and vehicle can be available anytime for inspection. When ever the brakes are applied the driver seat moves towards the steering wheel ",
+          "The contact owns a 2020 Nissan Rogue. The contact stated that while driving at various speeds, the front driver’s side seat failed to remain in a locked position as intended, and the seat moved while "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 8,
+        "share_pct": 5.4,
+        "excerpts": [
+          "The contact owns a 2020 Nissan Rogue. The contact stated that upon starting the vehicle, the air bag warning light illuminated on the instrument panel. The vehicle was taken to a dealer, where a diagn",
+          "Airbag did not deploy when in accident that resulted in total loss. Car stuck pole head on, then reversed into another pole before landing in a body of water. Driver was unconscious during accident.",
+          "The contact owns a 2020 Nissan Rogue. The contact stated that while driving at 55 MPH, a 2006 Harley Davidson Dyna Glide Custom motorcycle crossed the center line and crashed head-on into her vehicle."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 6,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 3
+      },
+      {
+        "year": 2020,
+        "count": 32
+      },
+      {
+        "year": 2021,
+        "count": 25
+      },
+      {
+        "year": 2022,
+        "count": 12
+      },
+      {
+        "year": 2023,
+        "count": 24
+      },
+      {
+        "year": 2024,
+        "count": 26
+      },
+      {
+        "year": 2025,
+        "count": 20
+      },
+      {
+        "year": 2026,
+        "count": 7
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "23V093000",
+        "component": "ELECTRICAL SYSTEM:IGNITION:ANTI-THEFT:IMMOBILIZER/PROXIMITY:KEY/SENDER",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2014-2020 Rogue and 2017-2022 Rogue Sport vehicles equipped with a jackknife style ignition key.  The jackknife key may collapse into a folded position while driving.",
+        "report_date": "16/02/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:22.685Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

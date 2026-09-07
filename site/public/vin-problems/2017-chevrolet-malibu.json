@@ -1,0 +1,156 @@
+{
+  "slug": "2017-chevrolet-malibu",
+  "year": 2017,
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 723,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 256,
+        "share_pct": 35.4,
+        "excerpts": [
+          "The vehicle is experiencing an apparent fuel-system malfunction. The vehicle has a very strong raw gasoline odor, significant difficulty starting, and appears to be consuming fuel at an abnormally hig",
+          "I was driving back home and stopped at a red light. When the light turned green I started driving, but my car was jerking a little too much. I pulled over and turned my car off. When I cut my car back",
+          "the trottle body position sensor just started acting up. took it to mechanic. they stated they can try to fix it but it may only work for a month then go back out. may end up paying over 6k and the ca"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 172,
+        "share_pct": 23.8,
+        "excerpts": [
+          "The vehicle is experiencing an apparent fuel-system malfunction. The vehicle has a very strong raw gasoline odor, significant difficulty starting, and appears to be consuming fuel at an abnormally hig",
+          "When the vehicle is shifted into Park and the ignition button is pressed, the vehicle fails to shut down. The dashboard displays a \"Shift to Park\" warning message, indicating the vehicle does not reco",
+          "Shift to park error on dash. GM is aware of this issue and won't do anything about it. This causes stress and can cause battery drain. The issue lies within the microswitch that reads that the shifter"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 143,
+        "share_pct": 19.8,
+        "excerpts": [
+          "When the vehicle is shifted into Park and the ignition button is pressed, the vehicle fails to shut down. The dashboard displays a \"Shift to Park\" warning message, indicating the vehicle does not reco",
+          "Shift to park error on dash. GM is aware of this issue and won't do anything about it. This causes stress and can cause battery drain. The issue lies within the microswitch that reads that the shifter",
+          "The SHIFT TO PARK warning light comes on when shifting to park and WILL NOT allow you to shut the vehicle off. This is a WIDELY KNOWN DEFECT in multiple GM vehicles and yet there’s still no recall! WH"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 136,
+        "share_pct": 18.8,
+        "excerpts": [
+          "The Reduce Power to Engine keeps happening. It shuts my car down and lights up the traction control light, check engine light and its a serious hazard because I travel highway to and from work and its",
+          "While driving at highway speeds, my vehicle suddenly experienced a loss of engine power and reduced acceleration. The traction control light and engine light illuminated, and a “Reduced Engine Power” ",
+          "The car smells strongly of gas. And has a problem accelerating. Check engine light came on and I got a code p1101 which is a code for the MAF SENSOR. This is not the first time that this has happened."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 72,
+        "share_pct": 10,
+        "excerpts": [
+          "While driving my 2017 Chevrolet Malibu LT equipped with the 1.5L turbocharged engine, the brake vacuum pump failed due to the pump’s mechanical drive/tang shearing. The failure resulted in loss of vac",
+          "I have a 2017 Chevy Malibu 2.0 T. The incident involved the braking system. I was driving and as traffic came to a stop, I pressed the brake to stop and my brakes gave out. I immediately lifted my foo",
+          "I was driving back home and stopped at a red light. When the light turned green I started driving, but my car was jerking a little too much. I pulled over and turned my car off. When I cut my car back"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 17,
+      "fires": 4,
+      "injuries": 16,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 28
+      },
+      {
+        "year": 2018,
+        "count": 73
+      },
+      {
+        "year": 2019,
+        "count": 141
+      },
+      {
+        "year": 2020,
+        "count": 136
+      },
+      {
+        "year": 2021,
+        "count": 96
+      },
+      {
+        "year": 2022,
+        "count": 94
+      },
+      {
+        "year": 2023,
+        "count": 55
+      },
+      {
+        "year": 2024,
+        "count": 42
+      },
+      {
+        "year": 2025,
+        "count": 48
+      },
+      {
+        "year": 2026,
+        "count": 9
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "18V400000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "General Motors LLC (GM) is recalling certain 2016-2018 Chevrolet Malibu vehicles.  During servicing, a Passenger Presence System (PPS) may have been installed that was not correctly calibrated to the vehicle's seat type.  As a result, the PPS may not properly identify an adult passenger from a child",
+        "report_date": "14/06/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V358000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2018 GMC Canyon, 2016-2017 Buick Envision, 2016-2018 Chevrolet Colorado and Malibu, 2017-2018 GMC Acadia, 2018 Buick LaCrosse, Cadillac ATS, Chevrolet Equinox, and GMC Terrain vehicles.  The high pressure fuel pump may detach from its mounting flange",
+        "report_date": "31/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V870000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "General Motors LLC (GM) is recalling certain 2017 Malibu vehicles manufactured on November 10, 2016.  The right-hand rear side air bag inflator manifold may have insufficient welds.",
+        "report_date": "02/12/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V649000",
+        "component": "SEAT BELTS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2016-2021 Chevrolet Malibu and 2019-2021 Cadillac XT4 vehicles.  The rear seat belt retractors may be improperly secured with loose or missing fasteners.",
+        "report_date": "20/08/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:40:42.775Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

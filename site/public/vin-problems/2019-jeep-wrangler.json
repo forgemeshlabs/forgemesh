@@ -1,0 +1,192 @@
+{
+  "slug": "2019-jeep-wrangler",
+  "year": 2019,
+  "make": "Jeep",
+  "model": "Wrangler",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 734,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 443,
+        "share_pct": 60.4,
+        "excerpts": [
+          "Getting the well know Jeep \"Death Wobble\". Was advised by Carvana when I bought this vehicle that it had an open recall for this exact issue (Manufacturer Recall Number CDJR XF1) due to the Steering D",
+          "Check engine, ABS, Service Shifter suddenly pops up and the steering was hard to turn almost had an accident",
+          "The contact owns a 2019 Jeep Wrangler. While the contact's daughter was driving at an undisclosed speed, the heated steering wheel feature was enabled; however, the heated steering wheel feature faile"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 147,
+        "share_pct": 20,
+        "excerpts": [
+          "The IPC Cluster completely blank. Unsafe to operate vehicle, as speed was unknown, unable to read fuel gauges, and unable to see any warning lights. Experienced the exact problem noted in Recall Campa",
+          "Check engine, ABS, Service Shifter suddenly pops up and the steering was hard to turn almost had an accident",
+          "The contact owns a 2019 Jeep Wrangler. The contact stated that while driving at an undisclosed speed, the instrument panel was blank. The vehicle was taken to the dealer and was diagnosed with instrum"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 132,
+        "share_pct": 18,
+        "excerpts": [
+          "The contact owns a 2019 Jeep Wrangler. The contact stated that while driving approximately 50 MPH, the contact experienced the death wobble, and the vehicle started shaking violently. There was no war",
+          "I was driving on the interstate and when I went over a little bump my truck started to shake like it was going to loose control. I read up on this and people who own jeeps refer to it as the death wad",
+          "Concern: Suspension, steering, and electrical system malfunction  Description of the Problem: While driving at highway speeds (approximately 75 mph), the vehicle experiences a wiggling or unstable sen"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 78,
+        "share_pct": 10.6,
+        "excerpts": [
+          "VEHICLE & INCIDENT: 2019 Jeep Wrangler JL 2.0L Turbo. While climbing an extended grade on Hwy 87, vehicle experienced a sudden sluggish throttle anomaly and rapid coolant temperature spike from ~215F ",
+          "There was a recall done on the clutch system back in 2023 and now the same problem has occurred, and I have to replace my entire clutch system.",
+          "The 48V eTorque Power Pack Unit (PPU), BPCM, and associated cables failed on my 2019 Jeep Wrangler, causing the vehicle to stall and lose all acceleration while driving on the highway. All components "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 43,
+        "share_pct": 5.9,
+        "excerpts": [
+          "VEHICLE & INCIDENT: 2019 Jeep Wrangler JL 2.0L Turbo. While climbing an extended grade on Hwy 87, vehicle experienced a sudden sluggish throttle anomaly and rapid coolant temperature spike from ~215F ",
+          "The contact owns a 2019 Jeep Wrangler. The contact stated that while driving approximately 60 MPH, the vehicle suddenly lost motive power and stalled, and the vehicle went into LIMP Mode. The check en",
+          "The contact owns a 2019 Jeep Wrangler. The contact stated that while driving at an undisclosed speed, the Check Engine warning light illuminated. The vehicle was taken to O'Reily's, where a portable d"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 10,
+      "injuries": 8,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 8
+      },
+      {
+        "year": 2019,
+        "count": 245
+      },
+      {
+        "year": 2020,
+        "count": 113
+      },
+      {
+        "year": 2021,
+        "count": 58
+      },
+      {
+        "year": 2022,
+        "count": 74
+      },
+      {
+        "year": 2023,
+        "count": 70
+      },
+      {
+        "year": 2024,
+        "count": 60
+      },
+      {
+        "year": 2025,
+        "count": 67
+      },
+      {
+        "year": 2026,
+        "count": 38
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "18V675000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018-2019 Jeep Wrangler vehicles.  The front track bar brackets may be improperly welded, which can cause the bracket to separate from the frame, reducing steering capability.",
+        "report_date": "28/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V201000",
+        "component": "STEERING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Jeep Wrangler and 2019 Ram 1500 vehicles.  These vehicles have improperly machined steering column stub shafts that may break, possibly causing the steering wheel to detach from the steering column.",
+        "report_date": "14/03/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V580000",
+        "component": "SEAT BELTS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Jeep Wrangler and Ram 2500, 2019-2020 Ram 1500 and 2020 Jeep Gladiator vehicles.  In the event of a crash, a front seat belt retractor may not properly slow the occupant's forward movement after locking.",
+        "report_date": "24/09/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V191000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2020 Jeep Gladiator and Jeep Cherokee, 2019-2020 Ram 1500 Pickup, Ram 2500 Pickup, Ram 3500 Pickup, Chrysler Pacifica, Dodge Durango, Jeep Grand Cherokee, Jeep Wrangler, and Jeep Renegade and 2019 Dodge Challenger vehicles equipped with 8.4\" or 12\" radio di",
+        "report_date": "10/09/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V028000",
+        "component": "POWER TRAIN:CLUTCH ASSEMBLY",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2021 Jeep Wrangler and 2020-2021 Jeep Gladiator vehicles equipped with manual transmissions.  The clutch pressure plate may overheat and fracture.",
+        "report_date": "28/01/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V124000",
+        "component": "POWER TRAIN:CLUTCH ASSEMBLY",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018-2020 Jeep Wrangler and 2020 Gladiator vehicles equipped with manual transmissions.  The clutch pressure plate may overheat and fracture.",
+        "report_date": "03/03/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V116000",
+        "component": "POWER TRAIN:CLUTCH ASSEMBLY",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2023 Jeep Wrangler, and 2020-2023 Jeep Gladiator vehicles equipped with manual transmissions.  The clutch pressure plate may overheat and fracture.",
+        "report_date": "23/02/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V652000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2024 Jeep Gladiator and 2018-2024 Jeep Wrangler vehicles.  The instrument panel cluster may experience an internal short circuit and fail.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 10",
+        "report_date": "05/09/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V676000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2024 Jeep Wrangler vehicles.  The wiring harness for the rearview camera and the center brake light may short circuit, which can disable the rearview camera image and center brake light.  As such, these vehicles fail to comply with the requirements of",
+        "report_date": "12/09/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:52.346Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

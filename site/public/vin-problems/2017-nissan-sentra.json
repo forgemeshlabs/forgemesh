@@ -1,0 +1,148 @@
+{
+  "slug": "2017-nissan-sentra",
+  "year": 2017,
+  "make": "Nissan",
+  "model": "Sentra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 230,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 76,
+        "share_pct": 33,
+        "excerpts": [
+          "The contact owns a 2017 Nissan Sentra. The contact stated while driving the vehicle he could tell the vehicle gears were slipping, on a different occasion the vehicle downshifted on its own suddenly a",
+          "I have been experiencing the cvt transmission slipping the last two weeks.  I contacted Nissan so see if my vin was a vehicle affected by 2017 cvt transmission recalls.  They advised me it was not aff",
+          "The CVT transmission on my 2016 Nissan Sentra is failing. This seems to be an ongoing issue with Nissans CVT that I have researched. Dealerships are saying they are not replacing the transmissions bec"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 48,
+        "share_pct": 20.9,
+        "excerpts": [
+          "Car just lost power in highway. Car starts but will barely move as pushing down on gas.",
+          "The contact owned a 2017 Nissan Sentra. The contact stated that while driving 45 MPH and coasting to the right around a curve, after completing the maneuver, the accelerator was depressed, the cruise ",
+          "My transmission on my 2017 Nissan Sentra failed not once but twice. I got it repaired to the tune of $4500 and then it failed again a year later and they wanted $7000. I am a single mother working ver"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 33,
+        "share_pct": 14.3,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2017 Nissan Sentra. The contact stated that when the vehicle was purchased, the odometer indicated that the mileage was 92,000. The vehicle was a private sale. ",
+          "I have called nissan usa and the nissan in newburgh to schedule an appointment for lamp switch recall and have not recieved any calls or communication back. At this point im scared that the lamp switc",
+          "Intermittent ignition switch failure. Presents as little to no power. Vehicle will not crank over. Minimal lights come on dash board, no digital readout, dim lights inside vehicle. Eventually car star"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 32,
+        "share_pct": 13.9,
+        "excerpts": [
+          "I have called nissan usa and the nissan in newburgh to schedule an appointment for lamp switch recall and have not recieved any calls or communication back. At this point im scared that the lamp switc",
+          "I was driving on the highway and saw that my RPM was fluctuating a lot even though on cruise control, it was losing its power. It started slowing down and even though cruise control was off, I was ind",
+          "Car lost power, pressing down on accelerator does not move car."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 26,
+        "share_pct": 11.3,
+        "excerpts": [
+          "My car was legally parked on the street near my apartment, and was hit about a month ago that left my car totaled and my trunk completely crushed in, and the back seat caved in. My car was then hit a ",
+          "While reverse parking into a single parking space at my apartment complex, the driver-side airbag deployed unexpectedly without any collision or impact. At the time of the incident, the vehicle was mo",
+          "The contact owns a 2017 Nissan Sentra. The contact stated while driving at various speeds, the air bag warning light illuminated, indicating that the front passenger’s side air bag was deactivated; ho"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 29,
+      "fires": 6,
+      "injuries": 21,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 2
+      },
+      {
+        "year": 2017,
+        "count": 14
+      },
+      {
+        "year": 2018,
+        "count": 19
+      },
+      {
+        "year": 2019,
+        "count": 33
+      },
+      {
+        "year": 2020,
+        "count": 23
+      },
+      {
+        "year": 2021,
+        "count": 34
+      },
+      {
+        "year": 2022,
+        "count": 36
+      },
+      {
+        "year": 2023,
+        "count": 21
+      },
+      {
+        "year": 2024,
+        "count": 20
+      },
+      {
+        "year": 2025,
+        "count": 18
+      },
+      {
+        "year": 2026,
+        "count": 10
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "18V551000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2017 Nissan NV200, Sentra, NV3500 Van, NV3500 Bus, NV200 Taxi, NV1500, NV2500 Van, Chevrolet City Express, 2017-2018 Frontier, Versa Note, and Versa Sedan vehicles that have a mechanical (physical) key ignition system.  In these models, over t",
+        "report_date": "22/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V253000",
+        "component": "AIR BAGS",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2015-2017 LEAF and 2014, 2016 and 2017 Sentra vehicles.  Due to a manufacturing error within the air bag inflators, the passenger frontal air bag may not properly deploy in the event of a crash.",
+        "report_date": "13/04/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V135000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2016-2019 Nissan Sentra vehicles.  The brake light switch may become contaminated, preventing the circuit from closing and the brake lights from illuminating.",
+        "report_date": "03/03/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:40:22.348Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

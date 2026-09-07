@@ -1,0 +1,156 @@
+{
+  "slug": "2016-honda-cr-v",
+  "year": 2016,
+  "make": "Honda",
+  "model": "CR-V",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 391,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 100,
+        "share_pct": 25.6,
+        "excerpts": [
+          "My 2016 Honda CR‑V has only had one driver since purchase and currently has approximately 86,000 miles. It has been properly maintained, yet it is experiencing the same symptoms described in Honda’s r",
+          "Level for oil change was at 30%, took it in and it only had 2.5 quarts of oil. No indication I was low, no oil leak, and it affected the valves. Honda of Lisle said this is common issue with 4 cylinde",
+          "Title: Engine Defect – Excessive Oil Consumption and VTC Actuator Failure  My 2016 Honda CR-V (purchased from Mohawk Honda, serviced at Rensselaer Honda) developed a serious engine defect after only a"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 65,
+        "share_pct": 16.6,
+        "excerpts": [
+          "My daughter left her house to go to an appointment in statesboro, an hour away. When she proceeded onto HWY 196, the dashboard lit up with: check engine light, TMPS light, Traction Control light, Powe",
+          "My car has had trouble starting when sitting for long periods of time or in moderate heat. I've also noticed the gas per mile has decreased. The 2017 year of my car has a recall for the fuel pump. Min",
+          "I was driving to work and all of the lights on my dash came on and the vehicle would not go over 15 mph. I had semis passing me trying to get my car back home. I had it towed to the nearest Honda deal"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 64,
+        "share_pct": 16.4,
+        "excerpts": [
+          "While I was driving on I-75 in Cincinnati OH my vehicle suddenly lost all power with no advanced warning. My car was working fine on the way to work and even when I began my commute home but then sudd",
+          "November 2024 I had a new battery and tires put on my 2016 Honda CRV. 14 months later my car would not start. I had to have a jump start. I had to have it jump started a few times more than took it to",
+          "Unknown electrical problem.  Both headlights will go out simultaneously without warning while driving.  Frequent malfunction of running lamps, headlamps, break lamps."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 45,
+        "share_pct": 11.5,
+        "excerpts": [
+          "While I was driving about 70 mph on highway, the car suddenly stopped responding to the gas paddle and I heard a noise from near the fuel tank. I was able to pull up to the side of the road and the ch",
+          "The contact owns a 2016 Honda CR-V. The contact stated while driving 45 MPH, the vehicle lunged forward and stalled. While depressing the accelerator pedal, the vehicle was choking. There were no warn",
+          "The contact's husband owns a 2016 Honda CR-V. The contact stated while attempting to drive from a complete stop, the accelerator pedal was depressed but the vehicle failed to respond.  Several unknown"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 32,
+        "share_pct": 8.2,
+        "excerpts": [
+          "Front passenger airbag light is on and I have been told it is the sensor.  This has been recalled on other 2016 CRVs.  I think more cars may be affected than those that are recalled.",
+          "Weight sensor light is on. There is a recall on newer models.",
+          "I was in a very low speed fender bender and hit the vehicle in front of me square in the tail end. The airbag needlessly deployed leaving me with a burn and disabled my vehicle. It was a collision tha"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 40,
+      "fires": 4,
+      "injuries": 36,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 2
+      },
+      {
+        "year": 2016,
+        "count": 56
+      },
+      {
+        "year": 2017,
+        "count": 66
+      },
+      {
+        "year": 2018,
+        "count": 33
+      },
+      {
+        "year": 2019,
+        "count": 58
+      },
+      {
+        "year": 2020,
+        "count": 39
+      },
+      {
+        "year": 2021,
+        "count": 33
+      },
+      {
+        "year": 2022,
+        "count": 24
+      },
+      {
+        "year": 2023,
+        "count": 24
+      },
+      {
+        "year": 2024,
+        "count": 26
+      },
+      {
+        "year": 2025,
+        "count": 21
+      },
+      {
+        "year": 2026,
+        "count": 8
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "17V305000",
+        "component": "ENGINE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2015-2016 Honda CR-V vehicles that recently received a replacement engine.  The replacement engine may have been built with the wrong pistons, potentially affecting the engine's performance.",
+        "report_date": "04/05/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V714000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "American Honda Motor Company, Inc. (Honda) is recalling certain model year 2016 CR-V vehicles manufactured October 12, 2015, to October 19, 2015.  The metal housing surrounding the driver's air bag inflator in these vehicles may have been manufactured incorrectly.",
+        "report_date": "29/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:00.876Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,172 @@
+{
+  "slug": "2018-ford-focus",
+  "year": 2018,
+  "make": "Ford",
+  "model": "Focus",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 830,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 318,
+        "share_pct": 38.3,
+        "excerpts": [
+          "I had the engine on 2018 (61000 mileage) focus replaced 1 and 1/2 year ago because of the oil pan wet belt recall. Now my transmission locked up because of clutch failure. I was lucky that I was comin",
+          "Battery randomly died. When battery was replaced at the mechanic, it caused a glitch or broke something in or connected to the transmission. Car couldn’t reverse nor go faster than 1st gear. Had to dr",
+          "The contact owns a 2018 Ford Focus. The contact stated that upon starting the vehicle, the engine was idling roughly, and the vehicle jerked abnormally. The contact stated that the vehicle needed to b"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 229,
+        "share_pct": 27.6,
+        "excerpts": [
+          "There was supposedly a recall of 2012-2018 Ford focuses such as mine, which is a 2018, but somehow my car is not included in this recall even though it seems to be affected by the same problem. I beli",
+          "at 72000 miles the vehicle stopped running   no power no warning lights on indication of any issue.   luckily   it was on a side road.   hade it towed to the ford dealer diagnosed with a broken timing",
+          "An authorized dealership performed a mandatory manufacturer safety recall repair on my vehicle for the Engine Oil Pump Belt and Tensioner (Ford Recall 23S64 / NHTSA Campaign 23V-905). While performing"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 131,
+        "share_pct": 15.8,
+        "excerpts": [
+          "There was supposedly a recall of 2012-2018 Ford focuses such as mine, which is a 2018, but somehow my car is not included in this recall even though it seems to be affected by the same problem. I beli",
+          "Car doesn't start after putting in gas, has to revved to start. Leaking fluid on right front driver side. Car doesn't start in intervals throughout the day.",
+          "I am adding a major update to my safety recall complaint because this dealership just tried to pull an illegal financial ambush on me.After my 2019 Focus started stalling out on the highway right afte"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 123,
+        "share_pct": 14.8,
+        "excerpts": [
+          "The contact owns a 2018 Ford Focus. The contact stated that while driving at an undisclosed speed, the vehicle was shuddering, jerking, and hesitating to accelerate as needed. The vehicle then stalled",
+          "The contact owns a 2018 Ford Focus. The contact received notification of NHTSA Campaign Number: 23V905000 (Engine and Engine and Cooling); however, the part to do the recall repair was not yet availab",
+          "The contact owns a 2018 Ford Focus. The contact received notification of NHTSA Campaign Number: 23V905000 (Engine and Engine Cooling). The contact stated that while driving at an undisclosed speed, th"
+        ]
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "complaints": 65,
+        "share_pct": 7.8,
+        "excerpts": [
+          "The contact owns a 2018 Ford Focus. The contact stated that the vehicle intermittently stalled with excessive fuel consumption. As a former Ford independent mechanic, the contact diagnosed the vehicle",
+          "The contact owns a 2018 Ford Focus. The contact stated that after refueling and driving a short distance, the vehicle was parked. The contact stated that later while attempting to restart the vehicle,",
+          "Vehicle fails to start after refueling with gasoline. Research has revealed a faulty, purge valve as the problem."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 15,
+      "fires": 3,
+      "injuries": 11,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 28
+      },
+      {
+        "year": 2019,
+        "count": 78
+      },
+      {
+        "year": 2020,
+        "count": 67
+      },
+      {
+        "year": 2021,
+        "count": 74
+      },
+      {
+        "year": 2022,
+        "count": 102
+      },
+      {
+        "year": 2023,
+        "count": 164
+      },
+      {
+        "year": 2024,
+        "count": 193
+      },
+      {
+        "year": 2025,
+        "count": 89
+      },
+      {
+        "year": 2026,
+        "count": 35
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "18V735000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012-2018 Ford Focus vehicles with a 2.0L GDI or 2.0L GTDI engine.  The Canister Purge Valve (CPV) may malfunction, possibly causing excessive vacuum in fuel vapor management system.",
+        "report_date": "22/10/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V845000",
+        "component": "POWER TRAIN:MANUAL TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2018 Ford Focus vehicles equipped with a 1.0L Fox GTDI engine and a 6-speed manual transmission.  The clutch may fracture, resulting in damage to the transmission assembly and possibly a transmission fluid leak.",
+        "report_date": "28/11/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V905000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION:PUMP",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2018 Ford Focus and 2018-2022 Ford EcoSport vehicles.  The oil pump drive belt or drive belt tensioner may fail, resulting in a loss of engine oil pressure.",
+        "report_date": "22/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V011000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2018 Focus, 2013-2019 Escape, and 2015-2016 MKC vehicles equipped with a 2.0L engine. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+        "report_date": "15/01/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V012000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2018 Focus, 2019 Explorer, and 2024 Explorer vehicles. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+        "report_date": "15/01/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V369000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:EVAPORATIVE EMISSIONS:CANISTER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012-2018 Focus vehicles previously repaired incorrectly under recall number 18V735. The Canister Purge Valve (CPV) may malfunction, causing the engine to stall unexpectedly while driving.",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V376000",
+        "component": "POWER TRAIN:MANUAL TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2018 Focus and 2013-2016 Fusion vehicles previously repaired incorrectly under recall numbers 18V169 and 18V845. The clutch may fracture, resulting in damage to the transmission assembly and possibly a transmission fluid leak.",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:41:38.709Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

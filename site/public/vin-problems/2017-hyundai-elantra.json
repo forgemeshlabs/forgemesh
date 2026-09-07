@@ -1,0 +1,156 @@
+{
+  "slug": "2017-hyundai-elantra",
+  "year": 2017,
+  "make": "Hyundai",
+  "model": "Elantra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 764,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 288,
+        "share_pct": 37.7,
+        "excerpts": [
+          "The contact owns a 2017 Hyundai Elantra. The contact stated that while driving 50 MPH, there was an abnormal knocking sound coming from the engine. The contact pulled over to the right side of the roa",
+          "Vehicle stalled while driving on a highway without warning.  The car was able to start back up, would go a few feet and stall again. Had it towed to a Hyundai dealership to repair.  They replaced the ",
+          "Car wouldn't start. Makes clicking sound. Mechanic diagnosed it and said timing chain is broken, valves are bent and pistons broken."
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 133,
+        "share_pct": 17.4,
+        "excerpts": [
+          "Doors are not unlocking on open from the outside both front doors from inside and out do not open unless you pull three or four times the rear doors the passenger side rear door does not open at all. ",
+          "Both passenger-side doors won't open without tugging on the handle when unlocking them. The front seat passenger door opens from the inside but has trouble opening from the outside. The backseat passe",
+          "to whoever it is that can help,  I am reaching out to submit a formal complaint regarding my 2017 Hyundai Elantra due to ongoing mechanical and structural issues that began very shortly after I purcha"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 111,
+        "share_pct": 14.5,
+        "excerpts": [
+          "While operating my 2017 Hyundai Elantra under normal driving conditions at approximately 70,000 miles, the engine suffered a sudden, catastrophic loss of motive power and stalled completely while movi",
+          "I own a Hyundai Elantra with approximately 103,000 miles. The vehicle has developed an intermittent issue where the engine will suddenly stall while driving. This most often occurs when I am decelerat",
+          "Component or system failed: The electrical and/or engine system failed spontaneously. Gray smoke originated from under the hood, followed by black smoke and an intense fire. The vehicle is NOT availab"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 71,
+        "share_pct": 9.3,
+        "excerpts": [
+          "While driving and turning, the car loses power steering. This has happened multiple times to my wife at lower driving speeds. These disconcerting safety incidents have randomly occurred without warnin",
+          "The contact owns a 2017 Hyundai Elantra. The contact stated that while driving approximately 40 MPH, the steering wheel became difficult to turn to the left or the right. The contact stated there was ",
+          "I own a 2017 Hyundai Elantra. The vehicle has developed an issue with the steering column worm shaft bearing, which is documented in Hyundai’s Technical Service Bulletin 20-ST-003H-1.  When turning th"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 62,
+        "share_pct": 8.1,
+        "excerpts": [
+          "While operating my 2017 Hyundai Elantra under normal driving conditions at approximately 70,000 miles, the engine suffered a sudden, catastrophic loss of motive power and stalled completely while movi",
+          "1. The engine architecture suffered a catastrophic mechanical failure. Specifically, severe, systemic internal oil consumption/vaporization starved the hydraulic timing chain tensioner of critical hyd",
+          "What component or system failed or malfunctioned, and is it available for inspection upon request? How was your safety or the safety of others put at risk?  The ignition coil in my 2017 Hyundai Elantr"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 37,
+      "fires": 6,
+      "injuries": 24,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 14
+      },
+      {
+        "year": 2017,
+        "count": 38
+      },
+      {
+        "year": 2018,
+        "count": 51
+      },
+      {
+        "year": 2019,
+        "count": 69
+      },
+      {
+        "year": 2020,
+        "count": 99
+      },
+      {
+        "year": 2021,
+        "count": 135
+      },
+      {
+        "year": 2022,
+        "count": 117
+      },
+      {
+        "year": 2023,
+        "count": 100
+      },
+      {
+        "year": 2024,
+        "count": 70
+      },
+      {
+        "year": 2025,
+        "count": 54
+      },
+      {
+        "year": 2026,
+        "count": 17
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "17V213000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2017 Elantra vehicles.  The affected vehicles may have a damaged Electronic Power Steering (MDPS) connector resulting in a loss of electric power steering assistance.",
+        "report_date": "28/03/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V956000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2017 Hyundai Elantra vehicles manufactured April 15, 2016, to September 13, 2016, and Sonata vehicles manufactured May 27, 2016 to September 16, 2016.  In these vehicles, the end seal for the driver's frontal air bag inflator may not ha",
+        "report_date": "30/12/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V063000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:HYDRAULIC",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain 2017 Elantra vehicles.  In the affected vehicles, the brake booster may fail, resulting in a loss of power brake assist.",
+        "report_date": "26/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V232000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2015-2016 Sonata vehicles manufactured May 29, 2014 to February 11, 2016, 2017 Elantra vehicles manufactured January 12, 2016 to February 22, 2016, and one 2016 Sonata Hybrid vehicle manufactured October 15, 2015.  In these vehicles, th",
+        "report_date": "21/04/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:40:54.254Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

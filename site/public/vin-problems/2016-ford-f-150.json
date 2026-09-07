@@ -1,0 +1,211 @@
+{
+  "slug": "2016-ford-f-150",
+  "year": 2016,
+  "make": "Ford",
+  "model": "F-150",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 51,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 41,
+        "share_pct": 80.4,
+        "excerpts": [
+          "I would like to file complaint against Ford for their latest recall (26N041) and how they are not doing replacing the defective Lead Frame in customers vehicles. It's a big scam and a waste of time.  ",
+          "Truck downshifts into low gear, yellow wrench and engine light come on and the truck goes into limp mode, no warnings or anything. These symptoms first started about 5 months ago and I have stopped dr",
+          "XXX, my Ford F-150 began experiencing serious and unpredictable transmission shifting problems. The truck would downshift unexpectedly while traveling at various speeds. At times, it would not downshi"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 4,
+        "share_pct": 7.8,
+        "excerpts": [
+          "I would like to file complaint against Ford for their latest recall (26N041) and how they are not doing replacing the defective Lead Frame in customers vehicles. It's a big scam and a waste of time.  ",
+          "This vehicle 2016 ford F150 is known to have shorting issues. From literally all wiring harnesses. I had a small fire in my truck due to this issue, caused melting of the ribbon cable in my seat heate",
+          "I was at my granddaughters and I went to leave and it was like dead except the wrench came up in the dash panel , I waited before calling my husband and I went back to try and start it again and it st"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 4,
+        "share_pct": 7.8,
+        "excerpts": [
+          "The contact’s son owns a 2016 Ford F-150. The contact stated that while driving approximately 70 MPH, the vehicle stalled. Several unknown warning lights were illuminated. The vehicle was towed back t",
+          "The contact owns a 2016 Ford F-150. The contact stated that while driving at an undisclosed speed, the transmission unexpectedly downshifted. The contact stated that the power train warning light and ",
+          "I was driving on the highway speed limit 65, and all of the sudden it down shifted to first gear, jerking the truck almost to a complete stop, very scary and unsafe. I pulled over to recoup myself . I"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 3,
+        "share_pct": 5.9,
+        "excerpts": [
+          "There was no incident. Ford announced the recall in May with no remedy until August. I had to rent a truck to pull a trailer to [XXX] from [XXX]. They said there was no compensation as there was no \"s",
+          "I went to start my truck and the brake went all the way to the floor. I had no braking power and it had to be towed back home over an hour away. There is a recall on 2016 Ford F150 with the 3.5 Eco Bo",
+          "On XXX I lost all brakes in my 2016 Ford F-150 while towing a fishing boat.  I had just decended a steep grade on a busy downtown street when I received an alert that I was low on brake fluid. The nex"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 2,
+        "share_pct": 3.9,
+        "excerpts": [
+          "I was at my granddaughters and I went to leave and it was like dead except the wrench came up in the dash panel , I waited before calling my husband and I went back to try and start it again and it st",
+          "Vehicle suddenly seemed to shift while driving causing a loud sound, jerk and caused a loss of control suddenly."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 1,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 42
+      }
+    ]
+  },
+  "recalls": {
+    "count": 14,
+    "recalls": [
+      {
+        "campaign_number": "18V894000",
+        "component": "ENGINE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2019 Ford F-150 and 2017-2019 Ford F-250 Super Duty, F-350 Super Duty, F-450 Super Duty, and F-550 Super Duty pick-up trucks equipped with an engine block heater.   Water and contaminants may get into the block heater cable's splice connector causi",
+        "report_date": "18/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V278000",
+        "component": "ENGINE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2019 Ford F-150 and 2017-2019 Ford F-250 Super Duty, F-350 Super Duty, F-450 Super Duty, and F-550 Super Duty pick-up trucks equipped with an engine block heater and previously remedied under recall 18V894.   During the previous repair, the block h",
+        "report_date": "08/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V568000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2018 Ford F-150 Regular Cab and SuperCrew Cab vehicles.  If a front seat belt pretensioner deploys as the result of a crash, the sparks may ignite materials such as carpeting or insulation within the B-pillar area.",
+        "report_date": "31/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V652000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2017 Ford F-150, and 2017 F-250, F-350, F-450, and F-550 Super Duty trucks.  The doors on these vehicles may have a bent or kinked actuation cable or the door latches may freeze after water gets into the latch.  Either condition can result in the d",
+        "report_date": "16/10/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V526000",
+        "component": "SEAT BELTS:REAR/OTHER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2017 F-150, and 2017 F-250 and F-350 trucks equipped with a crew cab.  The left rear inflatable seat belt buckle assembly may be inadequately attached to its mounting bracket.  As such, these vehicles fail to comply with the requirements of Federal",
+        "report_date": "28/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V331000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2017 F-150, and 2017 F-250, F-350, F-450, and F-550 vehicles originally produced with black or body colored exterior door handles that may have been subsequently equipped with a chrome exterior door handle cover accessory kit purchased from a Ford ",
+        "report_date": "22/05/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V475000",
+        "component": "SEATS:FRONT ASSEMBLY:RECLINER",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2016 Ford Explorer and F-150 vehicles equipped with a manual recline driver's seat.  The seat back frame may have insufficient welds which may not meet the requirements of Federal Motor Vehicle Safety Standard (FMVSS) numbers 202, \"Head Restr",
+        "report_date": "28/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V767000",
+        "component": "SEATS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016 F-150 and Explorer vehicles.  Loose power seat adjuster pivot bolts may cause the front seat cushions to detach and not properly restrain the seat occupant in the event of a crash.",
+        "report_date": "29/11/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V110000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2016 F-150 trucks manufactured April 27, 2015, to November 22, 2015, and equipped with Multi-Contour Seats (MCS).  The front passenger seat Occupant Classification System (OCS) that calibrates the air bag deployment level may incorrectly clas",
+        "report_date": "25/02/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V098000",
+        "component": "ENGINE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2016 F-150 pick-up trucks equipped with 3.5L GTDI engines and block immersion heaters that were potentially relocated from their originally installed location.  The incorrect location could put the heater too close to hot engine components, possibl",
+        "report_date": "21/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V332000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:MASTER CYLINDER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2014-2017 F-150 pickup trucks equipped with 3.5L Ecoboost engines.  The brake master cylinder may leak brake fluid into the brake booster.",
+        "report_date": "08/06/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21E027000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM:UPPER BALL JOINT",
+        "summary": "Tenneco Automotive (DRiV) is recalling certain MOOG K500359 ball joints, for aftermarket installation on 2015-2018 Ford F-150 trucks.  The ball joint may have a misaligned dust boot and may be missing alignment hole and installation warning tag, which may lead to improper alignment of the ball joint",
+        "report_date": "12/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V150000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2017 Ford Expedition, Lincoln Navigator, and 2016-2018 F-150 vehicles equipped with 3.5L Ecoboost engines.  The brake master cylinder may allow brake fluid to leak from the front wheel circuit into the brake booster.",
+        "report_date": "11/03/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V237000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2017 F-150 vehicles. A loss of signal between the transmission range sensor and the powertrain control module can cause the transmission to unexpectedly downshift into second gear.",
+        "report_date": "14/04/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:01.778Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

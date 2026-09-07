@@ -1,0 +1,172 @@
+{
+  "slug": "2014-honda-accord",
+  "year": 2014,
+  "make": "Honda",
+  "model": "Accord",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 977,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 378,
+        "share_pct": 38.7,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2014 Honda Accord. It was discovered that there was a mileage discrepancy. The vehicle was a dealer sale. At the time of the purchase, the mileage was 149,010 a",
+          "The VSA module failed, causing 5 warning lights to illuminate. This module controls ABS, traction control, and power steering. All of these systems involve the safe operation of the vehicle. The modul",
+          "​1. What component or system failed? ​The ABS/VSA Modulator Control Unit (also known as the ABS pump or module). This system is responsible for Anti-lock Braking and Vehicle Stability Assist.  ​2. How"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 179,
+        "share_pct": 18.3,
+        "excerpts": [
+          "Engine vibrating at stop light and fcw and ldw  failed",
+          "While driving the car at approx 45mph on a busy roadway the vehicle suddenly accelerated heavily I tried applying the breaks but the pedal did not go down and had no affect of slowing the vehicle.  I ",
+          "Cylinder 2 scorned to sever to fix"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 140,
+        "share_pct": 14.3,
+        "excerpts": [
+          "2014 Honda Accord Hybrid experienced a sudden, complete loss of electric power steering assist immediately upon vehicle startup, illuminating the EPS dash warning light. The steering became extremely ",
+          "The VSA module failed, causing 5 warning lights to illuminate. This module controls ABS, traction control, and power steering. All of these systems involve the safe operation of the vehicle. The modul",
+          "2014 Honda Accord Hybrid purchased new, completed all routine and recommended maintenance over its life.   - The passenger side drive shaft failed on May 5, 2025, pulling into our driveway, and it fel"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 121,
+        "share_pct": 12.4,
+        "excerpts": [
+          "when driving the vehicle 7/25/26 my fcw/brake light came on. I felt very insecure for safety reasons and we contacted a local mechanic who specializes in honda and foreign vehicles. We have photos and",
+          "The ABS module is designed to fail after an extended period of time, leaving the owner to drive in dangerous conditions unless they pay thousands of dollars for the necessary repairs. This is essentia",
+          "The VSA module failed, causing 5 warning lights to illuminate. This module controls ABS, traction control, and power steering. All of these systems involve the safe operation of the vehicle. The modul"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 64,
+        "share_pct": 6.6,
+        "excerpts": [
+          "The driver front left driveshaft inboard joint has started making noise when putting the car into drive, reverse, and taking off from a stop. The part is currently installed in the car and is not avai",
+          "Merging from a stop into traffic and suddenly a loud bang from under car and unable to accelerate. Able to move to shoulder while coasting. Failure was found to be the passenger side driveshaft. The C",
+          "The contact owns a 2014 Honda Accord. While the contact's son was driving at an undisclosed speed, there was a snapping sound coming from the vehicle before the vehicle became disabled on the highway."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 52,
+      "fires": 9,
+      "injuries": 52,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 3
+      },
+      {
+        "year": 2013,
+        "count": 12
+      },
+      {
+        "year": 2014,
+        "count": 93
+      },
+      {
+        "year": 2015,
+        "count": 58
+      },
+      {
+        "year": 2016,
+        "count": 57
+      },
+      {
+        "year": 2017,
+        "count": 98
+      },
+      {
+        "year": 2018,
+        "count": 116
+      },
+      {
+        "year": 2019,
+        "count": 115
+      },
+      {
+        "year": 2020,
+        "count": 80
+      },
+      {
+        "year": 2021,
+        "count": 98
+      },
+      {
+        "year": 2022,
+        "count": 55
+      },
+      {
+        "year": 2023,
+        "count": 79
+      },
+      {
+        "year": 2024,
+        "count": 45
+      },
+      {
+        "year": 2025,
+        "count": 50
+      },
+      {
+        "year": 2026,
+        "count": 18
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "17V418000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2016 Honda Accord vehicles.  The case for the battery sensor, part of the battery management system, may allow water to get in, potentially causing an electrical short.",
+        "report_date": "29/06/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V121000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "American Honda Motor Co. (Honda) is recalling certain model year 2014 Accord L4 vehicles manufactured July 29, 2014, to July 31, 2014, 2015 Accord L4 vehicles manufactured August 14, 2014, to January 30, 2015, and 2015 CR-V vehicles manufactured September 9, 2014, to February 6, 2015. The affected v",
+        "report_date": "02/03/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V769000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2015 Accord vehicles equipped with a 4-cylinder engine and a continuously-variable transmission that were originally sold, or ever registered, in Connecticut, Delaware, District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland",
+        "report_date": "10/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:36:16.506Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "2020-chevrolet-equinox",
+  "year": 2020,
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 303,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 108,
+        "share_pct": 35.6,
+        "excerpts": [
+          "The contact owns a 2020 Chevrolet Equinox. The contact stated that while driving 80 MPH, the message “Service Brake Assist” warning light illuminated twice. The contact stated that while attempting to",
+          "While driving, my 2020 Chevrolet Equinox suddenly lost power and shut off without warning while I was pulling into traffic. The vehicle would buzz not crank afterward but would not restart. This creat",
+          "I was pulling into a parking lot off the state Thruway with the brake system failure no brakes, hard pedal, and the car would not stop"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 85,
+        "share_pct": 28.1,
+        "excerpts": [
+          "Engine power reduced   Car will not accelerate  Jerks after a long stop  Have replaced engine and transmission same problem occurred",
+          "The contact owns a 2020 Chevrolet Equinox. The contact stated that the vehicle failed to start as needed. The check engine warning light was illuminated. The vehicle was towed to an independent mechan",
+          "While driving, my 2020 Chevrolet Equinox suddenly lost power and shut off without warning while I was pulling into traffic. The vehicle would buzz not crank afterward but would not restart. This creat"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 50,
+        "share_pct": 16.5,
+        "excerpts": [
+          "My car is a 2020 Chevy Equinox with only 31852 miles. While driving today, all of a sudden the car started shuddering badly and stalled in the middle of the highway. Talk about a very scary situation.",
+          "Fuel Stall with no acceleration while driving on the highway. Barely made it to the side of the road. Vehicle is at a mechanic shop. Both the Direct injection high pressure fuel pump and the electric ",
+          "I am reporting a vehicle fire involving a 2020 Chevrolet Equinox  [XXX] ).  The fire originated in the engine compartment. The official fire report lists the causes as \"undetermined\", with the area of"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 40,
+        "share_pct": 13.2,
+        "excerpts": [
+          "The electrical system just stopped working it is throwing up false alerts of driving systems and brake assist, and then the air conditioning on/off button doesn’t respond defrost nothing lights up or ",
+          "My cooling and heating sensor is reading negative 40 degrees outside but it has been 80 degrees and higher the past several weeks. This is not safe when you have children especially if they are under ",
+          "My car is a 2020 Chevy Equinox with only 31852 miles. While driving today, all of a sudden the car started shuddering badly and stalled in the middle of the highway. Talk about a very scary situation."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 39,
+        "share_pct": 12.9,
+        "excerpts": [
+          "Engine power reduced   Car will not accelerate  Jerks after a long stop  Have replaced engine and transmission same problem occurred",
+          "December 2025 I was at a complete stop and the car clunked and the brake pedal got hard hard to push and then a couple months later a brake sensor light came on and when I plugged the code reader into",
+          "Recall Number N202313440 My car matches make, model, and year but for some reason is not included in the recall and my vehicle has the leaking bolts.  Please Review"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 20,
+      "fires": 7,
+      "injuries": 12,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2019,
+        "count": 8
+      },
+      {
+        "year": 2020,
+        "count": 38
+      },
+      {
+        "year": 2021,
+        "count": 23
+      },
+      {
+        "year": 2022,
+        "count": 24
+      },
+      {
+        "year": 2023,
+        "count": 45
+      },
+      {
+        "year": 2024,
+        "count": 56
+      },
+      {
+        "year": 2025,
+        "count": 55
+      },
+      {
+        "year": 2026,
+        "count": 52
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "20V668000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Cruze and Buick LaCrosse, 2018-2020 Chevrolet Equinox, Chevrolet Traverse and GMC Terrain, 2018 Chevrolet Malibu, 2019-2020 Buick Encore, Buick Enclave, Cadillac XT4, Chevrolet Blazer and GMC Acadia, and 2020 Cadillac XT6 vehicles.  Th",
+        "report_date": "29/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V667000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "General Motors LLC (GM) is recalling certain 2019-2020 Chevrolet Equinox all-wheel drive vehicles.  The fuel tanks may have been manufactured with an improperly sealed seam, possibly allowing fuel to leak along the seam near the fuel inlet.",
+        "report_date": "19/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V704000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "General Motors LLC (GM) is recalling certain 2020 Chevrolet Equinox vehicles.  The rear brake calipers may have been produced with an incorrect lubricant, potentially causing the rubber seals to swell and the brakes to drag.",
+        "report_date": "03/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V339000",
+        "component": "CHILD SEAT:VEHICLE LATCH ANCHOR",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2023 Chevrolet Equinox and GMC Terrain vehicles.  The four rear-seat lower child seat LATCH anchorage bars may have excessive powder coating, which could prevent a child seat from being installed with the anchorage bars.  As such, these vehicles fai",
+        "report_date": "11/05/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:36.451Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

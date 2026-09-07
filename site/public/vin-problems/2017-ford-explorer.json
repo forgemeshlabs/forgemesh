@@ -1,0 +1,240 @@
+{
+  "slug": "2017-ford-explorer",
+  "year": 2017,
+  "make": "Ford",
+  "model": "Explorer",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1691,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 654,
+        "share_pct": 38.7,
+        "excerpts": [
+          "The contact owns a 2017 Ford Explorer. The contact stated that there was a crack in the front windshield and water was leaking into the vehicle. The contact was concerned about the electrical system f",
+          "The contact owns a 2017 Ford Explorer. The contact received notifications of NHTSA Campaign Numbers: 24V031000 (Structure) and 26V448000 (Structure); however, the parts to do the recall repairs were u",
+          "The contact owns a 2017 Ford Explorer. The contact stated that while driving at an undisclosed speed, the driver’s side door B-pillar trim detached and was hanging by the wires, which became frayed. T"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 236,
+        "share_pct": 14,
+        "excerpts": [
+          "Driving down the highway and checkengine light came on when I was headed to work. The vehicle lost power due to misfire with engine. I check the spark plugs and there is oil all over sparkplugs and th",
+          "A strong exhaust smell comes through the cabin during acceleration at speeds higher than 35 mph. Worries us for possible co2 exposure coming through if exhaust smell can come through. But ford dealers",
+          "The contact owns a 2017 Ford Explorer. The contact stated that while driving at an undisclosed speed, there was smoke coming from underneath the hood with the Check Engine warning light illuminated. T"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 123,
+        "share_pct": 7.3,
+        "excerpts": [
+          "Begin with cliff, I was not wanting to lock or locked or start the vehicle as I was driving. I stopped at the light vehicle started shaking, and as I drove through the light to pull over power steerin",
+          "Transmission torque converter attempts to lockup when vehicle is in gear, at idle and brakes applied.  This causes the engine rpm to drop or stall.  This causes an unexpected delay and hesitation when",
+          "This has happened several times where the transmission will not go into drive and makes an electronic noise while trying to shift into drive. If you turn the car off, open the driver's door, wait for "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 93,
+        "share_pct": 5.5,
+        "excerpts": [
+          "The vehicle ACM shorted and caused a fire while driving. My safety was put as risk because the car quickly filled with smoke and unbearable fumes causing me to swerve and attempt to find a safe place ",
+          "Begin with cliff, I was not wanting to lock or locked or start the vehicle as I was driving. I stopped at the light vehicle started shaking, and as I drove through the light to pull over power steerin",
+          "The contact owns a 2017 Ford Explorer. The contact received notification of NHTSA Campaign Number: 25V347000 (Structure). While driving approximately 60 MPH, the driver's side B-pillar trim detached a"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 76,
+        "share_pct": 4.5,
+        "excerpts": [
+          "The steering wheel sticks when going into a turn then pulls back . It’s been on going . I know they had issues and recalls with steering .",
+          "Begin with cliff, I was not wanting to lock or locked or start the vehicle as I was driving. I stopped at the light vehicle started shaking, and as I drove through the light to pull over power steerin",
+          "I am reporting a serious safety concern with my 2017 Ford Explorer. The vehicle currently has approximately 93,752 miles and has become increasingly unreliable and unsafe to operate. On April 9, 2026,"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 34,
+      "fires": 11,
+      "injuries": 51,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 25
+      },
+      {
+        "year": 2017,
+        "count": 167
+      },
+      {
+        "year": 2018,
+        "count": 115
+      },
+      {
+        "year": 2019,
+        "count": 122
+      },
+      {
+        "year": 2020,
+        "count": 72
+      },
+      {
+        "year": 2021,
+        "count": 117
+      },
+      {
+        "year": 2022,
+        "count": 136
+      },
+      {
+        "year": 2023,
+        "count": 255
+      },
+      {
+        "year": 2024,
+        "count": 320
+      },
+      {
+        "year": 2025,
+        "count": 270
+      },
+      {
+        "year": 2026,
+        "count": 91
+      }
+    ]
+  },
+  "recalls": {
+    "count": 14,
+    "recalls": [
+      {
+        "campaign_number": "19V651000",
+        "component": "SEATS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2017 Ford Explorer vehicles equipped with power front seats.  The seat frames may have sharp edges.",
+        "report_date": "11/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V435000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2017 Explorer vehicles.  The rear suspension toe links may fracture due to stress on the rear suspension.",
+        "report_date": "10/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17E048000",
+        "component": "WHEELS:HUB",
+        "summary": "Ford Motor Company (Ford) is recalling certain Wheel Hub Bearing assemblies, part number HB5Z-1104-C, incorrectly listed as being for installation on the rear axles of 2011-2017 Ford Explorer 4X2 vehicles.  These bearings assemblies were manufactured without a self retention feature, possibly result",
+        "report_date": "28/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V530000",
+        "component": "STEERING",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2017 Explorer, Taurus and Police Interceptor Utility and Sedan vehicles.  The steering gear heat shield fasteners may corrode, allowing the heat shield to detach.",
+        "report_date": "28/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V332000",
+        "component": "SEATS:FRONT ASSEMBLY:RECLINER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2017 Ford Explorer, F-150, F-250, F-350, F-450 and F-550 vehicles equipped with a manual driver's seat back recliner mechanism.  In the event of a crash, the seat back frame may not restrain the occupant due to having inadequate welds.  As such, these v",
+        "report_date": "22/05/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V925000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:GASOLINE:TURBO/SUPERCHARGER",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2016 Ford Taurus, 2016-2017 Ford Flex, Lincoln MKT, 2017 Ford Explorer and Ford Explorer Police Interceptor Utility vehicles equipped with 3.5L GTDI engines.  Improperly brazed turbocharger oil supply tubes may leak oil on engine components.",
+        "report_date": "22/12/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V316000",
+        "component": "STRUCTURE:BODY",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles.  The retention pins could loosen and allow the roof rail covers to detach from the vehicle.",
+        "report_date": "05/05/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V537000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2017 Explorer vehicles originally sold, or ever registered, in Connecticut, Delaware, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshire, New Jersey, New York, Ohio, Pennsylvania, Rhode I",
+        "report_date": "15/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V675000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2017 Explorer vehicles originally sold, or currently registered in Connecticut, Delaware, the District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshire, New Jersey, New Yor",
+        "report_date": "12/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V031000",
+        "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2019 Explorer vehicles.  The A-pillar trim retention clips may not be properly engaged, allowing the trim to detach.",
+        "report_date": "19/01/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V347000",
+        "component": "STRUCTURE:BODY",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2017 Explorer vehicles. The driver and front passenger B-Pillar door trim may detach while driving.",
+        "report_date": "23/05/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V685000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Lincoln MKC, 2016-2023 Explorer, 2019-2020 Fusion, 2019-2024 Ranger, 2020-2022 Lincoln Corsair, Escape, 2021-2024 Bronco, Bronco Sport, and 2022-2024 Maverick vehicles. The engine block heater may crack and develop a coolant leak, causing it t",
+        "report_date": "10/10/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V101000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2017-2019 Explorer vehicles. The rear suspension toe links may fracture.",
+        "report_date": "20/02/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V448000",
+        "component": "STRUCTURE:BODY",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles. The roof rail covers may come loose and detach from the vehicle.",
+        "report_date": "14/07/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:40:31.765Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

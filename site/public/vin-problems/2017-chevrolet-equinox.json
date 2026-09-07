@@ -1,0 +1,123 @@
+{
+  "slug": "2017-chevrolet-equinox",
+  "year": 2017,
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 271,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 178,
+        "share_pct": 65.7,
+        "excerpts": [
+          "2017 Chevrolet Equinox Premier certified pre-owned vehicle experienced multiple safety-related defects.  1. REPEATED STARTING FAILURES (electrical/battery/starter system): - March 17, 2026: Complete b",
+          "MY CAR STARTED TO USE A LOT OF OIL, AND UPON MY REGULAR OIL CHANGES IT WOULD ALWAYS BE VERY LOW, BUT OIL WAS NOT LEAKING OUT OF THE CAR. IT GOT TO THE POINT THAT I HAD TO PUT OIL IN OFTEN TO OPERATE T",
+          "While driving to work in negative degree weather I got a message saying reduce engine power and before I could pull over it had lost all power. Having it towed and now needing a new engine I see im no"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 32,
+        "share_pct": 11.8,
+        "excerpts": [
+          "1.Since I bought the car it has needed oil on a weekly basis. I took it in for repair it had something to do with the oil consumption device $2270.00 to fix. 2. timing chain went out had to fix that t",
+          "Bearing on front intermediate shaft broken or missing.",
+          "The contact owns a 2017 Chevrolet Equinox. The contact stated that upon arriving to the destination, the contact became aware that there was an excessive amount of engine oil pooling underneath the en"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 20,
+        "share_pct": 7.4,
+        "excerpts": [
+          "2017 Chevrolet Equinox Premier certified pre-owned vehicle experienced multiple safety-related defects.  1. REPEATED STARTING FAILURES (electrical/battery/starter system): - March 17, 2026: Complete b",
+          "1.Since I bought the car it has needed oil on a weekly basis. I took it in for repair it had something to do with the oil consumption device $2270.00 to fix. 2. timing chain went out had to fix that t",
+          "Twice the exhaust has leaked into the cabin to the point where it is very noticeable.   It causes headaches and breathing problems.   GM has known of this issue for several years and it has been repor"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 19,
+        "share_pct": 7,
+        "excerpts": [
+          "The contact owned a 2017 Chevrolet Equinox. The contact stated that while driving at approximately 55 MPH, the vehicle collided with a deer. During the crash, the air bags became inoperable and failed",
+          "Desconocido  bolsas de aire takata posible retirada .. Alto consumo  de combustible",
+          "I was in a car accident (car total loss), my air bags did NOT deploy and a light came on after the crash to say the airbags malfunctioned."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 18,
+        "share_pct": 6.6,
+        "excerpts": [
+          "My car was in Clarksburg Crown, Mitsubishi, and a lot that had no monitoring, and it was a sticker saying the car was not ready to be sold, and I still went with it trusting the crown Mitsubishi Car a",
+          "2017 Chevrolet Equinox Premier certified pre-owned vehicle experienced multiple safety-related defects.  1. REPEATED STARTING FAILURES (electrical/battery/starter system): - March 17, 2026: Complete b",
+          "MY CAR STARTED TO USE A LOT OF OIL, AND UPON MY REGULAR OIL CHANGES IT WOULD ALWAYS BE VERY LOW, BUT OIL WAS NOT LEAKING OUT OF THE CAR. IT GOT TO THE POINT THAT I HAD TO PUT OIL IN OFTEN TO OPERATE T"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 18,
+      "fires": 4,
+      "injuries": 14,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 2
+      },
+      {
+        "year": 2017,
+        "count": 9
+      },
+      {
+        "year": 2018,
+        "count": 9
+      },
+      {
+        "year": 2019,
+        "count": 17
+      },
+      {
+        "year": 2020,
+        "count": 16
+      },
+      {
+        "year": 2021,
+        "count": 27
+      },
+      {
+        "year": 2022,
+        "count": 48
+      },
+      {
+        "year": 2023,
+        "count": 36
+      },
+      {
+        "year": 2024,
+        "count": 42
+      },
+      {
+        "year": 2025,
+        "count": 52
+      },
+      {
+        "year": 2026,
+        "count": 13
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T19:40:39.222Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

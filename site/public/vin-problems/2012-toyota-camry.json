@@ -1,0 +1,160 @@
+{
+  "slug": "2012-toyota-camry",
+  "year": 2012,
+  "make": "Toyota",
+  "model": "Camry",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 644,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 146,
+        "share_pct": 22.7,
+        "excerpts": [
+          "2012 Toyota Camry LE developed severe transmission shudder/vibration during normal driving, especially around 25–35 mph and 45–60 mph. The vehicle also experienced noticeable vibration when shifting i",
+          "Recall was completed on 11/25/14 for a shudder when hitting 35 to 50. The recall was a software issue and they show that a torque converter may have been needed at a later date to further correct the ",
+          "Vehicle is shuddering/stalling when trying to accelerate.  Currently 150,000"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 83,
+        "share_pct": 12.9,
+        "excerpts": [
+          "The contact owned a 2012 Toyota Camry. The contact stated that while driving at an undisclosed speed uphill during flooding conditions, the vehicle slipped and hydroplaned. The contact attempted to co",
+          "I recently was a passenger in my vehicle during a motor vehicle crash, and the air bags did not deployed for the driver or the passenger.",
+          "\"I was driving when the passenger airbag light came on and wouldn't turn off. At the same time, my steering wheel locked up, and my car started making a whining/humming sound. The lights began blinkin"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 73,
+        "share_pct": 11.3,
+        "excerpts": [
+          "I am reporting a safety-related issue involving the ECM / torque converter on my 2012 Toyota Camry. This issue can cause loss of power, hesitation, or stalling which presents a serious safety concern ",
+          "I am filing this complaint regarding a known and documented issue affecting my 2012 Toyota Camry (VIN: [XXX] ), which has developed a transmission shudder and vibration between 20–50 mph. This problem",
+          "The contact's fiancé owns a 2012 Toyota Camry. While the contact's fiancé was driving 55 MPH with the accelerator pedal depressed, the vehicle failed to accelerate as intended. The contact stated that"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 68,
+        "share_pct": 10.6,
+        "excerpts": [
+          "On 2/18/23 I took my car into the repair shop to investigate a clunking sound upon braking. The control arm was broken and the level of corrosion is extensive. I am the original and only owner and the",
+          "Small accident",
+          "The contact owns a 2012 Toyota Camry. The contact stated that the front driver’s side door handle was fractured, and she was unable to access the vehicle through the driver’s side door. The vehicle wa"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 67,
+        "share_pct": 10.4,
+        "excerpts": [
+          "I am noticing there is some wiggling and play with the driver’s seat.   Every time I hop inside the car, I feel the seat wiggle back a little bit.   I notice some movement back and forth when accelera",
+          "Odometer Fraud. The contact purchased a 2012 Toyota Camry. The contact discovered a mileage discrepancy after the purchase. The vehicle was a dealer sale from AJ Sales & Services in Houston, TX. At th",
+          "Steering wheel is hard to turn"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 95,
+      "fires": 6,
+      "injuries": 80,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 9
+      },
+      {
+        "year": 2012,
+        "count": 71
+      },
+      {
+        "year": 2013,
+        "count": 88
+      },
+      {
+        "year": 2014,
+        "count": 88
+      },
+      {
+        "year": 2015,
+        "count": 63
+      },
+      {
+        "year": 2016,
+        "count": 40
+      },
+      {
+        "year": 2017,
+        "count": 51
+      },
+      {
+        "year": 2018,
+        "count": 47
+      },
+      {
+        "year": 2019,
+        "count": 52
+      },
+      {
+        "year": 2020,
+        "count": 33
+      },
+      {
+        "year": 2021,
+        "count": 36
+      },
+      {
+        "year": 2022,
+        "count": 21
+      },
+      {
+        "year": 2023,
+        "count": 20
+      },
+      {
+        "year": 2024,
+        "count": 7
+      },
+      {
+        "year": 2025,
+        "count": 14
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V442000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Toyota is recalling certain model year 2012-2013 Avalon, Avalon HV, Venza, Camry, and Camry HV vehicles.  In the affected vehicles, the drain hose for the air conditioning condenser may become clogged causing water to accumulate at the bottom of the air conditioning condenser unit housing.  The accu",
+        "report_date": "17/10/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:32:35.486Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

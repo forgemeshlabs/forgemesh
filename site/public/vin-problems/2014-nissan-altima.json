@@ -1,0 +1,204 @@
+{
+  "slug": "2014-nissan-altima",
+  "year": 2014,
+  "make": "Nissan",
+  "model": "Altima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1112,
+    "top_failure_components": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 298,
+        "share_pct": 26.8,
+        "excerpts": [
+          "-Upon research, it appears my Nissan has an issue with the headlight lamps that have caused the low beams to diminish over time. This is a recorded defect (class action lawsuit [XXX], et al. v. Nissan",
+          "Headlights on Nissan Altima started to dim, even when replacing bulbs. There was a settlement to get the bulbs replaced: [XXX]  INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), ",
+          "We took our Nissan for repair of recalled Headlights and was told they had no more headlight assemblies, they have to reorder. I got on waiting list. I called a couple of times to check on headlight s"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 209,
+        "share_pct": 18.8,
+        "excerpts": [
+          "After a month of purchase this car from a buy here pay here lot they offer no help my transmission slipping going cost about $4000 to get repaired",
+          "The contact owns a 2014 Nissan Altima. The contact stated while driving 55 MPH, the vehicle shuddered uncontrollably and stalled. The contact was able to pull to the shoulder of the road. The contact ",
+          "While driving, my transmission stopped accelerating, and started making a scraping/ticking noise. The car almost cut out in traffic, nearly causing a rear end collision!"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 208,
+        "share_pct": 18.7,
+        "excerpts": [
+          "As far as I am aware there are no causes to the failure but the sensor of the left panel on the driver side airbag is alerting. Nissan checked it and advised it would be @ $2000 to repair because it r",
+          "At159,000 main console air bag light came on and won't turn off.",
+          "Airbag light for driver turned on and took it to the dealership to get it fixed. They fixed it but it came back on and they reset it. A few months later it turned back on and they said they couldn't f"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 132,
+        "share_pct": 11.9,
+        "excerpts": [
+          "Rear lower control arm broke while driving on interstate car darted to the left but control was maintained",
+          "Right rear lower control arm fully broke while traveling 35 mph and going around a curve.  The car immediately pulled hard right into the adjacent lane. Fortunately, there were no vehicles in that lan",
+          "The contact owns a 2014 Nissan Altima. The contact stated that while his son was driving 50 MPH, the ABS warning illuminated, and the vehicle failed to exceed 15 MPH. The vehicle was driven to the res"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 77,
+        "share_pct": 6.9,
+        "excerpts": [
+          "Hi, my name is [XXX] . I rented a car through [XXX] , and I need to report serious mechanical issues. All of the spark plugs are not secured, as they are missing screws, and oil is present. The only r",
+          "The contact owns a 2014 Nissan Altima. The contact stated that while her daughter was driving at an undisclosed speed, the air bag and check engine warning lights illuminated. The vehicle was taken to",
+          "My transmission blew out of nowhere on my 2014 Nissan Altima. It’s 6,200 to fix… I had to get it towed."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 51,
+      "fires": 8,
+      "injuries": 58,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 17
+      },
+      {
+        "year": 2014,
+        "count": 112
+      },
+      {
+        "year": 2015,
+        "count": 73
+      },
+      {
+        "year": 2016,
+        "count": 84
+      },
+      {
+        "year": 2017,
+        "count": 116
+      },
+      {
+        "year": 2018,
+        "count": 144
+      },
+      {
+        "year": 2019,
+        "count": 164
+      },
+      {
+        "year": 2020,
+        "count": 138
+      },
+      {
+        "year": 2021,
+        "count": 95
+      },
+      {
+        "year": 2022,
+        "count": 66
+      },
+      {
+        "year": 2023,
+        "count": 37
+      },
+      {
+        "year": 2024,
+        "count": 35
+      },
+      {
+        "year": 2025,
+        "count": 19
+      },
+      {
+        "year": 2026,
+        "count": 11
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "16V911000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2015 Altima vehicles manufactured January 3, 2013, to July 29, 2013, 2015-2016 Rogue vehicles manufactured October 14, 2014, to August 12, 2016, and 2016 Maxima vehicles manufactured June 4, 2015, to August 19, 2015.  An incorr",
+        "report_date": "19/12/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V138000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2014 Altima, LEAF, Pathfinder, and Sentra, model year 2013 NV200 (aka Taxi) and Infiniti JX35 and model year 2014 Infiniti Q50 and QX60 vehicles.  In the affected vehicles, the occupant classification system (OCS) software may ",
+        "report_date": "25/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V486000",
+        "component": "FUEL SYSTEM, GASOLINE",
+        "summary": "Nissan North America, Inc. (Nissan) notified the agency on July 31, 2015, that they are recalling certain model year 2016 Nissan Maxima vehicles manufactured February 10, 2015, to August 18, 2015.  On October 14, 2015, Nissan expanded the recall to cover an additional 41,388 vehicles, including cert",
+        "report_date": "04/08/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V681000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2015 Altima and Pathfinder vehicles, 2013-2014 Nissan Sentra vehicles, 2013 Infiniti JX35 vehicles, 2014-2015 Infiniti QX60 vehicles and 2014 Infiniti QX60 Hybrid vehicles.  The affected vehicles received an incorrect occupant ",
+        "report_date": "20/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V244000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2016-2017 Nissan Maxima, 2013-2016 Nissan Altima, NV200, LEAF, Sentra, and Pathfinder, 2014-2016 Nissan NV200 Taxi, Infiniti QX60, QX60 Hybrid, and Q50 Hybrid, 2014-2017 Nissan Rogue and Infiniti Q50, 2015-2016 Nissan Murano, Murano",
+        "report_date": "26/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V116000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2015 Nissan Altima vehicles manufactured March 1, 2013, to December 31, 2014.  In the affected vehicles, the secondary hood latch may bind and remain in the unlatched position when the hood is closed.",
+        "report_date": "27/02/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V029000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2015 Nissan Altima vehicles manufactured March 6, 2012, to December 31, 2014.  In the affected vehicles, the secondary hood latch may bind and remain in the unlatched position when the hood is closed.",
+        "report_date": "22/01/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V315000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2018 Nissan Altima vehicles.  If the primary hood latch is inadvertently released, there is an increased likelihood that the secondary hood latch may corrode over time.",
+        "report_date": "28/05/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:36:53.560Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

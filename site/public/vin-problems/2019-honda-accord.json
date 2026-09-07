@@ -1,0 +1,164 @@
+{
+  "slug": "2019-honda-accord",
+  "year": 2019,
+  "make": "Honda",
+  "model": "Accord",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 677,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 176,
+        "share_pct": 26,
+        "excerpts": [
+          "I’m having the same mechanical issues as everybody else all dashboard lights on and doesn’t even let me drive the vehicle. It gets stuck",
+          "2019 honda accord, the transmission is failing, Slipping Gears, Delayed or Harsh Shifting, Unusual Noises, Warning Lights on, Transmission or check engine light illuminate, signaling potential issues,",
+          "ALL THE SAFETY DASHBOARD LIGHTS ARE ON, WHAT IS THE PROBLEM? I NEED THIS SITUATION TO BE FIXED ASAP, IT DOESNT EVEN LET ME DRIVE, IT LOSES POWER AND THE BATTERY IS BRAND NEW."
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 150,
+        "share_pct": 22.2,
+        "excerpts": [
+          "CAR SUDDENLY TRIES TO STOP ON CLEAR ROAD GOING FREEWAY SPEED OF 70MPH.   I'M TRAVELLING ON THE HOV LANE WITH FEW VEHICLES ON THE LANE TO MY RIGHT.  THERE ARE NO VEHICLES IN FRONT OF ME.",
+          "*brake mitigation system , an yes it is available for inspection. *Car suddenly braked hard on a clear smooth road. Going 45 MPH *No it has not. *No it hasn't. No warning until a big BRAKE lit up on m",
+          "I am submitting a safety complaint regarding my 2019 Honda Accord LX.  While driving, a yellow “Brake System” warning light appeared on the dashboard. The vehicle continued to drive normally, and no o"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 109,
+        "share_pct": 16.1,
+        "excerpts": [
+          "I’m having the same mechanical issues as everybody else all dashboard lights on and doesn’t even let me drive the vehicle. It gets stuck",
+          "2019 honda accord, the transmission is failing, Slipping Gears, Delayed or Harsh Shifting, Unusual Noises, Warning Lights on, Transmission or check engine light illuminate, signaling potential issues,",
+          "The car was driving fine and then all of the dashboard lights came on. The car wouldn’t drive faster than 20 MPH. The dealership said it was a head gasket and injector problem. They quoted me $6000"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 102,
+        "share_pct": 15.1,
+        "excerpts": [
+          "2019 honda accord, the transmission is failing, Slipping Gears, Delayed or Harsh Shifting, Unusual Noises, Warning Lights on, Transmission or check engine light illuminate, signaling potential issues,",
+          "ALL THE SAFETY DASHBOARD LIGHTS ARE ON, WHAT IS THE PROBLEM? I NEED THIS SITUATION TO BE FIXED ASAP, IT DOESNT EVEN LET ME DRIVE, IT LOSES POWER AND THE BATTERY IS BRAND NEW.",
+          "The car was driving fine and then all of the dashboard lights came on. The car wouldn’t drive faster than 20 MPH. The dealership said it was a head gasket and injector problem. They quoted me $6000"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 90,
+        "share_pct": 13.3,
+        "excerpts": [
+          "I’m having the same mechanical issues as everybody else all dashboard lights on and doesn’t even let me drive the vehicle. It gets stuck",
+          "ALL THE SAFETY DASHBOARD LIGHTS ARE ON, WHAT IS THE PROBLEM? I NEED THIS SITUATION TO BE FIXED ASAP, IT DOESNT EVEN LET ME DRIVE, IT LOSES POWER AND THE BATTERY IS BRAND NEW.",
+          "The contact owns a 2019 Honda Accord. The contact stated that while driving approximately 75 MPH, the vehicle lost automotive power. The brake warning light was illuminated. The vehicle was taken back"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 24,
+      "fires": 2,
+      "injuries": 27,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2019,
+        "count": 63
+      },
+      {
+        "year": 2020,
+        "count": 58
+      },
+      {
+        "year": 2021,
+        "count": 48
+      },
+      {
+        "year": 2022,
+        "count": 74
+      },
+      {
+        "year": 2023,
+        "count": 81
+      },
+      {
+        "year": 2024,
+        "count": 138
+      },
+      {
+        "year": 2025,
+        "count": 120
+      },
+      {
+        "year": 2026,
+        "count": 93
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "20V314000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2019 Acura NSX, 2019 Acura RDX, RLX and RLX Sport Hybrid, 2018-2019 Honda Accord, Civic Hatchback, Civic Type R and HR-V, 2019-2020 Insight and 2019 Fit vehicles.  The low-pressure fuel pump inside the fuel tank may fail.",
+        "report_date": "28/05/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V771000",
+        "component": "ELECTRICAL SYSTEM:BODY CONTROL MODULE:SOFTWARE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2020 Accord Sedan, Accord Hybrid, and 2019-2020 Insight vehicles.  A software error may cause intermittent or continuous disruptions in communication between the Body Control Module (BCM) and other components.  This may result in malfunction",
+        "report_date": "10/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V215000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2020 Acura MDX, MDX Sport Hybrid, RDX, TLX, Honda Accord, Civic Hatchback, Insight, 2019 Acura ILX, Honda Accord Hybrid, Civic Coupe, Civic Coupe Si, Civic Sedan, Civic Sedan Si, Civic Type R, Fit, HR-V, Odyssey, Passport, Pilot and Ridgelin",
+        "report_date": "25/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V158000",
+        "component": "SEAT BELTS:FRONT:BUCKLE ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017-2020 CR-V, 2018-2019 Accord and Accord Hybrid, 2018-2020 Odyssey, 2019 Insight, and 2019-2020 Acura RDX vehicles.  A manufacturing issue with the front seat belts may cause the seat belt buckle channel to interfere with the release button, p",
+        "report_date": "09/03/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:03.178Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

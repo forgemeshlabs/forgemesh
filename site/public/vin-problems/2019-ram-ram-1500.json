@@ -1,0 +1,368 @@
+{
+  "slug": "2019-ram-ram-1500",
+  "year": 2019,
+  "make": "Ram",
+  "model": "Ram 1500",
+  "matched_as": {
+    "complaints": [
+      "1500"
+    ],
+    "recalls": [
+      "1500"
+    ]
+  },
+  "failures": {
+    "total_complaints": 1465,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 377,
+        "share_pct": 25.7,
+        "excerpts": [
+          "The 48-Volt Belt-Driven Hybrid Starter Generator / Motor Generator Unit (MGU / eTorque Alternator) suffered a catastrophic failure on my vehicle at approximately [Insert Mileage, e.g., 140,000] miles.",
+          "My 2019 Ram 1500 Rebel has recurring electrical/communication failures that occur every day. The truck repeatedly displays “ParkSense Temporarily Unavailable,” “Service Shifter,” “Service Tire Pressur",
+          "The exact failed component has not yet been identified. The malfunction appeared to involve the vehicle’s electrical, communication/network, ignition or starting system. The vehicle and its components"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 335,
+        "share_pct": 22.9,
+        "excerpts": [
+          "My truck's electric power steering (EPS) gets stuck in a left-hand turn and does not return to center. I have to physically turn the steering wheel to get it to return to center which causes the vehic",
+          "​SUMMARY OF ISSUE: Water intrusion from a defective factory rear window seal flooded the Radio Frequency (RF) Hub module, causing severe, dangerous network communication (CAN bus) failures while drivi",
+          "I was on the highway when the vehicle alerted me that shift was unavailable then the auto start/stop was unavailable then the airbags were unavailable then my FUEL and my MPH were not reading. My wind"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 226,
+        "share_pct": 15.4,
+        "excerpts": [
+          "The 48-Volt Belt-Driven Hybrid Starter Generator / Motor Generator Unit (MGU / eTorque Alternator) suffered a catastrophic failure on my vehicle at approximately [Insert Mileage, e.g., 140,000] miles.",
+          "This has now happened 3 separate times. Once 1 month ago, my husband and I were on the connecting road from [XXX] toward [XXX] by the water plants stopped in traffic and the truck completely powered o",
+          "When driving, I get a prompt on my dash to switch to park and then desired gear. I get no response from my accelerator until I do so. This particularly happens when I’m slowing down and accelerating a"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 205,
+        "share_pct": 14,
+        "excerpts": [
+          "This has now happened 3 separate times. Once 1 month ago, my husband and I were on the connecting road from [XXX] toward [XXX] by the water plants stopped in traffic and the truck completely powered o",
+          "The contact owns a 2019 Ram 1500. The contact stated that while driving at an undisclosed speed, the check engine warning light illuminated shortly afterwards. Several unknown warning lights were illu",
+          "I was on the highway when the vehicle alerted me that shift was unavailable then the auto start/stop was unavailable then the airbags were unavailable then my FUEL and my MPH were not reading. My wind"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 129,
+        "share_pct": 8.8,
+        "excerpts": [
+          "This has now happened 3 separate times. Once 1 month ago, my husband and I were on the connecting road from [XXX] toward [XXX] by the water plants stopped in traffic and the truck completely powered o",
+          "Pop up display indicates ABS failure, There exist already active recalls on 2019 Ram however according to Ram Customer Service my vehicle is not among  current recalls. My issue is the same as my neph",
+          "The ABS control module and Hydraulic Control module are faulty and available for inspection. My safety is at risk because the vehicle will go into a skid upon hard braking (ABS not fuctioning), the ve"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 74,
+      "fires": 11,
+      "injuries": 62,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2015,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 47
+      },
+      {
+        "year": 2019,
+        "count": 190
+      },
+      {
+        "year": 2020,
+        "count": 151
+      },
+      {
+        "year": 2021,
+        "count": 128
+      },
+      {
+        "year": 2022,
+        "count": 191
+      },
+      {
+        "year": 2023,
+        "count": 230
+      },
+      {
+        "year": 2024,
+        "count": 218
+      },
+      {
+        "year": 2025,
+        "count": 227
+      },
+      {
+        "year": 2026,
+        "count": 80
+      }
+    ]
+  },
+  "recalls": {
+    "count": 30,
+    "recalls": [
+      {
+        "campaign_number": "19V051000",
+        "component": "VISIBILITY:DEFROSTER/DEFOGGER/HVAC SYSTEM",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 RAM 1500 vehicles equipped with a 12\" touchscreen display and a base-level heating, ventilation and air conditioning (\"HVAC\") system.  Vehicles with this combination do not have a functioning windshield defrosting and defogging system.  As a result, th",
+        "report_date": "24/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V142000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Ram 1500 vehicles equipped with a 48v auxiliary battery system located behind the rear seat (sales code: XBZ).  Due to an incorrect assembly repair process, the auxiliary battery wire terminal connection may overheat.",
+        "report_date": "28/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V067000",
+        "component": "SERVICE BRAKES, HYDRAULIC:PEDALS AND LINKAGES",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Ram 1500 vehicles equipped with adjustable pedals.  The affected vehicles have a brake pedal that may move too far and separate from pedal assembly.",
+        "report_date": "05/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19E059000",
+        "component": "STRUCTURE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain Mopar Rear Step Kits, part number 82215289AB, designed for model year 2019 Ram 1500 trucks.  In the event of a rear impact crash, the rear step kit may cause the rear control arms to contact the fuel tank.",
+        "report_date": "27/08/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V020000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Ram 1500 vehicles.  The battery ground fastener on the driver-side front fender may have been improperly secured, possibly resulting in a loss of power steering assist.",
+        "report_date": "24/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V812000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Ram 1500 trucks.  These vehicles may have been built with a contaminated electric\r\npower steering (EPS) gear that may short circuit, potentially resulting in an intermittent loss of power steering assist.",
+        "report_date": "14/11/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V556000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Ram 1500 vehicles.  The instrument cluster may not properly illuminate driver warnings.  As such, these vehicles fails to conform with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 101, \"Control and Displays.\"",
+        "report_date": "26/07/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V201000",
+        "component": "STEERING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Jeep Wrangler and 2019 Ram 1500 vehicles.  These vehicles have improperly machined steering column stub shafts that may break, possibly causing the steering wheel to detach from the steering column.",
+        "report_date": "14/03/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V580000",
+        "component": "SEAT BELTS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Jeep Wrangler and Ram 2500, 2019-2020 Ram 1500 and 2020 Jeep Gladiator vehicles.  In the event of a crash, a front seat belt retractor may not properly slow the occupant's forward movement after locking.",
+        "report_date": "24/09/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V191000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2020 Jeep Gladiator and Jeep Cherokee, 2019-2020 Ram 1500 Pickup, Ram 2500 Pickup, Ram 3500 Pickup, Chrysler Pacifica, Dodge Durango, Jeep Grand Cherokee, Jeep Wrangler, and Jeep Renegade and 2019 Dodge Challenger vehicles equipped with 8.4\" or 12\" radio di",
+        "report_date": "10/09/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V080000",
+        "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Ram 1500 pickup trucks equipped with four-wheel drive.  A gear within the transfer case may not have been installed correctly, possibly causing the vehicle to become stuck in neutral.  If this occurs while driving, there could be a sudden loss of power",
+        "report_date": "13/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V822000",
+        "component": "SEATS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 RAM 1500 trucks.  The seat track position sensor on the manually-adjusted passenger seats may come loose and out of position, preventing the sensor from detecting if the seat is in the full-forward position.",
+        "report_date": "20/11/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V407000",
+        "component": "AIR BAGS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019-2020 Ram 1500 vehicles.  The flash memory of the Occupant Restraint Controller (ORC) may become corrupted, disabling the vehicle's air bags and seat belt pretensioners.",
+        "report_date": "31/05/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V448000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Ram 1500 trucks.  The spare tire provided may differ in size and required inflation pressure from the information on the tire placard label.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) ",
+        "report_date": "13/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V208000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:LINKAGES",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019-2020 Ram 1500, 1500 Classic and Jeep Compass vehicles.  The windshield wiper arm or arms may loosen, possibly causing the wipers to not operate properly and reduce the driver's visibility in certain weather conditions.",
+        "report_date": "09/04/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V632000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN:INFLATOR",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2015-2020 Ram 1500 Classic, 2015-2016 Ram 3500, and Ram 2500 vehicles, and 2016 Ram 3500 Cab Chassis with a gross vehicle weight rating less than 10,000 lbs.  The side air bag inflatable curtain (SABIC) inflator end cap may detach from the inflator, or the",
+        "report_date": "12/08/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V887000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Ram 1500 trucks.  An incorrect Tire Pressure Monitoring System (TPMS) sensor could have been installed during production causing the sensor to not display the low tire pressure warning indicator.  As such, these vehicles fail to comply with the require",
+        "report_date": "12/12/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V324000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018-2019 Ram 1500 pickup trucks.  The rear driveshaft may have an incomplete weld fusion between the tube and tube yoke, which may lead to weld cracking or the driveshaft fracturing.",
+        "report_date": "25/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V757000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:EMISSION CONTROL:GAS RECIRCULATION VALVE (EGR VALVE)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2019 Ram 1500 and 1500 Classic Pickup trucks equipped with 3.0L Eco Diesel engines.  The Exhaust Gas Recirculation (EGR) cooler may crack and allow pre-heated vaporized coolant to enter the EGR system. This mixture may combust inside the intake manifol",
+        "report_date": "24/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V556000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018-2019 RAM 1500 trucks.  The rear differential may have been insufficiently filled, possibly resulting in its failure.",
+        "report_date": "23/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V513000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019-2020 Ram 1500 vehicles equipped with adjustable pedals.  In certain accelerator pedal positions, the floormats may prevent the pedal from returning to the normal resting (idle) position.",
+        "report_date": "27/08/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V406000",
+        "component": "FUEL SYSTEM, DIESEL:DELIVERY:FUEL PUMP",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2020 Jeep Grand Cherokee, and 2014-2019 Ram 1500 vehicles equipped with 3.0L diesel engines.  A high pressure fuel pump (HPFP) failure may introduce internal debris into the fuel system, potentially resulting in fuel starvation.",
+        "report_date": "09/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V904000",
+        "component": "STRUCTURE:BODY:TAILGATE:HINGE AND ATTACHMENTS",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2019-2022 Ram 1500, 2500, and 3500 pickup trucks.  The tailgate may not latch properly due to misaligned tailgate strikers, which could result in the tailgate opening while driving.",
+        "report_date": "08/12/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V411000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2019 Ram 1500 and 2014-2020 Jeep Grand Cherokee vehicles equipped with 3.0L Diesel engines.  The crankshaft position sensor tone wheel may delaminate, causing the engine to lose its ability to synchronize the fuel injector pulses and cam shaft timing,",
+        "report_date": "08/06/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V653000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2019, 2021-2024 Ram 1500 vehicles.  Due to a software malfunction, the anti-lock brake system (ABS) control module may disable the electronic stability control system.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle S",
+        "report_date": "05/09/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V010000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN:INFLATOR",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2016-2019 Ram 3500, Ram 1500, 2016-2020 Ram 2500, and 2016 Ram 3500 Cab Chassis vehicles.  The right and left side curtain air bag inflators may rupture due to a manufacturing defect.",
+        "report_date": "16/01/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V298000",
+        "component": "AIR BAGS",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2019-2024 Ram 1500 vehicles.  The driver's side air bag may not be connected properly, which can cause the air bag not to deploy as intended.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 208,",
+        "report_date": "08/05/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V824000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN:INFLATOR",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2019 Ram 1500 Classic, Ram 2500, and Ram 3500 vehicles. The right and left side curtain air bag inflators may rupture due to a manufacturing defect.",
+        "report_date": "01/12/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V495000",
+        "component": "SEAT BELTS:REAR/OTHER:ANCHORAGE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2019-2026 Ram 1500 vehicles. The second-row seat belt buckle anchors may have been improperly installed. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 210, \"Seat Belt Assembly Anchorages.\"",
+        "report_date": "30/07/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:32.132Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

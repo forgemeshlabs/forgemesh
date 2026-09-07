@@ -1,0 +1,196 @@
+{
+  "slug": "2015-chevrolet-silverado",
+  "year": 2015,
+  "make": "Chevrolet",
+  "model": "Silverado",
+  "matched_as": {
+    "complaints": [
+      "SILVERADO 2500",
+      "SILVERADO 1500",
+      "SILVERADO 3500"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1576,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 445,
+        "share_pct": 28.2,
+        "excerpts": [
+          "Driving and a service trailer brake code popped up and wouldn’t turn off it is a very distracting ding",
+          "The contact owns a 2015 Chevrolet Silverado. The contact stated that while the contact's son was driving at an undisclosed speed, the check engine and traction control warning lights illuminated.  In ",
+          "Brake pedal gets hard no brakes pops back up all brakes lock up and throws u forward and then works fine for a day or 2 then same thing changed hydro pump 2 brake booster one and the last time it was "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 269,
+        "share_pct": 17.1,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2015 Chevrolet Silverado 2500 from an auction. It was later discovered that there was a mileage discrepancy. At the time of the purchase, the vehicle mileage wa",
+          "Steering great box replaced steering still not stable, electrical glitches such as stability trac service message, hill assist, breaking assist messages pop up and then disappear constantly, power ste",
+          "Driving and a service trailer brake code popped up and wouldn’t turn off it is a very distracting ding"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 222,
+        "share_pct": 14.1,
+        "excerpts": [
+          "Steering great box replaced steering still not stable, electrical glitches such as stability trac service message, hill assist, breaking assist messages pop up and then disappear constantly, power ste",
+          "There has been serious problems regarding the STABILITRAK system From GM Motors.",
+          "The contact owns a 2015 Chevrolet Silverado. The contact stated while driving at approximately 65 MPH the \"loss of power steering\" warning illuminated. The contact felt the steering wheel was hard to "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 195,
+        "share_pct": 12.4,
+        "excerpts": [
+          "My pickup truck has a Duramax diesel engine with a CP4 diesel injection pump. That pump has not failed yet in my truck. However it has been known to fail in numerous other GM vehicles with Duramax eng",
+          "The contact owns a 2015 Chevrolet Silverado. The contact stated that while the contact's son was driving at an undisclosed speed, the check engine and traction control warning lights illuminated.  In ",
+          "The fuel injection pump malfunctioned causing the truck to shut down going down the highway.  It was taken to a professional and was confirmed to be an issue with these vehicles.  There was no warning"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 193,
+        "share_pct": 12.2,
+        "excerpts": [
+          "The contact owns a 2015 Chevrolet Silverado 2500. The contact stated that while driving approximately 50 MPH, the vehicle started to vibrate and shudder abnormally. There was no warning illuminated. T",
+          "My pickup truck has a Duramax diesel engine with a CP4 diesel injection pump. That pump has not failed yet in my truck. However it has been known to fail in numerous other GM vehicles with Duramax eng",
+          "IN NOVEMBER AROUND THE 20TH -BATTERY WENT DEAD-CHARGED BATTERY AND TOOK VEHICLE TO BROTHERS AND STARTED TO SHIFT FUNNY-BATTERY WENT DEAD AGAIN-CHARGED AND DROVE HOME -THEN WENT GOT NEW BATTERY -PUT IN"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 75,
+      "fires": 29,
+      "injuries": 53,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 40
+      },
+      {
+        "year": 2015,
+        "count": 194
+      },
+      {
+        "year": 2016,
+        "count": 121
+      },
+      {
+        "year": 2017,
+        "count": 114
+      },
+      {
+        "year": 2018,
+        "count": 197
+      },
+      {
+        "year": 2019,
+        "count": 213
+      },
+      {
+        "year": 2020,
+        "count": 133
+      },
+      {
+        "year": 2021,
+        "count": 140
+      },
+      {
+        "year": 2022,
+        "count": 131
+      },
+      {
+        "year": 2023,
+        "count": 90
+      },
+      {
+        "year": 2024,
+        "count": 83
+      },
+      {
+        "year": 2025,
+        "count": 81
+      },
+      {
+        "year": 2026,
+        "count": 38
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "14V819000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015 Chevrolet Silverado 1500, and GMC Sierra 1500 vehicles manufactured November 24, 2014, to November 25, 2014.  Due to an improper heat-treatment, the rear axle shaft may fracture while the vehicle is being driven.",
+        "report_date": "24/12/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V719000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015 Chevrolet Silverado, Suburban, Tahoe, GMC Sierra, and Yukon XL vehicles, equipped with electric power steering (EPS).  Due to a problem with the EPS module, the affected vehicles may experience a sudden loss of power steering assist during",
+        "report_date": "10/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V446000",
+        "component": "SEATS",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2013-2014 Buick Encore and Cadillac ATS; 2014 Cadillac CTS, ELR, Chevrolet Caprice and SS vehicles; and 2014-2015 Chevrolet Silverado and GMC Sierra Trucks.  Due to an incomplete weld on the seat hook bracket assembly, the front seats in the af",
+        "report_date": "23/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V640000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2015 Chevrolet Silverado and GMC Sierra trucks manufactured January 24, 2014, to February 26, 2014, 2015 Chevrolet Suburban vehicles manufactured February 12, 2014 and Chevrolet Tahoe vehicles manufactured February 6, 2014, to February 13,",
+        "report_date": "09/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V209000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2015 Chevrolet Silverado 1500 and GMC Sierra 1500 trucks manufactured January 29, 2013, to January 21, 2015.  While entering the vehicle, the seat belt tensioner cable may be positioned such that the driver slides over it.  This movement m",
+        "report_date": "12/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V007000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM",
+        "summary": "General Motors is recalling certain 2014 model year Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles, and 2015 model year Cadillac Escalade and Escalade ESV; Chevrolet Silverado HD; and GMC Sierra HD, Yukon, and Yukon XL, equipped with a 4.3L engine or 5.3L engine.",
+        "report_date": "13/01/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V374000",
+        "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2015 Chevrolet Silverado and GMC Sierra vehicles, and model year 2015 GMC Yukon and Chevrolet Suburban and Tahoe vehicles.  In the affected vehicles, an electrical signal short may cause the transfer case to shift to neutral without the dr",
+        "report_date": "27/06/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:06.684Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

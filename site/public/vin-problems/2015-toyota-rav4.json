@@ -1,0 +1,164 @@
+{
+  "slug": "2015-toyota-rav4",
+  "year": 2015,
+  "make": "Toyota",
+  "model": "RAV4",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 303,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 84,
+        "share_pct": 27.7,
+        "excerpts": [
+          "The contact owns a 2015 Toyota Rav4. The contact stated that the radio was inoperable. The contact stated that the gauges failed to properly operate. While driving 65 MPH, the vehicle lost power steer",
+          "On Friday February 27, 2026 as the vehicle was being driven it caught fire. Fire department and sheriffs office was called to the scene. Vehicle fire was put out but the whole front end burned.",
+          "When we bought the SUV, it had a small top battery installed.  The battery slid over and caused my alternator to go out completely.  I must have caught fire, as there were burnt wires to the alternato"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 45,
+        "share_pct": 14.9,
+        "excerpts": [
+          "The contact owns a 2015 Toyota Rav4. The contact stated that the radio was inoperable. The contact stated that the gauges failed to properly operate. While driving 65 MPH, the vehicle lost power steer",
+          "November 20,2025 I was driving my 2015 Toyota Rav-4….Turning into my driveway and Suddenly a light on the dashboard came on…An emblem with the Steering  Wheel and Exclamation  point came on…I was glad",
+          "While driving a 2015 Toyota Rav4 (w/AWD) the vehicle's steering wheel started to shake and the vehicle lost acceleration. The check engine, AWD, and traction (trac) control lights illuminated. After p"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 37,
+        "share_pct": 12.2,
+        "excerpts": [
+          "On Friday February 27, 2026 as the vehicle was being driven it caught fire. Fire department and sheriffs office was called to the scene. Vehicle fire was put out but the whole front end burned.",
+          "The oil filter housing is made of plastic and can crack when removing and installing and if not alert after an oil change, the engine can blow if oil drains out under pressure.",
+          "The contact owns a 2015 Toyota Rav4. The contact stated while driving 30 MPH, the vehicle stalled. The contact was able to restart the vehicle however, there were several unknown warning lights illumi"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 31,
+        "share_pct": 10.2,
+        "excerpts": [
+          "In July 2026, the rear power liftgate on my Toyota RAV4 suddenly stopped operating properly and would not close. I was unable to push the hatch down normally and then noticed that one of the hinges ap",
+          "Purchased less than 2 months ago from Performance Mitsubishi in Delray Beach FL. Lift gate was not opening and closing properly. Yesterday the hinges broke and lift gate won't shut. It appears there i",
+          "Request for Resolution -Peeling Paint on 2025 Toyota RAV 4  I am writing to formally file a complaint regarding a paint peeling issue with my 2025 Toyota RAV 4 and Toyota's refusal to address the defe"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 31,
+        "share_pct": 10.2,
+        "excerpts": [
+          "On Friday February 27, 2026 as the vehicle was being driven it caught fire. Fire department and sheriffs office was called to the scene. Vehicle fire was put out but the whole front end burned.",
+          "The battery is off . It does not work. The car does not start. It looks like the battery is not properly installed. I just left my car at the Toyota dealership in June 12 for maintenance services, for",
+          "This is regarding potential safety issue related to the brake system.  Last week (10/1/23) I changed the rear brake pads for the first time since I got the car from the dealer.  The pads are original "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 37,
+      "fires": 41,
+      "injuries": 30,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 4
+      },
+      {
+        "year": 2015,
+        "count": 45
+      },
+      {
+        "year": 2016,
+        "count": 19
+      },
+      {
+        "year": 2017,
+        "count": 24
+      },
+      {
+        "year": 2018,
+        "count": 18
+      },
+      {
+        "year": 2019,
+        "count": 25
+      },
+      {
+        "year": 2020,
+        "count": 19
+      },
+      {
+        "year": 2021,
+        "count": 34
+      },
+      {
+        "year": 2022,
+        "count": 35
+      },
+      {
+        "year": 2023,
+        "count": 33
+      },
+      {
+        "year": 2024,
+        "count": 23
+      },
+      {
+        "year": 2025,
+        "count": 18
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "14V828000",
+        "component": "EQUIPMENT",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2014-2015 Toyota 4Runner, Tacoma, FJ Cruiser, Land Cruiser, RAV4, Scion FRS, and XB vehicles.  The affected vehicles may have accessories installed by SET, such as running boards or other items, that were incorrectly installed.",
+        "report_date": "30/12/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V011000",
+        "component": "TRAILER HITCHES",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2013-2015 Toyota Rav4 vehicles manufactured June 1, 2013, to December 29, 2014, and equipped with an accessory trailer light module.  The software within the module may incorrectly detect an electrical short and preventively tu",
+        "report_date": "16/01/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V144000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2015 Camry, Camry Hybrid, Highlander, and Highlander Hybrid, and 2014-2015 Rav4 vehicles.  A component of the electric power steering (EPS) electronic control unit (ECU) may have been damaged during the manufacturing p",
+        "report_date": "13/03/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V734000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2013-2018 RAV4 vehicles.  Certain replacement 12-volt batteries may not fit properly in the battery tray, allowing the battery to move and contact the hold-down bracket, possibly causing a short circuit.",
+        "report_date": "01/11/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:37:48.451Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

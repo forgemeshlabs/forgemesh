@@ -1,0 +1,160 @@
+{
+  "slug": "2020-nissan-altima",
+  "year": 2020,
+  "make": "Nissan",
+  "model": "Altima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 179,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 45,
+        "share_pct": 25.1,
+        "excerpts": [
+          "I currently own a 2020 Nissan Altima with 49,186 miles and I am reporting a recurring power door lock failure. This vehicle was inspected at the Nissan of Cumming location this morning to confirm the ",
+          "Both passenger-side and driver's side rear door lock mechanisms ceased working.  They do not work when attempting to lock/unlock the doors from the inside controls in the front seat.  These doors also",
+          "The warming lights for different items come on at random. Examples :Low washer fluid, gas cap open, speedometer digital speed not showing."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 36,
+        "share_pct": 20.1,
+        "excerpts": [
+          "When I am driving my car randomly states check engine and makes a beeping noise and then the engine starts to make some type of combustion noise and then slows down and then turns off.",
+          "The warming lights for different items come on at random. Examples :Low washer fluid, gas cap open, speedometer digital speed not showing.",
+          "The car stalls and began to jerk then shuts down the crash symbols comes on and goes off."
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 29,
+        "share_pct": 16.2,
+        "excerpts": [
+          "The contact owns a 2020 Nissan Altima. The contact stated that the auto-braking system unexpectedly activated, and there was a grinding sound coming from the brakes; however, the vehicle failed to sto",
+          "The car stalls and began to jerk then shuts down the crash symbols comes on and goes off.",
+          "I was leaving for work, backing out of the driveway, and the brakes just locked up out of no where. I’ve done this multiple times and the brakes have never done this. I tried pulling up and trying aga"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 20,
+        "share_pct": 11.2,
+        "excerpts": [
+          "See attached document for complaint.",
+          "The tire rod assembly disconnected and caused a near miss accident. The steering was no longer intact. The car had to be towed and repaired to the nearest auto repair shop.",
+          "The contact owns a 2020 Nissan Altima. The contact stated that while driving at 35 MPH around a curve, the steering wheel locked up. The vehicle shut off and turned back on. There were no warning ligh"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 18,
+        "share_pct": 10.1,
+        "excerpts": [
+          "The contact owns a 2020 Nissan Altima. The contact stated that the auto-braking system unexpectedly activated, and there was a grinding sound coming from the brakes; however, the vehicle failed to sto",
+          "I was leaving for work, backing out of the driveway, and the brakes just locked up out of no where. I’ve done this multiple times and the brakes have never done this. I tried pulling up and trying aga",
+          "THE VEHICLE HAS ACTIVATED A FALSE AEB ON SEVERAL OCASSIONS SINCE I PURCHASED THE VEHICLE.  I IMMEDIATELY TOOK IT BACK TO NISSAN AND THEY STATED THERE WERE NO RECALLS AND THE VEHICLE SEEMED TO HAVE NO "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 16,
+      "fires": 7,
+      "injuries": 15,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 2
+      },
+      {
+        "year": 2020,
+        "count": 24
+      },
+      {
+        "year": 2021,
+        "count": 17
+      },
+      {
+        "year": 2022,
+        "count": 20
+      },
+      {
+        "year": 2023,
+        "count": 33
+      },
+      {
+        "year": 2024,
+        "count": 36
+      },
+      {
+        "year": 2025,
+        "count": 32
+      },
+      {
+        "year": 2026,
+        "count": 15
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "21V138000",
+        "component": "STEERING:LINKAGES:TIE ROD ASSEMBLY",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2020-2021 Nissan Altima vehicles.  The tie rod ball joint fastener was not tightened properly, which could result in the tie rod ball joint detaching from the steering knuckle.",
+        "report_date": "04/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V169000",
+        "component": "TIRES",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2019-2020 Altima and 2018-2021 Titan vehicles equipped with Continental tires.  On the affected vehicles, it is possible that one or more tires were cured for too long during tire production.",
+        "report_date": "11/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V570000",
+        "component": "VISIBILITY:GLASS, SIDE/REAR",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2020 Altima, Maxima and Leaf vehicles.  The rear window glass may not remain properly secured to the vehicle.",
+        "report_date": "22/09/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V685000",
+        "component": "TIRES",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2020 Altima S grade vehicles equipped with Continental ProContact TX tires, size 215/60 R16 H, with TIN date code 3320 and Mold ID S-419149.  The tires may have been over cured.",
+        "report_date": "05/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V628000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2019-2021 Altima and 2020-2021 Sentra vehicles.  Damage to the camera harness can cause distortion or loss of the rearview camera display image.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Stan",
+        "report_date": "08/09/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V437000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2021-2024 Rogue, 2019-2020 Altima, 2019-2022 Infiniti QX50, and 2022 Infiniti QX55 vehicles equipped with 3-cylinder 1.5L or 4-cylinder 2.0L variable compression turbo (VC-Turbo) engines. The engine bearings may have manufacturing defects that",
+        "report_date": "27/06/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:22.271Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

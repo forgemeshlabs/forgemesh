@@ -1,0 +1,260 @@
+{
+  "slug": "2016-ford-explorer",
+  "year": 2016,
+  "make": "Ford",
+  "model": "Explorer",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 2443,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 582,
+        "share_pct": 23.8,
+        "excerpts": [
+          "The contact owns a 2016 Ford Explorer. The contact received notification of NHTSA Campaign Number: 25V347000 (Structure); however, the part to do the recall repair was not yet available. The vehicle w",
+          "After multiple communications with the local Ford Dealership, the recall on the vehicle has not been completed nor inspected. The Ford Dealership has repeatedly stated that they do not have the parts ",
+          "The contact owns a 2016 Ford Explorer. The contact stated that while driving 70 MPH, the driver’s side B-pillar trim detached from the vehicle and was dangling by two wires. The contact later used bla"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 528,
+        "share_pct": 21.6,
+        "excerpts": [
+          "Hello.  I purchased my car in 2018.  2-3 years later, the power steering would randomly go out while driving - on the highway and city roads.  This could happen once and then not again for 6+ months. ",
+          "2016 Ford Explorer, VIN [XXX]. Filing against Planet Ford Dallas regarding incomplete Regional Program 21R01 (Rear Toe Link Replacement), tied to Federal Safety Recall 21V537. May 11, 2026: Vehicle pr",
+          "The electronic power steering failed Yes its available for inspection My child and my safety were put at risk when I warning came up and said \"steering loss, stop safely\" and the steering wheel was lo"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 380,
+        "share_pct": 15.6,
+        "excerpts": [
+          "Truck turns off",
+          "Vehicle: 2016 Ford Explorer 2WD V6-3.5L VIN: [XXX] rchase: January 20, 2026 Odometer at Purchase: 70,929 miles (fraudulent — true mileage approximately 123,779 miles) Dealer: Drive Time Car Sales Comp",
+          "When acceleration hot air blows through dashboard fogging front driver windows. Weather strips in doors are coming apart."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 214,
+        "share_pct": 8.8,
+        "excerpts": [
+          "The contact called on behalf of his wife, who owns a 2016 Ford Explorer. The contact stated that while reversing at an undisclosed speed, the vehicle independently accelerated. The check engine warnin",
+          "My 2016 ford explorers torque converter has failed. It causes a extremely rough idle while in drive or reverse, the rpms vary and at a complete stop the car will continue to lunge forward. If I were t",
+          "Vehicle: 2016 Ford Explorer 2WD V6-3.5L VIN: [XXX] rchase: January 20, 2026 Odometer at Purchase: 70,929 miles (fraudulent — true mileage approximately 123,779 miles) Dealer: Drive Time Car Sales Comp"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 125,
+        "share_pct": 5.1,
+        "excerpts": [
+          "Truck turns off",
+          "I have a 2016 ford explorer limited and it has 2 separate recalls on it one being the exterior a pillar applique trim clip attachments are not properly engaged due to improper assembly which borders t",
+          "I was driving on the highway and the driver side trim piece on the window  flew off onto ongoing traffic. This is the second piece that flew off. The passenger side also flew off but was fixed. But no"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 38,
+      "fires": 14,
+      "injuries": 59,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 23
+      },
+      {
+        "year": 2016,
+        "count": 285
+      },
+      {
+        "year": 2017,
+        "count": 215
+      },
+      {
+        "year": 2018,
+        "count": 167
+      },
+      {
+        "year": 2019,
+        "count": 232
+      },
+      {
+        "year": 2020,
+        "count": 184
+      },
+      {
+        "year": 2021,
+        "count": 159
+      },
+      {
+        "year": 2022,
+        "count": 243
+      },
+      {
+        "year": 2023,
+        "count": 301
+      },
+      {
+        "year": 2024,
+        "count": 345
+      },
+      {
+        "year": 2025,
+        "count": 229
+      },
+      {
+        "year": 2026,
+        "count": 57
+      }
+    ]
+  },
+  "recalls": {
+    "count": 15,
+    "recalls": [
+      {
+        "campaign_number": "19V435000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2017 Explorer vehicles.  The rear suspension toe links may fracture due to stress on the rear suspension.",
+        "report_date": "10/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17E048000",
+        "component": "WHEELS:HUB",
+        "summary": "Ford Motor Company (Ford) is recalling certain Wheel Hub Bearing assemblies, part number HB5Z-1104-C, incorrectly listed as being for installation on the rear axles of 2011-2017 Ford Explorer 4X2 vehicles.  These bearings assemblies were manufactured without a self retention feature, possibly result",
+        "report_date": "28/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V475000",
+        "component": "SEATS:FRONT ASSEMBLY:RECLINER",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2016 Ford Explorer and F-150 vehicles equipped with a manual recline driver's seat.  The seat back frame may have insufficient welds which may not meet the requirements of Federal Motor Vehicle Safety Standard (FMVSS) numbers 202, \"Head Restr",
+        "report_date": "28/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V767000",
+        "component": "SEATS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016 F-150 and Explorer vehicles.  Loose power seat adjuster pivot bolts may cause the front seat cushions to detach and not properly restrain the seat occupant in the event of a crash.",
+        "report_date": "29/11/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V605000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY:MOUNTING",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2015 Ford Taurus, Lincoln MKS, and 2016 Ford Explorer vehicles manufactured on July 24, 2015.  During vehicle production, the fuel tank attachment bolts may not have been properly tightened.  As a result, the fuel tank straps may fracture and",
+        "report_date": "28/09/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V183000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2015-2016 Lincoln MKC vehicles manufactured November 25, 2013, to January 25, 2016, and 2016 Ford Explorer vehicles manufactured October 20, 2014, to January 28, 2016.  The affected vehicles are equipped with 2.3L GTDI engines and engine bloc",
+        "report_date": "31/03/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V464000",
+        "component": "PARKING BRAKE",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2015 Ford Taurus, Ford Flex, and Lincoln MKS vehicles manufactured May 4, 2015, to May 23, 2015, Lincoln MKT vehicles manufactured May 4, 2015, to May 21, 2015, and 2015-2016 Ford Explorer vehicles manufactured May 4, 2015, to May 23, 2015. T",
+        "report_date": "24/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V316000",
+        "component": "STRUCTURE:BODY",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles.  The retention pins could loosen and allow the roof rail covers to detach from the vehicle.",
+        "report_date": "05/05/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V692000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2014-2016 Explorer, 2014-2015 Taurus and 2014 Edge vehicles equipped with 2.0L or 2.3L engines and front wheel drive.  The support bracket for the front drive axle halfshaft may fail.",
+        "report_date": "10/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V537000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2017 Explorer vehicles originally sold, or ever registered, in Connecticut, Delaware, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshire, New Jersey, New York, Ohio, Pennsylvania, Rhode I",
+        "report_date": "15/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V675000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2017 Explorer vehicles originally sold, or currently registered in Connecticut, Delaware, the District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshire, New Jersey, New Yor",
+        "report_date": "12/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V031000",
+        "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2019 Explorer vehicles.  The A-pillar trim retention clips may not be properly engaged, allowing the trim to detach.",
+        "report_date": "19/01/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V347000",
+        "component": "STRUCTURE:BODY",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2017 Explorer vehicles. The driver and front passenger B-Pillar door trim may detach while driving.",
+        "report_date": "23/05/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V685000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Lincoln MKC, 2016-2023 Explorer, 2019-2020 Fusion, 2019-2024 Ranger, 2020-2022 Lincoln Corsair, Escape, 2021-2024 Bronco, Bronco Sport, and 2022-2024 Maverick vehicles. The engine block heater may crack and develop a coolant leak, causing it t",
+        "report_date": "10/10/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V448000",
+        "component": "STRUCTURE:BODY",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles. The roof rail covers may come loose and detach from the vehicle.",
+        "report_date": "14/07/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:26.342Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

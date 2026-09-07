@@ -1,0 +1,200 @@
+{
+  "slug": "2016-chevrolet-malibu",
+  "year": 2016,
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 860,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 310,
+        "share_pct": 36,
+        "excerpts": [
+          "2016 Chevrolet Malibu Hybrid LT 1.8L - current mileage 147,059 miles   The factory exhaust heat exchanger failed internally, leaking engine coolant into the exhaust system. This caused check engine co",
+          "Vacuum pump failure causing hard brake pedal which made near to impossible to brake safely and properly that lead to timing chain issues",
+          "The brake vacuum pump broke, causing my brakes to go rock hard and pieces fell down into the camshaft, causing engine damage"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 233,
+        "share_pct": 27.1,
+        "excerpts": [
+          "“Steering assist is reduced, drive with care” is showing up for a couple second and disappearing. When that happens my car seems to shut off and the steering wheel stiffens and pull to either the left",
+          "My car will rev up to 4000 rpm’s and my car will not go about 20 mph. My cruise stopped working after my car went into reduce engine power. The dealership said they fixed all issues but was back to do",
+          "My car caught on fire under the hood. As I was driving on road I heard a sound and my car started slowing down and smoke started coming from under the hood got out the car not a minute later flames of"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 174,
+        "share_pct": 20.2,
+        "excerpts": [
+          "My car will rev up to 4000 rpm’s and my car will not go about 20 mph. My cruise stopped working after my car went into reduce engine power. The dealership said they fixed all issues but was back to do",
+          "I am reporting a recurring safety defect related to GM’s known “Shift to Park” issue.  My vehicle displays a “Shift to Park” warning even when the vehicle is already in park, preventing the car from s",
+          "The contact owns a 2016 Chevrolet Malibu. The contact stated that after driving vehicle and shifting into park(P), there was a dinging alert sounded, with the “Shift to Park\" message displayed. The co"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 158,
+        "share_pct": 18.4,
+        "excerpts": [
+          "I am reporting a recurring safety defect related to GM’s known “Shift to Park” issue.  My vehicle displays a “Shift to Park” warning even when the vehicle is already in park, preventing the car from s",
+          "UNKNOWN   While I'm driving my car will lose power and go into reduced engine power mode and slows me down to a crawl. I've almost been hit in the back many times for to this. The coffee is P2138",
+          "Check engine light comes on and dash says reduced engine power"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 106,
+        "share_pct": 12.3,
+        "excerpts": [
+          "Vacuum pump failure causing hard brake pedal which made near to impossible to brake safely and properly that lead to timing chain issues",
+          "The brake vacuum pump broke, causing my brakes to go rock hard and pieces fell down into the camshaft, causing engine damage",
+          "The contact owns a 2016 Chevrolet Malibu. The contact stated that while driving approximately at 55 MPH in a rain storm and making a right turn, the ABS and Traction Control warning lights had illumin"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 23,
+      "fires": 2,
+      "injuries": 17,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2015,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 29
+      },
+      {
+        "year": 2017,
+        "count": 54
+      },
+      {
+        "year": 2018,
+        "count": 116
+      },
+      {
+        "year": 2019,
+        "count": 198
+      },
+      {
+        "year": 2020,
+        "count": 135
+      },
+      {
+        "year": 2021,
+        "count": 91
+      },
+      {
+        "year": 2022,
+        "count": 78
+      },
+      {
+        "year": 2023,
+        "count": 53
+      },
+      {
+        "year": 2024,
+        "count": 55
+      },
+      {
+        "year": 2025,
+        "count": 38
+      },
+      {
+        "year": 2026,
+        "count": 12
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "18V400000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "General Motors LLC (GM) is recalling certain 2016-2018 Chevrolet Malibu vehicles.  During servicing, a Passenger Presence System (PPS) may have been installed that was not correctly calibrated to the vehicle's seat type.  As a result, the PPS may not properly identify an adult passenger from a child",
+        "report_date": "14/06/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V358000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2018 GMC Canyon, 2016-2017 Buick Envision, 2016-2018 Chevrolet Colorado and Malibu, 2017-2018 GMC Acadia, 2018 Buick LaCrosse, Cadillac ATS, Chevrolet Equinox, and GMC Terrain vehicles.  The high pressure fuel pump may detach from its mounting flange",
+        "report_date": "31/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V272000",
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016 Chevrolet Malibu vehicles manufactured March 7, 2016, through March 12, 2016.  The memory chip in the electronic brake control module (EBCM) may fail and cause the loss of electronically controlled brake systems including anti-lock brakes ",
+        "report_date": "05/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V781000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016 Chevrolet Malibu vehicles manufactured November 18, 2015, to June 7, 2016.  The fabric of the side-impact air bag cushion may tear during deployment.",
+        "report_date": "26/10/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V502000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016-2017 Buick Verano and 2016 Chevrolet Malibu as the electronic park lock lever may allow the ignition key to be removed without the transmission being in PARK.  Also, certain 2013 Buick Encore,  2011 Buick Regal, 2013-2014 Buick Verano, 201",
+        "report_date": "05/07/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V084000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Genera Motors LLC (GM) is recalling certain model year 2016 Chevrolet Camaro, Malibu, Silverado and GMC Sierra vehicles.  The radio may intermittently fail to provide an audio warning when the key has been left in the ignition and the door is opened or when the driver does not fasten their seat belt",
+        "report_date": "11/02/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V151000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "General Motors LLC (GM) is recalling certain 2016 Malibu vehicles manufactured February 16, 2016, to March 5, 2016.  The two weld studs that mount the front and rear side impact air bags may fracture and separate from the air bag during deployment.  As such, these vehicles fail to comply with the re",
+        "report_date": "11/03/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V125000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016 Chevrolet Colorado vehicles manufactured January 19, 2016, to February 2, 2016, Chevrolet Malibu vehicles manufactured January 9, 2016, to January 26, 2016, and 2016 GMC Canyon vehicles manufactured January 21, 2016, to February 4, 2016. T",
+        "report_date": "02/03/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V649000",
+        "component": "SEAT BELTS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2016-2021 Chevrolet Malibu and 2019-2021 Cadillac XT4 vehicles.  The rear seat belt retractors may be improperly secured with loose or missing fasteners.",
+        "report_date": "20/08/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:38.702Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

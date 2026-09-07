@@ -1,0 +1,204 @@
+{
+  "slug": "2012-ford-fusion",
+  "year": 2012,
+  "make": "Ford",
+  "model": "Fusion",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 2612,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 1509,
+        "share_pct": 57.8,
+        "excerpts": [
+          "While I was driving my 2012 Ford Fusion  on August 3rd the steering cut out. I parked the car and re-started it and it worked again. It went to the shop (Extra Mile Automotive) on XXX where they infor",
+          "Vehicle experienced loss of power steering so it was hard to steer.When I called a ford dealership I was told my vehicle didn’t qualify for any power steering recalls so I would have to pay full price",
+          "I am submitting this formal complaint against Ford Motor Company and its authorized dealership network for falsely reporting a safety recall repair as \"resolved\" while applying an unauthorized, tempor"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 436,
+        "share_pct": 16.7,
+        "excerpts": [
+          "On [XXX] ,I was driving in my car heading home with my [XXX]  son in the backseat when my steering wheel just locked up on me and didn't want to turn and it was just stiff.  I turn off my car immediat",
+          "The contact owns a 2012 Ford Fusion. The contact received notifications of NHTSA Campaign Numbers: 15V34000 (STEERING), 19V001000 (AIR BAGS), and 21V158000 (AIR BAGS); however, the parts to do the rec",
+          "The contact owns a 2012 Ford Fusion. The contact received notification of NHTSA Campaign Numbers: 19V001000 (Air Bags) 21V158000 (Air Bags) and would like to be removed from the recall distribution li"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 175,
+        "share_pct": 6.7,
+        "excerpts": [
+          "While I was driving my 2012 Ford Fusion  on August 3rd the steering cut out. I parked the car and re-started it and it worked again. It went to the shop (Extra Mile Automotive) on XXX where they infor",
+          "I was just driving and I lost power steering, it was incredibly difficult to steer and it was Heavy Steering, and warnings appeared on the dash.",
+          "The Power Steering Assist Fault notice keeps popping up on the dashboard screen.  When this happens, the power steering is inoperable leaving me stranded. I've had my mechanic fix it several times (af"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 162,
+        "share_pct": 6.2,
+        "excerpts": [
+          "Good evening, I’m emailing to you regarding my ford fusion q20212. My steering has went out non drivable. I did see where that year had a lot of power steering issues.. could you help me out on the po",
+          "On [XXX] ,I was driving in my car heading home with my [XXX]  son in the backseat when my steering wheel just locked up on me and didn't want to turn and it was just stiff.  I turn off my car immediat",
+          "The contact owns a 2012 Ford Fusion. The contact stated that after coming to a stop, the vehicle stalled. The transmission warning light was illuminated. The vehicle was restarted, but the failure per"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 130,
+        "share_pct": 5,
+        "excerpts": [
+          "The contact owns a 2012 Ford Fusion. The contact stated that while driving at an undisclosed speed, the brake pedal was depressed; however, the vehicle failed to stop as intended. The contact stated t",
+          "My car does not always respond when the brakes are tapped. They are soft/squishy at times and I have to push the pedal all the way to the floor for the car to stop. This issue has been occuring off & ",
+          "Brake system. Pedal is soft and braking force to stop is reduced. Yes, at first they thought it was the brake booster, and know thinking it is the master cylinder, now they aren't even sure what it mi"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 111,
+      "fires": 9,
+      "injuries": 66,
+      "deaths": 3
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 15
+      },
+      {
+        "year": 2012,
+        "count": 64
+      },
+      {
+        "year": 2013,
+        "count": 157
+      },
+      {
+        "year": 2014,
+        "count": 239
+      },
+      {
+        "year": 2015,
+        "count": 219
+      },
+      {
+        "year": 2016,
+        "count": 194
+      },
+      {
+        "year": 2017,
+        "count": 377
+      },
+      {
+        "year": 2018,
+        "count": 319
+      },
+      {
+        "year": 2019,
+        "count": 252
+      },
+      {
+        "year": 2020,
+        "count": 150
+      },
+      {
+        "year": 2021,
+        "count": 139
+      },
+      {
+        "year": 2022,
+        "count": 148
+      },
+      {
+        "year": 2023,
+        "count": 138
+      },
+      {
+        "year": 2024,
+        "count": 99
+      },
+      {
+        "year": 2025,
+        "count": 75
+      },
+      {
+        "year": 2026,
+        "count": 24
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "19V001000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2014 Ford Mustang vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, Puerto Rico, American Samoa, Guam, the Northern Mariana Islands (Saipan), and the U.S. Vi",
+        "report_date": "07/01/2019",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V024000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012 Ford Fusion and Mustang and Lincoln Zephyr and MKZ vehicles originally sold, or ever registered, in Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, Puerto Rico, American Samoa, Guam, the Northern Marian",
+        "report_date": "10/01/2017",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V340000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2011-2012 Ford Fusion vehicles without a 3.5L engine and Lincoln MKZ hybrid electric vehicles, 2011 Mercury Milan vehicles, 2011-2012 Ford Taurus, Ford Flex, Lincoln MKS, and Lincoln MKT vehicles equipped with a 3.5L GTDI engine and 2013 Ford",
+        "report_date": "02/06/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V158000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2007-2011 Ranger, 2006-2012 Fusion, Lincoln Zephyr, Lincoln MKZ, 2006-2011 Mercury Milan, 2007-2010 Ford Edge, and Lincoln MKX vehicles.  The driver's side air bag inflator may explode due to propellant degradation occurring after long-term exposure to ",
+        "report_date": "10/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21E013000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain air bag inflator and/or module replacement service parts that may have been used as part of a collision repair.  The parts include certain driver-side air bag inflators and/or modules, designed to fit 2005-2014 Ford Mustang and Mustang GT500.  It also i",
+        "report_date": "16/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V081000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2005-2014 Mustang, 2004-2011 Ranger, 2009-2011 Mercury Milan, 2006 Ford GT, 2008-2012 Fusion, 2007-2010 Edge and Lincoln MKX, and 2009-2010 Lincoln MKZ vehicles.  These vehicles may be equipped with a driver or passenger frontal air bag inflator used as",
+        "report_date": "16/02/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:33:43.123Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

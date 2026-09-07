@@ -1,0 +1,260 @@
+{
+  "slug": "2014-jeep-cherokee",
+  "year": 2014,
+  "make": "Jeep",
+  "model": "Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 2642,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 1465,
+        "share_pct": 55.5,
+        "excerpts": [
+          "My vehicle is experiencing a critical structural failure directly related to Safety Recall W47. Due to severe, unmitigated drivetrain vibrations caused by internal Power Transfer Unit (PTU) input spli",
+          "Failure of the PTU prevented vehicle from going into park. Gears in PRU stripped causing complete failure and vehicle would not move.",
+          "The PTU is bad and I’ve replaced it twice with no successful fix"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 514,
+        "share_pct": 19.5,
+        "excerpts": [
+          "The gas pedal acceleration and a cruise control came on and got stuck between 35 and 45 miles an hour time I hit the other vehicle and laying on the brakes was probably 38 to 40 miles an hour prior th",
+          "I have a 2014 Jeep Cherokee that i have had since 2019. Since I have owned it, there have been several transmission recalls. I am currently dealing with a new transmission issue, where it is jerky and",
+          "Transmission control sensor"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 448,
+        "share_pct": 17,
+        "excerpts": [
+          "On 05/30/2026 approximately 12:15. My Jeep radio screen prompted \"service needed, no phone connected\" and a few other words I did not have an opportunity to memorize. The check engine light came on an",
+          "I had a recall completed in March 2023 for transmission issues. Since January 2026, my vehicle has been in a repair for a part that is backorder. The part is Transfer Case Control Module (TCCM). The p",
+          "Transmission control sensor"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 187,
+        "share_pct": 7.1,
+        "excerpts": [
+          "Parking brake engages while driving down the road pulled control module out and has water corrosion looked up causes and seen there was a recall/lawsuit in need of recall",
+          "My car is safely in my driveway. It only has 18,000 miles driven. It became stuck in wheel drive, greatly reducing my ability to drive the vehicle. The 2014 Cherokee is known for PTU failures in which",
+          "In November 2025, I recently completed a recall repair to my 2014 Jeep Cherokee (NHSTA #XXX/Jeep #49A). I picked up my Jeep and parked it and did not drive it for several weeks. In December 2025, I re"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 186,
+        "share_pct": 7,
+        "excerpts": [
+          "In December 2023 encountered a failure of the vehicles Rear Differential Module (RDM). Failure of the RDM on this vehicle poses several significant safety issues, not dissimilar to concerns raised by ",
+          "I purchased this 2014 Jeep Cherokee from Taverna Collection in Feb 2025 and received it in March 2025. The selling dealer was required to inspect the vehicle before delivery and did not report any tra",
+          "My 2014 Jeep Cherokee began exhibiting repeated transmission and electrical malfunctions, particularly after startup or while idling. The most concerning issue is the appearance of a “Switch to Park” "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 56,
+      "fires": 16,
+      "injuries": 42,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1918,
+        "count": 1
+      },
+      {
+        "year": 1922,
+        "count": 1
+      },
+      {
+        "year": 2000,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 15
+      },
+      {
+        "year": 2014,
+        "count": 362
+      },
+      {
+        "year": 2015,
+        "count": 350
+      },
+      {
+        "year": 2016,
+        "count": 354
+      },
+      {
+        "year": 2017,
+        "count": 210
+      },
+      {
+        "year": 2018,
+        "count": 203
+      },
+      {
+        "year": 2019,
+        "count": 276
+      },
+      {
+        "year": 2020,
+        "count": 227
+      },
+      {
+        "year": 2021,
+        "count": 159
+      },
+      {
+        "year": 2022,
+        "count": 132
+      },
+      {
+        "year": 2023,
+        "count": 154
+      },
+      {
+        "year": 2024,
+        "count": 83
+      },
+      {
+        "year": 2025,
+        "count": 82
+      },
+      {
+        "year": 2026,
+        "count": 30
+      }
+    ]
+  },
+  "recalls": {
+    "count": 13,
+    "recalls": [
+      {
+        "campaign_number": "19V447000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014 Jeep Cherokee vehicles equipped with 3.2L engines.  In the event that a clutch becomes stuck in the transmission, the transmission software may shift the transmission to neutral.",
+        "report_date": "13/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V824000",
+        "component": "EQUIPMENT",
+        "summary": "Chrysler (FCA US LLC) is recalling various Dodge, Chrysler, and RAM vehicles equipped with Kidde Plastic-Handle or Push Button 'Pindicator' Fire Extinguishers.  A list of the affected trailer models is available at: https://static.nhtsa.gov/odi/rcl/2017/RMISC-17V824-0103.pdf.  These extinguishers ma",
+        "report_date": "21/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V590000",
+        "component": "SEATS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2014-2016 Jeep Cherokee vehicles manufactured July 29, 2013, to February 5, 2016.  The seat fasteners on the first or second row seats may not have been tightened to the proper torque specification.",
+        "report_date": "10/08/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V529000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2014-2015 Jeep Cherokee and 2015 Chrysler 200, Jeep Renegade, RAM ProMaster, and 2016 Fiat 500X vehicles equipped with 9-speed automatic transmissions.  The transmission sensor clusters may have insufficient crimps in the transmission wire harnes",
+        "report_date": "12/07/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V041000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Chrysler is recalling certain model year 2014-2015 Jeep Cherokee vehicles manufactured January 1, 2013, to November 19, 2014.  The affected vehicles may experience unintended side curtain and seat air bag deployment during vehicle operation.",
+        "report_date": "28/01/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V461000",
+        "component": "EQUIPMENT:ELECTRICAL:RADIO/TAPE DECK/CD ETC.",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2013-2015 Ram 1500, 2500, 3500, 4500, and 5500, 2015 Chrysler 200, Chrysler 300, Dodge Charger, and Dodge Challenger, 2014-2015 Jeep Grand Cherokee, Cherokee, and Dodge Durango, and 2013-2015 Dodge Viper vehicles.  The affected vehicles are equip",
+        "report_date": "23/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V293000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2014 Dodge Durango vehicles manufactured January 16, 2014 to April 8, 2014, Jeep Grand Cherokee vehicles manufactured January 16, 2014 to April 8, 2014, Jeep Grand Cherokee SRT vehicles manufactured February 3, 2014 to April 8, 2014, and ",
+        "report_date": "04/06/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V393000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2014-2015 Jeep Cherokee vehicles manufactured January 4, 2013, to February 18, 2015 and equipped with a Power Liftgate option.  In the affected vehicles, water may enter the Power Liftgate Control Module and cause a high resistance short circuit ",
+        "report_date": "22/06/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V509000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2014 Jeep Cherokee vehicles manufactured January 4, 2013, to July 11, 2014.  Use of the front windshield wipers on dry glass may cause damage to the body control module (BCM).",
+        "report_date": "12/08/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V392000",
+        "component": "SUSPENSION:REAR:SHOCK ABSORBER",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2014 Jeep Cherokee and Ram 1500 and 2015 Chrysler 200 vehicles.  Due to an insufficient weld, the rear shocks may detach from the vehicle at one end and possibly damage other chassis components, the tire or result in reduced braking.",
+        "report_date": "02/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V343000",
+        "component": "POWER TRAIN:DRIVELINE:DIFFERENTIAL UNIT",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2017 Jeep Cherokee vehicles equipped with a two-speed Power Transfer Unit (PTU).  Relative movement in the Power Transfer Unit (PTU) between the differential input splines and the transmission output shaft may cause some input spline teeth to wear off,",
+        "report_date": "11/06/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V338000",
+        "component": "ELECTRICAL SYSTEM:WIRING: REAR COMPARTMENT/TRUNK",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2016 Jeep Cherokee vehicles equipped with a power liftgate.  An electrical short in the power liftgate module may lead to a vehicle fire with the ignition on or off.",
+        "report_date": "11/05/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:37:38.772Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

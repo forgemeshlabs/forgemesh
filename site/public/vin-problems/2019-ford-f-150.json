@@ -1,0 +1,169 @@
+{
+  "slug": "2019-ford-f-150",
+  "year": 2019,
+  "make": "Ford",
+  "model": "F-150",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 36,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 32,
+        "share_pct": 88.9,
+        "excerpts": [
+          "My truck has just under 130k miles. Bought it at 18k miles. At 47k miles I had to have the cam phasers replaced and timing chain fixed. At 76k miles the trans (10r80) blew and had it replaced. At 105k",
+          "Despite several transmission services there remains a clunky shift between gears 7 and 8.  The problem continues.  Other owners of this model have told me that this problem eventually broke their vehi",
+          "10 speed cvt transmission. Truck was struggling with 1-3 shift, reving, hesitating, and then jumping. Hard shifts, and clunking. Took it to transmission shop got valve body replacement... less than a "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 3,
+        "share_pct": 8.3,
+        "excerpts": [
+          "My truck has routinely been very hard shifting in 3rd to 4th gear.  Recently it downshifted from 8th to 4th without warning and made a loud clunking noise.  It still runs, but the transmission seems t",
+          "While driving on a highway, my 2019 Ford F-150 suddenly lost power during acceleration due to a transmission malfunction. The truck hesitated and failed to respond to the accelerator, nearly causing a",
+          "While driving my vehicle (2019 Ford F150), it suddenly came to a complete stop. The engine shut off and the steering wheel locked up. While in the middle of a roadway, I had to quickly throw my vehicl"
+        ]
+      },
+      {
+        "component": "WHEELS",
+        "complaints": 2,
+        "share_pct": 5.6,
+        "excerpts": [
+          "vehicle shifted from 1st to 3rd gear and as I accelerated the engine RPMs drastically increased. The transmission jumped from 3rd to 8th gear and then immediately dropped to 1st gear while I was at 40",
+          "Tire/wheel was losing air, upon investigation I discovered a cracked rim, which is my second in 8 months. Upon looking online, I see that ford is attributing this issue to aggressive stiff-wall offroa"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 2,
+        "share_pct": 5.6,
+        "excerpts": [
+          "Its a sensor that marks the wrong temperature n the truck",
+          "While driving my vehicle (2019 Ford F150), it suddenly came to a complete stop. The engine shut off and the steering wheel locked up. While in the middle of a roadway, I had to quickly throw my vehicl"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 2,
+        "share_pct": 5.6,
+        "excerpts": [
+          "While driving my vehicle (2019 Ford F150), it suddenly came to a complete stop. The engine shut off and the steering wheel locked up. While in the middle of a roadway, I had to quickly throw my vehicl",
+          "The contact owns a 2019 Ford F-150. The contact stated that while the transmission was downshifting, there was a loud bang coming from the transmission, with a popping sound coming from the rear suspe"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 0,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 29
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "20V097000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 trucks equipped with high series LED headlamps with Autolamp (On/Off) functionality.  The Daytime Running Lamps (DRL) may remain activated instead of dimming to parking lamps when the Master Lighting Switch (MLS) is manually rotated from",
+        "report_date": "21/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V805000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY:CABLES",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2019-2020 F-150 vehicles. The fastener securing the Power Distribution Box (PDB) 12V cable and Battery Monitoring System (BMS) eyelets to the positive battery terminal may loosen and affect the vehicle's systems such as instrument panel displays and bra",
+        "report_date": "12/11/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V894000",
+        "component": "ENGINE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2019 Ford F-150 and 2017-2019 Ford F-250 Super Duty, F-350 Super Duty, F-450 Super Duty, and F-550 Super Duty pick-up trucks equipped with an engine block heater.   Water and contaminants may get into the block heater cable's splice connector causi",
+        "report_date": "18/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V633000",
+        "component": "SEATS:FRONT ASSEMBLY:RECLINER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 and 2019-2020 F-250, F-350, F-450, and F-550 Super Duty pickup trucks, and 2018-2019 Ford Explorer, 2019-2020 Expedition, and 2020 Escape vehicles equipped with driver and/or passenger's manual front seat back recliner mechanisms.  Also ",
+        "report_date": "28/08/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V278000",
+        "component": "ENGINE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2019 Ford F-150 and 2017-2019 Ford F-250 Super Duty, F-350 Super Duty, F-450 Super Duty, and F-550 Super Duty pick-up trucks equipped with an engine block heater and previously remedied under recall 18V894.   During the previous repair, the block h",
+        "report_date": "08/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V252000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2019 F-150, Super Duty F-250, F-350, F-450, and F-550 vehicles.  Due to a poor electrical connection, the rearview camera may intermittently display a blank or distorted image.  As such, these vehicles fail to comply with the requirements of Federal Mot",
+        "report_date": "14/04/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V852000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2025 Explorer, Lincoln Aviator, 2020-2024 Escape, Lincoln Corsair, 2018-2024 F-150, Expedition and Lincoln Navigator vehicles.  The air bag warning label may be missing from the dashboard.  As such, these vehicles fail to comply with the requiremen",
+        "report_date": "08/11/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V442000",
+        "component": "BACK OVER PREVENTION:SOFTWARE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2022 Transit Connect, 2019-2020 MKZ, MKX,  Edge, Continental, F-150, Nautilus, Fusion, 2019-2023 Ranger, Mustang, 2020-2021 EcoSport, Expedition, Navigator, 2020-2022 Escape, F-250 SD, Corsair, 2020-2023 Aviator, Transit, 2020-2024 Explorer, 2021-2",
+        "report_date": "27/06/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V373000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 vehicles previously repaired incorrectly under recall number 20V097. When the headlight switch is turned from \"Autolamps\" to \"Headlamps On,\" the Daytime Running Lamps (DRLs) may remain fully bright instead of dimming to parking lamps as ",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:13.310Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

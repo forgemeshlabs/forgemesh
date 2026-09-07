@@ -1,0 +1,248 @@
+{
+  "slug": "2015-ford-fusion",
+  "year": 2015,
+  "make": "Ford",
+  "model": "Fusion",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1059,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 278,
+        "share_pct": 26.3,
+        "excerpts": [
+          "The 2015 ford fusion are very known for this issue with coolant lost and more recently I was driving and a warning popped up saying my coolant was over temps so I pulled over and turned the car off ne",
+          "I have a coolant intrusion into the engine and blew my engine in the middle of driving down the highway. No signs, no warning. Lost control, ended up on side of road. Had husband pull it the rest of t",
+          "Engine warning display came on with \"cylinder over temperature\" immediately after temperature gauge went from normal (slightly under 1/2 way) to \"Hot\" immediately. Shut off engine - opened hood, coola"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 181,
+        "share_pct": 17.1,
+        "excerpts": [
+          "When driving off and on the power steering will go out and different warning lights will come on including “hill parking assist is off”.",
+          "The contact owns a 2015 Ford Fusion. The contact stated that while driving 45 MPH, the messages \"Loss of Traction Control\" and \"Advancetrac Off\" were displayed, and the vehicle lost power steering fun",
+          "The contact owns a 2015 Ford Fusion. The contact stated that there was an abnormal popping sound coming from the vehicle while pulling out of the driveway and driving approximately 10 MPH. The contact"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 155,
+        "share_pct": 14.6,
+        "excerpts": [
+          "While driving, the car’s acceleration started to slow down an no matter how much I pressed the gas, it wouldn’t go.  I was only able to do 5 miles an hour.  It was a loud noise like it was reving up, ",
+          "On 2/4/26, I experienced a slight skip while driving, But did not continue. The very next morning while in reverse, A winding sound started. Put car in drive pulled out onto main road, drove fine, not",
+          "My transmission was serviced under the cable bushing recall - since then the main complaint is the grinding, loss of power, losing gears etc. the rear camera also fails to function over half of the ti"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 135,
+        "share_pct": 12.7,
+        "excerpts": [
+          "Brakes, emergency brake, brake switchs. Backup camera turns black while backing up. And yes it’s available for inspection. Car keeps braking and jerking in the other lane by itself. Emergency brake ke",
+          "The contact owns a 2015 Ford Fusion. The contact stated while driving 45 MPH, the RPM was elevated; however, while depressing the accelerator pedal, the vehicle failed to respond as intended. No warni",
+          "A previously recalled issue has reoccurred in my vehicle. I’d like to report it and understand my options moving forward.  My brake light is on and will not go off! Message appearing “hill assist not "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 121,
+        "share_pct": 11.4,
+        "excerpts": [
+          "When driving off and on the power steering will go out and different warning lights will come on including “hill parking assist is off”.",
+          "The rear backup camera screen is black or flickers, and sometimes shows an error message like \"Camera not available.\"  Ford just issued another recall for rear cameras for this issue, but deliberately",
+          "My 2015 Ford Fusion back over prevention camera system, is no longer working. I only get the black screen with error message \"Camera is unavailable. Contact dealership\". Which is creating a safety iss"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 39,
+      "fires": 6,
+      "injuries": 19,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 5
+      },
+      {
+        "year": 2015,
+        "count": 49
+      },
+      {
+        "year": 2016,
+        "count": 35
+      },
+      {
+        "year": 2017,
+        "count": 68
+      },
+      {
+        "year": 2018,
+        "count": 133
+      },
+      {
+        "year": 2019,
+        "count": 123
+      },
+      {
+        "year": 2020,
+        "count": 121
+      },
+      {
+        "year": 2021,
+        "count": 91
+      },
+      {
+        "year": 2022,
+        "count": 129
+      },
+      {
+        "year": 2023,
+        "count": 118
+      },
+      {
+        "year": 2024,
+        "count": 91
+      },
+      {
+        "year": 2025,
+        "count": 68
+      },
+      {
+        "year": 2026,
+        "count": 25
+      }
+    ]
+  },
+  "recalls": {
+    "count": 13,
+    "recalls": [
+      {
+        "campaign_number": "19V632000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2016 Ford Fusion and Lincoln MKZ, 2015-2016 Ford Edge, and 2016 Lincoln MKX vehicles originally sold, or currently registered in Connecticut, Delaware, the District of Columbia, Illinois, Indiana, Iowa, Maine, Maryland, Massachusetts, Michigan, Min",
+        "report_date": "29/08/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V471000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:LEVER AND LINKAGE:FLOOR SHIFT",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2014 Ford Escape, and 2013-2016 Ford Fusion vehicles, equipped with six-speed automatic transmissions.  The bushing that attaches the transmission shifter cable to the transmission may degrade over time and cause the bushing to detach from the tran",
+        "report_date": "16/07/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V590000",
+        "component": "SEAT BELTS:FRONT",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015 Fusion and Lincoln MKZ vehicles.  In the event of a crash, heat from the deployment of a seat belt pretensioner may cause a front seat belt anchor cable to fail.",
+        "report_date": "12/08/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V362000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:LEVER AND LINKAGE:FLOOR SHIFT",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2016 Fusion vehicles equipped with 2.5 liter engines.  The bushing that attaches the transmission shifter cable to the transmission may degrade over time and cause the bushing to detach from the transmission.  The condition could allow the driver t",
+        "report_date": "13/05/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V875000",
+        "component": "SEAT BELTS:FRONT",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2016 Ford Fusion vehicles manufactured November 2, 2012, to July 31, 2014, and 2013-2015 Lincoln MKZ vehicles manufactured November 14, 2012, to July 31, 2014.  In the event of a crash, heat from the deployment of a seat belt pretensione",
+        "report_date": "05/12/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V167000",
+        "component": "STEERING: STEERING WHEEL/HANDLE BAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2014-2018 Lincoln MKZ and Ford Fusion vehicles.  The steering wheel retaining bolt may loosen allowing the steering wheel to detach while driving.",
+        "report_date": "12/03/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V250000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2015 Ford Fusion and Lincoln MKZ vehicles manufactured February 3, 2012, to March 20, 2015, and 2015 Ford Edge vehicles manufactured February 26, 2015, to February 28, 2015, and originally sold, or currently registered in, Connecticut, D",
+        "report_date": "28/04/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V736000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2014-2015 Ford Fusion vehicles manufactured July 27, 2013, to October 31, 2014, 2015 Ford Fusion Hybrid vehicles manufactured February 24, 2014, to October 31, 2014, and 2015 Ford Fusion Energi vehicles manufactured July 14, 2014, to October ",
+        "report_date": "18/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V177000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2014-2015 Fiesta, 2014-2016 Fusion and Lincoln MKZ vehicles sold, or ever registered in Alabama, Arkansas, Arizona, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, New Mexico, Nevada, Oklahoma, Oregon, South Carolina, Texas, Utah, Washingt",
+        "report_date": "23/03/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V011000",
+        "component": "SERVICE BRAKES, HYDRAULIC:PEDALS AND LINKAGES",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2014-2015 Fusion, Lincoln MKZ, and 2015 Mustang vehicles originally sold or ever registered, in Texas, Louisiana, Mississippi, Alabama, Florida, Georgia, South Carolina, North Carolina, Virginia and Hawaii.  Exposure to certain environmental conditions,",
+        "report_date": "13/01/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V413000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2019 Escape, 2013-2018 C-Max, 2013-2016 Fusion, 2013-2021 Transit Connect, and  2015-2018 Edge vehicles.  The bushing that attaches the shifter cable to the transmission may degrade or detach.",
+        "report_date": "10/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V162000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2018 Fusion and Lincoln MKZ vehicles.  The front brake hoses may rupture and leak brake fluid.",
+        "report_date": "10/03/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V376000",
+        "component": "POWER TRAIN:MANUAL TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2018 Focus and 2013-2016 Fusion vehicles previously repaired incorrectly under recall numbers 18V169 and 18V845. The clutch may fracture, resulting in damage to the transmission assembly and possibly a transmission fluid leak.",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:39.412Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

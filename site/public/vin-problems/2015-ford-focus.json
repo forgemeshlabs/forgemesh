@@ -1,0 +1,204 @@
+{
+  "slug": "2015-ford-focus",
+  "year": 2015,
+  "make": "Ford",
+  "model": "Focus",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1028,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 561,
+        "share_pct": 54.6,
+        "excerpts": [
+          "The transmission was repaired at 48k and I am now at 76k having severe issues with jerking, shuddering, and so forth. The car has undergone excellent maintenance for the CARFAX proves this. I bought t",
+          "My transmission gave out for the 3rd time on 8-1-26 as I was driving it slow down while on the highway busy street and studder it only goes into 2nd and 3rd gear when slowing down I can hear things cl",
+          "The contact owns a 2015 Ford Focus. The contact stated that the vehicle failed to shift into reverse and failed to properly shift gears. The vehicle failed to accelerate above 9 MPH. The vehicle was s"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 174,
+        "share_pct": 16.9,
+        "excerpts": [
+          "The vehicle experienced a sudden and complete loss of motive power due to an internal engine failure while stopped at an idle in active traffic. The engine stalled completely and would not restart, cr",
+          "The contact owns a 2015 Ford Focus. The contact stated that the vehicle failed to shift into reverse and failed to properly shift gears. The vehicle failed to accelerate above 9 MPH. The vehicle was s",
+          "own a 2015 Ford Focus that has experienced repeated transmission-related problems over several years. The symptoms have included harsh shifting, hesitation, failure to shift properly, and at one point"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 139,
+        "share_pct": 13.5,
+        "excerpts": [
+          "I made an initial post on 06/18/2026 so please reference that as well as this. I have not been able to drive the car since it died on me on the 18th of June. The car has been looked at a few times (ac",
+          "Engine Stalls: the engine stalls unexpectedly while driving at highway speeds and city/street speeds.  Loss Of Power: Sudden loss of motive power creates an immediate crash hazard.  Starting Issues: t",
+          "After my car was left on idle for a couple minutes ( about 5), it began to shake, the check engine light came on, then it completely died. When I went to restart it, it stalled and then finally turned"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 96,
+        "share_pct": 9.3,
+        "excerpts": [
+          "While driving steering suddenly stopped working.  Red light came up onto dash stating \"steering down safely pull over\"",
+          "I’m writing about my 2015 Ford Focus (VIN: [XXX] ), which has under 38,500 miles. While heading to work, I suddenly lost power steering—no warning, just stiff steering out of nowhere. The repair cost ",
+          "Steering default on the dashboard and I can’t drive steering is too stiff , hard to turn"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 68,
+        "share_pct": 6.6,
+        "excerpts": [
+          "I made an initial post on 06/18/2026 so please reference that as well as this. I have not been able to drive the car since it died on me on the 18th of June. The car has been looked at a few times (ac",
+          "own a 2015 Ford Focus that has experienced repeated transmission-related problems over several years. The symptoms have included harsh shifting, hesitation, failure to shift properly, and at one point",
+          "There were two times within a week where the car stopped in the middle of traffic. One was on Route 100 in a merge lane and the other was on the offramp of route 30 to 100 Exton. This happened in the "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 32,
+      "fires": 4,
+      "injuries": 29,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 3
+      },
+      {
+        "year": 2015,
+        "count": 58
+      },
+      {
+        "year": 2016,
+        "count": 67
+      },
+      {
+        "year": 2017,
+        "count": 89
+      },
+      {
+        "year": 2018,
+        "count": 105
+      },
+      {
+        "year": 2019,
+        "count": 190
+      },
+      {
+        "year": 2020,
+        "count": 90
+      },
+      {
+        "year": 2021,
+        "count": 64
+      },
+      {
+        "year": 2022,
+        "count": 114
+      },
+      {
+        "year": 2023,
+        "count": 99
+      },
+      {
+        "year": 2024,
+        "count": 83
+      },
+      {
+        "year": 2025,
+        "count": 45
+      },
+      {
+        "year": 2026,
+        "count": 21
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "18V735000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012-2018 Ford Focus vehicles with a 2.0L GDI or 2.0L GTDI engine.  The Canister Purge Valve (CPV) may malfunction, possibly causing excessive vacuum in fuel vapor management system.",
+        "report_date": "22/10/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V169000",
+        "component": "POWER TRAIN:MANUAL TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2014 Ford Fusion vehicles equipped with a 1.6L GTDI engine and 6-speed manual transmission and 2015-2016 Ford Focus vehicles equipped with a 1.0L GTDI engine and 6-speed manual transmission.  Also included are four 2017 Ford Focus vehicles that had",
+        "report_date": "12/03/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V643000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2012-2015 Ford Focus, 2013-2015 Ford Escape and Ford C-MAX, 2015 Lincoln MKC and Ford Mustang, and 2014-2016 Ford Transit Connect vehicles.  A component within the door latches may break, preventing the doors from latching and/or leading the ",
+        "report_date": "06/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V698000",
+        "component": "LATCHES/LOCKS/LINKAGES:HATCHBACK/LIFTGATE:LOCK",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2017 Ford Focus hatchback vehicles manufactured February 14, 2012, to August 26, 2016 and equipped with a manual transmission.  The hatchback of the affected vehicles may be unlatched with a single press of the interior latch release but",
+        "report_date": "28/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V436000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2015 Ford Escape vehicles manufactured April 1, 2014, to June 12, 2015, Ford Focus vehicles manufactured June 17, 2014, to June 12, 2015, and Ford C-Max vehicles manufactured April 22, 2014, to June 12, 2015.  In the affected vehicles, the en",
+        "report_date": "08/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V331000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2014 Fiesta, 2013-2014 Fusion, 2015 Mustang, 2013-2015 Escape and C-Max, 2012-2015 Focus, 2014-2016 Transit Connect, 2013-2014 Lincoln MKZ, and 2015 MKC vehicles.  These vehicles were previously recalled and repaired under recalls 15V-246, 16V-643 ",
+        "report_date": "08/06/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V011000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2018 Focus, 2013-2019 Escape, and 2015-2016 MKC vehicles equipped with a 2.0L engine. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+        "report_date": "15/01/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V369000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:EVAPORATIVE EMISSIONS:CANISTER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012-2018 Focus vehicles previously repaired incorrectly under recall number 18V735. The Canister Purge Valve (CPV) may malfunction, causing the engine to stall unexpectedly while driving.",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V376000",
+        "component": "POWER TRAIN:MANUAL TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2018 Focus and 2013-2016 Fusion vehicles previously repaired incorrectly under recall numbers 18V169 and 18V845. The clutch may fracture, resulting in damage to the transmission assembly and possibly a transmission fluid leak.",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:35.598Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "2020-jeep-cherokee",
+  "year": 2020,
+  "make": "Jeep",
+  "model": "Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 288,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 164,
+        "share_pct": 56.9,
+        "excerpts": [
+          "On [XXX], our 2020 Jeep Cherokee with approximately 62,562 miles experienced a sudden loss of motive power while traveling at highway speed on [XXX] out of Dayton, Wyoming. There was a clunk, the engi",
+          "The contact owns a 2020 Jeep Cherokee. The contact received notification for NHTSA Campaign Number: 26V290000 (Power Train); however, the part to complete the recall repair was not yet available. The ",
+          "Vehicle suffered complete failure of the Power Transfer Unit (PTU) / drivetrain system, resulting in vehicle lockup, failure to engage drive gears, and automatic parking brake lockout when placed in P"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 39,
+        "share_pct": 13.5,
+        "excerpts": [
+          "I was driving on the interstate and lost my engine power",
+          "The contact owns a 2020 Jeep Cherokee. The contact stated that while the vehicle was parked, the contact was informed that there was an oil leak underneath the vehicle. The contact was unsure if the o",
+          "The contact owns a 2020 Jeep Cherokee. The contact stated that while driving at an undisclosed speed, the vehicle intermittently lost automotive power and there was an abnormal sound coming from the e"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 34,
+        "share_pct": 11.8,
+        "excerpts": [
+          "Sudden total loss of power steering assist while driving over a small pothole on Pearman Dairy Road. Full details, diagnostic trouble codes (U0420-00, U0010-00, U1428-00, B2309-64), and Jeep case refe",
+          "2020 Jeep Cherokee Limited AWD, VIN [XXX] , approx. 111,355 miles. Reporting serious safety concern: repeated/worsening electrical system failure with intermittent loss of power steering assist. For n",
+          "At about 50,000 started noticing a shift in transmission noise, and a new “burnt smell”. There was a delay in shifting to a lower gear. Took to a shop 2x different times for them to say it was “normal"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 24,
+        "share_pct": 8.3,
+        "excerpts": [
+          "Vehicle suffered complete failure of the Power Transfer Unit (PTU) / drivetrain system, resulting in vehicle lockup, failure to engage drive gears, and automatic parking brake lockout when placed in P",
+          "My vehicle has been in the shop over 6 times due to the malfunctioning of the EMERGENCY BREAKING SYSTEM. Less then 2.5wks after I purchased this vehicle, I started experiencing my E brake randomly eng",
+          "I was driving on the highway on my way to work around 7:45 am. As I was driving my car lost all power and I heard a grinding sound. As the grinding sound was happening, I had no control over my car. I"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 22,
+        "share_pct": 7.6,
+        "excerpts": [
+          "Sudden total loss of power steering assist while driving over a small pothole on Pearman Dairy Road. Full details, diagnostic trouble codes (U0420-00, U0010-00, U1428-00, B2309-64), and Jeep case refe",
+          "Pulling into gas station and power steering went out when pulling in, almost hit pump.  Not only did it now need a new power steering rack but the clock spring had to be replaced to program it",
+          "I went to this dealership today to get my steering column control module reprogrammed. Which includes   What the Dealer’s Reprogramming Usually Covers (Standard & Expected)  • SCCM (Steering Column Mo"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 5,
+      "injuries": 9,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 1996,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 25
+      },
+      {
+        "year": 2021,
+        "count": 16
+      },
+      {
+        "year": 2022,
+        "count": 16
+      },
+      {
+        "year": 2023,
+        "count": 28
+      },
+      {
+        "year": 2024,
+        "count": 42
+      },
+      {
+        "year": 2025,
+        "count": 98
+      },
+      {
+        "year": 2026,
+        "count": 59
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "20V191000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2020 Jeep Gladiator and Jeep Cherokee, 2019-2020 Ram 1500 Pickup, Ram 2500 Pickup, Ram 3500 Pickup, Chrysler Pacifica, Dodge Durango, Jeep Grand Cherokee, Jeep Wrangler, and Jeep Renegade and 2019 Dodge Challenger vehicles equipped with 8.4\" or 12\" radio di",
+        "report_date": "10/09/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V637000",
+        "component": "STEERING:RACK AND PINION:RACK",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019-2020 Jeep Cherokee vehicles.  The steering rack gear may break, possibly causing a loss of steering control.",
+        "report_date": "29/08/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V290000",
+        "component": "POWER TRAIN",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019-2023 Jeep Cherokee vehicles. The power transfer unit (PTU) may fail.",
+        "report_date": "07/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:42.489Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

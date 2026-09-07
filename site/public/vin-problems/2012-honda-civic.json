@@ -1,0 +1,168 @@
+{
+  "slug": "2012-honda-civic",
+  "year": 2012,
+  "make": "Honda",
+  "model": "Civic",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 454,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 149,
+        "share_pct": 32.8,
+        "excerpts": [
+          "We were not injured.  We fixed the problem before we did get hurt..message came up.. “Check airbag system”.  We had t replace our driver’s side airbag at the cost of over $1,500.",
+          "The contact owns a 2012 Honda Civic. The contact stated that the front passenger’s side seat weight sensor failed to operate properly. The contact stated that while the front passenger’s seat was occu",
+          "I purchased a vehicle from a private seller on offer up. The seller stated the vehicle was clean title, he also stated the vehicle was low mileage with 112,000. When I got the vehicle the tire sensor "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 74,
+        "share_pct": 16.3,
+        "excerpts": [
+          "Component or system failure: The vehicle experienced failures involving the engine/ignition system, emissions system, Vehicle Stability Assist (VSA), and power steering. On July 14, 2025, warning mess",
+          "Esp code1.33-06 while driving car I suddenly lose of power steering making it difficult to control vehicle",
+          "This is a serious matter that needs to be evaluated as it is a potentially fatal safety issue for human drivers of 2012 Honda Civic. This email needs to be sent please to the Department of Transportat"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 59,
+        "share_pct": 13,
+        "excerpts": [
+          "The contact owns a 2012 Honda Civic. The contact stated that the alarm indicator sounded off intermittently without cause. The vehicle was taken to a certified mechanic, who informed the contact that ",
+          "My passenger airbag light is on and stays on.",
+          "I am reporting a serious safety concern with my 2012 Honda Civic Hybrid.  What component or system failed and is it available for inspection? The hybrid drive system and regenerative braking system ar"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 49,
+        "share_pct": 10.8,
+        "excerpts": [
+          "The contact owns a 2012 Honda Civic. The contact stated that while driving at various speeds, the vehicle hesitated or stalled while depressing the accelerator pedal. The “Check Emission Systems\" mess",
+          "Component or system failure: The vehicle experienced failures involving the engine/ignition system, emissions system, Vehicle Stability Assist (VSA), and power steering. On July 14, 2025, warning mess",
+          "While driving, my 2012 Honda Civic Hybrid suddenly loses power and steering ability. The vehicle stalls and the steering wheel locks up, making it impossible to safely maneuver. This has happened mult"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 38,
+        "share_pct": 8.4,
+        "excerpts": [
+          "ABS/VSA module faulty. Upon internet research it seems to be a very common problem among owners of this vehicle.",
+          "Driving around town, I stopped our 2012 Honda Civic at a stoplight.  The brake pedal vibrated from the ABS modulator, then went all the way to the floor.  I had the brake system checked at a workshop,",
+          "ABS Control Module leads fell off. The 2012 Honda Civic has a sealed ABS/VSA control module. This module has leads connected with rigid solid core cables that are known to disconnect and fall off due "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 55,
+      "fires": 5,
+      "injuries": 41,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 19
+      },
+      {
+        "year": 2012,
+        "count": 60
+      },
+      {
+        "year": 2013,
+        "count": 48
+      },
+      {
+        "year": 2014,
+        "count": 42
+      },
+      {
+        "year": 2015,
+        "count": 41
+      },
+      {
+        "year": 2016,
+        "count": 28
+      },
+      {
+        "year": 2017,
+        "count": 41
+      },
+      {
+        "year": 2018,
+        "count": 38
+      },
+      {
+        "year": 2019,
+        "count": 42
+      },
+      {
+        "year": 2020,
+        "count": 20
+      },
+      {
+        "year": 2021,
+        "count": 21
+      },
+      {
+        "year": 2022,
+        "count": 9
+      },
+      {
+        "year": 2023,
+        "count": 13
+      },
+      {
+        "year": 2024,
+        "count": 13
+      },
+      {
+        "year": 2025,
+        "count": 15
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "12V548000",
+        "component": "STEERING:COLUMN",
+        "summary": "Honda is recalling certain model year 2012 Civic passenger vehicles, manufactured from October 26, 2012, through October 30, 2012.  These vehicles were assembled with the incorrect steering column assembly.",
+        "report_date": "21/11/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V288000",
+        "component": "FUEL SYSTEM, OTHER:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "HONDA IS RECALLING CERTAIN MODEL YEAR 2012 CIVIC 2-DOOR AND 4-DOOR VEHICLES MANUFACTURED FROM APRIL 21, 2011, THROUGH MAY 2, 2011.  THERE IS A POSSIBILITY THAT AN O-RING, WHICH SEALS A CONNECTION IN THE FUEL FEED LINE, IS MISALIGNED.  IF THE O-RING IS MISALIGNED, A SMALL FUEL LEAK MAY OCCUR.",
+        "report_date": "18/05/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V256000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "HONDA IS RECALLING CERTAIN MODEL YEAR 2012 HONDA CIVIC VEHICLES.  DURING ASSEMBLY, THE PROCESS REQUIRED TO SEAT THE DRIVERS SIDE DRIVESHAFT AND SET THE RETAINING CLIP WAS NOT COMPLETED.  AS A RESULT, THE DRIVESHAFT MAY SEPARATE.",
+        "report_date": "04/06/2012",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:32:31.415Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

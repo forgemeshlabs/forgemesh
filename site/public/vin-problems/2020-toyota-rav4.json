@@ -1,0 +1,160 @@
+{
+  "slug": "2020-toyota-rav4",
+  "year": 2020,
+  "make": "Toyota",
+  "model": "RAV4",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 630,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 180,
+        "share_pct": 28.6,
+        "excerpts": [
+          "\"Engine Coolant Bypass Valve failed suddenly on highway (Code P2681-15), risking engine overheat and stall. Toyota acknowledged this defect under CSP 24TE04 but refused assistance due to vehicle havin",
+          "Coolant bypass valve leak. An known issue however dealership will not pay for repairs due to vehicle having 106000 mile. 6000 over what the bulletin 24TE04 states it will cover.",
+          "Toyota made a defective coolant valve in their 2019-2021 cars that leaked spontaneously in these vehicles. Over 950,000 cars have been affected to date, including my 2020 Rav4. They are aware of the i"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 119,
+        "share_pct": 18.9,
+        "excerpts": [
+          "If I don't drive the car for 1 to 2 weeks, the car's 12v is completely drained of power and the care needs to be jumped, otherwise, it will not start.  This is consistent.  I've taken this to several ",
+          "Odometer Fraud. The contact purchased a 2020 Toyota Rav4. The contact stated that it was discovered that there was a mileage discrepancy. The vehicle was a dealer sale. At the time of purchase, the ve",
+          "Toyota made a defective coolant valve in their 2019-2021 cars that leaked spontaneously in these vehicles. Over 950,000 cars have been affected to date, including my 2020 Rav4. They are aware of the i"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 89,
+        "share_pct": 14.1,
+        "excerpts": [
+          "Coolant bypass failed at 55,000 miles. This car has barely been used. This car is almost in mint condition and the coolant bypass has failed resulting the car not being able to be driven at all until ",
+          "1. I had to have Injector Fuel Service due to my vehicle having a sluggish feeling while driving from Stop to Start. The vehicle also had a throttling motion while driving.   2. A message appeared on ",
+          "A week prior to this incident, the 2020 RAV4 was taken to Toyota for its maintenance check where everything was checked, replaced and changed. However, the last two days an incessant message keeps pop"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 58,
+        "share_pct": 9.2,
+        "excerpts": [
+          "The contact owns a 2020 Toyota RAV4. The contact stated that while driving at an undisclosed speed, the contact noticed that there was an unusual sound coming from the rear of the vehicle. The contact",
+          "The contact owns a 2020 Toyota RAV4. The contact stated that while driving, the contact observed a swishing noise coming from the rear passenger door. Upon inspecting the vehicle, the contact noticed ",
+          "Hinges on the trunk wore out abnormally fast causing the struts to fail and trunk to misalign causing further lift gate damage.  Caused a roughly one inch gap in the trunk there light was visible and "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 55,
+        "share_pct": 8.7,
+        "excerpts": [
+          "The contact owns a 2020 Toyota Rav4. The contact stated while driving 40 MPH, the message \"Air Bag Fault\" was displayed. An independent mechanic was contacted. The vehicle was taken to the independent",
+          "I received recall notice December 2023 for defect in front passenger seat airbag that could cause the airbag to fail to deploy in the event of a crash. I have contacted the dealer several times and ha",
+          "The contact owns a 2020 Toyota Rav4. The contact received notification of NHTSA Campaign Number: 23V865000 (Air Bags); for over a year. The contact stated that the vehicle was taken for routine mainte"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 17,
+      "fires": 5,
+      "injuries": 14,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 15
+      },
+      {
+        "year": 2020,
+        "count": 153
+      },
+      {
+        "year": 2021,
+        "count": 48
+      },
+      {
+        "year": 2022,
+        "count": 44
+      },
+      {
+        "year": 2023,
+        "count": 127
+      },
+      {
+        "year": 2024,
+        "count": 159
+      },
+      {
+        "year": 2025,
+        "count": 55
+      },
+      {
+        "year": 2026,
+        "count": 29
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V734000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020-2021 Toyota Avalon and 2020 Avalon Hybrid, RAV4, and RAV4 Hybrid vehicles.  Breakaway pins within the steering column, designed to absorb energy and reduce injury during a crash, could have been damaged during production, po",
+        "report_date": "25/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V064000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020 Toyota Avalon Hybrid, Camry, Camry Hybrid and  Lexus ES300h and 2019-2020 RAV4 and RAV4 Hybrid vehicles equipped with 2.5L 4-Cylinder engines.  Porosity in the engine castings may result in cracks than can allow coolant to l",
+        "report_date": "06/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V373000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2019-2020 RAV4 and 2020 RAV4 Hybrid vehicles equipped with electric power steering (EPS).  Water may enter through the steering gear box cover and cause a loss of electric power steering assist.",
+        "report_date": "24/06/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V286000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM:LOWER ARM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2019-2020 RAV4 and RAV4 Hybrid vehicles.  The front lower suspension arms may have cracks, which may result in the suspension arm separating from the front wheel assembly.",
+        "report_date": "20/05/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V865000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020-2021 Avalon, Avalon Hybrid, Corolla, Highlander, Highlander Hybrid, RAV4, RAV4 Hybrid, Lexus ES350, Lexus RX350, Lexus RX450H, 2021 Sienna Hybrid, Lexus ES250, 2020-2022 Camry, Camry Hybrid, and ES300H vehicles.  A short cir",
+        "report_date": "20/12/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:04.148Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

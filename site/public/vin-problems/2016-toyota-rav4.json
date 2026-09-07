@@ -1,0 +1,148 @@
+{
+  "slug": "2016-toyota-rav4",
+  "year": 2016,
+  "make": "Toyota",
+  "model": "RAV4",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 238,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 58,
+        "share_pct": 24.4,
+        "excerpts": [
+          "I was driving 9/3 and my left blinker light came on solid. I was not using my blinker. Within a few seconds my check engine light  came on and another light. Then within 2 minutes the front left engin",
+          "The repair shop I was able to pull into as I was experiencing the issue with my vehicle reported: \"Battery is unstable and is arcing off of the positive terminal. Battery tray, battery hold down tie, ",
+          "Intermittent stalling in various conditions including idling, highway driving and city driving."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 46,
+        "share_pct": 19.3,
+        "excerpts": [
+          "The braking system malfunctioned during Winter and snowy road conditions. Several instances happened during the month of December 2023 and 2024. Latest were December 10 and 13, 2024. The brake pad was",
+          "On July 13th I was driving at a slow speed and I was making a right turn and the steering wheel felt like it was locked in not being able to turn into my lane and so a car coming into my direction, so",
+          "The contact owned a 2016 Toyota RAV4.  The contact stated that while driving 40 MPH,  the brake pedal was depressed, however, the vehicle failed to stop as intended.  The contact stated that due to th"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 28,
+        "share_pct": 11.8,
+        "excerpts": [
+          "Headlights and taillights are fogging/hazing up to where they dimmed out the lights when turned on making is somewhat difficult to see or others behind me to see me.",
+          "A fogging/white residue has developed over time on the inside of the tail lights.   As this continues to progress it would make the lights much dimmer and harder to see.  ( I see several references to",
+          "All 6 of mine lights (front/fog and inside/outside rear) are collecting haze / contamination on the inside of the lens. Lights are a primary safety/warning device. Anything (like interior fogging) tha"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 24,
+        "share_pct": 10.1,
+        "excerpts": [
+          "Intermittent stalling in various conditions including idling, highway driving and city driving.",
+          "I called for a jumpstart for my truck after it cut off while I was turning onto a parking lot I hit a bump and it just cut off. I had to turn the truck completely off then start it again, after it sta",
+          "While shopping at the grocery store, I experienced an incident upon leaving the parking lot. After reaching my first red light, I noticed smoke rapidly billowing from under the hood of my vehicle. My "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 19,
+        "share_pct": 8,
+        "excerpts": [
+          "​\"The red master warning triangle and an 'SRS Airbag System Malfunction' message illuminated unexpectedly on the dashboard of my 2016 Toyota Rav4 XLE under normal driving conditions. I contacted a cer",
+          "Air bags malfunction. There is a warning ️ pop up message on my dashboard that says, Air bags malfunction contact manufacturer dealer.  This is clearly a safety issue and it should be part of a recall",
+          "The contact owned a 2016 Toyota Rav4. The contact stated while driving 30-40 MPH and attempting to change lanes, the contact looked through the sideview mirrors and then looked forward. The contact no"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 33,
+      "fires": 12,
+      "injuries": 27,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 50
+      },
+      {
+        "year": 2017,
+        "count": 32
+      },
+      {
+        "year": 2018,
+        "count": 20
+      },
+      {
+        "year": 2019,
+        "count": 26
+      },
+      {
+        "year": 2020,
+        "count": 15
+      },
+      {
+        "year": 2021,
+        "count": 17
+      },
+      {
+        "year": 2022,
+        "count": 18
+      },
+      {
+        "year": 2023,
+        "count": 21
+      },
+      {
+        "year": 2024,
+        "count": 21
+      },
+      {
+        "year": 2025,
+        "count": 12
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "16V198000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2016 Toyota RAV4 vehicles manufactured October 30, 2015, to February 3, 2016, 2016 Lexus RX350 vehicles manufactured October 26, 2015, to February 8, 2016, and 2016 Lexus ES350 vehicles manufactured September 1, 2015, ",
+        "report_date": "07/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V236000",
+        "component": "TIRES",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2016 Toyota Yaris, Rav4, Land Cruiser and 4Runner vehicles, and Scion FR-S, iM, and TC vehicles manufactured January 28, 2016, to March 14, 2016.  The Load Carrying Capacity Modification Label may not reflect the correct added ",
+        "report_date": "22/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V734000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2013-2018 RAV4 vehicles.  Certain replacement 12-volt batteries may not fit properly in the battery tray, allowing the battery to move and contact the hold-down bracket, possibly causing a short circuit.",
+        "report_date": "01/11/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:57.826Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

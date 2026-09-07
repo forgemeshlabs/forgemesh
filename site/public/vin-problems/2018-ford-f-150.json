@@ -1,0 +1,251 @@
+{
+  "slug": "2018-ford-f-150",
+  "year": 2018,
+  "make": "Ford",
+  "model": "F-150",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 56,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 43,
+        "share_pct": 76.8,
+        "excerpts": [
+          "1st problem transmission: Hard shifting up and down in certain gears. 3 gear seems the worst. When slowing down to almost stop it down shifts and lurks forward which can cause a safety issue. Loud ban",
+          "10R80 Transmission Delays when shifting and when it does engage its harsh shifts.",
+          "No oil in between changes check engine light came one"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 9,
+        "share_pct": 16.1,
+        "excerpts": [
+          "No oil in between changes check engine light came one",
+          "Direct failure of Cam phasers and confirmation. This led to erratic engine runtime leading to transmission shifting learned behaviors based on the bogus engine information. This causes erratic hardshi",
+          "I own a 2018 Ford F-150 3.5L EcoBoost with approximately 93,000 miles. I am experiencing a repeated cold start cam phaser rattle. This is a known issue addressed by Ford in several TSBs, including 19-"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 4,
+        "share_pct": 7.1,
+        "excerpts": [
+          "My 2018 Ford F-150 is experiencing a dangerous loss of braking power, a soft/spongy brake pedal, and brake fluid leaking from the master cylinder into the brake booster. These are the exact symptoms a",
+          "The contact owns a 2018 Ford F-150. The contact stated that while driving 55 MPH on the highway, the vehicle lost motive power, and the brakes became inoperable. The drivetrain and wrench symbol were ",
+          "The contact owns a 2018 Ford F-150. The contact stated that while driving 55 MPH, the message \"Brake Fluid Level Low\" was displayed. The brake pedal was depressed and went to the floorboard. The conta"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 3,
+        "share_pct": 5.4,
+        "excerpts": [
+          "Odometer Fraud. The contact owns a 2018 Ford F-150. The contact stated that while attempting to trade in the vehicle, there was a mileage discrepancy discovered. The vehicle was a private sale. The mi",
+          "This vehicle has been into the Ford dealer multiple times for transmission slipping type issues. From before the 60,000 mile powertrain warranty ended and after. The dealer said the only thing needed ",
+          "I was on Spencer street at the light about to cross on Saint rose park way. When the light turned green my truck wouldn’t let me proceed and the it went into a low gear and make a lot of noise until I"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 2,
+        "share_pct": 3.6,
+        "excerpts": [
+          "The contact owns a 2018 Ford F-150. The contact stated that the vehicle was previously repaired under NHTSA Campaign Number: 26V373000 (Exterior Lighting) and Customer Satisfaction Program: 25N17 (Rea",
+          "The OEM LED headlights will not adjust, causing excessive glare to on coming drivers. This issue is 300 times worse than the miniscule amount of light that the daytime running lights emit, but somehow"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 0,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 1
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 45
+      }
+    ]
+  },
+  "recalls": {
+    "count": 19,
+    "recalls": [
+      {
+        "campaign_number": "20V097000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 trucks equipped with high series LED headlamps with Autolamp (On/Off) functionality.  The Daytime Running Lamps (DRL) may remain activated instead of dimming to parking lamps when the Master Lighting Switch (MLS) is manually rotated from",
+        "report_date": "21/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V983000",
+        "component": "LATCHES/LOCKS/LINKAGES:TAILGATE:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 F-150 vehicles with manual and power release tailgates.  The tailgate latches may unlatch unexpectedly while driving.",
+        "report_date": "16/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V155000",
+        "component": "TIRES",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 F-150, 2018-2020 F-250, F-350, and 2019 Escape vehicles equipped with Continental tires.  On the affected vehicles, it is possible that one or more tires were cured for too long during tire production.",
+        "report_date": "10/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21E027000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM:UPPER BALL JOINT",
+        "summary": "Tenneco Automotive (DRiV) is recalling certain MOOG K500359 ball joints, for aftermarket installation on 2015-2018 Ford F-150 trucks.  The ball joint may have a misaligned dust boot and may be missing alignment hole and installation warning tag, which may lead to improper alignment of the ball joint",
+        "report_date": "12/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V894000",
+        "component": "ENGINE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2019 Ford F-150 and 2017-2019 Ford F-250 Super Duty, F-350 Super Duty, F-450 Super Duty, and F-550 Super Duty pick-up trucks equipped with an engine block heater.   Water and contaminants may get into the block heater cable's splice connector causi",
+        "report_date": "18/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V392000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 Ford Expedition, F-150, and Lincoln Navigator vehicles equipped with 3.5L GTDI V6 engines.  These vehicles have high pressure fuel pump assemblies with welds that can fracture, which may cause an oil or fuel leak.",
+        "report_date": "12/06/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V633000",
+        "component": "SEATS:FRONT ASSEMBLY:RECLINER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 and 2019-2020 F-250, F-350, F-450, and F-550 Super Duty pickup trucks, and 2018-2019 Ford Explorer, 2019-2020 Expedition, and 2020 Escape vehicles equipped with driver and/or passenger's manual front seat back recliner mechanisms.  Also ",
+        "report_date": "28/08/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V278000",
+        "component": "ENGINE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2019 Ford F-150 and 2017-2019 Ford F-250 Super Duty, F-350 Super Duty, F-450 Super Duty, and F-550 Super Duty pick-up trucks equipped with an engine block heater and previously remedied under recall 18V894.   During the previous repair, the block h",
+        "report_date": "08/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V568000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2018 Ford F-150 Regular Cab and SuperCrew Cab vehicles.  If a front seat belt pretensioner deploys as the result of a crash, the sparks may ignite materials such as carpeting or insulation within the B-pillar area.",
+        "report_date": "31/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V213000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2017-2018 Ford F-150 and 2018 Ford Expedition and Mustang and Lincoln Navigator vehicles equipped with 10-speed automatic transmissions.  A roll pin may not have been installed in the transmission, potentially causing a loss of the \"Park\" function.",
+        "report_date": "04/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V214000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 F-650 and F-750 vehicles equipped with 6-speed automatic transmissions and 2018 Ford F-150 and Expedition vehicles equipped with 10-speed automatic transmissions (excluding Expedition vehicles with\r\na Rotary Gear Shift Dial on the console).  The ge",
+        "report_date": "04/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V672000",
+        "component": "ENGINE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 F-150 vehicles equipped with 3.5L engines.  The cylinder heads may have been machined without lubrication supply holes for the camshaft bearing journals.",
+        "report_date": "23/10/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V669000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:LEVER AND LINKAGE:COLUMN SHIFT",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 F-150 vehicles equipped with a 3.3L engine, a 6-speed transmission and a column mounted shift lever.  Quickly moving the shift lever from Park to Drive may cause a loss of gear indication on the instrument cluster display and a momentary selection ",
+        "report_date": "23/10/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V598000",
+        "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 Ford F-150 Raptor Super Cab pick-up trucks not equipped with a moonroof.  The structural roof braces may be missing rivets at the attachment of the roof rail, thereby reducing the structural integrity.",
+        "report_date": "25/09/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V150000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2017 Ford Expedition, Lincoln Navigator, and 2016-2018 F-150 vehicles equipped with 3.5L Ecoboost engines.  The brake master cylinder may allow brake fluid to leak from the front wheel circuit into the brake booster.",
+        "report_date": "11/03/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V852000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2025 Explorer, Lincoln Aviator, 2020-2024 Escape, Lincoln Corsair, 2018-2024 F-150, Expedition and Lincoln Navigator vehicles.  The air bag warning label may be missing from the dashboard.  As such, these vehicles fail to comply with the requiremen",
+        "report_date": "08/11/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V236000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:MASTER CYLINDER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2017-2018 F-150, Expedition, and Lincoln Navigator vehicles.  The brake master cylinder may allow brake fluid to leak from the front wheel circuit into the brake booster.",
+        "report_date": "11/04/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V373000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 vehicles previously repaired incorrectly under recall number 20V097. When the headlight switch is turned from \"Autolamps\" to \"Headlamps On,\" the Daytime Running Lamps (DRLs) may remain fully bright instead of dimming to parking lamps as ",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V375000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 F-150 vehicles previously repaired incorrectly under recall number 17V669. Quickly moving the shift lever from Park to Drive may cause a loss of gear indication on the instrument cluster display and a momentary selection of an unintended gear, such",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:41:10.827Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

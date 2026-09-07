@@ -1,0 +1,196 @@
+{
+  "slug": "2016-jeep-grand-cherokee",
+  "year": 2016,
+  "make": "Jeep",
+  "model": "Grand Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 308,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 78,
+        "share_pct": 25.3,
+        "excerpts": [
+          "Tone wheel failure resulting in vehicle not operating as intended. Required repair of which FCA stated the repair was not covered by the recall issued against the vehicle.",
+          "The contact owns a 2016 Jeep Grand Cherokee. The contact stated that while attempting to drive from a complete stop, the transmission remained stuck in first gear. The contact shifted to neutral(N) an",
+          "While driving then it just shuts off"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 76,
+        "share_pct": 24.7,
+        "excerpts": [
+          "#2 cylinder misfire code P0302. A known problem with this engine. A compression test reveals a common defect with this engine",
+          "The contact owns a 2016 Jeep Grand Cherokee. The contact stated that while driving approximately 60 MPH, the vehicle suddenly jolted, lost power, and went into LIMP Mode, almost causing a rear-end cra",
+          "Received a warning light and vehicle decelerated with a loss of power. After researching the issue it was determined that it was the crankshaft sensor that had become delaminated. Of which there is a "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 61,
+        "share_pct": 19.8,
+        "excerpts": [
+          "Abs module malfunctioned and caught on fire",
+          "While driving then it just shuts off",
+          "When I push on the gas pedal, sometimes the car revs up and the speed does not increase.  I have to shut the car down and then restart.  When I restart it, then it resets it in a way and I am able to "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 28,
+        "share_pct": 9.1,
+        "excerpts": [
+          "Tone wheel failure resulting in vehicle not operating as intended. Required repair of which FCA stated the repair was not covered by the recall issued against the vehicle.",
+          "I was stuck in traffic as a result of a road being closed while they cleared another incident.  Creeping along, the Jeep with it's engine pause shutting down until I removed my foot off the gas and th",
+          "From one day to the next the engine is blown. Mechanic says the engine was hot for a while but no light or notices came up until the day of the major issue. I had jsut taken it to get new headlights a"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 25,
+        "share_pct": 8.1,
+        "excerpts": [
+          "Abs module malfunctioned and caught on fire",
+          "Brakes repetitively seize, causing the wheels to overheat and the vehicle to shake while braking, putting the vehicle at risk of fire, reduced brake performance, and brake failure. Two different deale",
+          "The gear selector assembly (shifter indicator) failed in accordance with current recall S28 for 2016 Jeep Grand Cherokees. The lights stopped illuminating suggesting corruption/inability to flash repa"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 27,
+      "fires": 7,
+      "injuries": 18,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 49
+      },
+      {
+        "year": 2017,
+        "count": 30
+      },
+      {
+        "year": 2018,
+        "count": 25
+      },
+      {
+        "year": 2019,
+        "count": 38
+      },
+      {
+        "year": 2020,
+        "count": 35
+      },
+      {
+        "year": 2021,
+        "count": 19
+      },
+      {
+        "year": 2022,
+        "count": 26
+      },
+      {
+        "year": 2023,
+        "count": 43
+      },
+      {
+        "year": 2024,
+        "count": 15
+      },
+      {
+        "year": 2025,
+        "count": 18
+      },
+      {
+        "year": 2026,
+        "count": 10
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "20V475000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:DIESEL",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Ram 1500 and 2014-2016 Jeep Grand Cherokee vehicles equipped with 3.0L diesel engines.  The crankshaft position sensor tone wheel may delaminate causing the engine to lose its ability to synchronize the fuel injector pulses and cam shaft timing, p",
+        "report_date": "13/08/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V699000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:EMISSION CONTROL:GAS RECIRCULATION VALVE (EGR VALVE)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2019 Jeep Grand Cherokee vehicles equipped with the 3.0L EcoDiesel\r\nengines.  The Exhaust Gas Recirculation (EGR) cooler may crack and allow pre-heated vaporized coolant to enter the EGR system.  This mixture may combust inside the intake manifold.",
+        "report_date": "12/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17E061000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:GASOLINE:TURBO/SUPERCHARGER",
+        "summary": "Accessible Technologies, Inc. (ATI) is recalling certain ProCharger Superchargers, model numbers AB037A-100, AB037A-100P, and A037A-100B, sold for installation on 2012-2017 Jeep Grand Cherokee SRT8 and SRT vehicles.  The supercharger mounting bracket may contact and damage the ABS line, possibly res",
+        "report_date": "19/10/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V814000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2016 Dodge Durango and Jeep Grand Cherokee vehicles manufactured February 10, 2016, to April 28, 2016 and equipped with a 3.6L engine built at the Saltillo engine plant.  During the assembly of the engine, the fuel rail crossover tube may have be",
+        "report_date": "10/11/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V168000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2015-2016 Jeep Grand Cherokee and Dodge Durango vehicles manufactured December 9, 2015, to January 14, 2016.  In the affected vehicles, the left front brake caliper may crack due to being made from an incorrect material.",
+        "report_date": "23/03/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V249000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:PARK/NEUTRAL START INTERLOCK SWITCH",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2016 Jeep Grand Cherokee vehicles manufactured May 15, 2015 to February 19, 2016.  The brake transmission shift interlock solenoid may have a loose electrical connection which could result in a loss of solenoid function.",
+        "report_date": "27/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V406000",
+        "component": "FUEL SYSTEM, DIESEL:DELIVERY:FUEL PUMP",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2020 Jeep Grand Cherokee, and 2014-2019 Ram 1500 vehicles equipped with 3.0L diesel engines.  A high pressure fuel pump (HPFP) failure may introduce internal debris into the fuel system, potentially resulting in fuel starvation.",
+        "report_date": "09/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V411000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2019 Ram 1500 and 2014-2020 Jeep Grand Cherokee vehicles equipped with 3.0L Diesel engines.  The crankshaft position sensor tone wheel may delaminate, causing the engine to lose its ability to synchronize the fuel injector pulses and cam shaft timing,",
+        "report_date": "08/06/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:44.169Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

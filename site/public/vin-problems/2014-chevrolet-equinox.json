@@ -1,0 +1,144 @@
+{
+  "slug": "2014-chevrolet-equinox",
+  "year": 2014,
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 546,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 217,
+        "share_pct": 39.7,
+        "excerpts": [
+          "Oil consumption, took to dealer and dealer replaced parts with manufacturers replacement parts, 1 and a half year later oil consumption happened again, dealer checked 2nd time and said manufacturer wi",
+          "Component Failure & Availability: A GM remanufactured 2.4L engine block, installed as a replacement in July 2025, suffered a catastrophic internal failure (blown head gasket) within 11 months of insta",
+          "purchased a 2014 Chevy Equinox from Direct Auto Sales on 03/07/26, and I am currently experiencing serious issues with the vehicle after only 2 months of purchase    I noticed the vehicle is making a "
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 167,
+        "share_pct": 30.6,
+        "excerpts": [
+          "Wipers stopped working sounded like they were grinding when they stopped.",
+          "2014 Chevy Equinox- Consumer is requesting reimbursement for parts and repair in connection to the Safety Recall #  N212352530. Recall letter and repair & parts invoice attached.",
+          "Stopped to get gas turned off the vehicle. when turned back on heat did not work, blowers are blowing cold air. can not defrost the windshield."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 45,
+        "share_pct": 8.2,
+        "excerpts": [
+          "purchased a 2014 Chevy Equinox from Direct Auto Sales on 03/07/26, and I am currently experiencing serious issues with the vehicle after only 2 months of purchase    I noticed the vehicle is making a ",
+          "The vehicles electrical system failed or faulted while operating. Engine went into a slow mode while operating in traffic. After stopping vehicle would not restart. very dangerous for an elderly perso",
+          "One computer shorted out of 22 on the car cause major repairs"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 40,
+        "share_pct": 7.3,
+        "excerpts": [
+          "Had to get engine replaced 2 months after I bought it in May 2022, warranty covered the replacement. Ongoing issues with catalytic converters, O2 sensors, check engine light coming on due to those rea",
+          "Engine went into limp mode with now warning. I recieved a reduced engine power warning and the vehicle lost acceleration on the highway almost leading to an accident. I had the car towed to Coggin GM ",
+          "Safety Complaint: Engine Stall/Loss of Power at Highway Speeds – 2014 Chevy Equinox  Incident Details: • The Failure: While driving, the vehicle suddenly stopped responding to the accelerator. I was f"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 34,
+        "share_pct": 6.2,
+        "excerpts": [
+          "The vehicles electrical system failed or faulted while operating. Engine went into a slow mode while operating in traffic. After stopping vehicle would not restart. very dangerous for an elderly perso",
+          "The engines in the 2014 equinox has a defect just like  The Silverados.. they should have had a class action suit against that  as well I've spoke with many ppl who had issues with their 2.4 eco tech ",
+          "I used to go to Chevy for service and was seeing the same issue and got frustrated.  Starting going to Meineke and they found out that I had an ongoing oil consumption issue.  I contacted Chevy and GM"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 23,
+      "fires": 4,
+      "injuries": 11,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 2
+      },
+      {
+        "year": 2014,
+        "count": 23
+      },
+      {
+        "year": 2015,
+        "count": 13
+      },
+      {
+        "year": 2016,
+        "count": 20
+      },
+      {
+        "year": 2017,
+        "count": 38
+      },
+      {
+        "year": 2018,
+        "count": 72
+      },
+      {
+        "year": 2019,
+        "count": 107
+      },
+      {
+        "year": 2020,
+        "count": 73
+      },
+      {
+        "year": 2021,
+        "count": 46
+      },
+      {
+        "year": 2022,
+        "count": 69
+      },
+      {
+        "year": 2023,
+        "count": 36
+      },
+      {
+        "year": 2024,
+        "count": 17
+      },
+      {
+        "year": 2025,
+        "count": 24
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "22V165000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014-2015 Chevrolet Equinox and GMC Terrain vehicles.  The ball joints in the windshield wiper module may corrode, causing one or both windshield wipers to fail.",
+        "report_date": "17/03/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:37:19.983Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

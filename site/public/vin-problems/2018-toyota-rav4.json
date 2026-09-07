@@ -1,0 +1,144 @@
+{
+  "slug": "2018-toyota-rav4",
+  "year": 2018,
+  "make": "Toyota",
+  "model": "RAV4",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 330,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 129,
+        "share_pct": 39.1,
+        "excerpts": [
+          "Before o had taken my RAV4 into Toyota for the recall a AAA tech. had replaced the battery after jump starting it. There was nothing wrong with the sensors or anything else but after the battery was r",
+          "While I am driving my Toyota RAV4, the car will suddenly shut off and I can restart it and keep driving as the month is going on. The incidents are happening more often and now the dashboard is going ",
+          "The contact owned a 2018 Toyota RAV4. The contact stated that the vehicle experienced a defect with the key fob and the door locks for the passenger doors. When starting the vehicle, the brake locking"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 32,
+        "share_pct": 9.7,
+        "excerpts": [
+          "The contact owns a 2018 Toyota Rav4. The contact stated that while at a stop at a traffic light, the vehicle independently accelerated and rear-ended another vehicle. The engine revved during the acce",
+          "The recall (NHTSA Recall # 23V734) has been un-repaired since 1 Nov 2023.   The un-repaired recall did not cause a safety issue in my case, but I have moved to Canada and the recall has prevented me f",
+          "I was on the freeway driving home and a vehicle cut me on the freeway which resulted in me breaking a little heavier than usual but wasn't abnormal and resulted in the vehicle shutting down due to the"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 30,
+        "share_pct": 9.1,
+        "excerpts": [
+          "I tried breaking and was on a hill with a small incline stopping behind a car as a pedestrian was crossing.  When I pushed on the breaks lightly the car didn't break.  So I pushed harder as the car in",
+          "The contact owns a 2018 Toyota RAV4. The contact stated that while driving at an undisclosed speed, upon attempting to slow the vehicle, she heard an abnormal sound emanating from the front of the veh",
+          "This is 2 times now my brakes give me trouble since i bought the vehicle, the 1st time the brakes died n i had to keep pumping for it to work, the 2nd time it stuck to the floor n i had to use my hand"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 26,
+        "share_pct": 7.9,
+        "excerpts": [
+          "Malfunction: Mechanical failure of the Torque Converter Clutch. The vehicle exhibits a persistent transmission shudder during acceleration between 25–50 mph. Warning Signs: None. There were no dashboa",
+          "XXX XXX XXX  XXX XXX  11/13/2025  National Highway Traffic Safety Administration   Office of Defects Investigation   1200 New Jersey Avenue SE   Washington, DC 20590    Toyota Motor Sales, U.S.A., Inc",
+          "The contact owns a 2018 Toyota Rav4. The contact stated that upon entering her carport in an attempt to park(P), the vehicle surged forward without warning. The vehicle blew through the carport's back"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 23,
+        "share_pct": 7,
+        "excerpts": [
+          "While I am driving my Toyota RAV4, the car will suddenly shut off and I can restart it and keep driving as the month is going on. The incidents are happening more often and now the dashboard is going ",
+          "Both headlights and taillights are stained on the inside of the lens with a white residue. My headlights are very streaky and it makes it difficult to see out of. Not the outside of the headlight, bec",
+          "We bought our Rav4 fresh of the lot in 2018, since then e we have replaced the headlight bulbs 43 times. Now our fog lights and license plate light are out.  This time the bulb (installed by a profess"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 31,
+      "fires": 32,
+      "injuries": 18,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 2
+      },
+      {
+        "year": 2018,
+        "count": 43
+      },
+      {
+        "year": 2019,
+        "count": 48
+      },
+      {
+        "year": 2020,
+        "count": 22
+      },
+      {
+        "year": 2021,
+        "count": 48
+      },
+      {
+        "year": 2022,
+        "count": 24
+      },
+      {
+        "year": 2023,
+        "count": 50
+      },
+      {
+        "year": 2024,
+        "count": 39
+      },
+      {
+        "year": 2025,
+        "count": 41
+      },
+      {
+        "year": 2026,
+        "count": 13
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "19V503000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2017-2019 Toyota Camry, Corolla, Rav4, Sienna, and Yaris iA vehicles equipped with factory-installed floor mats.  The load carrying capacity modification label may be incorrect.  As such, these vehicles fail to comply with the requirement",
+        "report_date": "28/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V831000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2017-2018 Toyota 4Runner and Tundra, 2018 Toyota Highlander, RAV4 and Lexus GX460 and 2017 Toyota Sienna and Tacoma vehicles.  These vehicles may have incorrect load carrying capacity modification labels.  As such, these vehicles",
+        "report_date": "20/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V734000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2013-2018 RAV4 vehicles.  Certain replacement 12-volt batteries may not fit properly in the battery tray, allowing the battery to move and contact the hold-down bracket, possibly causing a short circuit.",
+        "report_date": "01/11/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:41:05.262Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

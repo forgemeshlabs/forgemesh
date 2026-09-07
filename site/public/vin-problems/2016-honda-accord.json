@@ -1,0 +1,172 @@
+{
+  "slug": "2016-honda-accord",
+  "year": 2016,
+  "make": "Honda",
+  "model": "Accord",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 599,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 194,
+        "share_pct": 32.4,
+        "excerpts": [
+          "A loud static sound has been sporadically coming out of my 2016 Honda Accord, which startled me and my daughter while driving a couple of times while driving. This sound appears to come out of the spe",
+          "Have had ongoing issues with audio display dashboard crashes.  And also AirPlay not working.  The are videos all over the in the internet about these issues, including YouTube videos.  This is not iso",
+          "The OEM audio/navigation system in my 2016 Honda Accord is emitting extremely loud static from all speakers after 10 minutes of the engine on.  This occurs even when the audio system is turned off.  I"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 127,
+        "share_pct": 21.2,
+        "excerpts": [
+          "The LED strip on my headlights overheated and failed, they are no longer operating. I am unable to use this safety feature on my car.",
+          "Headlight assembly",
+          "Steering wheel locked up and all dashboard lights turned on while driving"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 44,
+        "share_pct": 7.3,
+        "excerpts": [
+          "My Accord sputters and feels like the engine is choking at low RPM (between 1k & 2k), I started a 3-hour daily commute in the Los Angeles freeway traffic last March. That's when the problem became ver",
+          "I am temporarily at [XXX].  The brake light on the dash will pop up in orange while driving and the steering wheel will turn from left to right at certain times while driving. I am not too close to an",
+          "I am reporting a fuel pump module failure that has caused several drivability and safety concerns with my vehicle.  Prior to the failure, the vehicle experienced intermittent difficulty starting, exte"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 39,
+        "share_pct": 6.5,
+        "excerpts": [
+          "For the last few months I have had an intermittent issue with my 2016 ex-l v6 accord. It started as occasional stalling at traffic lights. The car would stall out, and after about 20 seconds I could t",
+          "Vehicle experienced sudden loss of power/stalling while driving due to a failing fuel pump assembly. This mirrors the exact safety risks of NHTSA Recall 19V060000, but my 4-cylinder VIN is currently e",
+          "My Accord sputters and feels like the engine is choking at low RPM (between 1k & 2k), I started a 3-hour daily commute in the Los Angeles freeway traffic last March. That's when the problem became ver"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 33,
+        "share_pct": 5.5,
+        "excerpts": [
+          "I was driving and the skid, brake, ABS and steering light came on. I was with my kids so I immediately slowed down and contacted my mechanic. We initially thought it would be a sensor. After hooking i",
+          "The contact owns a 2016 Honda Accord. The contact stated that while driving at 60 MPH and depressing the brake pedal, the ABS module failed to work as intended. A dealer was contacted. The vehicle was",
+          "ABS/VSA module the lights are on the dashboard. Steering wheel light, brake,ABS and tracksion light…They come on and sometimes go off for a little bit. Then back on"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 32,
+      "fires": 5,
+      "injuries": 29,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 1989,
+        "count": 2
+      },
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 2
+      },
+      {
+        "year": 2016,
+        "count": 72
+      },
+      {
+        "year": 2017,
+        "count": 65
+      },
+      {
+        "year": 2018,
+        "count": 85
+      },
+      {
+        "year": 2019,
+        "count": 76
+      },
+      {
+        "year": 2020,
+        "count": 34
+      },
+      {
+        "year": 2021,
+        "count": 26
+      },
+      {
+        "year": 2022,
+        "count": 29
+      },
+      {
+        "year": 2023,
+        "count": 44
+      },
+      {
+        "year": 2024,
+        "count": 45
+      },
+      {
+        "year": 2025,
+        "count": 82
+      },
+      {
+        "year": 2026,
+        "count": 35
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "19V060000",
+        "component": "FUEL SYSTEM, OTHER:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2016-2018 Acura MDX, 2015-2019 Acura TLX and 2015-2017 Honda Accord vehicles, equipped with a 3.5L V6 engine.  Particulates in fuel may adhere to the internal components of the fuel pump, reducing its performance.",
+        "report_date": "29/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V418000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2016 Honda Accord vehicles.  The case for the battery sensor, part of the battery management system, may allow water to get in, potentially causing an electrical short.",
+        "report_date": "29/06/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:55.173Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

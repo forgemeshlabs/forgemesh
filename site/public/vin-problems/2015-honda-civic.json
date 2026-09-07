@@ -1,0 +1,140 @@
+{
+  "slug": "2015-honda-civic",
+  "year": 2015,
+  "make": "Honda",
+  "model": "Civic",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 379,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 176,
+        "share_pct": 46.4,
+        "excerpts": [
+          "The contact owns a 2015 Honda Civic. The contact stated that while driving at various speeds, the vehicle hesitated while depressing the accelerator pedal. There was no warning light illuminated. An i",
+          "The contact owns a 2015 Honda Civic. The contact stated that while his wife was driving approximately 35-40 MPH, the vehicle started shuddering. The driver pulled over to the side of the road and park",
+          "Transmission drive belt snapped while driving. Took it to Honda dealer to diagnose, they found it to be the drive belt that snapped in the cvt transmission. There was a recall involving the same year "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 58,
+        "share_pct": 15.3,
+        "excerpts": [
+          "The contact owns a 2015 Honda Civic. The contact had experienced intermittent power steering assist failure, causing the steering wheel to lock up while driving at various speeds. The contact stated t",
+          "The contact owns a 2015 Honda Civic Sedan. The contact stated while stopped at red light , another crashed into the read end of her vehicle. The contact stated that no air bags were deployed. The cont",
+          "The ABS system failed and the car crashed and when the ABS system failed the airbag light came on but airbags did not deploy in significant front end collision"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 31,
+        "share_pct": 8.2,
+        "excerpts": [
+          "The contact owns a 2015 Honda Civic. The contact stated that while driving at 70 MPH, the vehicle suddenly came to a stop. The contact stated that the vehicle failed to exceed 35 MPH, and the contact ",
+          "My husband and I purchased a 2015 Honda Civic 3 years ago. We have maintained proper maintenance and have the documentation on this.  At 118,000 ish miles, my [XXX]  son was merging onto the interstat",
+          "While I was driving on the highway I heard a rattling noise in the engine bay and every single light and system showed a malfunction on my dash. Then I was not able to accelerate and had to roll to a "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 27,
+        "share_pct": 7.1,
+        "excerpts": [
+          "Vehicle battery drains while vehicle not in use. Have replaced the battery twice, and replaced alternator. Problem persists.  When this began, it coincided with the car's door lock feature unlocking t",
+          "Odometer Fraud. The contact owns a 2015 Honda Civic. The contact discovered that there was a mileage discrepancy. The vehicle was a private sale. At the time of the purchase, the mileage was 63,000, a",
+          "My steering computer is bad. The steering wheel goes the opposite way. I’ve taken it to the dealership and they’re saying that the computer software and the whole computer needs to be replaced and aff"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 21,
+        "share_pct": 5.5,
+        "excerpts": [
+          "The contact owns a 2015 Honda Civic. The contact had experienced intermittent power steering assist failure, causing the steering wheel to lock up while driving at various speeds. The contact stated t",
+          "My steering computer is bad. The steering wheel goes the opposite way. I’ve taken it to the dealership and they’re saying that the computer software and the whole computer needs to be replaced and aff",
+          "On on my dashboard due to a faulty malfunction in my ABS module that can only be done at Honda dealership and has to be removed only by Honda and sent off for Honda to rebuild and then sent back for t"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 37,
+      "fires": 2,
+      "injuries": 23,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 2
+      },
+      {
+        "year": 2015,
+        "count": 34
+      },
+      {
+        "year": 2016,
+        "count": 26
+      },
+      {
+        "year": 2017,
+        "count": 20
+      },
+      {
+        "year": 2018,
+        "count": 29
+      },
+      {
+        "year": 2019,
+        "count": 43
+      },
+      {
+        "year": 2020,
+        "count": 39
+      },
+      {
+        "year": 2021,
+        "count": 38
+      },
+      {
+        "year": 2022,
+        "count": 52
+      },
+      {
+        "year": 2023,
+        "count": 37
+      },
+      {
+        "year": 2024,
+        "count": 28
+      },
+      {
+        "year": 2025,
+        "count": 26
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "15V574000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2014-2015 Civic vehicles manufactured January 16, 2014, to November 6, 2014 and 2015 Fit vehicles manufactured March 12, 2014, to May 12, 2015.  The software settings that control the transmission operation may result in damage to the ",
+        "report_date": "15/09/2015",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:37:42.600Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

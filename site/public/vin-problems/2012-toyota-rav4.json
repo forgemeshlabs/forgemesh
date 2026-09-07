@@ -1,0 +1,180 @@
+{
+  "slug": "2012-toyota-rav4",
+  "year": 2012,
+  "make": "Toyota",
+  "model": "RAV4",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 266,
+    "top_failure_components": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 54,
+        "share_pct": 20.3,
+        "excerpts": [
+          "The windshield pump is not working front and back The wipers turn but no liquid comes out though the tank is full It does not make the sound it normally does when it pumps the windshield liquid Dealer",
+          "I have a 2012 Toyota Rav-4 Limited . I have had the vehicle since 2020. Ever since I bought the vehicle it fogs up. All the windows fog up and it does not matter what setting I have it on, de-foggers,",
+          "The contact owns a 2012 Toyota Rav4. The contact stated that upon activating the windshield wipers, the wipers responded erratically. The contact stated that the wipers moved significantly slowly, cha"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 50,
+        "share_pct": 18.8,
+        "excerpts": [
+          "Over the last several years, I have experienced a minimum of four, possibly one or two more,  incidents of this vehicle accelerating at a high rate while I have had my foot on the brake. In all of the",
+          "ON JUNE10TH. I HAD A MAJOIR ACCIDENT IN WHICH BOTH MY WIFE & MYSELF SUFFERED FRACTURED STERNUMS & FRACTURED RIBS. WHAT HAPPENED WAS THAT I PULLED INTO A LOT IN PRINCETON, N.J. & AFTER STOPPING TO SET ",
+          "WHEN PULLING MY 2012 TOYOTA RAV4 INTO A PARKING SPACE AT VERY LOW RATE OF SPEED, I TAPPED THE BRAKE PEDAL AND THE ENGINE IMMEDIATELY STARTED ROARING AND ACCELERATING OUT OF CONTROL.  THE CAR JUMPED TH"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 39,
+        "share_pct": 14.7,
+        "excerpts": [
+          "While at the end of a car wash with the car in neutral, the car accelerated by itself.  It reached 60 mph for over a half mile, and was unresponsive to steering and brakes.  The left front wheel was s",
+          "Constant brake issues Sun visors won't stay in place (breaks) Massive oil consumption (not leaking) Oil on dipstick appears black & burnt quickly after adding or replacing oil",
+          "after stepping on the breaks the car the vehicle revs and moves forward"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 31,
+        "share_pct": 11.7,
+        "excerpts": [
+          "Over the last 4 years I have had 2 prior occurrence where I've lost power turning or stopping, causing the engine to stall. Both times the vehicle was taken to our mechanic and he replaced the connect",
+          "Check EV System - Have your vehicle checked by a dealership immediately Warning has come on several times in the past few days. RAV4 EV forum indicates this is a problem that can make the vehicle stop",
+          "Inaudible turn signal prompt: Older drivers who drive for miles with their turn signal on is the subject of many a cartoon and common source of highway frustration. It is also a safety issue when a ve"
+        ]
+      },
+      {
+        "component": "SEAT BELTS",
+        "complaints": 31,
+        "share_pct": 11.7,
+        "excerpts": [
+          "ON JUNE10TH. I HAD A MAJOIR ACCIDENT IN WHICH BOTH MY WIFE & MYSELF SUFFERED FRACTURED STERNUMS & FRACTURED RIBS. WHAT HAPPENED WAS THAT I PULLED INTO A LOT IN PRINCETON, N.J. & AFTER STOPPING TO SET ",
+          "AIR BAG LIGHT IS ON ALL THE TIME AND SEAT BELL IS FLASHING AND FRONT ROTORS EXCESSIVE RUST AND ONLY ABOUT 2 1/2 INCHES IN MIDDLE THE ROTORS.",
+          "WE RECEIVED A RECALL NOTICE AND BEEN CALLING THE DEALER REPEATEDLY. THEY STATE AS OF TODAY THEY STILL CAN NOT CORRECT THE DEFECT AS THEY HAVE NO PARTS AND HAVE NOT BEEN TRAINED. NOR WILL THEY SCHEDULE"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 39,
+      "fires": 4,
+      "injuries": 23,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 28
+      },
+      {
+        "year": 2013,
+        "count": 34
+      },
+      {
+        "year": 2014,
+        "count": 27
+      },
+      {
+        "year": 2015,
+        "count": 44
+      },
+      {
+        "year": 2016,
+        "count": 46
+      },
+      {
+        "year": 2017,
+        "count": 13
+      },
+      {
+        "year": 2018,
+        "count": 17
+      },
+      {
+        "year": 2019,
+        "count": 15
+      },
+      {
+        "year": 2020,
+        "count": 11
+      },
+      {
+        "year": 2021,
+        "count": 9
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 10
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "16V096000",
+        "component": "SEAT BELTS:REAR/OTHER",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2006-2012 RAV4 vehicles manufactured July 28, 2005, to December 19, 2012, and 2012-2014 RAV4 EV vehicles manufactured July 24, 2012, to August 29, 2014.  In the event of a frontal collision, the rear seat belts for the",
+        "report_date": "19/02/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V054000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Toyota is recalling certain model year 2012 and 2013 Toyota Tacoma and Lexus RX350 vehicles and certain model year 2012 Toyota Rav4 vehicles.  In the affected vehicles, the brake system contains a brake actuator that adjusts the fluid pressure of each wheel cylinder.  An electrical component within ",
+        "report_date": "12/02/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V577000",
+        "component": "VISIBILITY/WIPER",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2009-2012 RAV4 vehicles manufactured October 27, 2008, to December 19, 2012 and 2012-2014 RAV4 EV vehicles manufactured July 24, 2012, to August 29, 2014.  In the affected vehicles, water may drip onto the joint that c",
+        "report_date": "18/09/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V123000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota is recalling certain model year 2008 and 2010-2013 Toyota Tundra, 2010-2012 Rav4, 2012 Toyota Sequoia, 2010-2011 Toyota Corolla, 2010-2011 Toyota Camry and Camry Hybrid, 2010-2013 Toyota Highlander and Highlander Hybrid, 2010-2013 Toyota FJ Cruiser, 2011 Toyota Land Cruiser, 2010-20",
+        "report_date": "09/04/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:32:38.684Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

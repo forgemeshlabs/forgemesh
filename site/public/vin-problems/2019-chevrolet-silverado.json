@@ -1,0 +1,335 @@
+{
+  "slug": "2019-chevrolet-silverado",
+  "year": 2019,
+  "make": "Chevrolet",
+  "model": "Silverado",
+  "matched_as": {
+    "complaints": [
+      "SILVERADO 2500",
+      "SILVERADO 3500",
+      "SILVERADO LD 1500",
+      "SILVERADO 1500",
+      "duplicate SILVERADO 5500"
+    ],
+    "recalls": [
+      "SILVERADO 2500",
+      "SILVERADO 3500",
+      "SILVERADO 1500",
+      "duplicate SILVERADO 5500"
+    ]
+  },
+  "failures": {
+    "total_complaints": 1995,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 608,
+        "share_pct": 30.5,
+        "excerpts": [
+          "The Variable Geometry Turbocharger Actuator failed on my 2019 2500HD Silverado. There was a significant decrease in power. This was most noticeable on uphill grades where speed would drop to between 3",
+          "The contact owns a 2019 Chevrolet Silverado 2500. While driving at an undisclosed speed, the check engine warning light illuminated. The vehicle was taken to the dealer, where it was diagnosed and it ",
+          "All or most of the 2019 Chevrolet Silverado 2500 and 3500 models are having the same exact issue, the coolant hoses that cools transmission oil are exposed metal to metal rubbing against each others, "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 589,
+        "share_pct": 29.5,
+        "excerpts": [
+          "The DEF fill tube is under the hood on the opposite side of the fuel filling tube. To fill the DEF at a truck stop, one has to park really close to the pumps and stretch the hose across a hot engine. ",
+          "Headlights are foggy causing less and less light to drive by. Transmission has a hesitation when going from P-D, P-R, D-R, and R-D. It does this most of the time but not all the time. Transmission mak",
+          "SEVERE SHAKE WHEN BRAKING AT HIGH SPEEDS, FUEL TANK FAILED (VEHICLE WAS SPEWING DIESEL) - IT TOOK 3 MONTHS TO GET A NEW TANK, TRANSFER CASE HAS FAILED MULTIPLE TIMES. WE HAVE BEEN HAVING THESE PROBLEM"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 381,
+        "share_pct": 19.1,
+        "excerpts": [
+          "This has happened three times with the 2019 Chevrolet Silverado 2500HD LTZ truck.  Each time, the failure was following a remote start in my driveway.  It has occurred at the approximately 40K, 80K, a",
+          "component failed: Power steering pump and the power brake booster. Parts are available to inspect. When the component failed you begin to loose power steering and power brakes. This makes it hard to s",
+          "The contact owns a 2019 Chevrolet Silverado 2500. The contact stated while driving at 30-35 MPH with a 2017 Heartland Bighorn trailer hitched to the vehicle, the message “Check Trailer Wiring” was dis"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 370,
+        "share_pct": 18.5,
+        "excerpts": [
+          "The brake lights do not work, the turn signals do not work, there is one tail light working at the lower right rear. Front parking lights work but front turn signals so not work. The cab brake light w",
+          "The contact owns a 2019 Chevrolet Silverado 2500. The contact stated that while the vehicle was parked and started, the message \"Service Trailer Brake System\" was displayed on the instrument panel. Th",
+          "I was driving down the road at approximately 55 mph when all of a sudden, my truck decelerated and a warning signal displayed on my dash indicating my speed was being forcibly reduced to approximately"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 144,
+        "share_pct": 7.2,
+        "excerpts": [
+          "This has happened three times with the 2019 Chevrolet Silverado 2500HD LTZ truck.  Each time, the failure was following a remote start in my driveway.  It has occurred at the approximately 40K, 80K, a",
+          "component failed: Power steering pump and the power brake booster. Parts are available to inspect. When the component failed you begin to loose power steering and power brakes. This makes it hard to s",
+          "In May of 2023, the truck developed a significant shake when driving on moderate road bumps. We took it to the dealer and they replaced the pitman arm and idler arm assembly for over $2200. Recently, "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 54,
+      "fires": 19,
+      "injuries": 33,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 3
+      },
+      {
+        "year": 2012,
+        "count": 2
+      },
+      {
+        "year": 2018,
+        "count": 3
+      },
+      {
+        "year": 2019,
+        "count": 337
+      },
+      {
+        "year": 2020,
+        "count": 271
+      },
+      {
+        "year": 2021,
+        "count": 169
+      },
+      {
+        "year": 2022,
+        "count": 157
+      },
+      {
+        "year": 2023,
+        "count": 237
+      },
+      {
+        "year": 2024,
+        "count": 321
+      },
+      {
+        "year": 2025,
+        "count": 372
+      },
+      {
+        "year": 2026,
+        "count": 123
+      }
+    ]
+  },
+  "recalls": {
+    "count": 25,
+    "recalls": [
+      {
+        "campaign_number": "21V496000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "General Motors, LLC (GM) is recalling certain 2017-2019 Chevrolet Silverado 2500, 3500 and 2017-2019 GMC Sierra 2500 and 3500 vehicles equipped with a Duramax diesel 6.6 liter engine and an optional engine-block heater cord.  An electrical short-circuit may occur in the engine-block heater cable or ",
+        "report_date": "01/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V328000",
+        "component": "ENGINE",
+        "summary": "General Motors LLC (GM) is recalling certain 2019 Chevrolet Silverado 4500, 5500 and 6500 vehicles and 2017-2019 Chevrolet Silverado 2500 and 3500 vehicles and GMC Sierra 2500 and 3500 vehicles equipped with Duramax 6.6 liter diesel engines and an optional engine-block heater.  The engine block heat",
+        "report_date": "25/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V047000",
+        "component": "FUEL SYSTEM, DIESEL:STORAGE:TANK ASSEMBLY",
+        "summary": "General Motors, LLC (GM) is recalling certain 2017-2019 Chevrolet Silverado 2500, 3500, and GMC Sierra 2500, 3500 vehicles equipped with a dual fuel tank option.  The rear fuel tank may collapse and prevent the fuel pump from transferring fuel to the front tank, resulting in an engine stall.",
+        "report_date": "02/02/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V756000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN:INFLATOR",
+        "summary": "General Motors, LLC (GM) is recalling certain 2018 Chevrolet Silverado 1500, GMC Sierra 1500, 2018-2019 Chevrolet Silverado 2500, 3500, and GMC Sierra 2500, 3500 Crew Cab trucks.  The left or right-side roof-rail air bag (RRAB) inflator end cap may detach from the inflator or the inflator sidewall m",
+        "report_date": "10/10/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V432000",
+        "component": "AIR BAGS",
+        "summary": "General Motors (GM) is recalling certain 2018 GMC Sierra 1500, 2019 Sierra 2500, 3500, Chevrolet Silverado 3500, and Chevrolet Silverado 2500 and 2018 Chevrolet Silverado 1500 Crew Cab vehicles. The left or right-side roof-rail air bag (RRAB) inflator end cap may detach from the inflator or the infl",
+        "report_date": "26/06/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V166000",
+        "component": "AIR BAGS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2018 Chevrolet Silverado 1500, GMC Sierra 1500, 2019 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500, and Sierra 3500 Crew Cab vehicles.  The left or right-side roof rail air bag (RRAB) inflator end cap may detach from the inflator or the infla",
+        "report_date": "19/03/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V325000",
+        "component": "AIR BAGS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2018 Chevrolet Silverado 1500, GMC Sierra 1500, 2019 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500, and Sierra 3500 vehicles. The left-side or right-side roof rail air bag (RRAB) inflator end cap may detach from the inflator or the inflator s",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V496000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "General Motors, LLC (GM) is recalling certain 2017-2019 Chevrolet Silverado 2500, 3500 and 2017-2019 GMC Sierra 2500 and 3500 vehicles equipped with a Duramax diesel 6.6 liter engine and an optional engine-block heater cord.  An electrical short-circuit may occur in the engine-block heater cable or ",
+        "report_date": "01/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V328000",
+        "component": "ENGINE",
+        "summary": "General Motors LLC (GM) is recalling certain 2019 Chevrolet Silverado 4500, 5500 and 6500 vehicles and 2017-2019 Chevrolet Silverado 2500 and 3500 vehicles and GMC Sierra 2500 and 3500 vehicles equipped with Duramax 6.6 liter diesel engines and an optional engine-block heater.  The engine block heat",
+        "report_date": "25/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V047000",
+        "component": "FUEL SYSTEM, DIESEL:STORAGE:TANK ASSEMBLY",
+        "summary": "General Motors, LLC (GM) is recalling certain 2017-2019 Chevrolet Silverado 2500, 3500, and GMC Sierra 2500, 3500 vehicles equipped with a dual fuel tank option.  The rear fuel tank may collapse and prevent the fuel pump from transferring fuel to the front tank, resulting in an engine stall.",
+        "report_date": "02/02/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V756000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN:INFLATOR",
+        "summary": "General Motors, LLC (GM) is recalling certain 2018 Chevrolet Silverado 1500, GMC Sierra 1500, 2018-2019 Chevrolet Silverado 2500, 3500, and GMC Sierra 2500, 3500 Crew Cab trucks.  The left or right-side roof-rail air bag (RRAB) inflator end cap may detach from the inflator or the inflator sidewall m",
+        "report_date": "10/10/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V432000",
+        "component": "AIR BAGS",
+        "summary": "General Motors (GM) is recalling certain 2018 GMC Sierra 1500, 2019 Sierra 2500, 3500, Chevrolet Silverado 3500, and Chevrolet Silverado 2500 and 2018 Chevrolet Silverado 1500 Crew Cab vehicles. The left or right-side roof-rail air bag (RRAB) inflator end cap may detach from the inflator or the infl",
+        "report_date": "26/06/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V166000",
+        "component": "AIR BAGS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2018 Chevrolet Silverado 1500, GMC Sierra 1500, 2019 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500, and Sierra 3500 Crew Cab vehicles.  The left or right-side roof rail air bag (RRAB) inflator end cap may detach from the inflator or the infla",
+        "report_date": "19/03/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V325000",
+        "component": "AIR BAGS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2018 Chevrolet Silverado 1500, GMC Sierra 1500, 2019 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500, and Sierra 3500 vehicles. The left-side or right-side roof rail air bag (RRAB) inflator end cap may detach from the inflator or the inflator s",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V115000",
+        "component": "TIRES",
+        "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT4, XT5, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, Traverse, GMC Yukon, Yukon XL, 2018-2021 Chevrolet Express, GMC Savana, 2019-2020 Chevrolet Blazer, Silverado 1500, GMC Acadia, Sierra 1500, and certain Continental ",
+        "report_date": "25/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V889000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:ABS WARNING LIGHT",
+        "summary": "General Motors LLC (GM) is recalling certain 2019 Chevrolet Silverado 1500, Cadillac CT6, and GMC Sierra 1500 vehicles.  Due to an Electronic Brake Control Module (EBCM) software error, the vehicle's Electronic Stability Control (ESC) and Antilock Brake System (ABS) may become disabled.  Furthermore",
+        "report_date": "12/12/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V888000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY:CABLES",
+        "summary": "General Motors LLC (GM) is recalling certain 2019-2020 Chevrolet Silverado 1500 and GMC Sierra 1500 trucks.  The battery positive (B+) cable rings may have been manufactured with excessive glue, potentially causing an intermittent electrical connection between the B+ cable and alternator.",
+        "report_date": "12/12/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V792000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2019-2021 Chevrolet Silverado 1500 and GMC Sierra 1500, 2021 Chevrolet Suburban and Tahoe and GMC Yukon XL and 2020-2021 Chevrolet Silverado 2500 and 3500 and GMC Sierra 2500 and 3500 vehicles.   The seat belt brackets may not be secured to the seat fram",
+        "report_date": "17/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V055000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST",
+        "summary": "General Motors LLC (GM) is recalling certain 2019 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles.  These vehicles received updated software for the Electronic Brake Control Module (EBCM).  This software has an error, and as a result, the vehicle's electronic brake assist may be disabled.  As ",
+        "report_date": "30/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V814000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "General Motors LLC (GM) is recalling certain 2019-2020 Chevrolet Silverado 1500 and GMC Sierra 1500, and 2020 Silverado 2500, Silverado 3500, Sierra 2500, and Sierra 3500 vehicles equipped with carpet floor covering.  When the front seat belt pretensioners deploy, hot gas may vent through an opening",
+        "report_date": "14/11/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V423000",
+        "component": "TIRES",
+        "summary": "General Motors, LLC (GM) is recalling certain 2019 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles.  The affected tires were cured for too long during production.",
+        "report_date": "03/06/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V985000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "General Motors (GM) is recalling certain 2019-2021 GMC Sierra 1500 and Silverado 1500 vehicles equipped with certain accessory road tires and a 17\" spare tire.  The 17\" spare tire provided with the vehicle is not compatible for use with the accessory wheels, which can cause the anti-lock brake syste",
+        "report_date": "16/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V650000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "General Motors LLC (GM) is recalling certain 2019-2020 Chevrolet Silverado 1500 and GMC Sierra 1500 and 2020 Chevrolet Silverado 2500 trucks.  One of the driveshaft joints may not have been properly welded, causing the driveshaft to separate while the vehicle is moving.",
+        "report_date": "22/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V868000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors LLC (GM) is recalling certain 2019 Chevrolet Silverado 1500 Crew Cab and GMC Sierra 1500 Crew Cab vehicles.  The passenger-side frontal air bag module may have been damaged during assembly, possibly resulting in the air bag not inflating properly in the event of a crash.",
+        "report_date": "06/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V390000",
+        "component": "SERVICE BRAKES, HYDRAULIC:BRAKE FLUID LOW WARNING:SWITCH/SENSOR/FLOAT",
+        "summary": "General Motors (GM) is recalling certain 2019-2024 Chevrolet Silverado Medium Duty 4500HD, 5500HD, and 6500HD vehicles. The brake pressure sensor assembly may leak brake fluid into the brake pressure switch and cause a short circuit.",
+        "report_date": "12/06/2025",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:25.733Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

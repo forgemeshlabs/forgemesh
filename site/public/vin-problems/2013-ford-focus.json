@@ -1,0 +1,252 @@
+{
+  "slug": "2013-ford-focus",
+  "year": 2013,
+  "make": "Ford",
+  "model": "Focus",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 2109,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 1101,
+        "share_pct": 52.2,
+        "excerpts": [
+          "I purchased a 2013 Ford Focus from Boucher Ford of Menomonee Falls, WI in February, 2026. A few months later, Ford issued a recall on this car that requires the Powertrain Control Module to be reprogr",
+          "The contact owns a 2013 Ford Focus. The contact stated that the transmission failed, and the vehicle lost motive power, and the vehicle was stuck in the middle of traffic. The contact referenced sever",
+          "See attached document for complaint."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 343,
+        "share_pct": 16.3,
+        "excerpts": [
+          "I am reporting a severe vehicle safety hazard and engine stalling incident on my 2013 Ford Focus caused by an un-remedied factory emissions safety defect (related to Ford Recall 26S40 / 18S32). Due to",
+          "The evap canister purge valve has been a recurring problem for this vehicle. The canister was replaced in 2021, but continued having problems, as it pulled a vacuum on the fuel tank in upwards of 3/8 ",
+          "The \"shift tower\" typically refers to the external mechanism on top of the transmission where the shifter cables connect. Problems with this part, which is  a broken internal pin, result in a shifter "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 274,
+        "share_pct": 13,
+        "excerpts": [
+          "I purchased a 2013 Ford Focus from Boucher Ford of Menomonee Falls, WI in February, 2026. A few months later, Ford issued a recall on this car that requires the Powertrain Control Module to be reprogr",
+          "The evap canister purge valve has been a recurring problem for this vehicle. The canister was replaced in 2021, but continued having problems, as it pulled a vacuum on the fuel tank in upwards of 3/8 ",
+          "The vehicle was serviced at Bartow Ford in Bartow, Florida, where approximately $1,100 was paid for the installation of a Body Control Module (BCM). Less than two weeks after this repair, the vehicle "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 273,
+        "share_pct": 12.9,
+        "excerpts": [
+          "Steering wheel became hard to turn and then no steering and steering loss Stop safely came on the instrument panel, had car towed home and have had no one look at it yet",
+          "During recent freezing weather, upon starting the car and attempting to turn, I realized that the steering wheel was frozen solid. While researching what could have happened, the war warmed up enough ",
+          "While driving,  the electric power steering went out.  I purchased this vehicle on Aug 15 2025 and the Carfax report did not have any information pertaining to an issue with EPAS.  To have this repair"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 208,
+        "share_pct": 9.9,
+        "excerpts": [
+          "I am reporting a severe vehicle safety hazard and engine stalling incident on my 2013 Ford Focus caused by an un-remedied factory emissions safety defect (related to Ford Recall 26S40 / 18S32). Due to",
+          "The evap canister purge valve has been a recurring problem for this vehicle. The canister was replaced in 2021, but continued having problems, as it pulled a vacuum on the fuel tank in upwards of 3/8 ",
+          "I had my purge valve replaced under 24N07 ford costumer satisfactory program and the faulty purge valve damaged my catalytic converter and caused my engine light to illuminate with P0420."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 49,
+      "fires": 12,
+      "injuries": 28,
+      "deaths": 3
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1015,
+        "count": 1
+      },
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2005,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 42
+      },
+      {
+        "year": 2013,
+        "count": 298
+      },
+      {
+        "year": 2014,
+        "count": 217
+      },
+      {
+        "year": 2015,
+        "count": 196
+      },
+      {
+        "year": 2016,
+        "count": 261
+      },
+      {
+        "year": 2017,
+        "count": 175
+      },
+      {
+        "year": 2018,
+        "count": 197
+      },
+      {
+        "year": 2019,
+        "count": 268
+      },
+      {
+        "year": 2020,
+        "count": 130
+      },
+      {
+        "year": 2021,
+        "count": 81
+      },
+      {
+        "year": 2022,
+        "count": 100
+      },
+      {
+        "year": 2023,
+        "count": 64
+      },
+      {
+        "year": 2024,
+        "count": 43
+      },
+      {
+        "year": 2025,
+        "count": 21
+      },
+      {
+        "year": 2026,
+        "count": 12
+      }
+    ]
+  },
+  "recalls": {
+    "count": 12,
+    "recalls": [
+      {
+        "campaign_number": "18V735000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012-2018 Ford Focus vehicles with a 2.0L GDI or 2.0L GTDI engine.  The Canister Purge Valve (CPV) may malfunction, possibly causing excessive vacuum in fuel vapor management system.",
+        "report_date": "22/10/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V515000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012 and 2017 Focus vehicles equipped with 2.0L GDI gasoline engines and 2013-2014 Focus ST vehicles equipped with 2.0L GTDI engines, previously recalled under 18V-735.  The affected vehicles did not have the Powertrain Control Module (PCM) updated as i",
+        "report_date": "05/07/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V643000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2012-2015 Ford Focus, 2013-2015 Ford Escape and Ford C-MAX, 2015 Lincoln MKC and Ford Mustang, and 2014-2016 Ford Transit Connect vehicles.  A component within the door latches may break, preventing the doors from latching and/or leading the ",
+        "report_date": "06/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V698000",
+        "component": "LATCHES/LOCKS/LINKAGES:HATCHBACK/LIFTGATE:LOCK",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2017 Ford Focus hatchback vehicles manufactured February 14, 2012, to August 26, 2016 and equipped with a manual transmission.  The hatchback of the affected vehicles may be unlatched with a single press of the interior latch release but",
+        "report_date": "28/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V813000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013 Escape vehicles manufactured January 11, 2012, to April 1, 2013, and 2013-2014 Focus ST vehicles manufactured May 03, 2012, to October 14, 2013.  Insufficient compression in the engine wiring harness splices to the Manifold Absolute Pres",
+        "report_date": "02/12/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V495000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2014 Escape vehicles manufactured October 5, 2011, to April 1, 2013, and equipped with 2.0 liter engines and Focus ST vehicles manufactured February 14, 2012, to October 14, 2013, and equipped with 2.0 liter engines.  Insufficient compre",
+        "report_date": "11/08/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V335000",
+        "component": "EXTERIOR LIGHTING",
+        "summary": "Ford is recalling certain model year 2012-2013 Focus BEV vehicles equipped with High Intensity Discharge (HID) headlights, manufactured September 15, 2011, through May 6, 2013; and model year 2013 Focus ST vehicles equipped with High Intensity Discharge (HID) headlights, manufactured February 16, 20",
+        "report_date": "01/08/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12E035000",
+        "component": "EQUIPMENT",
+        "summary": "This recall involves aftermarket parts sold by Yakima Products, Inc. for use on  model year 2012 and 2013 Ford Focus vehicles.  This recall is being conducted by Yakima, not by Ford.  Certain combined Q-Tower and Q128 Clip rooftop rack systems, part numbers 8000124 and 8000728, do not fully contact ",
+        "report_date": "02/10/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V085000",
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "summary": "Ford is recalling certain model year 2013 Focus and C-Max vehicles built from November 16, 2012, through November 21, 2012; and model year 2013 Escape vehicles manufactured from November 14, 2012, through November 21, 2012.  The left rear door child lock was built incorrectly.  As a result, the chil",
+        "report_date": "07/03/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V331000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2014 Fiesta, 2013-2014 Fusion, 2015 Mustang, 2013-2015 Escape and C-Max, 2012-2015 Focus, 2014-2016 Transit Connect, 2013-2014 Lincoln MKZ, and 2015 MKC vehicles.  These vehicles were previously recalled and repaired under recalls 15V-246, 16V-643 ",
+        "report_date": "08/06/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V011000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2018 Focus, 2013-2019 Escape, and 2015-2016 MKC vehicles equipped with a 2.0L engine. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+        "report_date": "15/01/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V369000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:EVAPORATIVE EMISSIONS:CANISTER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012-2018 Focus vehicles previously repaired incorrectly under recall number 18V735. The Canister Purge Valve (CPV) may malfunction, causing the engine to stall unexpectedly while driving.",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:35:47.535Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

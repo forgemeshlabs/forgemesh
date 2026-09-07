@@ -1,0 +1,212 @@
+{
+  "slug": "2015-jeep-grand-cherokee",
+  "year": 2015,
+  "make": "Jeep",
+  "model": "Grand Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1355,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 350,
+        "share_pct": 25.8,
+        "excerpts": [
+          "System Failed: Total engine failure caused by a defective Recall W79 EGR Cooler, which is available for physical inspection at my residence.Safety Risk: The vehicle suffered a sudden, complete loss of",
+          "No check engine lights prior to this, car started to make a noise pulled over to check it out as I was merging over low oil pressure showed and coolant level over temperature, gear then dropped to neu",
+          "ACC automatically canceled without braking causing car to either slow down immediately or speed up unsafely, slippery road light turns on,  on dash while driving straight, lunging of the car that feel"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 312,
+        "share_pct": 23,
+        "excerpts": [
+          "The passenger seat belt does not retract. Also my passenger head rest just came out 1 day.",
+          "While driving home from the gym with my daughter in the front passenger seat, we were traveling less than 40 mph under normal driving conditions. Without warning, I heard a very loud pop/bang from ins",
+          "The contact owns a 2015 Jeep Grand Cherokee. The contact stated that while driving approximately 25 MPH to a park with her children inside the vehicle, the head restraint suddenly exploded without war"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 199,
+        "share_pct": 14.7,
+        "excerpts": [
+          "My car started jumping after purchssing it in November 2025 used. The gear would feel like it was slipping. In March 2026 I parked my car turned it off let off the brake and it rolled. I have used the",
+          "System Failed: Total engine failure caused by a defective Recall W79 EGR Cooler, which is available for physical inspection at my residence.Safety Risk: The vehicle suffered a sudden, complete loss of",
+          "No check engine lights prior to this, car started to make a noise pulled over to check it out as I was merging over low oil pressure showed and coolant level over temperature, gear then dropped to neu"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 136,
+        "share_pct": 10,
+        "excerpts": [
+          "This car has broke down on me 3xs bc of the faulty pump relay. At the car wash with my children, at work, and home this vehicle has left me stranded. Now up to $1600 in repairs all while my car is bro",
+          "The contact owns a 2015 Jeep Grand Cherokee. The contact stated the infotainment system turned off intermittently while driving, and occasionally failed to turn off when the vehicle was turned off. Th",
+          "Had to have repairs done after two weeks of purchase of vehicle for recall for vehicle losing power when picking up speed also engine light is on continuously. Contacted dealer and requested repairs D"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 103,
+        "share_pct": 7.6,
+        "excerpts": [
+          "Car was parked. When I returned the passenger head rest had popped. No accident.",
+          "The passenger headrest exploded.  1 year ago the driver side headrest exploded while I was driving. Luckily I was not hurt badly or in an accident.  Dealership said they would only fix the driver side",
+          "The passenger headrest exploded.  1 year ago the driver side headrest exploded while I was driving. Luckily I was not hurt badly or in an accident.  Dealership said they would only fix the driver side"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 128,
+      "fires": 21,
+      "injuries": 93,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 17
+      },
+      {
+        "year": 2015,
+        "count": 135
+      },
+      {
+        "year": 2016,
+        "count": 198
+      },
+      {
+        "year": 2017,
+        "count": 59
+      },
+      {
+        "year": 2018,
+        "count": 61
+      },
+      {
+        "year": 2019,
+        "count": 169
+      },
+      {
+        "year": 2020,
+        "count": 179
+      },
+      {
+        "year": 2021,
+        "count": 124
+      },
+      {
+        "year": 2022,
+        "count": 100
+      },
+      {
+        "year": 2023,
+        "count": 129
+      },
+      {
+        "year": 2024,
+        "count": 77
+      },
+      {
+        "year": 2025,
+        "count": 66
+      },
+      {
+        "year": 2026,
+        "count": 41
+      }
+    ]
+  },
+  "recalls": {
+    "count": 10,
+    "recalls": [
+      {
+        "campaign_number": "20V475000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:DIESEL",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Ram 1500 and 2014-2016 Jeep Grand Cherokee vehicles equipped with 3.0L diesel engines.  The crankshaft position sensor tone wheel may delaminate causing the engine to lose its ability to synchronize the fuel injector pulses and cam shaft timing, p",
+        "report_date": "13/08/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V699000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:EMISSION CONTROL:GAS RECIRCULATION VALVE (EGR VALVE)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2019 Jeep Grand Cherokee vehicles equipped with the 3.0L EcoDiesel\r\nengines.  The Exhaust Gas Recirculation (EGR) cooler may crack and allow pre-heated vaporized coolant to enter the EGR system.  This mixture may combust inside the intake manifold.",
+        "report_date": "12/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V168000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2015-2016 Jeep Grand Cherokee and Dodge Durango vehicles manufactured December 9, 2015, to January 14, 2016.  In the affected vehicles, the left front brake caliper may crack due to being made from an incorrect material.",
+        "report_date": "23/03/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17E061000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:GASOLINE:TURBO/SUPERCHARGER",
+        "summary": "Accessible Technologies, Inc. (ATI) is recalling certain ProCharger Superchargers, model numbers AB037A-100, AB037A-100P, and A037A-100B, sold for installation on 2012-2017 Jeep Grand Cherokee SRT8 and SRT vehicles.  The supercharger mounting bracket may contact and damage the ABS line, possibly res",
+        "report_date": "19/10/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V461000",
+        "component": "EQUIPMENT:ELECTRICAL:RADIO/TAPE DECK/CD ETC.",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2013-2015 Ram 1500, 2500, 3500, 4500, and 5500, 2015 Chrysler 200, Chrysler 300, Dodge Charger, and Dodge Challenger, 2014-2015 Jeep Grand Cherokee, Cherokee, and Dodge Durango, and 2013-2015 Dodge Viper vehicles.  The affected vehicles are equip",
+        "report_date": "23/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V240000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2012-2014 Dodge Charger and Chrysler 300 vehicles manufactured February 15, 2011, to November 27, 2014, and 2014-2015 Jeep Grand Cherokee vehicles manufactured July 16, 2012, to December 22, 2015.  The affected vehicles, equipped with an eight-sp",
+        "report_date": "25/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V469000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2015 Jeep Grand Cherokee and Dodge Durango vehicles manufactured June 12, 2015, to June 20, 2015. The affected vehicles may be equipped with rear lower control arms that may have been incorrectly heat treated. This may cause the rear lower contro",
+        "report_date": "27/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V406000",
+        "component": "FUEL SYSTEM, DIESEL:DELIVERY:FUEL PUMP",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2020 Jeep Grand Cherokee, and 2014-2019 Ram 1500 vehicles equipped with 3.0L diesel engines.  A high pressure fuel pump (HPFP) failure may introduce internal debris into the fuel system, potentially resulting in fuel starvation.",
+        "report_date": "09/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V411000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2019 Ram 1500 and 2014-2020 Jeep Grand Cherokee vehicles equipped with 3.0L Diesel engines.  The crankshaft position sensor tone wheel may delaminate, causing the engine to lose its ability to synchronize the fuel injector pulses and cam shaft timing,",
+        "report_date": "08/06/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:48.551Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

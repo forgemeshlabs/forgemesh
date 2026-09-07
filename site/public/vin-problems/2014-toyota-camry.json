@@ -1,0 +1,111 @@
+{
+  "slug": "2014-toyota-camry",
+  "year": 2014,
+  "make": "Toyota",
+  "model": "Camry",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 14,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 6,
+        "share_pct": 42.9,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2014 Toyota Camry. It was discovered that there was a mileage discrepancy. The vehicle was a dealer sale. At the time of purchase, the vehicle mileage was 137,3",
+          "Odometer Fraud. The contact purchased a 2014 Toyota Camry. At the time of purchase, the vehicle mileage was 160,000. The vehicle was a private sale. The contact stated that during a routine oil change",
+          "There is a transmission shudder when traveling around 30-40 MPH as well as sporadically when increasing speed. Recently, there is a very hard shift/jolt when transmission is shifting from 2nd to 3rd. "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 6,
+        "share_pct": 42.9,
+        "excerpts": [
+          "The torque converter is malfunctioning. This malfunction can damage the entire transmission by releasing metal debris into the transmission system due to severe shuddering. If the torque converter fai",
+          "Transmission shudder - noticed transmission vibration at speeds from 25 to 30 mph and before 50 mph. Took the car to a shop for wheel alignment, vibration still felt. Took to a dealer , Hamer Toyota i",
+          "The contact owns a 2014 Toyota Camry. The contact stated that while driving approximately 20 MPH, the accelerator pedal was depressed, and the vehicle hesitated before jolting into the next gear. The "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 2,
+        "share_pct": 14.3,
+        "excerpts": [
+          "My safety was put at risk because I did not have the protection of the airbags during a serious head-on collision. I was wearing my seat belt, but I still suffered a concussion, bruised ribs, two spra",
+          "SRS airbag panel has detached on the windshield side and top."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 1,
+        "share_pct": 7.1,
+        "excerpts": [
+          "The contact owns a 2014 Toyota Camry. The contact stated while driving at an undisclosed speed, the engine seized. No warning lights were illuminated. The contact stated that while attempting to start"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 1,
+        "share_pct": 7.1,
+        "excerpts": [
+          "Driving on all American highway on my way to work there were 2 tote black  boxes on the left lane causing me to hit them with no alternative. My front part of vehicle is damaged"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 0,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 8
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "14V715000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM:LOWER ARM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2014 Toyota Camry, Camry HV, Avalon, and Avalon HV vehicles equipped with 16-inch and 17-inch rims.  In the affected vehicles, the left-side front suspension lower arm may have been incorrectly manufactured.  As a resu",
+        "report_date": "07/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V576000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2014 Toyota Avalon, Camry, Sienna, and Highlander and model year 2015 Lexus RX350 vehicles.  Fuel may leak from the one of the fuel delivery pipes in the engine compartment.",
+        "report_date": "19/09/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V505000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:SWITCH/WIRING",
+        "summary": "Toyota Motor Engineering & manufacturing North America, Inc. (Toyota) is recalling certain model year 2013-2014 Camry and Camry HV, model year 2013 Avalon and Avalon HV and model year 2014 Corolla vehicles.  In the affected vehicles, the windshield wiper switch assembly may short circuit.  As such, ",
+        "report_date": "17/10/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:36:17.250Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

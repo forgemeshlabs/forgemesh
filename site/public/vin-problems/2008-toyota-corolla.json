@@ -1,0 +1,204 @@
+{
+  "slug": "2008-toyota-corolla",
+  "year": 2008,
+  "make": "Toyota",
+  "model": "Corolla",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 344,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 161,
+        "share_pct": 46.8,
+        "excerpts": [
+          "The airbag indicator red light has turned on without any collision or accident.",
+          "The contact owns a 2008 Toyota Corolla. The contact stated while the driver was idling in an intersection and making a left turn, another vehicle crashed into the front passenger side of the vehicle c",
+          "The contact owns a 2008 Toyota Corolla. The contacted stated that the air bag warning light was illuminated. The vehicle was not taken to be diagnosed or repaired. The dealer and the manufacturer were"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 55,
+        "share_pct": 16,
+        "excerpts": [
+          "2008 TOYOTA COROLLA.  CONSUMER WRITES IN REGARDS TO VEHICLE SUDDEN UNINTENDED ACCELERATION.  *SMD    THE CONSUMER STATED THE VEHICLE SIDE SWIPED ANOTHER VEHICLE. THE CONSUMER REQUESTED THE TO BE REIMB",
+          "MY COROLLA'S ACCELERATOR STICKS FROM TIME TO TIME.  THE RECALL FOR THIS PROBLEM WAS FOR 2009 AND LATER MODEL YEARS BUT STILL AFFECTS THE 2008 MODEL.  TOYOTA WILL NOT TAKE ANY ACTION SHORT OF CHARGING ",
+          "TL* THE CONTACT OWNS A 2008 TOYOTA COROLLA. THE CONTACT STATED THAT WHILE DEPRESSING THE BRAKE PEDAL, THE RPMS INCREASED AND THE VEHICLE LURCHED FORWARD WITHOUT WARNING. THE CONTACT DEPRESSED THE BRAK"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 33,
+        "share_pct": 9.6,
+        "excerpts": [
+          "THE ENGINE LIGHT IS ON AND WHEN CHECK THERE IS PROBLEM WITH CATALYTIC CONVERTER.  *TR",
+          "TL* THE CONTACT OWNS A 2008 TOYOTA COROLLA. THE CONTACT STATED THAT THE CHECK ENGINE WARNING LIGHT ILLUMINATED. THE VEHICLE WAS INCLUDED AND REPAIRED UNDER NHTSA CAMPAIGN NUMBER: 10V384000 (ENGINE AND",
+          "2008 TOYOTA COROLLA.  CONSUMER WRITES IN REGARDS TO ENGINE CONTROL MODULE RECALL NOTICE.  *SMD  THE CONSUMER STATED HE RECEIVED A RECALL NOTICE. HOWEVER, WHEN HE ARRIVED AT THE DEALERSHIP, THE MECHANI"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 28,
+        "share_pct": 8.1,
+        "excerpts": [
+          "SUDDEN ACCELLERATION, BRAKES, BATTERY, FUEL INJECTORS, SHUTTING DOWN SUDDENLY, ELECTRICAL",
+          "I HAVE HAD FAILURE TO DISCLOSE ISSUES WITH THIS CAR. I HAVE HAD AN ACCIDENT IN WHICH THE AIRBAG DID NOT DEPLOY AND BRAKE HAD DIFFICULTY. I HAD A BAD ACCIDENT AND HAVE REACHED OUT TO TOYOTA TO WITHER R",
+          "TL* THE CONTACT OWNS A 2008 TOYOTA CORROLA. AFTER THE VEHICLE WAS REPAIRED PER NHTSA CAMPAIGN NUMBER: 16V127000 (AIR BAGS), THE ABS WARNING INDICATOR ILLUMINATED. THE VEHICLE WAS TAKEN BACK TO THE DEA"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 24,
+        "share_pct": 7,
+        "excerpts": [
+          "Engine light stays on",
+          "SUDDEN ACCELLERATION, BRAKES, BATTERY, FUEL INJECTORS, SHUTTING DOWN SUDDENLY, ELECTRICAL",
+          "I HAVE HAD FAILURE TO DISCLOSE ISSUES WITH THIS CAR. I HAVE HAD AN ACCIDENT IN WHICH THE AIRBAG DID NOT DEPLOY AND BRAKE HAD DIFFICULTY. I HAD A BAD ACCIDENT AND HAVE REACHED OUT TO TOYOTA TO WITHER R"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 77,
+      "fires": 1,
+      "injuries": 48,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 8
+      },
+      {
+        "year": 2008,
+        "count": 29
+      },
+      {
+        "year": 2009,
+        "count": 36
+      },
+      {
+        "year": 2010,
+        "count": 48
+      },
+      {
+        "year": 2011,
+        "count": 17
+      },
+      {
+        "year": 2012,
+        "count": 11
+      },
+      {
+        "year": 2013,
+        "count": 17
+      },
+      {
+        "year": 2014,
+        "count": 15
+      },
+      {
+        "year": 2015,
+        "count": 18
+      },
+      {
+        "year": 2016,
+        "count": 102
+      },
+      {
+        "year": 2017,
+        "count": 9
+      },
+      {
+        "year": 2018,
+        "count": 4
+      },
+      {
+        "year": 2019,
+        "count": 13
+      },
+      {
+        "year": 2020,
+        "count": 5
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "19V741000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2010-2016 4Runner, 2003-2006 Tundra, 2003-2013 Corolla, 2009-2010 Corolla Matrix, 2004-2005 RAV4, 2002-2007 Sequoia, 2011-2013 Sienna, 2008-2012 Scion xB, 2008-2009 Lexus IS-F, 2007-2012 Yaris and Lexus ES350, 2010-2017 Lexus GX4",
+        "report_date": "17/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V627000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2003-2008 Corolla, 2005-2008 Corolla Matrix, and Pontiac Vibe vehicles equipped with a front passenger air bag assembly replaced under a prior recall.  The air bag may not unfold as designed during inflation under high temperatur",
+        "report_date": "28/08/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V127000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2008-2010 Lexus SC vehicles manufactured August 3, 2007, to July 30, 2010, 2008 Toyota Corolla vehicles manufactured May 25, 2007, to December 21, 2007, 2008 Toyota Corolla Matrix vehicles manufactured June 1, 2007, to",
+        "report_date": "03/03/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V128000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2008-2010 Lexus SC vehicles manufactured August 3, 2007, to July 30, 2010, 2008 Toyota Corolla vehicles manufactured June 1, 2007, to December 21, 2007, 2008 Toyota Corolla Matrix vehicles manufactured June 1, 2007, to",
+        "report_date": "02/03/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V384000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2008 COROLLA AND COROLLA MATRIX VEHICLES.  THE ENGINE CONTROL MODULE (ECM) FOR THE SUBJECT MODELS EQUIPPED WITH THE 1ZZ-FE ENGINE AND TWO-WHEEL DRIVE MAY HAVE BEEN IMPROPERLY MANUFACTURED.  THERE IS A POSSIBILITY THAT A CRACK MAY DEVELOP AT CERTAIN SOLDER ",
+        "report_date": "26/08/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V036000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2011 PASSENGER VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD WITHOUT THE REQUISITE LOAD CARRYING CAPACITY MODIFICATION LABELS.",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:45:52.482Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

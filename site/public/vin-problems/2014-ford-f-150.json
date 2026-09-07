@@ -1,0 +1,196 @@
+{
+  "slug": "2014-ford-f-150",
+  "year": 2014,
+  "make": "Ford",
+  "model": "F-150",
+  "matched_as": {
+    "complaints": [
+      "F-150 REGULAR CAB",
+      "F-150 SUPER CREW",
+      "F-150 SUPERCAB"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 4086,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 1023,
+        "share_pct": 25,
+        "excerpts": [
+          "The contact owns a 2014 Ford F-150. The contact stated while driving at an undisclosed speed, the transmission unexpectedly downshifted without warning. The contact called a dealer and was informed th",
+          "I was driving about 75mph when my 2014 Ford F150 suddenly downshifted from 6th gear to 2nd. As a result of the unexpected downshift, my body was pushed into the steering wheel, and the rear end of the",
+          "The contact owns a 2014 Ford F-150. The contact stated while driving at an undisclosed speed, the transmission unexpectedly downshifted. In addition, the contact stated that the vehicle was sliding. N"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 951,
+        "share_pct": 23.3,
+        "excerpts": [
+          "The contact owns a 2014 Ford F-150. The contact stated that while driving at slower speeds, the vehicle hesitated while coming to a complete stop. In addition, the contact stated that the brake pedal ",
+          "The contact owns a 2014 Ford F-150. The contact stated while driving at an undisclosed speed and attempting to the slow down while approaching an intersection, the brake pedal depressed all the way to",
+          "The contact owns a 2014 Ford F-150. The contact stated while driving 70 MPH on the interstate, the low brake fluid warning light illuminated. The contact pulled over to the right side of the road and "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 489,
+        "share_pct": 12,
+        "excerpts": [
+          "Cam phasers yes engine could blow up cause to lose control of my vehicle yes by a ford dealer no no warning lamp or message rattle at cool startup",
+          "The contact owns a 2014 Ford F-150. The contact stated that upon leaving the grocery store and attempting to start the vehicle, the vehicle failed to start while the engine was continuously turning ov",
+          "The contact owns a 2014 Ford F-150. The contact stated that while driving at approximately 35 MPH and exiting the gas station, the vehicle failed to accelerate as intended while depressing the acceler"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 453,
+        "share_pct": 11.1,
+        "excerpts": [
+          "The contact owns a 2014 Ford F-150. The contact stated while driving at 40 MPH, the steering wheel independently steered to the right and the vehicle independently drove off the road and into an emban",
+          "The contact owns a 2014 Ford F-150. The contact stated that while driving at an undisclosed speed, he became aware that the electronic power steering was not functioning properly, requiring increased ",
+          "I was driving to work and when coming to the parking structure making a right hand turn my steering wheel locked up on me and on the dash Hill Descent Control Fault and  Service AdvancedTrac came on t"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 426,
+        "share_pct": 10.4,
+        "excerpts": [
+          "This 2014 pickup was started at about 8:00 AM and the manager went inside the building for a few minutes, (less than 5). A vender that was delivered petroleum product saw that the truck was smoking an",
+          "The contact owns a 2014 Ford F-150. The contact stated that while driving at approximately 35 MPH and exiting the gas station, the vehicle failed to accelerate as intended while depressing the acceler",
+          "Odometer Fraud. The contact purchased a 2014 Ford F150. The contact stated that while driving at an undisclosed speed, the control panel failed to function as intended. The contact is unable to turn o"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 105,
+      "fires": 45,
+      "injuries": 99,
+      "deaths": 3
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 105
+      },
+      {
+        "year": 2015,
+        "count": 240
+      },
+      {
+        "year": 2016,
+        "count": 372
+      },
+      {
+        "year": 2017,
+        "count": 288
+      },
+      {
+        "year": 2018,
+        "count": 504
+      },
+      {
+        "year": 2019,
+        "count": 558
+      },
+      {
+        "year": 2020,
+        "count": 399
+      },
+      {
+        "year": 2021,
+        "count": 279
+      },
+      {
+        "year": 2022,
+        "count": 348
+      },
+      {
+        "year": 2023,
+        "count": 333
+      },
+      {
+        "year": 2024,
+        "count": 498
+      },
+      {
+        "year": 2025,
+        "count": 162
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "17V472000",
+        "component": "SEAT BELTS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2014 Ford F-150 and E-350, 2014-2015 Ford Escape, and 2015 Lincoln MKC vehicles.  Improperly manufactured bolts may have been used to install certain seats, seatbacks, seatbelt buckles, or seatbelt anchors on these vehicles.",
+        "report_date": "25/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V345000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FLUID",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2013-2014 F-150 vehicles manufactured August 1, 2013, to August 31, 2014 equipped with 3.5L engines.  The master cylinder rear cup seal may roll, resulting in brake fluid leakage from the primary reservoir into the brake booster.",
+        "report_date": "24/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V316000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2014 Ford F-150 trucks manufactured May 26, 2014 to June 19, 2014, and equipped with Electronic Power Assist Steering (EPAS).  The affected vehicles may have an incorrectly installed EPAS gear motor position sensor magnet that can lead to a t",
+        "report_date": "12/06/2014",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V710000",
+        "component": "SEATS",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2014 Ford F-150 and Flex vehicles manufactured March 1, 2014, to May 31, 2014.  The affected vehicles were manufactured with a reduced clearance between the seat frame and the seat track assembly.  This can cause the Occupant Classification S",
+        "report_date": "07/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V709000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2014 F-150 vehicles manufactured March 1, 2014, to March 13, 2014.  The affected vehicles may have a brake pedal position switch that is improperly adjusted.  As a result, the brake lights may illuminate with a delay or not at all.  As such, ",
+        "report_date": "05/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V332000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:MASTER CYLINDER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2014-2017 F-150 pickup trucks equipped with 3.5L Ecoboost engines.  The brake master cylinder may leak brake fluid into the brake booster.",
+        "report_date": "08/06/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V444000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2014 F-150 vehicles.  A loss of signal between the transmission output shaft speed sensor and the powertrain control module can cause the transmission to unexpectedly downshift into first gear, regardless of vehicle speed.",
+        "report_date": "17/06/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V378000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2014 F-150 vehicles previously repaired incorrectly under recall number 24V444. A loss of signal between the transmission output shaft speed sensor and the powertrain control module (PCM) can cause the transmission to unexpectedly downshift i",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:36:34.532Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

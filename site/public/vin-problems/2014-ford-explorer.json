@@ -1,0 +1,204 @@
+{
+  "slug": "2014-ford-explorer",
+  "year": 2014,
+  "make": "Ford",
+  "model": "Explorer",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1674,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 496,
+        "share_pct": 29.6,
+        "excerpts": [
+          "Sudden and complete loss of power steering assist while vehicle was in operation. Vehicle became extremely difficult to steer, creating safety hazard for driver and child passenger.  Inspection reveal",
+          "While sitting at a stop light, waiting to turn, the steering wheel went stiff, then I was forced to make the turn without the power steering. it started working again but made a very loud grindy noise",
+          "My pillar are coming off to the point when it rains water get inside my car. It’s messed up my system in my car. I can’t close my sun roof and water comes down from my lights that’s above my head wher"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 276,
+        "share_pct": 16.5,
+        "excerpts": [
+          "Recall issued and notified via mail by Ford for faulty A-pillarsin 2024.  A-pillars can fall off vehicle while driving and can cause safety issue.  Vehicle was taken to dealer for inspection in March ",
+          "The contact owns a 2014 Ford Explorer. The contact received notification of NHTSA Campaign Number: 24V031000 (Structure); however, the part to do the recall repair was not yet available. The contact s",
+          "The contact owns a 2014 Ford Explorer. The contact received the notification letter for NHTSA Campaign Number: 24V031000 (Structure). The contact stated that the driver’s side exterior trim was loose."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 196,
+        "share_pct": 11.7,
+        "excerpts": [
+          "When I'm driving on the freeway. I could be on flatland and it will stall, I could be going down a hill and it stalls, I could be on a regular road, turning a corner, hitting a bump. And it stalls whe",
+          "Engine over heat warning while driving and I checked there is a coolant leakage.",
+          "The contact owns a 2014 Ford Explorer. The contact stated that while the vehicle was stopped, the vehicle jerked, and the vehicle failed to accelerate as intended while depressing the accelerator peda"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 102,
+        "share_pct": 6.1,
+        "excerpts": [
+          "I had the toe link recall performed in 2022.  Since that time, I have replaced brakes twice, tires twice (two full sets in less than 50k miles), control arms, sway bars, and bushings. The car will not",
+          "There is a strong fuel order coming from passenger side after every fuel fill, affects everyone in the car while moving, especially affecting my grandchildren and my family.  Backup camera rarely come",
+          "EXTERIOR A-PILLAR APPLIQUE TRIM CLIP ATTACHMENTS ARE NOT PROPERLY ENGAGED DUE TO IMPROPER ASSEMBLY OR REPAIR.  REAER TOE LINK REAR TIRES TILTED INWARD due to potential fractures from corrosion or brok"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 100,
+        "share_pct": 6,
+        "excerpts": [
+          "Sudden and complete loss of power steering assist while vehicle was in operation. Vehicle became extremely difficult to steer, creating safety hazard for driver and child passenger.  Inspection reveal",
+          "My pillar are coming off to the point when it rains water get inside my car. It’s messed up my system in my car. I can’t close my sun roof and water comes down from my lights that’s above my head wher",
+          "Backup camera failed,  screen turns black or freezes when the car is put in Reverse.  While driving or in reverse the screen becomes pixelated with red,  green stripes. The camera is unuseable which c"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 32,
+      "fires": 6,
+      "injuries": 38,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2009,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 24
+      },
+      {
+        "year": 2014,
+        "count": 108
+      },
+      {
+        "year": 2015,
+        "count": 59
+      },
+      {
+        "year": 2016,
+        "count": 133
+      },
+      {
+        "year": 2017,
+        "count": 204
+      },
+      {
+        "year": 2018,
+        "count": 108
+      },
+      {
+        "year": 2019,
+        "count": 144
+      },
+      {
+        "year": 2020,
+        "count": 103
+      },
+      {
+        "year": 2021,
+        "count": 112
+      },
+      {
+        "year": 2022,
+        "count": 166
+      },
+      {
+        "year": 2023,
+        "count": 153
+      },
+      {
+        "year": 2024,
+        "count": 212
+      },
+      {
+        "year": 2025,
+        "count": 121
+      },
+      {
+        "year": 2026,
+        "count": 23
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "19V435000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2017 Explorer vehicles.  The rear suspension toe links may fracture due to stress on the rear suspension.",
+        "report_date": "10/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17E048000",
+        "component": "WHEELS:HUB",
+        "summary": "Ford Motor Company (Ford) is recalling certain Wheel Hub Bearing assemblies, part number HB5Z-1104-C, incorrectly listed as being for installation on the rear axles of 2011-2017 Ford Explorer 4X2 vehicles.  These bearings assemblies were manufactured without a self retention feature, possibly result",
+        "report_date": "28/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V245000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2014-2015 Ford Explorer vehicles manufactured January 17, 2014 to May 31, 2014.  The affected vehicles may have improperly welded rear suspension toe links that may fracture.",
+        "report_date": "26/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V692000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2014-2016 Explorer, 2014-2015 Taurus and 2014 Edge vehicles equipped with 2.0L or 2.3L engines and front wheel drive.  The support bracket for the front drive axle halfshaft may fail.",
+        "report_date": "10/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V537000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2017 Explorer vehicles originally sold, or ever registered, in Connecticut, Delaware, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshire, New Jersey, New York, Ohio, Pennsylvania, Rhode I",
+        "report_date": "15/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V675000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2017 Explorer vehicles originally sold, or currently registered in Connecticut, Delaware, the District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshire, New Jersey, New Yor",
+        "report_date": "12/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V031000",
+        "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2019 Explorer vehicles.  The A-pillar trim retention clips may not be properly engaged, allowing the trim to detach.",
+        "report_date": "19/01/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:37:07.667Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

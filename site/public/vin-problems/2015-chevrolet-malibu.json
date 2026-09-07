@@ -1,0 +1,160 @@
+{
+  "slug": "2015-chevrolet-malibu",
+  "year": 2015,
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 270,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 70,
+        "share_pct": 25.9,
+        "excerpts": [
+          "While driving my 2015 Chevrolet Malibu on a four-lane highway with a posted speed limit of 70 mph, the vehicle displayed an “Engine Power Is Reduced” message and limited the vehicle to less than appro",
+          "The car continues to die when I come to a stop. The error code for the engine light is P305F. I have changed both batteries along with several different sensors and spent thousands of dollars in repai",
+          "The transmission and engine fails repeatedly.  The vehicle repeatedly stalls while accelerating at all speeds, simultaneously, the gear shift lights,dash lights, radio, etc restarts. Issue also happen"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 68,
+        "share_pct": 25.2,
+        "excerpts": [
+          "Fuel sensors failing, codes obd are not fixing issue, auto stop, shuts radio off when brake is applied,  resets all electric components in car. Every time braking at a stop or signal.",
+          "While driving my 2015 Chevrolet Malibu on a four-lane highway with a posted speed limit of 70 mph, the vehicle displayed an “Engine Power Is Reduced” message and limited the vehicle to less than appro",
+          "The car continues to die when I come to a stop. The error code for the engine light is P305F. I have changed both batteries along with several different sensors and spent thousands of dollars in repai"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 49,
+        "share_pct": 18.1,
+        "excerpts": [
+          "I was t-boned on the front side panel near the door at a high rate of speed. I would estimate well above the posted limit of 35 mph and my front and side airbags failed to deploy. I have video from th",
+          "Service airbag light goes on and off. Also passenger air bag keeps turning on and off.",
+          "Unknown"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 31,
+        "share_pct": 11.5,
+        "excerpts": [
+          "The contact owns a 2015 Chevrolet Malibu. The contact stated that while driving on several occasions at various speeds, the vehicle inadvertently shifted between park(P), drive(D), and neutral(N), and",
+          "The contact owns a 2015 Chevrolet Malibu. The contact stated that while driving at an undisclosed speed, the contact attempted to stop to make a turn, and there was a popping sound coming from the veh",
+          "The transmission and engine fails repeatedly.  The vehicle repeatedly stalls while accelerating at all speeds, simultaneously, the gear shift lights,dash lights, radio, etc restarts. Issue also happen"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 28,
+        "share_pct": 10.4,
+        "excerpts": [
+          "Wheel hubs causes car to think that it’s going faster(200mph) causing car to drop speed, locks steering wheel making it impossible to turn away from traffic and drive it’s an accident waiting to happe",
+          "I bought my 2015 Chevy Malibu in 2016 at 36k miles. No wrecks, 1 owner before myself. No warning lights on when driving from the lot and the car was just what I wanted…  tho always a little doubtful b",
+          "I was almost to work on the highway and my car dashboard said Engine Power is Reduced. It quickly started powering down from 74 directly to 50 then 40, then 35 and finally to 26 before I could safely "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 18,
+      "fires": 9,
+      "injuries": 13,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 7
+      },
+      {
+        "year": 2015,
+        "count": 19
+      },
+      {
+        "year": 2016,
+        "count": 14
+      },
+      {
+        "year": 2017,
+        "count": 21
+      },
+      {
+        "year": 2018,
+        "count": 37
+      },
+      {
+        "year": 2019,
+        "count": 51
+      },
+      {
+        "year": 2020,
+        "count": 34
+      },
+      {
+        "year": 2021,
+        "count": 20
+      },
+      {
+        "year": 2022,
+        "count": 31
+      },
+      {
+        "year": 2023,
+        "count": 9
+      },
+      {
+        "year": 2024,
+        "count": 12
+      },
+      {
+        "year": 2025,
+        "count": 11
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "16V502000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016-2017 Buick Verano and 2016 Chevrolet Malibu as the electronic park lock lever may allow the ignition key to be removed without the transmission being in PARK.  Also, certain 2013 Buick Encore,  2011 Buick Regal, 2013-2014 Buick Verano, 201",
+        "report_date": "05/07/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V666000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015 Buick LaCrosse, Cadillac XTS, Chevrolet Camaro, Equinox, Malibu, and GMC Terrain vehicles.  The affected vehicles have front seat-mounted side impact air bags whose inflator may rupture upon its deployment.",
+        "report_date": "16/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V164000",
+        "component": "VISIBILITY:SUN/MOON ROOF ASSEMBLY",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2013-2015 Chevrolet Malibu vehicles October 24, 2011, to March 5, 2015.  In the affected vehicles, the Slide or Tilt switch for the roof panel may not be adequately recessed to prevent the switch from inadvertently being pressed.  As such, thes",
+        "report_date": "23/03/2015",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:41.337Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

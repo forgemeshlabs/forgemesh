@@ -1,0 +1,148 @@
+{
+  "slug": "2017-honda-accord",
+  "year": 2017,
+  "make": "Honda",
+  "model": "Accord",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 534,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 152,
+        "share_pct": 28.5,
+        "excerpts": [
+          "The car radio / infotainment system caused dangerously loud, painful, pulsating static noise to play from all speakers. The noise starts at a lower decibel and gets louder to the point where conversat",
+          "Odometer Fraud. The contact purchased a 2017 Honda Accord. The contact discovered that there was a mileage discrepancy after the purchase. The vehicle was an independent dealer sale. At the time of pu",
+          "Odometer Fraud. The contact purchased a 2017 Honda Accord. It was discovered that there was a mileage discrepancy. The vehicle was a private sale. At the time of the purchase on June 20, 2026, the mil"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 62,
+        "share_pct": 11.6,
+        "excerpts": [
+          "Car shuts off at highway speeds and in stop and go traffic like it has a fuel delivery issue. Car sputters and then loses all power. I know there was a previous recall on this vehicle but I’m curious ",
+          "While driving the vehicle stops accelerating, it seems to have lost power and will not accelerate. It gives an error that says \"CHECK CHARGE SYSTEM\"   The vehicle has stopped accelerating while drivin",
+          "I have a Honda Accord Sport. My vehicle does not appear on the recall website. I am having so many issues with my vehicle lately. The following lights stay on continuously on my dashboard. The tire pr"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 55,
+        "share_pct": 10.3,
+        "excerpts": [
+          "Car shuts off at highway speeds and in stop and go traffic like it has a fuel delivery issue. Car sputters and then loses all power. I know there was a previous recall on this vehicle but I’m curious ",
+          "Pulled off my street to go to work, and the car engine started hesitating, misfiring and losing power.  I turned around and was able to get it to a safe location, but had to have it towed to the deale",
+          "The component that failed is the fuel pump, which had previously been replaced under a manufacturer recall but is now failing again. The vehicle is available for inspection upon request. This failure "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 44,
+        "share_pct": 8.2,
+        "excerpts": [
+          "ABS solenoid internal malfunction",
+          "The car hit the brakes automatically at 70MPH when passing on the left. There was absolutely nothing in front of the car that should have triggered the CMBS.",
+          "ABS LOW VOLTAGE WARNING symbol appeared on vehicle. $3500 to repair according to dealership. This is a common issue on these vehicles and poses a safety risk. Hoping that NHTSA will investigate this p"
+        ]
+      },
+      {
+        "component": "WHEELS",
+        "complaints": 43,
+        "share_pct": 8.1,
+        "excerpts": [
+          "There wasn’t an accident. My ABS module has went out. Which has the traction control light, break light, power steering light, tire light, and ABS light all on, on my dash. After a lot of research it ",
+          "When I purchased my car from AutoNation Honda Clearwater, I immediately faced several issues. The first problem was with the TPMS (Tire Pressure Monitoring System). As soon as the error appeared, I co",
+          "No known damage, just scrub mark on the wheel"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 38,
+      "fires": 9,
+      "injuries": 23,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 7
+      },
+      {
+        "year": 2017,
+        "count": 62
+      },
+      {
+        "year": 2018,
+        "count": 44
+      },
+      {
+        "year": 2019,
+        "count": 64
+      },
+      {
+        "year": 2020,
+        "count": 44
+      },
+      {
+        "year": 2021,
+        "count": 54
+      },
+      {
+        "year": 2022,
+        "count": 47
+      },
+      {
+        "year": 2023,
+        "count": 57
+      },
+      {
+        "year": 2024,
+        "count": 59
+      },
+      {
+        "year": 2025,
+        "count": 65
+      },
+      {
+        "year": 2026,
+        "count": 31
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "19V060000",
+        "component": "FUEL SYSTEM, OTHER:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2016-2018 Acura MDX, 2015-2019 Acura TLX and 2015-2017 Honda Accord vehicles, equipped with a 3.5L V6 engine.  Particulates in fuel may adhere to the internal components of the fuel pump, reducing its performance.",
+        "report_date": "29/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:53.515Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

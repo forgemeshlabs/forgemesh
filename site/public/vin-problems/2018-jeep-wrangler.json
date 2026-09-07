@@ -1,0 +1,232 @@
+{
+  "slug": "2018-jeep-wrangler",
+  "year": 2018,
+  "make": "Jeep",
+  "model": "Wrangler",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1814,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 1115,
+        "share_pct": 61.5,
+        "excerpts": [
+          "2018 Jeep wrangler had a recall for the violently shaking front end suspension that happens while driving at high speeds of 65-70 mph and I hit a small bump.  Also commonly known as the \"death wobble\"",
+          "Change the ending so it is completely accurate:  The electric power-steering assistance and electrical/instrument-panel systems have repeatedly malfunctioned. Power-steering assistance failed while I ",
+          "The steering column mechanically disconnected, causing a complete loss of steering control while traveling approximately 70 mph on a highway. I was in the right lane when steering control was lost wit"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 342,
+        "share_pct": 18.9,
+        "excerpts": [
+          "Any time I am over the speed of about 55 mph, and hit any type of bump, the steering wheel starts to shake violently. I have to slow down to about 40 mph to make it stop. I almost got rearended by an ",
+          "Any time I get above 55 miles per hour the steering starts shaking and I feel as if I’m going to lose control of the vehicle. I have had the recalls done on it, but it continues.",
+          "Emergency break lever/pull tab gets stuck  Vehicle failed to start several times causing  tows Vehicle steering is loose and dangerous  Steering is hard to control on a bump uneven payment or snowy ra"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 266,
+        "share_pct": 14.7,
+        "excerpts": [
+          "Suspected CAN bus failure causing multiple dash lights intermittently to include loss of power steering while driving causing an immediate safety concern.",
+          "there is open recalls for the 2018 JLU wrangler models - however mine is not included onthe recall list - but I HAVE HAD TO REPLACE THE CLUSTER FOR THE EXACT REASONS THAT ARE BEING RECALLED.  I have t",
+          "The contact owns a 2018 Jeep Wrangler. The contact stated that while driving approximately 20 MPH, the instrument cluster display malfunctioned, and a solid black screen was displayed. During the fail"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 173,
+        "share_pct": 9.5,
+        "excerpts": [
+          "The contact owns a 2018 Jeep Wrangler. The contact stated that while driving at an undisclosed speed, there was an abnormal burning odor inside the vehicle. No warning lights were illuminated. In addi",
+          "Recall 19A was a full clutch assembly replacement on January 2024 at 60,000 miles. I purchased the vehicle in January 2025 with 64,000 miles. I have owned the jeep for 1 year and 8 months. I now have ",
+          "The contact owns a 2018 Jeep Wrangler. The contact stated that while the vehicle was parked, the instrument panel was inoperative, except for the RPM gauge and speedometer. The contact researched and "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 98,
+        "share_pct": 5.4,
+        "excerpts": [
+          "I purchased this 2018 Jeep Wrangler JK Unlimited on July 19, 2025. Since purchasing the vehicle, I have experienced repeated mechanical failures that have required multiple repairs. The most serious i",
+          "What component or system failed or malfunctioned, and is it available for inspection upon request? Jeep started on fire and is still at a tow yard in Belchertown, MA How was your safety or the safety ",
+          "Was stopping at red light. Got to about 5mph when Jeep accelerated to about 35mph. I was standing on the breaks but the Jeep kept accelerating until impact struck the car in front me which was stopped"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 22,
+      "fires": 25,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2018,
+        "count": 592
+      },
+      {
+        "year": 2019,
+        "count": 448
+      },
+      {
+        "year": 2020,
+        "count": 151
+      },
+      {
+        "year": 2021,
+        "count": 110
+      },
+      {
+        "year": 2022,
+        "count": 141
+      },
+      {
+        "year": 2023,
+        "count": 126
+      },
+      {
+        "year": 2024,
+        "count": 88
+      },
+      {
+        "year": 2025,
+        "count": 99
+      },
+      {
+        "year": 2026,
+        "count": 57
+      }
+    ]
+  },
+  "recalls": {
+    "count": 14,
+    "recalls": [
+      {
+        "campaign_number": "19V680000",
+        "component": "SEAT BELTS:FRONT:ANCHORAGE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2018 Jeep Wrangler right hand drive vehicles.  The driver's seat belt buckle mounting strap may fracture and separate from the seat frame.",
+        "report_date": "26/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V675000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018-2019 Jeep Wrangler vehicles.  The front track bar brackets may be improperly welded, which can cause the bracket to separate from the frame, reducing steering capability.",
+        "report_date": "28/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V231000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Jeep Wrangler vehicles.  The rear under body ladder rail may corrode, possibly reducing the strength of the rear floor pan and causing the left rear seat mount to become loose.",
+        "report_date": "12/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V786000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Jeep Wrangler four-door vehicles.  The right rear passenger door latch may not be in the correct location, possibly preventing the door from latching properly.",
+        "report_date": "08/11/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V280000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Dodge Charger, Durango and Challenger, Jeep Grand Cherokee and Wrangler, Chrysler 300, and RAM 1500 vehicles.  An incorrect transmission park lock rod may have been installed in the transmission.",
+        "report_date": "01/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V320000",
+        "component": "EQUIPMENT",
+        "summary": "Erwin Hymer Group USA LP dba American Fastbacks (EHGUSA-AF) is recalling certain 2018 Jeep Wrangler vehicles sold with a roof top tent installed.  The top cover of the roof top tent may crack or break, possibly resulting in the cover detaching from the vehicle while moving.",
+        "report_date": "23/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V028000",
+        "component": "POWER TRAIN:CLUTCH ASSEMBLY",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2021 Jeep Wrangler and 2020-2021 Jeep Gladiator vehicles equipped with manual transmissions.  The clutch pressure plate may overheat and fracture.",
+        "report_date": "28/01/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V124000",
+        "component": "POWER TRAIN:CLUTCH ASSEMBLY",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018-2020 Jeep Wrangler and 2020 Gladiator vehicles equipped with manual transmissions.  The clutch pressure plate may overheat and fracture.",
+        "report_date": "03/03/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V343000",
+        "component": "STEERING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Jeep Wrangler vehicles.  The intermediate steering shaft may not have been properly welded causing a split where the external spline is formed.",
+        "report_date": "25/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V524000",
+        "component": "ELECTRICAL SYSTEM:WIRING:FRONT UNDERHOOD",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Jeep Renegade, Compass and Grand Cherokee, RAM 1500 and Promaster, Fiat 500x, Dodge Journey, Challenger, Charger and Durango and Chrysler 300x vehicles, 2017-2018 Jeep Wrangler, Dodge Grand Caravan and Chrysler Town and Country vehicles and 2018-2019 J",
+        "report_date": "09/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V116000",
+        "component": "POWER TRAIN:CLUTCH ASSEMBLY",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2023 Jeep Wrangler, and 2020-2023 Jeep Gladiator vehicles equipped with manual transmissions.  The clutch pressure plate may overheat and fracture.",
+        "report_date": "23/02/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V652000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2024 Jeep Gladiator and 2018-2024 Jeep Wrangler vehicles.  The instrument panel cluster may experience an internal short circuit and fail.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 10",
+        "report_date": "05/09/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V676000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2024 Jeep Wrangler vehicles.  The wiring harness for the rearview camera and the center brake light may short circuit, which can disable the rearview camera image and center brake light.  As such, these vehicles fail to comply with the requirements of",
+        "report_date": "12/09/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:41:50.187Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

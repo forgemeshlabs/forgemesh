@@ -1,0 +1,168 @@
+{
+  "slug": "2016-jeep-wrangler",
+  "year": 2016,
+  "make": "Jeep",
+  "model": "Wrangler",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 459,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 136,
+        "share_pct": 29.6,
+        "excerpts": [
+          "ABS Control Module stopped working with several warning lights showing on dash display. After 12 months the dealer is unable to supply a replacment part or a possible date when a new part might be ava",
+          "The ABS module on my jeep has failed. I've been put on a list to get a replacement part but have been on the list for 10 months with no indication of when my parts order will be fulfilled.  The failed",
+          "My 2016 Jeep Wrangler is experiencing an ongoing problem with the ABS/braking system and wheel-speed sensor. The ABS/brake warning light comes on intermittently, particularly when turning right and du"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 88,
+        "share_pct": 19.2,
+        "excerpts": [
+          "My 2016 Jeep Wrangler will buck and jerk when on the highway. I’ll be going a steady speed, not changing speed. I feel the car slow down and stomp on the gas but it goes all the way to the floor and n",
+          "Anti-Lock Brake System stopped working rendering the car inoperable. The first incident: about 5 years ago the ABS engaged the brakes while driving almost causing a collision. This incident occurred i",
+          "While driving my vehicle on Monday, February 16, 2026 I heard a loud pop come from the front of the vehicle. Right after that smoke began to come through the hood vents. I stopped the vehicle to inspe"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 77,
+        "share_pct": 16.8,
+        "excerpts": [
+          "I recently got into an accident in my 2016 Jeep Wrangler. My airbags never deployed however. Also my buttons on the left side of my steering wheel do not work and my horn does not work. After realizin",
+          "The contact owns a 2016 Jeep Wrangler. The contact recently replaced the windshield wiper motor due to a failure of the intermittent speed settings not functioning properly. The contact stated that af",
+          "On September 2, 2025, while driving at 65 mph, I lost control of my vehicle three times. The traction control light came on each time, creating a serious safety risk to me and others. The issue appear"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 73,
+        "share_pct": 15.9,
+        "excerpts": [
+          "I was driving down the road in a snow storm when all of a sudden the vehicle started swirling all over the road. I pulled over and looked underneath and something was hanging down. I had no choice but",
+          "Unsafe Vehicle, Unresolved Mechanical Failures – Serious Safety Concern  On [XXX], I purchased a Jeep (VIN: [XXX] ) from Whipple Auto Sales. Since the purchase, the vehicle has experienced repeated me",
+          "After I made a left turn onto a four-lane highway, the transmission stuck in first gear and I wasn't able to get over to the shoulder because of traffic passing on the right side. I was nearly rear-en"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 56,
+        "share_pct": 12.2,
+        "excerpts": [
+          "ABS Control Module stopped working with several warning lights showing on dash display. After 12 months the dealer is unable to supply a replacment part or a possible date when a new part might be ava",
+          "My 2016 Jeep Wrangler will buck and jerk when on the highway. I’ll be going a steady speed, not changing speed. I feel the car slow down and stomp on the gas but it goes all the way to the floor and n",
+          "Pulled into parking space. Applied brakes and came to a complete stop. Could hear engine revving up.. Thought ok, that gas pedal seem to be pressed. Look at my foot wasn’t pressing the pedal. Looked a"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 28,
+      "fires": 15,
+      "injuries": 38,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 3
+      },
+      {
+        "year": 2016,
+        "count": 49
+      },
+      {
+        "year": 2017,
+        "count": 27
+      },
+      {
+        "year": 2018,
+        "count": 31
+      },
+      {
+        "year": 2019,
+        "count": 75
+      },
+      {
+        "year": 2020,
+        "count": 52
+      },
+      {
+        "year": 2021,
+        "count": 33
+      },
+      {
+        "year": 2022,
+        "count": 34
+      },
+      {
+        "year": 2023,
+        "count": 30
+      },
+      {
+        "year": 2024,
+        "count": 46
+      },
+      {
+        "year": 2025,
+        "count": 58
+      },
+      {
+        "year": 2026,
+        "count": 21
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "19V018000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2010 Dodge Ram 3500, Ram 4500/5500, 2010-2011 Dodge Dakota, 2010-2014 Dodge Challenger, 2010-2015 Dodge Challenger, Chrysler 300, and 2010-2016 Jeep Wrangler vehicles.  Upon deployment of the driver's frontal air bag, excessive internal pressure may cause t",
+        "report_date": "15/01/2019",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V680000",
+        "component": "SEAT BELTS:FRONT:ANCHORAGE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2018 Jeep Wrangler right hand drive vehicles.  The driver's seat belt buckle mounting strap may fracture and separate from the seat frame.",
+        "report_date": "26/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V734000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2016-2017 Jeep Wrangler vehicles manufactured June 16, 2015, to August 14, 2016.  In certain crash conditions, the front impact sensor wiring may be pulled until it detaches before a signal can be received by the Occupant Restraint Controller (OR",
+        "report_date": "13/10/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V288000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2016 Right Hand Drive Jeep Wrangler vehicles manufactured February 16, 2010, to May 2, 2016. The clockspring assembly may become contaminated with dust and cause the air bag circuit to fail.",
+        "report_date": "11/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V196000",
+        "component": "AIR BAGS:FRONTAL:DRIVER CLOCKSPRING/SPIRAL CASSETTE",
+        "summary": "Chrysler (FCA US, LLC) (Stellantis) is recalling certain right hand drive 2016 Jeep Wrangler vehicles.  Debris contamination may cause the clockspring to fail, preventing the driver's air bag from deploying in a crash.",
+        "report_date": "14/03/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:42.442Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

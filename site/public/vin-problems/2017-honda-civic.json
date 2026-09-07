@@ -1,0 +1,184 @@
+{
+  "slug": "2017-honda-civic",
+  "year": 2017,
+  "make": "Honda",
+  "model": "Civic",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 591,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 170,
+        "share_pct": 28.8,
+        "excerpts": [
+          "Steering wheel gets stuck on highway driving and hard to make fine adjustments without force",
+          "After contact the Honda Corporation of this problem, they suggested that I file a complaint with your organization.  I have reported a problem to Honda concerning the steering on my 2017 Honda Civic L",
+          "Sticky steerinng on highway Feels tight and difficult to make small adjustments  Car then over corrects  Has been happening for a while several years"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 101,
+        "share_pct": 17.1,
+        "excerpts": [
+          "My 2017 Honda Civic just had a known BCM issue and many with the same models year from 2016-2018 experience the same failures. Honda should have a recall because it's where the car unknowingly drains ",
+          "The Body Control Module (BCM) on my 2017 Honda Civic suffered an internal failure, creating immediate safety hazards. The defect caused persistent parasitic battery drain, sudden vehicle power loss, a",
+          "I am filing a safety complaint regarding my 2017 Honda Civic Hatchback and the dangerous issue related to its air conditioning (A/C) system — a problem affecting many Civic owners nationwide.  I initi"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 66,
+        "share_pct": 11.2,
+        "excerpts": [
+          "The contact owns a 2017 Honda Civic. The contact stated that while driving at an undisclosed speed and exiting the freeway, while approaching a traffic light, the vehicle stalled and lost motive power",
+          "While driving the car on April 19, 2026, the car started losing engine power, was unable to maintain current speed of roadway, had to drive less than 15 miles an hour to a safe location. Had the car t",
+          "The component or system that failed their malfunction is the evaporation system in the Honda vehicles especially after 2017 that regarding the R – 1234YF refrigerant - yes it has been confirmed by the"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 37,
+        "share_pct": 6.3,
+        "excerpts": [
+          "My 2017 Honda Civic just had a known BCM issue and many with the same models year from 2016-2018 experience the same failures. Honda should have a recall because it's where the car unknowingly drains ",
+          "About one month ago, I noticed that the paint on my rear quarter panel (to the right of my rear window) was peeling. It continues to peel. My insurance will not cover the paint failure, as the adjuste",
+          "The paint on the rear trunk area has failed and it is chipping off in large amounts. The missing paint exposes the area to corrosion and reduces structural integrity of the components. American Honda "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 35,
+        "share_pct": 5.9,
+        "excerpts": [
+          "The contact owns a 2017 Honda Civic. The contact stated that while starting the vehicle, the Electronic Power Steering, Evaporative Emission Control System, Check Engine, and Antilock Braking System l",
+          "The contact owns a 2017 Honda Civic. The contact stated that while driving at an undisclosed speed, there was a loud screeching sound coming from the rear of the vehicle. There was no warning light il",
+          "The issue I’m having is that the break red light in the orange brake system just appears randomly without me activating the break. on one occasion I parked the car without seeing any of those signals,"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 23,
+      "fires": 6,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2005,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 11
+      },
+      {
+        "year": 2017,
+        "count": 34
+      },
+      {
+        "year": 2018,
+        "count": 64
+      },
+      {
+        "year": 2019,
+        "count": 41
+      },
+      {
+        "year": 2020,
+        "count": 69
+      },
+      {
+        "year": 2021,
+        "count": 47
+      },
+      {
+        "year": 2022,
+        "count": 61
+      },
+      {
+        "year": 2023,
+        "count": 77
+      },
+      {
+        "year": 2024,
+        "count": 88
+      },
+      {
+        "year": 2025,
+        "count": 50
+      },
+      {
+        "year": 2026,
+        "count": 46
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "18V663000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017-2018 Honda Civic and CR-V vehicles.  The magnet that controls the\r\ntorque sensor output signal for the electronic power steering system may not be properly secured, allowing the magnet to become dislodged.  During a full lock turn, the dislo",
+        "report_date": "27/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V817000",
+        "component": "EQUIPMENT:OTHER:OWNERS/SERVICE/OTHER MANUAL",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017-2018 Honda Civic Hatchback and Civic Type R vehicles.  The owners guide in these vehicles may not have been included or  if included, the owner's guide may not have been properly provided required information.  As such, these vehicles fail t",
+        "report_date": "16/11/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V266000",
+        "component": "AIR BAGS",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017 Honda Civic Hatchback and Civic Type R vehicles.  Driver and front passenger seatback pads sold as replacement service parts were made without slit openings for the seat-mounted side air bags. In the event of a crash necessitating air bag de",
+        "report_date": "26/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V706000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017 Honda Civic Sedan and Coupe vehicles.  The right halfshaft may have been improperly heat treated, reducing its strength.",
+        "report_date": "09/11/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:51.445Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

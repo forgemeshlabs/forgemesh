@@ -1,0 +1,144 @@
+{
+  "slug": "2020-nissan-sentra",
+  "year": 2020,
+  "make": "Nissan",
+  "model": "Sentra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 204,
+    "top_failure_components": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 60,
+        "share_pct": 29.4,
+        "excerpts": [
+          "While in reverse, my backup camera does not engage, instead it will display a blue scree or altered fuzzy incomplete image of what's behind me. While parking, parking collision warning will go off dis",
+          "My ABS has messed up multiple times often after traction control is lost   I have been lucky enough to not be injured YET this is my daily driver and im self employed and am currently paying almost 1k",
+          "Vehicle had AEB System malfunctioning. The brakes did NOT work. The emergency brake barely worked. We were driving on Fathers Day to a family gathering and the system and brakes malfunctioned, yes we "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 55,
+        "share_pct": 27,
+        "excerpts": [
+          "The contact owns a 2020 Nissan Sentra. The contact stated while driving at an undisclosed speed, the steering wheel was off centered and the vehicle vibrated. In addition, the contact stated that the ",
+          "I have an Nissan Sentra sv 2020 and steering rack is causing problems when I drive my car, making my whole steering wheel shake when I go 60 on the highway, it also makes noises when I try to gently p",
+          "Nissan had a recall 2 years ago for a tie rod issue. When I brought the car in for that recall Nissan said that the tie rods showed no sign of bending so they didn't replace them. Two years later my c"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 44,
+        "share_pct": 21.6,
+        "excerpts": [
+          "3/4 doors will not lock/unlock using fob, or the door controllers. This increases risk of theft, car jacking, and safety as the locks do not engage while driving. Very dangerous. Windows do not roll u",
+          "The power unlock on all four doors of my car doors will no longer operate via key fob, outside lock button or interior power unlock buttons, although the doors can all be locked using those same proce",
+          "The rear driver side door does not lock/unlock when pressing the lock/unlock buttons on the key fob nor the buttons on either of the front seat door panels. It is only able to be locked/unlocked by ma"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 25,
+        "share_pct": 12.3,
+        "excerpts": [
+          "Vehicle had AEB System malfunctioning. The brakes did NOT work. The emergency brake barely worked. We were driving on Fathers Day to a family gathering and the system and brakes malfunctioned, yes we ",
+          "On June 10 2025 the brake sensor malfunctioned for my 2020 Nissan Sentra This was the secound timeThe first time was about one week before..The brake peddle went down , car brakes ,brakes.I was drivin",
+          "Brake caliper piston popped out of brake caliper"
+        ]
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "complaints": 11,
+        "share_pct": 5.4,
+        "excerpts": [
+          "2020 Nissan Sentra Backup Camera. The camera periodically goes out only displaying a blue screen. Researched and discovered it was a recall. Went to the dealership and asked them and they said my cars",
+          "The contact owns a 2020 Nissan Sentra. The contact stated that while in reverse(R), the rearview camera image failed to display. No warning lights illuminated. The vehicle was taken to a local dealer,",
+          "While in reverse, my backup camera does not engage, instead it will display a blue scree or altered fuzzy incomplete image of what's behind me. While parking, parking collision warning will go off dis"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 0,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 18
+      },
+      {
+        "year": 2021,
+        "count": 30
+      },
+      {
+        "year": 2022,
+        "count": 24
+      },
+      {
+        "year": 2023,
+        "count": 58
+      },
+      {
+        "year": 2024,
+        "count": 42
+      },
+      {
+        "year": 2025,
+        "count": 24
+      },
+      {
+        "year": 2026,
+        "count": 7
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "21V461000",
+        "component": "STEERING:LINKAGES:TIE ROD ASSEMBLY",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2020-2021 Sentra vehicles.  The left and/or right tie rod may be bent.",
+        "report_date": "17/06/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V244000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2020 Sentra vehicles, equipped with LED headlights.  The right-hand headlight aim may be misaligned.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 108, \"Lamp, Reflective Devices, ",
+        "report_date": "13/04/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V581000",
+        "component": "STEERING:LINKAGES:TIE ROD ASSEMBLY",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2020-2022 Sentra vehicles.  The left and/or right tie rod may bend.",
+        "report_date": "15/08/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V628000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2019-2021 Altima and 2020-2021 Sentra vehicles.  Damage to the camera harness can cause distortion or loss of the rearview camera display image.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Stan",
+        "report_date": "08/09/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:24.177Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

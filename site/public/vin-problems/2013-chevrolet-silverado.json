@@ -1,0 +1,169 @@
+{
+  "slug": "2013-chevrolet-silverado",
+  "year": 2013,
+  "make": "Chevrolet",
+  "model": "Silverado",
+  "matched_as": {
+    "complaints": [
+      "SILVERADO 1500",
+      "SILVERADO 1500 HYBRID",
+      "SILVERADO 2500",
+      "SILVERADO 3500"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 924,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 212,
+        "share_pct": 22.9,
+        "excerpts": [
+          "Was involved in an MVA at @ 40 MPH  no air bags were deployed",
+          "I am submitting this complaint regarding an unrepaired Takata airbag recall associated with my vehicle VIN and concerns related to dealership representations and compliance charges at the time of sale",
+          "4x4 light comes on every once in a while   Airbag light come on says service"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 190,
+        "share_pct": 20.6,
+        "excerpts": [
+          "The vehicle's structural frame rails have suffered a catastrophic failure. The driver-side frame rail has a physical separation gap measuring between 1/2-inch and 1 inch wide. The passenger-side frame",
+          "The White Diamond Tri Coat paint that General Motors applied to vehicles is sub par and defective. There is no reason why the paint should be this bad. It is not due to damage or anything the driver h",
+          "The contact owns a 2013 Chevrolet Silverado 1500. The contact stated that while operating the vehicle, there was an abnormal fuel odor inside the cabin of the vehicle with the check engine warning lig"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 100,
+        "share_pct": 10.8,
+        "excerpts": [
+          "Due to General Motors AFM lifter defect and oil consumption issues that have been proven faulty, #4 AFM gave out on us in February of 2026 costing us approximately 5,000 in Engine repairs on our 2013 ",
+          "The truck lost power, starred sputtering and misfiring. I shut the engine down, restarted and was able to drive it home. This same issue occurred a couple more times but each time it was restarted it ",
+          "The contact owns a 2013 Chevrolet Silverado 1500. The contact stated that while operating the vehicle, there was an abnormal fuel odor inside the cabin of the vehicle with the check engine warning lig"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 78,
+        "share_pct": 8.4,
+        "excerpts": [
+          "Front end, yes it is available for inspection upon my request. My safety wasn’t very safe the truck felt  like the front wheels and back wheels were going to come out from underneath me. Vehicle has b",
+          "4x4 light comes on every once in a while   Airbag light come on says service",
+          "Rear wheels lock up while driving. This happened several times and to get it to move again I had to unplug battery for 10 mins. This happened while driving at all speeds and it is so unsafe to drive t"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 59,
+        "share_pct": 6.4,
+        "excerpts": [
+          "The contact owns a 2013 Chevrolet Silverado 1500. The contact stated that while the vehicle was stopped at a traffic light or stop sign, the vehicle experienced rough idling. No warning lights were il",
+          "Frame of truck is completely rusted out, truck has only 88,000 miles. The body of the truck is in perfect condition with no rust but the frame is shot! This will be over 4,500 dollars to repair, this ",
+          "On two occasions the vehicle has been parked in our drive way and has rolled away approximately 15 ft until being stopping at a snowbank. There have been no warning lights that would indicate an issue"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 48,
+      "fires": 10,
+      "injuries": 38,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 6
+      },
+      {
+        "year": 2013,
+        "count": 116
+      },
+      {
+        "year": 2014,
+        "count": 85
+      },
+      {
+        "year": 2015,
+        "count": 73
+      },
+      {
+        "year": 2016,
+        "count": 95
+      },
+      {
+        "year": 2017,
+        "count": 81
+      },
+      {
+        "year": 2018,
+        "count": 68
+      },
+      {
+        "year": 2019,
+        "count": 57
+      },
+      {
+        "year": 2020,
+        "count": 43
+      },
+      {
+        "year": 2021,
+        "count": 83
+      },
+      {
+        "year": 2022,
+        "count": 42
+      },
+      {
+        "year": 2023,
+        "count": 95
+      },
+      {
+        "year": 2024,
+        "count": 61
+      },
+      {
+        "year": 2025,
+        "count": 14
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "13V544000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "General Motors (GM) is recalling certain model year 2013-2014 Chevrolet Silverado HD, Chevrolet Express, and GMC Sierra HD vehicles, and model year 2013 GMC Savana compressed natural gas (CNG) vehicles that fail to comply with Federal Motor Vehicle Safety Standard No. 303 \"Fuel System Integrity of C",
+        "report_date": "30/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V001000",
+        "component": "STEERING:COLUMN LOCKING:ANTI-THEFT DEVICE",
+        "summary": "General Motors (GM) is recalling certain model year 2013 Cadillac Escalade, Escalade ESV, and Escalade EXT; Chevrolet Avalanche, Express, Silverado HD, Silverado LD, Suburban, and Tahoe; and GMC Savana, Sierra HD, Sierra LD, Yukon, and Yukon XL vehicles, manufactured between November 7, 2012, throug",
+        "report_date": "02/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V615000",
+        "component": "FUEL SYSTEM, DIESEL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2012-2013 Chevrolet Silverado HD and GMC Sierra HD vehicles, equipped with 6.6L diesel engines and dual fuel tanks.  In the affected vehicles, the transfer pump which moves fuel from the rear tank to the front tank could malfunction and cause t",
+        "report_date": "11/12/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:35:11.894Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

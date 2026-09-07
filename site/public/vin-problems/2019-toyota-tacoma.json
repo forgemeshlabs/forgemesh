@@ -1,0 +1,148 @@
+{
+  "slug": "2019-toyota-tacoma",
+  "year": 2019,
+  "make": "Toyota",
+  "model": "Tacoma",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 217,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 56,
+        "share_pct": 25.8,
+        "excerpts": [
+          "The brakes failed, out of nowhere, no codes and no warning. The vehicle was taken to lithia Toyota of [XXX] on XXX for inspection and they say they couldn’t recreate the issue. 5 days later the vehicl",
+          "The contact owns a 2019 Toyota Tacoma. The contact stated that while the vehicle was parked, the vehicle shuddered, stalled, and there was an abnormal sound coming from the vehicle. The contact turned",
+          "Brake Master cylinder. The brakes lose all pressure and do not stop the truck all of a sudden. This is an open recall on many of these trucks but apparently my specific truck isn’t included in this.  "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 55,
+        "share_pct": 25.3,
+        "excerpts": [
+          "low pressure fuel pump in fuel tank failed. This part was already repaired from previous recall and failed again. Error code P0087. Vehicle shuttered and stopped in traffic. Broken bits of fuel pump w",
+          "While driving at Highway speeds fuel pump failed resulting in near miss collision on Interstate. Initial fuel pump was replaced with recall. This is second pump that failed. Vehicle towed to Bob Tyler",
+          "Truck has 33,XXX miles. Was driving and the fuel gauge needle dropped to E. Dash screen stated 225 miles till empty please refuel. I tried turning it on and off, no change. Filled the gas tank numerou"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 40,
+        "share_pct": 18.4,
+        "excerpts": [
+          "The transmission cooling line in my 2019 Toyota Tacoma was never installed by an authorized repair shop following an accident. This critical component failure led to the transmission failing just 1.5 ",
+          "the differential skid plate was manufactured in a way that one of the brackets make contact with the fuel tank of the truck. It rubs and compromises the integrity of the tank. Possibly leading to a pu",
+          "About 70,000 miles, bearings on the idler pulley and tensioner on serpentine belt failed. These have been replaced. About 75,000 miles, the rack and pinion began leaking from one end. I'm watching pow"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 28,
+        "share_pct": 12.9,
+        "excerpts": [
+          "The contact owns a 2019 Toyota Tacoma. The contact stated that while the vehicle was parked, the vehicle shuddered, stalled, and there was an abnormal sound coming from the vehicle. The contact turned",
+          "The contact owns a 2019 Toyota Tacoma. The contact stated that while driving at an undisclosed speed, there was an abnormal clattering sound coming from the engine, with a misfire coming from the engi",
+          "The engine in my 2019 Toyota Tacoma TRD Off Road suffered internal damage that appears linked to Toyota’s low-pressure fuel pump recall (issued 10/28/2020, repaired 581 days later on 6/10/2022). While"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 21,
+        "share_pct": 9.7,
+        "excerpts": [
+          "The contact owns a 2019 Toyota Tacoma. The contact stated that while driving at an undisclosed speed, there was an abnormal sound coming from the A/C, and the cool air setting was inoperative. No warn",
+          "Water leaked through the third brake light assembly into the cab roof, soaking the ceiling, seats, and carpet. This caused extensive mold growth and electrical corrosion near the control modules. The ",
+          "Truck has 33,XXX miles. Was driving and the fuel gauge needle dropped to E. Dash screen stated 225 miles till empty please refuel. I tried turning it on and off, no change. Filled the gas tank numerou"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 1,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 3
+      },
+      {
+        "year": 2019,
+        "count": 60
+      },
+      {
+        "year": 2020,
+        "count": 68
+      },
+      {
+        "year": 2021,
+        "count": 17
+      },
+      {
+        "year": 2022,
+        "count": 10
+      },
+      {
+        "year": 2023,
+        "count": 23
+      },
+      {
+        "year": 2024,
+        "count": 9
+      },
+      {
+        "year": 2025,
+        "count": 16
+      },
+      {
+        "year": 2026,
+        "count": 11
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V012000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) recalled certain 2018-2019 4Runner, Highlander, Camry, Land Cruiser, Sequoia, Sienna, Tacoma and Tundra, and Lexus RC 300, RC 350, GS 350, GX 460, IS 300, LC 500, LS 500, LX 570, RX 350L, and 2019 Toyota Avalon and Corolla, and certain Lexus NX 300, ",
+        "report_date": "13/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V888000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:MASTER CYLINDER",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 Toyota Tacoma vehicles.  Improper machining of the brake master cylinder may result in internal damage of one of the seals, affecting brake performance.",
+        "report_date": "13/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V244000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Gulf States Toyota (GST) is recalling certain 2019 C-HR, 4Runner, Avalon, Avalon Hybrid, Camry, Camry Hybrid, Highlander, Land Cruiser, Prius, RAV4, Sequoia, Tacoma, Sienna, Tundra and Yaris vehicles.  The text on the load capacity label may become illegible.  As such, these vehicles fail to comply ",
+        "report_date": "27/03/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:33.363Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

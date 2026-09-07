@@ -1,0 +1,180 @@
+{
+  "slug": "2012-ford-f-150",
+  "year": 2012,
+  "make": "Ford",
+  "model": "F-150",
+  "matched_as": {
+    "complaints": [
+      "F-150 REGULAR CAB",
+      "F-150 SUPERCAB",
+      "F-150 SUPER CREW"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 5151,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 1926,
+        "share_pct": 37.4,
+        "excerpts": [
+          "Vehicle rolls backwards OR potentially forwards intermittently depending on direction of incline. Have only observed it rolling backwards. When changing gears, above third gear usually, there is a res",
+          "The transmission made a noise of metal and all electrical when out while driving but the engine stay on but no power to the road. yes its available. my car loss all power electrical and power to the r",
+          "The contact owns a 2012 Ford F-150. The contact stated that while operating the vehicle, the transmission unexpectedly downshifted to first gear. The contact stated that the failure was intermittent. "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 1419,
+        "share_pct": 27.5,
+        "excerpts": [
+          "The cam phasers are in need of changing. Ford has acknowledged  they are aware of the problems with the 3.5  Ecoboost engine  but will not take responsibility  and repair them. I definitely  can not p",
+          "The contact owns a 2012 Ford F-150. The contact stated while driving 45 MPH, the vehicle lost motive power. There was no warning light illuminated. The vehicle was towed to an independent mechanic, wh",
+          "Engine coolant over temperature condition. Cylinder head  overtemperature condition. Engine air filter restriction pending. Ceased running boards/ rusted. Broken suspensions and bad tie rods. Bluetoot"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 591,
+        "share_pct": 11.5,
+        "excerpts": [
+          "My truck started to skid as I was making a left turn.  I wasn't going fast enough to skid.  I then noticed the idiot light was on so I took it in for an estimate.  I was told that the truck needed a p",
+          "I started getting a notification on my dash about a issue with the charging system. I checked system and it is fine. Now I am getting other lights on my dash and head lights flashing. Come to find out",
+          "This truck is a safety hazard! The waterpump had to be replaced due to overheating, plus numerous other engine issues. it only has 137,000 miles on it But the REAL safety hazard is the power steering "
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 564,
+        "share_pct": 10.9,
+        "excerpts": [
+          "Wrench light popped on downshift to first gear, speedometer goes to zero. My son and I driving down highway and it suddenly drops to first gear. Dealer said it sounds like transmission molded lead fra",
+          "Sudden shift into first gear at any speed.  Dash lights flickering between p,r,n,d.  Tool light coming on dash.",
+          "I am the second owner of the vehicle and there were no disclosed repairs or issues provided at the time of purchased. The 2012 Ford F-150, is shifting sporadically and harsh. Throwing out code P0722. "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 489,
+        "share_pct": 9.5,
+        "excerpts": [
+          "The transmission made a noise of metal and all electrical when out while driving but the engine stay on but no power to the road. yes its available. my car loss all power electrical and power to the r",
+          "Odometer Fraud. The contact purchased a 2012 Ford F-150. The contact stated that while attempting to register the vehicle, it was discovered that there was a mileage discrepancy. The vehicle was a pri",
+          "The contact owns a 2012 Ford F-150. The contact stated that while driving on the highway at various speeds, the transmission was slipping. No warning lights were illuminated. The contact stated that o"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 111,
+      "fires": 42,
+      "injuries": 78,
+      "deaths": 6
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 9
+      },
+      {
+        "year": 2011,
+        "count": 15
+      },
+      {
+        "year": 2012,
+        "count": 438
+      },
+      {
+        "year": 2013,
+        "count": 552
+      },
+      {
+        "year": 2014,
+        "count": 339
+      },
+      {
+        "year": 2015,
+        "count": 417
+      },
+      {
+        "year": 2016,
+        "count": 480
+      },
+      {
+        "year": 2017,
+        "count": 540
+      },
+      {
+        "year": 2018,
+        "count": 600
+      },
+      {
+        "year": 2019,
+        "count": 582
+      },
+      {
+        "year": 2020,
+        "count": 267
+      },
+      {
+        "year": 2021,
+        "count": 147
+      },
+      {
+        "year": 2022,
+        "count": 207
+      },
+      {
+        "year": 2023,
+        "count": 249
+      },
+      {
+        "year": 2024,
+        "count": 213
+      },
+      {
+        "year": 2025,
+        "count": 96
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "19V075000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2013 F-150 vehicles equipped with a 6-speed automatic transmission.  The transmission may unexpectedly downshift into first gear, regardless of vehicle speed.",
+        "report_date": "11/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V248000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2011-2012 Ford F-150 trucks, 2012 Ford Expedition, Lincoln Navigator, and Ford Mustang vehicles.  The affected vehicles are equipped with an automatic transmission that may unexpectedly downshift to first gear, regardless of vehicle speed.",
+        "report_date": "27/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V198000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "FORD IS RECALLING CERTAIN MODEL YEAR 2012 F-150 VEHICLES MANUFACTURED FROM NOVEMBER 6, 2011, THROUGH NOVEMBER 15, 2011.  INCORRECT SOFTWARE FOR THE OCCUPANT CLASSIFICATION SYSTEM MODULE (OCSM) WAS INSTALLED ON THE VEHICLES EITHER AT THE TIME OF MANUFACTURING OR DURING THE COURSE OF REPLACEMENT OF TH",
+        "report_date": "03/05/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V190000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "FORD IS RECALLING CERTAIN MODEL YEAR 2011-2012 FORD F-150, 2012 EXPEDITION AND LINCOLN NAVIGATOR, AND 2012-2013 MUSTANG VEHICLES, FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NOS. 102, \"TRANSMISSION SHIFT LEVER SEQUENCE, STARTER INTERLOCK, AND TRANSMISSION BRA",
+        "report_date": "03/05/2012",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:32:55.504Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

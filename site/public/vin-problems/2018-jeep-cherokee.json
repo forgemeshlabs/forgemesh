@@ -1,0 +1,184 @@
+{
+  "slug": "2018-jeep-cherokee",
+  "year": 2018,
+  "make": "Jeep",
+  "model": "Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 683,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 292,
+        "share_pct": 42.8,
+        "excerpts": [
+          "My 2018 Jeep Cherokee Trailhawk is subject to FCA Recall 01C/NHTSA 25V-011 for two-speed PTU failure. I have experienced 3 serious drivetrain events requiring towing.  In April 2024, before the recall",
+          "Noticed that while going slow and turning heard popping from the rear end. Had 3 different certified shops give me different answers to the cause. Had to attempt to find my wife a way to work. As stat",
+          "The contact owns a 2018 Jeep Cherokee. The contact stated that while driving at an undisclosed speed, several unknown warning lights were illuminated on the instrument panel, and the transmission was "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 190,
+        "share_pct": 27.8,
+        "excerpts": [
+          "I have a 2018 Jeep Cherokee. The exact component causing the problem is UNKNOWN. While driving, a “Service Shifter” warning appeared on the dashboard and all of the gear indicator lights illuminated a",
+          "while i was driving my vehicle put the parking brake on and then i was unable to get it deactivated at first, after a few seconds i got it and moved forward in traffic. after a few feet the vehicle pu",
+          "When the running lights and headlights are set to Auto, moving the lever to High Beam causes the lights to go out. I have been asking the dealer and trying to find a solution since buying the car new,"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 155,
+        "share_pct": 22.7,
+        "excerpts": [
+          "The contact owns a 2018 Jeep Cherokee. The contact stated that while driving at 35 MPH, the vehicle shut off as several warning lights appeared on the instrument panel. The contact made multiple attem",
+          "My 2018 Jeep Cherokee suffered a Power Transfer Unit (PTU) failure in February 2025 while my family was on vacation. The vehicle was delivered to Walker Jeep in Alexandria, Louisiana and has remained ",
+          "1. The Power Transfer Unit (PTU) and transfer case have failed. The vehicle was initially suspected to have a wheel bearing issue due to a howling noise during the test drive. However, after purchase,"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 36,
+        "share_pct": 5.3,
+        "excerpts": [
+          "The contact owns a 2018 Jeep Cherokee. The contact stated that while driving at 25–30 MPH on the highway, the brakes locked up, and the vehicle failed to move. The \"Service Brakes\" message illuminated",
+          "while i was driving my vehicle put the parking brake on and then i was unable to get it deactivated at first, after a few seconds i got it and moved forward in traffic. after a few feet the vehicle pu",
+          "Less than 57,000 miles on vehicle. January 3, 2026.   Parking brake engaged and froze.   Interrupted driving.   Got vehicle home.  \"Service Brake\" came on.  Attempted all recommended actions to diseng"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 30,
+        "share_pct": 4.4,
+        "excerpts": [
+          "The steering rack failed about one week after I purchased the vehicle. The dealer replaced the steering rack once, but the same problem happened again about six months later. The vehicle has now been ",
+          "My Jeep veers left and right sharply while I drive. It does not take off pulling into traffic-I have to wait for total total clearance-there is no take off. My gas tank was filled three days ago and i",
+          "Regarding Recall Transport Canada Recall 2025-012, also known as Safety Recall 01C and NHTSA ID Number: 25V011000  My Jeep has the service 4WD message displayed on the dash along with the noise/vibrat"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 11,
+      "fires": 5,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 3
+      },
+      {
+        "year": 2016,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 3
+      },
+      {
+        "year": 2018,
+        "count": 53
+      },
+      {
+        "year": 2019,
+        "count": 141
+      },
+      {
+        "year": 2020,
+        "count": 125
+      },
+      {
+        "year": 2021,
+        "count": 75
+      },
+      {
+        "year": 2022,
+        "count": 53
+      },
+      {
+        "year": 2023,
+        "count": 50
+      },
+      {
+        "year": 2024,
+        "count": 53
+      },
+      {
+        "year": 2025,
+        "count": 96
+      },
+      {
+        "year": 2026,
+        "count": 30
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "18V282000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Jeep Cherokee vehicles equipped with a 2.4L engine.  These vehicles may have been manufactured with a fuel tube that may leak fuel into the engine compartment.",
+        "report_date": "01/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V494000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Jeep Cherokee all-wheel-drive vehicles.  The bearing cage for the right front halfshaft assembly may not have been properly heat treated, possibly resulting in the bearing cage breaking and a potential halfshaft assembly failure.",
+        "report_date": "26/07/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V543000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2017-2018 Jeep Cherokee vehicles.  The tire and rim size information required to be on the Certification label was omitted during manufacturing, which may result in an incorrect tire and rim combination being installed on the vehicle.  As such, these vehicl",
+        "report_date": "31/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V524000",
+        "component": "ELECTRICAL SYSTEM:WIRING:FRONT UNDERHOOD",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Jeep Renegade, Compass and Grand Cherokee, RAM 1500 and Promaster, Fiat 500x, Dodge Journey, Challenger, Charger and Durango and Chrysler 300x vehicles, 2017-2018 Jeep Wrangler, Dodge Grand Caravan and Chrysler Town and Country vehicles and 2018-2019 J",
+        "report_date": "09/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V670000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Jeep Cherokee and Compass vehicles equipped with 2.4L engines.  The engines may have a cracked oil pump housing that can result in oil pump failure.",
+        "report_date": "24/10/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V011000",
+        "component": "POWER TRAIN",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2017-2019 Jeep Cherokee vehicles.  The power transfer unit (PTU) may become damaged and disengage the transmission and differential, resulting in a loss of drive power and/or loss of park function.",
+        "report_date": "29/04/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:41:54.684Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

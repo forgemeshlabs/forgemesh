@@ -1,0 +1,176 @@
+{
+  "slug": "2019-jeep-grand-cherokee",
+  "year": 2019,
+  "make": "Jeep",
+  "model": "Grand Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 365,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 116,
+        "share_pct": 31.8,
+        "excerpts": [
+          "The contact owns a 2019 Jeep Grand Cherokee. The contact stated after the dealer had performed the recall repair under NHTSA Campaign Number: 24V838000 (Service Brakes, Hydraulic); the brakes started ",
+          "Our office has received several notices for a recall on this vehicle regarding the Anti-lock Brake system module. The first notice was post marked 6/3/24 with recall code Z48/NHTSA 22V-426. The second",
+          "The contact owns a 2019 Jeep Grand Cherokee. The contact stated that the vehicle was taken to a local dealer and repaired under NHTSA Campaign Number: 24V838000 (Service Brakes, Hydraulic). Prior to t"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 82,
+        "share_pct": 22.5,
+        "excerpts": [
+          "I am reporting a safety concern involving my 2019 Jeep. The primary systems of concern include the Forward Collision Warning/Automatic Emergency Braking system, front camera/driver-assistance system, ",
+          "I just had a recall repair for my ABS system which was electrical done to my 2019 jeep grand Cherokee. I drove off the lot with it but the next day it wouldn't start, I called the dealership back for ",
+          "The vehicle will shut down while in gear and driving at lower speeds. Happens at least 2-3 times per day for last 3 weeks"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 64,
+        "share_pct": 17.5,
+        "excerpts": [
+          "The contact owns a 2019 Jeep Grand Cherokee. The contact stated after the dealer had performed the recall repair under NHTSA Campaign Number: 24V838000 (Service Brakes, Hydraulic); the brakes started ",
+          "The contact owns a 2019 Jeep Grand Cherokee. The contact stated that the vehicle was taken to a local dealer and repaired under NHTSA Campaign Number: 24V838000 (Service Brakes, Hydraulic). Prior to t",
+          "The contact owns a 2019 Jeep Grand Cherokee. The contact received notification of NHTSA Campaign Number: 24V838000 (Service Brakes, Hydraulic); however, the part to do the recall repair was unavailabl"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 63,
+        "share_pct": 17.3,
+        "excerpts": [
+          "We found a huge spillage in our driveway and it had a color of yellowish Brown. Took it to the dealership tech found oil and coolant were mixed together and coming out of the overflow tank.  Because t",
+          "Component Failure & Inspection: The engine water pump assembly failed. This specific failure is a documented factory defect explicitly covered under manufacturer Technical Service Bulletin (TSB) #9100",
+          "2019 Jeep grand Cherokee, noticed to have leaking water pump, engine showed no signs of overheating. Water pump and thermostat changed due to a small fluctuating of temp gauge but never over the half "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 45,
+        "share_pct": 12.3,
+        "excerpts": [
+          "CODES C1490-00 REAR DIFFERENTIAL ACTUATOR INITIALIZATION FAILURE. SERVICE INFORMATION STATES TO REPLACE THE ELSD (ELECTRONIC LIMITED SLIP DIFF.) BEFORE REPLACING THE REAR DIFFERENTIAL. REMOVED FILL AN",
+          "I am reporting a safety concern involving my 2019 Jeep. The primary systems of concern include the Forward Collision Warning/Automatic Emergency Braking system, front camera/driver-assistance system, ",
+          "-Transmission  has been experiencing a very hard downshift intermittently as I am slowing down and/or coming to a stop AND when accelerating.  Additionally it feels like it is jerking slightly repeate"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 18,
+      "fires": 4,
+      "injuries": 10,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 31
+      },
+      {
+        "year": 2020,
+        "count": 34
+      },
+      {
+        "year": 2021,
+        "count": 22
+      },
+      {
+        "year": 2022,
+        "count": 48
+      },
+      {
+        "year": 2023,
+        "count": 39
+      },
+      {
+        "year": 2024,
+        "count": 79
+      },
+      {
+        "year": 2025,
+        "count": 83
+      },
+      {
+        "year": 2026,
+        "count": 26
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "20V191000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2020 Jeep Gladiator and Jeep Cherokee, 2019-2020 Ram 1500 Pickup, Ram 2500 Pickup, Ram 3500 Pickup, Chrysler Pacifica, Dodge Durango, Jeep Grand Cherokee, Jeep Wrangler, and Jeep Renegade and 2019 Dodge Challenger vehicles equipped with 8.4\" or 12\" radio di",
+        "report_date": "10/09/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V699000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:EMISSION CONTROL:GAS RECIRCULATION VALVE (EGR VALVE)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2019 Jeep Grand Cherokee vehicles equipped with the 3.0L EcoDiesel\r\nengines.  The Exhaust Gas Recirculation (EGR) cooler may crack and allow pre-heated vaporized coolant to enter the EGR system.  This mixture may combust inside the intake manifold.",
+        "report_date": "12/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V183000",
+        "component": "POWER TRAIN:DRIVELINE:DIFFERENTIAL UNIT",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Jeep Grand Cherokee and Dodge Durango vehicles.  The front differential may have been assembled with pinion gears that are insufficiently hardened, which can lead to the gear teeth wearing down.  If both pinion gears have their teeth sufficiently worn ",
+        "report_date": "26/03/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V406000",
+        "component": "FUEL SYSTEM, DIESEL:DELIVERY:FUEL PUMP",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2020 Jeep Grand Cherokee, and 2014-2019 Ram 1500 vehicles equipped with 3.0L diesel engines.  A high pressure fuel pump (HPFP) failure may introduce internal debris into the fuel system, potentially resulting in fuel starvation.",
+        "report_date": "09/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V426000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2019 Jeep Grand Cherokee and Dodge Durango vehicles.  A malfunction in the antilock-brake system (ABS) module may illuminate the brake lights, and allow the vehicle to start and shift out of Park without the brake pedal being applied.",
+        "report_date": "09/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V411000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2019 Ram 1500 and 2014-2020 Jeep Grand Cherokee vehicles equipped with 3.0L Diesel engines.  The crankshaft position sensor tone wheel may delaminate, causing the engine to lose its ability to synchronize the fuel injector pulses and cam shaft timing,",
+        "report_date": "08/06/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V838000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2019 Jeep Grand Cherokee and Dodge Durango vehicles.  A malfunction in the antilock-brake system (ABS) module may incorrectly illuminate the brake lights and disable the ABS and electronic stability control (ESC).  In addition, the vehicle operator ma",
+        "report_date": "07/11/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:54.099Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

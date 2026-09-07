@@ -1,0 +1,132 @@
+{
+  "slug": "2019-hyundai-elantra",
+  "year": 2019,
+  "make": "Hyundai",
+  "model": "Elantra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 249,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 131,
+        "share_pct": 52.6,
+        "excerpts": [
+          "2019 Hyundai Elantra with 2.0L Nu MPI engine suffered catastrophic engine failure at approximately 118,530 miles. Vehicle is currently at the [XXX] Hyundai dealership. Vehicle appears to fall within t",
+          "Car sudden stopped then would not turn on Currently being looked at but for suspected timing chain, VVT, and related parts  Others have reported these same issues and other model with same engines hav",
+          "On 6/12/26, the engine had a sudden, catastrophic failure that caused a life-threatening hazard on a 2-lane highway in a remote mountain grade with no shoulder.   Prior to this incident, the forward c"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 65,
+        "share_pct": 26.1,
+        "excerpts": [
+          "Where the Hyundai place tell that I don't need drive that because recall on the light shower! on my car and how electric part in the car.  I still a note the balance 14,700.  The paying balance need b",
+          "Highbeam shutters stop working. When engaged the solenoid engages, the shutter attempts to activate (wobbles) but never does. The indicator inside also lights up despite the shuttee never opening.",
+          "During my state inspection it was noted that my high beams were not properly functioning. The garage tested my bulb and said it appeared to be a malfunction of the flap assembly in the headlamps. We c"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 37,
+        "share_pct": 14.9,
+        "excerpts": [
+          "Where the Hyundai place tell that I don't need drive that because recall on the light shower! on my car and how electric part in the car.  I still a note the balance 14,700.  The paying balance need b",
+          "Both Front headlamp assemblies broken hi beam mechanism. My cars headlights burn out every couple months and the bright lights will not work. I took to a Hyundai dealership on 03/28/2026 who told me i",
+          "Driver side lock cannot be opened. Defect"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 11,
+        "share_pct": 4.4,
+        "excerpts": [
+          "The contact owns a 2019 Hyundai Elantra. The contact stated that the high-beam headlights were inoperable. Additionally, the contact stated that while driving at 15-20 MPH, the check engine warning li",
+          "I own a 2019 Hyundai Elantra Value Edition  . 2.0L 1999CC L4. A few weeks ago we started with really cold/snowy weather and as I’m driving I’ve noticed weird knocking sound that sounds like a Ford F25",
+          "Excessive oil consumption, shudder in motor while driving . Check engine light cam on. Visibility in headlights very low and high beams only working sometimes."
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 9,
+        "share_pct": 3.6,
+        "excerpts": [
+          "The car is very hard to keep in a straight line going down the road. Constant inputs have to be given to keep the wheel at center as the wheel will not re-center after small inputs (I.e. changing lane",
+          "Hyundai Elantra was stolen for the 2nd time AFTER Hyundai's  immobilizer was supposedly installed in the vehicle. Car was parked and locked in a secured employee parking lot with cameras. Rear window ",
+          "My car was stolen. I'm waiting to hear how much repairs will cost. The steering wheel ignition lock is easy bypassed by using only a small screwdriver or USB cord. This makes the car easily stolen and"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 12,
+      "fires": 3,
+      "injuries": 4,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2000,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 10
+      },
+      {
+        "year": 2020,
+        "count": 13
+      },
+      {
+        "year": 2021,
+        "count": 37
+      },
+      {
+        "year": 2022,
+        "count": 46
+      },
+      {
+        "year": 2023,
+        "count": 42
+      },
+      {
+        "year": 2024,
+        "count": 31
+      },
+      {
+        "year": 2025,
+        "count": 46
+      },
+      {
+        "year": 2026,
+        "count": 21
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "21V301000",
+        "component": "ENGINE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2019-2020 Elantra, 2019-2021 Kona and Veloster vehicles equipped with 2.0L Nu MPI engines.  The piston oil rings may not have been properly heat-treated, which could result in engine damage.",
+        "report_date": "28/04/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:42:55.925Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

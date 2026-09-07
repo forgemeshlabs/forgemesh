@@ -1,0 +1,156 @@
+{
+  "slug": "2015-chevrolet-equinox",
+  "year": 2015,
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 679,
+    "top_failure_components": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 250,
+        "share_pct": 36.8,
+        "excerpts": [
+          "wind shield wiper stopped working while driving on the highway in heavy down pour, safety was my next concern, so I pulled over and waited for the rain to stop to continue driving home.",
+          "The contact owns a 2015 Chevrolet Equinox. The contact stated that the windshield wipers failed to operate while activated. The vehicle was making a clicking noise while attempting to turn to the left",
+          "My windshield wipers suddenly stopped working and will not work."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 227,
+        "share_pct": 33.4,
+        "excerpts": [
+          "Rear main seal has blown three times since I purchased my vehicle from Carvana. I’ve pulled the engine out myself as I cannot afford another $3,500 at the shop. I’m a single income household that make",
+          "The contact owns a 2015 Chevrolet Equinox. The contact stated that while driving at an undisclosed speed, the vehicle started shaking abnormally before unintendedly decelerating. The vehicle was taken",
+          "Burns Oil so bad I don't need to change oil. I put about a quart of oil in it a week. Car runs rough. Sometimes overheating and sounds loud when low on oil. This occurs on a consistent regular basis s"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 63,
+        "share_pct": 9.3,
+        "excerpts": [
+          "I just purchased the vehicle she hadn't even driven it 2 months when it started to shut off on it's on. Causing very dangerous situations. Then the oil consumption problem that's been well known and h",
+          "Ending result timing chain :  Beginning of result:  1. My vehicle experienced a sudden and complete loss of power steering while driving at highway speeds.  The loss of power steering significantly co",
+          "Rear Main Seal has blown out due to the PCV Valve intake issue. GM is not taking any ownership in the known issue which is service bulletin 14882 that appears to have been issued in 2019. No coverage "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 45,
+        "share_pct": 6.6,
+        "excerpts": [
+          "Front turn indicator lights have gone out.  Unfortunately, due to Chevy's vehicle design, the bulbs can only be replaced by pulling the bumper off in total and replacing bulbs.  Then, putting entire b",
+          "My vehicle has been cranking when trying to turn on. Sometimes when it does turn on, it will engage the anti theft system. It will also turn on my 4-ways, and windshield wipers other times without me ",
+          "The incident except for by my 2015 Chevrolet Equinox has major electrical faulty ends in and timing belt changes which causes the vehicle to stall on a consumer at any time for me I was driving on a m"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 37,
+        "share_pct": 5.4,
+        "excerpts": [
+          "The ref air bag sensor appeared in my 2015 Chevy Equinox today. My vehicle has not been in a car accident as of today 1/24/26. None of my airbags have been deployed at all. I would like to report this",
+          "Hello, on September 5, 2025 I was driving my 2015 Chevy equinox. I was in a collision while driving my 2015 equinox going at a speed of 60 mph on a highway. On the day of the collision i hit a cargo t",
+          "There is a warning to service airbag. I took to dealership there is a recall on thus issue for certain vins, but not mine. They said my sensor under passenger seat is defective and would cost $1800+ t"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 24,
+      "fires": 6,
+      "injuries": 19,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2001,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 16
+      },
+      {
+        "year": 2016,
+        "count": 20
+      },
+      {
+        "year": 2017,
+        "count": 27
+      },
+      {
+        "year": 2018,
+        "count": 75
+      },
+      {
+        "year": 2019,
+        "count": 132
+      },
+      {
+        "year": 2020,
+        "count": 115
+      },
+      {
+        "year": 2021,
+        "count": 76
+      },
+      {
+        "year": 2022,
+        "count": 96
+      },
+      {
+        "year": 2023,
+        "count": 42
+      },
+      {
+        "year": 2024,
+        "count": 43
+      },
+      {
+        "year": 2025,
+        "count": 26
+      },
+      {
+        "year": 2026,
+        "count": 8
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "15V666000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015 Buick LaCrosse, Cadillac XTS, Chevrolet Camaro, Equinox, Malibu, and GMC Terrain vehicles.  The affected vehicles have front seat-mounted side impact air bags whose inflator may rupture upon its deployment.",
+        "report_date": "16/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V165000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014-2015 Chevrolet Equinox and GMC Terrain vehicles.  The ball joints in the windshield wiper module may corrode, causing one or both windshield wipers to fail.",
+        "report_date": "17/03/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:38:39.790Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

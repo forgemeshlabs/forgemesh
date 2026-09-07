@@ -1,0 +1,124 @@
+{
+  "slug": "2020-chevrolet-malibu",
+  "year": 2020,
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 195,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 59,
+        "share_pct": 30.3,
+        "excerpts": [
+          "While driving, the brakes became hard and the vehicle was difficult to stop. The brake pedal required excessive force, brake assist was reduced, and the stopping distance increased, creating a serious",
+          "I am writing to report a serious and dangerous issue that occurred with my 2020 Chevrolet Malibu LT on April 27th 2026.  While driving on the interstate after work, my vehicle suddenly experienced a f",
+          "While  driving the brake pedal became hard to push out of no where. Once the car got to the shop it stopped cranking.  The shop is stating that the brake vacuum pump is the cause of the brake pedal me"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 57,
+        "share_pct": 29.2,
+        "excerpts": [
+          "The contact owns a 2020 Chevrolet Malibu. The contact stated that while attempting to shift the vehicle into park, the transmission failed to shift into park after several attempts. The contact refere",
+          "While attempting to enter a high-speed expressway, the transmission malfunctioned, preventing normal acceleration. The vehicle could only accelerate very slowly but managed to maintain a limited speed",
+          "Ejesitais to shift. Most of the times. Also shif to park when is o ready park."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 56,
+        "share_pct": 28.7,
+        "excerpts": [
+          "My 2020 Chevrolet Malibu experienced a sudden and severe electrical failure after driving through normal roadway water. Immediately afterward, the vehicle displayed multiple safety‑critical warnings i",
+          "So while I was driving my car going 60 on the highway it seemed to be having electrical issues all the lights on my dash popped on then popped off and only a few lights actually stayed on I can't reme",
+          "May 7, 2026  National Highway Traffic Safety Administration 1200 New Jersey Avenue SE Washington, DC 20590  RE: Safety Defect Complaint – Brake System / Vehicle Control Concerns  2020 Chevrolet Malibu"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 48,
+        "share_pct": 24.6,
+        "excerpts": [
+          "I have a failed vacuum pump which caused my braking ability to be 100% reliant on my own strength to be able to “safely” stop the car. This is an ongoing and common problem with GM yet they have not r",
+          "My 2020 Chevrolet Malibu experienced a sudden and severe electrical failure after driving through normal roadway water. Immediately afterward, the vehicle displayed multiple safety‑critical warnings i",
+          "While driving, the brakes became hard and the vehicle was difficult to stop. The brake pedal required excessive force, brake assist was reduced, and the stopping distance increased, creating a serious"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 18,
+        "share_pct": 9.2,
+        "excerpts": [
+          "May 7, 2026  National Highway Traffic Safety Administration 1200 New Jersey Avenue SE Washington, DC 20590  RE: Safety Defect Complaint – Brake System / Vehicle Control Concerns  2020 Chevrolet Malibu",
+          "Reduced Engine Power Light: The car limits acceleration, often accompanied by a check engine light. Stalling or Hesitation: Engine stalls or acts sluggish when accelerating, particularly in traffic. L",
+          "The contact owns a 2020 Chevrolet Malibu. The contact stated that the RPM was unexpectedly elevated while driving, and the vehicle was hesitating. The vehicle was taken to an independent mechanic, and"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 0,
+      "injuries": 7,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 4
+      },
+      {
+        "year": 2021,
+        "count": 25
+      },
+      {
+        "year": 2022,
+        "count": 21
+      },
+      {
+        "year": 2023,
+        "count": 37
+      },
+      {
+        "year": 2024,
+        "count": 45
+      },
+      {
+        "year": 2025,
+        "count": 44
+      },
+      {
+        "year": 2026,
+        "count": 17
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "21V649000",
+        "component": "SEAT BELTS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2016-2021 Chevrolet Malibu and 2019-2021 Cadillac XT4 vehicles.  The rear seat belt retractors may be improperly secured with loose or missing fasteners.",
+        "report_date": "20/08/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:37.525Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

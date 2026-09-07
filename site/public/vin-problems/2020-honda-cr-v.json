@@ -1,0 +1,164 @@
+{
+  "slug": "2020-honda-cr-v",
+  "year": 2020,
+  "make": "Honda",
+  "model": "CR-V",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 350,
+    "top_failure_components": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 76,
+        "share_pct": 21.7,
+        "excerpts": [
+          "All of the ADAS lights, check engine, and brake lights come on every 2-3 weeks. Has been taken to the shop multiple times now. So far have had the battery changed, spark plugs changed, and fuel inject",
+          "All the safety lights came on on the dashboard suddenly the brake assist did not work. Honda tells me the brake servo is bad. This is a known defect as other 2020 crv hybrids were recalled for the sam",
+          "I have experienced four instances of my vehicle braking (two very extreme) when nothing was nearby or in front of my vehicle.  Two of these happened when passing through an intersection, but no other "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 47,
+        "share_pct": 13.4,
+        "excerpts": [
+          "SRS AIR BAG PROBLEM IN THE DASHBOARD GO ON AND OFF HONDA TECHNICIAN FOUND THIS CODE AIRBAG INFLATOR",
+          "The contact owns a 2020 Honda CR-V. The contact received a recall notification of NHTSA Campaign Number: 24V064000 (Air Bags). The dealer was contacted, but an appointment was not scheduled. The conta",
+          "The contact owns a 2020 Honda CR-V. The contact received notification of NHTSA Campaign Number: 24V064000 (Air Bags) however, the part to do the recall repair was not yet available. The dealer was con"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 43,
+        "share_pct": 12.3,
+        "excerpts": [
+          "While out of state for thanksgiving in 2025. after stopped for break, car started up with all of the warning lights and check engine lights on. Like front radar out, hybrid system fault and etc. took ",
+          "Software problems causing the backup camera to become disabled and the driver to lose their rear visibility. The screen is completely blackened. This occurred without warning. One day it just went dar",
+          "There is a known Recall for my vehicle and Honda has been negligent in attempting to fix the Recall."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 38,
+        "share_pct": 10.9,
+        "excerpts": [
+          "The check-engine light comes on immediately before the vehicle loses the ability to accelerate. While driving, including at highway speeds, pressing the accelerator does not produce normal propulsion ",
+          "I am the owner of a 2020 Honda CR-V equipped with the 1.5L turbocharged engine. The vehicle is experiencing a severe and dangerous engine oil dilution manufacturing defect where unburnt gasoline enter",
+          "On the evening of [XXX], I started my vehicle while it was parked in my garage. Within approximately five minutes, the vehicle suddenly produced a violent and unusually loud mechanical noise, followed"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 38,
+        "share_pct": 10.9,
+        "excerpts": [
+          "The check-engine light comes on immediately before the vehicle loses the ability to accelerate. While driving, including at highway speeds, pressing the accelerator does not produce normal propulsion ",
+          "I request a $2,935.58 reimbursement from Honda for a catastrophic manufacturing defect on my 2020 CR-V (78,248 miles). This includes a $2,105.58 dealer repair bill and an $830.00 emergency highway tow",
+          "I am the owner of a 2020 Honda CR-V equipped with the 1.5L turbocharged engine. The vehicle is experiencing a severe and dangerous engine oil dilution manufacturing defect where unburnt gasoline enter"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 21,
+      "fires": 2,
+      "injuries": 17,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 33
+      },
+      {
+        "year": 2021,
+        "count": 33
+      },
+      {
+        "year": 2022,
+        "count": 45
+      },
+      {
+        "year": 2023,
+        "count": 57
+      },
+      {
+        "year": 2024,
+        "count": 68
+      },
+      {
+        "year": 2025,
+        "count": 57
+      },
+      {
+        "year": 2026,
+        "count": 57
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "19V865000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2020 CR-V vehicles.  The rear subframe bolts were improperly\r\nmanufactured and may loosen, allowing the rear subframe to separate.",
+        "report_date": "05/12/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V380000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020 CR-V vehicles.  The clip for the absorber inside the fuel tank was not secured properly and may detach, which can cause an inaccurate fuel gauge reading.",
+        "report_date": "26/05/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V158000",
+        "component": "SEAT BELTS:FRONT:BUCKLE ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017-2020 CR-V, 2018-2019 Accord and Accord Hybrid, 2018-2020 Odyssey, 2019 Insight, and 2019-2020 Acura RDX vehicles.  A manufacturing issue with the front seat belts may cause the seat belt buckle channel to interfere with the release button, p",
+        "report_date": "09/03/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V524000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017, 2020, and 2022 CR-V vehicles.  The certification label on the driver's side door states incorrect Gross Vehicle Weight Rating (GVWR), Gross Axle Weight Rating (GAWR), and tire size information.  As such, these vehicles fail to comply with t",
+        "report_date": "27/07/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V064000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020-2022 Pilot, Accord, Civic sedan, HR-V, Odyssey, 2020 Civic coupe, Fit, 2021-2022 Civic hatchback, 2021 Civic Type R, Insight, 2020-2021 CR-V, CR-V Hybrid, Passport, Ridgeline, Accord Hybrid, 2020 Acura MDX, 2022 Acura MDX, 2020-2022 Acura RD",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:06.214Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

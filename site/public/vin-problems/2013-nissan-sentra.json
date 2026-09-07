@@ -1,0 +1,188 @@
+{
+  "slug": "2013-nissan-sentra",
+  "year": 2013,
+  "make": "Nissan",
+  "model": "Sentra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 638,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 311,
+        "share_pct": 48.7,
+        "excerpts": [
+          "Transmission slipping",
+          "It's slipping in the transmission",
+          "The contact owns a 2013 Nissan Sentra. The contact stated that while driving at an undisclosed speed, the vehicle lost motive power and failed to accelerate as intended while depressing the accelerato"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 97,
+        "share_pct": 15.2,
+        "excerpts": [
+          "It was 108 degree outside at 4:30 pm in the zip code of 89052. At a sloped intersection on a major street I stopped for the light. When the light turned green I tried to accelerate the car, it failed ",
+          "WHEN DRIVING APPROXIMATELY 30MPH, I PUSHED MY BRAKE PEDAL TO SLOW FOR MY NEXT TURN. THE PEDAL WAS SLIGHTLY INEFFECTIVE, MEANING THE PRESSURE IN THE PEDAL WAS RELEASED AND THE BRAKE DID NOT HALT MY CAR",
+          "WHILE DRIVING, MY CAR CONTINUES TO JERK AND JERK AS I TRIED TO GIVE THE CAR GAS. IT WOULD SPUTTER AND THEN ALL OF A SUDDEN JUMP REALLY QUICK. IT FINALLY GOT TO THE POINT WHERE I GOT STUCK AT TWO LIGHT"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 96,
+        "share_pct": 15,
+        "excerpts": [
+          "The contact owns a 2013 Nissan Sentra. The contact stated that the air bag warning light was illuminated, and the front passenger's side air bag warning light remained illuminated while the front pass",
+          "I am reporting a failed remedy for Recall R1608 (Occupant Classification System). My 2013 Nissan Sentra was serviced at Nissan of Van Nuys for this recall. Despite the dealership marking the recall as",
+          "The contact owns a 2013 Nissan Sentra. The contact stated that on several occasions while driving at various speeds with the passenger’s side front seat occupied, the “Air Bag Off” warning light remai"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 87,
+        "share_pct": 13.6,
+        "excerpts": [
+          "Erractic rpms. Shakes/hesitant on take off from stop. Accelerator can be pushed all the way and it goes 5mph. Shifting takes a good minute with shakiness. Can not drive in rush hour traffic almost got",
+          "It's slipping in the transmission",
+          "Feb 26th, 2024 i drove my car for the first time since having surgery on Jan. 11, 2024. I was going about 35 mph when extremely fast the car radio turned off it felt as if the engine was also turned o"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 51,
+        "share_pct": 8,
+        "excerpts": [
+          "The contact owns a 2013 Nissan Sentra. The contact stated that while driving at various speeds, the vehicle lost automotive power and failed to properly accelerate while depressing the accelerator ped",
+          "My car doesn’t accelerate. I was driving and a car behind me almost hit me because I pressed on the gas but it didn’t go",
+          "Code P0101 came on, service Bulletin from NHTSA.gov was done. Car came back worst. Engine stalled in the middle of the street. It wouldn’t turn on, we had to push it to get it out of the street. Car w"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 24,
+      "fires": 4,
+      "injuries": 20,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 3
+      },
+      {
+        "year": 2013,
+        "count": 73
+      },
+      {
+        "year": 2014,
+        "count": 49
+      },
+      {
+        "year": 2015,
+        "count": 46
+      },
+      {
+        "year": 2016,
+        "count": 54
+      },
+      {
+        "year": 2017,
+        "count": 56
+      },
+      {
+        "year": 2018,
+        "count": 115
+      },
+      {
+        "year": 2019,
+        "count": 94
+      },
+      {
+        "year": 2020,
+        "count": 45
+      },
+      {
+        "year": 2021,
+        "count": 36
+      },
+      {
+        "year": 2022,
+        "count": 25
+      },
+      {
+        "year": 2023,
+        "count": 19
+      },
+      {
+        "year": 2024,
+        "count": 15
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "16V242000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2016 Sentra vehicles manufactured June 4, 2012, to April 9, 2016.  The front passenger seat belt bracket may become deformed if it is used to secure a Child Restraint System (CRS).  The deformed seat bracket may cause the Occup",
+        "report_date": "26/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V681000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2015 Altima and Pathfinder vehicles, 2013-2014 Nissan Sentra vehicles, 2013 Infiniti JX35 vehicles, 2014-2015 Infiniti QX60 vehicles and 2014 Infiniti QX60 Hybrid vehicles.  The affected vehicles received an incorrect occupant ",
+        "report_date": "20/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V138000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2014 Altima, LEAF, Pathfinder, and Sentra, model year 2013 NV200 (aka Taxi) and Infiniti JX35 and model year 2014 Infiniti Q50 and QX60 vehicles.  In the affected vehicles, the occupant classification system (OCS) software may ",
+        "report_date": "25/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V244000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2016-2017 Nissan Maxima, 2013-2016 Nissan Altima, NV200, LEAF, Sentra, and Pathfinder, 2014-2016 Nissan NV200 Taxi, Infiniti QX60, QX60 Hybrid, and Q50 Hybrid, 2014-2017 Nissan Rogue and Infiniti Q50, 2015-2016 Nissan Murano, Murano",
+        "report_date": "26/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V069000",
+        "component": "AIR BAGS",
+        "summary": "Nissan is recalling certain model year 2013 Altima, LEAF, Pathfinder, Sentra, and Infiniti JX35 vehicles.  Sensors within the passenger Occupant Detection System (ODS) may have been manufactured out of specification.  This may cause the system to malfunction and permanently suppress the passenger ai",
+        "report_date": "01/03/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V068000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "Nissan is recalling certain model year 2013 Sentra vehicles manufactured from September 11, 2012, through October 4, 2012.  Some fuel tank assemblies were not properly sealed during the manufacturing process.  As a result, a small amount of gasoline may leak from the tank when it is full.",
+        "report_date": "01/03/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:35:30.486Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,160 @@
+{
+  "slug": "2016-chevrolet-cruze",
+  "year": 2016,
+  "make": "Chevrolet",
+  "model": "Cruze",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 249,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 102,
+        "share_pct": 41,
+        "excerpts": [
+          "car has been overheating run while i take the keys out doors will lock with keys in the ignition lots of lights will come on car will slow way down constantly adding antifreeze in it heat and air will",
+          "Manufacturer: General Motors / Chevrolet Vehicle: 2016 Chevrolet Cruze LT (VIN: [XXX]) Corporate Case Number: XXX Nature of Dispute: Premature mechanical failure of a major drivetrain assembly and adm",
+          "Coolant system and engine fan"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 58,
+        "share_pct": 23.3,
+        "excerpts": [
+          "The contact owns a 2016 Chevrolet Cruze. The contact stated that upon returning to the parked vehicle, while attempting to unlock the doors with the key fob, the doors failed to open. The contact was ",
+          "My tire pressure sensor keeps coming on even after I had it worked on. 3 of them shows the pressure level but one shows 2 lines but no pressure level but there’s air in the tire.   The other problem I",
+          "Water leak in trunk. Took car in 3 time to have it fixed after them doing the  recall( 84279073 f-lamp kit). Every time it went in they found a leak in a different spot. 15Feb17 they found water leaki"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 35,
+        "share_pct": 14.1,
+        "excerpts": [
+          "car has been overheating run while i take the keys out doors will lock with keys in the ignition lots of lights will come on car will slow way down constantly adding antifreeze in it heat and air will",
+          "After 3 years of having this car it’s overheating each summer requiring the coolant system, hoses, thermostat, and water pump to be replaced each summer. As well as major oil leaking after full tune u",
+          "My engine needed oil I checked the dip stick added the oil the next day my engine started leaking and over heating come to find out there’s a pcv issue the valve cover gasket along with multiple other"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 31,
+        "share_pct": 12.4,
+        "excerpts": [
+          "Component or System Failed/Malfunctioned: The turbocharger has been identified by a GM service center as the component that failed or malfunctioned. It is available for inspection upon request at the ",
+          "Power train system (po299) A turbocharger harnesses the flow of exhaust gases that spins an internal turbine. This turbine then forces or packs air into the engine faster than normal .This action incr",
+          "My vehicle gives the message \"shift to park\" even when it placed in park, making it impossible to lock and possibly causing the battery to run down.  Continuing to restart the vehicle and placing in p"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 21,
+        "share_pct": 8.4,
+        "excerpts": [
+          "Hit a buck on highway.  When airbags went off I felt sudden sharp pain in my left arm.    I was later advised that it most likely was shrapnel from the airbag.  It was obvious from the injury somethin",
+          "The contact owns a 2016 Chevrolet Cruze. The contact stated while driving 25 MPH, the front air bag warning light illuminated, and the message \"Service Air Bags\" was displayed. The vehicle was taken t",
+          "System failure…airbag light continues to come on and go off. It says service airbag. If John Elway Chevrolet repairs the airbag system will it impact the integrity of the airbags. The airbag light doe"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 19,
+      "fires": 6,
+      "injuries": 14,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 23
+      },
+      {
+        "year": 2017,
+        "count": 18
+      },
+      {
+        "year": 2018,
+        "count": 36
+      },
+      {
+        "year": 2019,
+        "count": 48
+      },
+      {
+        "year": 2020,
+        "count": 41
+      },
+      {
+        "year": 2021,
+        "count": 20
+      },
+      {
+        "year": 2022,
+        "count": 26
+      },
+      {
+        "year": 2023,
+        "count": 17
+      },
+      {
+        "year": 2024,
+        "count": 10
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "18V304000",
+        "component": "FUEL SYSTEM, GASOLINE",
+        "summary": "General Motors LLC (GM) is recalling certain 2016-2018 Chevrolet Cruze LS vehicles, equipped with a gasoline engine and a tire inflator kit instead of a spare tire.  The vehicles may leak gasoline following a rear-impact crash and a rollover.  As such, these vehicles fail to comply with the requirem",
+        "report_date": "10/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V057000",
+        "component": "SEATS:FRONT ASSEMBLY:HEAD RESTRAINT",
+        "summary": "General Motors LLC (GM) is recalling certain 2016-2017 Chevrolet Cruze vehicles.  A bracket used in the driver or front passenger seat-back recliner mechanism may have been incorrectly welded to the seat-back frame, as a result, in the event of a crash, the head-restraints may not function properly.",
+        "report_date": "26/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V498000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016 Cruze vehicles manufactured November 5, 2015, to May 26, 2016.  The headlight assemblies are not marked with a three-digit identifier code used to properly aim the headlights.  As such, these vehicles fail to comply with the requirements o",
+        "report_date": "01/07/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V502000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016-2017 Buick Verano and 2016 Chevrolet Malibu as the electronic park lock lever may allow the ignition key to be removed without the transmission being in PARK.  Also, certain 2013 Buick Encore,  2011 Buick Regal, 2013-2014 Buick Verano, 201",
+        "report_date": "05/07/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:39:40.457Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

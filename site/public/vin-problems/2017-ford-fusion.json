@@ -1,0 +1,164 @@
+{
+  "slug": "2017-ford-fusion",
+  "year": 2017,
+  "make": "Ford",
+  "model": "Fusion",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1105,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 393,
+        "share_pct": 35.6,
+        "excerpts": [
+          "I lost power while on the Freeway any indicators flashed: \"see manual\", \"pre-collision assist not available\", \"service advance track\", \"downhill assist not available\", the check engine light was on. I",
+          "2017 Ford Fusion. Transmission replaced February 2026 at 98,175 miles by independent repair facility. Check engine light illuminated immediately following replacement and has remained on continuously ",
+          "If i do not run my car for atleast 10 minutes before driving, my gas tank will start making a loud horn sound, and when this happens and i go to slow down, the car will shut off.   Mechanics say there"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 308,
+        "share_pct": 27.9,
+        "excerpts": [
+          "2017 Ford Fusion. Transmission replaced February 2026 at 98,175 miles by independent repair facility. Check engine light illuminated immediately following replacement and has remained on continuously ",
+          "Flexplate cracked 5 months ago, and now it has cracked again. This is due to troqeu converting failure and faulty transmission mounts.",
+          "I am reporting a serious recurring safety concern involving a 2017 Ford Fusion SE with a 1.5L EcoBoost engine. The vehicle was purchased used in August 2022 with approximately 50,000 miles. Within mon"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 133,
+        "share_pct": 12,
+        "excerpts": [
+          "See attached document for complaint.",
+          "The contact owns a 2017 Ford Fusion. The contact stated that while driving at an undisclosed speed, the temperature gauge indicated that the engine was overheating, prompting the contact to discontinu",
+          "The contact owns a 2017 Ford Fusion. The contact stated that the check engine warning light was illuminated. The vehicle was taken to the dealer, where it was diagnosed that there was coolant intrusio"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 125,
+        "share_pct": 11.3,
+        "excerpts": [
+          "2017 Ford Fusion. Transmission replaced February 2026 at 98,175 miles by independent repair facility. Check engine light illuminated immediately following replacement and has remained on continuously ",
+          "On 7/8/2026, the vehicle became undriveable. Placing the vehicle in reverse on the shidfter dial using registered a conflicting direction on the dashboard indicator. The vehicle was towed to a dealers",
+          "The door entry control numbers are on all the time now which will cause the battery to drain if the car is not driven daily. It says that water from a car wash or rain has gotten in behind the door co"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 102,
+        "share_pct": 9.2,
+        "excerpts": [
+          "NHTSA recall 23V-162/Ford recall 23S12 Vehicle suffered secondary failure of recall remedy part which caused an immediate loss of braking ability.   Ford dealer refused a safety tow unless I paid for ",
+          "NHTSA claim # 11739491 update  05/22/2026 Young Ford Ogden Utah is refusing to execute the remedy for open safety recall 23S12 on my vehicle.  They are refusing to run diagnostics test to honor the re",
+          "I was driving and the car just stopped it wouldn't let me put in park or drive it just stayed in neutral. And I was stuck it kept the the emergency break on. Then it wouldn't turn off all the way whic"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 37,
+      "fires": 8,
+      "injuries": 30,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 10
+      },
+      {
+        "year": 2017,
+        "count": 47
+      },
+      {
+        "year": 2018,
+        "count": 46
+      },
+      {
+        "year": 2019,
+        "count": 65
+      },
+      {
+        "year": 2020,
+        "count": 100
+      },
+      {
+        "year": 2021,
+        "count": 70
+      },
+      {
+        "year": 2022,
+        "count": 134
+      },
+      {
+        "year": 2023,
+        "count": 222
+      },
+      {
+        "year": 2024,
+        "count": 228
+      },
+      {
+        "year": 2025,
+        "count": 138
+      },
+      {
+        "year": 2026,
+        "count": 43
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "18V167000",
+        "component": "STEERING: STEERING WHEEL/HANDLE BAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2014-2018 Lincoln MKZ and Ford Fusion vehicles.  The steering wheel retaining bolt may loosen allowing the steering wheel to detach while driving.",
+        "report_date": "12/03/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V874000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2017 Ford Fusion vehicles manufactured September 27, 2016, to September 28, 2016.  The left rear seat backs pivot pins may have been improperly welded.",
+        "report_date": "05/12/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V427000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:TORQUE CONVERTER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2017 Lincoln MKZ and Ford Edge and Fusion vehicles.  On vehicles with 2.0L gas engines and six-speed automatic transmissions, the torque converter weld studs may have been inadequately welded.",
+        "report_date": "06/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V162000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013-2018 Fusion and Lincoln MKZ vehicles.  The front brake hoses may rupture and leak brake fluid.",
+        "report_date": "10/03/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:40:36.947Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

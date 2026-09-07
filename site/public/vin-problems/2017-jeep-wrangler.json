@@ -1,0 +1,164 @@
+{
+  "slug": "2017-jeep-wrangler",
+  "year": 2017,
+  "make": "Jeep",
+  "model": "Wrangler",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 309,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 76,
+        "share_pct": 24.6,
+        "excerpts": [
+          "ABS system module has failed and the manufacturer has it on indefinite backorder. I read reports of some customer waiting over 400 days for this part. It compromises the effectiveness of the antilock ",
+          "My ABS module is confirmed faulty resulting in an unsafe car to drive. The ABS module is extremely hard to come by, on an indefinite backorder, and I cannot get the part anywhere. Maybe people waiting",
+          "During a routine maintenance visit, a pre-purchase/general inspection was performed on my 2017 Jeep Wrangler, which documented the front axle and differential housing as intact and in one piece. Subse"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 62,
+        "share_pct": 20.1,
+        "excerpts": [
+          "The first time happening I was driving on the interstate going about 70 miles an hour in the dark,  the car completely shut down with no warning I was able to coast then tried to restart the vehicle a",
+          "Oil cooler split due to warming up and cooling down in winter and being made of plastic  All brake calipers needed to be replaced on it too",
+          "Oil plug in engine gets brittle and fails by cracking. This cause a complete engine failure with only 36k miles on it. Mechanic says this is a known issue. I could not operate the vehichle and broke d"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 50,
+        "share_pct": 16.2,
+        "excerpts": [
+          "The contact owns a 2017 Jeep Wrangler. The contact stated that while driving approximately 30-45 MPH, the vehicle lost power. On another occasion, while driving at 20 MPH, the vehicle lost motive powe",
+          "I bought my 2017 jeep with 29,000 miles on it. I had an issue with the rear driverside brake locking up around 40,000 miles. I feel this is a safety issue due to how hot the brakes got and at times wo",
+          "Parts of the manual transmission are failing and appear in the bottom of the transmission when changing the fluid.  It appears to be part of the synchro.  This is apparently not uncommon for these man"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 45,
+        "share_pct": 14.6,
+        "excerpts": [
+          "My ABS module is confirmed faulty resulting in an unsafe car to drive. The ABS module is extremely hard to come by, on an indefinite backorder, and I cannot get the part anywhere. Maybe people waiting",
+          "The battery terminals will stop tightening, which made me think it was fully tightened. I wiggled them from side-to-side and they didn't move. As I was driving, the vehicle died, which almost caused a",
+          "The ABS Module Failed while Driving. Yes it is available for inspection. The 2017 Jeep Wrangler stopped abruptly. Then it barely moved when I continued to press on the Accelerator pedal. Then it ran n"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 26,
+        "share_pct": 8.4,
+        "excerpts": [
+          "The contact owns a 2017 Jeep Wrangler. The contact stated that while traveling at 60 MPH, the vehicle struck a deer. The airbags failed to deploy upon impact. No injuries were reported. No police repo",
+          "The clock spring has failed. There is a current recall for the clock spring mechanisms in the 2011-2016 Jeep Wranglers. The vehicle has been inspected by a mechanic who informed me of the recall to be",
+          "Clockspring failed. No horn, driver airbag, controls to cycle evic and radio stopped working."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 19,
+      "fires": 21,
+      "injuries": 21,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 24
+      },
+      {
+        "year": 2018,
+        "count": 40
+      },
+      {
+        "year": 2019,
+        "count": 43
+      },
+      {
+        "year": 2020,
+        "count": 39
+      },
+      {
+        "year": 2021,
+        "count": 28
+      },
+      {
+        "year": 2022,
+        "count": 33
+      },
+      {
+        "year": 2023,
+        "count": 36
+      },
+      {
+        "year": 2024,
+        "count": 20
+      },
+      {
+        "year": 2025,
+        "count": 29
+      },
+      {
+        "year": 2026,
+        "count": 16
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "19V680000",
+        "component": "SEAT BELTS:FRONT:ANCHORAGE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2018 Jeep Wrangler right hand drive vehicles.  The driver's seat belt buckle mounting strap may fracture and separate from the seat frame.",
+        "report_date": "26/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V524000",
+        "component": "ELECTRICAL SYSTEM:WIRING:FRONT UNDERHOOD",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Jeep Renegade, Compass and Grand Cherokee, RAM 1500 and Promaster, Fiat 500x, Dodge Journey, Challenger, Charger and Durango and Chrysler 300x vehicles, 2017-2018 Jeep Wrangler, Dodge Grand Caravan and Chrysler Town and Country vehicles and 2018-2019 J",
+        "report_date": "09/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V849000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2017 Jeep Wrangler vehicles manufactured November 1, 2016, to November 3, 2016.  The affected vehicles may have a fuel tank that has a cracked or broken control valve, possibly resulting in a fuel leak in a rollover event, debris in the fuel tank",
+        "report_date": "23/11/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V734000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2016-2017 Jeep Wrangler vehicles manufactured June 16, 2015, to August 14, 2016.  In certain crash conditions, the front impact sensor wiring may be pulled until it detaches before a signal can be received by the Occupant Restraint Controller (OR",
+        "report_date": "13/10/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V098000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2017 Dodge Caravan and Jeep Wrangler vehicles.  The brake switches on these vehicles may malfunction, keeping the brake lights illuminated and/or allowing the vehicle to be shifted out of the PARK position without the brake pedal being pushed.",
+        "report_date": "08/02/2018",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:40:46.036Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

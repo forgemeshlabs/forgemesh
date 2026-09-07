@@ -1,0 +1,120 @@
+{
+  "slug": "2020-toyota-tacoma",
+  "year": 2020,
+  "make": "Toyota",
+  "model": "Tacoma",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 87,
+    "top_failure_components": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 21,
+        "share_pct": 24.1,
+        "excerpts": [
+          "On Sunday, March 15,2026, I was driving from Houston, TX to Pharr, TX at the speed of 75mph on the left lane to pass an 18 wheeler, with another 18 wheeler behind me, and my truck started idling errat",
+          "Unknown",
+          "Driving the car on the freeway and upon exiting it stalled going up an incline without any warning.  Could have caused a major accident and I am lucky that it did not happen on the freeway.   I resear"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 15,
+        "share_pct": 17.2,
+        "excerpts": [
+          "The Clutch in the Manual Transmission makes a \"creaking\" noise, and you can feel it when driving too, when depressing the clutch pedal... The creaking noise is annoying, but the feel of the creaking i",
+          "Fluid weeping/leaking/staining on differential housing",
+          "I am having same issue as the incident i found here 12/06/2025, LISTED UNDER COMPLAINTS-I live in Rio Rancho NM- Concern it involves the automatic transmission torque converter specifically torque-con"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 14,
+        "share_pct": 16.1,
+        "excerpts": [
+          "I am having same issue as the incident i found here 12/06/2025, LISTED UNDER COMPLAINTS-I live in Rio Rancho NM- Concern it involves the automatic transmission torque converter specifically torque-con",
+          "Toyota has a manufacturing defect going on with their v6 in Gen 3Tacoma's. I have a 2020 Limited with 48,200 miles that needs a new cylinder head. It threw a check engine light on me, and luckily enou",
+          "Vehicle accelerated on its own at highway speed, had to hit the brake in order for it to stop accelerating.  Other more common issue is that vehicle RPMs go up when trying to accelerate but vehicle do"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 13,
+        "share_pct": 14.9,
+        "excerpts": [
+          "Brake fluid leaking into cab from master cylinder",
+          "My brake master cylinder is leaking brake fluid under the steering column and dripping inside. This seems to have a recall but they only did it for trucks up to 2019 and my 2020 has the same exact iss",
+          "The other day I was slowing down on an off-ramp and all the sudden had no brakes, or at least no power brakes for maybe 30 feet and then all of the sudden power assist came back and slammed hard on th"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 8,
+        "share_pct": 9.2,
+        "excerpts": [
+          "On Sunday, March 15,2026, I was driving from Houston, TX to Pharr, TX at the speed of 75mph on the left lane to pass an 18 wheeler, with another 18 wheeler behind me, and my truck started idling errat",
+          "While traveling with cruise set at 62mph and a truck was in the right turn lane the automatic collision went off and hard brake when nothing was in front of the truck this has happen also with out cru",
+          "The contact owns a 2020 Toyota Tacoma. The contact stated while driving approximately 80 MPH, the brakes activated independent of the driver input and the vehicle slowed to 60 MPH abruptly. There was "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 0,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 3
+      },
+      {
+        "year": 2020,
+        "count": 26
+      },
+      {
+        "year": 2021,
+        "count": 16
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 9
+      },
+      {
+        "year": 2024,
+        "count": 8
+      },
+      {
+        "year": 2025,
+        "count": 13
+      },
+      {
+        "year": 2026,
+        "count": 7
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:43:20.209Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

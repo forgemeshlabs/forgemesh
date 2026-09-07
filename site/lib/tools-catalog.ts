@@ -30,6 +30,7 @@ export const TOOL_GROUPS: ToolGroup[] = [
     blurb: 'Use in the browser. No account, no wallet.',
     rows: [
       { name: 'Free VIN check', href: '/vin', what: 'Any VIN → recalls, crash stars, fuel cost, and what actually breaks on that car', cost: 'free', for: ['humans'], featured: true },
+      { name: 'Common problems by model', href: '/vin/problems', what: 'NHTSA complaints and recalls for 60+ used-car models, 2008-2022, ranked by what breaks most', cost: 'free', for: ['humans'] },
       { name: 'Congress Trades', href: '/trades', what: 'Every US House stock trade from STOCK Act filings, updated daily', cost: 'free', for: ['humans'], featured: true },
       { name: 'Endpoint scanner', href: '/scan', what: 'Grade any x402 / MPP endpoint: payable, envelope valid, dual-stack', cost: 'free', for: ['builders'], featured: true },
       { name: 'Seller pre-flight checklist', href: '/checklist', what: 'Everything to verify before listing a paid endpoint', cost: 'free', for: ['builders'], featured: true },
