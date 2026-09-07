@@ -69,6 +69,7 @@ const pricingRows = [
     cost: 'No per-call hosted voice charge',
     bestFor: 'OpenClaw users who can install the local runtime and want private, repeat use.',
     source: null,
+    try: null,
   },
   {
     provider: 'ClawVoice hosted x402',
@@ -76,6 +77,7 @@ const pricingRows = [
     cost: 'Endpoint-declared x402 price; base voice is currently $0.001 per successful hosted call',
     bestFor: 'Agents that need hosted fallback without a monthly voice subscription or hidden add-on fee.',
     source: 'https://voice.forgemesh.io',
+    try: null,
   },
   {
     provider: 'ElevenLabs',
@@ -83,6 +85,7 @@ const pricingRows = [
     cost: 'Free 10k credits; Starter $6/mo with 30k credits; Creator $22/mo with 121k credits',
     bestFor: 'Creator workflows, voice cloning, studio tools, and broad audio production.',
     source: 'https://elevenlabs.io/pricing',
+    try: '/go/elevenlabs',
   },
   {
     provider: 'Google Chirp 3 HD',
@@ -90,6 +93,7 @@ const pricingRows = [
     cost: '$30 per 1M characters; other Google TTS tiers range from $4 to $160 per 1M characters',
     bestFor: 'Google Cloud teams that want managed TTS with cloud billing and quota controls.',
     source: 'https://cloud.google.com/text-to-speech/pricing',
+    try: null,
   },
   {
     provider: 'Amazon Polly',
@@ -97,6 +101,7 @@ const pricingRows = [
     cost: 'Standard $4, Neural $16, Generative $30, Long-Form $100 per 1M characters',
     bestFor: 'AWS-native applications that already use IAM, CloudWatch, and AWS billing.',
     source: 'https://aws.amazon.com/polly/pricing/',
+    try: null,
   },
   {
     provider: 'Azure Speech',
@@ -104,6 +109,7 @@ const pricingRows = [
     cost: 'Free tier includes 0.5M neural characters per month; paid pricing varies by region and tier',
     bestFor: 'Microsoft/Azure environments that need enterprise speech services and procurement controls.',
     source: 'https://azure.microsoft.com/en-us/pricing/details/speech/',
+    try: null,
   },
 ];
 
@@ -422,6 +428,19 @@ export default function ClawVoicePage() {
                           pricing source
                         </a>
                       )}
+                      {row.try && (
+                        <a
+                          href={row.try}
+                          target="_blank"
+                          rel="noopener noreferrer sponsored"
+                          data-umami-event="affiliate_click"
+                          data-umami-event-partner="elevenlabs"
+                          data-umami-event-slot="clawvoice-pricing"
+                          className="ml-3 mt-2 inline-block text-xs text-blue-300/70 hover:text-blue-200"
+                        >
+                          start free trial
+                        </a>
+                      )}
                     </div>
                     <p className="text-sm leading-6 text-slate-400">{row.model}</p>
                     <p className="text-sm leading-6 text-slate-300">{row.cost}</p>
@@ -429,6 +448,11 @@ export default function ClawVoicePage() {
                   </article>
                 ))}
               </div>
+              <p className="px-5 py-3 text-xs leading-5 text-slate-500">
+                Disclosure: the ElevenLabs trial link is an affiliate link. It funds ClawVoice
+                development and your price never changes. Pricing figures are from each provider&rsquo;s
+                published page.
+              </p>
             </div>
           </div>
         </section>
