@@ -1,0 +1,94 @@
+{
+  "slug": "first-x402-physical-order-bought-with-curl",
+  "date": "2026-09-07",
+  "title": "Someone Bought a T-Shirt With curl. The Receipt Is on Base.",
+  "excerpt": "At 17:53 UTC a wallet that has never sent a transaction paid 29.94 USDC for a shirt on x402swag.com, from the command line, with no account and no card. Sixteen minutes later Printify had it in production. The timeline, the tx hash, and why a $25 shirt matters more than 500 API calls.",
+  "description": "At 17:53 UTC a wallet that has never sent a transaction paid 29.94 USDC for a shirt on x402swag.com, from the command line, with no account and no card. Sixteen minutes later Printify had it in production.",
+  "seoTitle": "First x402 Order for a Physical Product | ForgeMesh",
+  "seoDescription": "A shirt bought on x402swag.com with curl and USDC on Base: 402, sign, 200, in production 16 minutes later. Timeline, tx hash, and what it means for agents.",
+  "twitterTitle": "Someone bought a t-shirt with curl. The receipt is on Base.",
+  "twitterDescription": "402 → signed authorization → 200 → Printify production queue in 16 minutes. First x402 physical order on x402swag.com, with the on-chain receipt.",
+  "heroAlt": "Terminal-style card showing HTTP 402 Payment Required then 200 OK, next to the black '402 to 200' t-shirt that was bought",
+  "breadcrumb": "Field report",
+  "tags": [
+    "x402",
+    "agentic-commerce",
+    "x402swag",
+    "field report"
+  ],
+  "lede": "We built x402swag.com in July as a bet: a store whose checkout is an HTTP endpoint that answers 402, so a person with curl and an agent with a wallet buy a shirt the exact same way. For two months the only paid order was a Stripe sticker sale. Today at 17:53 UTC someone paid 29.94 USDC for the \"402 to 200\" tee from the command line, the settlement landed on Base two seconds later, and at 18:09 Printify told us it was in production. Here is the whole thing, with receipts.",
+  "sections": [
+    {
+      "heading": "The whole checkout, in 40 seconds",
+      "paras": [
+        "Every request came from **curl/8.21.0**. No browser, no cookie, no login. Product lookup at 17:52:55, add to cart at 17:53:03, checkout at 17:53:34. The pay endpoint answered **402 Payment Required** with the price and our receiving address, the buyer's client signed a USDC authorization for exactly 29.94, retried with the signature in the header, and got **200 OK** at 17:53:35 with an order number.",
+        "Two seconds later the transfer was in Base block 51,007,135. At the same second our fulfillment plugin pushed the order to Printify. Sixteen minutes after that, Printify's webhook came back with `order:sent-to-production`. A physical object is now being made because an HTTP request paid for it."
+      ],
+      "stats": [
+        {
+          "n": "40 s",
+          "d": "product view → paid order"
+        },
+        {
+          "n": "2 s",
+          "d": "200 OK → on-chain block"
+        },
+        {
+          "n": "16 min",
+          "d": "paid → in production at Printify"
+        },
+        {
+          "n": "$29.94",
+          "d": "$24.99 shirt + $4.95 shipping, in USDC"
+        }
+      ]
+    },
+    {
+      "heading": "What actually moved",
+      "paras": [
+        "The settlement is [on Basescan](https://basescan.org/tx/0xa89709866f125fd76281a2b013501344abe949949b2c2c2d6602d41e95a45f0e): 29.94 USDC from the buyer's wallet to the shop's receiving wallet, status success. Two details in that receipt are the whole point of x402. First, the transaction sender is not the buyer. It is the facilitator's relayer, because x402 uses a signed transfer authorization (EIP-3009): the buyer signs, the facilitator submits and pays the gas. Second, the buyer's wallet has a **transaction count of zero**. It has never sent a transaction in its life. It was funded, it signed one message, and a shirt is on its way.",
+        "That is what a payment rail for software looks like. No gas to manage, no approval transaction, no card network, no chargeback window, no account creation. The buyer could have been a person at a terminal or an agent with a budget. Our server cannot tell, and the protocol does not ask."
+      ]
+    },
+    {
+      "heading": "Is this a first?",
+      "paras": [
+        "It is the first x402-paid physical order on x402swag.com. Our only earlier paid order, in July, went through Stripe. Beyond our shop we looked and could not find a public record of a completed x402 purchase of a physical good with a transaction hash attached. [Rye and AgentCash announced x402 checkout for physical commerce](https://rye.com/blog/agentcash-x402-agentic-commerce) on June 24, 2026 as a capability, without a shipped example, and third-party guides list Coinbase's agent.market as carrying physical items. If you shipped a physical x402 order before September 7 and have the receipt, send it and we will link it here. Until then, this is the first one we can point at."
+      ]
+    },
+    {
+      "heading": "Why a shirt matters more than 500 API calls",
+      "paras": [
+        "We operate more than 500 paid x402 endpoints and have written up the traffic on them at length. Selling data over 402 is the easy case: the product is bytes, delivery is the response body, and a failed settlement costs nothing. A shirt is the hard case. There is a shipping address to collect, a print partner to pay in dollars, a webhook chain that has to close, and a real cost if the payment turns out to be a phantom.",
+        "The payment turned out to be the easiest part of the store. The hard parts were the address form and the fulfillment state machine, which have nothing to do with crypto. That is the argument for x402 in one sentence: the money layer got boring, so the merchant's effort goes where it always should have, into the product and the shipping."
+      ]
+    },
+    {
+      "heading": "What we would tell you to copy",
+      "paras": [
+        "**Require the transaction hash.** A facilitator saying \"success\" is not money. This same morning two bot probes hit our x402 route, the facilitator returned 200 with no tx hash, and our two-gate check logged both as UNVERIFIED SETTLEMENT and shipped nothing. The real order carried a hash, and only then did the Printify push fire.",
+        "**One checkout for humans and agents.** The storefront, the JSON API, and the pay endpoint are the same routes. Whoever bought this shirt found the product through the JSON product endpoint and never loaded a page. Do not build an \"agent checkout\" beside your human one; make the human one answer 402.",
+        "**Treat the fulfillment webhook as done, not the payment.** Paid at 17:53 is an accounting event. Sent-to-production at 18:09 is the moment the thing exists. Our order confirmation went out at 17:53; the interesting email is the one that goes out when tracking lands."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "Want to be the second one?",
+    "copy": "The 402 to 200 tee and the rest of the x402 Swag line are at x402swag.com, payable with USDC on Base over x402, or with a card if you are a human who prefers cards. The Server Starter Kit ships the same two-gate settlement middleware this store runs, so your endpoint never ships on a phantom payment."
+  },
+  "related": [
+    {
+      "slug": "x402swag-agent-merch-store",
+      "text": "x402 Swag: the API-first merch store, and why we built it"
+    },
+    {
+      "slug": "lessons-from-500-paid-x402-endpoints",
+      "text": "Lessons from 500 paid x402 endpoints"
+    },
+    {
+      "slug": "x402-record-day-money-didnt-move",
+      "text": "x402 set a transaction record. The money didn't move."
+    }
+  ],
+  "image": "/content/assets/first-x402-physical-order-bought-with-curl.png"
+}
