@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("autonomous-agents-are-buying-atoms-now", "Autonomous AI Agents Aren't Just Buying Data Anymore. One Just Bought a Shirt.", "165M x402 payments were bytes. Today one was atoms: 6 HTTP calls, 0 humans"),
     ("first-x402-physical-order-bought-with-curl", "Someone Bought a T-Shirt With curl. The Receipt Is on Base.", "402 → signed USDC → 200 → in production 16 min later"),
  ("vin-checker", "Check Any VIN Free. See What Actually Breaks on That Car.", "Recalls · crash stars · fuel cost · complaints ranked"),
  ("agentic-payments-alliance-circle-x402", "Visa + Mastercard Are Writing the Agent Payment Rules. Circle Is in the Room.", "Authorization rules, not pricing — and the rail that's actually shrinking"),
