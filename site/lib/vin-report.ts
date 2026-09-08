@@ -8,6 +8,8 @@
 // valuation data, no vehicle-history (title/odometer) claims — those are the
 // affiliate partners' product.
 
+import { vehicleOffers, type VehicleOffers } from './vehicle-offers';
+
 const VPIC = 'https://vpic.nhtsa.dot.gov/api/vehicles';
 const NHTSA = 'https://api.nhtsa.gov';
 const FUELECON = 'https://www.fueleconomy.gov/ws/rest';
@@ -174,6 +176,7 @@ export type VinReport = {
   fuel: Section<FuelSection>;
   fetched_at: string;
   sources: string;
+  offers: VehicleOffers;
 };
 
 // ── decode ──────────────────────────────────────────────────────────────────
@@ -603,6 +606,7 @@ export async function buildVinReport(rawVin: string): Promise<VinReport> {
     fuel,
     fetched_at: new Date().toISOString(),
     sources: 'Official U.S. government vehicle safety, complaint, and fuel-economy data (public domain).',
+    offers: vehicleOffers(vin, vehicle),
   };
   // Only cache reports where every section resolved, so a transient upstream
   // blip doesn't get pinned for 30 minutes.
