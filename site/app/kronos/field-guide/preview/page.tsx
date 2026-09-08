@@ -2,6 +2,10 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { NavBar } from '@/components/NavBar';
 import { Footer } from '@/components/Footer';
+import { AlertSignup } from '@/components/CongressTrades';
+import { getFieldGuideOffer } from '@/lib/kronos-field-guide';
+
+export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
   title: 'Free preview: Kronos Field Guide | ForgeMesh',
@@ -62,6 +66,7 @@ const glossary: { term: string; meaning: string; why: string }[] = [
 ];
 
 export default function KronosFieldGuidePreviewPage() {
+  const offer = getFieldGuideOffer();
   return (
     <>
       <NavBar />
@@ -190,7 +195,11 @@ export default function KronosFieldGuidePreviewPage() {
 
         <section className="px-6 pb-20">
           <div className="mx-auto max-w-4xl border-t border-[#c8d0bc] pt-8 text-sm leading-7">
-            <p>Purchasing is not open yet. <Link href="/kronos/field-guide" className="underline underline-offset-4">Read the full sales page and license.</Link></p>
+            <p>The full guide is {offer.priceLabel}{offer.launch ? ' at launch price through September 15, 2026, then $29' : ''}. <Link href="/kronos/field-guide" className="underline underline-offset-4">Read the full sales page and license</Link>, or go straight to <a href={offer.checkoutUrl} data-umami-event="kronos-guide-checkout" data-umami-event-price={offer.priceLabel} className="underline underline-offset-4">checkout</a>. No support of any kind is provided.</p>
+            <div className="mt-8 rounded-2xl bg-[#e8ecdf] p-6">
+              <p className="font-semibold">Not ready to buy? One email when the launch price ends and when the edition updates.</p>
+              <div className="mt-3"><AlertSignup source="kronos-field-guide" buttonLabel="Notify me" doneMessage="Noted. One email when the launch price ends or the edition updates; nothing else." ariaLabel="Email for Kronos Field Guide notices" tone="light" /></div>
+            </div>
           </div>
         </section>
       </main>

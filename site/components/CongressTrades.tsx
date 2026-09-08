@@ -187,7 +187,21 @@ export function TradesTable({ trades }: { trades: CongressTrade[] }) {
   );
 }
 
-export function AlertSignup() {
+export type AlertSignupProps = {
+  source?: 'trades' | 'kronos-field-guide';
+  buttonLabel?: string;
+  doneMessage?: string;
+  ariaLabel?: string;
+  tone?: 'dark' | 'light';
+};
+
+export function AlertSignup({
+  source = 'trades',
+  buttonLabel = 'Get free alerts',
+  doneMessage = "You're on the list. First alert lands when the next notable filing drops.",
+  ariaLabel = 'Email for trade alerts',
+  tone = 'dark',
+}: AlertSignupProps = {}) {
   const [email, setEmail] = useState('');
   const [state, setState] = useState<'idle' | 'busy' | 'done' | 'error'>('idle');
   const [message, setMessage] = useState('');
@@ -200,7 +214,7 @@ export function AlertSignup() {
       const res = await fetch('/api/trades-alerts', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email }),
+        body: JSON.stringify({ email, source }),
       });
       const body = await res.json().catch(() => ({}));
       if (!res.ok) {
@@ -209,7 +223,7 @@ export function AlertSignup() {
         return;
       }
       setState('done');
-      setMessage("You're on the list. First alert lands when the next notable filing drops.");
+      setMessage(doneMessage);
     } catch {
       setState('error');
       setMessage('Network error — try again.');
@@ -217,7 +231,7 @@ export function AlertSignup() {
   }
 
   if (state === 'done') {
-    return <p className="text-sm leading-7 text-emerald-300">{message}</p>;
+    return <p className={`text-sm leading-7 ${tone === 'light' ? 'text-[#2f5a48]' : 'text-emerald-300'}`}>{message}</p>;
   }
 
   return (
@@ -228,17 +242,21 @@ export function AlertSignup() {
         value={email}
         onChange={(e) => setEmail(e.target.value)}
         placeholder="you@example.com"
-        aria-label="Email for trade alerts"
-        className="flex-1 rounded-lg border border-white/[0.08] bg-white/[0.03] px-3 py-2 text-sm text-slate-100 placeholder:text-slate-500 focus:border-blue-400/50 focus:outline-none"
+        aria-label={ariaLabel}
+        className={tone === 'light'
+          ? 'flex-1 rounded-lg border border-[#c8d0bc] bg-white px-3 py-2 text-sm text-[#213c33] placeholder:text-[#7b8a7e] focus:border-[#2f5a48] focus:outline-none'
+          : 'flex-1 rounded-lg border border-white/[0.08] bg-white/[0.03] px-3 py-2 text-sm text-slate-100 placeholder:text-slate-500 focus:border-blue-400/50 focus:outline-none'}
       />
       <button
         type="submit"
         disabled={state === 'busy'}
-        className="rounded-lg bg-blue-500 px-4 py-2 text-sm font-medium text-white hover:bg-blue-400 disabled:opacity-50"
+        className={tone === 'light'
+          ? 'rounded-lg bg-[#183c31] px-4 py-2 text-sm font-medium text-[#fffdf7] hover:bg-[#2f5a48] disabled:opacity-50'
+          : 'rounded-lg bg-blue-500 px-4 py-2 text-sm font-medium text-white hover:bg-blue-400 disabled:opacity-50'}
       >
-        {state === 'busy' ? 'Adding…' : 'Get free alerts'}
+        {state === 'busy' ? 'Adding…' : buttonLabel}
       </button>
-      {state === 'error' ? <p className="text-sm text-rose-300 sm:w-full">{message}</p> : null}
+      {state === 'error' ? <p className={`text-sm sm:w-full ${tone === 'light' ? 'text-[#9b2c2c]' : 'text-rose-300'}`}>{message}</p> : null}
     </form>
   );
 }

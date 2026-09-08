@@ -2,7 +2,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { NavBar } from '@/components/NavBar';
 import { Footer } from '@/components/Footer';
-import { fieldGuideOffer, fieldGuideSimulationDisclosure } from '@/lib/kronos-field-guide';
+import { getFieldGuideOffer, fieldGuideSimulationDisclosure } from '@/lib/kronos-field-guide';
+import { AlertSignup } from '@/components/CongressTrades';
+
+// Price label switches by date; render per request so no rebuild is needed.
+export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
   title: 'Kronos Field Guide — The build kit that shows what broke | ForgeMesh',
@@ -17,7 +21,8 @@ export const metadata: Metadata = {
 };
 
 export default function KronosFieldGuidePage() {
-  const canPurchase = Boolean(fieldGuideOffer.checkoutUrl && fieldGuideOffer.priceLabel);
+  const fieldGuideOffer = getFieldGuideOffer();
+  const canPurchase = true;
   return (
     <>
       <NavBar />
@@ -100,15 +105,20 @@ export default function KronosFieldGuidePage() {
               <p className="mt-3 text-sm leading-7">Ebook + digital build package. One-time purchase; no subscription or publisher support.</p>
               {canPurchase ? (
                 <>
-                  <p className="mt-6 font-serif text-4xl">{fieldGuideOffer.priceLabel}</p>
+                  <p className="mt-6 font-serif text-4xl">{fieldGuideOffer.priceLabel}{fieldGuideOffer.launch ? <span className="ml-3 align-middle text-base text-[#5b6b5f] line-through">$29</span> : null}</p>
+                  {fieldGuideOffer.launchNote ? <p className="mt-2 text-sm font-semibold text-[#2f5a48]">{fieldGuideOffer.launchNote}</p> : null}
                   <p className="mt-4 text-sm font-semibold">Personal use only · No redistribution · No support of any kind</p>
-                  <a href={fieldGuideOffer.checkoutUrl!} className="mt-6 inline-flex rounded-full bg-[#183c31] px-6 py-3 text-sm font-semibold text-[#fffdf7]">Continue to checkout</a>
-                  <p className="mt-4 text-xs leading-6">Review the final price, platform policy and terms before paying. No real-money trading application is included.</p>
+                  <a href={fieldGuideOffer.checkoutUrl} data-umami-event="kronos-guide-checkout" data-umami-event-price={fieldGuideOffer.priceLabel} className="mt-6 inline-flex rounded-full bg-[#183c31] px-6 py-3 text-sm font-semibold text-[#fffdf7]">Continue to checkout · {fieldGuideOffer.priceLabel}</a>
+                  <p className="mt-4 text-xs leading-6">Card checkout by Stripe. After payment you land on a download page (ZIP with the PDF, offline HTML and build package; up to 5 downloads within 72 hours). Review the final price, platform policy and terms before paying. No real-money trading application is included.</p>
                 </>
               ) : (
                 <p data-testid="checkout-pending" className="mt-6 rounded-xl bg-[#fffdf7] p-4 text-sm leading-7">Purchasing is not open yet. Price and checkout will appear here when available.</p>
               )}
               <p className="mt-6 text-xs leading-6">Educational only; not financial advice. Paper results do not predict live outcomes. No legal immunity or regulatory approval is claimed.</p>
+              <div className="mt-6 border-t border-[#c8d0bc] pt-5">
+                <p className="text-sm font-semibold">Not today? One email when the launch price ends and when the edition updates.</p>
+                <div className="mt-3"><AlertSignup source="kronos-field-guide" buttonLabel="Notify me" doneMessage="Noted. One email when the launch price ends or the edition updates; nothing else." ariaLabel="Email for Kronos Field Guide notices" tone="light" /></div>
+              </div>
             </aside>
           </div>
         </section>

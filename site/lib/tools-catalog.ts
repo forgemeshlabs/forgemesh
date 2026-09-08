@@ -84,7 +84,7 @@ export const TOOL_GROUPS: ToolGroup[] = [
     title: 'Ebooks and build packages',
     blurb: 'Self-service education for people. Personal use; no redistribution or support.',
     rows: [
-      { name: 'Kronos Field Guide', href: '/kronos/field-guide', what: 'Ebook + build briefs: 81 settings, paper-trading evidence and what broke; no support', cost: 'paid', price: 'One-time purchase', for: ['humans'] },
+      { name: 'Kronos Field Guide', href: '/kronos/field-guide', what: 'Ebook + build briefs: 81 settings, paper-trading evidence and what broke; no support', cost: 'paid', price: '$29 · $19 launch', for: ['humans'] },
     ],
   },
   {

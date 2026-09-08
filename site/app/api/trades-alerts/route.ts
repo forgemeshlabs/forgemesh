@@ -4,9 +4,14 @@ import path from 'path';
 
 export const dynamic = 'force-dynamic';
 
-// Congress Trades alert signups. Appends to site/data/trades-alerts.jsonl —
-// the send side is a separate script; this just captures and dedupes.
-const STORE = path.join(process.cwd(), 'data', 'trades-alerts.jsonl');
+// Email capture. Each source has its own JSONL store so lists never mix:
+//   trades             -> data/trades-alerts.jsonl      (Congress Trades alerts)
+//   kronos-field-guide -> data/field-guide-alerts.jsonl (launch-price end / edition updates)
+// The send side is a separate script; this just captures and dedupes per store.
+const STORES: Record<string, string> = {
+  trades: path.join(process.cwd(), 'data', 'trades-alerts.jsonl'),
+  'kronos-field-guide': path.join(process.cwd(), 'data', 'field-guide-alerts.jsonl'),
+};
 
 // In-memory per-IP rate limit — resets on restart, good enough for v1.
 const WINDOW_MS = 60 * 60 * 1000;
@@ -35,9 +40,11 @@ export async function POST(req: NextRequest) {
   }
 
   let email: string;
+  let source = 'trades';
   try {
     const body = await req.json();
     email = String(body?.email ?? '').trim().toLowerCase();
+    if (typeof body?.source === 'string' && body.source in STORES) source = body.source;
   } catch {
     return NextResponse.json({ error: 'Send JSON: {"email": "you@example.com"}' }, { status: 400 });
   }
@@ -46,6 +53,7 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: 'That does not look like a valid email.' }, { status: 400 });
   }
 
+  const STORE = STORES[source];
   try {
     fs.mkdirSync(path.dirname(STORE), { recursive: true });
     // Dedupe: file stays small (one line per signup).
@@ -57,7 +65,7 @@ export async function POST(req: NextRequest) {
     }
     fs.appendFileSync(
       STORE,
-      JSON.stringify({ email, ts: new Date().toISOString(), source: 'trades' }) + '\n',
+      JSON.stringify({ email, ts: new Date().toISOString(), source }) + '\n',
     );
   } catch {
     return NextResponse.json({ error: 'Could not save — try again.' }, { status: 500 });
