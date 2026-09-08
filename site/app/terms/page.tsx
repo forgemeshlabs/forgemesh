@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true },
 };
 
-const UPDATED = '2026-08-28';
+const UPDATED = '2026-09-08';
 
 export default function Page() {
   return (
@@ -100,6 +100,7 @@ export default function Page() {
 
               <section>
                 <h2 className="text-xl font-semibold text-slate-50">4. Paid services</h2>
+                <p className="mt-3">Kronos Field Guide purchases are governed by the product-specific purchase terms affirmatively accepted at checkout. For those purchases, those terms control over conflicting general website provisions, including liability, support, delivery, refunds and later changes. Earlier purchases retain their original terms. <a href="/kronos/field-guide#purchase" className="underline">Read the current product offer and terms.</a></p>
                 <p className="mt-3">
                   Paid API calls are one-time, pay-per-request purchases settled via x402. A settled payment
                   buys one response to that request. There are no subscriptions unless explicitly stated on the
