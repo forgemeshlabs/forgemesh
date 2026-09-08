@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 import {
   Activity,
   ArrowUpRight,
@@ -64,7 +65,7 @@ export default function KronosPage() {
   return (
     <>
       <NavBar />
-      <main className="min-h-screen bg-[#050509] text-slate-100">
+      <main id="main-content" className="min-h-screen bg-[#050509] text-slate-100">
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData).replace(/</g, '\\u003c') }}
@@ -106,6 +107,24 @@ export default function KronosPage() {
               </div>
             </div>
             <InstallPanel />
+          </div>
+        </section>
+
+        <section id="field-guide" aria-labelledby="field-guide-heading" className="px-6 pb-20">
+          <div className="mx-auto max-w-6xl rounded-3xl bg-[#213c33] p-2">
+            <div className="grid gap-8 rounded-[18px] bg-[#183c31] p-8 sm:p-10 lg:grid-cols-[1.5fr_1fr] lg:items-center">
+              <div>
+                <p className="text-xs uppercase tracking-[0.2em] text-[#c8d7bb]">For humans: the Field Guide</p>
+                <h2 id="field-guide-heading" className="mt-4 font-serif text-3xl leading-tight text-[#f8f3e5] sm:text-4xl">The build kit that shows what broke.</h2>
+                <p className="mt-5 max-w-2xl text-sm leading-7 text-[#e0e6d8]">An ebook and digital build package for designing your own Kronos research and paper-trading system. Two learning paths, 81 explained settings, seven figures and the documented failures of our setup.</p>
+              </div>
+              <div>
+                <p className="text-sm font-semibold text-[#f8f3e5]">Personal use · No redistribution · Sold as-is</p>
+                <p className="mt-2 text-sm font-semibold text-[#f8f3e5]">No support of any kind.</p>
+                <Link href="/kronos/field-guide" className="mt-6 inline-flex rounded-full bg-[#f5f2e9] px-6 py-3 text-sm font-semibold text-[#183c31]">Explore the ebook + build package ↗</Link>
+                <p className="mt-4 text-xs leading-6 text-[#d7dfbd]">Educational only. Not financial advice. Paper observations do not predict live returns.</p>
+              </div>
+            </div>
           </div>
         </section>
 
