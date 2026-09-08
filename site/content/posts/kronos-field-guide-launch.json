@@ -1,0 +1,93 @@
+{
+  "slug": "kronos-field-guide-launch",
+  "date": "2026-09-08",
+  "title": "The Kronos Field Guide: The Build Kit That Shows What Broke",
+  "excerpt": "We ran our own paper-trading research system around the open-source Kronos forecasting model: 14,959 forecasts scored, 49.8% direction accuracy, equity down about 5.2% first to latest, and three bugs we're publishing instead of hiding. The build kit that documents them is live.",
+  "description": "We ran our own paper-trading research system around the open-source Kronos forecasting model: 14,959 forecasts scored, 49.8% direction accuracy, equity down about 5.2% first to latest, and three bugs we're publishing instead of hiding. The build kit that documents them is live.",
+  "seoTitle": "Kronos Field Guide: The Build Kit That Shows What Broke",
+  "seoDescription": "A Kronos-based paper-trading build kit: real numbers, three documented bugs, 81 explained settings, two coding-agent briefs. $19 launch price.",
+  "twitterTitle": "We published the bugs, not just the backtest.",
+  "twitterDescription": "14,959 forecasts, 49.8% direction accuracy, equity down 5.2%, three real bugs, and the config to build your own paper-trading research system around Kronos. $19 through Sept 15.",
+  "heroAlt": "A glowing blue hourglass beside a jagged line that rises then flattens, minimalist editorial illustration on a dark navy background",
+  "breadcrumb": "Field report",
+  "tags": [
+    "kronos",
+    "paper-trading",
+    "build-kit",
+    "field report"
+  ],
+  "lede": "Most \"build a trading bot\" guides show you the equity curve that went up and stop there. We ran a real paper-trading research system on top of the open-source Kronos forecasting model for months, kept every log, and now we're selling the write-up of what it actually did, including the three times it broke. It's called the Kronos Field Guide, and the pitch is unusual for this category: the honest numbers are the product.",
+  "sections": [
+    {
+      "heading": "The numbers, plain",
+      "paras": [
+        "Kronos ([github.com/shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos), MIT license, arXiv 2508.02739) is an open-source model that forecasts price paths. We built a Prometheus-style layer on top of it that decides whether to act on a forecast, how much to risk, and when to exit, and ran it against a paper trading account so no real money was ever on the line. Below is what the logs actually say, not a highlight reel.",
+        "These are paper-account observations, not actual investment returns. Simulated results have material limitations, and past observations do not predict future results. Every number below sits next to that sentence for a reason."
+      ],
+      "stats": [
+        {
+          "n": "14,959",
+          "d": "forecasts scored against outcomes"
+        },
+        {
+          "n": "49.8%",
+          "d": "direction accuracy (a coin flip is 50%)"
+        },
+        {
+          "n": "-5.2%",
+          "d": "paper equity, first observation to latest"
+        },
+        {
+          "n": "$40,367",
+          "d": "largest peak-to-trough swing, unreconciled, kept in the record"
+        }
+      ]
+    },
+    {
+      "heading": "Three bugs, three lessons",
+      "paras": [
+        "**The trailing stop that forgot its peak.** The exit logic recalculated its trailing stop as the higher of entry price or current price, freshly, every cycle. It never remembered the highest price a position had actually reached. A position that ran up and then fell back could slide right past the stop it was supposed to trigger. Three crypto positions rode this straight to about 52% combined exposure against a 40% cap before the fix landed: persist the high-water mark, ratchet the stop only upward, and trim exposure as its own separate step from entry logic.",
+        "**The order that couldn't fill.** Crypto buy orders started failing with HTTP 422 because the broker client hardcoded `time_in_force=\"day\"` on every order, including instruments that don't support a day order. The fix was one field, `\"gtc\"` for crypto, `\"day\"` kept for equities, but it only got found by reading rejection codes instead of assuming a green light meant a working order. Validate order duration, symbol mapping, and account eligibility against the venue's actual rules before you trust an order API.",
+        "**The replay that didn't replay.** We tried to reconstruct a month of trading from logs to sanity-check the engine, and the reconstruction didn't match: a different number of trades, a different drawdown, from the same starting rules. The missing piece was a volatility-based position-size multiplier the original run used but never logged. If you can't rebuild your own history from your own logs, you don't have an auditable system yet. The lesson we kept: log every input a strategy actually uses, on day one, not after you need to explain a discrepancy.",
+        "We also left in a fourth thing that isn't a bug we fixed, it's a hole we didn't paper over: a $40,367 peak-to-trough swing in the log that we cannot explain. The account value dropped sharply for two hourly snapshots and recovered just as sharply, with almost no recorded trading in between. It might be a data or valuation fault, an account event, or something else. We don't know, and the guide says so instead of assigning it a cause that sounds better."
+      ]
+    },
+    {
+      "heading": "What's actually in the package",
+      "paras": [
+        "The Kronos Field Guide is a 61-page A4 ebook, delivered as both a PDF and a self-contained offline HTML file, plus a build package underneath it: 12 Markdown chapters, 81 configuration fields explained one by one (what each one means, its units, and the tradeoff it controls), the incident record above with full detail, sanitized paper-trading data exports you can inspect yourself, two offline validators that check a configuration and the data without ever touching a network or a broker, and two self-contained briefs you hand directly to a coding agent, Claude Code, Codex, or Cursor.",
+        "One brief is for a beginner path, plain-language for people newer to both code and markets. The other is a finance path, for people who already think in risk models and execution mechanics but may or may not code. Each brief embeds the full configuration catalog and an implementation plan, and each instructs the agent to interview you and write your own configuration rather than hand you ours. Reproducing our settings would not reproduce our outcomes, and the guide says that too."
+      ]
+    },
+    {
+      "heading": "Who this is for, and who should skip it",
+      "paras": [
+        "This is for people who want to understand a real research and paper-trading build, choose their own rules, and let a coding agent do the implementation with a grounded brief instead of a vague prompt. It assumes you're willing to read about a system that lost money and broke twice before you copy any of it.",
+        "It is not for anyone looking for a finished trading bot, a guarantee of returns, or hands-on help. The package contains no live-trading code, no broker credentials, and no promise that fixing three bugs made the system safe. Educational only, not financial, investment, legal, or tax advice."
+      ]
+    },
+    {
+      "heading": "Price, launch window, and the no-support line",
+      "paras": [
+        "The Kronos Field Guide is $29, priced at $19 through September 15, 2026 (UTC). A free preview, chapter 2 plus the resources table, is up at [forgemesh.io/kronos/field-guide/preview](https://forgemesh.io/kronos/field-guide/preview) so you can read our voice and the config catalog's structure before you buy.",
+        "One more thing plainly, because it matters at this price: there is no support of any kind, and no updates are promised. That's a feature of a $19-$29 educational product, not a footnote we're hoping you skip. You get the guide, the package, the evidence, and a brief your agent can run with. What you build from there is yours. Checkout is a standard Stripe session; buy, and you land on a download page with the ZIP, good for five downloads in 72 hours. If you'd rather wait, both pages also have a one-line email option: one email when the launch price ends and when the edition updates, nothing else.",
+        "The Kronos Field Guide is published by ForgeMesh, the research and build-kit label of GSD Contracts LLC. Full details and the license are at [forgemesh.io/kronos/field-guide](https://forgemesh.io/kronos/field-guide)."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "Build your own, on your own rules",
+    "copy": "Read the free preview or get the full guide and build package at forgemesh.io/kronos/field-guide. $19 through September 15, 2026, then $29."
+  },
+  "related": [
+    {
+      "slug": "lessons-from-500-paid-x402-endpoints",
+      "text": "Lessons from 500 paid x402 endpoints"
+    },
+    {
+      "slug": "first-x402-physical-order-bought-with-curl",
+      "text": "An AI agent bought a t-shirt with curl. The receipt is on Base."
+    }
+  ],
+  "image": "/content/assets/kronos-field-guide-launch.png"
+}
