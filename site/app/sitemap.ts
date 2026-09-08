@@ -25,6 +25,7 @@ const STATIC_ROUTES = [
   '/gov-transparency',
   '/kronos',
   '/kronos/field-guide',
+  '/kronos/field-guide/preview',
   '/mpp',
   '/new-here',
   '/proxy',
