@@ -98,7 +98,7 @@ export async function getWatchSession(sessionId: string): Promise<{
 // Fulfilment is the kit shop's session-verified /download page, same as the starter-kit tiers.
 export async function createKronosCheckout(priceId: string, acceptance: KronosAcceptance): Promise<{ id: string; url: string }> {
   const agreement = kronosAgreementFields(acceptance);
-  const session = await stripeRequest('POST', '/checkout/sessions', {
+  const params = {
     ...agreement,
     mode: 'payment',
     'line_items[0][quantity]': '1',
@@ -110,6 +110,21 @@ export async function createKronosCheckout(priceId: string, acceptance: KronosAc
       'Educational only; not financial advice. Digital download under a personal-use license, sold as-is with no support of any kind. Paper-trading figures in the guide are simulations, not investment returns. Purchase-delivery and mandatory remedies remain available: support@forgemesh.io. Your immediate-delivery request affects only applicable cancellation rights once supply begins; defect remedies remain.',
     success_url: 'https://kit.forgemesh.io/download?session_id={CHECKOUT_SESSION_ID}',
     cancel_url: 'https://forgemesh.io/kronos/field-guide',
-  });
-  return { id: session.id, url: session.url };
+  };
+  try {
+    const session = await stripeRequest('POST', '/checkout/sessions', params);
+    return { id: session.id, url: session.url };
+  } catch (e) {
+    // Stripe refuses consent_collection until a Terms of Service URL is set in the
+    // Dashboard (Settings → Public details). Until then, keep checkout alive: the
+    // site-side acceptance is still recorded in metadata, and fulfilment marks the
+    // provider consent as not recorded (remediation record, never "accepted").
+    if (!/terms of service/i.test((e as Error).message)) throw e;
+    console.error('[kronos-checkout] Stripe ToS URL unset; creating session without provider consent checkbox');
+    const fallback: Record<string, string> = { ...params, 'metadata[provider_terms_consent]': 'not_requested_tos_url_unset' };
+    delete fallback['consent_collection[terms_of_service]'];
+    delete fallback['custom_text[terms_of_service_acceptance][message]'];
+    const session = await stripeRequest('POST', '/checkout/sessions', fallback);
+    return { id: session.id, url: session.url };
+  }
 }
