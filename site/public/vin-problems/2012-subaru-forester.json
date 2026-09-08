@@ -1,0 +1,264 @@
+{
+  "slug": "2012-subaru-forester",
+  "year": 2012,
+  "make": "Subaru",
+  "model": "Forester",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 105,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 27,
+        "share_pct": 25.7,
+        "excerpts": [
+          "I checked my oil level, fluids, and tire pressure before a drive on the highway.  Driving on [XXX]  South, faint ticking started, then a louder tapping, and I immediately pulled off, luckily, off an e",
+          "my vehicle has 52460 miles and was in southern oregon subaru for an oil change, when i was informed the engine was leaking oil. the service advisor said the cam carrier reseal was needed and it would ",
+          "After purchasing the vehicle on July 25, 2023 at approximately 99,800 miles, I began driving across the country from PA to CA. I purchased the vehicle from a Subaru dealership, so it was certified pre"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 20,
+        "share_pct": 19,
+        "excerpts": [
+          "My 2012 Subaru forester had a recall on my passenger air bag that I had completed February 2019. It is now July 2022 and it’s displaying the same codes for a faulty air bag per my mechanic. I contacte",
+          "The contact owns a 2012 Subaru Forester. The contact stated that while driving at a low rate of speed through a parking garage, the vehicle independently accelerated without warning. The vehicle initi",
+          "TL* TAKATA RECALL. THE CONTACT OWNS A 2012 SUBARU FORESTER. THE CONTACT STATED THAT NHTSA CAMPAIGN NUMBER: 19V008000 (AIR BAGS) EXCEEDED A REASONABLE AMOUNT OF TIME FOR REPAIR. THE CONTACT RECEIVED TH"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 18,
+        "share_pct": 17.1,
+        "excerpts": [
+          "The contact owns a 2012 Subaru Forester. The contact stated that while driving at a low rate of speed through a parking garage, the vehicle independently accelerated without warning. The vehicle initi",
+          "VEHICLE EXPERIENCED AN OCCURRENCE OF SUDDEN UNINTENDED ACCELERATION.  I HAD MY FOOT ON THE BRAKE AND WAS EASING INTO A PARKING SPACE. ALL OF A SUDDEN, THE ENGINE REVVED, AND THE VEHICLE SURGED AND BEG",
+          "TL* THE CONTACT OWNS A 2012 SUBARU FORESTER. WHILE DRIVING 1 MPH  ENTERING A DRIVEWAY, THE VEHICLE SPONTANEOUSLY ACCELERATED AND CRASHED INTO THE GARAGE OF A HOUSE. THERE WERE NO WARNING INDICATORS IL"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 15,
+        "share_pct": 14.3,
+        "excerpts": [
+          "The contact owns a 2012 Subaru Forester. The contact stated while the vehicle was parked, the brake pedal was inoperative. The contact then discovered that there was brake fluid leaking underneath of ",
+          "My 2012 Subaru  Forester suddenly accelerated as I was making a right hand turn from a parking lot onto a major street.  My brakes failed and I could only steer at high speed off the street, over a cu",
+          "A STUCK BRAKE CALIPER PISTON EXTENDED FAR ENOUGH TO RELEASE BRAKE FLUID RESULTING IN COMPLETE LOSS OF BRAKES.IT FAILED A FEW BLOCKS FROM HOME ON CITY STREETS AND NO DAMAGE  OCCURRED.REQUIRED TOWING TO"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 10,
+        "share_pct": 9.5,
+        "excerpts": [
+          "The vehicle will just stall.  It has happened three times; usually at a stop sign or slowing down to turn.  I have had it towed and in the shop, and they can't find anything wrong with it.  No error m",
+          "2012 SUBARU DASH LIGHT ALL COME ON AND THEN THE CAR STARTS TO STALL OUT. DEALER CAN NOT FIND OUT THE PROBLEM. THE HAPPENS INTERMITTENTLY. THEY RESET THE COMPUTER AND IT RUNS FOR A COUPLE HOURS OR DAY ",
+          "TL* THE CONTACT OWNS A 2012 SUBARU FORESTER. WHILE TRAVELING APPROXIMATELY 60 MPH, THE VEHICLE LOST ALL POWER WITHOUT WARNING. THE CONTACT WAS ABLE TO COAST THE VEHICLE TO THE SHOULDER OF THE ROADWAY."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 15,
+      "fires": 5,
+      "injuries": 9,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 5
+      },
+      {
+        "year": 2012,
+        "count": 10
+      },
+      {
+        "year": 2013,
+        "count": 8
+      },
+      {
+        "year": 2014,
+        "count": 8
+      },
+      {
+        "year": 2015,
+        "count": 7
+      },
+      {
+        "year": 2016,
+        "count": 11
+      },
+      {
+        "year": 2017,
+        "count": 11
+      },
+      {
+        "year": 2018,
+        "count": 9
+      },
+      {
+        "year": 2019,
+        "count": 14
+      },
+      {
+        "year": 2020,
+        "count": 7
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 1
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 15,
+    "recalls": [
+      {
+        "campaign_number": "19V008000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2010-2014 Tribeca, WRX, Outback, and Legacy vehicles, 2010-2011 Impreza vehicles and 2010-2013 Forester vehicles sold, or ever registered, in the states of Arizona, Arkansas, Delaware, District of Columbia, Illinois, Indiana, Kansas, Kentucky, Ma",
+        "report_date": "09/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V007000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2010-2013 Forester, 2010-2014 Tribeca, WRX, Outback, Legacy, and 2010-2011 Impreza vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, Puerto Rico, Amer",
+        "report_date": "09/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V009000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2010-2014 Tribeca, WRX, Legacy and Outback vehicles, 2010-2011 Impreza vehicles and 2010-2013 Forester vehicles sold, or ever registered, in the states of Alaska, Colorado, Connecticut, Idaho, Iowa, Maine, Massachusetts, Michigan, Minnesota, Mont",
+        "report_date": "09/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V297000",
+        "component": "ELECTRICAL SYSTEM:IGNITION:SWITCH",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester vehicles, 2008-2011 Impreza vehicles, 2008-2014 WRX vehicles, 2005-2014 Legacy vehicles, 2005-2014 Outback vehicles and 2006-2008 Tribeca vehicles equipped with a mechanical key ignition switch installed as a replacement part. ",
+        "report_date": "11/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V014000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2005-2006 Subaru Baja, 2006-2011 Impreza (including WRX and STI models), 2006-2012 Tribeca, 2009-2012 Forester, Legacy, Outback, and 2012 WRX vehicles originally sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Ha",
+        "report_date": "10/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V738000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2007-2009 model year Legacy and Outback vehicles, 2008-2014 Impreza vehicles and 2009-2013 Forester vehicles, all equipped with turbo-charged engines.  The relay that controls the secondary air injection pump may fail, causing the pump",
+        "report_date": "13/10/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V012000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Legacy, Forester, Tribeca, WRX and Outback vehicles, and 2009-2011 Impreza vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, Puerto Rico, Am",
+        "report_date": "09/01/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V311000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2005-2009 Outback and Legacy, 2008-2011 Impreza and 2008-2014 Impreza WRX/STI, and 2009-2013 Forester vehicles, currently, or formerly, registered in Connecticut, Delaware, Illinois, Indiana, Iowa, Maine, Maryland, Massachusetts, Michi",
+        "report_date": "10/06/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V830000",
+        "component": "SERVICE BRAKES, HYDRAULIC",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2008-2011 Impreza, 2008-2014 WRX and STI, and 2009-2013 Forester vehicles, currently, or formerly, registered in Connecticut, Delaware, Illinois, Indiana, Iowa, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshi",
+        "report_date": "31/12/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V099000",
+        "component": "SEAT BELTS:REAR/OTHER",
+        "summary": "SUBARU IS RECALLING CERTAIN MODEL YEAR 2009-2012 FORESTER VEHICLES MANUFACTURED FROM NOVEMBER 26, 2007, THROUGH MARCH 13, 2012.  THE AUTOMATIC LOCKING RETRACTOR in the SEAT BELT ASSEMBLIES LOCATED IN THE REAR CENTER SEATING OF THE AFFECTED VEHICLES DO NOT MEET LOCKABILITY REQUIREMENTS AND FAIL TO CO",
+        "report_date": "13/03/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V602000",
+        "component": "EXTERIOR LIGHTING",
+        "summary": "Subaru is recalling certain model year 2010 and 2011 Legacy and Outback vehicles, certain model year 2006 through 2012 Tribeca vehicles sold before January 2012, and certain model year 2009 through 2012 Forester vehicles sold before January 2012.  Up to 78,650 of these vehicles may have been equippe",
+        "report_date": "26/12/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V001000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester, 2003-2006 Baja, 2004-2011 Impreza, 2004-2014 WRX (STI included), 2003-2014 Legacy and Outback, and 2005-2006 Saab 9-2X vehicles originally sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawai",
+        "report_date": "02/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V002000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester, 2003-2006 Baja, 2004-2011 Impreza, 2004-2014 WRX (including STI), 2003-2014 Legacy and Outback, and 2006 Saab 9-2X vehicles originally sold, or ever registered, in the states of Arizona, Arkansas, Delaware, District of Columbi",
+        "report_date": "02/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V003000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester, 2003-2006 Baja, 2004-2011 Impreza, 2004-2014 WRX (including STI), 2003-2014 Legacy and Outback, and 2005-2006 Saab 9-2X vehicles originally sold, or ever registered, in the states of Alaska, Colorado, Connecticut, Idaho, Iowa,",
+        "report_date": "02/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V838000",
+        "component": "SEAT BELTS",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester vehicles.  The front seat belt assembly force-limiter may not operate correctly in the event of a crash.",
+        "report_date": "10/11/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:55:59.775Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

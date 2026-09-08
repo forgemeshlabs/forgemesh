@@ -1,0 +1,112 @@
+{
+  "slug": "2022-kia-soul",
+  "year": 2022,
+  "make": "Kia",
+  "model": "Soul",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 88,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 51,
+        "share_pct": 58,
+        "excerpts": [
+          "The contact owns a 2022 Kia Soul. The contact stated that while driving 55 MPH uphill, there was an abnormal knocking sound from the rod bearings inside the engine. The contact stated that the rod bea",
+          "• a theft attempt caused by the widely reported Kia software vulnerability (documented in my police report) • a display failure that Kia refused to repair • a recall that Kia refused to perform becaus",
+          "03/17/26:  Kia Soul 2022 was brought into the dealership to have the safety recall (NHTSA: 25V099; Kia: SC336) addressed. There is a description of the service that says, “Piston Oil Ring.” Dealership"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 19,
+        "share_pct": 21.6,
+        "excerpts": [
+          "The contact owns a 2022 Kia Soul. The contact stated that while driving at an undisclosed speed, the vehicle unexpectedly lost motive power and stalled, with several unknown warning lights illuminated",
+          "The contact's daughter owns a 2022 Kia Soul. The contact stated that while her daughter was driving 40 MPH, the engine froze for two minutes. The oil light was illuminated. The contact stated that the",
+          "The contact owns a 2022 Kia Soul. The contact stated that the vehicle was taken to the local dealer to be repaired under NHTSA Campaign Number: 25V099000 (Engine and Engine Cooling). After retrieving "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 12,
+        "share_pct": 13.6,
+        "excerpts": [
+          "• a theft attempt caused by the widely reported Kia software vulnerability (documented in my police report) • a display failure that Kia refused to repair • a recall that Kia refused to perform becaus",
+          "My 2022 Kia Soul experienced a sudden loss of motive power and stalling while driving, creating a high risk for a rear-end collision in traffic. An authorized Kia dealership (Mike Miller Kia) performe",
+          "In March 2025, my 2022 Kia Soul developed a check engine light and drivability problems that progressed to rough idle, loss of power, reduced power with limited speed and an unresponsive throttle, and"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 10,
+        "share_pct": 11.4,
+        "excerpts": [
+          "• a theft attempt caused by the widely reported Kia software vulnerability (documented in my police report) • a display failure that Kia refused to repair • a recall that Kia refused to perform becaus",
+          "03/17/26:  Kia Soul 2022 was brought into the dealership to have the safety recall (NHTSA: 25V099; Kia: SC336) addressed. There is a description of the service that says, “Piston Oil Ring.” Dealership",
+          "Weeks before the vehicle completely shut down, my car began stalling and shutting off in traffic without warning while driving. I was usually able to turn the vehicle off and restart it, and it would "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 7,
+        "share_pct": 8,
+        "excerpts": [
+          "Weeks before the vehicle completely shut down, my car began stalling and shutting off in traffic without warning while driving. I was usually able to turn the vehicle off and restart it, and it would ",
+          "My 2022 Kia Soul experienced a sudden loss of motive power and stalling while driving, creating a high risk for a rear-end collision in traffic. An authorized Kia dealership (Mike Miller Kia) performe",
+          "I have a Kia Soul 2022 and I have been having a lot of different problems with my vehicle that are a serious safety hazard for my family and myself. I was trying to pass 18 wheeler  truck one night an"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 1,
+      "injuries": 8,
+      "deaths": 3
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 10
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 48
+      },
+      {
+        "year": 2026,
+        "count": 16
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "25V099000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2021-2023 Seltos and Soul vehicles.  The piston oil rings may have been manufactured incorrectly, which can result in engine damage.",
+        "report_date": "17/02/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:30.927Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

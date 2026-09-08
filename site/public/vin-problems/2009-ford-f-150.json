@@ -1,0 +1,180 @@
+{
+  "slug": "2009-ford-f-150",
+  "year": 2009,
+  "make": "Ford",
+  "model": "F-150",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 324,
+    "top_failure_components": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 54,
+        "share_pct": 16.7,
+        "excerpts": [
+          "The gas pedal got stuck while I was driving. I couldn't stop it and lost control. It caused a horrific car accident. 10 people were involved and I'm currently fighting the case in court to prove I was",
+          "WHILE IN DRIVE AT IDLE SPEED THE TRUCKS RPM JUMPED TO APPROXIMATELY 4000 RPM INSTANTLY . I HAD TO PUSH MY FOOT BRAKE AS HARD AS I COULD AND PUT SHIFTER IN NEUTRAL THEN IT WAS OK FOR A WHILE THEN THIS ",
+          "TWO SEPARATE TIMES DRIVING IN MOTION WHILE PRESSING DOWN THE ACCELERATOR, THE CAR JUMPS TO 6000+ RPM AND WOULD NOT SLOW DOWN OR RESPOND TO BRAKES. THE ONLY WAY TO STOP WAS TO FORCE TRUCK INTO NEUTRAL "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 46,
+        "share_pct": 14.2,
+        "excerpts": [
+          "This vehicle has been a lemon ever since we purchased it new. To start the 3rd brake light would always leak during rain and ruined the headliner took it back to andy mohr ford were we purchased appro",
+          "AC electric wiring becomes hot and only blows at 1 speed, also with time has become corroded diplaying a live open wire under passanger area, seems it is the following Block Heater Cable Splice Connec",
+          "There's been recalls on the 2009 Ford f150 and my car is having hydraulic pump issues and a couple other issues that were recalled and I was just trying to get some assistance?"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 42,
+        "share_pct": 13,
+        "excerpts": [
+          "This vehicle has been a lemon ever since we purchased it new. To start the 3rd brake light would always leak during rain and ruined the headliner took it back to andy mohr ford were we purchased appro",
+          "The contact's son owned a 2009 Ford F-150. The contact stated that while approximately 10 MPH, he observed smoke emanating from the glove box and the check engine warning light illuminated. The contac",
+          "My pickup truck at only 23 thousand miles in the engine, it's module went bad and brake and ABS lights came on on the dashboard. I took the car to the dealer and they said that I have to replace it an"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 39,
+        "share_pct": 12,
+        "excerpts": [
+          "The contact owns a 2009 Ford F-150. The contact stated that while driving at an undisclosed speed, the brake pedal was depressed; however, the vehicle failed to stop as intended. Additionally, the ABS",
+          "The contact owns a 2009 Ford F-150. The contact stated while 45 MPH and depressing the accelerator pedal, the vehicle failed to respond as intended. The contact pulled over to the side of the road and",
+          "My pickup truck at only 23 thousand miles in the engine, it's module went bad and brake and ABS lights came on on the dashboard. I took the car to the dealer and they said that I have to replace it an"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 34,
+        "share_pct": 10.5,
+        "excerpts": [
+          "This vehicle has been a lemon ever since we purchased it new. To start the 3rd brake light would always leak during rain and ruined the headliner took it back to andy mohr ford were we purchased appro",
+          "Frame of the body is completely rusted through to the point that it is almost unsafe to drive.  It was identified when attempting to replace the rocker panel on the passenger side and the list put a h",
+          "Door Striker Plate, latching Hook on Rocker Plate, lower side of driver side door frame, between front and rear doors is rusted.  This does not allow the doors, front or rear driver side, to close sec"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 28,
+      "fires": 8,
+      "injuries": 21,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 2
+      },
+      {
+        "year": 2001,
+        "count": 1
+      },
+      {
+        "year": 2008,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 37
+      },
+      {
+        "year": 2010,
+        "count": 40
+      },
+      {
+        "year": 2011,
+        "count": 21
+      },
+      {
+        "year": 2012,
+        "count": 31
+      },
+      {
+        "year": 2013,
+        "count": 26
+      },
+      {
+        "year": 2014,
+        "count": 28
+      },
+      {
+        "year": 2015,
+        "count": 22
+      },
+      {
+        "year": 2016,
+        "count": 29
+      },
+      {
+        "year": 2017,
+        "count": 23
+      },
+      {
+        "year": 2018,
+        "count": 19
+      },
+      {
+        "year": 2019,
+        "count": 15
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "11V049000",
+        "component": "STRUCTURE:BODY:DOOR",
+        "summary": "FORD IS RECALLING CERTAIN MODEL YEAR 2009 AND 2010 F-150 VEHICLES MANUFACTURED FROM JANUARY 18, 2008, THROUGH NOVEMBER 30, 2009.  THE INTERIOR DOOR HANDLE HOUSING EMBOSSMENT RETAINING THE INTERIOR DOOR HANDLE SPRING MAY FRACTURE DURING NORMAL USAGE RESULTING IN INSUFFICIENT SPRING FORCE TO RETURN TH",
+        "report_date": "01/02/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V150000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "FORD IS RECALLING 8,735 MY 2009 F-150 TRUCKS FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 108, \"LAMPS, REFLECTIVE DEVICES, AND ASSOCIATED EQUIPMENT.\"  THE BRAKE STOP LAMP SWITCH MAY BE IMPROPERLY ADJUSTED. THIS MAY RESULT IN A DELAY IN BRAKE STOP LAMP ILLU",
+        "report_date": "05/05/2009",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:48:36.549Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

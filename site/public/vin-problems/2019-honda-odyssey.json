@@ -1,0 +1,280 @@
+{
+  "slug": "2019-honda-odyssey",
+  "year": 2019,
+  "make": "Honda",
+  "model": "Odyssey",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 942,
+    "top_failure_components": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 218,
+        "share_pct": 23.1,
+        "excerpts": [
+          "Rear view multipurpose camera failed",
+          "Ton of warning messages displayed related to ADAS systems not working.  Took car to the dealership and was told the multicamera system failed.  Messages almost identical to what's reported here and ap",
+          "The multipurpose camera went out due to heat apparently and stops the advanced driver assistance systems from working on the vehicle. It was taken to a dealership and was told it’s a known issue and i"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 217,
+        "share_pct": 23,
+        "excerpts": [
+          "Fuel Indicator started malfunctioning, even after filling completely did not show full tank. the gauge kept fluctuating around the mid tank range. Now suddenly the car stalled, went into neutral and h",
+          "Everything on the dashboard went blank, no speedometer, the infotainment screen, all went blank for several minutes.",
+          "Safety Complaint – 2019 Honda Odyssey Elite Front Camera Failure  I own a 2019 Honda Odyssey Elite with approximately 60,000 miles.  The front windshield camera used by the Honda Sensing system failed"
+        ]
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "complaints": 154,
+        "share_pct": 16.3,
+        "excerpts": [
+          "Rear view multipurpose camera failed",
+          "The multipurpose camera went out due to heat apparently and stops the advanced driver assistance systems from working on the vehicle. It was taken to a dealership and was told it’s a known issue and i",
+          "Failure of the front multipurpose camera which helps control functions such as automatic braking, lane keep assist, automatic cruise control, lane departure, etc."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 131,
+        "share_pct": 13.9,
+        "excerpts": [
+          "When I am sitting at a traffic light and the auto engine idle stop gauges it very frequently completely shuts off the engine and will not restart. I will hit the power button to try and turn the vehic",
+          "I'm filing a formal safety complaint regarding my 2019 Honda Odyssey, VIN [XXX], & requesting an engineering-level review by American Honda. I've brought this vehicle to an authorized Honda dealer num",
+          "When driving the vehicle it always has a lag in acceleration when pressing on the gas pedal.   There are numerous times I can press the gas pedal and the car will not move.   I've taken back to the de"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 122,
+        "share_pct": 13,
+        "excerpts": [
+          "With a 103,000 on the dash, engine experienced signs on slowing,  check engine,  abs, adaptive cruise, and steering faults amongst others . No lights prior to the bearing failing.  The engine experien",
+          "Brought car into Honda of nanuet for lots of dashboard lights on. Was told that i need a airflow tube replaced. Milage was at 79048. Immediately after picking up car, same thing happened and was told ",
+          "The vehicle is experiencing a dangerous hesitation during acceleration at low speeds, immediately followed by a sudden, violent forward lunging motion.   When attempting to accelerate from a complete "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 15,
+      "fires": 7,
+      "injuries": 19,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 13
+      },
+      {
+        "year": 2019,
+        "count": 78
+      },
+      {
+        "year": 2020,
+        "count": 46
+      },
+      {
+        "year": 2021,
+        "count": 33
+      },
+      {
+        "year": 2022,
+        "count": 56
+      },
+      {
+        "year": 2023,
+        "count": 123
+      },
+      {
+        "year": 2024,
+        "count": 200
+      },
+      {
+        "year": 2025,
+        "count": 221
+      },
+      {
+        "year": 2026,
+        "count": 171
+      }
+    ]
+  },
+  "recalls": {
+    "count": 20,
+    "recalls": [
+      {
+        "campaign_number": "20V439000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2020 Odyssey, 2019-2020 Passport, and 2019-2021 Pilot vehicles.   Incorrect instrument panel control module software can cause the instrument panel to not display critical information, such as engine oil pressure, speedometer, and gear selec",
+        "report_date": "28/07/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V437000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Honda (America Honda Motor Co.) is recalling certain 2018-2020 Odyssey vehicles.  Water may enter the outer door handle cables for the sliding doors.  If this occurs, the outer door handle cables may freeze in cold temperatures, preventing the front and rear sliding door latches from securely latchi",
+        "report_date": "28/07/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V440000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2021 Pilot, 2019-2020 Odyssey and 2019-2020 Passport vehicles.  Incorrect central network software programming may cause several errors to occur that can delay or prevent the rearview camera image from displaying.  As such, these vehicles fa",
+        "report_date": "28/07/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V438000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "American Honda Motor Co. (Honda) is recalling certain 2019-2020 Odyssey vehicles.  Water may get into the rearview camera mounting holes and enter the camera lens and cause a distorted image, or no image at all.  Additionally, if the rearview camera view mode is set to top-down view, or switched fro",
+        "report_date": "28/07/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V066000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2020 Odyssey vehicles.  The wire harness for the third row seat accessory power outlet may get pinched between the unibody and rear trim panel, possibly damaging the wires and causing an electrical short.",
+        "report_date": "06/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V215000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2020 Acura MDX, MDX Sport Hybrid, RDX, TLX, Honda Accord, Civic Hatchback, Insight, 2019 Acura ILX, Honda Accord Hybrid, Civic Coupe, Civic Coupe Si, Civic Sedan, Civic Sedan Si, Civic Type R, Fit, HR-V, Odyssey, Passport, Pilot and Ridgelin",
+        "report_date": "25/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V010000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE",
+        "summary": "Braun Corporation (Braun) is recalling certain 2018-2021 Braun-modified Honda Odyssey vehicles.  The fuel tank assembly installed by Braun may be susceptible to the fuel tank overfilling into the charcoal canister.  If the charcoal canister fills with a sufficient amount of fuel, fuel may leak out.",
+        "report_date": "14/01/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V664000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019 Honda Insight, Odyssey, and Ridgeline vehicles.  The Supplemental Restraint System (SRS) control unit may have a manufacturing error, possibly resulting in the air bags or seatbelt pretensioners not deploying in the event of a crash.",
+        "report_date": "27/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V299000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2019 Odyssey vehicles.  Loose battery terminal connections or a degraded battery may cause the Transmission Control Unit (TCU) to unexpectedly reboot.  Upon rebooting, the TCU may shift the transmission to the \"Park\" position, possibly damag",
+        "report_date": "12/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V298000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:GASOLINE:BELTS AND ASSOCIATED PULLEYS",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2019 Acura MDX and Honda Pilot vehicles and 2019 Acura RLX, RLX Sport Hybrid, TLX and Honda Odyssey and Ridgeline vehicles.  The timing belt teeth may separate from the belt.",
+        "report_date": "12/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V777000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017-2019 Acura MDX, 2017-2018 Acura MDX Sport Hybrid, 2018-2019 Honda HR-V and Honda Odyssey, and 2016 Honda HR-V vehicles.  The rear brake caliper pistons may have an insufficient coating, causing gas pockets to form, reducing brake performance",
+        "report_date": "01/11/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V795000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2018 and 2019 Honda Odyssey vehicles.  The latch assemblies for the power sliding doors may stick and not properly latch to the door strikers.",
+        "report_date": "09/11/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V213000",
+        "component": "SERVICE BRAKES, AIR:ANTILOCK:WHEEL SPEED SENSOR",
+        "summary": "Braun Corporation (Braun) is recalling certain 2018-2019 Honda Odyessy vehicles modified to be equipped with an in-floor wheelchair ramp conversion.  The rear wheel speed sensor harnesses may have been routed to the incorrect rear wheels, resulting in the possibility that the anti-lock brake system ",
+        "report_date": "20/03/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V158000",
+        "component": "SEAT BELTS:FRONT:BUCKLE ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017-2020 CR-V, 2018-2019 Accord and Accord Hybrid, 2018-2020 Odyssey, 2019 Insight, and 2019-2020 Acura RDX vehicles.  A manufacturing issue with the front seat belts may cause the seat belt buckle channel to interfere with the release button, p",
+        "report_date": "09/03/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V431000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2023 Odyssey, 2019-2022 Pilot, and 2019-2023 Passport vehicles.  Due to a faulty Media Oriented Systems Transport (MOST) communication coaxial cable connector, the rearview camera image may not appear on the display.  As such, these vehicles",
+        "report_date": "15/06/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V751000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2015-2020 Acura TLX, 2016-2020 Acura MDX, 2016 and 2018-2019 Pilot, 2017 and 2019 Ridgeline, and 2018-2019 Odyssey vehicles.  Due to a manufacturing error, the connecting rod bearing in the engine may wear and seize, damaging the engine.",
+        "report_date": "13/11/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V227000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE:SOFTWARE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2022 Odyssey vehicles. A software programming error can cause the side and side curtain air bags to deploy unexpectedly.",
+        "report_date": "09/04/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V423000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2020 Odyssey vehicles. Water may enter into the rearview camera, which can cause the rearview camera image to fail to display when the vehicle is in reverse. As such, these vehicles fail to comply with the requirements of Federal Motor Vehic",
+        "report_date": "01/07/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:44.778Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

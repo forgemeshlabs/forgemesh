@@ -1,0 +1,208 @@
+{
+  "slug": "2009-gmc-acadia",
+  "year": 2009,
+  "make": "GMC",
+  "model": "Acadia",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 333,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 112,
+        "share_pct": 33.6,
+        "excerpts": [
+          "The vehicle tire system lights came on the air bag sensor light  Car did not fill safe driving no control on the road unstable on turns car was sold one lug muissing front tire ,returned car several t",
+          "The contact's daughter owns a 2009 GMC Acadia. The contact stated that while his daughter was driving at an unknown speed, the steering wheel seized without warning. His daughter restarted the vehicle",
+          "SLIGHT PULSE LEFT THEN PULSE RIGHT ACTUALLY MOVES STEERING WHEEL BUT VEHICLE STAYS ON TRACK - UNLESS DRIVER IS UNAWARE - BUT DRIVE BECOMES AWARE BECAUSE IT'S A MOVEMENT ON A SMOOTH ROAD THEM IS ALARMI"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 72,
+        "share_pct": 21.6,
+        "excerpts": [
+          "The stabilizer/traction control keeps going off and it will stay off.i can turn,hit a bump or start it up and the traction control/stabilizer system is off.i almost had a accident on the freeway in th",
+          "The stabilizer/traction control keeps going off and it will stay off.i can turn,hit a bump or start it up and the traction control/stabilizer system is off.i almost had a accident on the freeway in th",
+          "The wire harness corroded , and it caused everything in my car to stop working my back passenger window won’t go down , my back driver side cannot be put up or down from the back , my airbag light is "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 67,
+        "share_pct": 20.1,
+        "excerpts": [
+          "There was a recall for gmc premature timing chain engine recall. This recall was complete in 2011 but it did not fix the problem. The timing chain keeps breaking off the cam shaft sensor and needs to ",
+          "The stabilizer/traction control keeps going off and it will stay off.i can turn,hit a bump or start it up and the traction control/stabilizer system is off.i almost had a accident on the freeway in th",
+          "Got code po0008 crank sensor/cam did resurch said timming chain replaced complete chain still noisey changed cam phasers and sensors still making noise it is so frustrating bee going on 3 weeks I'm di"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 47,
+        "share_pct": 14.1,
+        "excerpts": [
+          "The stabilizer/traction control keeps going off and it will stay off.i can turn,hit a bump or start it up and the traction control/stabilizer system is off.i almost had a accident on the freeway in th",
+          "Stabilitrak system in 2009 gmc Acadia randomly acts up disabling abs system and traction control. Also randomly get a low oil pressure warning light but oil level, temperature is fine and no noises sm",
+          "The contact owns a 2009 GMC Acadia. The contact stated that while his wife was driving approximately 35 MPH, the vehicle stalled and lost motive power. The check engine warning light was illuminated. "
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 38,
+        "share_pct": 11.4,
+        "excerpts": [
+          "THERE WAS A RECALL AT ONE TIME FOR THE TRANSMISSION LINKAGE ABOUT IT POPPING OFF, I AM NOW HAVING IT POP OFF I HAVE NO CLUE HOW LONG IT BEEN THIS WAY SEEING AS IT GOES TO THE DEALERSHIP AND THEY NEVER",
+          "THE LIGHTING HOUSING  IS NOT COMPATIBLE WITH THE TYPE OF HEADLIGHTS BECAUSE THEY OVER HEAT IT AND CAUSE THE RUNNING LIGHTS TO MELT THE HOUSING AND CAUSE THE BULBS GO STICK TO IT AND THEN YOUR HEADLIGH",
+          "I LEASED MY 2009 GMC ACADIA ALMOST 2 YEARS AGO, IT HAS BEEN A NIGHTMARE. I BOUGHT AS IS SO DEALER WOULD NOT RETURN MY CALLS  THAT HAD ANYTHING TO DO WITH PROBLEMS. FIRST, NOT EVEN 3 WEEKS AFTER I LEAS"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 14,
+      "injuries": 17,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 7
+      },
+      {
+        "year": 2010,
+        "count": 11
+      },
+      {
+        "year": 2011,
+        "count": 26
+      },
+      {
+        "year": 2012,
+        "count": 16
+      },
+      {
+        "year": 2013,
+        "count": 43
+      },
+      {
+        "year": 2014,
+        "count": 80
+      },
+      {
+        "year": 2015,
+        "count": 43
+      },
+      {
+        "year": 2016,
+        "count": 21
+      },
+      {
+        "year": 2017,
+        "count": 16
+      },
+      {
+        "year": 2018,
+        "count": 21
+      },
+      {
+        "year": 2019,
+        "count": 19
+      },
+      {
+        "year": 2020,
+        "count": 11
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 1
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "14V266000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors is recalling certain model year 2009-2014 Buick Enclave vehicles manufactured April 14, 2008, through May 14, 2014, Chevrolet Traverse vehicles manufactured June 6, 2008, through May 14, 2014, and GMC Acadia vehicles manufactured April 9, 2008, through May 14, 2014, and 2009-2010 Satu",
+        "report_date": "20/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V415000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2008-2012 Buick Enclave vehicles manufactured January 3, 2007, to February 29, 2012, 2009-2012 Chevrolet Traverse vehicles manufactured July 6, 2008, to March 9, 2012, 2007-2012 GMC Acadia vehicles manufactured September 15, 2006, to February 2",
+        "report_date": "30/06/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V118000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2008-2013 Buick Enclave and GMC Acadia and 2009-2013 Chevrolet Traverse and 2008-2010 Saturn Outlook vehicles.  In the affected vehicles, increased resistance in the driver and passenger seat mounted side impact air bag (SIAB) wiring harnesses ",
+        "report_date": "17/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V375000",
+        "component": "SEAT BELTS",
+        "summary": "GENERAL MOTORS IS RECALLING CERTAIN MODEL YEAR 2009-2010 CHEVROLET TRAVERSE, BUICK ENCLAVE, GMC ACADIA, AND SATURN OUTLOOK VEHICLES.  THE SECOND ROW SEAT SIDE TRIM SHIELD RESTRICTS THE UPWARD ROTATION OF THE SAFETY BELT BUCKLE WHEN THE SEAT BACK IS RETURNED TO A SEATING POSITION AFTER BEING FOLDED F",
+        "report_date": "12/08/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V240000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "GM IS RECALLING CERTAIN MODEL YEAR 2006-2009 BUICK, LUCERNE; CADILLAC DTS; HUMMER H2; MODEL YEAR 2008-2009 BUICK ENCLAVE; CADILLAC CTS; MODEL YEAR 2007-2009 CADILLAC ESCALADE, ESCALADE ESV, ESCALADE EXT; CHEVROLET AVALANCHE, SILVERADO, SUBURBAN, TAHOE; GMC ACADIA, SIERRA, YUKON, YUKON XL; SATURN OUT",
+        "report_date": "04/06/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V073000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:LEVER AND LINKAGE:COLUMN SHIFT",
+        "summary": "GENERAL MOTORS IS RECALLING 276,729 MY 2009 BUICK ENCLAVE, CHEVROLET COBALT, HHR, MALIBU, TRAVERSE, GMC ACADIA, PONTIAC G5, G6 AND SATURN AURA AND OUTLOOK PASSENGER VEHICLES.  THESE VEHICLES FAIL TO COMPLY WITH FEDERAL MOTOR VEHICLES SAFETY STANDARD 102, \"TRANSMISSION SHIFT POSITION SEQUENCE, STARTE",
+        "report_date": "06/03/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V615000",
+        "component": "SEAT BELTS: REAR/OTHER:BUCKLE ASSEMBLY",
+        "summary": "GM IS RECALLING 16,667 MY 2009 BUICK ENCLAVE, CHEVROLET TRAVERSE, GMC ACADIA, AND SATURN OUTLOOK VEHICLES FOR FAILING TO CONFORM WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 209, 'SEAT BELT ASSEMBLIES.'  THESE VEHICLES MAY HAVE BEEN BUILT WITH A SAFETY BELT BUCKLE IN THE SECOND",
+        "report_date": "24/11/2008",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:50:18.885Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

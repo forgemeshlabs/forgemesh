@@ -1,0 +1,168 @@
+{
+  "slug": "2015-nissan-pathfinder",
+  "year": 2015,
+  "make": "Nissan",
+  "model": "Pathfinder",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 320,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 76,
+        "share_pct": 23.8,
+        "excerpts": [
+          "CVT judder problems on acceleration",
+          "The contact owns a 2015 Nissan Pathfinder. The contact stated that while driving at an undisclosed speed, there was a loud sound coming from the front of the vehicle. There was no warning light illumi",
+          "The contact owns a 2015 Nissan Pathfinder. The contact stated that while driving at an undisclosed speed, the vehicle jerked and vibrated, causing the steering wheel to lock up. The contact used force"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 74,
+        "share_pct": 23.1,
+        "excerpts": [
+          "While driving at a rate of 20mph +, the pathfinder will start jerking back and forth then turn off. This happened in the middle of a highway lane. Good thing no one was hurt. This was also sudden",
+          "1. CODE P0101 not removed after replacing MAF sensor.  2. power steering motor is annoying noise, high pitched sound.",
+          "$4000 worth of work. 4 visits to a local shop. 3 visits to the Nissan dealership, who claims to have replaced cylinders every time. My engine violently shakes even worse.  Has cut off midst driving wi"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 55,
+        "share_pct": 17.2,
+        "excerpts": [
+          "The contact owns a 2015 Nissan Pathfinder. The contact stated that while driving 65 MPH, the front driver’s side curtain air bag deployed without impact. No warning lights were illuminated. The contac",
+          "The contact owns a 2015 Nissan Pathfinder. The contact stated while driving at an undisclosed speed, the air bag warning light illuminated. The vehicle was taken to the dealer, who diagnosed a failure",
+          "I purchased a used 2015 Nissan Pathfinder last year. Recently the passenger airbag light does not turn off. After searching the internet, I found their was a recall for this issue in the past. I conta"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 27,
+        "share_pct": 8.4,
+        "excerpts": [
+          "I was driving vehicle and was at light to enter freeway went to accelerate and nothing happened but car would rev normal in park pulled over in traffic and almost got in a wreck with family in side is",
+          "While driving my Pathfinder, the transmission hesitated, jerked, and spuddered while trying to merge into traffic.  Almost caused a severe accident.  This was not the first time this has happened and ",
+          "1)Vehicle has been repaired 3 times in the last 2 weeks for a brake switch issue that is causing the vehicle not to recognize the brake is pushed causing the car not being able to start. This has been"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 26,
+        "share_pct": 8.1,
+        "excerpts": [
+          "The contact owns a 2015 Nissan Pathfinder. The contact stated while driving 3 MPH in a parking lot, the vehicle stalled. An Advanced Auto mechanic determined that the battery was drained. The mechanic",
+          "Complete shutdown of the vehicle while driving down the road. Caused me to go into a ditch. The vehicles lights flashed and then it just shut off. Had the alternator replaced twice also the battery re",
+          "The relay in the drivers seat melted and the wires shorted out. This caused issues with my radio, clock, brakes, and power issues when accelerating. They replaced the relay which cost me $1200 and sud"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 11,
+      "fires": 1,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2015,
+        "count": 24
+      },
+      {
+        "year": 2016,
+        "count": 43
+      },
+      {
+        "year": 2017,
+        "count": 18
+      },
+      {
+        "year": 2018,
+        "count": 52
+      },
+      {
+        "year": 2019,
+        "count": 70
+      },
+      {
+        "year": 2020,
+        "count": 34
+      },
+      {
+        "year": 2021,
+        "count": 14
+      },
+      {
+        "year": 2022,
+        "count": 18
+      },
+      {
+        "year": 2023,
+        "count": 14
+      },
+      {
+        "year": 2024,
+        "count": 16
+      },
+      {
+        "year": 2025,
+        "count": 12
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "16V244000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2016-2017 Nissan Maxima, 2013-2016 Nissan Altima, NV200, LEAF, Sentra, and Pathfinder, 2014-2016 Nissan NV200 Taxi, Infiniti QX60, QX60 Hybrid, and Q50 Hybrid, 2014-2017 Nissan Rogue and Infiniti Q50, 2015-2016 Nissan Murano, Murano",
+        "report_date": "26/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V681000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2015 Altima and Pathfinder vehicles, 2013-2014 Nissan Sentra vehicles, 2013 Infiniti JX35 vehicles, 2014-2015 Infiniti QX60 vehicles and 2014 Infiniti QX60 Hybrid vehicles.  The affected vehicles received an incorrect occupant ",
+        "report_date": "20/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V012000",
+        "component": "SERVICE BRAKES",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2014-2015 Nissan Pathfinder and Infiniti QX60 vehicles manufactured August 14, 2014, to November 5, 2014, and 2014-2015 Nissan Rogue vehicles manufactured August 12, 2014, to November 15, 2014.  During the assembly process, the fron",
+        "report_date": "14/01/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V020000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2013-2015 Nissan Pathfinder vehicles.  The location of the brake light switch may cause the brake light switch relay to repeatedly open and close.  Overtime, this can cause the relay to stick in the \"ON\" position, with the brake lights remaini",
+        "report_date": "20/01/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V420000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2013-2016 Pathfinder vehicles.  On certain Pathfinder vehicles, the secondary hood latch may malfunction and remain in the unlatched, unsecured, position when the hood is closed.",
+        "report_date": "13/06/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:44.659Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

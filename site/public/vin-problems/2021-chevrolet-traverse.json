@@ -1,0 +1,128 @@
+{
+  "slug": "2021-chevrolet-traverse",
+  "year": 2021,
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 88,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 22,
+        "share_pct": 25,
+        "excerpts": [
+          "Alternator fail before 60,000 miles. Had the car almost 3 years and children in it. Apparently a known common issue yet no recall it’s not a reliable car",
+          "Odometer Fraud. The contact purchased a 2021 Chevrolet Traverse. The contact discovered that there was a mileage discrepancy after the purchase. The vehicle was a private sale. At the time of purchase",
+          "Received a \"Service Battery Charging System\" dash warning message driving down the highway.  Made it home and changed the battery but the issue persists and I can't drive the car.  Reading online many"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 14,
+        "share_pct": 15.9,
+        "excerpts": [
+          "Transmission shutters at lower gear going from 20-30 mph approximately and at the speed of 60-70 mph. When this happens it causes a delay in acceleration and for the whole car to shake. This was also ",
+          "I am filing a safety complaint regarding two vehicles provided through Bob Hook Chevrolet in [XXX] .  My Chevrolet Traverse has been at the dealership for approximately one month due to a transmission",
+          "The car sometimes will not accelerate in the 25-35 mph range and will begin to shudder and shake. This can be very dangerous when attempting to merge on a highway. This also happens when completely st"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 11,
+        "share_pct": 12.5,
+        "excerpts": [
+          "The welding that holds the exhaust together has failed. They offer a Special Warranty to cover only the passenger side, however it has failed and exhaust is super loud. Also reading 4 codes from check",
+          "Check engine light came on and I noticed that the cooling fan would continue running for several minutes even after turning vehicle off. Had a mechanic run the diagnostics and the code came back as a ",
+          "Both exhaust pipes before the catalytic converter are cracked and leaking at the same welded mounting bracket. One of them GM is coving under the extended warranty but the other one also needs replace"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 9,
+        "share_pct": 10.2,
+        "excerpts": [
+          "Right Rear upper and lower toe links broke nearly causing a serious accident when brakes were applied, vehicle pulled severely to the right causing it to swerve and narrowly missing another vehicle. T",
+          "While going around 40mph I approached a stopped vehicle and tried to come to a stop. At this time my braking system failed, speeding the car up instead of slowing it down, this resulted in my car rear",
+          "Since I bought this car new the brakes have been squeaking and when I took it to the dealer they said they need about this problem but there was nothing that they could do about it since the manufactu"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 7,
+        "share_pct": 8,
+        "excerpts": [
+          "The contact owned a 2021 Chevrolet Traverse. The contact stated that the vehicle was taken to an independent mechanic for an inspection, where a leaking oil pan gasket was diagnosed. The contact state",
+          "The contact owns a 2021 Chevrolet Traverse. The contact stated that while starting the vehicle, the front exhaust pipe made an abnormally loud sound, and there was an odor inside the vehicle. The vehi",
+          "The contact owns a 2021 Chevrolet Traverse. The contact stated that while driving at an undisclosed speed, the check engine and oil warning lights illuminated. After a visual inspection of the engine "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 0,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 7
+      },
+      {
+        "year": 2023,
+        "count": 11
+      },
+      {
+        "year": 2024,
+        "count": 20
+      },
+      {
+        "year": 2025,
+        "count": 28
+      },
+      {
+        "year": 2026,
+        "count": 12
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "21V817000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Braun Corporation (Braun) is recalling certain 2020-2021 Chevrolet Traverse wheelchair accessible vehicles with Power In-floor Ramp conversion.  The screw and clip that hold the inner wheel-well plastic shroud in place may chafe against the transmission case, possibly resulting in a transmission flu",
+        "report_date": "18/10/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V472000",
+        "component": "AIR BAGS:SENSOR:FRONTAL IMPACT",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021 Chevrolet Traverse and Buick Enclave vehicles.  During service by dealers, certain vehicles may have received incorrect air bag calibration software that may affect frontal airbag deployment.",
+        "report_date": "24/06/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V210000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2022 Chevrolet Traverse and 2021-2022 Buick Enclave vehicles.  The harness connector to the left or right side roof rail air bag may have incompatible electrical terminals, which could prevent the air bags from deploying in a crash.",
+        "report_date": "31/03/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:07:22.350Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

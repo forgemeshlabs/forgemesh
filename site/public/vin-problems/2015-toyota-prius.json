@@ -1,0 +1,148 @@
+{
+  "slug": "2015-toyota-prius",
+  "year": 2015,
+  "make": "Toyota",
+  "model": "Prius",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 164,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 91,
+        "share_pct": 55.5,
+        "excerpts": [
+          "Problem: Brake Actuator is pulsing the Booster Pump to keep running intermittently, 5-10 seconds.  Console lights lit up for ABS problem.  Does not clear.  Toyota Dealership Report:  DCT C1391 Abnorma",
+          "On XXX, I was driving my 2015 Toyota Prius with my family in the vehicle and approaching stopped traffic on dry pavement. An emergency vehicle was approaching from behind, so I began braking earlier t",
+          "Code DTC C1391 - Abnormal leak of accumulator pressure.  Internal failure of the brake booster pump assembly, preventing the system from maintaining proper hydraulic pressure.  This means the brakes d"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 27,
+        "share_pct": 16.5,
+        "excerpts": [
+          "Pulling out of a parking stall, when put vehicle in drive, the engine revved up and accelerated - vehicle crashed, the  brakes did not work- there was skid marks. Floor mats are factory OEM were insta",
+          "The incident involved having to press extremely hard on the brake pedal to stop the car, while it was uphill in the middle of the road. The car started going backward and was throwing ABS, Master Warn",
+          "The brake pump and actuator on my 2015 prius has been faulty and the repair was apparently covered under the customer support program but it expired in December. I had no knowledge of it and when I to"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 13,
+        "share_pct": 7.9,
+        "excerpts": [
+          "My mom was involved in an accident in her 2015 Toyota Prius on April 19, 2022, which she advised lurched forward at a stop and when applying the brakes to stop the vehicle, she said was unresponsive, ",
+          "When I looked up my car on Kelly Blue Book for pricing, it said that it has been recalled as of 2020. I was not aware of this at all and could have got into a serious accident. I recently purchased a ",
+          "STARTED HEARING GRINDING AND SCREECHING  NOISES  FROM UNDERNEATH  THE HOOD AFTER A 125 MILE DRIVE TO SAN FRANCISCO.  THE FOLLOWING DAY VEHICAL STARTED BUT GRINDING NOISE PERSISTED WHILE VEHICAL WAS PA"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 8,
+        "share_pct": 4.9,
+        "excerpts": [
+          "Pulling out of a parking stall, when put vehicle in drive, the engine revved up and accelerated - vehicle crashed, the  brakes did not work- there was skid marks. Floor mats are factory OEM were insta",
+          "I was driving from Las Vegas to my home in Los Angeles. An alarming message began flashing on the dashboard telling me to pull over. The vehicle became hard to control. I somehow managed to get it off",
+          "I want to sale"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 7,
+        "share_pct": 4.3,
+        "excerpts": [
+          "The headlight bulbs keep going out. I have replaced the bulbs at least 2-3 times a year for the past few years. I have asked dealers about this and they tell me there is no recall or tsb. This is a ha",
+          "My vehicle has an ongoing issue with the headlights not being bright enough to drive at night with. I have replaced the headlights more than 5 times now over the course of a year, each time with diffe",
+          "HEADLAMP HAS GONE OUT 3 TIMES,  MARKER LIGHT 2 TIMES. EXISTING RECALL ON PREVIOUS YEAR PRIUS SHOULD BE EXTENDED TO 2015 MODELS"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 29,
+      "fires": 1,
+      "injuries": 17,
+      "deaths": 3
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 1979,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 13
+      },
+      {
+        "year": 2016,
+        "count": 16
+      },
+      {
+        "year": 2017,
+        "count": 9
+      },
+      {
+        "year": 2018,
+        "count": 8
+      },
+      {
+        "year": 2019,
+        "count": 11
+      },
+      {
+        "year": 2020,
+        "count": 7
+      },
+      {
+        "year": 2021,
+        "count": 11
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 8
+      },
+      {
+        "year": 2025,
+        "count": 43
+      },
+      {
+        "year": 2026,
+        "count": 23
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "20V369000",
+        "component": "HYBRID PROPULSION SYSTEM: INVERTER",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2013-2015 Prius and 2014-2017 Prius V vehicles not included in recall 18V-684.  Excessive voltage in the Intelligent Power Module (IPM) within the inverter may cause the hybrid system to shut down, causing the vehicle to stall wh",
+        "report_date": "24/06/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:32.425Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

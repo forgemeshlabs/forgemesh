@@ -1,0 +1,140 @@
+{
+  "slug": "2020-hyundai-sonata",
+  "year": 2020,
+  "make": "Hyundai",
+  "model": "Sonata",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 177,
+    "top_failure_components": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 45,
+        "share_pct": 25.4,
+        "excerpts": [
+          "Car was taken to dealership for inspection. Upon inspection, it was determined that the fuel tank had expanded and pushed towards the heat shield, and expanded upward pushing up the back seats of vehi",
+          "Hyundai Motors America has failed to comply with its statutory obligations in conducting the recall campaign 25V796, and is instead engaging in behavior substantially similar to that which has been pr",
+          "NHTSA Complaint Statement Subject: Stop‑Drive Recall – Vehicle Held Since March 5, 2026 – No Remedy, No Transportation, Buyback Delayed I am filing a complaint regarding a stop‑drive safety recall tha"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 39,
+        "share_pct": 22,
+        "excerpts": [
+          "I am submitting a safety complaint regarding a recurring, unresolved electrical defect in my 2020 Hyundai Sonata SEL. The vehicle fails to recognize when the ignition is switched off, leaving core veh",
+          "Parking malfunction. Parked, running car moved itself to reverse and backed up a driveway crossing a dirt road and hitting a fence and post. This car could have hit and severely injured anyone who was",
+          "Blower motor malfunction at night. Smelled something burning. Extremely hot and humid outside.  Windows fogged up inside which greatly reduced visibility.  Checked the multifuse which controls the ABS"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 31,
+        "share_pct": 17.5,
+        "excerpts": [
+          "The A/C evaporator core and the core seal needs replacing on 2020 Hyundai Sonata. Car is 6 years old. I already have a confirmed diagnosis with a PPM refrigerant leak tester at the condensate drain li",
+          "My vehicle while driving, it is jerking and shaking. When I come to a stop, the cars rpms go up and down while the car is shaking. When I pressed the gas pedal to accelerate the car will not accelerat",
+          "The contact owns a 2020 Hyundai Sonata. The contact stated that while driving at an undisclosed speed, the low oil warning light illuminated. The contact added oil to the engine. The dealer was made a"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 24,
+        "share_pct": 13.6,
+        "excerpts": [
+          "I am submitting a safety complaint regarding a recurring, unresolved electrical defect in my 2020 Hyundai Sonata SEL. The vehicle fails to recognize when the ignition is switched off, leaving core veh",
+          "My vehicle while driving, it is jerking and shaking. When I come to a stop, the cars rpms go up and down while the car is shaking. When I pressed the gas pedal to accelerate the car will not accelerat",
+          "For my vehicle the Check Engine light has been on continuously throughout the last 6 months and mechanics are going to have to replace the thermostat. Multiple auto mechanics have indicated online tha"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 16,
+        "share_pct": 9,
+        "excerpts": [
+          "The driver's power seat track master assembly (Part#88500-L0030) on my 2020 Hyundai Sonata suffered a catastrophic structural failure while operating. The black plastic bracket housing and aligning th",
+          "Car was taken to dealership for inspection. Upon inspection, it was determined that the fuel tank had expanded and pushed towards the heat shield, and expanded upward pushing up the back seats of vehi",
+          "The contact owns a 2020 Hyundai Sonata. The contact stated that the fuel failed to go into the tank. The seat failed to move. The engine light illuminated. The vehicle stalled. While driving, the fuel"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 1,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 32
+      },
+      {
+        "year": 2021,
+        "count": 13
+      },
+      {
+        "year": 2022,
+        "count": 14
+      },
+      {
+        "year": 2023,
+        "count": 17
+      },
+      {
+        "year": 2024,
+        "count": 41
+      },
+      {
+        "year": 2025,
+        "count": 33
+      },
+      {
+        "year": 2026,
+        "count": 27
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "20V213000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2020 Nexo and Sonata vehicles.  The Remote Smart Parking Assist (RSPA) software may fail to prevent vehicle movement upon detection of an RSPA system malfunction.",
+        "report_date": "09/04/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V122000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2020 Sonata vehicles produced between October 22, 2019 and February 13, 2020.  The tire pressure label inside the driver's door and the owner's manual state an incorrect tire size.  As such, these vehicles fail to comply with the requirements of F",
+        "report_date": "28/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V196000",
+        "component": "LATCHES/LOCKS/LINKAGES:TRUNK LID:LATCH",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2020 Sonata and Sonata Hybrid, and 2019 Genesis G70 vehicles.  The trunk latch may become damaged, preventing the opening of the trunk from the inside.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety S",
+        "report_date": "28/03/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V796000",
+        "component": "FUEL SYSTEM, GASOLINE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2020-2023 Sonata vehicles. A damaged check valve can allow air to enter the fuel tank, causing it to expand and contact hot exhaust components, melting the tank.",
+        "report_date": "18/11/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:27.254Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

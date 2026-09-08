@@ -1,0 +1,124 @@
+{
+  "slug": "2019-hyundai-tucson",
+  "year": 2019,
+  "make": "Hyundai",
+  "model": "Tucson",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 376,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 194,
+        "share_pct": 51.6,
+        "excerpts": [
+          "While traveling northbound on [XXX] in Florida traffic came to a stop, and when I stopped, my engine seized, I attempted to restart, but was unable to get a restart. My attempts to restart caused the ",
+          "The contact owns a 2019 Hyundai Tucson. The contact stated that while the vehicle was parked in the driveway and turned off, the vehicle rolled backwards and occasionally ended up in the street in fro",
+          "OnXXX my car experienced sudden knocking in the engine.  I pulled over to the service station on the [XXX] and had my car towed to Empire Hyundai in [XXX].  I had just changed oil on XXXand upon inspe"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 118,
+        "share_pct": 31.4,
+        "excerpts": [
+          "ABS light on dash is illuminated due to no known cause. Mechanic explained that the ABS system will not work when the light is illuminated which, I believe, contributed to a \"fender bender\" my vehicle",
+          "When the vehicle in front of me stopped quickly, I  braked quickly but did not hit the car. At that time, all the lights on my dashboard went off and were still on when I took the car to dealer for a ",
+          "The contact owns a 2019 Hyundai Tucson. The contact stated that while driving approximately 30 MPH and depressing the brake pedal, the vehicle responded as intended; however, several unknown warning l"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 62,
+        "share_pct": 16.5,
+        "excerpts": [
+          "The contact owns a 2019 Hyundai Tucson. The contact stated that while driving approximately 30 MPH and depressing the brake pedal, the vehicle responded as intended; however, several unknown warning l",
+          "The contact owns a 2019 Hyundai Tucson. The contact stated while the contact's husband was driving, the contact noticed an abnormal loud sound. In addition, the contact noticed smoke coming from the f",
+          "The contact owns a 2019 Hyundai Tucson. The contact stated while driving approximately 40–45 MPH, the vehicle failed to accelerate as needed. The vehicle failed to accelerate about 35 MPH. The vehicle"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 46,
+        "share_pct": 12.2,
+        "excerpts": [
+          "The 2019 Tucson has 60,413 miles.  My daughter drives it very low mileage - a couple of miles a day back and forth to school.  Friday she was driving and the car lost engine power and it stopped drivi",
+          "The contact owns a 2019 Hyundai Tucson. The contact stated while the contact's husband was driving, the contact noticed an abnormal loud sound. In addition, the contact noticed smoke coming from the f",
+          "On March 21st, while driving my Hyundai vehicle, I noticed the vehicle began making a ticking sound. After stopping the vehicle, it slowly began catching on fire. The fire ultimately spread and result"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 40,
+        "share_pct": 10.6,
+        "excerpts": [
+          "While driving, the check engine light began flashing and the vehicle shook severely due to engine misfiring. The vehicle has had a recurring cylinder 3 misfire throughout ownership. Spark plugs and ig",
+          "Catalytic converter and oil leak which is causing the vehicle to lose power. The catalytic converter was replaced in 2024 and now is bad again in 2025. Oil consumption has been a problem since 2024. H",
+          "Limp mode, knocking , engine light. Only has 62,768 miles on it. I can't fill out campaign 966 or 982 on the official web site for extended coverage."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 15,
+      "fires": 11,
+      "injuries": 10,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 22
+      },
+      {
+        "year": 2020,
+        "count": 105
+      },
+      {
+        "year": 2021,
+        "count": 35
+      },
+      {
+        "year": 2022,
+        "count": 35
+      },
+      {
+        "year": 2023,
+        "count": 49
+      },
+      {
+        "year": 2024,
+        "count": 56
+      },
+      {
+        "year": 2025,
+        "count": 51
+      },
+      {
+        "year": 2026,
+        "count": 22
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "20V543000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) recalled certain 2019-2021 Tucson vehicles on September 4, 2020.  On December 30, 2020, Hyundai expanded the recall population, and added certain 2016-2018 Tucson vehicles.  The Anti-lock Brake Hydraulic Electronic Control Unit (HECU) could corrode internally and caus",
+        "report_date": "04/09/2020",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:23.106Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

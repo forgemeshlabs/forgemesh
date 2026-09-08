@@ -1,0 +1,103 @@
+{
+  "slug": "2022-toyota-corolla",
+  "year": 2022,
+  "make": "Toyota",
+  "model": "Corolla",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 98,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 20,
+        "share_pct": 20.4,
+        "excerpts": [
+          "I am reporting a severe safety defect regarding a failed engine coolant bypass valve on my 2022 Toyota Corolla Apex SE (VIN: [XXX], Mileage: 54,700). An authorized Toyota dealership has scanned the ve",
+          "The vehicle's infotainment system, specifically when utilizing Android Auto, is subject to recurrent, unprompted UI freezes and interface crashes while the vehicle is in motion. These malfunctions are",
+          "Internal short within headlamp assembly causing the fuse to blow. Unrepairable, requires full replacement of part. Confirmed by MyAutoImports licensed  Toyota repair center. Passenger side day running"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 16,
+        "share_pct": 16.3,
+        "excerpts": [
+          "The contact owns a 2022 Toyota Corolla. The contact stated that while shifting gears on several occasions, the clutch was sticking. Additionally, while shifting from 1st to 2nd gear, the clutch was al",
+          "Toyota South Atlanta in Morrow, Georgia, released my vehicle after a factory warranty repair for transmission failure. However, they failed to properly complete or verify the repair. The dashboard is ",
+          "Clutch slave cylinder likely blew a seal, clutch pedal sudden loss of pressure while driving, unable to shift gears. Safety issue due to inability to move car after sudden hydraulic failure in clutch "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 15,
+        "share_pct": 15.3,
+        "excerpts": [
+          "The contact owns a 2022 Toyota Corolla. The contact stated that while shifting gears on several occasions, the clutch was sticking. Additionally, while shifting from 1st to 2nd gear, the clutch was al",
+          "Toyota South Atlanta in Morrow, Georgia, released my vehicle after a factory warranty repair for transmission failure. However, they failed to properly complete or verify the repair. The dashboard is ",
+          "The contact owns a 2022 Toyota Corolla. The contact stated that while driving at 50 MPH, the vehicle was hard to stop, and he lost control but was able to avoid a crash. The maintenance light was illu"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 14,
+        "share_pct": 14.3,
+        "excerpts": [
+          "I am reporting a severe safety defect regarding a failed engine coolant bypass valve on my 2022 Toyota Corolla Apex SE (VIN: [XXX], Mileage: 54,700). An authorized Toyota dealership has scanned the ve",
+          "The contact owns a 2022 Toyota Corolla. The contact stated that while driving at 50 MPH, the vehicle was hard to stop, and he lost control but was able to avoid a crash. The maintenance light was illu",
+          "Vehicle won't move. Emergency break malfunction notification came on.  Unable to get to dealership without a tow. Diagnostic completed.. Quick service provided $701.66. Two A21 Cylinder Assy, RR DI @$"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 9,
+        "share_pct": 9.2,
+        "excerpts": [
+          "I’m getting a message on my dashboard that SRS airbag system malfunction. Visit your dealer. I know there are recalls going on for this right now with American maid Toyotas, but I’m told mine isn’t be",
+          "I am writing to formally report a serious safety concern regarding my vehicle’s airbag system following a recent accident.  On April  22, 2026, I was involved in a significant collision while driving ",
+          "On October 1st, 2025, I was in a car accident. I was side-swiped on the highway by a truck, which led me to collide with a metal fence. My airbags did not deploy after the collision. After filing a cl"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 12,
+      "fires": 0,
+      "injuries": 10,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 3
+      },
+      {
+        "year": 2022,
+        "count": 22
+      },
+      {
+        "year": 2023,
+        "count": 24
+      },
+      {
+        "year": 2024,
+        "count": 12
+      },
+      {
+        "year": 2025,
+        "count": 20
+      },
+      {
+        "year": 2026,
+        "count": 17
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T20:07:36.894Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

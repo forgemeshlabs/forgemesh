@@ -1,0 +1,156 @@
+{
+  "slug": "2017-toyota-highlander",
+  "year": 2017,
+  "make": "Toyota",
+  "model": "Highlander",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 264,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 71,
+        "share_pct": 26.9,
+        "excerpts": [
+          "I had been shopping, as I attempted to increase speed, my car wouldn't respond. I smelled something burning  and I switched lanes because I needed a safe place to stop. I turned onto [XXX] in Pembroke",
+          "Vehicle is a 2017 Toyota Highlander (VIN [XXX]) experiencing the UA80 8-speed transmission whine defect (T-SB-0160-18) upon acceleration. An authorized Toyota dealership test drove and officially veri",
+          "Vehicle had history of hard shifting from 1st drive. On January 24, 2026 we heard a ringing sound as we were driving. Approximately 10 minutes after the noise began, the Check Engine light illuminated"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 46,
+        "share_pct": 17.4,
+        "excerpts": [
+          "My 2017 Toyota Highlander, VIN [XXX], has just under 85,000 miles. I was notified at the dealership (Stevinson Toyota in Lakewood Colorado) who inspected the vehicle yesterday that the vehicle has dev",
+          "I had been shopping, as I attempted to increase speed, my car wouldn't respond. I smelled something burning  and I switched lanes because I needed a safe place to stop. I turned onto [XXX] in Pembroke",
+          "bought the car in 2018 and ever since it makes a rttling noise, Toyota says it is the hybrid system engaigeing, hybrid cars are not supposed to make noise."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 46,
+        "share_pct": 17.4,
+        "excerpts": [
+          "March 5th purchased a battery from Autozone Z net Fit Match that caused cascading electrical and life -safety risk while traveling from hewitt, TX to Washington DC for our families spring break trip i",
+          "Formal Complaint to NHTSA – Summary  I am submitting this formal complaint regarding repeated mechanical and electrical failures involving my 2017 Toyota Highlander, purchased as a Toyota Gold-Certifi",
+          "After getting gas, the vehicle will not start. It will crank and crank but not turn over, like it is starving for gas. Then after 10-15 minutes it will start barely and to keep it running I have to fl"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 29,
+        "share_pct": 11,
+        "excerpts": [
+          "March 5th purchased a battery from Autozone Z net Fit Match that caused cascading electrical and life -safety risk while traveling from hewitt, TX to Washington DC for our families spring break trip i",
+          "With 22k miles on vehicle, car won’t start due to Brake power low fault. Battery was replaced in attempt to rectify problem with no success, vehicle will need to be towed in for repair.",
+          "my car has 18600.0 miles on it the problem is i started getting a \" brakes under powered find a safe place to park\"  after doing some research, i have been advised to replace the vacuum pump and power"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 28,
+        "share_pct": 10.6,
+        "excerpts": [
+          "The engine stalled because the fuel pump is failing. We have found that many 2017 Toyota Highlanders have had the fuel pump recalled for this exact issue, yet our VIN is not included in this recall.  ",
+          "Leaking fuel line due to deterioration of plastic liner in fuel line.",
+          "Today (8/26/2025) my wife experienced the engine light kicked on and that the AWD system needed to be checked. After fueling up it made knocking noises and difficulty starting, and took two times to s"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 18,
+      "fires": 2,
+      "injuries": 26,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 42
+      },
+      {
+        "year": 2018,
+        "count": 26
+      },
+      {
+        "year": 2019,
+        "count": 26
+      },
+      {
+        "year": 2020,
+        "count": 18
+      },
+      {
+        "year": 2021,
+        "count": 31
+      },
+      {
+        "year": 2022,
+        "count": 19
+      },
+      {
+        "year": 2023,
+        "count": 29
+      },
+      {
+        "year": 2024,
+        "count": 21
+      },
+      {
+        "year": 2025,
+        "count": 31
+      },
+      {
+        "year": 2026,
+        "count": 20
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "18E107000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Fujian Wanda Automobile Glass Industry (Wanda) is recalling certain aftermarket Replacement Windshields sold for use in 2014-2018 Toyota Highlander vehicles.  The windshields have an attached wire harness that water may leak into, possibly causing damage to the vehicle's Engine Control Module (ECM).",
+        "report_date": "27/11/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V520000",
+        "component": "EQUIPMENT",
+        "summary": "Gulf States Toyota, Inc. (GST) is recalling certain 2017 Toyota Highlander and Highlander Hybrid vehicles equipped with accessory roof rail cross bars.  The fasteners for the roof rails may not be torqued properly.",
+        "report_date": "23/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V295000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "Gulf States Toyota, Inc. (Gulf States) is recalling certain 2017 4Runner , 86, Avalon, Camry, Camry Hybrid, Corolla, Corolla iM, Highlander, Highlander Hybrid, Prius, Prius C, RAV4, RAV4 Hybrid, Sienna  and Yaris vehicles.  The spare tire air pressure was not adjusted to the proper pressure as state",
+        "report_date": "02/05/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:39.101Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,200 @@
+{
+  "slug": "2022-ford-expedition",
+  "year": 2022,
+  "make": "Ford",
+  "model": "Expedition",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 111,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 19,
+        "share_pct": 17.1,
+        "excerpts": [
+          "ABS break lights and Service Advanced Trac lights flashing and beeping. Eventually Break fluid low lights came on and car would not break when driving . Leaked break fluid on driveway. Car was unable ",
+          "The contact owns a 2022 Ford Expedition. The contact stated that while the vehicle was parked, it failed to start with several unknown warning lights illuminated. The vehicle was jump-started. The dea",
+          "Receiving Front Camera Malfunction Service required warning. Also receiving pre-collision assist, adaptive cruise control and automatic emergency break system warnings. Other systems likely disabled. "
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 16,
+        "share_pct": 14.4,
+        "excerpts": [
+          "Unknown",
+          "ABS break lights and Service Advanced Trac lights flashing and beeping. Eventually Break fluid low lights came on and car would not break when driving . Leaked break fluid on driveway. Car was unable ",
+          "The collision avoidance system repeatedly faults and becomes unusable. Also, the 2nd row bench seat belt locks without warning.  This posses a great risk in a crash."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 15,
+        "share_pct": 13.5,
+        "excerpts": [
+          "The contact owns a 2022 Ford Expedition. The contact stated that while driving 20 MPH, the transmission was sticking. The failure was a recurring failure. The dealer was contacted, and the vehicle rec",
+          "While driving on the highway, my 2022 Ford Expedition suddenly lost acceleration. The gas pedal stopped responding completely and the vehicle gradually lost power until it shut off. It had to be towed",
+          "Transmission randomly hard down shifts erratically.    It feels like i lose control of the vehicle.  Shifting is so violent, it's like I were driving over a man hole with a missing cover.    These are"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 12,
+        "share_pct": 10.8,
+        "excerpts": [
+          "The contact owns a 2022 Ford Expedition. The contact received notification of NHTSA Campaign Numbers: 25V455000 (Fuel System, Gasoline), 26V204000 (Visibility), and 26V368000 (Structure); however, the",
+          "The contact owns a 2022 Ford Expedition. The contact stated that while driving approximately 75 MPH, the sunroof windscreen flew off and landed on the highway. The vehicle was taken to a dealer, where",
+          "Moonroof rubber sealant allowing water in"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 10,
+        "share_pct": 9,
+        "excerpts": [
+          "While driving on the highway, my 2022 Ford Expedition suddenly lost acceleration. The gas pedal stopped responding completely and the vehicle gradually lost power until it shut off. It had to be towed",
+          "The vehicle stalls, when stopped in traffic. In order to restart the vehicle, the transmission must be placed in the “park” position. This happens intermittently after the vehicle has been driven for ",
+          "The vehicle stopped running while driving, my wife stopped at a stop sign after vehicle had run ~ 10 minutes.  Upon entering the inter-section the vehicle started to run rough, and ultimately stalled "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 0,
+      "injuries": 10,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 13
+      },
+      {
+        "year": 2023,
+        "count": 29
+      },
+      {
+        "year": 2024,
+        "count": 17
+      },
+      {
+        "year": 2025,
+        "count": 36
+      },
+      {
+        "year": 2026,
+        "count": 15
+      }
+    ]
+  },
+  "recalls": {
+    "count": 12,
+    "recalls": [
+      {
+        "campaign_number": "22V193000",
+        "component": "ELECTRICAL SYSTEM: INTEGRATED TRAILER BRAKE CONTROL",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2022 F-150, 2022 Maverick, Expedition, Lincoln Navigator, F-250, F-350, F-450, and F-550 vehicles.  Due to a software error, a towed trailer equipped with an electric or electric-over hydraulic brake system may not brake.",
+        "report_date": "25/03/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V420000",
+        "component": "EQUIPMENT:OTHER:OWNERS/SERVICE/OTHER MANUAL",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2023 Expedition and Lincoln Navigator vehicles equipped with third-row seating; and 2019-2023 F-Super Duty F-250, F-350, F-450, and F-550 SuperCab vehicles.  The owner's manual does not include instructions for adjusting or removing certain head re",
+        "report_date": "09/06/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V852000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2025 Explorer, Lincoln Aviator, 2020-2024 Escape, Lincoln Corsair, 2018-2024 F-150, Expedition and Lincoln Navigator vehicles.  The air bag warning label may be missing from the dashboard.  As such, these vehicles fail to comply with the requiremen",
+        "report_date": "08/11/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V132000",
+        "component": "ELECTRICAL SYSTEM: INTEGRATED TRAILER BRAKE CONTROL",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2022 F-150, 2022 Maverick, Expedition, Lincoln Navigator, F-250, F-350, F-450, and F-550 vehicles previously repaired incorrectly under recall number 22V-193.  Due to a software error, a towed trailer equipped with an electric or electric-over hydr",
+        "report_date": "28/02/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V314000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2022-2024 Navigator and Expedition vehicles.  The front brake lines may contact the engine air cleaner outlet pipe and become damaged, possibly resulting in a brake fluid leak and reduced brake function.",
+        "report_date": "09/05/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V315000",
+        "component": "BACK OVER PREVENTION:SOFTWARE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2024 Bronco, F-150, 2021-2024 Edge, 2022-2025 Escape, F-250, F-350, F-450, F-550, F-600, 2022-2024 Expedition, 2022-2025 Transit, 2021-2023 Mach-E, 2024 Ranger, Mustang, 2021-2023 Lincoln Nautilus, 2022-2024 Navigator, and 2023-2024 Corsair vehicle",
+        "report_date": "09/05/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V455000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2023 Bronco, Explorer, Lincoln Aviator, F-250 SD, F-350 SD, F-450 SD,  F-550 SD, 2021-2022 Lincoln Navigator, Mustang, F-150, and 2022 Expedition vehicles. The low-pressure fuel pump may fail, which can result in an engine stall while driving.",
+        "report_date": "07/07/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V729000",
+        "component": "VISIBILITY:SUN/MOON ROOF ASSEMBLY",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2022 Expedition, Lincoln Navigator, 2021-2023 F-150, 2022 F-250 SD, F-350 SD, and F-450 SD vehicles. The moonroof wind deflector clips may be inadequately attached to the moonroof frame, which can result in the wind deflector detaching from the veh",
+        "report_date": "24/10/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V104000",
+        "component": "ELECTRICAL SYSTEM: INTEGRATED TRAILER BRAKE CONTROL",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2026 F-150, 2022-2026 F-250 SD, F-350 SD, F-450 SD, F-550 SD, Maverick, 2024-2026 Ranger, 2023-2026 F-600 SD, 2022-2027 Lincoln Navigator, Expedition, and 2026 E-Transit vehicles. When towing a trailer, the integrated trailer module (ITRM) may lose",
+        "report_date": "20/02/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V204000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:LINKAGES",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2023 Lincoln Navigator, Expedition, and 2022-2023 F-250 SD, F-350 SD, F-450 SD, F-550 SD, and F-600 SD vehicles. The windshield wiper arms may break, causing the wipers to fail.",
+        "report_date": "31/03/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V344000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2022 Expedition and Lincoln Navigator vehicles. The seat belt pretensioner in the driver and/or front passenger seat may inadvertently lock the seat belt, which will not allow the belt to retract or extend.",
+        "report_date": "27/05/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V368000",
+        "component": "STRUCTURE:INTERIOR PANELS:CENTER CONSOLE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2024 Expedition vehicles. The chrome plating on the center console may bubble and peel, resulting in sharp edges.",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:09:21.811Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

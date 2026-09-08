@@ -1,0 +1,172 @@
+{
+  "slug": "2021-honda-odyssey",
+  "year": 2021,
+  "make": "Honda",
+  "model": "Odyssey",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 139,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 52,
+        "share_pct": 37.4,
+        "excerpts": [
+          "Mileage: 121000  When stopped and the auto idle initiated, we have had numerous incidents where the van has shutoff and required a restart. More recently, when the auto idle initiates, the entire engi",
+          "The first problem I came across was Auto start. It always say temporary off because either I didn't press on the break hard enough or the Ac is running. Mostly it off saying it need to be charge and t",
+          "When coming to a complete atop, the engine switches off (the idle stop function), which is ok, but when I release the brake the engine often fails to restart. I’ve replaced the battery but this appear"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 26,
+        "share_pct": 18.7,
+        "excerpts": [
+          "Mileage: 121000  When stopped and the auto idle initiated, we have had numerous incidents where the van has shutoff and required a restart. More recently, when the auto idle initiates, the entire engi",
+          "The first problem I came across was Auto start. It always say temporary off because either I didn't press on the break hard enough or the Ac is running. Mostly it off saying it need to be charge and t",
+          "When coming to a complete atop, the engine switches off (the idle stop function), which is ok, but when I release the brake the engine often fails to restart. I’ve replaced the battery but this appear"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 19,
+        "share_pct": 13.7,
+        "excerpts": [
+          "The forward collision prevention system engages the brakes when nothing/no one is in front of us. It will also engage the lane departure warning, which also engages the brakes, when construction zones",
+          "My van is braking when there are no cars or dangers in front of it. Sometimes there's a metal plate on the ground or speed bump when it brakes. Other times there's nothing in front. The car slams on t",
+          "Vehicle applied brakes for no reason. Lost ability to see reverse camera during backing up. Half of the instrument cluster went dim to become barely visible. Radio screen freezes randomly. Engine cuts"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 16,
+        "share_pct": 11.5,
+        "excerpts": [
+          "Active recall cannot be repaired as there is no parts after reaching out to four local Honda dealerships in the upper Annapolis, Md area. Have been added to the \"list\" of owners needing the recall com",
+          "The contact owns a 2021 Honda Odyssey. The contact received notification of NHTSA Campaign Number: 24V064000 (Air Bags); however, the part to do the recall repair was not yet available. The contact st",
+          "The contact owns a 2021 Honda Odyssey. The contact received notification of NHTSA Campaign Number: 24V064000 (Air Bags); however, the part to do the recall repair was not yet available. The contact st"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 10,
+        "share_pct": 7.2,
+        "excerpts": [
+          "In mid-March 2026, the power tailgate on my [year] Honda Odyssey lost power entirely. It does not respond to the key fob, the tailgate button, or the dashboard button — it will not open or close by an",
+          "Power tailgate problems caused by water leaking through body seams. A visible gap in the rear hatch allows water to flow into the vehicle and shorts out control module. This has ruined my control modu",
+          "Leaking from the roof and tail gate caused the electronic control modules in the sliding door and rear gate to fail."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 1,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 9
+      },
+      {
+        "year": 2023,
+        "count": 19
+      },
+      {
+        "year": 2024,
+        "count": 33
+      },
+      {
+        "year": 2025,
+        "count": 36
+      },
+      {
+        "year": 2026,
+        "count": 31
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "21V010000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE",
+        "summary": "Braun Corporation (Braun) is recalling certain 2018-2021 Braun-modified Honda Odyssey vehicles.  The fuel tank assembly installed by Braun may be susceptible to the fuel tank overfilling into the charcoal canister.  If the charcoal canister fills with a sufficient amount of fuel, fuel may leak out.",
+        "report_date": "14/01/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V174000",
+        "component": "VISIBILITY:REARVIEW MIRRORS/DEVICES:EXTERIOR",
+        "summary": "Honda (American Honda Motor Co) is recalling certain 2020-2021 Pilot and Ridgeline, and 2020-2022 Passport and Odyssey vehicles.  The heating pads behind both side-view mirrors may not be bonded properly, allowing the mirror glass to detach.  As such, these vehicles fail to comply with the requireme",
+        "report_date": "16/03/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V431000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2023 Odyssey, 2019-2022 Pilot, and 2019-2023 Passport vehicles.  Due to a faulty Media Oriented Systems Transport (MOST) communication coaxial cable connector, the rearview camera image may not appear on the display.  As such, these vehicles",
+        "report_date": "15/06/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V064000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020-2022 Pilot, Accord, Civic sedan, HR-V, Odyssey, 2020 Civic coupe, Fit, 2021-2022 Civic hatchback, 2021 Civic Type R, Insight, 2020-2021 CR-V, CR-V Hybrid, Passport, Ridgeline, Accord Hybrid, 2020 Acura MDX, 2022 Acura MDX, 2020-2022 Acura RD",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V877000",
+        "component": "EQUIPMENT ADAPTIVE/MOBILITY:WHEELCHAIR RESTRAINTS/SECUREMENT:LATCH/ANCHOR:",
+        "summary": "Vantage Mobility, LLC (VM) is recalling certain 2021-2026 Honda Odyssey, 2021-2025 Chrysler Pacifica, and Toyota Sienna vehicles equipped with QRT-Deluxe and QRT-Max wheelchair restraints. The retractors may not lock, preventing the wheelchair from being properly secured.",
+        "report_date": "17/12/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V227000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE:SOFTWARE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2022 Odyssey vehicles. A software programming error can cause the side and side curtain air bags to deploy unexpectedly.",
+        "report_date": "09/04/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:52.225Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,228 @@
+{
+  "slug": "2009-toyota-highlander",
+  "year": 2009,
+  "make": "Toyota",
+  "model": "Highlander",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 134,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 26,
+        "share_pct": 19.4,
+        "excerpts": [
+          "The contact owns a 2009 Toyota Highlander.  The contact stated that while driving at an undisclosed speed, the vehicle made an abnormal, loud clunking sound. The ABS, the parking brake, and the tracti",
+          "1. Component/System that Failed: The component that has malfunctioned is the ABS actuator, which affects the vehicle’s anti-lock braking system. The issue has been diagnosed and confirmed by two indep",
+          "the ABS pump and actuator on this vehicle  have failed. The warning lights on dash indicate ABS, BRAKE, TRACTION CONTROL, and (!). Toyota  knows that the actuator on over one hundred thousand vehicles"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 23,
+        "share_pct": 17.2,
+        "excerpts": [
+          "When starting it would make grinding noise,sounds like metallic noise until the engine oil starts circulating.Dealer said that its normal due to cold starts but this can happen even when the engine is",
+          "Engine oil filler cap had interior motor part , melt through while driving , almost hurling all the way through , 2 inch cylindrical part viewed when opening hood to inspect damage . Braking , trac an",
+          "3 TIMES OVER THE LAST MONTH, WHILE I WAS DRIVING MY VEHICLE, THE CAR SUDDENLY LOST POWER WHILE I WAS DRIVING ON THE HIGHWAY. ALL THE DASHBOARD LIGHTS FLASHED ON, CHECK ENGINE LIGHT AND WARNING LIGHTS "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 20,
+        "share_pct": 14.9,
+        "excerpts": [
+          "3 TIMES OVER THE LAST MONTH, WHILE I WAS DRIVING MY VEHICLE, THE CAR SUDDENLY LOST POWER WHILE I WAS DRIVING ON THE HIGHWAY. ALL THE DASHBOARD LIGHTS FLASHED ON, CHECK ENGINE LIGHT AND WARNING LIGHTS ",
+          "LOCK ACTUATORS MAL-FUNCTION WHEN USING THE REMOTE OR WHEN USING THE POWER LOCKS. UNABLE TO LOCK DOORS EXCEPT MANUALLY WITH KEY OR BY HAND. AT TIMES, CERTAIN LOCKS WILL WORK AND SEEM IMPACTED BY WEATHE",
+          "2009 TOYOTA HIGHLANDER LIMITED DOOR ACTUATORS HAVE ALL BROKE, BEEN REPLACED AND BROKE AGAIN. SOME ARE BEING REPLACED FOR THE 3RD TIME SINCE I OWED THE VEHICLE (MAKING IT THE 4TH LOCK ON THE CAR).  AT "
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 15,
+        "share_pct": 11.2,
+        "excerpts": [
+          "THERE HAS BEEN A LATCHING ISSUE WITH THE REAR POWER HATCH SINCE WE HAVE OWNED THE CAR. TOYOTA ISSUED A REPAIR RECALL IN 2017 TO FIX THE ISSUE BUT IT IS BROKEN ONCE AGAIN. EITHER THEY ARE USING DEFECTI",
+          "I WAS SOLD OVER INTERNET BY VANDERGRIFT TOYOTA OF ARLINGTON,TX A FALSELY ADVERTISED 2009 TOYOTA HIGHLANDER,THAT WAS DELIVERED TO ME IN SAN ANTONIO, TX IN ENCLIMATE WEATHER AND WHILE I WAS IN A FULL BO",
+          "THE POWER BACK DOOR/LIFTGATE DOES NOT CLOSE PROPERLY. THE READ DOOR OF THE HIGHLANDER WOULD COME WITHIN AN INCH OF CLOSING WHEN YOU OPERATED THE POWERED CLOSE FUNCTION AND STOP, REQUIRING A PHYSICAL N"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 14,
+        "share_pct": 10.4,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2009 TOYOTA HIGHLANDER. THE CONTACT STATED THAT WHILE ATTEMPTING TO PARK, THE VEHICLE INDEPENDENTLY ACCELERATED. THE CONTACT STATED THAT THE BRAKE PEDAL WAS DEPRESSED BUT FAILED",
+          "AS MY WIFE CAME HOW WITH MY DAUGHTER, SHE PROCEEDED TO REVERSE THE CAR INTO OUR DRIVEWAY TO PARK THE CAR IN OUR GARAGE AS SHE NORMALLY DOES EVERYDAY.  IN THE DRIVEWAY WAS ALSO MY CAR WHERE IT IS PARKE",
+          "TL* THE CONTACT OWNS A 2009 TOYOTA HIGHLANDER. THE CONTACT STATED THAT WHILE DRIVING 20 MPH, THE VEHICLE BEGAN TO ACCELERATE INDEPENDENTLY. THE CONTACT APPLIED AN IMMENSE AMOUNT OF PRESSURE TO THE PED"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 5,
+      "injuries": 9,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 1
+      },
+      {
+        "year": 2008,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 15
+      },
+      {
+        "year": 2010,
+        "count": 15
+      },
+      {
+        "year": 2011,
+        "count": 7
+      },
+      {
+        "year": 2012,
+        "count": 4
+      },
+      {
+        "year": 2013,
+        "count": 12
+      },
+      {
+        "year": 2014,
+        "count": 9
+      },
+      {
+        "year": 2015,
+        "count": 16
+      },
+      {
+        "year": 2016,
+        "count": 2
+      },
+      {
+        "year": 2017,
+        "count": 8
+      },
+      {
+        "year": 2018,
+        "count": 6
+      },
+      {
+        "year": 2019,
+        "count": 12
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 7
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "14V743000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2011 Prius and Corolla, 2009-2011 Venza, 2006-2010 Avalon, 2007-2010 FJ Cruiser, 2005-2011 Sienna and Sequoia, 2006-2011 Tacoma 4x2 and 4x4, Camry, Highlander, Tundra 4x2 and 4x4, and 2007-2011 Rav4 and 4Runner.  The affec",
+        "report_date": "19/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V689000",
+        "component": "VISIBILITY:POWER WINDOW DEVICES AND CONTROLS",
+        "summary": "Toyota Motor Company (Toyota) is recalling certain model year 2009-2011 Tundra, Sequoia, Corolla, Corolla Matrix and Scion xB, 2008-2011 Highlander and Highlander Hybrid, 2007 Camry and Camry Hybrid, 2009 Camry and Camry Hybrid, 2006-2011 RAV4, 2006-2010 Yaris, and 2009-2010 Scion xD and Pontiac Vib",
+        "report_date": "22/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V168000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Toyota is recalling certain model year 2006-2008 RAV4, 2006-2010 Yaris, 2008-2010 Highlander, and 2009-2010 Tacoma, Corolla, Corolla Matrix and General Motors Pontiac Vibe vehicles.  In the affected vehicles, the steering column assembly contains electrical connections to the driver's airbag module ",
+        "report_date": "09/04/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V396000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2005-2011 4Runner, Highlander, Sequoia, and Sienna, 2005-2010 Avalon and Tundra, 2006-2008 Camry Solara, 2006-2010 Highlander hybrid, 2006-2011 Rav4 and Tacoma, 2007-2010 FJ Cruiser, 2007-2011 Camry hybrid, 2009-2010 Venza, 2010-2012 Priu",
+        "report_date": "02/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V035000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "GULF STATES TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2010 VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD BETWEEN SEPTEMBER 1, 2005 AND JUNE 2, 2008 WITHOUT THE REQUISITE LOAD CARRYING CAPA",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V036000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2011 PASSENGER VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD WITHOUT THE REQUISITE LOAD CARRYING CAPACITY MODIFICATION LABELS.",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V223000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "TOYOTA IS RECALLING 27,080 MODEL YEAR 2005 THROUGH 2010 PASSENGER CARS BUILT FROM SEPTEMBER 1, 2005 TO MAY 4, 2009.  THESE VEHICLES WERE NOT EQUIPPED WITH LOAD CARRYING CAPACITY MODIFICATION LABELS WHICH FAILS TO CONFORM WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE S",
+        "report_date": "15/06/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V023000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2008-2010 HIGHLANDER, MODEL YEAR 2009-2010 COROLLA, VENZA AND MATRIX PASSENGER VEHICLES.  THE ACCELERATOR PEDAL CAN GET STUCK IN THE WIDE OPEN POSITION DUE TO ITS BEING TRAPPED BY AN UNSECURED OR INCOMPATIBLE DRIVER'S FLOOR MAT.  THIS RECALL IS AN EXPANSION OF ",
+        "report_date": "27/01/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:49:46.832Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

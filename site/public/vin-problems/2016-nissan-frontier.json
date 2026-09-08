@@ -1,0 +1,136 @@
+{
+  "slug": "2016-nissan-frontier",
+  "year": 2016,
+  "make": "Nissan",
+  "model": "Frontier",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 43,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 10,
+        "share_pct": 23.3,
+        "excerpts": [
+          "The airbag warning light is blinking and has been for approximately 9 months. I live in Salida, CO which does not have a Nissan Dealership to take my vehicle into for servicing. I recently saw an arti",
+          "Airbags didn’t deployed when the incident of the the truck crashed at the time. (April 05,2023)",
+          "The contact owns a 2016 Nissan Frontier. The contact stated that while operating the vehicle air bags warning light remained illuminated. The vehicle was taken to the local dealer who determined that "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 8,
+        "share_pct": 18.6,
+        "excerpts": [
+          "I am experiencing a fuel pump issue that stalls the engine while driving. The issue will sometimes go away if I first loosen the fuel cap on the gas tank to relieve built up pressure but after driving",
+          "WHILE FUELING AT DIFFERENT GAS STATIONS THE TANK SPILLS/BELCHES GAS ALL OVER. THIS IS A MAJOR SAFETY ISSUE AND NEEDS RECALLED. THERE ARE ENDLESS COMPLAINTS ON [XXX]  OF SIMILAR ISSUES OCCURRING TO OTH",
+          "WHILE FUELING AT DIFFERENT GAS STATIONS THE TANK SPILLS/BELCHES GAS ALL OVER. THIS IS A MAJOR SAFETY ISSUE AND NEEDS RECALLED. THERE ARE ENDLESS COMPLAINTS ON WWW.CLUBFRONTIER.ORG OF SIMILAR ISSUES OC"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 8,
+        "share_pct": 18.6,
+        "excerpts": [
+          "Head gasket blew and it warped the heads at 98,000 miles Replace motor with a 51,000 mile motor and less than 2 months later, motor is knocking inside with broken peices of the motor. I have to replac",
+          "The contact owns a 2016 Nissan Frontier. The contact stated that while driving approximately 60 MPH, the vehicle lost motive power and stalled. There were no warning lights illuminated. The contact wa",
+          "ENGINE VIBRATION AT LOW RPM THAT CAN'T BE EXPLAINED BY SEVERAL MECHANICS."
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 4,
+        "share_pct": 9.3,
+        "excerpts": [
+          "A loud squeaking has developed during every day driving. After inspecting - the front right truck bed mounting location has cracked and failed.",
+          "IN MOTION, PULLING INTO PARKING STALL, WHEN SOMETHING STARTED TO SMELL LIKE IT WAS ON FIRE, STARTED TO SEE FLAMES COMING FROM MOTOR. CAR CAUGHT ON FIRE.   POLICE CASE #19-0773 *DT *DT*JB",
+          "TL* THE CONTACT OWNS A 2016 NISSAN FRONTIER. THE CONTACT STATED THAT THE SPOT WELDS BETWEEN THE OUTER BODY PANEL AND THE INNER BED ON THE PASSSENGER SIDE OF THE VEHICLE FAILED. THE VEHICLE WAS TAKEN T"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 3,
+        "share_pct": 7,
+        "excerpts": [
+          "My 2016 Nissan Frontier is leaking axle grease from the driver side rear tire.  The grease/oil got all over the brake pads, rotor, and emergency brake.  This seems to be a very common issue that was s",
+          "TRANSMISSION AND BRAIN REPAIR BY DEALERSHIP UNDER WARRANTY 20017, AND OVERHEATING PROBLEM DUE TO RADIATOR IN 2020 AFTER EXPIRE OF WARRANTY,  $1000 OUT OF POCKET REPAIRS.",
+          "THE TRANSMISSION DON'T CHANGE TO REVERSE, NEUTRAL, AND PARKING."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 1,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2015,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 10
+      },
+      {
+        "year": 2017,
+        "count": 2
+      },
+      {
+        "year": 2018,
+        "count": 6
+      },
+      {
+        "year": 2019,
+        "count": 5
+      },
+      {
+        "year": 2020,
+        "count": 6
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 1
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "16V181000",
+        "component": "ELECTRICAL SYSTEM:WIRING:FRONT UNDERHOOD",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2016 Frontier V6 vehicles manufactured February 29, 2016, to March 7, 2016.  The starter motor wire harness may have been installed in an incorrect position, allowing the starter harness terminal to contact the heat shield and result in an ele",
+        "report_date": "31/03/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:56.490Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

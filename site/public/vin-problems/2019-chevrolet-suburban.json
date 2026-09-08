@@ -1,0 +1,138 @@
+{
+  "slug": "2019-chevrolet-suburban",
+  "year": 2019,
+  "make": "Chevrolet",
+  "model": "Suburban",
+  "matched_as": {
+    "complaints": [
+      "SUBURBAN 1500"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 77,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 38,
+        "share_pct": 49.4,
+        "excerpts": [
+          "I bought this vehicle in August 202 from Bayway Chevrolet in Pearland, Texas.  The vehicle is now at 101,703 miles.  The vehicle is a 2019 Chevy Suburban LT with the 8L43 transmission. Approximately 1",
+          "Transmission broke.",
+          "The contact owns a 2019 Chevrolet Suburban. The contact stated that while driving at an undisclosed speed, the accelerator pedal was depressed; however, the vehicle failed to accelerate as intended. T"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 25,
+        "share_pct": 32.5,
+        "excerpts": [
+          "The contact owns a 2019 Chevrolet Suburban. The contact stated that while driving at an undisclosed speed, the vehicle was shaking with the check engine warning light illuminated. The contact pulled o",
+          "Oil pressure acting weird. We checked the oil and there were only 2 quarts of oil in truck. I just had an oil change 3 weeks ago. No oil leaks. Engine must be burning oil for some reason.",
+          "Since December 2020, our Suburban has been in for seven extended, documented dealership repair events at Guaranty Chevrolet and Simpson Chevrolet of Garden Grove, totaling 192 cumulative days out of s"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 7,
+        "share_pct": 9.1,
+        "excerpts": [
+          "I bought this vehicle in August 202 from Bayway Chevrolet in Pearland, Texas.  The vehicle is now at 101,703 miles.  The vehicle is a 2019 Chevy Suburban LT with the 8L43 transmission. Approximately 1",
+          "Odometer Fraud. The contact was in the process of purchasing a 2019 Chevrolet Surburban.  It was discovered that there was a mileage discrepancy.  Contact stated the vehicle was a private dealer sale ",
+          "The rear defroster malfunctioned and caused the rear glass to reach a high temperature, and it started raining outside, and it caused the rear glass to shatter. No known issues before? We come to this"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 6,
+        "share_pct": 7.8,
+        "excerpts": [
+          "The suburban pulls to side. I got it into the service center and they tried to fix the alignment but when we got it back it still does it. So im not driving it til it gets a second opinion because its",
+          "We have suddenly experienced a problem with our 2019 Suburban, seemingly identical to a problem that plagued  2015 GM light trucks and SUVs (NHTSA campaign number: 18V586. GM's own number for this rec",
+          "THE VEHICLE DOESN'T DRIVE STRAIGHT OR DRIFTS TO EITHER SIDE AT HIGHWAY SPEED ON STRAIGHT LINE CAUSING SMALL CORRECTION TO BE APPLIED ALL THE TIME."
+        ]
+      },
+      {
+        "component": "SEAT BELTS",
+        "complaints": 5,
+        "share_pct": 6.5,
+        "excerpts": [
+          "Since December 2020, our Suburban has been in for seven extended, documented dealership repair events at Guaranty Chevrolet and Simpson Chevrolet of Garden Grove, totaling 192 cumulative days out of s",
+          "The contact owns a 2019 Chevrolet Suburban. The contact stated that the middle row seat belts failed to retract, and the seat belts became inoperable. The contact had taken the vehicle to an independe",
+          "Received a safety restraint warning message.  Took the vehicle into the dealership and we were told that the passenger side seatbelt and front airbag needed to be replaced.  We had it fixed, however i"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 1,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 6
+      },
+      {
+        "year": 2020,
+        "count": 6
+      },
+      {
+        "year": 2021,
+        "count": 7
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 7
+      },
+      {
+        "year": 2024,
+        "count": 8
+      },
+      {
+        "year": 2025,
+        "count": 21
+      },
+      {
+        "year": 2026,
+        "count": 14
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "18V673000",
+        "component": "SEAT BELTS:REAR/OTHER",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Cadillac CT6, Escalade ESV, Chevrolet Suburban, Volt, and GMC Yukon XL vehicles.  Certain second-row or third-row rear seatbelts retractor assemblies may not automatically lock when the seatbelt is fully pulled out of the retractor, possibly pre",
+        "report_date": "26/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V761000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is tra",
+        "report_date": "24/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V289000",
+        "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+        "summary": "General Motors, LLC (GM) is recalling certain 2026 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, and GMC Sierra 1500, Yukon, and Yukon XL vehicles with four-wheel (4WD) or all-wheel drive (AWD), and certain 2015-2020 Suburban, Escalade, Escalade ESV, Yukon, Yukon",
+        "report_date": "07/05/2026",
+        "park_it": true,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:05.615Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

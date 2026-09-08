@@ -1,0 +1,160 @@
+{
+  "slug": "2017-kia-forte",
+  "year": 2017,
+  "make": "Kia",
+  "model": "Forte",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 301,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 144,
+        "share_pct": 47.8,
+        "excerpts": [
+          "The vehicle exhibits a chronic, systemic electrical failure characterized by the intermittent loss of critical lighting systems, including turn signals and brake lights. This failur5e has persisted ov",
+          "The contact owns a 2017 KIA Forte. The contact stated while operating the vehicle at an undisclosed speed, the vehicle was misfiring, severely shaking and was losing motive power suddenly while operat",
+          "The contact owns a 2017 Kia Forte. The contact stated that while driving at 30 MPH, there was an abnormal screeching sound coming from the engine. There was no warning light illuminated. The contact a"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 46,
+        "share_pct": 15.3,
+        "excerpts": [
+          "The vehicle exhibits a chronic, systemic electrical failure characterized by the intermittent loss of critical lighting systems, including turn signals and brake lights. This failur5e has persisted ov",
+          "The headlights and dashboard lose power intermittently while driving at highway speeds, specifically triggered by using the turn signal. This is ongoing since January when I started having to take it ",
+          "I have 2 problems with my 2017 Kia Forte sedan: 1) They have put an \"environmentally friendly\" coating on the wire harnesses under the front hood of the engine which emits a vanilla scent when warm an"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 43,
+        "share_pct": 14.3,
+        "excerpts": [
+          "The headlights and dashboard lose power intermittently while driving at highway speeds, specifically triggered by using the turn signal. This is ongoing since January when I started having to take it ",
+          "I am writing to you today regarding a persistent issue I'm experiencing with my 2017 Kia Forte. On several occasions, while driving at various speeds and coming to a stop, the vehicle has stalled. Eac",
+          "Car steers to tilting directions. Doesn't drive straight especially on the highway. Headlights are horrible."
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 29,
+        "share_pct": 9.6,
+        "excerpts": [
+          "My vehicle caught fire while driving also before fire vehicle started popping and stuttering rattling sound. I was on highway.",
+          "About September 6th I was driving my vehicle. It is a blue Kia forte 2017. I just had cleaned it at a local car wash. Prior to this 1-2 weeks before my ac had just started to blow hot air. So I rechar",
+          "There is high oil consumption in my catalytic converter due to a failed oil pump or piston ring. I've just got this car in march haven't even put 10,000 miles on it. Kept up with maintenance oil chang"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 18,
+        "share_pct": 6,
+        "excerpts": [
+          "Kia has common problems on the airbags even tho my air bags is good but I want to still check it",
+          "There are 3 recalls on my engine type but kia dealership says no recalls,#21V6220000,#22V031000,#21V260000. ENGINE TYOE 2.0L NU MPI ENGINE(SC210),MY ph#XXX  INFORMATION REDACTED PURSUANT TO THE FREEDO",
+          "-Airbags did not deploy. -The car is available for inspection. -The driver was put at significant risk after the vehicle accidentally slid on ice while navigating a sharp curve, causing it to veer off"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 23,
+      "fires": 9,
+      "injuries": 21,
+      "deaths": 4
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 15
+      },
+      {
+        "year": 2018,
+        "count": 24
+      },
+      {
+        "year": 2019,
+        "count": 32
+      },
+      {
+        "year": 2020,
+        "count": 35
+      },
+      {
+        "year": 2021,
+        "count": 37
+      },
+      {
+        "year": 2022,
+        "count": 47
+      },
+      {
+        "year": 2023,
+        "count": 41
+      },
+      {
+        "year": 2024,
+        "count": 23
+      },
+      {
+        "year": 2025,
+        "count": 37
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "22V031000",
+        "component": "AIR BAGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2017-2019 Sedona, Soul, Soul EV, 2017-2018 Forte, and 2017 Forte Koup vehicles.  The Air Bag Control Unit (ACU) cover may contact a memory chip on the printed circuit board and damage the electrical circuit.  Circuit damage may result in deactivated air ",
+        "report_date": "25/01/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V622000",
+        "component": "LATCHES/LOCKS/LINKAGES:TRUNK LID:LATCH",
+        "summary": "Kia Motors America (Kia) is recalling certain 2016-2018 Forte 4-door, Forte Koup 2-door, and 2018-2019 Rio 4-door vehicles.  The trunk latch may become damaged, preventing the opening of the trunk from the inside.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle",
+        "report_date": "09/08/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V260000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION:PUMP",
+        "summary": "Kia Motors America (Kia) is recalling certain 2017-2018 Forte vehicles equipped with a 2.0L Nu MPI engine.  Foreign particles may stick inside the oil pump, which may cause an oil pump failure and engine damage.",
+        "report_date": "13/04/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:31.598Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

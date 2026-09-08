@@ -1,0 +1,116 @@
+{
+  "slug": "2021-toyota-corolla",
+  "year": 2021,
+  "make": "Toyota",
+  "model": "Corolla",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 185,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 52,
+        "share_pct": 28.1,
+        "excerpts": [
+          "The contact owns a 2021 Toyota Corolla. The contact stated that while his son was driving at 3 MPH, they were rear-ended by a BMW X5 and pushed forward, crashing into a Ford Explorer. No warning light",
+          "On December 12, 2025, I was in a head on car accident in my 2021 Toyota Corolla nightshade. I was slammed into the steering wheel which caused injury. My car has over $14,000 worth of damage to the fr",
+          "I am filing this complaint regarding an unresolved safety recall affecting my 2021 Toyota Corolla. The recall involves the airbag ECU and has rendered the vehicle ineligible for rental on platforms li"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 40,
+        "share_pct": 21.6,
+        "excerpts": [
+          "This Toyota Corolla hatchback is experiencing an issue where it is constantly giving an “ENGINE MAINTENANCE REQUIRED” light and when scanned, it says “coolant bypass valve malfunction”.   There is alr",
+          "Notification spontaneously received as Engine Maintenance Required; Visit Your Dealer.  Service appointment immediately scheduled for Toyota of Plano for the following day.  My service advisor recomme",
+          "The coolant bypass valve issue"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 22,
+        "share_pct": 11.9,
+        "excerpts": [
+          "This Toyota Corolla hatchback is experiencing an issue where it is constantly giving an “ENGINE MAINTENANCE REQUIRED” light and when scanned, it says “coolant bypass valve malfunction”.   There is alr",
+          "The vehicle displays an “Engine Maintenance Required” warning message shortly after the air conditioning is turned on. The warning does not usually appear immediately at startup but consistently appea",
+          "Coolant bypass valve has shorted out. “Engine maintenance required” notification popped up on the gauge cluster"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 19,
+        "share_pct": 10.3,
+        "excerpts": [
+          "The contact owns a 2021 Toyota Corolla.  The contact stated that while driving in third gear, the vehicle failed to shift into a lower gear and became stuck in Neutral.  The vehicle was towed to an in",
+          "The contact owns a 2021 Toyota Corolla. The contact stated that while driving 10 MPH and depressing the accelerator pedal, the vehicle failed to respond and remained in first gear. The contact shifted",
+          "Clutch pedal kept sticking to floor. Eventually the pedal did not return at all. Concentric slave cylinder failed and brake fluid leaking in bell housing.   Dealer stated:   found slave cylinder insid"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 15,
+        "share_pct": 8.1,
+        "excerpts": [
+          "During the lower interval settings, wipers will not work in proper order. Sometimes you may get three quick wipes and them the wipers will stop in middle of windshield for about 5-8 seconds. Sometimes",
+          "The problem of windshield wipers going off either once, or at varying speeds has not been able to be reproduced by my Toyota dealership. It goes off right when I turn the car on 50% of the time and is",
+          "When the windshield wipers are set to intermittent they would swipe as if they were set to lo and then they would come to a complete stop at a 45° angle sometimes starting up again but other times I w"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 18,
+      "fires": 2,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 2
+      },
+      {
+        "year": 2021,
+        "count": 27
+      },
+      {
+        "year": 2022,
+        "count": 16
+      },
+      {
+        "year": 2023,
+        "count": 24
+      },
+      {
+        "year": 2024,
+        "count": 47
+      },
+      {
+        "year": 2025,
+        "count": 45
+      },
+      {
+        "year": 2026,
+        "count": 24
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "23V865000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020-2021 Avalon, Avalon Hybrid, Corolla, Highlander, Highlander Hybrid, RAV4, RAV4 Hybrid, Lexus ES350, Lexus RX350, Lexus RX450H, 2021 Sienna Hybrid, Lexus ES250, 2020-2022 Camry, Camry Hybrid, and ES300H vehicles.  A short cir",
+        "report_date": "20/12/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:05:31.346Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

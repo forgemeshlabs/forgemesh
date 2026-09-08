@@ -1,0 +1,168 @@
+{
+  "slug": "2011-kia-soul",
+  "year": 2011,
+  "make": "Kia",
+  "model": "Soul",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 194,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 45,
+        "share_pct": 23.2,
+        "excerpts": [
+          "The contact owns a 2011 Kia Soul. The contact stated that while her husband was at a stop sign, the vehicle suddenly shut off. The vehicle was successfully jump-started; however, after driving approxi",
+          "The contact owns a 2011 Kia Soul. The contact received notification of NHTSA Campaign Number: 23V652000 (Service Brakes, Hydraulic); however, the part to do the recall repair was unavailable. The cont",
+          "The contact owned a 2011 Kia Soul. The contact stated that the vehicle was parked overnight on his driveway, caught on fire, and exploded in the early morning. The fire started from the engine bay. Th"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 32,
+        "share_pct": 16.5,
+        "excerpts": [
+          "The contact owns a 2011 Kia Soul. The contact stated that while her husband was at a stop sign, the vehicle suddenly shut off. The vehicle was successfully jump-started; however, after driving approxi",
+          "The contact owns a 2011 Kia Soul. The contact received notification of NHTSA Campaign Number: 23V652000 (Service Brakes, Hydraulic); however, the part to do the recall repair was unavailable. The cont",
+          "The contact owns a 2011 Kia Soul. The contact stated that the MIL warning light was illuminated. The vehicle was taken to the dealer and repaired under NHTSA Campaign Number: 23V652000 (Service Brakes"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 30,
+        "share_pct": 15.5,
+        "excerpts": [
+          "The contact owns a 2011 Kia Soul. The contact stated that while her husband was at a stop sign, the vehicle suddenly shut off. The vehicle was successfully jump-started; however, after driving approxi",
+          "Recall #23V652000-Faulty fuse can cause fire while parked or driving.  I was advised by letter from KIA in November 2023  that due to this defect, the vehicle should be parked outside and not driven u",
+          "Solo. NO quiso correr"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 26,
+        "share_pct": 13.4,
+        "excerpts": [
+          "The contact owns a 2011 Kia Soul. The contact stated that the airbag warning light was illuminated, indicating that the airbag system was inoperative. The vehicle was taken to a local dealer, where it",
+          "This vehicle had just passed a inspection for me to get it licensed and Kentucky. There was no light showing that the airbags would not work. Unfortunately, this vehicle is not available.I had reached",
+          "The contact owned a 2011 Kia Soul. The contact stated that while driving at 63 MPH, an object hit the vehicle's front, driver-side tire which caused the contact to lose control of the vehicle. Due to "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 24,
+        "share_pct": 12.4,
+        "excerpts": [
+          "Engine is going excessive through oil .",
+          "Solo. NO quiso correr",
+          "Failure to fix the engine repair causing fires"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 27,
+      "fires": 5,
+      "injuries": 29,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 22
+      },
+      {
+        "year": 2012,
+        "count": 17
+      },
+      {
+        "year": 2013,
+        "count": 12
+      },
+      {
+        "year": 2014,
+        "count": 12
+      },
+      {
+        "year": 2015,
+        "count": 21
+      },
+      {
+        "year": 2016,
+        "count": 9
+      },
+      {
+        "year": 2017,
+        "count": 9
+      },
+      {
+        "year": 2018,
+        "count": 11
+      },
+      {
+        "year": 2019,
+        "count": 11
+      },
+      {
+        "year": 2020,
+        "count": 10
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 28
+      },
+      {
+        "year": 2024,
+        "count": 22
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "14V822000",
+        "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2010-2013 Kia Soul vehicles manufactured January 8, 2009, to October 2, 2013, equipped with a sun roof.  A headliner plate may detach during deployment of the curtain air bag.",
+        "report_date": "29/12/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V114000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Kia Motors Corporation (Kia) is recalling certain model year 2007-2010 Rondo, model year 2007-2011 Sedona, Sorento and Sportage, model year 2010-2011 Soul, model year 2008-2011 Optima, model year 2010 Forte, model year 2007-2009 Amanti, and model year 2009 Borrego vehicles.  Originally, in April 201",
+        "report_date": "01/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V652000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2010-2019 Borrego, 2014-2016 Cadenza, 2010-2013 Forte, Forte Koup, Sportage, 2015-2018 K900, 2011-2015 Optima, 2011-2013 Optima Hybrid, Soul, 2012-2017 Rio, 2011-2014 Sorento, and 2010-2011 Rondo vehicles.  The Hydraulic Electronic Control Unit (HECU) may",
+        "report_date": "25/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:54:38.067Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "2020-dodge-charger",
+  "year": 2020,
+  "make": "Dodge",
+  "model": "Charger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 57,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 36,
+        "share_pct": 63.2,
+        "excerpts": [
+          "The contact owns a 2020 Dodge Charger. The contact received notification of NHTSA Campaign Number: 24V198000 (Air Bags). The vehicle was taken to the dealer, who initially informed the contact that pa",
+          "The contact owns a 2020 Dodge Charger. The contact received notification of NHTSA Campaign Number: 24V198000 (Air Bags); however, the part to do the recall repair was not yet available. The local deal",
+          "While driving under normal conditions with no collision or impact, the side curtain airbag in my Dodge Charger Scat Pack deployed spontaneously. The deployment caused the headliner and pillar trim to "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 6,
+        "share_pct": 10.5,
+        "excerpts": [
+          "The A/C evaporator core in my 2020 Dodge Charger Hellcat has failed twice within a short period of ownership. The first failure occurred at approximately 20K miles in 2022, when the air conditioning s",
+          "The vehicle was sold under deceptive business practices. I inspected the vehicle and seen the tire (side wall) was badly damaged and the vehicle did not even run as mentioned in the description. The s",
+          "Through conversations with a Dodge Certified Tech, this is ongoing and known issue with Dodge (RAM) trucks, dodge chargers etc.  Curious as to why a safety recall has not been issued, with reports and"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 6,
+        "share_pct": 10.5,
+        "excerpts": [
+          "Shows a recall that could cause me and kids harm but says unavailable remedy. Now I’m feeling paranoid driving",
+          "The contact owns a 2020 Dodge Charger. The contact stated while driving at an undisclosed speed, the vehicle lost automotive power and the steering wheel would seize with no warning light illuminated.",
+          "Dodge has acknowledged a known issue impacting paddle shift equipped Chargers and Challengers. When using paddle shifters, the engine will downshift when the driver upshifts, sometimes causing torque "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 3,
+        "share_pct": 5.3,
+        "excerpts": [
+          "Shows a recall that could cause me and kids harm but says unavailable remedy. Now I’m feeling paranoid driving",
+          "My car begin to run hot. I bought my car into the dealer the next day. There is oil mix with the coolant. No warning light came on. According to the mechanic, I need a new engine.",
+          "While traveling on the highway at approx. 70mph at night the vehicle shutdown completely resulting in the loss of throttle, power steering and lights.  This is an safety issue that can cause death or "
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 2,
+        "share_pct": 3.5,
+        "excerpts": [
+          "While driving under normal conditions with no collision or impact, the side curtain airbag in my Dodge Charger Scat Pack deployed spontaneously. The deployment caused the headliner and pillar trim to ",
+          "Water getting into my passenger side headlight after 30,000 miles."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 2,
+      "injuries": 7,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 2
+      },
+      {
+        "year": 2021,
+        "count": 7
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2024,
+        "count": 24
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "20V512000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018-2020 Dodge Charger Pursuit vehicles equipped with a \"stealth mode.\"  When stealth mode is selected, the backup camera rearview image will not display when the vehicle is in reverse.  As such, these vehicles fail to comply with the requirements of Feder",
+        "report_date": "27/08/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V516000",
+        "component": "VISIBILITY:WINDSHIELD",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2021 Dodge Challenger, Dodge Charger, and Chrysler 300 vehicles.  During manufacturing, the windshield may not have been properly bonded to the vehicle, allowing it to detach in a crash.  As such, these vehicles fail to comply with the requirements of",
+        "report_date": "08/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V198000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN:INFLATOR",
+        "summary": "Chrysler (FCA US, LLC) (Stellantis) is recalling certain 2018-2021 Dodge Charger and Chrysler 300 vehicles.  The right and left side curtain air bag inflators may rupture due to a manufacturing defect.",
+        "report_date": "14/03/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:05:01.292Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

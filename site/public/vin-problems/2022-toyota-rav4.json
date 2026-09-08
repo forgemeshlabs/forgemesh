@@ -1,0 +1,108 @@
+{
+  "slug": "2022-toyota-rav4",
+  "year": 2022,
+  "make": "Toyota",
+  "model": "RAV4",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 144,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 38,
+        "share_pct": 26.4,
+        "excerpts": [
+          "Idling, received a warning of \"engine stopped. steering power low\".  Trying to restart the car - it would start up then immediately shut down w/ the same error.  Letting it sit for 15 minutes allowed ",
+          "While driving at highway speeds, the moonroof suddenly and spontaneously exploded without being struck by any visible road debris or external objects. After safely pulling over and shutting the vehicl",
+          "had parking brake malfunction. The wheels locked up could not move my care either forward or backward this was the second time within 8 month period. the failure was due to the parking break actuator."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 27,
+        "share_pct": 18.8,
+        "excerpts": [
+          "Idling, received a warning of \"engine stopped. steering power low\".  Trying to restart the car - it would start up then immediately shut down w/ the same error.  Letting it sit for 15 minutes allowed ",
+          "The contact owns a 2022 Toyota Rav4. The contact stated that the economy feature disengaged while driving. While the lane assist was activated, the vehicle drifted over into another lane. The engine w",
+          "TSB T-SB-0010-24 P0303 code 163,000 miles Toyota denied goodwill assistance Cost: $2,549.65  Check engine light came on with vehicle hesitation on acceleration almost caused to stall with reduced powe"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 20,
+        "share_pct": 13.9,
+        "excerpts": [
+          "Idling, received a warning of \"engine stopped. steering power low\".  Trying to restart the car - it would start up then immediately shut down w/ the same error.  Letting it sit for 15 minutes allowed ",
+          "The contact owns a 2022 Toyota Rav4. The contact stated that while driving at an undisclosed speed, the vehicle lost automotive power, and the \"Low Steering\" message was displayed on the instrument pa",
+          "After driving for approximately 30-minutes in a heavy rain i pulled over and the automatic engine shutoff feature activated while i was waiting to go inside for an appointment. When attempting to rest"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 18,
+        "share_pct": 12.5,
+        "excerpts": [
+          "My 2022 Toyota RAV4 has experienced failures of the power door lock actuators on both front doors. Neither the driver's side nor the front passenger door consistently locks or unlocks using the key fo",
+          "The contact owns a 2022 Toyota RAV4. The contact stated that while driving at various speeds during rainy weather conditions, water would leak inside the front driver-side door and puddle. The vehicle",
+          "When I put my car on park. The driver side (left door) lock actuator makes a long click noise. Also when I press on unlock it makes that sound as well"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 11,
+        "share_pct": 7.6,
+        "excerpts": [
+          "A whining noise from a 2022 Toyota RAV4 LE transmission during acceleration often points",
+          "Driving up a slope of about 20-30 degrees gradient of a straight lane going into a private parking lot. Braked and decided to make a 3-point turn to get back out. There was no traffic in the lane. Put",
+          "The contact owns a 2022 Toyota Rav4. The contact stated that on several occasions while driving at undisclosed speeds and accelerating, the transmission momentarily shifted into 2nd gear and then into"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 14,
+      "fires": 0,
+      "injuries": 12,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2022,
+        "count": 24
+      },
+      {
+        "year": 2023,
+        "count": 27
+      },
+      {
+        "year": 2024,
+        "count": 27
+      },
+      {
+        "year": 2025,
+        "count": 32
+      },
+      {
+        "year": 2026,
+        "count": 34
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "22V519000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022 Rav4, Rav4 Hybrid, and Rav4 Prime vehicles.  The front passenger seat may have been assembled with interference between internal parts that may cause the Occupant Classification System (OCS) sensor to incorrectly detect the ",
+        "report_date": "21/07/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:07:37.920Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2020-hyundai-santa-fe",
+  "year": 2020,
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 206,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 74,
+        "share_pct": 35.9,
+        "excerpts": [
+          "Hyundai Motor America & Wallace Hyundai of StuartVEHICLE: 2020 Hyundai Santa Fe (2.4L Theta II GDI Engine)VIN: 5NMS23AD5LH181669INCIDENT MILEAGE: 181,000 MiHYUNDAI CASE NUMBER: 42981944SECTION 1: CATA",
+          "My car is consuming an immense amount of oil, the manufacturer recommends oil changes every 7,500 miles, I get an oil change less than 3,000 miles and on my last oil change i was told that there are o",
+          "2020 HYUNDAI SANTA FE SEL WITH 2.4L THETA II ENGINE EXPERIENCES SEVERE OIL CONSUMPTION AND REPEATED ENGINE STALLING DURING NORMAL OPERATION.  THE VEHICLE HAS A DOCUMENTED HISTORY OF REPEATED LOW-OIL C"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 26,
+        "share_pct": 12.6,
+        "excerpts": [
+          "Hyundai Motor America & Wallace Hyundai of StuartVEHICLE: 2020 Hyundai Santa Fe (2.4L Theta II GDI Engine)VIN: 5NMS23AD5LH181669INCIDENT MILEAGE: 181,000 MiHYUNDAI CASE NUMBER: 42981944SECTION 1: CATA",
+          "My car is consuming an immense amount of oil, the manufacturer recommends oil changes every 7,500 miles, I get an oil change less than 3,000 miles and on my last oil change i was told that there are o",
+          "The contact owns a 2020 Hyundai Santa Fe. The contact stated that while driving at an undisclosed speed, the accelerator pedal was depressed; however, the vehicle failed to accelerate as intended. The"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 25,
+        "share_pct": 12.1,
+        "excerpts": [
+          "The multifunction/turn signal switch in my Hyundai has failed and causes the left turn signal to operate intermittently. While driving, I am unable to reliably activate the left turn signal when makin",
+          "I went to the store, came home , parked and turned off the car. Went to go outside about 10 minutes ,maybe. Black smoke coming from right front. By the time i grabbed the keys and fire extinguisher th",
+          "Vehicle experiences severe, intermittent, un-commanded steering inputs from the Lane Keeping Assist (LKA) system at highway speeds (55-70 MPH). The steering wheel violently jerks toward adjacent traff"
+        ]
+      },
+      {
+        "component": "VISIBILITY",
+        "complaints": 14,
+        "share_pct": 6.8,
+        "excerpts": [
+          "The contact owns a 2020 Hyundai Santa Fe. The contact received notification of NHTSA Campaign Number: 21V00M000 (Visibility); however, the part to do the recall repair was not yet available. The local",
+          "The contact owns a 2020 Hyundai Santa Fe. The contact stated that while driving 50-55 MPH, the sunroof made an abnormal, exploding sound and shattered. The shade cover was closed during the failure. T",
+          "The contact owns a 2020 Hyundai Santa Fe. The contact stated that while his wife was driving approximately 60 MPH, the sunroof shattered outward. The contact stated that his wife was able to drive the"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 14,
+        "share_pct": 6.8,
+        "excerpts": [
+          "I am reporting severe safety risks and inspection fraud on my AWD 2020 Hyundai Santa Fe (VIN: [XXX]) caused by Universal Hyundai in Orlando. Inspection Fraud: The dealer falsified safety metrics, mark",
+          "Just read possible recalls on Hyundai Santa Fe's 2025 and 2026's. Just spent $1727.68 at  the Hyundai dealership in Gilbert, AZ to replace the front camera do to the faults showing up on the dash. By ",
+          "I was at a standstill waiting for oncoming traffic to pass with my foot on the brake and all of a sudden the car accelerated and the forward collision warning fail to come on and I hit a trailer becau"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 13,
+      "fires": 8,
+      "injuries": 15,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 16
+      },
+      {
+        "year": 2021,
+        "count": 19
+      },
+      {
+        "year": 2022,
+        "count": 27
+      },
+      {
+        "year": 2023,
+        "count": 33
+      },
+      {
+        "year": 2024,
+        "count": 20
+      },
+      {
+        "year": 2025,
+        "count": 52
+      },
+      {
+        "year": 2026,
+        "count": 38
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "21V00M000",
+        "component": "VISIBILITY:WINDSHIELD",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2020-2021 Santa Fe, 2021 Sonata, and Elantra vehicles.  During manufacturing, the windshield may not have been properly bonded to the vehicle, allowing it to detach in a crash.",
+        "report_date": "28/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V181000",
+        "component": "TRAILER HITCHES",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2019-2023 Santa Fe, 2021-2023 Santa Fe HEV, 2022-2023 Santa Fe Plug-in HEV and Santa Cruz vehicles potentially equipped with a tow hitch harness installed as original equipment, or purchased as an accessory through a Hyundai dealership.  Water acc",
+        "report_date": "17/03/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:29.187Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

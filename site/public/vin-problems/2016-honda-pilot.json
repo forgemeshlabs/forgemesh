@@ -1,0 +1,196 @@
+{
+  "slug": "2016-honda-pilot",
+  "year": 2016,
+  "make": "Honda",
+  "model": "Pilot",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1691,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 763,
+        "share_pct": 45.1,
+        "excerpts": [
+          "A critical failure in the direct fuel injection system caused severe engine misfiring, sudden loss of drive power, and a cascade failure that disabled safety systems during vehicle operation. Diagnost",
+          "I was driving home from a road trip with my family of four, and I noticed that when I accelerated, the engine made a knocking noise. Prior to this, I had driven the car about 300 miles that day with n",
+          "I am a [XXX] female driver in northern [XXX], and I am driving a 2016 Honda Pilot that is suffering from severe, documented engine failure symptoms that Honda refuses to address. The vehicle is produc"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 579,
+        "share_pct": 34.2,
+        "excerpts": [
+          "The contact owns a 2016 Honda Pilot. The contact stated that upon starting the vehicle, there was an abnormal dinging sound coming from the vehicle, and the ignition control, stability control, power ",
+          "Vehicle flashing warning signs for multiple system functions including battery and mechanical, forcing driver to pull over, unable to put vehicle in neutral to tow. Took vehicle to Honda dealership in",
+          "The contact purchased a 2016 Honda Pilot. The vehicle was a dealer sale on July 7, 2026. At the time of the sale, the odometer reading was 89,991. The contact later purchased an Auto Track and Carfax "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 198,
+        "share_pct": 11.7,
+        "excerpts": [
+          "The contact owns a 2016 Honda Pilot. The contact stated that while driving at an undisclosed speed, the contact became aware that the transmission was slipping. The contact stated that the failure had",
+          "The contact owns a 2016 Honda Pilot. The contact stated that while driving at 35 MPH, the vehicle was abnormally jolting and sputtering. The contact stated that the engine warning light was activating",
+          "I heard knocking as I was leaving gas station. I was scared about what was going wrong and if it was safe to drive home.  I was alone and it was after dark.  I took the next day off and took the car t"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 169,
+        "share_pct": 10,
+        "excerpts": [
+          "A critical failure in the direct fuel injection system caused severe engine misfiring, sudden loss of drive power, and a cascade failure that disabled safety systems during vehicle operation. Diagnost",
+          "Unknown",
+          "The vehicle sputtered and stalled on the highway. I was able to restart after a few minutes and then it stalled again. I was able to get it to a repair shop after stalling about 3 times on the way. Th"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 53,
+        "share_pct": 3.1,
+        "excerpts": [
+          "Taligate is rusting through near the handle as well as around the right taillight. Another recall for this exact issue is in place for the same year/make/model, yet my vehicle is not included in the r",
+          "no incident : recall that was done on hood. gas cap/lid doesn't close tightly Hood looks like it going to open , left side front end lifts when driving on freeway, Honda of the Desert replaced latch b",
+          "The contact owns a 2016 Honda Pilot. The contact stated that while driving at slow and moderate speeds, the transmission was slipping, and the vehicle lurched and jerked. The failure was more evident "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 23,
+      "fires": 9,
+      "injuries": 20,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 17
+      },
+      {
+        "year": 2016,
+        "count": 68
+      },
+      {
+        "year": 2017,
+        "count": 49
+      },
+      {
+        "year": 2018,
+        "count": 123
+      },
+      {
+        "year": 2019,
+        "count": 262
+      },
+      {
+        "year": 2020,
+        "count": 176
+      },
+      {
+        "year": 2021,
+        "count": 139
+      },
+      {
+        "year": 2022,
+        "count": 227
+      },
+      {
+        "year": 2023,
+        "count": 149
+      },
+      {
+        "year": 2024,
+        "count": 190
+      },
+      {
+        "year": 2025,
+        "count": 203
+      },
+      {
+        "year": 2026,
+        "count": 87
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "17V219000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2016 Honda Pilot 2WD and AWD vehicles.  The affected vehicles have fuel tanks that may leak.",
+        "report_date": "30/03/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V417000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2015 Acura MDX 2WD and MDX 4WD vehicles, 2016 Acura MDX 4WD vehicles, 2015-2016 Honda Odyssey vehicles, and 2016 Honda Pilot 2WD and 4WD vehicles.  The affected vehicles have fuel tanks that were manufactured with insufficient welds wh",
+        "report_date": "09/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V424000",
+        "component": "SEAT BELTS:REAR/OTHER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2016 Honda Pilot vehicles manufactured May 4, 2015, to June 5, 2015. Due to an assembly issue, the third row seatbelt may be trapped between the rear seat and the rear sideliner.",
+        "report_date": "06/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V668000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2016 Honda Pilot 2WD vehicles manufactured May 4, 2015, to September 8, 2015 and 2016 Pilot 4WD vehicles manufactured May 7, 2015 to September 4, 2015.  In the affected vehicles, when one of the safety systems such as tire pressure mon",
+        "report_date": "16/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V932000",
+        "component": "STRUCTURE:BODY:HOOD",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019 Passport, 2016-2019 Pilot, and 2017-2020 Ridgeline vehicles.  The hood latch striker may become damaged and separate from the hood, which can result in the hood opening while driving.",
+        "report_date": "29/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V751000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2015-2020 Acura TLX, 2016-2020 Acura MDX, 2016 and 2018-2019 Pilot, 2017 and 2019 Ridgeline, and 2018-2019 Odyssey vehicles.  Due to a manufacturing error, the connecting rod bearing in the engine may wear and seize, damaging the engine.",
+        "report_date": "13/11/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V365000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "American Honda Motor Company (Honda) is recalling certain 2016-2022 Honda Pilot, 2017-2023 Ridgeline, 2019-2023 Passport, and 2014-2020 Acura MDX vehicles that were sold in Connecticut, Delaware, District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minne",
+        "report_date": "04/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:43.332Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

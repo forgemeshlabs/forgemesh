@@ -1,0 +1,168 @@
+{
+  "slug": "2013-chevrolet-tahoe",
+  "year": 2013,
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 232,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 56,
+        "share_pct": 24.1,
+        "excerpts": [
+          "The drivers side door handle has broken on my Tahoe.  In the event of having to urgently egress from my vehicle it would be very difficult to do so because of the handle.  Now before you think I'm jus",
+          "My dashboard is completely cracked, and the driver side handle on the inside broke off",
+          "The contact owns a 2013 Chevrolet Tahoe. The contact stated notice that there were cracks on the dashboard by the passenger’s side air bag. The vehicle was taken to the dealer and the dealer stated th"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 51,
+        "share_pct": 22,
+        "excerpts": [
+          "Dealer has advised that replacement of airbag will result in damage to interior parts and trim and that replacement parts are not available and that the dealer will not be responsible for replacement ",
+          "I have a 2013 Chevrolet Tahoe. It is one of the thousands of which the plastic dash has cracked into pieces.My concern is that the loose plastic will hurt someone if the airbag is deployed. GM Should ",
+          "THIS VEHICLE HAS BEEN ON A RECALL FOR AIR BAG SAFETY CONCERN FOR A COUPLE OF YEARS. I HAVE CALLED NUMEROUS TIMES GM CUSTOMER SERVICE AND COMPLAINED THAT MY LOCAL DEALERS REFUSES TO REPLACE THIS ITEM. "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 16,
+        "share_pct": 6.9,
+        "excerpts": [
+          "Odometer Fraud. The contact intended to purchase a 2013 Chevrolet Tahoe.  The contact stated that while inspecting the vehicle, the odometer reading displayed 88,000 miles; however, the Carfax history",
+          "Vehicle randomly throws Stabilitrak, Traction control and ABS codes.  Engine derates to limp mode.  Transmission goes to full line pressure shifts.   A cycle of the ignition system will reset the syst",
+          "Without warning on several occasions the the gps/radio screen, door locks, lights, gauges, etc start cycling and going crazy and power to the vehicle goes on and off. While the electrical storm is hap"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 13,
+        "share_pct": 5.6,
+        "excerpts": [
+          "One day I was driving normal and my engine light and two other lights came on. It dropped my speed under 30mph and I couldn't pass the gas. It said reduced engine power, service stabilitrak and servic",
+          "The contact owns a 2013 Chevrolet Tahoe. The contact stated that upon start of the vehicle, an abnormal ticking sound was coming from the engine compartment. There was no warning light illuminated. Up",
+          "The contact owns a 2013 Chevrolet Tahoe. The contact stated while driving at an undisclosed speed, the vehicle shut-off without warning. Over time, the contact became unable to restart the vehicle aft"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 9,
+        "share_pct": 3.9,
+        "excerpts": [
+          "Transmission, vehicle stops functioning without notice on the road while driving acceleration stops. The problem was confirmed to be a transmission failure by chevrolet. The inspection was done by che",
+          "I RECEIVED RECALL AND I CALL MY GM DEALER AND THEY HAVE NOT YET CALLED ME AS OF TODAY TO GET THIS RECALL DONE.  THEY TOLD ME THAT THE PARTS ARE NOT IN AND IT HAS BEEN ALREADY 3 MONTHS SINCE THEN.",
+          "FIRST WAS THE INFOTAINMENT CENTER THAT WENT OUT AFTER THE FIRST WEEK OF OWNING AND THEY WANTED ME TO PAY HALF FOR A NEW ONE ($800). CONTACTED GM AND THEY PAID ME BACK. NEXT WAS THE BLACK COLORING ON A"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 0,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 3
+      },
+      {
+        "year": 2014,
+        "count": 13
+      },
+      {
+        "year": 2015,
+        "count": 24
+      },
+      {
+        "year": 2016,
+        "count": 44
+      },
+      {
+        "year": 2017,
+        "count": 44
+      },
+      {
+        "year": 2018,
+        "count": 33
+      },
+      {
+        "year": 2019,
+        "count": 23
+      },
+      {
+        "year": 2020,
+        "count": 12
+      },
+      {
+        "year": 2021,
+        "count": 17
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "13V001000",
+        "component": "STEERING:COLUMN LOCKING:ANTI-THEFT DEVICE",
+        "summary": "General Motors (GM) is recalling certain model year 2013 Cadillac Escalade, Escalade ESV, and Escalade EXT; Chevrolet Avalanche, Express, Silverado HD, Silverado LD, Suburban, and Tahoe; and GMC Savana, Sierra HD, Sierra LD, Yukon, and Yukon XL vehicles, manufactured between November 7, 2012, throug",
+        "report_date": "02/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V614000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2013-2014 Cadillac CTS, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, GMC Yukon, and Yukon XL, and 2014 Buick Enclave, Chevrolet Express, Impala, Silverado HD, Traverse, GMC Acadia, Savana, and Sierra HD vehicles.  In the affected vehicles",
+        "report_date": "01/10/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V053000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2013 Cadillac Escalade, Escalade ESV, and Escalade EXT, Chevrolet Avalanche, Silverado 1500, Silverado 2500/3500, Suburban, Tahoe, GMC Sierra 1500, Sierra 2500/3500, Yukon, and Yukon XL vehicles originally sold, or ever registered, in the states of Alaba",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V054000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014 Cadillac Escalade, Escalade ESV, Chevrolet Silverado 2500, Silverado 3500, Suburban, Tahoe, GMC Sierra 2500, Sierra 3500, Yukon, and Yukon XL vehicles originally sold, or ever registered, in the states of AL, CA, FL, GA, HI, LA, MS, SC, TX, PR, AS, ",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:31.667Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

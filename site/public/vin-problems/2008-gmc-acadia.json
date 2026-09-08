@@ -1,0 +1,204 @@
+{
+  "slug": "2008-gmc-acadia",
+  "year": 2008,
+  "make": "GMC",
+  "model": "Acadia",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 858,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 279,
+        "share_pct": 32.5,
+        "excerpts": [
+          "Transmissions will not shift out of 1st gear. And puts out a 752 code. This can happen at anytime. Vehicle will suddenly lose power at any time.",
+          "Check engine light came on for the TCM. Car has had issues shifting (very rough shifting) and the manual shift option does not work. Was told the TCM had to be replaced. Attempt was made to replace it",
+          "'SERVICE AIR BAG' HAD BEEN ON MY COMPUTER SCREEN FOR A FEW DAYS AND ISN'T GOING OFF. I PURCHASED THIS VEHICLE USED AND THEY TOLD ME IT MEANS SOMETHING IS UNPLUGGED. I TOOK IT BACK ONLY TO HAVE IT COME"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 154,
+        "share_pct": 17.9,
+        "excerpts": [
+          "The contact owns a 2008 GMC Acadia. The contact stated that while driving at an undisclosed speed, the driver’s side air bags deployed; however, the vehicle was not involved in a crash. The contact st",
+          "Lifegate wont open all the way airbag light is on and truck shimmering when I drive it",
+          "Lift gate closes by itself I have to put a pole to hold it up and it won’t hit me, it says the air bags needs to be serviced, stabilitrak keeps going off, ball bearing needs work. Radio won’t turn on "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 154,
+        "share_pct": 17.9,
+        "excerpts": [
+          "Lift gate closes by itself I have to put a pole to hold it up and it won’t hit me, it says the air bags needs to be serviced, stabilitrak keeps going off, ball bearing needs work. Radio won’t turn on ",
+          "The contact owns a 2008 GMC Acadia. The contact stated that while her daughter-in-law was driving at an undisclosed speed, the vehicle made a popping sound, and then the fuse box near the passenger's ",
+          "The contact owns a 2008 GMC Acadia. The contact stated that the battery had previously been replaced; however, the battery failed to retain a charge. The contact had to recharge the battery every day "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 133,
+        "share_pct": 15.5,
+        "excerpts": [
+          "The contact owns a 2008 GMC Acadia. The contact stated that while driving at an undisclosed speed, the power steering assist failed, and the steering wheel locked up. The contact's father, who is an i",
+          "VEHICLE WILL CUT OFF,  STILL RUNS AFTER SWITCH IS OFF,  WHEN MAKING A TURN POPPING IN THE WHEEL,  STEERING GETS HARD WHEN MAKING A TURN,  SOMETHING KILLS BATTERY AND IT LEAKS INSIDE,  THIS HAPPENS WHE",
+          "I WAS DRIVING DOWN THE HIGHWAY AND THE STABILITRAK TURNED ITSELF OFF AND A WARNING LIGHT CAME ON SAYING IT WAS OFF AND TO SERVICE IT. I TRIED TO PUSH THE BUTTON AND IT DID NOTHING AND THEN IT CLEARED "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 124,
+        "share_pct": 14.5,
+        "excerpts": [
+          "The car would not shift causing me to pull over on the side of a highway to restart the car this happened 5 times in a row b4 the car would shift into proper gear",
+          "The traction control turns on and then the shifts don’t work and I can’t drive since there is no speed also the rpm and the gas the speed and the battery gages start flickering up and down then I turn",
+          "Deer hit me on the highway at 2am on December 26th. No air bags deployed."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 22,
+      "fires": 13,
+      "injuries": 38,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 2
+      },
+      {
+        "year": 2003,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 5
+      },
+      {
+        "year": 2008,
+        "count": 39
+      },
+      {
+        "year": 2009,
+        "count": 25
+      },
+      {
+        "year": 2010,
+        "count": 32
+      },
+      {
+        "year": 2011,
+        "count": 50
+      },
+      {
+        "year": 2012,
+        "count": 65
+      },
+      {
+        "year": 2013,
+        "count": 159
+      },
+      {
+        "year": 2014,
+        "count": 137
+      },
+      {
+        "year": 2015,
+        "count": 102
+      },
+      {
+        "year": 2016,
+        "count": 58
+      },
+      {
+        "year": 2017,
+        "count": 48
+      },
+      {
+        "year": 2018,
+        "count": 37
+      },
+      {
+        "year": 2019,
+        "count": 45
+      },
+      {
+        "year": 2020,
+        "count": 21
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "15V415000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2008-2012 Buick Enclave vehicles manufactured January 3, 2007, to February 29, 2012, 2009-2012 Chevrolet Traverse vehicles manufactured July 6, 2008, to March 9, 2012, 2007-2012 GMC Acadia vehicles manufactured September 15, 2006, to February 2",
+        "report_date": "30/06/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V118000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2008-2013 Buick Enclave and GMC Acadia and 2009-2013 Chevrolet Traverse and 2008-2010 Saturn Outlook vehicles.  In the affected vehicles, increased resistance in the driver and passenger seat mounted side impact air bag (SIAB) wiring harnesses ",
+        "report_date": "17/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V441000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "GM IS RECALLING 857,735 MY 2006-2008 BUICK LUCERNE; CADILLAC DTS; HUMMER H2; MY 2007-2008 CADILLAC ESCALADE, ESCALADE ESV, ESCALADE EXT; CHEVROLET AVALANCHE, SILVERADO, SUBURBAN, TAHOE; GMC ACADIA, SIERRA, YUKON, YUKON XL, SATURN OUTLOOK; AND MY 2008 BUICK ENCLAVE VEHICLES EQUIPPED WITH A HEATED WIP",
+        "report_date": "28/08/2008",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V240000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "GM IS RECALLING CERTAIN MODEL YEAR 2006-2009 BUICK, LUCERNE; CADILLAC DTS; HUMMER H2; MODEL YEAR 2008-2009 BUICK ENCLAVE; CADILLAC CTS; MODEL YEAR 2007-2009 CADILLAC ESCALADE, ESCALADE ESV, ESCALADE EXT; CHEVROLET AVALANCHE, SILVERADO, SUBURBAN, TAHOE; GMC ACADIA, SIERRA, YUKON, YUKON XL; SATURN OUT",
+        "report_date": "04/06/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V410000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:LINKAGES",
+        "summary": "GM IS RECALLING 88,809 MY 2008 BUICK ENCLAVE, AND MY 2007-2008 GMC ACADIA AND SATURN OUTLOOK VEHICLES CURRENTLY OR PREVIOUSLY REGISTERED IN THE FOLLOWING STATES:  ALASKA, COLORADO, CONNECTICUT, DELAWARE, IDAHO, ILLINOIS, INDIANA, IOWA, MAINE, MARYLAND, MASSACHUSETTS, MICHIGAN, MINNESOTA, MONTANA, NE",
+        "report_date": "14/08/2008",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:48:10.443Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

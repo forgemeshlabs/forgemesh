@@ -1,0 +1,224 @@
+{
+  "slug": "2008-subaru-outback",
+  "year": 2008,
+  "make": "Subaru",
+  "model": "Outback",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 230,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 107,
+        "share_pct": 46.5,
+        "excerpts": [
+          "The dash pad in the 2005 to 2009 Subaru Legacy and Outback models have a very common problem of deteriorating to where they become sticky and then sections start cracking and falling off. My concern i",
+          "The contact owns a 2008 Subaru Outback. The contact stated while driving approximately 30 MPH, the passenger’s side air bag sensor light remained illuminated. The contact stated that the air bag warni",
+          "Airbag dashboard warning light stayed on while driving on 1/31/2022 and 2/1/2022. Dealer (Autofair Subaru in Haverhill Massachusetts) confirmed there was a problem in the overhead console. Researching"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 34,
+        "share_pct": 14.8,
+        "excerpts": [
+          "Unknown why car sparked & ignited. Car was driven to grocery store 5min away then sat for approx. 2hrs before catching fire.",
+          "Four Subaru dealership licensed service centers in Maine and New Hampshire have had for some 8 weeks my Outback to evaluate, diagnose, and -upon my approval- service. Every one of the four Subaru loca",
+          "The contact owns a 2008 Subaru Outback. The contact stated while driving at an undisclosed speed and attempting to depress the brake pedal, the brakes failed to function. The contact took the vehicle "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 31,
+        "share_pct": 13.5,
+        "excerpts": [
+          "When depressing brakes in driveway pedal went to the floor and brake fluid went all over driveway and car struggled to stop. Upon inspection the junction in picture was heavily corroded and when brake",
+          "Lost use of my brakes. Could have been killed. Recall WQK-47 was improperly addressed by using rust inhibitor as band-aid. My opinion and that of a 25+ year ASE certified mechanic.  I originally wante",
+          "Brakes failed suddenly while on the highway.  Virtually no braking available.  This could have easily resulted in death or serious injury.  Took car to Subaru dealership in Appleton WI.  Found split b"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 15,
+        "share_pct": 6.5,
+        "excerpts": [
+          "The Rear Gate Harness wires that are in the grommet wear and break from the rear gate going up and down. This issue has  many issues. Rear lighting and break light, rear wiper, also rear locking mecha",
+          "SUBARU HAS AN EXTREMELY COMMON FAULTY WIRING ISSUE WITH AN LED PRINTED CIRCUIT BOARD THAT IS PART OF THE AIRBAG WARNING LIGHT SYSTEM THAT RESIDES IN THE MAPLIGHT ASSEMBLY ABOVE THE REAR VIEW MIRROR.  ",
+          "WIRE HARNESS GOING TO REAR HATCH HAD MULTIPLE WIRES SEVERED BY REPEATED OPENING/CLOSING OF REAR HATCH. LOCK AND TAIL LIGHT WIRES WERE BROKEN THOUGH. 4 OTHER WIRES HAD THEIR INSULATION CUT AND THE COND"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 14,
+        "share_pct": 6.1,
+        "excerpts": [
+          "Unknown why car sparked & ignited. Car was driven to grocery store 5min away then sat for approx. 2hrs before catching fire.",
+          "Four Subaru dealership licensed service centers in Maine and New Hampshire have had for some 8 weeks my Outback to evaluate, diagnose, and -upon my approval- service. Every one of the four Subaru loca",
+          "THE TIMING BELT FAILED PREMATURELY. IT HAD BEEN REPLACED AT 70K MILES AND FAILED AT 140K MILES ON THE SECOND BELT WHICH ONLY HAD 70K MILES ON IT VERSUS THE MANUFACTURE RECOMMENDED 100K MILES REPLACEME"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 12,
+      "fires": 3,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 7
+      },
+      {
+        "year": 2008,
+        "count": 9
+      },
+      {
+        "year": 2009,
+        "count": 10
+      },
+      {
+        "year": 2010,
+        "count": 9
+      },
+      {
+        "year": 2011,
+        "count": 6
+      },
+      {
+        "year": 2012,
+        "count": 13
+      },
+      {
+        "year": 2013,
+        "count": 16
+      },
+      {
+        "year": 2014,
+        "count": 20
+      },
+      {
+        "year": 2015,
+        "count": 35
+      },
+      {
+        "year": 2016,
+        "count": 42
+      },
+      {
+        "year": 2017,
+        "count": 13
+      },
+      {
+        "year": 2018,
+        "count": 13
+      },
+      {
+        "year": 2019,
+        "count": 8
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 9
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "20V002000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester, 2003-2006 Baja, 2004-2011 Impreza, 2004-2014 WRX (including STI), 2003-2014 Legacy and Outback, and 2006 Saab 9-2X vehicles originally sold, or ever registered, in the states of Arizona, Arkansas, Delaware, District of Columbi",
+        "report_date": "02/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V003000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester, 2003-2006 Baja, 2004-2011 Impreza, 2004-2014 WRX (including STI), 2003-2014 Legacy and Outback, and 2005-2006 Saab 9-2X vehicles originally sold, or ever registered, in the states of Alaska, Colorado, Connecticut, Idaho, Iowa,",
+        "report_date": "02/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V001000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester, 2003-2006 Baja, 2004-2011 Impreza, 2004-2014 WRX (STI included), 2003-2014 Legacy and Outback, and 2005-2006 Saab 9-2X vehicles originally sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawai",
+        "report_date": "02/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V297000",
+        "component": "ELECTRICAL SYSTEM:IGNITION:SWITCH",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester vehicles, 2008-2011 Impreza vehicles, 2008-2014 WRX vehicles, 2005-2014 Legacy vehicles, 2005-2014 Outback vehicles and 2006-2008 Tribeca vehicles equipped with a mechanical key ignition switch installed as a replacement part. ",
+        "report_date": "11/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V738000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2007-2009 model year Legacy and Outback vehicles, 2008-2014 Impreza vehicles and 2009-2013 Forester vehicles, all equipped with turbo-charged engines.  The relay that controls the secondary air injection pump may fail, causing the pump",
+        "report_date": "13/10/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V323000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2003-2004 Subaru Baja vehicles manufactured January 22, 2003, to July 21, 2004, 2004-2005 Impreza vehicles manufactured January 28, 2003, to May 31, 2005, 2003-2008 Subaru Legacy vehicles manufactured January 22, 2003, to May 2, 2008, ",
+        "report_date": "28/05/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V311000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2005-2009 Outback and Legacy, 2008-2011 Impreza and 2008-2014 Impreza WRX/STI, and 2009-2013 Forester vehicles, currently, or formerly, registered in Connecticut, Delaware, Illinois, Indiana, Iowa, Maine, Maryland, Massachusetts, Michi",
+        "report_date": "10/06/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V110000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Subaru is recalling certain model year 2005-2009 Outback and Legacy vehicles manufactured from December 2003, through April 2009 and currently, or formerly, registered in Connecticut, Delaware, Illinois, Indiana, Iowa, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshire, New",
+        "report_date": "27/03/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:47:26.056Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

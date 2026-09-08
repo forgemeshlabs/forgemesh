@@ -1,0 +1,111 @@
+{
+  "slug": "2020-mazda-cx-5",
+  "year": 2020,
+  "make": "Mazda",
+  "model": "CX-5",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 106,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 30,
+        "share_pct": 28.3,
+        "excerpts": [
+          "The infotainment display screen on my 2020 Mazda CX-5 has suffered a severe hardware failure resulting in un-commanded inputs, commonly known as \"ghost touching.\"  While driving at highway speeds, the",
+          "The vehicle infotainment system including the touchscreen display and Connectivity Master Unit malfunctioned. The touchscreen operates without driver input, the system freezes or glitches, audio activ",
+          "The Smart Brake Support system malfunctioned while driving. The vehicle began shaking and lost power, requiring excessive throttle to move. The car hesitates and may not accelerate normally, creating "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 17,
+        "share_pct": 16,
+        "excerpts": [
+          "Cylinder Head has failed at 53,000 miles. Mazda has a technical service bulletin acknowledging that this is a common occurrence with this part.  They have an extended warranty for the turbo engine but",
+          "The car has signs of current recall in other Cx-5 Models. Hesitation with acceleration or driving at high speed, reduced power, not responding appropriately when accelerating or would accelerate on it",
+          "The Smart Brake Support system malfunctioned while driving. The vehicle began shaking and lost power, requiring excessive throttle to move. The car hesitates and may not accelerate normally, creating "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 14,
+        "share_pct": 13.2,
+        "excerpts": [
+          "While driving on the highway in traffic, I was applying the brakes (slowly and smoothly) and moving with the flow of traffic when the SBS system activated the brakes harshly and slammed me to a stop w",
+          "The Smart Brake Support system malfunctioned while driving. The vehicle began shaking and lost power, requiring excessive throttle to move. The car hesitates and may not accelerate normally, creating ",
+          "I bought this 2020 Mazda CX-5 Sport 2.5L all wheel drive from a big dealership on July 31, 2023. I started having issues with EPB (electronic parking brakes) in February 2024. When I put the e-brakes "
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 11,
+        "share_pct": 10.4,
+        "excerpts": [
+          "While driving on the highway in traffic, I was applying the brakes (slowly and smoothly) and moving with the flow of traffic when the SBS system activated the brakes harshly and slammed me to a stop w",
+          "While driving my vehicle the systems sensors are affected by nearby drivers which cause the car to stall in the middle of traffic going between 40 and 75 miles per hour.",
+          "Forward Smart city brake support malfunction  Camera Sensors Screen Ghost"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 8,
+        "share_pct": 7.5,
+        "excerpts": [
+          "Started smelling burning oil in 2020 Mazda CX-5 non turbo with 34,000 miles.  Auto shop states it is a cracked cylinder that will cost over $7,000 to repair. A Google search shows it is a known issue ",
+          "The contact owned a 2020 Mazda CX-5. The contact stated that while driving under 45 MPH, the TCM received a false data sensor warning, causing the vehicle to enter LIMP Mode. The contact stated that d",
+          "Vehicle suffering from Mazda TSB 05-005/23  Chirping noise from Transaxle on 3rd to 4th gear upshift. Vehicle diagnosed by dealership as needing new Transaxle on 17OCT25. Diagnosis stated issue starte"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 0,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2003,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 15
+      },
+      {
+        "year": 2021,
+        "count": 12
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 19
+      },
+      {
+        "year": 2024,
+        "count": 17
+      },
+      {
+        "year": 2025,
+        "count": 27
+      },
+      {
+        "year": 2026,
+        "count": 10
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T20:04:50.919Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

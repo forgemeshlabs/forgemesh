@@ -1,0 +1,164 @@
+{
+  "slug": "2015-mazda-mazda3",
+  "year": 2015,
+  "make": "Mazda",
+  "model": "Mazda3",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 129,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 26,
+        "share_pct": 20.2,
+        "excerpts": [
+          "Description On 12-15-2025, in 18°F weather, the vehicle was parked on a residential sloped driveway with the manual parking brake fully engaged. While the driver was outside the vehicle, the parking b",
+          "The parking brake does not disengage even after the recall fix was applied. Mazda refuses to look at it any more as the fix has passed your testing despite it not working.",
+          "MY REAR BRAKES ALWAYS SEEM TO BE DRAGGING. THEY MAKE A LOUD GRINDING NOISE AS I EXIT MY NEIGHBORHOOD. AFTER DRIVING A WHILE, THE NOISE IS QUIETER BUT STILL NOTICEABLE. I AM AFRAID OF IT LOCKING UP WHI"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 24,
+        "share_pct": 18.6,
+        "excerpts": [
+          "The Infotainment System will randomly change radio stations while driving, or start scanning through the various system menus, and on at least in one case, started randomly making phone calls from a c",
+          "The Mazda Connect touch screen in the center display may not accept touch commands properly or may operate by itself (ghost touch). The ITO (Indium Tin Oxide) film of the touch screen may be corroded ",
+          "Mazda call this “ghost touch” it happens when the screen starts to act up like crazy, jumping from different audio sources, Bluetooth lose connection, making unwanted phone calls. Almost like a ghost "
+        ]
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "complaints": 12,
+        "share_pct": 9.3,
+        "excerpts": [
+          "The contact owns a 2015 Mazda Mazda3. The contact stated that while driving at various speeds, or while attempting to reverse, the rear camera flashed on and off for approximately five minutes and the",
+          "The contact owns a 2015 Mazda Mazda3. The contact received notification of NHTSA Campaign Number: 23V487000 (BACK OVER PREVENTION). However, the dealer refused to complete the recall repairs due to th",
+          "The contact owns a 2015 Mazda Mazda3. The contact received notification of NHTSA Campaign Number: 23V487000 (Back Over Prevention); however, the part to do the recall repair was unavailable. The local"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 12,
+        "share_pct": 9.3,
+        "excerpts": [
+          "While parked on a slight downhill grade, gasoline started leaking and created a significant puddle on the ground. No warning lamps, messages or other symptoms. An independent service center ran numero",
+          "Fuel leaking out of top of tank. Took car to two different shops. They both told me about a recall on the gas tank. They did every test possible and replaced O ring. Even did smoke evap system test. T",
+          "Catalytic converter keeps giving me check engine"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 6,
+        "share_pct": 4.7,
+        "excerpts": [
+          "Catalytic converter keeps giving me check engine",
+          "The contact owns a 2015 Mazda Mazda3. The contact stated while driving 25 MPH, smoke was coming from under the hood of the vehicle, followed by the vehicle shut down and the check engine warning light",
+          "In February, 2022, my 2015 Mazda 3 experienced a major failure, while I was driving on a local road, going 35 miles per hour.  All of a sudden, the engine lost power, three warning lights came on, and"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 2,
+      "injuries": 9,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 3
+      },
+      {
+        "year": 2015,
+        "count": 15
+      },
+      {
+        "year": 2016,
+        "count": 11
+      },
+      {
+        "year": 2017,
+        "count": 22
+      },
+      {
+        "year": 2018,
+        "count": 12
+      },
+      {
+        "year": 2019,
+        "count": 12
+      },
+      {
+        "year": 2020,
+        "count": 10
+      },
+      {
+        "year": 2021,
+        "count": 3
+      },
+      {
+        "year": 2022,
+        "count": 9
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 14
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "16V684000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "Mazda Motors North American Operations (Mazda) is recalling certain model year 2014-2016 Mazda3 vehicles manufactured January 4, 2014, to September 18, 2015.  The fuel tank of the affected vehicles may have been improperly handled during manufacturing and, as a result, the welded attachment of the I",
+        "report_date": "22/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V393000",
+        "component": "PARKING BRAKE",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2014-2015 Mazda6 and 2014-2016 Mazda3 vehicles.  Water could possibly enter the brake caliper causing the parking brake actuator shaft to corrode and possibly bind.",
+        "report_date": "22/06/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V621000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain model year 2015-2016 Mazda3 vehicles manufactured May 21, 2015, to August 25, 2015.  The affected vehicles are equipped with a fuel tank with a shut-off valve that can allow fuel to enter into the fuel tank emissions systems.  If enough fu",
+        "report_date": "02/10/2015",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V487000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2014-2018 Mazda3 and 2016-2021 CX-3 vehicles.  The rearview camera image may not display properly by showing a flickering or distorted image.",
+        "report_date": "14/07/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:24.464Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,208 @@
+{
+  "slug": "2017-toyota-sienna",
+  "year": 2017,
+  "make": "Toyota",
+  "model": "Sienna",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 153,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 36,
+        "share_pct": 23.5,
+        "excerpts": [
+          "I, as well as other owners of 2017–2018 Toyota Highlanders and 2017–2018 Siennas are experiencing serious transmission issues—including high-pitched whining, erratic shifting, clunks, hesitation, and ",
+          "I have a 2017 Toyota Sienna XLE with about 120k miles on it. Out of nowhere the transmission was gear hunting and surging. It eventually became impossible to get it above 30 mph. It seemed like the tr",
+          "We experienced a high whine for a couple of months. No codes were being read by any mechanics. Then the transmission started slipping between 2nd and 3rd gears, and then we couldn’t reverse. Now it’s "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 20,
+        "share_pct": 13.1,
+        "excerpts": [
+          "power sliding door (behind front passenger) does not fully engage arresting hook and tends to immediately return to open position and after hitting the button again starts welling. It started about ei",
+          "I was driving around 30 MPH when the vehicle suddenly turned off. The engine stopped running, all instrumentation turned off, no power steering and no brakes. The car became uncontrollable until it co",
+          "Purchased used vehicle from a Toyota Dealership on or about March 27, 2021. The dashboard illumination on the 2017 Toyota Sienna only appears to operate when the vehicle is turned on AND the front hea"
+        ]
+      },
+      {
+        "component": "WHEELS",
+        "complaints": 16,
+        "share_pct": 10.5,
+        "excerpts": [
+          "on July 3rd, traveling on highway to airport tire blew out (right rear). Pulled to side of road and attempted assistance but this was friday afternoon before july 4th holiday, NOTHING was going to hap",
+          "THE BRIDGESTONE RUN FLAT TYRES ON MY TOYOTA SIENNA 2017 AWD HAS WORN OUT IN 24,000 MILES. THESE ARE THE FACTORY TYRES AND WHEN THE DEALER SOLD THE CAR TO US, THEY SAID IT COMES WITH WARRANTY . BUT IT ",
+          "SINCE 2004 TOYOTA HAS KNOWN THAT SIENNA AWD DAMAGE RUN-FLAT-TIRES (RFT) RAPIDLY AND NEVER REACH OR CLOSE TO 60,000 MILES OF THE LIFE OF TIRES WARRANTY. TOYOTA SHOULD FIX THIS PROBLEM THEN OR WARN THEI"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 15,
+        "share_pct": 9.8,
+        "excerpts": [
+          "Whining noise upon acceleration",
+          "Subject: Safety Defect Complaint – 2017 Toyota Sienna (VIN: [XXX] ) Dear NHTSA Safety Division, I am submitting a safety complaint regarding my 2017 Toyota Sienna, VIN [XXX] . In June 2023, while trav",
+          "The contact owns a 2017 Toyota Sienna. The contact stated that occasionally while driving approximately 35 MPH, the vehicle lost automotive power before jolting forward. There was an unknown warning l"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 14,
+        "share_pct": 9.2,
+        "excerpts": [
+          "The fuel filler door assembly on this 2017 Toyota Sienna failed structurally due to a defective hinge mechanism. This defect directly compromises a critical vehicle safety system.  The Sienna is engin",
+          "The drivers side sliding door when on the power on,  it will either not catch when opening or not shut when you are trying to shut it. You can be in the door way and it will shut on you by itself. You",
+          "Today I had a crash and luckily walked away.  I went down an embankment at speed into trees where the vehicle rolled and struck trees head on.  All the vehicle airbags deployed and vehicle came to res"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 13,
+      "fires": 4,
+      "injuries": 11,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 23
+      },
+      {
+        "year": 2018,
+        "count": 22
+      },
+      {
+        "year": 2019,
+        "count": 20
+      },
+      {
+        "year": 2020,
+        "count": 8
+      },
+      {
+        "year": 2021,
+        "count": 15
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 14
+      },
+      {
+        "year": 2024,
+        "count": 13
+      },
+      {
+        "year": 2025,
+        "count": 15
+      },
+      {
+        "year": 2026,
+        "count": 13
+      }
+    ]
+  },
+  "recalls": {
+    "count": 10,
+    "recalls": [
+      {
+        "campaign_number": "19V532000",
+        "component": "STEERING",
+        "summary": "Braun Corporation (Braun) is recalling certain modified 2017-2020 Toyota Sienna vehicles.  The steering shaft extensions may have been improperly manufactured, possibly causing the extensions to fracture.",
+        "report_date": "16/07/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V410000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Braun Corporation (Braun) is recalling certain 2014-2019 Toyota Sienna mobility van conversions.  The brake lines may have incorrect tube nut fittings installed, which may cause a pressure drop within the braking system.",
+        "report_date": "04/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V503000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2017-2019 Toyota Camry, Corolla, Rav4, Sienna, and Yaris iA vehicles equipped with factory-installed floor mats.  The load carrying capacity modification label may be incorrect.  As such, these vehicles fail to comply with the requirement",
+        "report_date": "28/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V553000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Vantage Mobility International, LLC (Vantage) is recalling certain 2012-2018 AMS Genesis wheelchair vans, built on a Toyota Sienna vehicles.  The rubber brake hoses that attach to the rear wheel assembly may be too short, causing them to rub against the rear axle trailing arm.",
+        "report_date": "25/07/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V831000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2017-2018 Toyota 4Runner and Tundra, 2018 Toyota Highlander, RAV4 and Lexus GX460 and 2017 Toyota Sienna and Tacoma vehicles.  These vehicles may have incorrect load carrying capacity modification labels.  As such, these vehicles",
+        "report_date": "20/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V295000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "Gulf States Toyota, Inc. (Gulf States) is recalling certain 2017 4Runner , 86, Avalon, Camry, Camry Hybrid, Corolla, Corolla iM, Highlander, Highlander Hybrid, Prius, Prius C, RAV4, RAV4 Hybrid, Sienna  and Yaris vehicles.  The spare tire air pressure was not adjusted to the proper pressure as state",
+        "report_date": "02/05/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V211000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018 Toyota Camry and Highlander vehicles, 2017 Toyota Sienna and Tacoma vehicles and 2017 Lexus RX350 vehicles.  During the manufacturing process, the oil galley in the rotor for the brake booster vacuum pump assembly may have b",
+        "report_date": "03/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V012000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) recalled certain 2018-2019 4Runner, Highlander, Camry, Land Cruiser, Sequoia, Sienna, Tacoma and Tundra, and Lexus RC 300, RC 350, GS 350, GX 460, IS 300, LC 500, LS 500, LX 570, RX 350L, and 2019 Toyota Avalon and Corolla, and certain Lexus NX 300, ",
+        "report_date": "13/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V876000",
+        "component": "EQUIPMENT ADAPTIVE/MOBILITY:WHEELCHAIR RESTRAINTS/SECUREMENT:LATCH/ANCHOR:",
+        "summary": "Rollx Vans (Rollx) is recalling certain GMC Yukon, Sierra, Chevrolet Express 2500, Ford Transit, E-250, Toyota Sienna, Sienna Hybrid, Honda Odyssey, Chrysler Town and Country, Voyager, Pacifica, Dodge Grand Caravan, and Ram Promaster vehicles equipped with QRT-Deluxe and QRT-Max wheelchair restraint",
+        "report_date": "17/12/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:41.229Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

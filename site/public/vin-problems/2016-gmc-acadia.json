@@ -1,0 +1,160 @@
+{
+  "slug": "2016-gmc-acadia",
+  "year": 2016,
+  "make": "GMC",
+  "model": "Acadia",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 235,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 130,
+        "share_pct": 55.3,
+        "excerpts": [
+          "Safety recall that has not been addressed by the dealership in over 4 months",
+          "I have a recall on this vehicle that GMC has failed to provide me parts/repair and this recall will be 3 years old in June.  I have emailed the local dealer, the manager of the local dealer, GM corpor",
+          "The contact owns a 2016 GMC Acadia. The contact received notification of NHTSA Campaign Number: 23V334000 (AIR BAGS); however, the part to do the recall repair was not yet available. The contact state"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 26,
+        "share_pct": 11.1,
+        "excerpts": [
+          "While operating my vehicle, the power steering suddenly failed without adequate warning. The steering became extremely difficult, creating a significant safety hazard for myself, my passengers, and ot",
+          "Rack and pinion sudden failure. I lost control of the vehicle almost going off the road .",
+          "The recall is with the steering wheel air bag. If it goes off then the driver could possibly get injured or killed from metal fragments according to the recall letter that I received. The letter is da"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 25,
+        "share_pct": 10.6,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2016 GMC Acadia on February 28, 2026. After purchasing the vehicle, the contact obtained a Carfax report and discovered that there was a mileage discrepancy. Th",
+          "Odometer Fraud. The contact purchased a 2016 GMC Acadia. The contact discovered a mileage discrepancy after purchasing the vehicle. The vehicle was a dealer sale. At the time of purchase, the vehicle ",
+          "unknowingly what the actual issue is in This 2016 gmc has major safety risk in Electrical major different problems it has caused me safety issue with little one in the car  and my family  not knowing "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 20,
+        "share_pct": 8.5,
+        "excerpts": [
+          "TRANSMISSION BEGAN HESITATING AROUND 1800RPM WITH ONLY 92,000 MILES SHOWING ON THE ODOMETER. IT FEELS LIKE A FLUTTER AS THE TRANSMISSION SHIFTS INTO THE NEXT GEAR. I HAVE HEARD THE 2016 YEAR GROUP HAS",
+          "Without  warning transmission overheated, blew out fluid and caught the front end of the vehicle on fire",
+          "The torque converter has been going since before I bought this vehicle. When the RPMs are between one and two, the entire vehicle starts shaking and there is no acceleration. This is a huge safety con"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 13,
+        "share_pct": 5.5,
+        "excerpts": [
+          "Technician told me the engine \"grenaded itself\".  \"Cylinder #4 melted into the side walls of the cylinder wall caused by air to fuel mix ratio controlled by the ECU failure to mix appropriately.\" My f",
+          "On about 01/20/2025 my transmission? Auto  started to shudder before going into 3rd gear threw 5th. Once in 6th gear at about 55 the auto starts to shudder and turns into a rumble feeling. My auto onl",
+          "While starting to drive. It seems like the transmission goes into 2nd shift and the car jerks a little and I have to press the gas pedal to get it to stop."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 2,
+      "injuries": 16,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2015,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 9
+      },
+      {
+        "year": 2017,
+        "count": 4
+      },
+      {
+        "year": 2018,
+        "count": 7
+      },
+      {
+        "year": 2019,
+        "count": 23
+      },
+      {
+        "year": 2020,
+        "count": 16
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 10
+      },
+      {
+        "year": 2023,
+        "count": 83
+      },
+      {
+        "year": 2024,
+        "count": 49
+      },
+      {
+        "year": 2025,
+        "count": 16
+      },
+      {
+        "year": 2026,
+        "count": 7
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "15V609000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016 Chevrolet Traverse, GMC Acadia, and Buick Enclave vehicles manufactured August 18, 2015 to September 24, 2015.  Due to a manufacturing defect, the windshield wiper motor may overheat when used.",
+        "report_date": "29/09/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V833000",
+        "component": "SEATS",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016 Chevrolet Traverse, GMC Acadia, and Buick Enclave vehicles manufactured November 6, 2015, to November 12, 2015.  The affected vehicles have a the third row left lower seat frame that may have welds that are not in the correction location.",
+        "report_date": "11/12/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V246000",
+        "component": "AIR BAGS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2015, 2017 Buick Enclave, 2010-2019 Chevrolet Traverse, and 2011-2016 GMC Acadia vehicles.  The side curtain air bags may not be properly attached.",
+        "report_date": "08/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V334000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014-2017 Buick Enclave, Chevrolet Traverse, and GMC Acadia vehicles.  The driver's air bag inflator may explode during deployment, due to a manufacturing defect.",
+        "report_date": "10/05/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:04.213Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

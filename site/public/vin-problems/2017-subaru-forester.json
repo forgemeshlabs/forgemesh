@@ -1,0 +1,132 @@
+{
+  "slug": "2017-subaru-forester",
+  "year": 2017,
+  "make": "Subaru",
+  "model": "Forester",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 583,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 164,
+        "share_pct": 28.1,
+        "excerpts": [
+          "The airbag sensor in the passenger front seat has malfunctioned and it is indicating that the passenger airbag will not deploy. This is after the recall that was completed on the ODS from service camp",
+          "The airbag warning light for the front passenger seat has been intermittently lighting. Both when the passenger seat is occupied and vacant. The light sometimes indicates the passenger airbag is off w",
+          "Airbag sensor does not work. It is not activated when someone sits in the passenger seat. This was recalled in other Subaru Foresters but for some reason our specific vin number is not eligible for re"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 106,
+        "share_pct": 18.2,
+        "excerpts": [
+          "The airbag warning light for the front passenger seat has been intermittently lighting. Both when the passenger seat is occupied and vacant. The light sometimes indicates the passenger airbag is off w",
+          "There was a recall on this vehicle from 2022, and we did not own this vehicle at that time. Recall passenger side airbag contact under seat can cause fire or electrical issues.  I contacted Subaru and",
+          "Two incidents happened first battery died, we replaced the battery. Then Battery died again, we replaced the alternator on June 5, 2025. Then on Saturday September 13, 2025; all system lights came on "
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 104,
+        "share_pct": 17.8,
+        "excerpts": [
+          "I was leaving home and driving in the neighborhood when I noticed that it was a crack on my windshield and there was no damaged or debris at the time. I didn’t hear anything nor there any trees or car",
+          "the car driven to work from 6:05 to 6:25am and parked in a parking lot. when my wife went out to eat lunch around noon, she noticed a crack running from the mirror to the bottom center of the windshie",
+          "The air system has gone out in the car completely, you can hear it run or try to and then kick off, i have checked and it has not been recalled. there were no accidents prior to the air system giving "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 46,
+        "share_pct": 7.9,
+        "excerpts": [
+          "The contact owns a 2017 Subaru Forester.  The contact stated while driving at an undisclosed speed, the check engine warning light illuminated, and several safety features failed to function as intend",
+          "My subaru forester started smelling and rattling loud. My mechanic told me it could be the muffler. I took it to the muffler shop and it was the catalytic converter.  I had to pay $800 to fix it but m",
+          "need new engine keeps burning oil"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 44,
+        "share_pct": 7.5,
+        "excerpts": [
+          "The shift guide plate in my 2017 Subaru Forester failed, causing the ignition key to become stuck and not release when the engine is off. The component is available for inspection upon request. The fa",
+          "2017 SUBARU FORESTER WITH 40,000 MILES, REAR WHEEL BEARINGS AND PLATE ARE BAD. $2100.00 TO FIX. SEEMS A LITTLE EARLY IN MILEAGE FOR SUCH AN EXPENSIVE REPAIR. I HAVE READ ABOUT BAD REAR WHEEL BEARINGS ",
+          "After traveling for unknown number of miles on repeated occasions, arriving at the destinations to the smell of burning oil. Smell was evident while driving as well. Subaru was able to diagnose this i"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 39,
+      "fires": 1,
+      "injuries": 27,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 10
+      },
+      {
+        "year": 2017,
+        "count": 41
+      },
+      {
+        "year": 2018,
+        "count": 70
+      },
+      {
+        "year": 2019,
+        "count": 126
+      },
+      {
+        "year": 2020,
+        "count": 70
+      },
+      {
+        "year": 2021,
+        "count": 78
+      },
+      {
+        "year": 2022,
+        "count": 56
+      },
+      {
+        "year": 2023,
+        "count": 42
+      },
+      {
+        "year": 2024,
+        "count": 33
+      },
+      {
+        "year": 2025,
+        "count": 39
+      },
+      {
+        "year": 2026,
+        "count": 18
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "19V701000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2015-2018 Forester vehicles equipped with heated seats.  An electrical connection in the front passenger seat for the Occupant Detection System (ODS) may loosen.",
+        "report_date": "03/10/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:34.768Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

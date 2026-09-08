@@ -1,0 +1,97 @@
+{
+  "slug": "2008-dodge-journey",
+  "year": 2008,
+  "make": "Dodge",
+  "model": "Journey",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 8,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 6,
+        "share_pct": 75,
+        "excerpts": [
+          "WE WERE DRIVING ON A CITY STREET AND SUDDENLY THE ELECTRICAL WENT CRAZY.  THE HORN STARTED GOING OFF REPEATEDLY, THE WIPERS TURNED ON AND WOULDN'T SHUT OFF, THE WIPER FLUID KEPT SPRAYING, THE BLINKER ",
+          "A SHORT IN THE DRIVERS DOOR WIRING HARNESS CAUSES HEAD LIGHTS TO FLASH, TURN SIGNALS TO FAIL TO OPERATE, SPEEDOMETER FAILURE, CRUISE CONTROL FAILURE, AND WARNING LIGHTS TO FLASH. IT ALSO FEELS LIKE AB",
+          "TL* THE CONTACT OWNS A 2008 DODGE JOURNEY. THE CONTACT STATED THAT THE KEY BECAME STUCK IN THE IGNITION AND THE VEHICLE FAILED TO SHUT OFF UNTIL THE BATTERY WAS REMOVED. THE CONTACT RECEIVED NOTIFICAT"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 2,
+        "share_pct": 25,
+        "excerpts": [
+          "WE WERE DRIVING ON A CITY STREET AND SUDDENLY THE ELECTRICAL WENT CRAZY.  THE HORN STARTED GOING OFF REPEATEDLY, THE WIPERS TURNED ON AND WOULDN'T SHUT OFF, THE WIPER FLUID KEPT SPRAYING, THE BLINKER ",
+          "A SHORT IN THE DRIVERS DOOR WIRING HARNESS CAUSES HEAD LIGHTS TO FLASH, TURN SIGNALS TO FAIL TO OPERATE, SPEEDOMETER FAILURE, CRUISE CONTROL FAILURE, AND WARNING LIGHTS TO FLASH. IT ALSO FEELS LIKE AB"
+        ]
+      },
+      {
+        "component": "WHEELS",
+        "complaints": 2,
+        "share_pct": 25,
+        "excerpts": [
+          "GOODYEAR ASSURANCE TIRES, 225 70R16, SET OF FOUR, APPROXIMATELY LESS THAN 5,000 MILES.  AT 70 MPH ON EXPRESSWAY, ENTIRE OUTER SIDEWALL BLEW OUT, LEAVING TREAD AND INNER SIDEWALL INTACT. THIS IS ON MY ",
+          "TL* THE CONTACT OWNS A 2008 DODGE JOURNEY. THE CONTACT STATED THAT HE TOUCHED THE VALVE AND THE TIRE DEFLATED. THE VEHICLE WAS TAKEN TO THE DEALER FOR INSPECTION AND THEY STATED THAT THE VALVE CORRODE"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 1,
+        "share_pct": 12.5,
+        "excerpts": [
+          "WE WERE DRIVING ON A CITY STREET AND SUDDENLY THE ELECTRICAL WENT CRAZY.  THE HORN STARTED GOING OFF REPEATEDLY, THE WIPERS TURNED ON AND WOULDN'T SHUT OFF, THE WIPER FLUID KEPT SPRAYING, THE BLINKER "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 1,
+        "share_pct": 12.5,
+        "excerpts": [
+          "A SHORT IN THE DRIVERS DOOR WIRING HARNESS CAUSES HEAD LIGHTS TO FLASH, TURN SIGNALS TO FAIL TO OPERATE, SPEEDOMETER FAILURE, CRUISE CONTROL FAILURE, AND WARNING LIGHTS TO FLASH. IT ALSO FEELS LIKE AB"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 0,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 3
+      },
+      {
+        "year": 2018,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T19:47:55.570Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

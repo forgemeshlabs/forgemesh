@@ -1,0 +1,160 @@
+{
+  "slug": "2016-subaru-outback",
+  "year": 2016,
+  "make": "Subaru",
+  "model": "Outback",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 642,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 309,
+        "share_pct": 48.1,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2016 Subaru Outback. The contact stated that after purchasing the vehicle, it was discovered that there was a mileage discrepancy. The vehicle was a private sal",
+          "The reporting citizen was driving legally on [XXX] going forward towards the parking lot next to the round about when an uncrewed, autonomous commercial vehicle operated by Waymo suffered a catastroph",
+          "SUBJECT: Formal Safety Defect Complaint: 2016 Subaru Outback – Manufacturing Nondisclosure of Latent \"Day 1\" Design Flaw Causing Ignition Key Entrapment, Uncommanded Steering Column Lockout, and Sever"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 83,
+        "share_pct": 12.9,
+        "excerpts": [
+          "1.Windshield crack in the deicing area. Driving on a highway heard a loud boom as if a very big rock hit the car. 30-40 second later there was another boom of normal loudness. At this moment windshiel",
+          "I had a rock thrown at my vehicle's windshield and required a replacement. I went to a Subaru dealership, Zeigler Subaru of Kenosha, local to me for a replacement. A day after I received my car, the w",
+          "Media screen failure.  Is available for inspection.  Safety of pedestrians or other accident at risk because the screen is useless in bright sunlight. Planning to complain to dealer.  No warning signa"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 52,
+        "share_pct": 8.1,
+        "excerpts": [
+          "There is a crack in the exhaust manifold and the exhaust smell is entering the cabin affecting driver and passengers' health. The problem has been confirmed by a Subaru dealer and an independent mecha",
+          "leak in cam carrier gasket caused large ammounts of smoke to fill engine bay and enter cabin air system. Struggled to breath and vision to an extent was obstructed. when car was parked, smoke continue",
+          "My 2016 Subaru Outback CVT transmission has exhibited an intermittent jerking and grabbing sensation when accelerating from a stop, worse when cold, since at least February 2023. This is a known defec"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 45,
+        "share_pct": 7,
+        "excerpts": [
+          "While driving the 2016 Subaru Outback, the vehicle experienced a sudden, catastrophic failure of the Continuously Variable Transmission (CVT). The transmission completely failed, resulting in an immed",
+          "My 2016 Subaru Outback CVT transmission has exhibited an intermittent jerking and grabbing sensation when accelerating from a stop, worse when cold, since at least February 2023. This is a known defec",
+          "The contact owns a 2016 Subaru Outback. The contact stated that the passenger’s side wheel window trim was slightly pivoted. The vehicle was taken to the dealer who determined that the trim needed to "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 24,
+        "share_pct": 3.7,
+        "excerpts": [
+          "SUBJECT: Formal Safety Defect Complaint: 2016 Subaru Outback – Manufacturing Nondisclosure of Latent \"Day 1\" Design Flaw Causing Ignition Key Entrapment, Uncommanded Steering Column Lockout, and Sever",
+          "Brake light comes on while driving and power steering also locks up..",
+          "The steering warning light came on and my steering wheel stiffened. Luckily I was able to make it home, but when I went back to crank it. The light was still on and it would only move forward of backw"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 22,
+      "fires": 3,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2015,
+        "count": 17
+      },
+      {
+        "year": 2016,
+        "count": 69
+      },
+      {
+        "year": 2017,
+        "count": 43
+      },
+      {
+        "year": 2018,
+        "count": 61
+      },
+      {
+        "year": 2019,
+        "count": 82
+      },
+      {
+        "year": 2020,
+        "count": 97
+      },
+      {
+        "year": 2021,
+        "count": 130
+      },
+      {
+        "year": 2022,
+        "count": 57
+      },
+      {
+        "year": 2023,
+        "count": 32
+      },
+      {
+        "year": 2024,
+        "count": 25
+      },
+      {
+        "year": 2025,
+        "count": 15
+      },
+      {
+        "year": 2026,
+        "count": 14
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "19V910000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2016-2017 Outback vehicles.  A replacement air bag control module may have been installed that is not compatible with the passenger air bag module, possibly affecting air bag deployment.",
+        "report_date": "19/12/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V292000",
+        "component": "STEERING:COLUMN",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2016-2017 Legacy and Outback vehicles manufactured February 29, 2016, to May 6, 2016.  The steering column on the affected vehicles may have been improperly machined, and as a result, turning the steering wheel may have no effect on th",
+        "report_date": "11/05/2016",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V502000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2015 and 2016 model year Subaru Legacy 4-Door and Outback vehicles manufactured July 3, 2015, to July 27, 2015.  Transmission oil may leak from a deformed seal cap on the propeller shaft yoke.",
+        "report_date": "10/08/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V794000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2016 Legacy vehicles manufactured October 24, 2015, to November 16, 2015, and Outback vehicles manufactured October 24, 2015, to November 17, 2015.  Due to the improper tightening of the securing nuts, the drive shaft may separate from",
+        "report_date": "24/11/2015",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:26.820Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

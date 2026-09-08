@@ -1,0 +1,232 @@
+{
+  "slug": "2021-ram-ram-1500",
+  "year": 2021,
+  "make": "Ram",
+  "model": "Ram 1500",
+  "matched_as": {
+    "complaints": [
+      "1500"
+    ],
+    "recalls": [
+      "1500"
+    ]
+  },
+  "failures": {
+    "total_complaints": 673,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 275,
+        "share_pct": 40.9,
+        "excerpts": [
+          "This vehicle was subject to NHTSA Recall 22V-767 / Stellantis Recall Z96 for a defective Bosch CP4.2 high-pressure fuel pump (HPFP) known to fail and release metal debris into the fuel system. The rec",
+          "Air bag light on. Needed temp start",
+          "The contact owns a 2021 Ram 1500. The contact stated that while driving at an undisclosed speed, the \"Service Electronic Steering Control\", \"Service Transmission\", and the \"Continue to Drive - Do not "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 196,
+        "share_pct": 29.1,
+        "excerpts": [
+          "The contact owns a 2021 Ram 1500. The contact stated that while attempting to start the vehicle, the instrument panel lights illuminated but the vehicle failed to start. The battery was replaced but t",
+          "I purchased a new 2026 Ram 1500 Rebel Crew Cab 4x4 from the John Heister Dodge Ram dealership, in [XXX] on XXX. The following day, I day i was notified of an open safety recall (NHTSA 26V-531) affecti",
+          "Multiple times this has happened when I engaged in reverse the screen will be blank and can't see anything. It will take a  couple of times of driving,parking and turning on and off the truck before i"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 98,
+        "share_pct": 14.6,
+        "excerpts": [
+          "The contact owns a 2021 Ram 1500. The contact stated that while driving at an undisclosed speed, the \"Service Electronic Steering Control\", \"Service Transmission\", and the \"Continue to Drive - Do not ",
+          "MGU unit failed / car seized in the middle of the road - sent in to be repaired    Unsafe to be stuck in the middle of the road, could not even put the car in neutral to push out of the road    Known ",
+          "Me and my 2 children and my husband were traveling to Springfield Mo . We had stopped for some snacks at Dollar general . When we all go back in the vehicle . My husband tried to start our truck he wa"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 73,
+        "share_pct": 10.8,
+        "excerpts": [
+          "I received  recall notification number 24V653000, Stellantis recall 75B. This recall is detailed as a software malfunction in the ABS control module to disable the electronic stability control system.",
+          "The contact owns a 2021 Ram 1500. The contact stated that while driving at an undisclosed speed, the ABS warning light illuminated. Approximately six months later, while driving at an undisclosed spee",
+          "I was only allowed 3 components to choose from, but I want to make certain that Im including the these additional components that has been failing:Forward Collision Warning, Engine,Fuel/Propulsion Sys"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 68,
+        "share_pct": 10.1,
+        "excerpts": [
+          "This vehicle was subject to NHTSA Recall 22V-767 / Stellantis Recall Z96 for a defective Bosch CP4.2 high-pressure fuel pump (HPFP) known to fail and release metal debris into the fuel system. The rec",
+          "Recently this vehicle has triggered a check engine light. Upon further examination the code was related to an ignition #3. (CODES: P020C, PO1DO).",
+          "My 2021 RAM 1500 ecodiesel was subject to an NHTSA recall (23V-263). The recall included a replacement High pressure fuel pump (HPFP) due to a mechanical defect in the Bosch CP4.2 high-pressure fuel p"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 26,
+      "fires": 4,
+      "injuries": 23,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 8
+      },
+      {
+        "year": 2021,
+        "count": 132
+      },
+      {
+        "year": 2022,
+        "count": 124
+      },
+      {
+        "year": 2023,
+        "count": 99
+      },
+      {
+        "year": 2024,
+        "count": 100
+      },
+      {
+        "year": 2025,
+        "count": 151
+      },
+      {
+        "year": 2026,
+        "count": 59
+      }
+    ]
+  },
+  "recalls": {
+    "count": 15,
+    "recalls": [
+      {
+        "campaign_number": "21V438000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021 Ram 1500 vehicles equipped with a trailer reverse steering module (TRSCM).  The rearview camera image may not display.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 111, \"Rear Visibility.",
+        "report_date": "10/06/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V918000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021 Ram 1500 pickup trucks.  The Trailer Reverse Steering Control Module (TRSCM) may prevent the rearview image from displaying.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 111, \"Rear Visib",
+        "report_date": "23/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V698000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021 Ram 1500 vehicles.  The incorrect-size spare tire may have been installed, which does not match the tire size and inflation pressure information on the tire placard.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicl",
+        "report_date": "09/09/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V925000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2022 Ram 2500, Ram 3500, and 2021 Ram 1500 Classic pickup trucks.  The side air bag inflatable curtain (SABIC) assemblies may have been manufactured with the incorrect amount of compressed gas, which can result in an improper air bag deployment.",
+        "report_date": "24/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V037000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:MASTER CYLINDER",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2021 Ram 1500 Classic SLT trucks.  Certain vehicles were built without the retaining clip that secures the master cylinder push rod to the brake pedal, which can cause the brake pedal to separate from the brake system.",
+        "report_date": "01/02/2021",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V638000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2021 Jeep Wrangler, RAM 1500 and 2021 Jeep Gladiator vehicles.  A radio software error may prevent the rearview image from displaying.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 111, \"",
+        "report_date": "25/08/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V767000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2022 Jeep Wrangler, Ram 1500, and 2021-2022 Jeep Gladiator vehicles equipped with 3.0L diesel engines.  The high pressure fuel pump (HPFP) may fail, causing an engine stall.",
+        "report_date": "13/10/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V904000",
+        "component": "STRUCTURE:BODY:TAILGATE:HINGE AND ATTACHMENTS",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2019-2022 Ram 1500, 2500, and 3500 pickup trucks.  The tailgate may not latch properly due to misaligned tailgate strikers, which could result in the tailgate opening while driving.",
+        "report_date": "08/12/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V059000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2023 Ram 1500 and 2023 Ram 2500 vehicles.  The trailer reverse steering control module (TRSCM) may prevent the rearview image from displaying when the vehicle is placed in reverse.  As such, these vehicles fail to comply with the requirements of Feder",
+        "report_date": "09/02/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V265000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021 Ram 1500 vehicles equipped with 5.7L eTorque engines.  The powertrain control module software may cause an incorrect fuel mixture condition in the engine, and result in an engine stall.",
+        "report_date": "13/04/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V653000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2019, 2021-2024 Ram 1500 vehicles.  Due to a software malfunction, the anti-lock brake system (ABS) control module may disable the electronic stability control system.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle S",
+        "report_date": "05/09/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V754000",
+        "component": "VISIBILITY:REARVIEW MIRRORS/DEVICES",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2023 Ram 1500 Classic vehicles equipped with heated trailer tow rearview mirrors.  The mirror glass may detach from the driver's side heated trailer tow rearview mirror.  As such these vehicles fail to comply with the requirements of Federal Motor Veh",
+        "report_date": "10/10/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V298000",
+        "component": "AIR BAGS",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2019-2024 Ram 1500 vehicles.  The driver's side air bag may not be connected properly, which can cause the air bag not to deploy as intended.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 208,",
+        "report_date": "08/05/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V765000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2022 Ram 1500, Ram 2500, Ram 3500, Ram 4500, and Ram 5500 vehicles. The steering column control module may cause the driver's side air bag not to deploy as intended. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle",
+        "report_date": "06/11/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V495000",
+        "component": "SEAT BELTS:REAR/OTHER:ANCHORAGE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2019-2026 Ram 1500 vehicles. The second-row seat belt buckle anchors may have been improperly installed. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 210, \"Seat Belt Assembly Anchorages.\"",
+        "report_date": "30/07/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:03.933Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

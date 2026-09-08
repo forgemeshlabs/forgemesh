@@ -1,0 +1,212 @@
+{
+  "slug": "2012-hyundai-sonata",
+  "year": 2012,
+  "make": "Hyundai",
+  "model": "Sonata",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1556,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 567,
+        "share_pct": 36.4,
+        "excerpts": [
+          "The contact owns a 2012 Hyundai Sonata. The contact stated that while driving at 30 MPH, the check engine warning light illuminated, the engine started knocking, and smoke emitted from under the hood.",
+          "Vehicle engine caught fire in April 2026! Tow company sold for parts without my permission! Immediately after gaining possession of my car. I didn't have comprehensive insurance, only basic. I had a b",
+          "Diagnosed 07/20/2026 with catastrophic oil ring failure requiring engine replacement. Engine can stall due to oil degradation/absence of causing uncontrolled vehicle handling and fire. This would put "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 301,
+        "share_pct": 19.3,
+        "excerpts": [
+          "Unknown, my ESP KEEPS Coming trying to see if it’s recall",
+          "Based on what I experienced, the fire appears to have resulted from an internal mechanical or electrical failure that occurred without warning while the vehicle was in motion. No prior issues or dashb",
+          "The contact owned a 2012 Hyundai Sonata. The contact stated that various functions on the steering wheel including the horn, cruise control, and other electrical functions; all failed to operate as ne"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 234,
+        "share_pct": 15,
+        "excerpts": [
+          "Vehicle: 2012 Hyundai Sonata Incident Date: August 14, 2024 Location: [XXX]   Description of the Problem: The vehicle experienced a sudden and catastrophic fire without warning while in normal use. Th",
+          "While I was driving my car wouldn’t go no higher than 60mph and kept dropping speed but I came to a stop and when I stopped the car was smoking. I heard knocking noise and rumbling noise on the passen",
+          "Odometer Fraud. The contact purchased a 2012 Hyundai Sonata. It was discovered that there was a mileage discrepancy after the purchase. The vehicle was a private sale. The contact stated that the mile"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 169,
+        "share_pct": 10.9,
+        "excerpts": [
+          "Knock sensor needs to be replaced upon evaluation of an inspection on March 27, 2026. It failed a mission codes and upon my understanding the knock sensor one circuit range performance pink wonder sin",
+          "The airbag warning light came on, so we took it in to see about a recall on the airbag control unit issue that required a wire filter kit as out lined in a recall in 2011-2013 Sonatas and Sonata Hybri",
+          "The warning light for the airbags is on on my dashboard with no airbags ever been deployed."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 158,
+        "share_pct": 10.2,
+        "excerpts": [
+          "The contact owns a 2012 Hyundai Sonata. The contact stated while driving 70 MPH, the check brake and \"Hybrid System Warning Safely Stop - Do Not Drive\" messages were displayed on the instrument panel,",
+          "Based on what I experienced, the fire appears to have resulted from an internal mechanical or electrical failure that occurred without warning while the vehicle was in motion. No prior issues or dashb",
+          "Driving came to a stop ,light turned green made a U-turn to go to the gas station heard a pop noise smoke came from inside the car tried stopping it but the brake pedal sunk into the ground pressed my"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 51,
+      "fires": 95,
+      "injuries": 38,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1999,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 32
+      },
+      {
+        "year": 2012,
+        "count": 68
+      },
+      {
+        "year": 2013,
+        "count": 45
+      },
+      {
+        "year": 2014,
+        "count": 65
+      },
+      {
+        "year": 2015,
+        "count": 134
+      },
+      {
+        "year": 2016,
+        "count": 125
+      },
+      {
+        "year": 2017,
+        "count": 139
+      },
+      {
+        "year": 2018,
+        "count": 205
+      },
+      {
+        "year": 2019,
+        "count": 175
+      },
+      {
+        "year": 2020,
+        "count": 129
+      },
+      {
+        "year": 2021,
+        "count": 117
+      },
+      {
+        "year": 2022,
+        "count": 114
+      },
+      {
+        "year": 2023,
+        "count": 86
+      },
+      {
+        "year": 2024,
+        "count": 65
+      },
+      {
+        "year": 2025,
+        "count": 37
+      },
+      {
+        "year": 2026,
+        "count": 19
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "18V934000",
+        "component": "ENGINE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2014 Sonata and 2013-2014 Santa Fe Sport vehicles previously repaired under recall numbers 15V-568 and 17V-226.  The high pressure fuel pipe that connects to the fuel pump outlet  may have been damaged, misaligned, or improperly torqued durin",
+        "report_date": "28/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V617000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2014 Sonata and 2011-2015 Sonata Hybrid vehicles previously repaired under recall campaign 17V-152.  The seat belt linkages for both front seat belts may detach from the seat belt anchor pretensioners.",
+        "report_date": "04/10/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V137000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2013 Sonata and 2011-2012 Sonata Hybrid vehicles.\r\n\r\nOn February 27, 2018, Hyundai Motor Company (Hyundai) notified NHTSA that they were recalling 154,753 model year 2011 Sonata vehicles.  On April 18, 2018, Hyundai expanded the recall to inc",
+        "report_date": "27/02/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V152000",
+        "component": "SEAT BELTS:FRONT:ANCHORAGE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2014 Sonata and 2011-2015 Sonata Hybrid vehicles.  In the affected vehicles, the seat belt linkages for both front seat belts may detach from the seat belt anchor pretensioners.",
+        "report_date": "08/03/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V759000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain model 2011-2012 Sonata vehicles.  The brake pedal stopper pad can deteriorate allowing the brake light switch plunger to remain extended when the brake pedal is released.",
+        "report_date": "16/11/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V568000",
+        "component": "ENGINE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain model year 2011-2012 Sonata vehicles manufactured December 11, 2009, to April 12, 2012 at Hyundai Motor Manufacturing Alabama and equipped with either a 2.0 liter or 2.4 liter Gasoline Direct injection engine. In the affected vehicles, metallic de",
+        "report_date": "10/09/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V434000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2011-2014 Sonata vehicles manufactured December 11, 2009, through May 29, 2014.  In the affected vehicles, the transmission shift cable may detach from from the shift lever pin.",
+        "report_date": "18/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V352000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Hyundai is recalling certain model year 2012-2013 Hyundai Sonata passenger cars, manufactured from January 24, 2012, through June 21, 2012.  The curtain side airbags on these vehicles may inflate without deployment command due to an error during manufacturing.",
+        "report_date": "24/07/2012",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:55:44.097Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "2015-kia-sorento",
+  "year": 2015,
+  "make": "Kia",
+  "model": "Sorento",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 748,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 359,
+        "share_pct": 48,
+        "excerpts": [
+          "My 2015 Kia Sorento is experiencing a catastrophic structural failure of the exhaust system where the front manifold catalytic converter has internally collapsed  This is a severe safety hazard becaus",
+          "My 2015 Kia Sorento is experiencing a catastrophic structural failure of the exhaust system where the front manifold catalytic converter has internally collapsed and broken apart. This is a severe saf",
+          "2015 Kia Sorento fire on the 7th I was drive lost brakes and steering and as soon as I stop to get out to check the whole truck went up in flames"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 100,
+        "share_pct": 13.4,
+        "excerpts": [
+          "Paint De lamination on Snow White Pearl due to manufacturing defect  Date listed was the date it started to peel.  Started peeling around the window first.  Then it continued on the front hood.",
+          "2015 Kia Sorento fire on the 7th I was drive lost brakes and steering and as soon as I stop to get out to check the whole truck went up in flames",
+          "I have the pearl white paint on this vehicle. It is peeling off the car."
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 91,
+        "share_pct": 12.2,
+        "excerpts": [
+          "The headlights are so dim that I could not see at night. I am forced to drive with the fog lights on for any amount of visibility. I recently replaced the headlights with factory replacements and now ",
+          "I’m tired of replacing my headlight bulbs every month!!!  Both high and low beam go out all the time! It’s expensive. Also it is a safety concern. The low beams are dim to begin with and having one go",
+          "Formal Complaint on Seized Headlight Sockets and Kia’s Obstruction of Essential Safety Maintenance  1. Incident & Discovery of Defect:  I am the owner of a 2015 Kia Sorento. Recently, one of my headli"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 58,
+        "share_pct": 7.8,
+        "excerpts": [
+          "The headlights are so dim that I could not see at night. I am forced to drive with the fog lights on for any amount of visibility. I recently replaced the headlights with factory replacements and now ",
+          "I parked my car and it was sitting for about an hour I came back to the car and heard a humming noise found that weird but I had to drive home about 10 mins later I parked car, sound was still going e",
+          "Cut off in middle of the interstate start smoking"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 42,
+        "share_pct": 5.6,
+        "excerpts": [
+          "I was driving with my son when my 2015 Kia Sorento stopped in traffic. I remember warning lights coming on my dash including the engine light, oil light and battery light. However, I was more concerne",
+          "I was driving on the highway when I proceeded to the turn lane to turn left crossing two lanes of traffic and the vehicle just shut down no warning whatsoever no check engine lights no oil lights noth",
+          "My vehicle has a slow speed pick up and I’m getting code p0018 and has very rough idling !"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 20,
+      "fires": 14,
+      "injuries": 24,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 15
+      },
+      {
+        "year": 2015,
+        "count": 13
+      },
+      {
+        "year": 2016,
+        "count": 21
+      },
+      {
+        "year": 2017,
+        "count": 37
+      },
+      {
+        "year": 2018,
+        "count": 58
+      },
+      {
+        "year": 2019,
+        "count": 102
+      },
+      {
+        "year": 2020,
+        "count": 95
+      },
+      {
+        "year": 2021,
+        "count": 108
+      },
+      {
+        "year": 2022,
+        "count": 101
+      },
+      {
+        "year": 2023,
+        "count": 82
+      },
+      {
+        "year": 2024,
+        "count": 59
+      },
+      {
+        "year": 2025,
+        "count": 38
+      },
+      {
+        "year": 2026,
+        "count": 19
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "18V907000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2011-2017 Optima, 2012-2017 Sorento and 2011-2018 Sportage vehicles that previously received an engine replacement under recall number 17V-224, warranty, or the Knock Sensor Detection System (KSDS) Product Improvement Campaign.  The high pressure fuel pi",
+        "report_date": "19/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V519000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2013-2015 Optima and 2014-2015 Sorento vehicles.  Brake fluid may leak inside the Hydraulic Electronic Control Unit (HECU), possibly resulting in an electrical short.",
+        "report_date": "27/08/2020",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "21V331000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2013-2015 Optima and 2014-2015 Sorento vehicles previously recalled under recall 20V-519.  Brake fluid may leak inside the Hydraulic Electronic Control Unit (HECU), possibly resulting in an electrical short.",
+        "report_date": "10/05/2021",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:12.775Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "2011-ford-expedition",
+  "year": 2011,
+  "make": "Ford",
+  "model": "Expedition",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 71,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 21,
+        "share_pct": 29.6,
+        "excerpts": [
+          "Hard, delayed, jump from idle when accelerator is pressed. Hard shift from park to reverse.",
+          "So my 2011 expedition has a lead frame problem it is stuck in 4th gear and all the warning lights are on associating the lead frame. The shop I left told me it Is the lead frame. The problem is the fo",
+          "ON DECEMBER 12, 2017, WHILE TRAVELING AT 75 MPH ON THE INTERSTATE WITH THE CRUISE CONTROL SET, THE VEHICLE SURGED FORWARD. WITHIN SECONDS FOLLOWING THE SURGE, THE VEHICLE UNEXPECTEDLY DOWNSHIFTED CAUS"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 11,
+        "share_pct": 15.5,
+        "excerpts": [
+          "I bought this vehicle early 2023. From the moment I bought it I’ve had a loud ticking sound come from the dash or the motor when I start the car also when it’s really hot out. It also didn’t blow cold",
+          "The engine is blown at 125k miles when all servicing and maintenance was done at the dealership. Somewhere around 50k to 60k miles, I complained to the dealership about a ticking noise from the engine",
+          "CAMSHAFT ROLLER BEARINGS SEIZED AND SCORED THE CAMSHAFT, REQUIRING A TOP END REPLACEMENT.  THE VEHICLE HAD LESS THAN 95000 MILES.  THIS THE SECOND EXPEDITION REQUIRING THIS ENGINE WORK.  MY FIRST EXPE"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 10,
+        "share_pct": 14.1,
+        "excerpts": [
+          "DRIVERS RETRACTABLE RUNNING BOARD MALFUNCTIONS GOING UP AND EXTENDING. THE RUNNING BOARD HAS STOPPED MIDWAY DURING EXTENSION AND HAVE CAUSED OCCUPANTS TO FALL DUE TO THE RUNNING BOARD SUDDENLY COLLAPS",
+          "WINTER 2019, PASSENGER SIDE DOOR WOULD NOT STAY CLOSED. APPEARS TO ONLY HAPPEN WHEN TEMPERATURES ARE BELOW FREEZING. STARTED TO HAPPEN ON DRIVERS SIDE A DAY LATER. I'VE NOTICED WATER INSIDE ON THE SIL",
+          "ALUMINUM LIFT GATE PAINT IS CRACKING AND PEELING SIMIAR TO ALL OTHER YEARS OF EXPEDITION. PREVIOUS AND POST YEARS CONTINUE TO HAVE THE SAME ISSUE. NOT A FLUKE OR ONE OFF IN PAINT PREPARATION DEFECTS."
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 8,
+        "share_pct": 11.3,
+        "excerpts": [
+          "THE VEHICLE HEAD REST IS PERMANENTLY TILTED FORWARD AND CANT BE ADJUSTED.  THIS PRESENTS AN UNCOMFORTABLE AND UNSAFE CONDITION WHEN OPERATING THE VEHICLE FOR LONG PERIODS OF TIME.  IN ORDER TO GET SOM",
+          "THE STANDARD HEADREST IN THE 2011 FORD EXPEDITION PROTRUDES FORWARD SO MUCH THAT I CANNOT SIT WITH MY BACK AND SHOULDERS LEANING TO THE BACK OF THE SEAT WITHOUT PUSHING MY HEAD FORWARD, CAUSING UPPER ",
+          "TL* THE CONTACT OWNS A 2011 FORD EXPEDITION.  THE CONTACT STATED THAT THE ANGLE OF THE HEAD REST DESIGN WAS CAUSING PAIN TO HER NECK. THE DEALER WAS MADE AWARE OF THE FAILURE AND SUGGESTED TO THE CONT"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 7,
+        "share_pct": 9.9,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2011 Ford Expedition. It was discovered that there was a mileage discrepancy. The vehicle was a dealer sale. At the time of purchase, the vehicle mileage was 13",
+          "The contact owns a 2011 FORD Expedition. The contact stated that while driving, there was a burning odor coming from the vehicle. The contact stated at the time she did not see any smoke coming from h",
+          "DOOR CLOSED SENSOR IS FAULTY AND SOUNDS LIKE THIS IS A KNOWN ISSUE WITH FORD BUT A RECALL WON'T HAPPEN TILL MORE PEOPLE COMPLAIN. I AM MAKING MY COMPLAINT OFFICIAL. ALSO SEEKING WARRANTY REPAIRS FROM "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 1,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 11
+      },
+      {
+        "year": 2012,
+        "count": 9
+      },
+      {
+        "year": 2013,
+        "count": 4
+      },
+      {
+        "year": 2014,
+        "count": 3
+      },
+      {
+        "year": 2015,
+        "count": 5
+      },
+      {
+        "year": 2016,
+        "count": 7
+      },
+      {
+        "year": 2017,
+        "count": 5
+      },
+      {
+        "year": 2018,
+        "count": 6
+      },
+      {
+        "year": 2019,
+        "count": 8
+      },
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 1
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T19:55:38.681Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "2013-chevrolet-suburban",
+  "year": 2013,
+  "make": "Chevrolet",
+  "model": "Suburban",
+  "matched_as": {
+    "complaints": [
+      "SUBURBAN 1500",
+      "SUBURBAN 2500"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 236,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 56,
+        "share_pct": 23.7,
+        "excerpts": [
+          "The contact owns a 2013 Chevrolet Suburban. The contact received notification of NHTSA Campaign Number: 21V053000 (Air Bags); however, the part to do the recall repair was not yet available. The local",
+          "M y dash panel has had a small crack for years but the entire passenger air bag section lifted this morning. The dash panel is jagged and unsafe",
+          "I took the vehicle in for the air bag recall repair, and was informed by both the dealership and Chevy that while the cost oof replacing the air bag itself was covered under the recall, any damage to "
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 46,
+        "share_pct": 19.5,
+        "excerpts": [
+          "On the driver side adjacent to the fuel tank, improper drainage for the body frame caused severe rust. Over time the frame of the vehicle becomes a safety hazard and may cause the frame to crack or sp",
+          "The contact owns a 2013 Chevrolet Suburban. The contact stated that the dashboard had many fractures nearby the air bag enclosure. The vehicle had not been taken to the dealer to be diagnosed or repai",
+          "Starting approximately 24 months ago the dash on my Suburban started cracking.  Now it has cracked in several locations on both the driver's and passenger side of the dash.  The cracks on the passenge"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 32,
+        "share_pct": 13.6,
+        "excerpts": [
+          "Bought 2013 suburban brand new and in 2018, on a trip to the mountains for fall break, the car quit with no warning signs, in the middle of the night. The car would not accelerate when gas pedal was p",
+          "I had to do two engine jobs in one year because oil pressure sensor switch keeps going off due to poor electrical in the vehicle I also had to buy oil pressure pump",
+          "FEB. 15 , 2019 TRANSMISSION WENT OUT IN CAR. BROUGHT CAR EARLIER IN THE YEAR BECAUSE IT WAS JERKING BUT THEY SAID IT WAS NORMAL. WENT OUT OF TOWN AND TRANSMISSION WENT OUT AT 93,721 MILES. EXTENDED WA"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 28,
+        "share_pct": 11.9,
+        "excerpts": [
+          "The paint flaking easily electrical poor in vehicle car seats ripping apart easily  Doors handles interior braking apart easily",
+          "I had to do two engine jobs in one year because oil pressure sensor switch keeps going off due to poor electrical in the vehicle I also had to buy oil pressure pump",
+          "TL* THE CONTACT OWNS A 2013 CHEVROLET SUBURBAN. THE CONTACT STATED THAT VARIOUS ELECTRICAL FAILURES WOULD INTERMITTENTLY OCCUR WHILE DRIVING AT VARIOUS SPEEDS. THE CONTACT STATED THAT THE AUTOMATIC DO"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 16,
+        "share_pct": 6.8,
+        "excerpts": [
+          "The contact owns a 2013 Chevrolet Suburban. The contact stated while driving at various speeds, the brake pedal would depress to the floorboard. Additional brake pedal travel would be required to stop",
+          "BRAKES LIGHT ANTI-LOCK/SKID E-BRAKE KEEPS ACTIVATING, BUT DOES NOT SHOW UP AS A CODE OR PROBLEM. INTERMITTENT CODE P015B AND P015D AT THE SHOP SOMETIMES THIS CODE DOES NOT APPEAR OR AT DIFFERENT SHOP ",
+          "SERVICE TRAILER BRAKE SYSTEM MESSAGE WOULD BE DISPLAYED AND THE STABILITY CONTROL WOULD TURN OFF RANDOMLY WHILE DRIVING DOWN A STREET OR HIGHWAY. THE ENGINE STALLED RANDOMLY AND ALL THE GAUGES TURNED "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 0,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 2
+      },
+      {
+        "year": 2013,
+        "count": 12
+      },
+      {
+        "year": 2014,
+        "count": 14
+      },
+      {
+        "year": 2015,
+        "count": 10
+      },
+      {
+        "year": 2016,
+        "count": 32
+      },
+      {
+        "year": 2017,
+        "count": 40
+      },
+      {
+        "year": 2018,
+        "count": 34
+      },
+      {
+        "year": 2019,
+        "count": 24
+      },
+      {
+        "year": 2020,
+        "count": 24
+      },
+      {
+        "year": 2021,
+        "count": 18
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "21V053000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2013 Cadillac Escalade, Escalade ESV, and Escalade EXT, Chevrolet Avalanche, Silverado 1500, Silverado 2500/3500, Suburban, Tahoe, GMC Sierra 1500, Sierra 2500/3500, Yukon, and Yukon XL vehicles originally sold, or ever registered, in the states of Alaba",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V054000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014 Cadillac Escalade, Escalade ESV, Chevrolet Silverado 2500, Silverado 3500, Suburban, Tahoe, GMC Sierra 2500, Sierra 3500, Yukon, and Yukon XL vehicles originally sold, or ever registered, in the states of AL, CA, FL, GA, HI, LA, MS, SC, TX, PR, AS, ",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V001000",
+        "component": "STEERING:COLUMN LOCKING:ANTI-THEFT DEVICE",
+        "summary": "General Motors (GM) is recalling certain model year 2013 Cadillac Escalade, Escalade ESV, and Escalade EXT; Chevrolet Avalanche, Express, Silverado HD, Silverado LD, Suburban, and Tahoe; and GMC Savana, Sierra HD, Sierra LD, Yukon, and Yukon XL vehicles, manufactured between November 7, 2012, throug",
+        "report_date": "02/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V614000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2013-2014 Cadillac CTS, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, GMC Yukon, and Yukon XL, and 2014 Buick Enclave, Chevrolet Express, Impala, Silverado HD, Traverse, GMC Acadia, Savana, and Sierra HD vehicles.  In the affected vehicles",
+        "report_date": "01/10/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:34.579Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

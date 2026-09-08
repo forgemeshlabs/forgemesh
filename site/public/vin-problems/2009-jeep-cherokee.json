@@ -1,0 +1,176 @@
+{
+  "slug": "2009-jeep-cherokee",
+  "year": 2009,
+  "make": "Jeep",
+  "model": "Cherokee",
+  "matched_as": {
+    "complaints": [
+      "GRAND CHEROKEE"
+    ],
+    "recalls": [
+      "GRAND CHEROKEE"
+    ]
+  },
+  "failures": {
+    "total_complaints": 138,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 47,
+        "share_pct": 34.1,
+        "excerpts": [
+          "My car is driving okay but it’s having some electrical issues and it shuts down.",
+          "The contact owns a 2009 Jeep Grand Cherokee. The contact stated while the vehicle was parked, the contact attempted to put the key into ignition; however, the key was inoperative. The contact stated t",
+          "WIN Module failure"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 23,
+        "share_pct": 16.7,
+        "excerpts": [
+          "My car is driving okay but it’s having some electrical issues and it shuts down.",
+          "Gcc",
+          "VEHICLE SHIFTS INTO LOWER2ND GEAR WHILE DRIVING AT HIGHWAY SPEEDS ACCORDING TO OWNERS MANUAL THIS IS CALLED LIMP MODE AND NEEDS TO BE STOPPED PLACED IN PARK AND TURN IGNITION OFF AND RESTARTED TO CONT"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 22,
+        "share_pct": 15.9,
+        "excerpts": [
+          "My car is driving okay but it’s having some electrical issues and it shuts down.",
+          "TL* THE CONTACT OWNS A 2009 JEEP GRAND CHEROKEE. THE CONTACT STATED WHILE DRIVING APPROXIMATELY 55 MPH, THE ACCELERATOR PEDAL SEIZED. WHILE THE BRAKE PEDAL WAS DEPRESSED, THE VEHICLE FAILED TO STOP. T",
+          "I WAS DRIVING THE OTHER DAY AND ALL THE SUDDEN I HIT A BUMP AND THE KEY FOB FALLS OUT OF THE IGNITION CUTTING THE ENGINE COMPLETELY OFF. SO I WAS COASTING WITH NO ENGINE OR POWER. LUCKILY I PUT IT IN "
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 12,
+        "share_pct": 8.7,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2009 JEEP GRAND CHEROKEE. THE CONTACT STATED WHILE DRIVING APPROXIMATELY 55 MPH, THE ACCELERATOR PEDAL SEIZED. WHILE THE BRAKE PEDAL WAS DEPRESSED, THE VEHICLE FAILED TO STOP. T",
+          "HAVE OWNED USED 2009 JEEP GRD.CHRKE. FOR 10 MONTHS 2 MONTHS IN TO OWNING NOTICED AT TIMES VEHICLE WOULD LOOSE POWER. PRESSING GAS PEDAL DID NOTHING. HAD TO PULL OVER SHUT JEEP OFF, WAIT A MINUTE THEN ",
+          "TAKATA  RECALL - AIR BAG WARNING LIGHT BEGAN BEING INTERMITTENT WHEN TRAVELING ON SECONDARY ROADS AND HIGHWAYS.  IT IS NOW LIT AT ALL TIMES.   I HAVE ALREADY HAD TO REPLACE THE SPEED CONTROL OPERATOR "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 11,
+        "share_pct": 8,
+        "excerpts": [
+          "Clock spring shorts out the electrical system. It causes the AC and heat not to work and no blower motor. This could cause others problems as well",
+          "When the airbag light comes on and is visible on the dashboard, this action shorts out the ac, heat, as well as the defroster. This airbag light is a constantly lit up and will not go out. I have been",
+          "Just prior to a cross country trip, my airbag warning light came on. Upon arriving to our destination in Spring Hill, TN, I took my 2009 Jeep Grand Cherokee to have it checked. Their diagnosis found a"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 0,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 8
+      },
+      {
+        "year": 2010,
+        "count": 8
+      },
+      {
+        "year": 2011,
+        "count": 8
+      },
+      {
+        "year": 2012,
+        "count": 12
+      },
+      {
+        "year": 2013,
+        "count": 24
+      },
+      {
+        "year": 2014,
+        "count": 20
+      },
+      {
+        "year": 2015,
+        "count": 14
+      },
+      {
+        "year": 2016,
+        "count": 11
+      },
+      {
+        "year": 2017,
+        "count": 5
+      },
+      {
+        "year": 2018,
+        "count": 10
+      },
+      {
+        "year": 2019,
+        "count": 4
+      },
+      {
+        "year": 2020,
+        "count": 2
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "09V118000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "CHRYSLER IS RECALLING 4,314 MY 2009 DODGE JOURNEY, JEEP GRAND CHEROKEE, COMMANDER AND WRANGLER VEHICLES.  WIRING MAY BE REVERSED ON THE STEERING COLUMN CONTROL MODULE DRIVER AIRBAG SQUIB CONNECTOR.  THE DRIVER'S AIRBAG MAY NOT DEPLOY AS INTENDED.",
+        "report_date": "09/04/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V175000",
+        "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2005-2010 Jeep Grand Cherokee vehicles manufactured February 11, 2004, through March 9, 2010; and 2006-2010 Jeep Commander vehicles manufactured January 31, 2005, through March 10, 2010.  A transfer case electrical failure may result in a",
+        "report_date": "07/05/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09E039000",
+        "component": "SUSPENSION",
+        "summary": "ROCK KRAWLER IS RECALLING 44 PERFORMANCE SUSPENSION SYSTEMS SOLD AS AFTERMARKET EQUIPMENT FOR USE ON THE VEHICLE LISTED ABOVE.  THESE SUSPENSION SYSTEMS WERE PRODUCED WITH GRADE 2 CARRIAGE BOLTS INSTEAD OF THE PROPER GRADE 5 CARRIAGE BOLTS.  THE IMPROPER GRADE 2 CARRIAGE BOLTS COULD EXPERIENCE A LOS",
+        "report_date": "19/06/2009",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:49:25.829Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

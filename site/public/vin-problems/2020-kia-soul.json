@@ -1,0 +1,120 @@
+{
+  "slug": "2020-kia-soul",
+  "year": 2020,
+  "make": "Kia",
+  "model": "Soul",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 372,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 231,
+        "share_pct": 62.1,
+        "excerpts": [
+          "Back in 2021 there was a safety recall for the engine burning oil and having a high risk of catching fire. I leased this car from the Kia dealership in Asheville, NC and was guaranteed that the issue ",
+          "Making a left turn car stalled in middle of turn lane.",
+          "Engine piston recall defect. Car has been at the dealership 12 days today and has been diagnosed and has been submitted to a Kia corporate case for repair free of charge. Car had no warning lights on "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 88,
+        "share_pct": 23.7,
+        "excerpts": [
+          "The contact owns a 2020 Kia Soul. The contact stated that while driving at an undisclosed speed, the vehicle stalled without warning while releasing the accelerator pedal. The vehicle restarted after ",
+          "While driving on the interstate at approximately 70 MPH, the vehicle suffered a sudden and complete loss of forward motive power. The engine revved, but the vehicle completely ceased forward accelerat",
+          "Engine shut off while making a turn. Took car to mechanic and he stated that the car did not display any error messages. The car also over heated while driving in freeway."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 27,
+        "share_pct": 7.3,
+        "excerpts": [
+          "Engine shut off while making a turn. Took car to mechanic and he stated that the car did not display any error messages. The car also over heated while driving in freeway.",
+          "My Car would shut off in the middle of the road after I stopped to make a turn or even stop at a stop light.  Also the engine is burning oil. Mechanic says the the engine needs to be replace. Somethin",
+          "The contact owns a 2020 Kia Soul. The contact stated that while driving at an undisclosed speed, the vehicle stalled. The automatic start warning light illuminated, and the engine seized. Additionally"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 16,
+        "share_pct": 4.3,
+        "excerpts": [
+          "The contact’s wife owns a 2020 Kia Soul. The contact stated while driving at various speeds and turning the steering wheel, the steering wheel failed to return to center. There were no warning lights ",
+          "The contact called on behalf of his wife who owns a 2020 Kia SOUL LX. The contact stated that they had began to notice that while driving at various speeds and turning the steering wheel the steering ",
+          "Motor driven power steering failed, dealer (Hyman Bros Kia Midlothian VA) replaced the flexible coupling in the power steering assembly."
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 15,
+        "share_pct": 4,
+        "excerpts": [
+          "There was a recall-SC209A for a faulty piston ring. This vehicle “passed” prior to my purchase. I was unaware that my vehicle was part of the recall- when the VIN is entered in the NTSB website, no ac",
+          "The problems with the KIa Sol began with the \"check engine\" light continuously coming on in January of 2025. Took it to the dealership twice and numerous repairs were made and the vehicle continues to",
+          "My car has been acting up almost every winter. Bought brand new and within two years would not start. Triple A had to get it started. Next winter it shook and the check engine light came on. There was"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 6,
+      "injuries": 6,
+      "deaths": 8
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 26
+      },
+      {
+        "year": 2020,
+        "count": 52
+      },
+      {
+        "year": 2021,
+        "count": 65
+      },
+      {
+        "year": 2022,
+        "count": 32
+      },
+      {
+        "year": 2023,
+        "count": 46
+      },
+      {
+        "year": 2024,
+        "count": 42
+      },
+      {
+        "year": 2025,
+        "count": 70
+      },
+      {
+        "year": 2026,
+        "count": 39
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "21V259000",
+        "component": "ENGINE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2020-2021 Soul, and 2021 Seltos vehicles equipped with 2.0L Nu MPI engines.  The piston oil rings may not have been properly heat-treated, which may result in engine damage.",
+        "report_date": "13/04/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:37.126Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

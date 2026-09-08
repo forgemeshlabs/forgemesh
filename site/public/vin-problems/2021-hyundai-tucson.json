@@ -1,0 +1,120 @@
+{
+  "slug": "2021-hyundai-tucson",
+  "year": 2021,
+  "make": "Hyundai",
+  "model": "Tucson",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 78,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 38,
+        "share_pct": 48.7,
+        "excerpts": [
+          "Engine knock sensor went off and now the engine needs replacement due to faulty cylinder rod.",
+          "The contact owns a 2021 Hyundai Tucson. The contact stated that while driving at an undisclosed speed, the engine blew. No warning lights were illuminated. There was white smoke coming from the hood o",
+          "I was driving down [XXX] from my house.My engine light started to flash.I tried to accelerate my car barely went 10 miles an hour.I got Home 2 minutes later.There was major knocking.I had the car towe"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 12,
+        "share_pct": 15.4,
+        "excerpts": [
+          "The issue started just before my vehicle had 60,000 miles on it and only occurred every once and a while but, now it happens more often. When braking at low speeds my car makes a hissing/buzzing noise",
+          "Purchase new Tucson from Hyundai of Saint Augustine FL in April 2021, the vehicle worked fine. Then in July 2021 the vacuum assist brakes would not hold a vacuum after the engine was shut down, so whe",
+          "It appears after breaking, the brakes stick and the car won’t accelerate when pressed on the gas pedal."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 11,
+        "share_pct": 14.1,
+        "excerpts": [
+          "Vehicle stalled approximately 15 times between April 17 and May 4, 2026, including once on Interstate XXX at approximately 50mph with minor children ages [XXX]  and [XXX]  in the vehicle. The oil and ",
+          "In October 2025, while the vehicle was still under Hyundai’s 5-year warranty, an authorized Hyundai dealership diagnosed a significant electrical failure affecting the ABS/ESC system on my 2021 Hyunda",
+          "The AC system on my vehicle stopped working with less than 55,000 miles on it. When replacing the compressor, condenser, all AC switches, and lines (the entire AC system besides the ECM), the AC is st"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 8,
+        "share_pct": 10.3,
+        "excerpts": [
+          "See attached document for complaint.",
+          "The vehicle experienced a catalytic converter efficiency failure that was confirmed by an authorized dealership in January 2025. The dealer indicated the catalytic converter required replacement; howe",
+          "When sitting at a stop and then accelerating to leave the stop position, the car will go and then all of a sudden it will stall out and I'm pressing the gas pedal, pressing the gas pedal quite a few t"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 8,
+        "share_pct": 10.3,
+        "excerpts": [
+          "My car is burning oil. I have returned multiple times to have it serviced and checked for leaks, but no leaks have been found. Before reaching the recommended 3,000-mile oil change interval, the oil l",
+          "I just got an oil change and the oil was completely gone although there was no leak found. Not even a week later my oil is low again. There is smoke coming from the back pipes and the gas is burning o",
+          "The vehicle experienced a catalytic converter efficiency failure that was confirmed by an authorized dealership in January 2025. The dealer indicated the catalytic converter required replacement; howe"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 3,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2021,
+        "count": 16
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 10
+      },
+      {
+        "year": 2025,
+        "count": 19
+      },
+      {
+        "year": 2026,
+        "count": 18
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "20V543000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) recalled certain 2019-2021 Tucson vehicles on September 4, 2020.  On December 30, 2020, Hyundai expanded the recall population, and added certain 2016-2018 Tucson vehicles.  The Anti-lock Brake Hydraulic Electronic Control Unit (HECU) could corrode internally and caus",
+        "report_date": "04/09/2020",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:31.738Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

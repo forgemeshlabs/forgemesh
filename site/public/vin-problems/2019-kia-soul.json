@@ -1,0 +1,124 @@
+{
+  "slug": "2019-kia-soul",
+  "year": 2019,
+  "make": "Kia",
+  "model": "Soul",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 135,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 86,
+        "share_pct": 63.7,
+        "excerpts": [
+          "I was driving through a busy intersection when the vehicle stopped accelerating causing risk to myself and other drivers. I was able to get the vehicle through the intersection and pulled over. I turn",
+          "My engine has suffered a mechanical failure that makes the vehicle stall or lose power while driving, creating a massive highway safety hazard. Kia is using a software update loophole to deny fixing a",
+          "My engine has suffered a mechanical failure that makes the vehicle stall or lose power while driving, creating a massive highway safety hazard. Kia is using a software update loophole to deny fixing a"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 15,
+        "share_pct": 11.1,
+        "excerpts": [
+          "My 2019 Kia Soul has been professionally diagnosed with DTC B162000, “Internal Fault – Replace SRSCM,” involving the Supplemental Restraint System/Airbag Control Module. My repair shop documented this",
+          "This vehicle was seriously damaged in a crash. No airbags deployed. The vehicle was totaled. Another vehicle went through red light and crashed into my car.",
+          "The contact owned a 2019 Kia Soul. The contact stated that while driving approximately 40 MPH, another vehicle stopped in front of the contact’s vehicle and the brake pedal was depressed to attempt to"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 14,
+        "share_pct": 10.4,
+        "excerpts": [
+          "My 2019 Kia Soul has been professionally diagnosed with DTC B162000, “Internal Fault – Replace SRSCM,” involving the Supplemental Restraint System/Airbag Control Module. My repair shop documented this",
+          "I purchased a 2019 Kia Soul in June 2022. Since purchasing the vehicle, it has been stolen three separate times. During at least one theft, the steering column was damaged to bypass the ignition, and ",
+          "Engine and engine components caught fire while driving. This put my husbands life at risk and could have caused harm to other drivers if he was driving on a busier road. Car fire could have completely"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 12,
+        "share_pct": 8.9,
+        "excerpts": [
+          "Engine and engine components caught fire while driving. This put my husbands life at risk and could have caused harm to other drivers if he was driving on a busier road. Car fire could have completely",
+          "Unknown but told by multiple mechanics that the kia soul eats oil and the engine constantly runs dry which is pricey and unfair",
+          "I’ve had nothing but problems with this car since about a year after getting it in 2021. Constant noises with the engine engine check light coming on all the time I would bring it in and no one would "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 8,
+        "share_pct": 5.9,
+        "excerpts": [
+          "The contact owned a 2019 Kia Soul. The contact stated that while driving approximately 40 MPH, another vehicle stopped in front of the contact’s vehicle and the brake pedal was depressed to attempt to",
+          "The contact owns a 2019 Kia Soul. The contact stated while driving at undisclosed speeds, the ABS and AED warning lights were occasionally illuminated. The vehicle was taken to a local Auto Zone and s",
+          "Last April  2, 2023 Brake pedal went to floor would not stop....  veered off highway..... No brake light appeared...    Brought to Kia Dealership on 04/07/2023.. They replaced master brake cylinder un"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 11,
+      "fires": 8,
+      "injuries": 12,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 3
+      },
+      {
+        "year": 2019,
+        "count": 11
+      },
+      {
+        "year": 2020,
+        "count": 5
+      },
+      {
+        "year": 2021,
+        "count": 8
+      },
+      {
+        "year": 2022,
+        "count": 15
+      },
+      {
+        "year": 2023,
+        "count": 20
+      },
+      {
+        "year": 2024,
+        "count": 23
+      },
+      {
+        "year": 2025,
+        "count": 34
+      },
+      {
+        "year": 2026,
+        "count": 16
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "22V031000",
+        "component": "AIR BAGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2017-2019 Sedona, Soul, Soul EV, 2017-2018 Forte, and 2017 Forte Koup vehicles.  The Air Bag Control Unit (ACU) cover may contact a memory chip on the printed circuit board and damage the electrical circuit.  Circuit damage may result in deactivated air ",
+        "report_date": "25/01/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:27.295Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

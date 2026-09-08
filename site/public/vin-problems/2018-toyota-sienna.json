@@ -1,0 +1,172 @@
+{
+  "slug": "2018-toyota-sienna",
+  "year": 2018,
+  "make": "Toyota",
+  "model": "Sienna",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 70,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 18,
+        "share_pct": 25.7,
+        "excerpts": [
+          "Vehicle: 2018 Toyota Sienna XLE AWD, VIN [XXX], approximately 112,000 miles. Component: Power Train / Automatic Transmission (UA80F 8-speed).  The vehicle has developed a pronounced whining noise from",
+          "Since owning my 2018 Toyota Sienna, I have experienced hesitation and erratic shifting with my transmission. I have the UA80E transmission which upon research others are experiencing issues with as we",
+          "My 2018 Sienna had developed a whining noise when accelerating.   After taking it in to the mechanic, they advised the transmission was failing. Estimated price tag of $6500-7000 to repair.   The vehi"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 9,
+        "share_pct": 12.9,
+        "excerpts": [
+          "Hi, I’d like to report a serious issue with my 2018 Toyota Sienna related to the recent fuel system recall.  Since the repair, the vehicle has leaked all of its gasoline not once, but three separate t",
+          "When accelerating, both from a stop and/or at speed, there is a definite hesitation. When gas pedal is pressed down, there is a noticeable pause before acceleration begins. This causes safety issues e",
+          "The fuel line under the intake ruptured when I started my car on 2/21/23.   The repair shop said they had never seen one fail like this.  I do not have the parts.   I was fortunate to be at home and t"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 7,
+        "share_pct": 10,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2018 Toyota Sienna. It was discovered that there was a mileage discrepancy. The vehicle was a private sale. At the time of purchase, the mileage was 49,000. Whi",
+          "Odometer Fraud. The contact purchased a 2018 Toyota Sienna. The contact stated that while attempting to register the vehicle, it was discovered that there was a mileage discrepancy. The vehicle was a ",
+          "I am an owner of a 2018 Toyota Sienna LE. The Vehicle has an issue with the safety connect system. Dealer first states that the cause is the data handling being off, called Toyota turned it on and wai"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 5,
+        "share_pct": 7.1,
+        "excerpts": [
+          "The contact owns a 2018 Toyota Sienna. The contact stated while driving at an undisclosed speed, the vehicle jerked and lost motive power. In addition, the contact stated that on several occasions the",
+          "N",
+          "MOBILITY WORKS SOLD ME A CAR,THAT HAD A RECALL,DESIGNED FOR SPECIAL NEEDS,THEY KNEW AVOUT IT PLUS THE RAMP WASNT WORKING PROPERLY,MADE ME PAY FOR AN EXPENSIVE WARRANTY THAT DOESNT COVER THE PROBLEM TH"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 5,
+        "share_pct": 7.1,
+        "excerpts": [
+          "The contact owned a 2018 Toyota Sienna The contact stated while driving 70 MPH, the contact was rear-ended and the vehicle lost control and the vehicle rolled over multiple times and fell into a ditch",
+          "N",
+          "The contact owned a 2018 Toyota Sienna. The contact stated while driving at 74 mph, a deer ran across the freeway, and as a result, the contact crashed into the deer. The air bags failed to deploy. A "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 0,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 12
+      },
+      {
+        "year": 2019,
+        "count": 11
+      },
+      {
+        "year": 2020,
+        "count": 16
+      },
+      {
+        "year": 2021,
+        "count": 8
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 7
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V012000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) recalled certain 2018-2019 4Runner, Highlander, Camry, Land Cruiser, Sequoia, Sienna, Tacoma and Tundra, and Lexus RC 300, RC 350, GS 350, GX 460, IS 300, LC 500, LS 500, LX 570, RX 350L, and 2019 Toyota Avalon and Corolla, and certain Lexus NX 300, ",
+        "report_date": "13/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V532000",
+        "component": "STEERING",
+        "summary": "Braun Corporation (Braun) is recalling certain modified 2017-2020 Toyota Sienna vehicles.  The steering shaft extensions may have been improperly manufactured, possibly causing the extensions to fracture.",
+        "report_date": "16/07/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V410000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Braun Corporation (Braun) is recalling certain 2014-2019 Toyota Sienna mobility van conversions.  The brake lines may have incorrect tube nut fittings installed, which may cause a pressure drop within the braking system.",
+        "report_date": "04/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V503000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2017-2019 Toyota Camry, Corolla, Rav4, Sienna, and Yaris iA vehicles equipped with factory-installed floor mats.  The load carrying capacity modification label may be incorrect.  As such, these vehicles fail to comply with the requirement",
+        "report_date": "28/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V553000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Vantage Mobility International, LLC (Vantage) is recalling certain 2012-2018 AMS Genesis wheelchair vans, built on a Toyota Sienna vehicles.  The rubber brake hoses that attach to the rear wheel assembly may be too short, causing them to rub against the rear axle trailing arm.",
+        "report_date": "25/07/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V130000",
+        "component": "WHEELS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018 Toyota Sienna vehicles built with a specific lot of 10-spoke alloy wheels from one production facility.  These wheels may not have been properly cooled during manufacturing.  As a result, the wheels may crack in the spokes f",
+        "report_date": "22/02/2018",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:37.924Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

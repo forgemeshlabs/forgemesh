@@ -1,0 +1,110 @@
+{
+  "slug": "2021-kia-sorento",
+  "year": 2021,
+  "make": "Kia",
+  "model": "Sorento",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 8,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 7,
+        "share_pct": 87.5,
+        "excerpts": [
+          "On XXX im driving my 2021 Kia Sorento sx it stalled while driving in the mist of traffic engine light comes on and I had my car towed contacted Kia of Bowie they are giving me a hassle contacted them ",
+          "Car stalled July 14th car has been at Kia of Bowie and they are stalling g me and dont want to do the sarter recal and are asking me for  $550 for a diagnostic that I should not pay for do to this saf",
+          "Vehicle: 2021 Kia SorentoCurrent Mileage: Over 100,000 miles (Original Owner)  Description of Safety Defect & Failed Recall Remedy:  Background: This vehicle is equipped with the 8-speed Dual-Clutch T"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 2,
+        "share_pct": 25,
+        "excerpts": [
+          "On XXX im driving my 2021 Kia Sorento sx it stalled while driving in the mist of traffic engine light comes on and I had my car towed contacted Kia of Bowie they are giving me a hassle contacted them ",
+          "Car stalled July 14th car has been at Kia of Bowie and they are stalling g me and dont want to do the sarter recal and are asking me for  $550 for a diagnostic that I should not pay for do to this saf"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 2,
+        "share_pct": 25,
+        "excerpts": [
+          "On XXX im driving my 2021 Kia Sorento sx it stalled while driving in the mist of traffic engine light comes on and I had my car towed contacted Kia of Bowie they are giving me a hassle contacted them ",
+          "Car stalled July 14th car has been at Kia of Bowie and they are stalling g me and dont want to do the sarter recal and are asking me for  $550 for a diagnostic that I should not pay for do to this saf"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 1,
+        "share_pct": 12.5,
+        "excerpts": [
+          "On August 15, 2026, while operating my 2021 Kia Sorento, the transmission warning light came on and the vehicle displayed the following warning on the infotainment screen: “A possible condition with y"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 1,
+        "share_pct": 12.5,
+        "excerpts": [
+          "My car will randomly go into limp mode and I am unable to accelerate.  The auto stop/start light will flash orange on the dashboard.  I need to pull over and restart car and it seems to reset.  I see "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 0,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2026,
+        "count": 8
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "21V519000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Kia Motor America (Kia) is recalling certain 2021 Sorento and 2021-2022 K5 vehicles equipped with 2.5L turbocharged engines.  Fuel may leak at the pipe connection between the high-pressure fuel pump and fuel rail.",
+        "report_date": "08/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V703000",
+        "component": "TRAILER HITCHES",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2016-2022 Sorento, 2021-2022 Sorento Hybrid (HEV), 2022-2023 Sorento Plug-In Hybrid (PHEV), and 2017-2022 Sportage vehicles equipped with a tow hitch harness installed as original equipment, or purchased as an accessory through a Kia dealership.  Debris a",
+        "report_date": "19/09/2022",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "22V760000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Kia Motors, Inc. (Kia) is recalling certain 2021-2022 Sorento and 2021-2023 K5 vehicles.  The vehicle's \"fail-safe\" limited-mobility drive mode may be impaired, when prompted by a transmission oil pump malfunction, which can result in a complete loss of drive power.",
+        "report_date": "11/10/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V649000",
+        "component": "ELECTRICAL SYSTEM:WIRING:FUSES AND CIRCUIT BREAKERS",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2021-2023 Sorento vehicles. The heating, ventilation, and air conditioning (HVAC) blower motor wiring harness may be inadequate, which can result in a fire.",
+        "report_date": "25/09/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:35.039Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,188 @@
+{
+  "slug": "2011-toyota-camry",
+  "year": 2011,
+  "make": "Toyota",
+  "model": "Camry",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 621,
+    "top_failure_components": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 94,
+        "share_pct": 15.1,
+        "excerpts": [
+          "I am reporting a safety issue with my 2011 Toyota Camry. The dashboard (instrument panel) has significantly melted and degraded due to heat exposure, creating a sticky and highly reflective surface.  ",
+          "I started noticing a glare on my 2011 Toyota Camry on the inside on the dashboard. It appeared shiny and I figured I accidentally cleaned it with the wrong product. It started at the closet point of t",
+          "The dashboard has become very sticky and shiny creating a very bad glare on my windshield. It makes driving more difficult when I cannot see."
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 73,
+        "share_pct": 11.8,
+        "excerpts": [
+          "The car accelerated uncontrollably for no apparent reason. I was pulling into a parking slot, preparing to put the car in park and stop the car. All of a sudden the car accelerated and slammed into a ",
+          "The contact owns a 2011 Toyota Camry. The contact stated that while his sister was driving the vehicle, while at a stop light, the engine continued to rev with the RPMs increasing. The brake pedal was",
+          "If vehicle is in drive with engine running on a hill and rolls back a significant distance while in gear engine may shut off leading to a loss in power steering and brake control once booster looses r"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 71,
+        "share_pct": 11.4,
+        "excerpts": [
+          "My son and daughter were involved in a really bad car accident and the air bags on my son side which was driver side of the vehicle and he smashed his left side of his face off the seat belt compartme",
+          "Our daughter was driving our car at 40  Mph. Driver comming from other direction turned into trying to turn left. Other driver hit our car head on, left front driver side area. No airbags deployed. Ca",
+          "Airbag exploded with acid powder affecting eyes and hearing"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 67,
+        "share_pct": 10.8,
+        "excerpts": [
+          "The contact's wife owns a 2011 Toyota Camry. The contact stated that while driving at various speeds, the sun was reflecting off the dashboard, which caused a glare onto the windshield. The glare obst",
+          "The contact owns a 2011 Toyota Camry. The contact stated that while driving at various speeds, the sun was reflecting on the dashboard, causing a glare on the windshield, which obstructed the driver's",
+          "The contact owns a 2011 Toyota Camry. The contact stated that the vinyl on the dashboard had degraded and had become sticky. The vehicle was taken to the dealer; however, the dealer refused to repair "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 56,
+        "share_pct": 9,
+        "excerpts": [
+          "The contact owns a 2011 Toyota Camry Hybrid. The contact stated while driving 25 MPH, the ABS, vehicle stability control, brakes, and TPMS warning lights illuminated. The contact merged over to the si",
+          "If vehicle is in drive with engine running on a hill and rolls back a significant distance while in gear engine may shut off leading to a loss in power steering and brake control once booster looses r",
+          "The contact owned a 2011 Toyota Camry. The contact stated that while her daughter was driving at 75 MPH, the vehicle drove over an unknown object on the roadway, and then veered to the left when she l"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 110,
+      "fires": 7,
+      "injuries": 91,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 34
+      },
+      {
+        "year": 2011,
+        "count": 62
+      },
+      {
+        "year": 2012,
+        "count": 47
+      },
+      {
+        "year": 2013,
+        "count": 49
+      },
+      {
+        "year": 2014,
+        "count": 62
+      },
+      {
+        "year": 2015,
+        "count": 70
+      },
+      {
+        "year": 2016,
+        "count": 72
+      },
+      {
+        "year": 2017,
+        "count": 56
+      },
+      {
+        "year": 2018,
+        "count": 51
+      },
+      {
+        "year": 2019,
+        "count": 21
+      },
+      {
+        "year": 2020,
+        "count": 25
+      },
+      {
+        "year": 2021,
+        "count": 11
+      },
+      {
+        "year": 2022,
+        "count": 20
+      },
+      {
+        "year": 2023,
+        "count": 15
+      },
+      {
+        "year": 2024,
+        "count": 9
+      },
+      {
+        "year": 2025,
+        "count": 13
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "14V743000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2011 Prius and Corolla, 2009-2011 Venza, 2006-2010 Avalon, 2007-2010 FJ Cruiser, 2005-2011 Sienna and Sequoia, 2006-2011 Tacoma 4x2 and 4x4, Camry, Highlander, Tundra 4x2 and 4x4, and 2007-2011 Rav4 and 4Runner.  The affec",
+        "report_date": "19/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V732000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM:LOWER ARM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2011 Toyota Camry vehicles manufactured March 8, 2011, to July 20, 2011.  In the affected vehicles, the rubber boot on the front suspension lower arm ball joint may have been damaged during manufacturing.  The damage c",
+        "report_date": "13/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V123000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota is recalling certain model year 2008 and 2010-2013 Toyota Tundra, 2010-2012 Rav4, 2012 Toyota Sequoia, 2010-2011 Toyota Corolla, 2010-2011 Toyota Camry and Camry Hybrid, 2010-2013 Toyota Highlander and Highlander Hybrid, 2010-2013 Toyota FJ Cruiser, 2011 Toyota Land Cruiser, 2010-20",
+        "report_date": "09/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V036000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2011 PASSENGER VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD WITHOUT THE REQUISITE LOAD CARRYING CAPACITY MODIFICATION LABELS.",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:52:58.848Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

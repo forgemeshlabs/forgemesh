@@ -1,0 +1,164 @@
+{
+  "slug": "2014-hyundai-santa-fe",
+  "year": 2014,
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 494,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 275,
+        "share_pct": 55.7,
+        "excerpts": [
+          "We are the original owner of a 2014 Hyundai Santa Fe. The vehicle is experiencing issues from internal engine oil consumption caused by a manufacturing defect in the GDI powertrain. In 2023, while dri",
+          "My car was in shop for Smog inspection and failed. Mechanic told me that the most likely reason was that the engine has issues related to failing crankshaft position sensor which triggered the check e",
+          "Driving to work at 0730 on 20 may, i put my foot down to accelerate from 40mph and nothing happened, i tried again thinking foot placement and the engine died. All ligjts went out, engine turned off a"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 58,
+        "share_pct": 11.7,
+        "excerpts": [
+          "My insurance company said I have an urgent Recall on my vehicle. Recall # 251 ABS fuse replacement. NHTSA# 23V651000. I would like this replaced.",
+          "The start of this journey to Wesley Chapel Hyundai service department were 4 or 5 lights on the dashboard. I can’t remember what day I called to make the appointment-probably a week before the appoint",
+          "On [XXX}, the abs module failed.  I did not know this until it was diagnosed by Pope Automotive, Lubbock, TX on 9/27/24.  They discovered there was a recall 205 related to this issue.  They started a "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 52,
+        "share_pct": 10.5,
+        "excerpts": [
+          "The vehicle is making a loud clunking noise in the steering column when driving down the road. It is veering all over the road and when I hit a bump it’s very bad. It’s difficult to keep in the lane. ",
+          "My steering would work while I was driving with my kids in the car, my breaks were barely working, the hood started smoking and something under the hood in the engine caught on fire, there was a horri",
+          "This model of Santa Fe has a defective steering column. The car rattles at the base of the steering column at the base of the steering wheel in the floor by your feet. When you go over 70 it rattles."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 49,
+        "share_pct": 9.9,
+        "excerpts": [
+          "Bien,mi auto tuvo varios problemas al mismo tiempo: 1-falla en todo el sistema eléctrico,aire acondicionado,control de tráfico ambas partes, Power steering,ABS,Pérdida de potencia en el motor,problema",
+          "Loss of acceleration and stuttering when I was trying to get up to speed on the interstate going up a hill. Instantly blinking check engine light. Won't go above 2000rpm or 60mph. P1326 code read glow",
+          "My steering would work while I was driving with my kids in the car, my breaks were barely working, the hood started smoking and something under the hood in the engine caught on fire, there was a horri"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 36,
+        "share_pct": 7.3,
+        "excerpts": [
+          "Bien,mi auto tuvo varios problemas al mismo tiempo: 1-falla en todo el sistema eléctrico,aire acondicionado,control de tráfico ambas partes, Power steering,ABS,Pérdida de potencia en el motor,problema",
+          "In relation to this incident, approximately 3,00 miles after an oil change, the engine oil drain plug fell out and caused all oil to leak and cause engine damage. Engine oil change was at approximatel",
+          "The contact owns a 2014 Hyundai Santa Fe. The contact stated that upon starting the vehicle, the vehicle made an abnormal knocking sound. There was no warning light illuminated. Additionally, the cont"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 16,
+      "fires": 30,
+      "injuries": 20,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2001,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 3
+      },
+      {
+        "year": 2014,
+        "count": 31
+      },
+      {
+        "year": 2015,
+        "count": 26
+      },
+      {
+        "year": 2016,
+        "count": 16
+      },
+      {
+        "year": 2017,
+        "count": 37
+      },
+      {
+        "year": 2018,
+        "count": 24
+      },
+      {
+        "year": 2019,
+        "count": 43
+      },
+      {
+        "year": 2020,
+        "count": 64
+      },
+      {
+        "year": 2021,
+        "count": 70
+      },
+      {
+        "year": 2022,
+        "count": 49
+      },
+      {
+        "year": 2023,
+        "count": 64
+      },
+      {
+        "year": 2024,
+        "count": 48
+      },
+      {
+        "year": 2025,
+        "count": 15
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "17V358000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2013-2017 Santa Fe and Santa Fe Sport vehicles.  In the affected vehicles, the secondary hood latch actuating cable may corrode and bind, causing the secondary hood latch to remain in the unlatched position when the hood is closed.",
+        "report_date": "05/06/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V624000",
+        "component": "TIRES:SIDEWALL",
+        "summary": "Hyundai is recalling certain model year 2014 Santa Fe vehicles manufactured November 5, 2013, through November 15, 2013, and equipped with P235/65R17 103T Continental Crosscontact LX tires. The tires may have a damaged sidewall.",
+        "report_date": "16/12/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V651000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2015 Elantra, Genesis Coupe, Sonata Hybrid, 2012-2015 Accent, Azera, Veloster, 2013-2015 Elantra Coupe, Santa Fe, 2014-2015 Equus, 2010-2012 Veracruz, 2010-2013 Tucson, 2015 Tucson Fuel Cell, and 2013 Santa Fe Sport vehicles.  The Anti-Lock B",
+        "report_date": "22/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:53.240Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

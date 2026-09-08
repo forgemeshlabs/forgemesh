@@ -1,0 +1,180 @@
+{
+  "slug": "2014-kia-soul",
+  "year": 2014,
+  "make": "Kia",
+  "model": "Soul",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 898,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 551,
+        "share_pct": 61.4,
+        "excerpts": [
+          "l have a 2014 grey Kia soul with engine problems engine recall.   The car has stopped multiple times.  The KSDS is already installed since my Kia in limp mode can’t got past 40mph.  Its engine recall ",
+          "Writing to get some relief and a recall  for my expenses due to a failed catalytic converter. The same issue was reported and recalled on the 1.6l engine in 2019. 19V120.Mine is 2014 kia soul 2.0l eng",
+          "Multiple times with 6 months my check engine light comes on but no code is detected. However, when tested it tells me to look out for code P0420. The issues I have encountered:  - High RPM of 2,000 wh"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 130,
+        "share_pct": 14.5,
+        "excerpts": [
+          "Headlights seem to flicker off and on while using turn signals.  Dash lights will brighten during the incident as well.",
+          "Flickering lights on off while driving at night turn signal triggers it and does it randomly",
+          "The contact owns a 2014 Kia Soul. The contact stated that while driving at night, the front passenger’s side low-beam headlight failed to illuminate as needed. The contact stated that while activating"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 98,
+        "share_pct": 10.9,
+        "excerpts": [
+          "The contact owned a 2014 Kia Soul. The contact stated that while stopped at a traffic light, the contact became aware of a burning rubber odor and observed grey and brown smoke coming from underneath ",
+          "Odometer Fraud. The contact purchased a 2014 Kia Soul. The contact discovered a mileage discrepancy after the purchase. The vehicle was a private sale. At the time of purchase, the vehicle mileage was",
+          "Flickering lights on off while driving at night turn signal triggers it and does it randomly"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 57,
+        "share_pct": 6.3,
+        "excerpts": [
+          "l have a 2014 grey Kia soul with engine problems engine recall.   The car has stopped multiple times.  The KSDS is already installed since my Kia in limp mode can’t got past 40mph.  Its engine recall ",
+          "COMPONENT FAILURE: The engine, power train, and speed control systems failed due to the known Nu 2.0L GDI connecting rod bearing defect.   SAFETY RISK: My [XXX]  daughter was driving in heavy rush-hou",
+          "Summary of Safety Defect: While my 16 year old daughter was driving our 2014 Kia Soul in December 2025, the car suddenly lost power in traffic and would not go over 20 mph; the check engine light came"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 55,
+        "share_pct": 6.1,
+        "excerpts": [
+          "The contact owns a 2014 Kia Soul. The contact received notification of NHTSA Campaign Number: 22V096000 (AIR BAGS). The vehicle was taken for the oil change, and the contact was informed that the engi",
+          "The contact owns a 2014 Kia Soul. The contact stated that while driving 30 MPH uphill with her daughter and her small dog inside the vehicle, the brake pedal was depressed, but the vehicle stalled and",
+          "The contact owns a 2014 Kia Soul. The contact stated that while driving at an undisclosed speed, the check engine light illuminated. The contact pulled to the side of the road. When the vehicle was tu"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 34,
+      "fires": 69,
+      "injuries": 30,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 32
+      },
+      {
+        "year": 2015,
+        "count": 28
+      },
+      {
+        "year": 2016,
+        "count": 22
+      },
+      {
+        "year": 2017,
+        "count": 39
+      },
+      {
+        "year": 2018,
+        "count": 105
+      },
+      {
+        "year": 2019,
+        "count": 177
+      },
+      {
+        "year": 2020,
+        "count": 167
+      },
+      {
+        "year": 2021,
+        "count": 108
+      },
+      {
+        "year": 2022,
+        "count": 75
+      },
+      {
+        "year": 2023,
+        "count": 54
+      },
+      {
+        "year": 2024,
+        "count": 35
+      },
+      {
+        "year": 2025,
+        "count": 34
+      },
+      {
+        "year": 2026,
+        "count": 20
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "20V750000",
+        "component": "ENGINE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2012-2013 Sorento, 2012-2015 Forte and Forte Koup, 2011-2013 Optima Hybrid, 2014-2015 Soul, and 2012 Sportage vehicles.  An engine compartment fire can occur while driving.",
+        "report_date": "02/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V120000",
+        "component": "ENGINE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2012-2016 Kia Soul vehicles equipped with 1.6L Gasoline Direct Injection (GDI) engines.  High exhaust gas temperatures may damage the catalytic converter, possibly resulting in abnormal engine combustion and damage to one or more of the engine's pistons ",
+        "report_date": "22/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V608000",
+        "component": "STEERING",
+        "summary": "Kia Motors America (Kia) is recalling certain 2014-2016 Soul and Soul EV vehicles.  The pinion plug may allow the pinion gear to separate from the steering gear assembly.",
+        "report_date": "29/09/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V123000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2014-2015 Soul and Soul electric vehicles manufactured July 21, 2013, to January 8, 2015.  A section of the accelerator pedal may bend and fracture.",
+        "report_date": "02/03/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V096000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Kia Motors America (Kia) is recalling certain 2014 Soul vehicles.  The front air bags may not deploy during a crash if the Air Bag Control Unit (ACU) loses communication with the front impact sensors.",
+        "report_date": "18/02/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:58:02.410Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

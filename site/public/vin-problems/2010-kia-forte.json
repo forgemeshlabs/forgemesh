@@ -1,0 +1,176 @@
+{
+  "slug": "2010-kia-forte",
+  "year": 2010,
+  "make": "Kia",
+  "model": "Forte",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 232,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 80,
+        "share_pct": 34.5,
+        "excerpts": [
+          "My car wasnt getting enough power and it just died while driving it on the interstate  to go home.",
+          "The contact owns a 2010 Kia Forte with a five-speed transmission. The contact received notifications for NHTSA Campaign Number: 18V363000(Air Bags) and NHTSA Campaign Number: 23V652000(Service Brakes,",
+          "Knocking in engine, loss of power, rod bearings needs replacing"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 42,
+        "share_pct": 18.1,
+        "excerpts": [
+          "On August 22nd 2025 my daughter was driving this vehicle and was in a car accident and her front air bags did not deploy. Her passenger side airbags deployed with no passenger but nothing in the front",
+          "the air bag light is on, the cruise control stop working around the same time, the light came on.",
+          "Air bag light turned on June 2025. Could not be reset. Had local shop read the code. Driver's side air bag, likely clock spring.  Brought it to the dealership after a month wait for appointment. It wa"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 23,
+        "share_pct": 9.9,
+        "excerpts": [
+          "The contact owns a 2010 Kia Forte with a five-speed transmission. The contact received notifications for NHTSA Campaign Number: 18V363000(Air Bags) and NHTSA Campaign Number: 23V652000(Service Brakes,",
+          "The contact owns a 2010 Kia Forte. The contact stated the vehicle was taken to a dealer for several recall repairs, and repair under Manufacturer Recall Number: SC165A. After the recall repairs were p",
+          "Car won't not shift out ot drive when driving to Any other gears. Will not go into reverse or park.. shifting cable broke. Needs replacement"
+        ]
+      },
+      {
+        "component": "TIRES",
+        "complaints": 23,
+        "share_pct": 9.9,
+        "excerpts": [
+          "EXTREME DRY ROT TO A 3.5 YEAR OLD TIRE. TIRE LEAKS AIR. YOKOHAMA ALSO REFUSES TO DO ANYTHING.",
+          "I HAVE HAD 3 TIRE PRESSURE MONITOR STEMS CRACK AND DISAPPEAR INTO THE TIRE CAUSING A FLAT AT 3 SEPARATE OCCASIONS. THE FIRST TIME WAS AT 38,000 MILES, THE LAST 2 WERE AT 76,000 AND WITHIN A WEEK OF EA",
+          "TIRE PRESSURE MONITORING STEM BROKE OFF WHEN TIRE WAS BEING REPAIRED. MECHANIC SAYS OTHER VALVE STEMS ON THE CAR ARE ALSO FRAYING AND COULD BREAK. CAR HAS LESS THAN 60,000K MILES. STEM FRAGILITY POSES"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 20,
+        "share_pct": 8.6,
+        "excerpts": [
+          "My car wasnt getting enough power and it just died while driving it on the interstate  to go home.",
+          "There is an ongoing issue with the MAP sensor that triggers a check engine light as well as the RPMS to fluctuate. This can happen when disconnecting the battery and/or replacing the MAP sensor. I rep",
+          "hi, i have a standing issue with my 2010 kia forte sx 2.4l the engine developed this knock that has totally incapacitated the car so it cannot be driven. every mechanic ive been to says that the engin"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 21,
+      "fires": 5,
+      "injuries": 14,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 4
+      },
+      {
+        "year": 2010,
+        "count": 8
+      },
+      {
+        "year": 2011,
+        "count": 14
+      },
+      {
+        "year": 2012,
+        "count": 8
+      },
+      {
+        "year": 2013,
+        "count": 23
+      },
+      {
+        "year": 2014,
+        "count": 16
+      },
+      {
+        "year": 2015,
+        "count": 16
+      },
+      {
+        "year": 2016,
+        "count": 10
+      },
+      {
+        "year": 2017,
+        "count": 11
+      },
+      {
+        "year": 2018,
+        "count": 27
+      },
+      {
+        "year": 2019,
+        "count": 22
+      },
+      {
+        "year": 2020,
+        "count": 18
+      },
+      {
+        "year": 2021,
+        "count": 13
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 15
+      },
+      {
+        "year": 2024,
+        "count": 8
+      },
+      {
+        "year": 2025,
+        "count": 9
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "18V363000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2010-2013 Kia Forte, Forte Koup, 2011-2013 Kia Optima and 2011-2012 Kia Optima Hybrid and Sedona vehicles.  In the event of a crash, the air bag control unit (ACU) may short circuit, preventing the frontal air bags and seat belt pretensioners from deploy",
+        "report_date": "01/06/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V114000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Kia Motors Corporation (Kia) is recalling certain model year 2007-2010 Rondo, model year 2007-2011 Sedona, Sorento and Sportage, model year 2010-2011 Soul, model year 2008-2011 Optima, model year 2010 Forte, model year 2007-2009 Amanti, and model year 2009 Borrego vehicles.  Originally, in April 201",
+        "report_date": "01/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V652000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2010-2019 Borrego, 2014-2016 Cadenza, 2010-2013 Forte, Forte Koup, Sportage, 2015-2018 K900, 2011-2015 Optima, 2011-2013 Optima Hybrid, Soul, 2012-2017 Rio, 2011-2014 Sorento, and 2010-2011 Rondo vehicles.  The Hydraulic Electronic Control Unit (HECU) may",
+        "report_date": "25/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:51:54.622Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,204 @@
+{
+  "slug": "2008-jeep-cherokee",
+  "year": 2008,
+  "make": "Jeep",
+  "model": "Cherokee",
+  "matched_as": {
+    "complaints": [
+      "GRAND CHEROKEE"
+    ],
+    "recalls": [
+      "GRAND CHEROKEE"
+    ]
+  },
+  "failures": {
+    "total_complaints": 733,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 472,
+        "share_pct": 64.4,
+        "excerpts": [
+          "The contact owns a 2008 Jeep Grand Cherokee. The contact stated that the vehicle was started in the driveway but immediately turned off. The vehicle was restarted and shifted into reverse(R); however,",
+          "5.7L Hemi Engine fire. The primary cause was a wire harness retention clip failure that allows the starter wiring harness to lay on the steering column. As it turns, it cuts into the harness and provi",
+          "Dear Sirs: Two months ago I went to the local Jeep Dealer (Taraborelli, in Bariloche, Argentina) asking for 4 incomplete recalls. Two were completed but, in particular the number 57, the local dealer "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 107,
+        "share_pct": 14.6,
+        "excerpts": [
+          "5.7L Hemi Engine fire. The primary cause was a wire harness retention clip failure that allows the starter wiring harness to lay on the steering column. As it turns, it cuts into the harness and provi",
+          "Dear Sirs: Two months ago I went to the local Jeep Dealer (Taraborelli, in Bariloche, Argentina) asking for 4 incomplete recalls. Two were completed but, in particular the number 57, the local dealer ",
+          "the jeep goes into limp mode and gets stuck in 2 gear I have replaced the shifter solenoid and still happens I have read about this happing to the same jeep from 2005-2010 model and this is a safety i"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 77,
+        "share_pct": 10.5,
+        "excerpts": [
+          "When driving it will randomly shift into 4th gear very hard and stay in 4th until you turn it off.  It will happen at any speed and be fine for months or do have the issues consistently for long perio",
+          "I HAVE TWO 2008 JEEP GRAND CHEROKEE'S.  RECENTLY I BECAME AWARE OF THE FCA GROUP P57 RECALL WHICH IS AN UPDATED IGNITION CYLINDER AND WIRELESS MODULE AFTER ASKING AROUND MY CIRCLE ABOUT MY TWO VEHICLE",
+          "2008 JEEP GRAND CHEROKEE GOES INTO LIMP MODE AND STAYS IN FOURTH GEAR. IF I RESTART THE CAR IT GOES BACK TO NORMAL BUT EVENTUALLY GOES BACK INTO FOURTH GEAR AND STAYS."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 40,
+        "share_pct": 5.5,
+        "excerpts": [
+          "Driver's steering wheel airbag malfunctioned and deployed unexpectedly while backing into a parking space. Safety of passengers through potential of bodily injury and car crash due to lack of sight an",
+          "While driving down the interstate at approximately 75mph to 80 mph, the driver side air bag curtain deployed with no warning or indication.  There was no impact or bump in the road to cause vibration ",
+          "Tboned in an intersection, jeep rolled over multiple times, no airbags deployed. checked online, no recalls in effect so they should have gone off."
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 39,
+        "share_pct": 5.3,
+        "excerpts": [
+          "WIFE PULLED INTO PARKING LOT AND HIT BUMP AND ENGINE SHUT DOWN FREEZING STEERING WHEEL SCARING WIFE.  HAPPENED ONCE BEFORE.  TOOK INTO DEALER(JAN-'14) AND WAS TOLD KEY WAS TOO HEAVY AND BECAME LOOSE I",
+          "I RECEIVED A RECALL LETTER BACK IN THE SUMMER 2014 FOR FAULTY IGNITION SWITCH. CALLED DEALER, PARTS NOT AVAILABLE. CALLED SEVERAL MORE TIMES SINCE, STILL NO PARTS AND TOLD TO WAIT FOR LETTER. WELL, IT",
+          "MULTIPLE TIMES WHILE DRIVING THE CAR THE THE ENGINE COMPLETELY SHUTS OFF WITH NO WARNING. LAST TIME WAS LAST WEEK 09/23/2013.THE CAR DEALERSHIP SAYS THEY CAN NOT RECREATE THIS AND THE COMPUTER IS NOT "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 23,
+      "fires": 5,
+      "injuries": 10,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2007,
+        "count": 3
+      },
+      {
+        "year": 2008,
+        "count": 23
+      },
+      {
+        "year": 2009,
+        "count": 21
+      },
+      {
+        "year": 2010,
+        "count": 47
+      },
+      {
+        "year": 2011,
+        "count": 43
+      },
+      {
+        "year": 2012,
+        "count": 35
+      },
+      {
+        "year": 2013,
+        "count": 65
+      },
+      {
+        "year": 2014,
+        "count": 207
+      },
+      {
+        "year": 2015,
+        "count": 149
+      },
+      {
+        "year": 2016,
+        "count": 42
+      },
+      {
+        "year": 2017,
+        "count": 19
+      },
+      {
+        "year": 2018,
+        "count": 22
+      },
+      {
+        "year": 2019,
+        "count": 18
+      },
+      {
+        "year": 2020,
+        "count": 8
+      },
+      {
+        "year": 2021,
+        "count": 12
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2024,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "14V567000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2008 Chrysler 300 vehicles manufactured May 31, 2007, to May 12, 2008, Dodge Magnum vehicles manufactured May 23, 2007, to May 12, 2008, Dodge Charger vehicles manufactured May 24, 2007, to May 12, 2008, Jeep Commander vehicles manufactur",
+        "report_date": "17/09/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V175000",
+        "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2005-2010 Jeep Grand Cherokee vehicles manufactured February 11, 2004, through March 9, 2010; and 2006-2010 Jeep Commander vehicles manufactured January 31, 2005, through March 10, 2010.  A transfer case electrical failure may result in a",
+        "report_date": "07/05/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V059000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "CHRYSLER IS RECALLING 1,338 MY 2008 JEEP GRAND CHEROKEE AND COMMANDER VEHICLES.  THE FRONT CONTROL MODULE MAY HAVE BEEN INCORRECTLY MANUFACTURED.",
+        "report_date": "06/02/2008",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09E039000",
+        "component": "SUSPENSION",
+        "summary": "ROCK KRAWLER IS RECALLING 44 PERFORMANCE SUSPENSION SYSTEMS SOLD AS AFTERMARKET EQUIPMENT FOR USE ON THE VEHICLE LISTED ABOVE.  THESE SUSPENSION SYSTEMS WERE PRODUCED WITH GRADE 2 CARRIAGE BOLTS INSTEAD OF THE PROPER GRADE 5 CARRIAGE BOLTS.  THE IMPROPER GRADE 2 CARRIAGE BOLTS COULD EXPERIENCE A LOS",
+        "report_date": "19/06/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "07V415000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "ON CERTAIN SPORT UTILITY VEHICLES, FRONT BRAKE CALIPERS IN A CERTAIN LOT MAY HAVE BEEN MANUFACTURED FROM GRAY IRON INSTEAD OF DUCTILE IRON AS DESIGNED AND COULD FRACTURE WITHOUT WARNING.",
+        "report_date": "12/09/2007",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:47:09.250Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,192 @@
+{
+  "slug": "2012-kia-sorento",
+  "year": 2012,
+  "make": "Kia",
+  "model": "Sorento",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 877,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 461,
+        "share_pct": 52.6,
+        "excerpts": [
+          "I am filing this complaint regarding a sudden and unexpected engine failure in my 2012 Kia Sorento LX equipped with the 2.4L Theta II engine.  Vehicle Information: Year: 2012 Make/Model: Kia Sorento L",
+          "The contact owned a 2012 Kia Sorento. The contact’s spouse stated that while driving at an undisclosed speed, the vehicle suddenly lost motive power with no warning lights illuminated. The contact's s",
+          "The clock spring needs fixed no features including the horn is working in my airbag light is staying on.  Also I now have a loud knock in my motor I understand this should fall under the extended 15 y"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 127,
+        "share_pct": 14.5,
+        "excerpts": [
+          "My kia Sorento shocks are really bad seems like it bounces Alot More than normal and heard a squeak coming from the shocks also hard to get the to turn when Im park and electric seems to glitch with b",
+          "The downhill break control (DBC) and the traction control system is is engaged and eliminated in the dash. It causes smoke or steam to come from under the hood after it is driven.  This is the second ",
+          "There is a recall on my vehicle. I received my first letter in May2024. I took it to dealership and they ran test but said they couldnt fix the recall bc Kia hasn't sent them the remedy so they sent u"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 103,
+        "share_pct": 11.7,
+        "excerpts": [
+          "The contact owns a 2012 Kia Sorento. The contact stated that while driving at an undisclosed speed, the accelerator pedal was depressed; however, the vehicle failed to accelerate as intended. The cont",
+          "I had taken the Kia Sorrento to a local shop to get an oil change, and Mavis tire had discovered that the rear suspension and rear subframe were severely corroded with rust and I was told that the car",
+          "The contact owns a 2012 Kia Sorento. The contact received notifications of NHTSA Campaign Numbers: 20V750000 (Engine) and 23V652000 (Service Brakes, Hydraulic); however, the parts to do the recall rep"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 80,
+        "share_pct": 9.1,
+        "excerpts": [
+          "The contact owns a 2012 Kia Sorento. The contact stated that while driving at an undisclosed speed, the accelerator pedal was depressed; however, the vehicle failed to accelerate as intended. The cont",
+          "The clock spring needs fixed no features including the horn is working in my airbag light is staying on.  Also I now have a loud knock in my motor I understand this should fall under the extended 15 y",
+          "The contact owns a 2012 Kia Sorento. The contact stated that the air bag warning light illuminated. The vehicle was not taken to the dealer or an independent mechanic to be diagnosed or repaired. The "
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 69,
+        "share_pct": 7.9,
+        "excerpts": [
+          "The contact owns a 2012 Kia Sorento. The contact stated that while driving at an undisclosed speed, the accelerator pedal was depressed; however, the vehicle failed to accelerate as intended. The cont",
+          "The contact owns a 2012 Kia Sorento. The contact received notifications of NHTSA Campaign Numbers: 20V750000 (Engine) and 23V652000 (Service Brakes, Hydraulic); however, the parts to do the recall rep",
+          "The contact owns a 2012 Kia Sorento. The contact stated that the rod bearings were knocking, and the check engine warning light was illuminated. The contact received notification of NHTSA Campaign Num"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 21,
+      "fires": 76,
+      "injuries": 36,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 2
+      },
+      {
+        "year": 2011,
+        "count": 15
+      },
+      {
+        "year": 2012,
+        "count": 32
+      },
+      {
+        "year": 2013,
+        "count": 35
+      },
+      {
+        "year": 2014,
+        "count": 46
+      },
+      {
+        "year": 2015,
+        "count": 33
+      },
+      {
+        "year": 2016,
+        "count": 52
+      },
+      {
+        "year": 2017,
+        "count": 90
+      },
+      {
+        "year": 2018,
+        "count": 124
+      },
+      {
+        "year": 2019,
+        "count": 117
+      },
+      {
+        "year": 2020,
+        "count": 68
+      },
+      {
+        "year": 2021,
+        "count": 55
+      },
+      {
+        "year": 2022,
+        "count": 35
+      },
+      {
+        "year": 2023,
+        "count": 80
+      },
+      {
+        "year": 2024,
+        "count": 61
+      },
+      {
+        "year": 2025,
+        "count": 19
+      },
+      {
+        "year": 2026,
+        "count": 12
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "18V907000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2011-2017 Optima, 2012-2017 Sorento and 2011-2018 Sportage vehicles that previously received an engine replacement under recall number 17V-224, warranty, or the Knock Sensor Detection System (KSDS) Product Improvement Campaign.  The high pressure fuel pi",
+        "report_date": "19/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V750000",
+        "component": "ENGINE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2012-2013 Sorento, 2012-2015 Forte and Forte Koup, 2011-2013 Optima Hybrid, 2014-2015 Soul, and 2012 Sportage vehicles.  An engine compartment fire can occur while driving.",
+        "report_date": "02/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V224000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Kia Motor Company (Kia) is recalling certain 2011-2014 Optima, 2012-2014 Sorento and 2011-2013 Sportage vehicles.  Machining errors during the engine manufacturing process may cause premature bearing wear within the engine.",
+        "report_date": "31/03/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V626000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2011-2013 Kia Sorento vehicles manufactured October 19, 2009, to January 31, 2013.  In the affected vehicles, if excessive force is applied to the gear shift lever, the brake-shift interlock mechanism may chip or crack allowing the transmissio",
+        "report_date": "06/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V652000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2010-2019 Borrego, 2014-2016 Cadenza, 2010-2013 Forte, Forte Koup, Sportage, 2015-2018 K900, 2011-2015 Optima, 2011-2013 Optima Hybrid, Soul, 2012-2017 Rio, 2011-2014 Sorento, and 2010-2011 Rondo vehicles.  The Hydraulic Electronic Control Unit (HECU) may",
+        "report_date": "25/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:55:53.998Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

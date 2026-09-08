@@ -1,0 +1,180 @@
+{
+  "slug": "2008-nissan-sentra",
+  "year": 2008,
+  "make": "Nissan",
+  "model": "Sentra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 167,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 53,
+        "share_pct": 31.7,
+        "excerpts": [
+          "The car's airbag dashboard light has been on and blinking for about a month now- indicating an issue. I have not been in any recent accidents and it appeared on its own. Subsequently, the car horn doe",
+          "The contact owns a 2008 Nissan Sentra. The contact stated that while her daughter was driving approximately 45 mph, the vehicle in front abruptly depressed its brake pedal causing the driver to crash ",
+          "Driver Air bag sensor light came on.  The dealership reset it several times but it continues to come on. We paid the money to have them put the car on the diagnostic system. They are saying after revi"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 21,
+        "share_pct": 12.6,
+        "excerpts": [
+          "JUST DRIVING DOWN THE HIGHWAY (NO BRAKES APPLIED) AND THE MASTER CYLINDER WENT BAD AND LOST POWER BRAKES.",
+          "I PURCHASED THE CAR DROVE IT HOME WITH NO PROBLEM.  2 DAYS AFTER MY PURCHASE IT DRIVES VERY SLOW AND WON'T PICK UP SPEED.",
+          "MASTER CYLINDER IS LEAKING AND BRAKE LIGHT IS COMING ON"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 20,
+        "share_pct": 12,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2008 NISSAN SENTRA. THE CONTACT STATED THAT WHILE DRIVING AT AN UNKNOWN SPEED, THERE WAS AN ABNORMAL NOISE COMING FROM THE FRONT OF THE VEHICLE. THE VEHICLE FAILED TO MOVE FORWA",
+          "TAKATA RECALL.   THE TRANSMISSION IN MY 2008 NISSAN SENTRA HAS NEVER WORKED PROPERLY. IT'S A AUTOMATIC AND  SOMETIMES IT DONT WANT TO SHIFT GEARS WHEN I GET AROUND 30 MPH. THEN I HAVE TO STOP AND PUT ",
+          "THE VEHICLE WAS IN MOTION COMING OFF THE HIGHWAY AND ONTO CITY STREET. THE TORQUE CONVERTER GAVE OUT AND THE VEHICLE BEGAN SPUTTERING AT STOP SIGNS AND LIGHT, AND THEN THRUSTING FORWARD JOLTING TOWARD"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 15,
+        "share_pct": 9,
+        "excerpts": [
+          "DRIVING OVER AN HOUR AND THE CAR STARTS TO STRUGGLE, I CAN FEEL IT LOOSING POWER, IN ORDER TO NOT PRESS DOWN ALL THE WAY, I'M DOING A GIVE N GO PRAYING I DONT STOP ON THE FREEWAY. I WOULD SOMETIMES FE",
+          "CHECK ENGINE LIGHT. MECHANIC DIAGNOSIS IS DEFECTIVE CATALYTIC CONVERTER SENSORS.",
+          "ON JUNE 20, 2016, I TOOK MY CAR INTO A NISSAN CERTIFIED DEALERSHIP TO HAVE THE TRANSMISSION REDONE UNDER THE EXTENDED WARRANTY THAT NISSAN DID FOR THE CVT ENGINE. THE CAR DROVE FINE AND THEN IN THE BE"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 15,
+        "share_pct": 9,
+        "excerpts": [
+          "A FEW MONTHS AGO WHILE TRYING TO PARALLEL PARK INTO A TIGHT SPACE I HAD TO CUT MY STEERING WHEEL ALL THE WAY TO THE LEFT AND THE CAR SHUT OFF, WHEN I RELEASED STEERING WHEEL THE CAR TURNED BACK ON, SA",
+          "I COULD NOT CONTROLLED THE STEERING WHEEL.IT WAS NOT CORRELATION BETWEEN THE STEERING WHEEL AND THE CAR. TRIKING A ROCK ON THE SIDE OF THE ROAD. TOTAL LOSS. LUCKLY WAS FINE BECAUSE OF LOW SPEED.",
+          "WHEN MY CAR WAS COMING TO A STOP, MY KNEE HIT THE IGNITION KEY. THE ENGINE TURNED OFF THOUGH THE CAR GEAR SELECTOR WAS IN \"D\". THE STEERING ALSO WAS LOCKED. FORTUNATELY I WAS  STOPPING THE CAR AT THE "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 20,
+      "fires": 3,
+      "injuries": 17,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1998,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 1
+      },
+      {
+        "year": 2008,
+        "count": 26
+      },
+      {
+        "year": 2009,
+        "count": 18
+      },
+      {
+        "year": 2010,
+        "count": 15
+      },
+      {
+        "year": 2011,
+        "count": 8
+      },
+      {
+        "year": 2012,
+        "count": 10
+      },
+      {
+        "year": 2013,
+        "count": 11
+      },
+      {
+        "year": 2014,
+        "count": 18
+      },
+      {
+        "year": 2015,
+        "count": 8
+      },
+      {
+        "year": 2016,
+        "count": 14
+      },
+      {
+        "year": 2017,
+        "count": 8
+      },
+      {
+        "year": 2018,
+        "count": 6
+      },
+      {
+        "year": 2019,
+        "count": 12
+      },
+      {
+        "year": 2020,
+        "count": 5
+      },
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "09V431000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:MASTER CYLINDER",
+        "summary": "NISSAN IS RECALLING CERTAIN MODEL YEAR 2008 SENTRA PASSENGER VEHICLES EQUIPPED WITH BOSCH MASTER CYLINDERS.  BRAKE FLUID MAY LEAK FROM THE MASTER CYLINDER.   IF THE AMOUNT OF BRAKE FLUID IN THE MASTER CYLINDER RESERVOIR DECREASES TO BELOW THE MINIMUM LEVEL, THE BRAKE SYSTEM WARNING INDICATOR WILL IL",
+        "report_date": "03/11/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V311000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:MASTER CYLINDER",
+        "summary": "NISSAN IS RECALLING 169,202 MY 2007-2008 SENTRA PASSENGER VEHICLES EQUIPPED ROBERT BOSCH MASTER CYLINDER.  DUE TO THE MACHINING IRREGULARITY BY THE SUPPLIER, THE INTERNAL SEAL GROOVE IN THE BODY OF SOME BRAKE MASTER CYLINDERS MAY ALLOW FOR A GAP IN THE GROOVE CONTACT AREA OF THE SEAL.  THIS MAY RESU",
+        "report_date": "11/07/2008",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V401000",
+        "component": "EQUIPMENT:ELECTRICAL:NAVIGATIONAL SYSTEM(GLOBAL POSITIONING SYSTEM)",
+        "summary": "NISSAN IS RECALLING CERTAIN VEHICLES THAT WERE EQUIPPED WITH A GARMIN NUVI MODEL 750 NAVIGATION SYSTEM.  THE BATTERIES CONTAINED IN THE AFFECTED GPS UNITS CAN OVERHEAT.",
+        "report_date": "10/09/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:46:28.509Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "2016-mazda-cx-5",
+  "year": 2016,
+  "make": "Mazda",
+  "model": "CX-5",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 510,
+    "top_failure_components": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 161,
+        "share_pct": 31.6,
+        "excerpts": [
+          "Mazda issued a safety recall (Mazda safety recall 4320A, NHTSA campaign number 20V-063) to address daytime running light flickering/failure. At the time, only the passenger side daytime running light ",
+          "Only one headlight was addressed by dealer in repair for 4320A | NHTSA #20V-063 and they're refusing to cover the other side. The other DRL led light is now out from seemingly the same cause. They sta",
+          "The controls on the Windshield Wiper/Headlight Control Stalk are not visible when driving at night. The setting markings on the Control Stalk are completely dark at night. This creates a safety hazard"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 71,
+        "share_pct": 13.9,
+        "excerpts": [
+          "The contact owns a 2016 Mazda CX-5. The contact stated while driving at an undisclosed speed, the electric parking brake module warning light was illuminated and the \"Brake failure. Vehicle unsafe to ",
+          "Repeated Failure and Rebooting of Mazda Connect Infotainment System  I am the owner of a 2016 Mazda CX-5. The factory Mazda Connect infotainment system has developed a recurring defect in which the sy",
+          "The contact owns a 2016 Mazda CX-5. The contact stated that while driving 70 MPH with the cruise control activated, the cruise control cancellation switch failed to operate as intended after several a"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 69,
+        "share_pct": 13.5,
+        "excerpts": [
+          "The contact owns a 2016 Mazda CX-5. The contact stated while driving at an undisclosed speed, the electric parking brake module warning light was illuminated and the \"Brake failure. Vehicle unsafe to ",
+          "The contact owns a 2016 Mazda CX-5. The contact stated that while driving at an undisclosed speed, there was an abnormal sound coming from the vehicle, and the message “Smart Brake Malfunction” was di",
+          "my brake light and my emergency brake light stays on and they blink constantly while the engine is turned on. they have been like that for at least a year. both my brakes and the emergency brake both "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 51,
+        "share_pct": 10,
+        "excerpts": [
+          "Any time the vehicle has been sitting with the engine off and has been given enough time to “cool down”, upon starting the vehicle and switching from PARK to DRIVE, the vehicle will violently lurch fo",
+          "The contact owns a 2016 Mazda CX-5. The contact stated that while driving at an undisclosed speed, there was an abnormal sound coming from the vehicle, and the message “Smart Brake Malfunction” was di",
+          "I was driving on a city street and slowed to turn right onto a driveway at at a private residence. As my car entered the driveway and near the end of the right turn, my car had a sudden unintended unc"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 42,
+        "share_pct": 8.2,
+        "excerpts": [
+          "(I am the owner of the car and am filling this out for my daughter who was driving it at the time, I was not with her during the incident)  While driving down the road in the rain the wipers just stop",
+          "Front windshield wipers stopped working, front windshield washer still working. Fuse was checked, fuse is good.Vehicle is available for inspection upon request. My safety is put at risk because of lac",
+          "The controls on the Windshield Wiper/Headlight Control Stalk are not visible when driving at night. The setting markings on the Control Stalk are completely dark at night. This creates a safety hazard"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 31,
+      "fires": 10,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 27
+      },
+      {
+        "year": 2016,
+        "count": 60
+      },
+      {
+        "year": 2017,
+        "count": 45
+      },
+      {
+        "year": 2018,
+        "count": 77
+      },
+      {
+        "year": 2019,
+        "count": 113
+      },
+      {
+        "year": 2020,
+        "count": 49
+      },
+      {
+        "year": 2021,
+        "count": 37
+      },
+      {
+        "year": 2022,
+        "count": 21
+      },
+      {
+        "year": 2023,
+        "count": 18
+      },
+      {
+        "year": 2024,
+        "count": 28
+      },
+      {
+        "year": 2025,
+        "count": 18
+      },
+      {
+        "year": 2026,
+        "count": 15
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "16V644000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain model year 2010-2013 Mazda3 and Mazdaspeed3 vehicles manufactured November 18, 2008, to June 8, 2013, 2012-2015 Mazda5 vehicles manufactured October 26, 2010, to June 22, 2015, 2016 CX-3 vehicles manufactured June 1, 2015, to December 26, ",
+        "report_date": "06/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V203000",
+        "component": "STEERING",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain model year 2016 CX-3 vehicles manufactured June 1, 2015, to December 2, 2015, 2013-2014 Mazda2 vehicles manufactured July 3, 2013, to August 8, 2014, 2014-2016 CX-5 vehicles manufactured January 19, 2013, to December 2, 2015, and 2013-2015",
+        "report_date": "11/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V064000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY:FILLER PIPE AND CAP",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain model year 2014-2016 Mazda CX-5 vehicles manufactured June 27, 2013, to February 2, 2016.  The affected vehicles have a fuel filler pipe that may rupture in the event of a crash.  As such, these vehicles fail to comply with the requirement",
+        "report_date": "03/02/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16E002000",
+        "component": "VISIBILITY:WINDSHIELD",
+        "summary": "Pilkington North America, Inc. (Pilkington) is recalling certain replacement windshields, model FW04026 GTY, manufactured November 23, 2015, to December 16, 2015 for use in Mazda CX-5 vehicles that are equipped with the Smart City Brake Support system.  The affected windshields have a bracket mounte",
+        "report_date": "19/01/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V063000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2016 CX-5 vehicles. The LED Daytime Running Lights (DRL) may fail while driving.",
+        "report_date": "06/02/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:32.199Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

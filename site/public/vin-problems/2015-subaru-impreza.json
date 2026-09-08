@@ -1,0 +1,140 @@
+{
+  "slug": "2015-subaru-impreza",
+  "year": 2015,
+  "make": "Subaru",
+  "model": "Impreza",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 79,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 20,
+        "share_pct": 25.3,
+        "excerpts": [
+          "Battery Drain when plugging into the USB port:  This is second battery that had to be replaced since purchase of the vehicle.",
+          "I purchased a Subaru for reliability and safety reasons. This car has placed my family in some dangerous situations. Every time the outside temp is 90+ degrees F and it is driven on a road trip of 200",
+          "Yesterday, March 28, 2022 I stopped to run into a shop. Left my windows down because it was hot. My AC fan doesn’t work half the time. When I put my keys in the ignition, the key would not turn to acc"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 12,
+        "share_pct": 15.2,
+        "excerpts": [
+          "My transmission completely locked up on me while driving at interstate speeds.  I was traveling at 65 MPH with the car in regular driving mode, on cruise control and the transmission completely locked",
+          "Smoke and oil burning smell entering cabin through vents. I have two young children. I’m concerned of toxic fumes.  Coming from oil leaking onto exhaust manifold and at only 52,000 miles on odometer!",
+          "TL* THE CONTACT OWNS A 2015 SUBARU IMPREZA. THE CONTACT STATED WHILE DRIVING AT VARIOUS SPEEDS, AN ABNORMAL GRINDING SOUND WAS PRESENT COMING FROM THE DRIVER'S SIDE FRONT WHEEL WELL. THE VEHICLE WAS T"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 10,
+        "share_pct": 12.7,
+        "excerpts": [
+          "All of a sudden, with no reason whatsoever, my daughter's car has \"rod knock\" with less than 100,000 miles on it.  Bought this Subaru for my daughter so she would have a car that would last a long tim",
+          "I purchased a Subaru for reliability and safety reasons. This car has placed my family in some dangerous situations. Every time the outside temp is 90+ degrees F and it is driven on a road trip of 200",
+          "Yesterday, March 28, 2022 I stopped to run into a shop. Left my windows down because it was hot. My AC fan doesn’t work half the time. When I put my keys in the ignition, the key would not turn to acc"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 7,
+        "share_pct": 8.9,
+        "excerpts": [
+          "The contact owns a 2015 Subaru Impreza. The contact stated that while reversing the vehicle at 10 MPH, the transmission was shifted into drive (D), and the vehicle experienced unintended acceleration ",
+          "I purchased a Subaru for reliability and safety reasons. This car has placed my family in some dangerous situations. Every time the outside temp is 90+ degrees F and it is driven on a road trip of 200",
+          "CAR WON'T TURN OVER IGNITION.  ALL BRAKE LIGHTS STOPPED WORKING.   IT IMPACTED BRAKING, VDC SYSTEM, ABS SYSTEM AND CRUISE CONTROL DIDN'T WORK. OCCURRED AFTER 2 HOUR TRIP WITH NO CONCERNS AND FUNCTIONI"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 7,
+        "share_pct": 8.9,
+        "excerpts": [
+          "We bought our 2015 Subaru Impreza from a used car dealer (we are second owner) in February 2020 with 55K miles on it. On our test drive, we noticed the air bag said it was off even with a passenger in",
+          "Passenger air bag will randomly turn off with passenger riding. This is well know issue with subaru and they still have not sent a recall. With this issue being so wide spread I do not think the deale",
+          "THE VEHICLE WAS PARK AT MY HOME. UPON STARTING THE VEHICLE THE AIRBAG LIGHT ILLUMINATED. SUBARU OF AMERICA WAS CONTACTED AND AN APPOINTMENT WAS SET UP WITH THE LOCAL SUBARU DEALERSHIP.     THE VEHICLE"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 0,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2015,
+        "count": 9
+      },
+      {
+        "year": 2016,
+        "count": 3
+      },
+      {
+        "year": 2017,
+        "count": 7
+      },
+      {
+        "year": 2018,
+        "count": 15
+      },
+      {
+        "year": 2019,
+        "count": 14
+      },
+      {
+        "year": 2020,
+        "count": 12
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "19V149000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2014-2016 Forester, 2008-2016 Impreza sedans, 2012-2016 Impreza station wagons, 2008-2014 WRX sedans (including STI), and 2013-2017 Crosstrek vehicles.  Exposure to certain contaminants may cause the brake light switch to malfunction, preventing ",
+        "report_date": "28/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V366000",
+        "component": "FORWARD COLLISION AVOIDANCE: CRASH IMMINENT BRAKING",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2015 Legacy vehicles manufactured March 10, 2014, to April 16, 2015, Outback vehicles manufactured February 24, 2014, to April 16, 2015, Impreza vehicles manufactured September 9, 2014, to April 14, 2015, XV Crosstrek vehicles manufact",
+        "report_date": "12/06/2015",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:23.049Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

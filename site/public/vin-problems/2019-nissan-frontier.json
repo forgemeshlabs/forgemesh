@@ -1,0 +1,115 @@
+{
+  "slug": "2019-nissan-frontier",
+  "year": 2019,
+  "make": "Nissan",
+  "model": "Frontier",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 28,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 7,
+        "share_pct": 25,
+        "excerpts": [
+          "The contact owns a 2019 Nissan Frontier. The contact stated that while driving at an undisclosed speed, the transmission became inoperable. The contact stated that the vehicle was hacked, and that the",
+          "I was driving a 2019 Nissan Frontier and after pulling out of a parking garage the vehicle was failing to accelerate properly and the engine was jerking. I immediately pulled over and discovered the h",
+          "Can not shift vehicle from park, am being told it is the shifter assembly. The vehicle only has 54,000 miles on it. Have to insert blunt object into shift lock relay to be able to shift out of park."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 5,
+        "share_pct": 17.9,
+        "excerpts": [
+          "Passenger side ocs control unit has failed .",
+          "In a no fault accident, I was passenger. When the collision happened, I was wearing seatbelt, and then I was up in the dash/ windshield, there were flames, smoke. The airbags had \"exploded\" The seatbe",
+          "The contact owns a 2019 Nissan Frontier. The contact stated while driving 45 MPH, the air bar warning light illuminated. The vehicle was taken to an independent mechanic however, the vehicle was not d"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 5,
+        "share_pct": 17.9,
+        "excerpts": [
+          "The contact owns a 2019 Nissan Frontier. The contact stated while driving at approximately 35 MPH, the infotainment system was inoperative; the contact had to restart the infotainment system several t",
+          "Issue: engine and electric system completely shut off randomly while vehicle is driving. Cannot reliably reproduce, but all electric is lost and engine shuts off or at best resets in low gear until th",
+          "There is a lot of 2019 Frontier that has problems with the radio and Bluetooth. In my truck it's the Bluetooth, it just stop working, phone activation doesn't even make a sound. Just stopped out of th"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 3,
+        "share_pct": 10.7,
+        "excerpts": [
+          "I was attempting to drive my Frontier on Christmas day 2025 when several lights appeared on the dash. I also noticed my speedometer no longer functioned. I returned home immediately. Two days later, I",
+          "Only have 17600 miles on vehicle and front caliber were sticking and squeaking. The garage replaced the pads and rebuilt the brakes as they were prematurely sticking and bad. Where not stopping good.",
+          "BRAKES ON 2019 AND EARLIER ARE \"MUSHY\". IN AN EMERGENCY STOP BRAKES DO NOT STOP THE VEHICLE PROPERLY. BRAKE PEDAL TRAVEL IS EXCESSIVE AND PUSHING PEDAL FARTHER, WHILE IN MOTION, DOES NOT INCREASE BRAK"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 2,
+        "share_pct": 7.1,
+        "excerpts": [
+          "Hood flew open while driving on route 23 in Wise Va.",
+          "The paint is peeling off from the front fenders.  I have kept this vehicle well maintained and kept this vehicle out of adverse conditions as much as possible."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 1,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 4
+      },
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "19V654000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2018-2019 Nissan Altima, Armada, Frontier, Kicks, Leaf, Maxima, Murano, NV, NV200, Pathfinder, Rogue, Rogue Sport, Sentra, Titan, Titan Diesel, Versa Note and Versa Sedan vehicles, as well as Infiniti Q50, Q60, QX30 and QX80 vehicles.  Additio",
+        "report_date": "12/09/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:01.794Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

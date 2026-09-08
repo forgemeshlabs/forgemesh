@@ -1,0 +1,144 @@
+{
+  "slug": "2022-honda-pilot",
+  "year": 2022,
+  "make": "Honda",
+  "model": "Pilot",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 149,
+    "top_failure_components": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 39,
+        "share_pct": 26.2,
+        "excerpts": [
+          "My 2022 Honda Pilot developed an intermittent failure of the multipurpose forward camera used by the Honda Sensing system. Multiple dashboard warnings appeared simultaneously, including Adaptive Cruis",
+          "all my lights came on for all of these and break Adaptive Cruise Control  Automatic Emergency Braking  Blind Spot Warning  Forward Collision Warning  Lane Departure Warning  Lane Keeping Assistance  P",
+          "My 2022 Honda Pilot Black Edition (VIN [XXX], 62,900 miles) has multiple intermittent safety‑critical failures involving the transmission, acceleration, adaptive cruise control, and HVAC blower. These"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 33,
+        "share_pct": 22.1,
+        "excerpts": [
+          "My pilot is suffering from the known safety defect where the engine stalls and force shifts into neutral during Auto Idle Stop. The dealership advisor handed me Service bulletin 23-010 admitting my ve",
+          "commonly experiences battery drain, the radio is making Popping or crackling sounds from speakers",
+          "I came to a complete stop at a red light.  The car went into neutral and shut off completely.  In order to restart the car, I had to put it in park to completely restart it in traffic.  This same thin"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 27,
+        "share_pct": 18.1,
+        "excerpts": [
+          "My vehicle is equipped with Honda's Auto Idle Stop system. While driving, the vehicle has chronically suffered from a slow crank symptom. On two occasions, after coming to a complete stop at an inters",
+          "commonly experiences battery drain, the radio is making Popping or crackling sounds from speakers",
+          "What component or system failed or malfunctioned, and is it available for inspection upon request? Has the problem been reproduced or confirmed by a dealer or independent service center?  Per the quot"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 20,
+        "share_pct": 13.4,
+        "excerpts": [
+          "The contact owned a 2022 Honda Pilot. The contact stated that while the vehicle was parked in a parking spot with the brake pedal depressed, the engine revved unexpectedly and independently accelerate",
+          "Brake light wont cut off and drains battery. Car wouldn't start and once battery was charged all steering, cruise control, hill assist, lane assist and other lighs came on. 7 total alerts came on and ",
+          "“The vehicle experiences phantom braking while driving, where the Collision Mitigation Braking System (CMBS) activates without warning even when there are no vehicles or objects in front of me. The ve"
+        ]
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "complaints": 15,
+        "share_pct": 10.1,
+        "excerpts": [
+          "My 2022 Honda Pilot developed an intermittent failure of the multipurpose forward camera used by the Honda Sensing system. Multiple dashboard warnings appeared simultaneously, including Adaptive Cruis",
+          "The front sensor camera has damaged, causing security issues",
+          "I was driving home at 4am on I-95 with my children in the car.  My car has had a history of \"juttering\" and making a vibrational noise, but on the way home there was an issue with acceleration when us"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 0,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 14
+      },
+      {
+        "year": 2023,
+        "count": 22
+      },
+      {
+        "year": 2024,
+        "count": 33
+      },
+      {
+        "year": 2025,
+        "count": 36
+      },
+      {
+        "year": 2026,
+        "count": 43
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "23V431000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2023 Odyssey, 2019-2022 Pilot, and 2019-2023 Passport vehicles.  Due to a faulty Media Oriented Systems Transport (MOST) communication coaxial cable connector, the rearview camera image may not appear on the display.  As such, these vehicles",
+        "report_date": "15/06/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V458000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:MASTER CYLINDER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020-2021 Civic, 2020-2023 Ridgeline, 2021-2023 Passport, 2021-2022 Pilot, and 2020 Acura MDX vehicles.  The tie rod fastener that connects the brake booster and the brake master cylinder may have been improperly assembled during manufacturing, w",
+        "report_date": "29/06/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V064000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020-2022 Pilot, Accord, Civic sedan, HR-V, Odyssey, 2020 Civic coupe, Fit, 2021-2022 Civic hatchback, 2021 Civic Type R, Insight, 2020-2021 CR-V, CR-V Hybrid, Passport, Ridgeline, Accord Hybrid, 2020 Acura MDX, 2022 Acura MDX, 2020-2022 Acura RD",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V365000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "American Honda Motor Company (Honda) is recalling certain 2016-2022 Honda Pilot, 2017-2023 Ridgeline, 2019-2023 Passport, and 2014-2020 Acura MDX vehicles that were sold in Connecticut, Delaware, District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minne",
+        "report_date": "04/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:46.020Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

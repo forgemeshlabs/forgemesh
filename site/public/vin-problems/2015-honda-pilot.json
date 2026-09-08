@@ -1,0 +1,164 @@
+{
+  "slug": "2015-honda-pilot",
+  "year": 2015,
+  "make": "Honda",
+  "model": "Pilot",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 108,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 22,
+        "share_pct": 20.4,
+        "excerpts": [
+          "On July 3, 2026 the check engine light, check VSA warning and check emissions warning indicators all illuminated simultaneously and the vehicle began to misfire and sputter which triggered an immediat",
+          "While driving in traffic the vehicle suddenly began to sputter and lose power with check engine light flashing on the dash board.  I was able to pull over and limp the car the one mile to my home on s",
+          "The contact owns a 2015 Honda Pilot. The contact stated that while driving at an undisclosed speed, the check engine warning light illuminated. In addition, the error message instructed the driver to "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 13,
+        "share_pct": 12,
+        "excerpts": [
+          "See attached document for complaint.",
+          "Honda pilot stalled 3 times today while driving...once on the highway and vehicle did not want to start.",
+          "The contact owns a 2015 Honda Pilot. The contact stated that while attempting to start the vehicle, the vehicle briefly started before stalling. After starting the vehicle, the vehicle returned to nor"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 12,
+        "share_pct": 11.1,
+        "excerpts": [
+          "Steering is shaking when braking at high speed. Replaced pads and rotors multiple times but problem keeps coming back. Lots of complaints also about this issue so please help",
+          "This Honda Pilot has a very low brake pedal , I describe it as a soft pedal.  You have to depress the pedal almost to the floor let up and press it again to get fairly decent stopping power,  still no",
+          "A FEW TIMES WHEN I ATTEMPT TO STOP AT A LIGHT OR STOP SIGN THE VECHICLE WOULD NOT STOP EVEN WHEN I HAD THE BRAKES ON.  I HAVE TO TAKE MY FOOT OFF THE BRAKE AND PUSH DOWN AGAIN TO GET THE CAR TO STOP, "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 11,
+        "share_pct": 10.2,
+        "excerpts": [
+          "1. The engine assembly failed — Piston 1 suffered catastrophic failure due to VCM-related piston ring wear and oil sludge buildup, generating DTCs P0301–P0304 (engine misfire, cylinders 1–4). Vehicle ",
+          "Hello my car has had an ongoing issue that was recalled for the 2009 to 2013 year Honda pilots regarding oil consumption. My car constantly has issues with misfiring due to oil on the spark plugs. Thi",
+          "ENGINE WOULD NOT ACCELERATE/MISFIRING ON HIGHWAY NEARLY CAUSING AN ACCIDENT CERTIFIED MECHANIC REPLACED TIMING TENSIONER, TIMING BELT AND WATER PUMP ALSO REPLACED VARIABLE TIMING TENSIONER, COIL PACKS"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 11,
+        "share_pct": 10.2,
+        "excerpts": [
+          "My whole steering wheel detached while driving",
+          "Airbag lift would come on intermittently.  Upon dealership inspection it was learned that it could be a possible issue with the passenger side airbag and instructed to not drive vehicle.  Airbag was o",
+          "Air Bag light is on. Service department informed me the passenger seat side air bag is faulty. There is no recall on this make year but Other Honda Pilots with same issue but other make years have bee"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 1,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 16
+      },
+      {
+        "year": 2016,
+        "count": 8
+      },
+      {
+        "year": 2017,
+        "count": 5
+      },
+      {
+        "year": 2018,
+        "count": 15
+      },
+      {
+        "year": 2019,
+        "count": 9
+      },
+      {
+        "year": 2020,
+        "count": 10
+      },
+      {
+        "year": 2021,
+        "count": 7
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 13
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "18V661000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2014 Honda Insight and Acura TSX and TSX Wagon, 2014-2015 Honda Crosstour and Pilot vehicles nationwide, as well as certain 2014 Honda FCX Clarity and Fit EV vehicles in Florida, Hawaii, Puerto Rico, Texas, Alabama, Georgia, Louisiana, Mississipp",
+        "report_date": "27/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V502000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2014 TSX Sport Wagon, 2010-2013 ZDX, 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic and Civic Hybrid, 2008-2010 Civic GX NGV, 2012-2015 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2014 Fit EV, 2010-201",
+        "report_date": "27/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V378000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2013 TSX Sport Wagon, and 2010-2012 ZDX and 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic, Civic Hybrid and Civic NGV, 2012-2014 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2010-2013 Insight, and 2009",
+        "report_date": "16/05/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:30.845Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

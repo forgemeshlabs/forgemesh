@@ -1,0 +1,152 @@
+{
+  "slug": "2022-nissan-frontier",
+  "year": 2022,
+  "make": "Nissan",
+  "model": "Frontier",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 110,
+    "top_failure_components": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 33,
+        "share_pct": 30,
+        "excerpts": [
+          "After some driving my Forward Driving Aids light comes on showing the Front Sensor is blocked which it isn't and my Radio sounds like static which will stop if I turn the radio off then back on again ",
+          "While driving the Automatic Braking System (ABS), Traction Control, forward collision, rear collision and system fault triangle alerts displayed resulting in systems being disabled. Pulled code, C1116",
+          "If i get any snow at all on the front of the vehicle. The front accident warning does not work."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 30,
+        "share_pct": 27.3,
+        "excerpts": [
+          "After some driving my Forward Driving Aids light comes on showing the Front Sensor is blocked which it isn't and my Radio sounds like static which will stop if I turn the radio off then back on again ",
+          "While driving the Automatic Braking System (ABS), Traction Control, forward collision, rear collision and system fault triangle alerts displayed resulting in systems being disabled. Pulled code, C1116",
+          "We are having trouble with the passenger door being inoperative.  It will not unlock with the fob or manually, trapping the occupant in the passengers seat.  Using AI we determined this is not an isol"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 24,
+        "share_pct": 21.8,
+        "excerpts": [
+          "See attached document for complaint.",
+          "The light turned green. The truck got up to fourth gear and slipped all the lights on the dash lit up so I took it to the first transmission shop where they said transmission just went out at 75,140 m",
+          "The contact owns a 2022 Nissan Frontier. The contact stated that while driving uphill, the vehicle vibrated. The contact stated that the vibration increased as the contact decelerated. The check engin"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 19,
+        "share_pct": 17.3,
+        "excerpts": [
+          "While driving the Automatic Braking System (ABS), Traction Control, forward collision, rear collision and system fault triangle alerts displayed resulting in systems being disabled. Pulled code, C1116",
+          "This truck was parked in the driveway for at least 24 hours. The battery was dead, so my fiancé got the jumper box out of the truck and popped the hood. After he lifted the hood, he got one of the cla",
+          "I took my 2022 Nissan Frontier SV 4x4 in for an oil change and a state inspection. The shop discovered that my left rear axle seal was leaking all over the brakes and rotors. As a result, it failed th"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 13,
+        "share_pct": 11.8,
+        "excerpts": [
+          "See attached document for complaint.",
+          "Since I purchased my 2022 Nissan Frontier, I have experienced recurring issues where, periodically while driving, all the indicator lights appear on the digital screen (as shown in the attached photo)",
+          "The light turned green. The truck got up to fourth gear and slipped all the lights on the dash lit up so I took it to the first transmission shop where they said transmission just went out at 75,140 m"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 11,
+      "fires": 3,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 6
+      },
+      {
+        "year": 2022,
+        "count": 46
+      },
+      {
+        "year": 2023,
+        "count": 22
+      },
+      {
+        "year": 2024,
+        "count": 15
+      },
+      {
+        "year": 2025,
+        "count": 15
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "21V958000",
+        "component": "SEAT BELTS:CRITICAL FASTENERS",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2022 Frontier vehicles.  The seat belt bracket mounting bolts on the left-rear seat may have been incorrectly tightened.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard numbers 207, \"Seati",
+        "report_date": "09/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V917000",
+        "component": "TRAILER HITCHES",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2022 Frontier Crew Cab Long Bed trucks.  The tow hitch was not installed, compromising the structural integrity of the fuel tank in the event of a rear crash.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehic",
+        "report_date": "22/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V457000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2020-2022 Frontier and Titan vehicles.  The transmission parking pawl may not engage when the vehicle is shifted into park, which can result in a vehicle rollaway.",
+        "report_date": "24/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V527000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2021-2022 Rogue, 2022 Frontier, Pathfinder, and Titan rental vehicles.  When the Sirius XM subscription is set to \"Not Subscribed,\" it may cause the infotainment head unit to reboot, resulting in an inoperative rearview camera.  As such, these",
+        "report_date": "21/07/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V671000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2020-2023 Titan, 2020-2022 Frontier, and 2023 Z vehicles.  The transmission parking pawl may not engage when the vehicle is shifted into park, which can result in a vehicle rollaway.",
+        "report_date": "07/09/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V772000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2022 Titan, Titan XD, Frontier, and 2021-2022 Rogue vehicles.  The in-vehicle infotainment (IVI) system may continuously reboot when the vehicle is restarted, which can result in an inoperative rearview display.  As such, these vehicles fail t",
+        "report_date": "13/10/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:09:04.584Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

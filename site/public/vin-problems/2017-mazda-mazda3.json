@@ -1,0 +1,136 @@
+{
+  "slug": "2017-mazda-mazda3",
+  "year": 2017,
+  "make": "Mazda",
+  "model": "Mazda3",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 83,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 20,
+        "share_pct": 24.1,
+        "excerpts": [
+          "Repeated instances of the Mazda Infotainment system making changes randomly without any user input while driving.  Repeated instances of the navigation system freezing, going black, rebooting while dr",
+          "Malfunctioning on and off on the display screen.  My battery went dead after 11 months. Cause?   It started over a year ago, but I called Mazda and they said there were no recalls at that time. Are th",
+          "The infotainment system is malfunctioning.  It constantly restarts/reboots while I am driving and it is highly distracting.  I contacted Mazda USA about this, but they responded by saying there are no"
+        ]
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "complaints": 11,
+        "share_pct": 13.3,
+        "excerpts": [
+          "Hello frustrated people!    Second time back to the dealership...backup camera they say got wet from moisture,  (after 2 drained batteries in less than 2 years),  my cost. I think that this is a very ",
+          "The contact owns a 2017 Mazda Mazda3. The contact stated that while in reverse(R), the rearview camera would intermittently display a distorted or blank image. The vehicle was taken to a dealer where ",
+          "The contact owns a 2017 Mazda Mazda3. The contact stated that while reversing, the rearview camera image was distorted or showed a black screen occasionally and failed to engage on other occasions. Th"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 7,
+        "share_pct": 8.4,
+        "excerpts": [
+          "I made a right turn onto a gravel driveway that has a slight incline. My speed was less than 10 mph. At the top of the incline I attempted to make a U turn so I could park the car. Midway through the ",
+          "CAR WAS PARKED IN A CARPORT ON FLAT GROUND. CAME OUTSIDE CAR WAS GONE .. ROLLED OUT OF THE CARPORT DOWN A 500 FT DRIVEWAY, TURNED INTO THE DRIVEWAY ACROSS THE HIGHWAY INTO A VEHICLE PARKED THERE.. ELE",
+          "52000 miles and warped brake rotors. Car stops fine. No danger just shimmy in steering wheel when stopping. This has happened way too soon. If it’s about Zoom Zoom Zoom then Mazda should be using a be"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 5,
+        "share_pct": 6,
+        "excerpts": [
+          "Intermittent faulty display (or no display) from rear-view camera as described in Recall 23V-487.  Recall was issued in July 2023, but as of August 27, 2024, the parts to fix the recall issue are stil",
+          "I AM CURRENTLY STATIONED OVERSEAS AND CONTACTED MAZDA CUSTOMER SERVICE SEVERAL TIMES FOR ASSISTANCE WITH THE ISSUE. I NEVER RECEIVED A REPLY AND IT HAS BEEN ALMOST A YEAR SINCE I WAS FIRST NOTIFIED OF",
+          "2017 MAZDA 3 GRAND TOURING HATCHBACK    DRIVING ON A ROAD GOING 30 MPH AND HEAR WHAT SOUNDED LIKE A MUFFLED GUNSHOT RIGHT ABOVE ME. I SAW THAT I HAD GLASS RAINING DOWN THE BACK OF MY CAR, EMPTYING ONT"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 5,
+        "share_pct": 6,
+        "excerpts": [
+          "I have a 2017 Mazda 3 with exactly 59,454 miles. I was driving my car into work and a warning came on saying coolant temperatures high pull over immediately. I feel my safety was at risk since I was o",
+          "ENGINE STALLS WHEN IN MOTION ON HIGHWAY.  SAME AS OTHER MODELS ON NHTSA WEBSITE.",
+          "ENGINE STALLS; STOPS RUNNING.  LOSES TOTAL POWER WHILE DRIVING ON A HIGHWAY. THIS HAS HAPPENED AT LEAST 4 TIMES, BUT MOST LIKELY MORE.  MY MAZDA COMPUTER SHOULD HAVE RECORDED THESE INCIDENTS."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 0,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 4
+      },
+      {
+        "year": 2018,
+        "count": 8
+      },
+      {
+        "year": 2019,
+        "count": 8
+      },
+      {
+        "year": 2020,
+        "count": 11
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 10
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 19
+      },
+      {
+        "year": 2025,
+        "count": 10
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "19V272000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2016-2018 Mazda3 vehicles.  A defective windshield wiper relay may cause the windshield wipers to become inoperative, reducing the driver's visibility.",
+        "report_date": "04/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V487000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2014-2018 Mazda3 and 2016-2021 CX-3 vehicles.  The rearview camera image may not display properly by showing a flickering or distorted image.",
+        "report_date": "14/07/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:37.331Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

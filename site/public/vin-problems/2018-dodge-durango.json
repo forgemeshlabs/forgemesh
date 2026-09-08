@@ -1,0 +1,164 @@
+{
+  "slug": "2018-dodge-durango",
+  "year": 2018,
+  "make": "Dodge",
+  "model": "Durango",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 229,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 86,
+        "share_pct": 37.6,
+        "excerpts": [
+          "Water in racetrack tailgate taillights",
+          "The contact owns a 2018 Dodge Durango.  The contact stated that while driving approximately 20 MPH on the highway, the vehicle stalled. The electronic stability control(ESC) warning light was illumina",
+          "Odometer Fraud. The contact purchased a 2018 Dodge Durango. The contact discovered that there was a mileage discrepancy. The vehicle was a dealer sale purchased on December 27, 2025. At the time of pu"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 55,
+        "share_pct": 24,
+        "excerpts": [
+          "The contact owns a 2018 Dodge Durango. The contact stated that a section of the rear light was inoperable. The passenger’s side light was inoperable. There were no warning lights illuminated. The vehi",
+          "Water in racetrack tailgate taillights",
+          "The tailgate light has gone out on my 2018 Dodge Durango R/T. Researching online has lead me to discover that this is a known issue that is costing customers thousands of dollars due to a known design"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 26,
+        "share_pct": 11.4,
+        "excerpts": [
+          "Back to back error codes P0300  P0108 P1404 P0172 Rough running engine.  Very strong smell of fuel at two different times while driving.  Vehicle not responding to gas pedal while driving on highway. ",
+          "The contact owns a 2018 Dodge Durango. The contact stated that the check engine warning light was illuminated. The vehicle was taken to a certified mechanic, who diagnosed that the spark plugs had fai",
+          "Over time, the valvetrain in my engine became gradually louder. Because there were no check engine lights or fault codes, I initially assumed this was a normal characteristic of the engine. That chang"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 25,
+        "share_pct": 10.9,
+        "excerpts": [
+          "FORMAL COMPLAINT Safety Recall 94B (NHTSA Campaign No. 24V-838)  I hereby submit this complaint regarding the failure to properly complete Safety Recall 94B (NHTSA Campaign No. 24V-838) involving the ",
+          "Manufacturer Recall Number94B NHTSA Recall Number24V-838  Recall has been active but without a solution since 2022 and reopened in 2024.",
+          "Anti lock brakes do not work. First icy conditions it locked up easily.  94B recall was supposed to be \"first quarter of 2025\""
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 21,
+        "share_pct": 9.2,
+        "excerpts": [
+          "The passenger side active headrest restraint deployed at 3mph in a parking lot. There had been a safety recall for apparently my vin is not covered per dodge.   [XXX]  If this would have happened on t",
+          "June 11, 2026 Re: Unexpected Passenger-Side Active Head Restraint Deployment – 2018 Dodge Durango R/T  To Whom It May Concern: I am reporting an incident involving my 2018 Dodge Durango R/T equipped w",
+          "Headrest on driver seat ejected at a stop and threw my wife’s head forward."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 0,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 17
+      },
+      {
+        "year": 2019,
+        "count": 32
+      },
+      {
+        "year": 2020,
+        "count": 18
+      },
+      {
+        "year": 2021,
+        "count": 32
+      },
+      {
+        "year": 2022,
+        "count": 45
+      },
+      {
+        "year": 2023,
+        "count": 23
+      },
+      {
+        "year": 2024,
+        "count": 23
+      },
+      {
+        "year": 2025,
+        "count": 25
+      },
+      {
+        "year": 2026,
+        "count": 12
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "18V280000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Dodge Charger, Durango and Challenger, Jeep Grand Cherokee and Wrangler, Chrysler 300, and RAM 1500 vehicles.  An incorrect transmission park lock rod may have been installed in the transmission.",
+        "report_date": "01/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V524000",
+        "component": "ELECTRICAL SYSTEM:WIRING:FRONT UNDERHOOD",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Jeep Renegade, Compass and Grand Cherokee, RAM 1500 and Promaster, Fiat 500x, Dodge Journey, Challenger, Charger and Durango and Chrysler 300x vehicles, 2017-2018 Jeep Wrangler, Dodge Grand Caravan and Chrysler Town and Country vehicles and 2018-2019 J",
+        "report_date": "09/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V426000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2019 Jeep Grand Cherokee and Dodge Durango vehicles.  A malfunction in the antilock-brake system (ABS) module may illuminate the brake lights, and allow the vehicle to start and shift out of Park without the brake pedal being applied.",
+        "report_date": "09/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V838000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2019 Jeep Grand Cherokee and Dodge Durango vehicles.  A malfunction in the antilock-brake system (ABS) module may incorrectly illuminate the brake lights and disable the ABS and electronic stability control (ESC).  In addition, the vehicle operator ma",
+        "report_date": "07/11/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:52.054Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

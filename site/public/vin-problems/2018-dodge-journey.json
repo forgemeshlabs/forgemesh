@@ -1,0 +1,168 @@
+{
+  "slug": "2018-dodge-journey",
+  "year": 2018,
+  "make": "Dodge",
+  "model": "Journey",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 232,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 72,
+        "share_pct": 31,
+        "excerpts": [
+          "Sitting at red light and with out warning car turns off I place it in park and try to start car again as soon as I push the ignition to crank the car a huge explosion from under the hood blew the hood",
+          "Was driving when power saver mode came on then died on the road. Charged the battery  and it died 1 minute later checked the voltage and it appears the pump voltage regulator stopped working",
+          "The wires that control my windows no longer work because the wires are in my door jam and after years of opening and closing the door on the wires they are worn out"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 30,
+        "share_pct": 12.9,
+        "excerpts": [
+          "Sitting at red light and with out warning car turns off I place it in park and try to start car again as soon as I push the ignition to crank the car a huge explosion from under the hood blew the hood",
+          "I replaced the alternator and battery, 3 months later I was told I have an issue with the pcm which was similar with the recall for the same vehicle I drove. My vehicle was not part of the recall. Tbs",
+          "Stated having coolant issues in 2023.  September 2025 Engine light Started blinking and Started running rough at 65 mph. Stopped the vehicle and you could see the whole car shaking from the motor runn"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 26,
+        "share_pct": 11.2,
+        "excerpts": [
+          "First Complain is that I was driving my 2018 Dodge Journey SE 2.4L across the interstate in [XXX]. My friend was sitting in the Passenger's seat when all of a sudden a loud popping noise happened and ",
+          "Back up camera failure cutting off and on. Could cause wreck. Dull headlights. Could cause a wreck.Leak in firewall driver floor wet. Could short out electrical system, cause shock, cause a wreck. No ",
+          "It started with third brake light out, then,tail wipers intermittenly work, then camera not working- had to have someone watch the back of car to see also right inside light out AND Tailgate wont lock"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 25,
+        "share_pct": 10.8,
+        "excerpts": [
+          "The brake calipers and brake rotators in the front are a safety concern. In other recalls the rear calipers and rotors have been flagged for recall. The front also has the same issue.    Unrelated the",
+          "The contact owns a 2018 Dodge Journey. The contact stated that while driving at an undisclosed speed, the vehicle stalled and failed to stop immediately. The traction control, ABS, and brake warning l",
+          "I have a 2018 Dodge Journey SE with currently 70,000 miles. I'm the second owner & purchased it with only 11,000 miles on it. The front brakes | anti-lock braking system (ABS) experienced failure when"
+        ]
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "complaints": 23,
+        "share_pct": 9.9,
+        "excerpts": [
+          "The contact owns a 2018 Dodge Journey. The contact stated that while reversing, the rear-view camera displayed a blank image. The vehicle was taken to the dealer; however, the vehicle was not inspecte",
+          "The contact owns a 2018 Dodge Journey. The contact stated that while reversing, the rear-view camera image was inverted. The contact later received notification of NHTSA Campaign Number: 25E052000 (Ba",
+          "Loss of Visibility in Backup Camera  When in reverses the camera will come on then go fuzzy then go out and displays a camera in orange with an orange line going though it"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 2,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 23
+      },
+      {
+        "year": 2019,
+        "count": 32
+      },
+      {
+        "year": 2020,
+        "count": 25
+      },
+      {
+        "year": 2021,
+        "count": 17
+      },
+      {
+        "year": 2022,
+        "count": 16
+      },
+      {
+        "year": 2023,
+        "count": 35
+      },
+      {
+        "year": 2024,
+        "count": 29
+      },
+      {
+        "year": 2025,
+        "count": 35
+      },
+      {
+        "year": 2026,
+        "count": 19
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "18V396000",
+        "component": "VISIBILITY:REARVIEW MIRRORS/DEVICES",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Dodge Journey vehicles.  When reverse gear has been selected, the rear camera view may not be fully visible within two seconds.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 111, \"",
+        "report_date": "14/06/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V398000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Dodge Journey and RAM 1500, 2500, and 3500 vehicles.  The backup camera may experience a loss of image display while backing up.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 111, ",
+        "report_date": "14/06/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V523000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018-2019 Dodge Grand Caravan and Jeep Compass, 2018 Dodge Journey, and 2019 Jeep Cherokee vehicles.  The rear brake caliper pistons on these vehicles may have an insufficient coating causing gas pockets to form, potentially reducing rear brake performance.",
+        "report_date": "09/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V524000",
+        "component": "ELECTRICAL SYSTEM:WIRING:FRONT UNDERHOOD",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Jeep Renegade, Compass and Grand Cherokee, RAM 1500 and Promaster, Fiat 500x, Dodge Journey, Challenger, Charger and Durango and Chrysler 300x vehicles, 2017-2018 Jeep Wrangler, Dodge Grand Caravan and Chrysler Town and Country vehicles and 2018-2019 J",
+        "report_date": "09/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V723000",
+        "component": "EXTERIOR LIGHTING",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2017-2018 Dodge Journey vehicles.  The amber side reflex reflector assembled into the headlamp may not reflect brightly enough.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 108, \"Lamps, Refle",
+        "report_date": "29/09/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:53.496Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

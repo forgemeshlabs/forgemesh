@@ -1,0 +1,224 @@
+{
+  "slug": "2009-toyota-sienna",
+  "year": 2009,
+  "make": "Toyota",
+  "model": "Sienna",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 207,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 97,
+        "share_pct": 46.9,
+        "excerpts": [
+          "The driver's side sliding door was stuck and I was struggling with it. Suddenly, the quarter panel window shattered (the window between the door and the back of the car) and the door came halfway off ",
+          "The cables for the rear power sliding doors snapped on my car causing the door to be jammed shut. When the second one broke approximately two weeks later it's snap back whipping nearly hitting my thre",
+          "The rear passenger side sliding door cable and motor assembly on the Toyota Sienna failed, causing the door to become completely inoperative (cannot open nor close) and the broken cable nearly cut my "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 28,
+        "share_pct": 13.5,
+        "excerpts": [
+          "Odometer Fraud. The contact owned a 2009 Toyota Sienna. The contact discovered a mileage discrepancy after the vehicle was sold. The vehicle was a private sale. At the time of the sale, the vehicle mi",
+          "On my 2009 Toyota Sienna XLE V6 FWD. The anti-slip indicator light improperly turns-on on dry roads at safe speeds. This causes a distraction to the driver.",
+          "Vehicle has an unknown electrical draw this draining the battery every night, making vehicle unusable even in emergency.  Mechanic has confirmed draw but is unable to find short."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 14,
+        "share_pct": 6.8,
+        "excerpts": [
+          "2009 TOYOTA SIENNA WITH 134K MILEAGE HAS SRS WARNING LIGHT ON ALL OF A SUDDEN AND STAYS ON.  TOYOTA DEALER WOULD CHARGE ME FOR DIAGNOSING AND CHARGE ME IF ANY FURTHER JOBS NEED TO BE DONE.  SHOULDN'T ",
+          "THE AIRBAG LIKE CAME ON AND HAS NOT GONE OFF. HAD MECHANIC CHECK IT AND WAS TOLD THAT THE SQUIB CIRCUIT HAD A SHORT AND THAT IF IN AN ACCIDENT  AIRBAGS WILL NOT DEPLOY. DEALER SAID IT COULD COST UP TO",
+          "TL* THE CONTACT OWNS A 2009 TOYOTA SIENNA. WHILE DRIVING AT AN UNKNOWN SPEED, THE AIR BAG WARNING INDICATOR ILLUMINATED INTERMITTENTLY, WHICH WAS A SAFETY CONCERN. THE VEHICLE WAS NOT TAKEN TO A DEALE"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 13,
+        "share_pct": 6.3,
+        "excerpts": [
+          "UNEXPECTED ACCELARATION WHILE ATTEMPTING TO PARK;LOW SPEED, BARELY MOVING. THE VEHICLE(2009 TOYOTA SIENNA LUNGED FORWARD AND HIT A PARKED VEHICLE CAUSING DAMAGED TO THE SIENNA AND THE PARKED VEHICLE.",
+          "TAKATA RECALL ! I  WAS DRIVING TOYOTA SIENNA ON LOCAL STREET IN BOCA RATON WHEN CAR HAD UNEXPLAINED ACCELERATION. CAR STRUCK A TREE WHICH CAUSED THE AIR BAGS TO REACT. I HAD AIRBAGS STUFFING IN MY LUN",
+          "ON 12/25/14 THE TOYOTA SIENNA HAD UNEXPLAINED ACCELERATION AND HIT A TREE AT 31 MPH. MY WIFE AND SON HAD RIGHT SIDE LUNG CONTUSIONS. MY WIFE HAD AN OPEN WOUND FROM THE SEAT BELT. SINCE SHE WAS RESTRAI"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 12,
+        "share_pct": 5.8,
+        "excerpts": [
+          "On my 2009 Toyota Sienna XLE V6 FWD. The anti-slip indicator light improperly turns-on on dry roads at safe speeds. This causes a distraction to the driver.",
+          "A DEALERSHIP INSPECTION ON AUGUST 30, 2017, ON MY 2009 SIENNA VAN WITH 76,096 MILES ON IT I WAS TOLD THE POWER STEERING UNIT WAS LEAKING AND NEEDED TO BE REPLACED.  THE COST WOULD BE 1014.98 PLUS ALIG",
+          "TOYOTA 2009 SIENNA LE 2WD POWER STEERING RACK & PINION SEAL FAILED AND LEAKED ON THE PASSENGER SIDE AT 85,000 MILES. THE RACK BOOT ALSO TORE BROKEN. REPAIR COST IS ESTIMATED AT APPROXIMATELY $1,300. N"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 15,
+      "fires": 3,
+      "injuries": 49,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 13
+      },
+      {
+        "year": 2010,
+        "count": 10
+      },
+      {
+        "year": 2011,
+        "count": 23
+      },
+      {
+        "year": 2012,
+        "count": 8
+      },
+      {
+        "year": 2013,
+        "count": 16
+      },
+      {
+        "year": 2014,
+        "count": 26
+      },
+      {
+        "year": 2015,
+        "count": 25
+      },
+      {
+        "year": 2016,
+        "count": 30
+      },
+      {
+        "year": 2017,
+        "count": 27
+      },
+      {
+        "year": 2018,
+        "count": 13
+      },
+      {
+        "year": 2019,
+        "count": 6
+      },
+      {
+        "year": 2020,
+        "count": 5
+      },
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 10,
+    "recalls": [
+      {
+        "campaign_number": "17V657000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2005-2007 and 2009-2010 Toyota Sienna vehicles.  In the affected vehicles, due to a problem within the shift lock assembly, the shift lever may be moved out of the 'Park' position without depressing the brake pedal.",
+        "report_date": "18/10/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V743000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2011 Prius and Corolla, 2009-2011 Venza, 2006-2010 Avalon, 2007-2010 FJ Cruiser, 2005-2011 Sienna and Sequoia, 2006-2011 Tacoma 4x2 and 4x4, Camry, Highlander, Tundra 4x2 and 4x4, and 2007-2011 Rav4 and 4Runner.  The affec",
+        "report_date": "19/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V396000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2005-2011 4Runner, Highlander, Sequoia, and Sienna, 2005-2010 Avalon and Tundra, 2006-2008 Camry Solara, 2006-2010 Highlander hybrid, 2006-2011 Rav4 and Tacoma, 2007-2010 FJ Cruiser, 2007-2011 Camry hybrid, 2009-2010 Venza, 2010-2012 Priu",
+        "report_date": "02/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V273000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2004-2011 Sienna vehicles originally sold in, or currently registered in, Connecticut, Delaware, Illinois, Indiana, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, New Hampshire, New Jersey, New York, Oh",
+        "report_date": "22/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V429000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Toyota is recalling certain model year 2004-2005 Sienna vehicles manufactured January 10, 2003, through August 10, 2005; and model year 2007-2009 Sienna vehicles manufactured February 20, 2007, through December 12, 2008.  In the affected vehicles, due to a problem within the shift lock solenoid, the",
+        "report_date": "26/09/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V036000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2011 PASSENGER VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD WITHOUT THE REQUISITE LOAD CARRYING CAPACITY MODIFICATION LABELS.",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V234000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2006 THROUGH 2009 SIENNA AND 2009 LEXUS GX PASSENGER VEHICLES.  THE VEHICLE CAPACITY WEIGHT ON THE TIRE AND LOADING INFORMATION LABEL AND THE GVWR ON THE CERTIFICATION LABEL IS INSUFFICIENT FOR CERTAIN VEHICLES.  SOME VEHICLES WERE ACCESSORIZED THROUGH VEHICLE ",
+        "report_date": "25/06/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V223000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "TOYOTA IS RECALLING 27,080 MODEL YEAR 2005 THROUGH 2010 PASSENGER CARS BUILT FROM SEPTEMBER 1, 2005 TO MAY 4, 2009.  THESE VEHICLES WERE NOT EQUIPPED WITH LOAD CARRYING CAPACITY MODIFICATION LABELS WHICH FAILS TO CONFORM WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE S",
+        "report_date": "15/06/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V035000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "GULF STATES TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2010 VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD BETWEEN SEPTEMBER 1, 2005 AND JUNE 2, 2008 WITHOUT THE REQUISITE LOAD CARRYING CAPA",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V160000",
+        "component": "STRUCTURE",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 1998 THROUGH 2010 SIENNA PASSENGER VEHICLES MANUFACTURED BETWEEN AUGUST 7, 1997 AND JANUARY 4, 2010, CURRENTLY REGISTERED IN OR ORIGINALLY SOLD IN CONNECTICUT, DELAWARE, ILLINOIS, INDIANA, KENTUCKY, MAINE, MARYLAND, MASSACHUSETTS, MICHIGAN, MINNESOTA,  NEW HAMP",
+        "report_date": "20/04/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:49:48.206Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

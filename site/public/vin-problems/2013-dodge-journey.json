@@ -1,0 +1,168 @@
+{
+  "slug": "2013-dodge-journey",
+  "year": 2013,
+  "make": "Dodge",
+  "model": "Journey",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 353,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 74,
+        "share_pct": 21,
+        "excerpts": [
+          "The contact owns a 2013 Dodge Journey. The contact stated that while driving, the ABS, brake, and traction control warning lights remained illuminated. The vehicle was taken to an independent mechanic",
+          "The contact owns a 2013 Dodge Journey. The contact stated that on several occasions while driving at various speeds, the air bag and ABS warning lights illuminated, and the cruise control feature beca",
+          "ABS Module failure. Replaced ABS module with brand new Mopar replacement. ABS module still will not communicate with system. No traction control, cruise control, multiple lights in dash."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 73,
+        "share_pct": 20.7,
+        "excerpts": [
+          "Incident occurred onJune 29, 2026 approximately around 6 pm.   The system in question is the electrical.   I was pulling out of the parking space at the Safeway parking lot, my arm was rested on the d",
+          "ABS Module failure. Replaced ABS module with brand new Mopar replacement. ABS module still will not communicate with system. No traction control, cruise control, multiple lights in dash.",
+          "Cusumer choice automotive  1706 lower Roswell rd. Sold me a vehicle with a branded title with /knowledge it was a total loss vehicle now the ABS and traction lights or on the seatbelt deployed light i"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 72,
+        "share_pct": 20.4,
+        "excerpts": [
+          "The contact owned a 2013 Dodge Journey. The contact received a notification of NHTSA Campaign Number: 17V432000 (Air Bags). The contact stated that previously, while driving at an undisclosed speed, t",
+          "Oil filter housing cap broke during Oil filter change.",
+          "The Catalytic Converter is the issue per our mechanic. We have had several issues out of the the vehicle, resulting in more money than the car is worth. The car no longer reaches over 55-60 mph, which"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 58,
+        "share_pct": 16.4,
+        "excerpts": [
+          "On Tuesday, September 16, 2025, at approximately 1:30 PM, the driver’s side headrest, part of my 2013 Dodge Journey’s AHR (Active Head Restraint) system suddenly exploded for no apparent reason. I was",
+          "My headrest randomly deployed/opened. I have contacted the dealership, and spoke directly, with Dodge; still no success. I have been trying to get this issue fixed for over a year; I still have a brok",
+          "The driver side seat headrest cushion deployed automatically. There was no car collision. I noticed the seat headrest deployed after returning to the car hours later. I liked into the interior back si"
+        ]
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "complaints": 44,
+        "share_pct": 12.5,
+        "excerpts": [
+          "The contact owns a 2013 Dodge Journey. The contact stated that while driving, the ABS, brake, and traction control warning lights remained illuminated. The vehicle was taken to an independent mechanic",
+          "The contact owns a 2013 Dodge Journey. The contact stated that while driving at various speeds and driving through slush or snow on the ground, the traction control failed to operate as designed. The ",
+          "MY WHOLE STEERING COLUMN IS CAUSING PROBLEMS FROM AIRBAGS, MY WIPERS NOT WORKING NOW, SPEED-CONTROL WONT WORK., TRACTION CONTROL . CAUSING MY CAR TO SWERVE OUT OF CONTROL AND CAUSING MY CAR TO ALMOST "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 19,
+      "fires": 9,
+      "injuries": 32,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 9
+      },
+      {
+        "year": 2014,
+        "count": 19
+      },
+      {
+        "year": 2015,
+        "count": 53
+      },
+      {
+        "year": 2016,
+        "count": 44
+      },
+      {
+        "year": 2017,
+        "count": 21
+      },
+      {
+        "year": 2018,
+        "count": 31
+      },
+      {
+        "year": 2019,
+        "count": 62
+      },
+      {
+        "year": 2020,
+        "count": 46
+      },
+      {
+        "year": 2021,
+        "count": 17
+      },
+      {
+        "year": 2022,
+        "count": 15
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 12
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "17V432000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2015 Dodge Journey vehicles.  In the affected vehicles, the driver's frontal air bag may unexpectedly deploy if the air bag wiring harness gets chafed within the steering wheel and short circuits.",
+        "report_date": "07/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V273000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST:HOSE, PIPING, AND CONNECTIONS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2009-2016 Dodge Journey vehicles manufactured July 31, 2007, to November 12, 2016.  After exposure to cold temperatures, the power steering return hose may rupture at engine start-up causing a loss of power steering assist.",
+        "report_date": "06/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V675000",
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2012-2015 Dodge Journey vehicles manufactured April 21, 2012, to April 14, 2015.  In the affected vehicles, water may enter the wiring harness for the Anti-lock Brake System (ABS) module and leak into the module, disabling the ABS and/or the Elec",
+        "report_date": "19/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V431000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2015 Dodge Journey vehicles manufactured July 19, 2010, to May 26, 2015 and equipped with 2.4L engines.  In the affected vehicles, the engine cover may detach from the engine and contact the exhaust manifold.",
+        "report_date": "07/07/2015",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:26.297Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

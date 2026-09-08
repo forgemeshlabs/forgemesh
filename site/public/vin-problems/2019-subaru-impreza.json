@@ -1,0 +1,156 @@
+{
+  "slug": "2019-subaru-impreza",
+  "year": 2019,
+  "make": "Subaru",
+  "model": "Impreza",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 194,
+    "top_failure_components": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 63,
+        "share_pct": 32.5,
+        "excerpts": [
+          "I attempted to get a safety recall (headlamp assembly defect) addressed at my local Subaru dealership. The vehicle is still under warranty, and I was told I may be able to get a loaner or rental. Howe",
+          "The contact owns a 2019 Subaru Impreza. The contact received notification of NHTSA Campaign Number: 22V624000 (Exterior Lighting) however, the part to do the recall repair was unavailable. The local d",
+          "The contact owns a 2019 Subaru Impreza. The contact received notification of NHTSA Campaign Number: 22V624000 (Exterior Lighting); however, the part to do the recall repair was not yet available. The "
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 55,
+        "share_pct": 28.4,
+        "excerpts": [
+          "I was under the vehicle changing the oil and heard a loud bang. I investigated the sound and didn't notice anything. After completion of the oil change I got into the driver seat and noticed my rear v",
+          "Recall still has no fix over a year later",
+          "This is my first car and im completely disappointed I purchased it bc of safety. My car battery keeps dying I purchased my car in 2019 and since then i have changed it 4 times. I keep taking it to the"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 19,
+        "share_pct": 9.8,
+        "excerpts": [
+          "The contact owns a 2019 Subaru Impreza. The contact stated that while driving approximately 30-40 MPH, the vehicle rolled to a stop and stalled in hot and cold temperatures. There were no warning ligh",
+          "When attempting to start the vehicle, randomly, the key loses programming. This is the 2nd time where the keys lose programming and vehicle has to be towed at owners' expense and wait as long as 5 day",
+          "The contact owns a 2019 Subaru Impreza. The contact stated while driving 5 MPH, while depressing the accelerator pedal the vehicle loss power. An independent mechanic was contacted. No warning light w"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 8,
+        "share_pct": 4.1,
+        "excerpts": [
+          "Front right caliper seized less than 3k miles following dealer service including brake fluid flush. Replaced calipers, pads, and rotors at my own expense. Suspect internal degradation of rubber brake ",
+          "I had my vehicle inspected on 5/3/25 and all 4 break lines had bubbles protruding from the rubber break lines that go from the caliper to the metal lines.  A safety recall for the same problem exists ",
+          "Your vehicle inspection has been completed. Unfortunately we found all 4 of your brake lines are swelling and will need to be replaced. The parts are not in stock and will need to be ordered. Until th"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 8,
+        "share_pct": 4.1,
+        "excerpts": [
+          "The contact owns a 2019 Subaru Impreza. The contact stated that while driving approximately 30-40 MPH, the vehicle rolled to a stop and stalled in hot and cold temperatures. There were no warning ligh",
+          "Owner’s manual calls for 87 octane fuel. Vehicle engine pings on anything less than 91 octane. Subaru should issue an update to prevent engine damage.",
+          "Low speed throttle application vehicle fails to respond.  Does not happen all the time.  A near collision almost happened while making a left hand turn with oncoming traffic.  Has been happening repea"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 1,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 22
+      },
+      {
+        "year": 2020,
+        "count": 28
+      },
+      {
+        "year": 2021,
+        "count": 36
+      },
+      {
+        "year": 2022,
+        "count": 38
+      },
+      {
+        "year": 2023,
+        "count": 33
+      },
+      {
+        "year": 2024,
+        "count": 21
+      },
+      {
+        "year": 2025,
+        "count": 10
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "21V587000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2019-2020 Ascent, 2018 Forester, 2018-2020 Impreza, Legacy, Outback, 2018-2019 BRZ, WRX, and Toyota 86 vehicles.  The low-pressure fuel pump inside the fuel tank may fail.",
+        "report_date": "29/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V264000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2017-2019 Subaru Impreza and 2018-2019 Crosstrek vehicles.  The Engine Control Module (ECM) may continue to power the ignition coil after the engine is shut off, causing a short circuit.",
+        "report_date": "15/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V218000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2019 Impreza, Outback, Legacy, and Ascent vehicles.  The low pressure fuel pump may become inoperative.",
+        "report_date": "16/04/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V743000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2017-2019 Impreza and 2018-2019 Crosstrek vehicles.  The Engine Control Module (ECM) may continue to power the ignition coil after the engine is shut off, which could result in a short circuit and blown fuse.",
+        "report_date": "18/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V624000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2017-2019 Impreza vehicles.  The left and right side reflex reflector and left side low beam reflector may inadequately reflect light.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 1",
+        "report_date": "12/08/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:34.929Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

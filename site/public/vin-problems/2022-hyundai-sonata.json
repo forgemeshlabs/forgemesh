@@ -1,0 +1,128 @@
+{
+  "slug": "2022-hyundai-sonata",
+  "year": 2022,
+  "make": "Hyundai",
+  "model": "Sonata",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 91,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 24,
+        "share_pct": 26.4,
+        "excerpts": [
+          "The engine on a 2022 Hyundai Sonata developed rod knock at approximately 99,460 miles. The vehicle had been serviced exclusively at an authorized Hyundai dealership for its entire life with 12 documen",
+          "Our 2022 Hyundai Sonata experienced multiple issues related to recalls affecting the vehicle’s reliability and operation. Due to these ongoing problems, the vehicle was taken to a dealership and has r",
+          "I have noticed puddles under/near rear side door/tire, the smell of gas after filling up tank. And a reduced MPG lower than normal with same driving habits."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 24,
+        "share_pct": 26.4,
+        "excerpts": [
+          "2022 Hyundai Sonata N Line, VIN [XXX] , purchased August 15, 2025 with low mileage under original manufacturer warranty. Within 3 months, recurring transmission and drivability failures began. Six rep",
+          "My 2022 Hyundai sonata hybrid started blowing white smoke from the exhaust. Took it to the dealership and was advised the valve that controls antifreeze failed and leaking antifreeze in exhaust. This ",
+          "Car leaked oil multiple times. First time they said it was a faulty drain plug then after a few months it kept leaking. Took it back to the dealership and they said the gasket around the oil pan was f"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 22,
+        "share_pct": 24.2,
+        "excerpts": [
+          "RECALL REMEDY FAILURE AND MANUFACTURER COERCION  My Certified Pre-Owned 2022 Hyundai Sonata Limited has been held completely out of service at an authorized Hyundai facility since June 2, 2026, due to",
+          "The vehicle’s fuel tank system failed catastrophically. The vehicle is currently grounded and has been inspected at the Hyundai dealership service center where it was towed. My safety and the safety o",
+          "Our 2022 Hyundai Sonata experienced multiple issues related to recalls affecting the vehicle’s reliability and operation. Due to these ongoing problems, the vehicle was taken to a dealership and has r"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 15,
+        "share_pct": 16.5,
+        "excerpts": [
+          "The contact owns a 2022 Hyundai Sonata. The contact stated that while driving at an undisclosed speed, the HVAC blower motor became inoperable with no warning light illuminated. The vehicle was taken ",
+          "2022 Hyundai Sonata N Line, VIN [XXX] , purchased August 15, 2025 with low mileage under original manufacturer warranty. Within 3 months, recurring transmission and drivability failures began. Six rep",
+          "The cars fan is constantly running even when the car is cool. I think it has to do with the ITMS I contacted the dealer and they said there’s nothing they can do about it this happens every time the v"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 9,
+        "share_pct": 9.9,
+        "excerpts": [
+          "Hyundai Sonata SEL - 2022 Both Leg break and hand break didnt work while driving. its a very severe issue in this model.",
+          "I was pulling into a parking space at my church, same place I routinely parked. I was moving forward slowly with foot on brake alternating lifting foot to move forward until I was all the way in. As I",
+          "Car keep cutting off and fuel injection is not right"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 0,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 23
+      },
+      {
+        "year": 2023,
+        "count": 16
+      },
+      {
+        "year": 2024,
+        "count": 18
+      },
+      {
+        "year": 2025,
+        "count": 18
+      },
+      {
+        "year": 2026,
+        "count": 15
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "21V524000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2021-2022 Santa Fe and Sonata vehicles equipped with 2.5L turbocharged engines.  Fuel may leak at the pipe connection between the high-pressure fuel pump and fuel rail.",
+        "report_date": "09/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V746000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain 2021-2022 Santa Fe, Sonata, Veloster N, 2022 Santa Cruz, Elantra N, and Kona N vehicles.  The vehicle's \"fail-safe\" limited-mobility drive mode may be impaired, when prompted by a transmission oil pump malfunction, which can result in a complete l",
+        "report_date": "06/10/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V796000",
+        "component": "FUEL SYSTEM, GASOLINE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2020-2023 Sonata vehicles. A damaged check valve can allow air to enter the fuel tank, causing it to expand and contact hot exhaust components, melting the tank.",
+        "report_date": "18/11/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:23.356Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

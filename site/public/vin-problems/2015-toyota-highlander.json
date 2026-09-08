@@ -1,0 +1,152 @@
+{
+  "slug": "2015-toyota-highlander",
+  "year": 2015,
+  "make": "Toyota",
+  "model": "Highlander",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 190,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 52,
+        "share_pct": 27.4,
+        "excerpts": [
+          "The a/c condenser was damaged due to impact of road debris. This caused loss of proper system operation. The cost to repair was $1100+. The debris entered thru the front grill, which has nothing in pl",
+          "The contact owns a 2015 Toyota Highlander. The contact stated that the power liftgate consistently failed halfway through while opening and closing the liftgate. The vehicle was not taken to the deale",
+          "The contact owns a 2015 Toyota Highlander. The contact stated that while driving on several occasions at various speeds, the infotainment screen would go blank and the system would turn on inadvertent"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 30,
+        "share_pct": 15.8,
+        "excerpts": [
+          "The factory paint on my 2015 Toyota Highlander, Blizzard Pearl (Toyota code 070), is delaminating from the primer. The base coat lifts and peels in sheets, starting on the roof, fender, and pillars — ",
+          "The paint is severely peeling on the outside. This can likely flake off and damages other vehicles, property, and roadway infrastructure. This is the factory coat of paint. Color is Toyota Blizzard Pe",
+          "The contact owns a 2015 Toyota Highlander. The contact stated that the power liftgate consistently failed halfway through while opening and closing the liftgate. The vehicle was not taken to the deale"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 25,
+        "share_pct": 13.2,
+        "excerpts": [
+          "The contact owns a 2015 Toyota Highlander. The contact stated that while driving on several occasions at various speeds, the infotainment screen would go blank and the system would turn on inadvertent",
+          "[XXX] battery light appeared on dash. [XXX] on my way to Limestone service station 399 Danbury rd Ridgefield ct ph203-438-8028 a warning appeared on dash stating i will lose steering.Luckily I managed",
+          "Driving the car was hard to steer. Check engine light came on and check speed sensor. Went to a mechanic and disconnected the battery, the sensor reset and back driving ok for about two weeks.  This w"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 15,
+        "share_pct": 7.9,
+        "excerpts": [
+          "I have noticed speed issues or high idling with this vehicle for a while.  I committed a rear end collision with a vehicle on July 4, 2025, at approximately 2pm.  My car rear ended his truck while it ",
+          "The following error message appears:“Both accelerator and brake pads are depressed”. This is not actually being done.The vehicle will then brake suddenly on its own, and the driver must accelerate the",
+          "BACK STOP LIGHT GET RAIN WATER! PASSENGER SIDE FRONT BREAK ALWAYS WEARING OUT BEFORE OTHERS BREAKS ! TRUNK DOOR AUTOMATIC BROKEN! 3 ROW SIT UNDER NEED GET RUSHED!  SEAT BELT MOUNTED ON THE FLOOR IF YO"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 12,
+        "share_pct": 6.3,
+        "excerpts": [
+          "The side mirrors are too large and located in a position that when the driver is turning left the driver's side mirror blocks the ability to see the crosswalk and also the center divider of the lane t",
+          "While driving at highway speed of about 60 MPH, the moonroof burst and shattered in to thousands of pieces. There was no warning, no indication of stress or wear before the incident. Hundreds of other",
+          "Repeated cracking of the windshield from even trivial impact from highway rocks/stones. Windshield replaced once by the Dealer service station with OEM glass at a cost of 1600 dollars out of pocket ex"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 17,
+      "fires": 6,
+      "injuries": 16,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 3
+      },
+      {
+        "year": 2015,
+        "count": 34
+      },
+      {
+        "year": 2016,
+        "count": 26
+      },
+      {
+        "year": 2017,
+        "count": 17
+      },
+      {
+        "year": 2018,
+        "count": 26
+      },
+      {
+        "year": 2019,
+        "count": 21
+      },
+      {
+        "year": 2020,
+        "count": 16
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 11
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 8
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "18E107000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Fujian Wanda Automobile Glass Industry (Wanda) is recalling certain aftermarket Replacement Windshields sold for use in 2014-2018 Toyota Highlander vehicles.  The windshields have an attached wire harness that water may leak into, possibly causing damage to the vehicle's Engine Control Module (ECM).",
+        "report_date": "27/11/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V144000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2015 Camry, Camry Hybrid, Highlander, and Highlander Hybrid, and 2014-2015 Rav4 vehicles.  A component of the electric power steering (EPS) electronic control unit (ECU) may have been damaged during the manufacturing p",
+        "report_date": "13/03/2015",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:26.770Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

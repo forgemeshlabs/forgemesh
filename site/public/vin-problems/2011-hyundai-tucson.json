@@ -1,0 +1,188 @@
+{
+  "slug": "2011-hyundai-tucson",
+  "year": 2011,
+  "make": "Hyundai",
+  "model": "Tucson",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 124,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 40,
+        "share_pct": 32.3,
+        "excerpts": [
+          "I own a 2011 Hyundai Tucson (VIN: [XXX] ). The vehicle had an engine replacement performed by Hyundai service. Immediately after picking up the car, I noticed a loud abnormal noise coming from underne",
+          "I purchased this vehicle from an acquaintance, who had it serviced by a local mechanic. Before I decided to buy it, I spoke with the mechanic he used, as well as calling the dealer with the vin number",
+          "The contact owns a 2011 Hyundai Tucson. The contact stated that while driving at unknown speed, she heard a knocking and ticking noise coming from under the hood of the vehicle. The oil warning light "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 34,
+        "share_pct": 27.4,
+        "excerpts": [
+          "The contact's daughter owns a 2011 Hyundai Tucson. The contact stated that upon his daughter attempting to enter the vehicle through the front driver’s side door, the door failed to open. The contact ",
+          "Recall # 251 has been going on at great length and I have an appointment for 11:30am April 1,2025 for what they deem as a solution to # 251 Recall that does not fix the problem and goes against everyt",
+          "Happened to be driving our car (11/23/25) to drop off our other car for brake pad replacement. On the way to our mechanic the brake light came on in the dash cluster.  After having spoken to our mecha"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 21,
+        "share_pct": 16.9,
+        "excerpts": [
+          "The contact's daughter owns a 2011 Hyundai Tucson. The contact stated that upon his daughter attempting to enter the vehicle through the front driver’s side door, the door failed to open. The contact ",
+          "The contact owns a 2011 Hyundai Tucson. The contact received notification of NHTSA Campaign Number: 23V651000 (Service Brakes, Hydraulic); however, the part to do the recall repair was not yet availab",
+          "The contact owns a 2011 Hyundai Tucson. The contact received notification of NHTSA Campaign Number: 23V651000 (Service Brakes, Hydraulic); however, the part to do the recall repair was not yet availab"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 20,
+        "share_pct": 16.1,
+        "excerpts": [
+          "THE RUBBER TRANSMISSION COOLING LINES BROKE AT 55 MPH ON RT 81S AND INSTANTLY BLEW THE TRANSMISSION.  MY VEHICLE IS THE EXACT MAKE, MODEL AND YEAR OF THE NHTSA CAMPAIGN 16V05700.  I CONTACTED HYUNDAI ",
+          "TL* THE CONTACT OWNS A 2011 HYUNDAI TUCSON. WHILE THE VEHICLE WAS AT AN INDEPENDENT MECHANIC FOR ROUTINE MAINTENANCE, THE CONTACT WAS INFORMED THAT THE TRANSMISSION HAD A LEAK. THE CONTACT STATED THAT",
+          "THE ENGINE ON MY 2011 HYUNDAI TUCSON LIMITED SEIZED UP WITHOUT WARNING ON FEBRUARY 6TH, 2018 WHILE DRIVING DOWN THE HIGHWAY AT 65 MPH ON HWY 44 IN ST. LOUIS. THE ENGINE ONLY HAD 78,000 MILES ON IT AND"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 12,
+        "share_pct": 9.7,
+        "excerpts": [
+          "Recall # 251 has been going on at great length and I have an appointment for 11:30am April 1,2025 for what they deem as a solution to # 251 Recall that does not fix the problem and goes against everyt",
+          "The contact owned a 2011 Hyundai Tucson. The contact received notification of NHTSA Campaign Number: 23V651000) however, the part to do the recall repair was not yet available The contact stated while",
+          "Recalls for my model"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 3,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 2
+      },
+      {
+        "year": 2011,
+        "count": 10
+      },
+      {
+        "year": 2012,
+        "count": 7
+      },
+      {
+        "year": 2013,
+        "count": 7
+      },
+      {
+        "year": 2014,
+        "count": 2
+      },
+      {
+        "year": 2015,
+        "count": 2
+      },
+      {
+        "year": 2016,
+        "count": 7
+      },
+      {
+        "year": 2017,
+        "count": 3
+      },
+      {
+        "year": 2018,
+        "count": 8
+      },
+      {
+        "year": 2019,
+        "count": 26
+      },
+      {
+        "year": 2020,
+        "count": 4
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 19
+      },
+      {
+        "year": 2024,
+        "count": 12
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "19V063000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2013 Tucson vehicles. The engine oil pan may leak and, if not addressed, the loss of oil may result in engine damage.",
+        "report_date": "05/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V057000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:COOLING UNIT AND LINES",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain model year 2011 Hyundai Tucson vehicles manufactured July 22, 2010, to October 31, 2010.  The affected vehicles have a transmission fluid cooler hose that may have been improperly manufactured, resulting in a transmission fluid leak.",
+        "report_date": "28/01/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V245000",
+        "component": "AIR BAGS",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2011-2014 Hyundai Tucson vehicles manufactured January 3, 2011, through December 23, 2013.  In the affected vehicles, the air bag assembly installed in the steering wheel may come loose from its mounting.",
+        "report_date": "13/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V113000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2006-2009 Accent, model year 2007-2011 Azera, Sonata and Sante Fe,2006-2011 Tucson, 2009-2011 Elantra Touring, 2007-2010 Elantra, 2008-2011 Veracruz, 2009-2011 Genesis, 2010-2011 Genesis Coupe, 2007-2008 Entourage, and  2006-2008 Tiburo",
+        "report_date": "01/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V651000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2015 Elantra, Genesis Coupe, Sonata Hybrid, 2012-2015 Accent, Azera, Veloster, 2013-2015 Elantra Coupe, Santa Fe, 2014-2015 Equus, 2010-2012 Veracruz, 2010-2013 Tucson, 2015 Tucson Fuel Cell, and 2013 Santa Fe Sport vehicles.  The Anti-Lock B",
+        "report_date": "22/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:54:30.279Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

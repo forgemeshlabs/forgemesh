@@ -1,0 +1,164 @@
+{
+  "slug": "2015-gmc-acadia",
+  "year": 2015,
+  "make": "GMC",
+  "model": "Acadia",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 261,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 108,
+        "share_pct": 41.4,
+        "excerpts": [
+          "The airbag emblem keeps popping up.",
+          "I have pictures the seat, the airbag in the seat.The driver's seatIt didn't come through the seat, but it deployed or ruptured.But it didn't bust through the seat.It's like a big bubble. I was just dr",
+          "The contact owns a 2015 GM GMC Acadia. While the contact's wife was driving at an undisclosed speed, there was a loud sound coming from the vehicle. The contact stated that the service air bag warning"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 33,
+        "share_pct": 12.6,
+        "excerpts": [
+          "Not inspected by anyone else because they have no idea where to look because the light and actions happen on and off. Warning light and message appears. Service Traction Control and service Stabilink ",
+          "Complete loss of steering at low speeds.  This has been an issue with GM for years, and is still not corrected on my 2015 GMC Acadia.  At a stop light or when turning a corner, I could barely turn the",
+          "The contact owns a 2015 GMC Acadia. The contact stated while making a turn and parking, the steering wheel was hard to maneuver. The contact stated no warning lights were illuminated. The contact drov"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 32,
+        "share_pct": 12.3,
+        "excerpts": [
+          "2015 gmc Acadia, vin ending 7457,p2635,stuttering/hesitation and engine stalling when Arizona temperatures exceed 100* f , and mechanic advising that the condition corresponded to a known gmc issue fo",
+          "The contact owns a 2015 GMC Acadia. The contact stated that while driving at 25 MPH, the instrument panel went blank before the panel began to flash when it returned. The contact then stated that seve",
+          "The contact owns a 2015 GMC Acadia. The contact stated that the automatic alert system anti-theft system locked up. The contact stated that the vehicle failed to start. Additionally, the safety sensor"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 23,
+        "share_pct": 8.8,
+        "excerpts": [
+          "2015 gmc Acadia, vin ending 7457,p2635,stuttering/hesitation and engine stalling when Arizona temperatures exceed 100* f , and mechanic advising that the condition corresponded to a known gmc issue fo",
+          "Transmission jerks and shakes the vehicle when shifting in certain conditions.",
+          "Torque converter is bad, shudders when shifting"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 19,
+        "share_pct": 7.3,
+        "excerpts": [
+          "2015 gmc Acadia, vin ending 7457,p2635,stuttering/hesitation and engine stalling when Arizona temperatures exceed 100* f , and mechanic advising that the condition corresponded to a known gmc issue fo",
+          "The engine is not shifting properly, and the vehicle loses speed while driving and hesitates to accelerate.  At time, it feels as though the car is not moving at all.  This issue has occurred on multi",
+          "I was curious about recalls because I totaled my 15 Acadia SLT2 and when I hit the impact didn’t deploy airbags and I had no idea until after my accident that they were recalled!!! This incident total"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 3,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 8
+      },
+      {
+        "year": 2016,
+        "count": 12
+      },
+      {
+        "year": 2017,
+        "count": 11
+      },
+      {
+        "year": 2018,
+        "count": 27
+      },
+      {
+        "year": 2019,
+        "count": 37
+      },
+      {
+        "year": 2020,
+        "count": 24
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 12
+      },
+      {
+        "year": 2023,
+        "count": 78
+      },
+      {
+        "year": 2024,
+        "count": 25
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 10
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "15V044000",
+        "component": "TIRES",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015 Buick Enclave vehicles manufactured December 9, 2014, to January 14, 2015, 2015 Chevrolet Traverse vehicles manufactured December 9, 2014, to January 20, 2015, and 2015 GMC Acadia vehicles manufactured December 9, 2014, to January 16, 2015",
+        "report_date": "28/01/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V246000",
+        "component": "AIR BAGS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2015, 2017 Buick Enclave, 2010-2019 Chevrolet Traverse, and 2011-2016 GMC Acadia vehicles.  The side curtain air bags may not be properly attached.",
+        "report_date": "08/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V246000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2015 Buick Enclave, Chevrolet Traverse and GMC Acadia vehicles.  The driver's air bag inflator may explode during deployment, due to a manufacturing defect.",
+        "report_date": "14/04/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V334000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014-2017 Buick Enclave, Chevrolet Traverse, and GMC Acadia vehicles.  The driver's air bag inflator may explode during deployment, due to a manufacturing defect.",
+        "report_date": "10/05/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:53.826Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

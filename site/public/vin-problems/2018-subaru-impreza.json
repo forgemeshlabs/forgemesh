@@ -1,0 +1,156 @@
+{
+  "slug": "2018-subaru-impreza",
+  "year": 2018,
+  "make": "Subaru",
+  "model": "Impreza",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 149,
+    "top_failure_components": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 64,
+        "share_pct": 43,
+        "excerpts": [
+          "On 8/9/24 I was involved in a fender bender minor collision with a parked car which damaged my right-hand headlamp assembly on my 2018 Subaru Impreza.   On 8/23/24 I brought my car to Subaru of Ann Ar",
+          "The contact owns a 2018 Subaru Impreza. The contact received notification of NHTSA Campaign Number: 22V624000 (Exterior Lighting); however, the part to do the recall repair was not yet available. The ",
+          "The headlights on my vehicle are incredibly dim. Subaru issued a recall about this in August 2022 and I have been constantly asking my local dealerships and Subaru of America to get this address. They"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 33,
+        "share_pct": 22.1,
+        "excerpts": [
+          "Headlights Recall from 8/2022 still has no remedy available. NHTSA Recall Number22V624000",
+          "While parked at a roadside rest for the night I heard a sound similar to cracking but didn’t think anything of it. The next day when the sun came up I noticed the windshield was cracking and had a few",
+          "Subaru has failed to repair the halogen headlight safety recall in a timely manner. This recall was first announced on August 16th, 2022. It has been 9 months and the remedy for the safety recall has "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 12,
+        "share_pct": 8.1,
+        "excerpts": [
+          "My vehicle has repeatedly displayed a “low tire pressure” warning despite having been serviced twice for this issue. In addition, there is an open case with Subaru of America regarding ongoing perform",
+          "The Starlink head unit, produced by HK, is having the same issues that the WUA86 update should have fixed. It was reprogrammed in 2019, and less than 1 year later when my wife bought it, it was having",
+          "When the car is turned on, all of the lights flicker nonstop to the point of moderately reducing line of sight. I am terrified the headlights are going to just quit altogether. The car also “shimmys” "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 11,
+        "share_pct": 7.4,
+        "excerpts": [
+          "The contact owns a 2018 Subaru Impreza. The contact stated that while driving at an undisclosed speed, the engine overheated and the high-temperature warning light illuminated. The vehicle was towed t",
+          "Engine oil leak.  An engine oil leak could potentially cause a fire hazard by igniting when leaking into hot components. It could cause engine damage due to inadequate lubrication leading to overheati",
+          "Knocking sound in engine confirmed by dealership service center to be a spark knock in the engine. No fix available and the service center stated \"is a common problem in Impreza.\""
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 6,
+        "share_pct": 4,
+        "excerpts": [
+          "it is a case of sudden acceleration when parking the car in battery , goin forward very slowly, the subaru impreza  accelerate , jump the curve and crash agaings a tree 5 ft away from the curve, the r",
+          "Bought this car 1 year ago at East Hills Subaru. Among other problems such as water leaking inside vehicle due to clogged drains, most recent issue is the steering column not locking firmly.  This is ",
+          "WINDSHIELD CRACKED IN MIDDLE FOR NO REASON. CRACK IS 1.5 FEET LONG. VEHICLE WAS STATIONARY WHEN IT OCCURRED."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 1,
+      "injuries": 2,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 15
+      },
+      {
+        "year": 2019,
+        "count": 8
+      },
+      {
+        "year": 2020,
+        "count": 20
+      },
+      {
+        "year": 2021,
+        "count": 14
+      },
+      {
+        "year": 2022,
+        "count": 46
+      },
+      {
+        "year": 2023,
+        "count": 30
+      },
+      {
+        "year": 2024,
+        "count": 10
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "21V587000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2019-2020 Ascent, 2018 Forester, 2018-2020 Impreza, Legacy, Outback, 2018-2019 BRZ, WRX, and Toyota 86 vehicles.  The low-pressure fuel pump inside the fuel tank may fail.",
+        "report_date": "29/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V264000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2017-2019 Subaru Impreza and 2018-2019 Crosstrek vehicles.  The Engine Control Module (ECM) may continue to power the ignition coil after the engine is shut off, causing a short circuit.",
+        "report_date": "15/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V744000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:EMISSION CONTROL:CRANKCASE (PCV)",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2017-2018 Impreza and 2018 Crosstrek vehicles equipped with an aluminum Positive Crankcase Ventilation (PCV) valve.  The PCV valve may come apart, allowing the separated components to enter the engine, possibly resulting in a loss of power while ",
+        "report_date": "17/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V743000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2017-2019 Impreza and 2018-2019 Crosstrek vehicles.  The Engine Control Module (ECM) may continue to power the ignition coil after the engine is shut off, which could result in a short circuit and blown fuse.",
+        "report_date": "18/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V624000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2017-2019 Impreza vehicles.  The left and right side reflex reflector and left side low beam reflector may inadequately reflect light.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 1",
+        "report_date": "12/08/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:32.772Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

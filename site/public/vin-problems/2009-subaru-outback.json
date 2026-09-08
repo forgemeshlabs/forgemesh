@@ -1,0 +1,268 @@
+{
+  "slug": "2009-subaru-outback",
+  "year": 2009,
+  "make": "Subaru",
+  "model": "Outback",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 112,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 31,
+        "share_pct": 27.7,
+        "excerpts": [
+          "The airbag light stays on all the time.",
+          "airbag light is on.",
+          "Car stalling at stops. Received a report on all work done on this car stating issues with catalytic converter and that Subaru repaired before I bought the car. I also had loss of all brakes when the l"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 23,
+        "share_pct": 20.5,
+        "excerpts": [
+          "The rear hatch on this Outback won't lock. As a woman on her own, my safety is at risk. I have read of other people who have this issue and has been able to fix this on their own. This is a safety iss",
+          "The contact owns a 2009 Subaru Outback. The contact stated that the vehicle failed to restart after being parked. The contact stated that several attempts were needed to start the vehicle. The contact",
+          "The contact owns a 2009 Subaru Outback. The contact stated while driving at various speeds, the vehicle shut-off with the check engine, traction control and cruise control warning lights illuminated. "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 16,
+        "share_pct": 14.3,
+        "excerpts": [
+          "The contact owned a 2009 Subaru Outback. The contact stated that while driving at 50 MPH, the vehicle had failed to accelerate above 60 MPH without warning. The contact soon began to notice heavy whit",
+          "Both the head gasket and valve cover gasket are leaking oil.  The head gasket started leaking at 52k miles and the valve cover at 65k miles.  Both need to be replaced.  Subaru has had issues with thes",
+          "The contact owns a 2009 Subaru Outback. The contact stated while driving at various speeds, the vehicle shut-off with the check engine, traction control and cruise control warning lights illuminated. "
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 11,
+        "share_pct": 9.8,
+        "excerpts": [
+          "The contact owns a 2009 Subaru Outback. The contact stated that while driving at an undisclosed speed, the front headlights became inoperative. No warning lights were illuminated. The vehicle was take",
+          "THERE IS A WELL DOCUMENTED FAULTY DESIGN ISSUE THAT LEADS TO FAILURE OF THE WIRING HARNESS (REAR GATE CORD) TO THE REAR WAGON DOOR/GATE OF THIS MODEL SUBARU OUBACK WAGONS.    FAILURE OF THE WIRING HAR",
+          "INDIVIDUAL WIRES IN THE HARNESS POWERING AND CONTROLLING THE BRAKE, TURN, BACKUP, AND LICENSE PLATE LIGHTS, AND THE REAR WIPER MOTOR AND WASHER PUMP, MAY FAIL WITHOUT WARNING. THIS FAILURE COULD RESUL"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 10,
+        "share_pct": 8.9,
+        "excerpts": [
+          "When I parked my vehicle in the garage, I smelled an odor coming from the engine compartment. I found that the front right inner axle boot had leaked grease. I then saw that the grease covered the cat",
+          "BROUGHT IT TO HONDA DEALERSHIP I PURCHASED IT USED. 18 MONTHS LATER, I'M HAVING THE CURRENT ISSUE. THOUGHT IT WAS AS SIMPLE AS USING WHITE LITHIUM GREASE TO DEAL WITH THE SQUEAK IN THE CLUTCH. THEY SA",
+          "AT 37450 MILES, BOTH CV JOINT BOOTS ADJACENT TO THE TRANSMISSION FAILED, CAUSING GREASE TO COAT THE EXHAUST SYSTEM AND THE CATALYTIC CONVERTER. THIS CREATES A FIRE HAZARD. THE VEHICLE WAS PURCHASED NE"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 5,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 1
+      },
+      {
+        "year": 2008,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 8
+      },
+      {
+        "year": 2010,
+        "count": 6
+      },
+      {
+        "year": 2011,
+        "count": 4
+      },
+      {
+        "year": 2012,
+        "count": 5
+      },
+      {
+        "year": 2013,
+        "count": 4
+      },
+      {
+        "year": 2014,
+        "count": 18
+      },
+      {
+        "year": 2015,
+        "count": 9
+      },
+      {
+        "year": 2016,
+        "count": 17
+      },
+      {
+        "year": 2017,
+        "count": 9
+      },
+      {
+        "year": 2018,
+        "count": 7
+      },
+      {
+        "year": 2019,
+        "count": 2
+      },
+      {
+        "year": 2020,
+        "count": 2
+      },
+      {
+        "year": 2021,
+        "count": 6
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 13,
+    "recalls": [
+      {
+        "campaign_number": "20V001000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester, 2003-2006 Baja, 2004-2011 Impreza, 2004-2014 WRX (STI included), 2003-2014 Legacy and Outback, and 2005-2006 Saab 9-2X vehicles originally sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawai",
+        "report_date": "02/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V003000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester, 2003-2006 Baja, 2004-2011 Impreza, 2004-2014 WRX (including STI), 2003-2014 Legacy and Outback, and 2005-2006 Saab 9-2X vehicles originally sold, or ever registered, in the states of Alaska, Colorado, Connecticut, Idaho, Iowa,",
+        "report_date": "02/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V002000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester, 2003-2006 Baja, 2004-2011 Impreza, 2004-2014 WRX (including STI), 2003-2014 Legacy and Outback, and 2006 Saab 9-2X vehicles originally sold, or ever registered, in the states of Arizona, Arkansas, Delaware, District of Columbi",
+        "report_date": "02/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V297000",
+        "component": "ELECTRICAL SYSTEM:IGNITION:SWITCH",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester vehicles, 2008-2011 Impreza vehicles, 2008-2014 WRX vehicles, 2005-2014 Legacy vehicles, 2005-2014 Outback vehicles and 2006-2008 Tribeca vehicles equipped with a mechanical key ignition switch installed as a replacement part. ",
+        "report_date": "11/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V358000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2003-2004 Legacy, Outback, 2009-2011 Legacy, Outback, Forester, 2006-2011 Impreza, Tribeca, 2003-2006 Baja, and 2006 Saab 9-2x vehicles originally sold or that have ever been registered in Alabama, California, Florida, Georgia, Hawaii,",
+        "report_date": "25/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V013000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2010 Tribeca, Impreza, Forester, WRX, Legacy, and Outback vehicles sold, or ever registered, in the states of Arizona, Arkansas, Delaware, District of Columbia, Illinois, Indiana, Kansas, Kentucky, Maryland, Missouri, Nebraska, Nevada, New J",
+        "report_date": "09/01/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V026000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2005-2006 Baja, 2009 Forester, Legacy and Outback and 2006-2009 Impreza (including WRX and STI models) and Tribeca vehicles originally sold, or ever registered, in the states of Arizona, Arkansas, Delaware, District of Columbia, Illinois, Indiana",
+        "report_date": "11/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V014000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2005-2006 Subaru Baja, 2006-2011 Impreza (including WRX and STI models), 2006-2012 Tribeca, 2009-2012 Forester, Legacy, Outback, and 2012 WRX vehicles originally sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Ha",
+        "report_date": "10/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V012000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Legacy, Forester, Tribeca, WRX and Outback vehicles, and 2009-2011 Impreza vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, Puerto Rico, Am",
+        "report_date": "09/01/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V014000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009 Tribeca, Impreza, Forester, WRX, Legacy, and Outback vehicles sold, or ever registered, in the states of Alaska, Colorado, Connecticut, Idaho, Iowa, Maine, Massachusetts, Michigan, Minnesota, Montana, New Hampshire, New York, North Dakota, O",
+        "report_date": "09/01/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V738000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2007-2009 model year Legacy and Outback vehicles, 2008-2014 Impreza vehicles and 2009-2013 Forester vehicles, all equipped with turbo-charged engines.  The relay that controls the secondary air injection pump may fail, causing the pump",
+        "report_date": "13/10/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V311000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2005-2009 Outback and Legacy, 2008-2011 Impreza and 2008-2014 Impreza WRX/STI, and 2009-2013 Forester vehicles, currently, or formerly, registered in Connecticut, Delaware, Illinois, Indiana, Iowa, Maine, Maryland, Massachusetts, Michi",
+        "report_date": "10/06/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V110000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Subaru is recalling certain model year 2005-2009 Outback and Legacy vehicles manufactured from December 2003, through April 2009 and currently, or formerly, registered in Connecticut, Delaware, Illinois, Indiana, Iowa, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshire, New",
+        "report_date": "27/03/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:49:40.090Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

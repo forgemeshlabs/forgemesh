@@ -1,0 +1,204 @@
+{
+  "slug": "2008-chevrolet-malibu",
+  "year": 2008,
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1015,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 468,
+        "share_pct": 46.1,
+        "excerpts": [
+          "As I'm driving I hear a chime and the radio says power steering and I just loose power steering it's scary and I really wish gm would have made this a permanent recall",
+          "I own a 2008 Chevrolet Malibu LTZ (VIN [XXX] ) with an electric power steering (EPS) issue that matches GM’s known EPS defect and recall 14V‑153 / bulletin 15356 for 2007–2012 Malibus. The steering is",
+          "The EPS malfunctions and turns off during normal driving operations at random intervals. Happens more when temperature outside is below 50 degrees. This has made it difficult to steer and has almost c"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 244,
+        "share_pct": 24,
+        "excerpts": [
+          "Randomly when I press the brakes the brake lights don't turn on. Other times they work fine. All of the light bulbs are good. All three brake light don't turn on randomly. I have almost been rear-ende",
+          "UNKNOWN",
+          "The power steering consistently locks up. It may or may not reset itself if you turn the car off and back on. It’s very dangerous. It’s hard to drive . It definitely licks up if it’s cold outside or i"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 107,
+        "share_pct": 10.5,
+        "excerpts": [
+          "The contact owns a 2008 Chevrolet Malibu. The contact stated that the gear shifter could be moved without depressing the brake pedal. The contact then stated that the vehicle had failed to start up af",
+          "The contact owns a 2008 Chevrolet Malibu. The contact stated that while driving at undisclosed speeds, the brake lights illuminated without the brake pedal being depressed. The contact stated that whi",
+          "The contact owns a 2008 Chevrolet Malibu. The contact stated while his partner was driving approximately 30 MPH, the brake pedal was depressed; however, the brake lights failed to activate or respond "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 90,
+        "share_pct": 8.9,
+        "excerpts": [
+          "Randomly when I press the brakes the brake lights don't turn on. Other times they work fine. All of the light bulbs are good. All three brake light don't turn on randomly. I have almost been rear-ende",
+          "The car starts to violently shake and the the engine service light starts to flash. The ABS light stays on and the car runes terribly. The system says a spark plug coil has burned out. Locate the ba c",
+          "The contact owns a 2008 Chevrolet Malibu. The contact stated that while driving at 25-30 MPH, the steering wheel locked. The check engine warning light and the ABS warning light illuminated. The conta"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 89,
+        "share_pct": 8.8,
+        "excerpts": [
+          "I backed my car up, put the car in park,  opened the door and got out. I walked a few feet away when I noticed the car rolling backwards. The open car door caught a fence which stopped the car from ro",
+          "The contact owns a 2008 Chevrolet Malibu. The contact stated that the gear shifter could be moved without depressing the brake pedal. The contact then stated that the vehicle had failed to start up af",
+          "TL* THE CONTACT OWNS A 2008 CHEVROLET MALIBU. THE CONTACT STATED WHILE DRIVING IN REVERSE, THE GEAR SHIFTER MOVED THROUGH THE GEARS AND WAS STUCK IN PARK. THERE WERE NO WARNING LIGHTS ILLUMINATED. THE"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 33,
+      "fires": 5,
+      "injuries": 20,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 1
+      },
+      {
+        "year": 2008,
+        "count": 34
+      },
+      {
+        "year": 2009,
+        "count": 46
+      },
+      {
+        "year": 2010,
+        "count": 78
+      },
+      {
+        "year": 2011,
+        "count": 90
+      },
+      {
+        "year": 2012,
+        "count": 80
+      },
+      {
+        "year": 2013,
+        "count": 92
+      },
+      {
+        "year": 2014,
+        "count": 149
+      },
+      {
+        "year": 2015,
+        "count": 86
+      },
+      {
+        "year": 2016,
+        "count": 66
+      },
+      {
+        "year": 2017,
+        "count": 65
+      },
+      {
+        "year": 2018,
+        "count": 57
+      },
+      {
+        "year": 2019,
+        "count": 67
+      },
+      {
+        "year": 2020,
+        "count": 36
+      },
+      {
+        "year": 2021,
+        "count": 18
+      },
+      {
+        "year": 2022,
+        "count": 19
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 9
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "14V252000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2004-2012 Chevrolet Malibu vehicles manufactured May 16, 2003, through October 11, 2012, 2004-2007 Malibu Maxx vehicles manufactured June 25, 2003, through April 5, 2007, 2005-2010 Pontiac G6 vehicles manufactured May 26, 2004, through January ",
+        "report_date": "14/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V153000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2004-2006 and 2008-2009 Chevrolet Malibu, 2004-2006 Malibu Maxx, 2009-2010 HHR (non-turbo), 2010 Cobalt, 2008-2009 Saturn Aura and 2004-2007 Ion, and 2005-2009 Pontiac G6.  In the affected vehicles, there may be a sudden loss of electric power ",
+        "report_date": "31/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V224000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "General Motors LLC (GM) notified the agency on April 29, 2014, that they are recalling 56,214 model year 2007 and 2008 Saturn Aura vehicles.  On May 22, 2014, GM increased the recall to include an additional 1,074,899 model year 2004-2008 Chevrolet Malibu vehicles manufactured from May 16, 2003, thr",
+        "report_date": "30/04/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14E044000",
+        "component": "STEERING",
+        "summary": "Dorman Products, Inc. (Dorman) is recalling certain replacement intermediate steering shafts sold under the Dorman, OE Solutions, and Solutions brand names, part numbers 425-167, 2425167, and 7-3074, for installation on 2004-2012 Chevrolet Malibu, 2005-2010 Pontiac G6, and 2007-2009 Saturn Aura vehi",
+        "report_date": "21/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V460000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "General Motors (GM) is recalling certain model year 2007-2010 Saturn Aura and model year 2008-2010 Chevrolet Malibu and Pontiac G6 vehicles, equipped with a 4-speed automatic transmission. On these vehicles, the tabs on the transmission shift cable end may fracture and separate.",
+        "report_date": "18/09/2012",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:46:54.720Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

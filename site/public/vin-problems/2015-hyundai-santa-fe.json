@@ -1,0 +1,148 @@
+{
+  "slug": "2015-hyundai-santa-fe",
+  "year": 2015,
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 254,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 160,
+        "share_pct": 63,
+        "excerpts": [
+          "Driving on highway no warning lights appeared the car made a loud pop noise and heavy smoke appeared from under the hood. Immediately pulled over and noticed all of the oil poured out and was nasty lo",
+          "I was driving down the road ( a busy Farm to market road) and my car lost power and died. Luckily i got off of the road. I tried to start the car again, but it kept dying. I had my son in law come hel",
+          "The engine failed due to complete and sudden oil loss. The vehicle is currently at Fremont Hyundai and available for inspection. Safety risk: the engine failed while driving on the highway with childr"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 30,
+        "share_pct": 11.8,
+        "excerpts": [
+          "2015 Hyundai Santa Fe Limited, 3.3L Lambda II GDI V6, ~102,000 miles. In December 2022, an authorized Hyundai dealer replaced three specific parts under a Hyundai recall/campaign (records requested). ",
+          "The contact owns a 2015 Hyundai Santa Fe. The contact received notification of NHTSA Campaign Number:  23V651000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet avail",
+          "The contact owns a 2015 Hyundai Santa Fe. The contact stated that while driving at an undisclosed speed, he observed smoke emanating from the engine compartment, prompting him to pull to the shoulder "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 22,
+        "share_pct": 8.7,
+        "excerpts": [
+          "2015 Hyundai Santa Fe Limited, 3.3L Lambda II GDI V6, ~102,000 miles. In December 2022, an authorized Hyundai dealer replaced three specific parts under a Hyundai recall/campaign (records requested). ",
+          "The 3.3 liter V6 GDI engine failed while driving at approximately 136000 miles. Heard a ticking noise start shortly after leaving home, and had hesitation and shaking upon acceleration from a stop sig",
+          "We were on our way home from the children's hospital in Philadelphia for my daughter (4 hours away from home) and my 2015 Santa Fe with the 3.3L motor began to knock. My dad (who is very mechanically "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 20,
+        "share_pct": 7.9,
+        "excerpts": [
+          "The engine has basically come apart. There is a timing chain issue, the engine is not recalled and it is getting where the car cannot drive.   There is a constant smell of burning electrical wires. Th",
+          "The engine is continually knocking. It has caused the powertrain system to start to fail. The interior portion of the car with electrical is malfunctioning and causing the car to lag. Many attempts ha",
+          "The blue link on all older models is not being supported which cause the screen to become stuck on loading screen. This is a visibility and safety issue because it cause blue link to reload and bright"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 13,
+        "share_pct": 5.1,
+        "excerpts": [
+          "Misfire code P0302 Injector failed open, flooded cylinder with fuel. Gas in the oil  Possible cylinder failure Lack of compression",
+          "Engine has goes on out at 99000 miles has seized up .",
+          "While driving at 65 mph on an urban expressway, the engine quit without warning and would not restart.  This resulted in diminished steering and braking control as well as exposure near the edge of tr"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 13,
+      "injuries": 10,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 12
+      },
+      {
+        "year": 2016,
+        "count": 9
+      },
+      {
+        "year": 2017,
+        "count": 13
+      },
+      {
+        "year": 2018,
+        "count": 12
+      },
+      {
+        "year": 2019,
+        "count": 9
+      },
+      {
+        "year": 2020,
+        "count": 30
+      },
+      {
+        "year": 2021,
+        "count": 42
+      },
+      {
+        "year": 2022,
+        "count": 38
+      },
+      {
+        "year": 2023,
+        "count": 53
+      },
+      {
+        "year": 2024,
+        "count": 26
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "17V358000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2013-2017 Santa Fe and Santa Fe Sport vehicles.  In the affected vehicles, the secondary hood latch actuating cable may corrode and bind, causing the secondary hood latch to remain in the unlatched position when the hood is closed.",
+        "report_date": "05/06/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V651000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2015 Elantra, Genesis Coupe, Sonata Hybrid, 2012-2015 Accent, Azera, Veloster, 2013-2015 Elantra Coupe, Santa Fe, 2014-2015 Equus, 2010-2012 Veracruz, 2010-2013 Tucson, 2015 Tucson Fuel Cell, and 2013 Santa Fe Sport vehicles.  The Anti-Lock B",
+        "report_date": "22/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:07.138Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

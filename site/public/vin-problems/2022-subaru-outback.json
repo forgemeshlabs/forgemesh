@@ -1,0 +1,140 @@
+{
+  "slug": "2022-subaru-outback",
+  "year": 2022,
+  "make": "Subaru",
+  "model": "Outback",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 462,
+    "top_failure_components": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 255,
+        "share_pct": 55.2,
+        "excerpts": [
+          "Vehicle is exhibiting signs of a possible design defect which causes windshields to prematurely crack, break, or shatter. My vehicle is a 22 Subaru Outback that when bought new, in the first week of o",
+          "I was driving and I heard a crack on my windshield.",
+          "This car has had 3-5 windshield replacements since 2022. I bought the car new. It (a) cracks for no reason or (b) cracks if a tiny pebble size rock taps the windshield. Additionally, I took the car in"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 50,
+        "share_pct": 10.8,
+        "excerpts": [
+          "My 2022 Subaru Outback Premium has had repeated intermittent stall/no-start events. The exact failed component is UNKNOWN, but the issue appears related to the fuel system, engine control, electrical ",
+          "The contact owns a 2022 Subaru Outback. The contact stated that while driving at an undisclosed speed and making a left turn, the message \"EyeSight Disabling\" was displayed. No warning light was illum",
+          "I parked my 22 Subaru Outback in my enclosed garage about 11:00 AM. I was in and out of the garage at least five times between 11:00 AM and 6:00 PM and in a room next to the garage the rest of the tim"
+        ]
+      },
+      {
+        "component": "VISIBILITY",
+        "complaints": 26,
+        "share_pct": 5.6,
+        "excerpts": [
+          "The contact owns a 2022 Subaru Outback. The contact stated that while starting the vehicle in the morning, she became aware of a 16-inch crack on the windshield. The contact stated that the crack had ",
+          "The contact owns a 2022 Subaru Outback. The contact stated that the windshield had cracked after an impact. The vehicle was taken to Safelite Auto Glass, where the windshield was replaced; however, th",
+          "The contact owns a 2022 Subaru Outback. The contact stated that while the vehicle was parked, the windshield cracked without impact. The contact stated that the failure was a known issue with the vehi"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 23,
+        "share_pct": 5,
+        "excerpts": [
+          "On September 27, 2025 at approximately 1:15 PM, I was traveling southbound on Minnesota 371 just north of Nisswa, Minnesota.  I was towing a pontoon boat trailer with no boat on it.  I was traveling i",
+          "Last year, my car would not start up again after the start stop feature activated in an intersection. This is after leaving the dealer who told me the car was fine. I’ve since replaced the battery. It",
+          "The Thermo control valve on the vehicle failed.  This has been such a consistent problem, that Subaru has extended the warranty for this item to 150K miles.  I realize that alone is not a safety probl"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 21,
+        "share_pct": 4.5,
+        "excerpts": [
+          "My 2022 Subaru Outback Premium has had repeated intermittent stall/no-start events. The exact failed component is UNKNOWN, but the issue appears related to the fuel system, engine control, electrical ",
+          "The contact owns a 2022 Subaru Outback. The contact stated that while driving at an undisclosed speed and making a left turn, the message \"EyeSight Disabling\" was displayed. No warning light was illum",
+          "On May 19th 2026 around noon time, while we (me and my wife passenger) were driving my 2022 Subaru Outback Touring (2.5L, non-turbo) in active congested traffic on our way to airport, the engine shut "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 4,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 27
+      },
+      {
+        "year": 2022,
+        "count": 194
+      },
+      {
+        "year": 2023,
+        "count": 121
+      },
+      {
+        "year": 2024,
+        "count": 64
+      },
+      {
+        "year": 2025,
+        "count": 36
+      },
+      {
+        "year": 2026,
+        "count": 19
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "22V473000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:ENGINE CONTROL MODULE (ECU/ECM)",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2022 Outback vehicles.  The engine wiring harness may have been damaged, resulting in a loose electrical connection to the engine control unit (ECU).",
+        "report_date": "01/07/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V712000",
+        "component": "VISIBILITY:WINDSHIELD",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2022 Impreza and Outback vehicles.  The incorrect paint clearcoat may have been applied, which can cause the windshield to be insufficiently bonded to the vehicle.  As such, these vehicles fail to comply with the requirements of Federal Motor Veh",
+        "report_date": "22/09/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V755000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:PARK/NEUTRAL START INTERLOCK SWITCH",
+        "summary": "Subaru of America, Inc. is recalling certain model year 2021 Crosstrek, 2022 Forester, 2021-2023 Legacy, and Outback vehicles.  An insufficient weld may allow water to enter the inhibitor switch, causing it to fail.",
+        "report_date": "09/11/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V227000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2020-2022 Outback and Legacy vehicles.  A capacitor in the sensors for the Occupant Detection System (ODS) may crack and short circuit, which can prevent the front passenger air bag from deploying in a crash.",
+        "report_date": "22/03/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:33.378Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,192 @@
+{
+  "slug": "2008-ford-expedition",
+  "year": 2008,
+  "make": "Ford",
+  "model": "Expedition",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 146,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 34,
+        "share_pct": 23.3,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2008 FORD EXPEDITION. THE CONTACT STATED THAT THE VEHICLE'S ROCKER PANEL WAS RUSTED FROM THE INSIDE OUT. THE CONTACT CALLED FREEHOLD FORD (LOCATED AT 3572 US HIGHWAY 9,  FREEHOL",
+          "PAINT IS CHIPING FROM THE HOOD AND FROM THE TRUNK DOOR. THE OTHER PROBLEM IS THAT IT VIBRATES AT HIGH SPEEDS. IT DRIVES VERY SMOOTH, BUT ONCE I HIT ABOVE 70MPH ON THE HIGHWAY IT STARTS TO FEEL SHAKY. ",
+          "PAINT PEELING - EXPERIENCING EXCESSIVE PAINT PEELING ON THE HOOD AND REAR LIFT GATE. THE PAINT FIRST STARTED BUBBLING AND NOW IS PEELING."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 33,
+        "share_pct": 22.6,
+        "excerpts": [
+          "The brake is so far left, it is unsafe to drive.  It is in the position the clutch would in an a Manual transmission and my right foot has trouble moving that far over and its unsafe to use my left as",
+          "BRAKE PEDAL GOES SOFT; LOSS OF BRAKING FORCE; ANTI-LOCK CAPABILITY.  BLEEDING THE BRAKES REMEDIES THE SITUATION FOR A TIME, THEN PROBLEM RECURS.    POSSIBLE NHTSA REFERENCE NUMBER 07E105000",
+          "WHEN DRIVING DURING NORMAL DRY WEATHER THE TRACTION CONTROL RANDOMLY COMES ON WHEN IT SHOULDN'T AND HAS CAUSED THE BRAKES TO  FAIL AND THE VEHICLE NOT STOPPING WHEN THE BRAKES ARE PRESSED.  I HAVE HAV"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 14,
+        "share_pct": 9.6,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2008 FORD EXPEDITION. THE CONTACT STATED THAT AFTER HER SIGNIFICANT OTHER PARKED THE VEHICLE AND SHUT IT OFF, HE EXITED THE VEHICLE BUT REACHED BACK IN BECAUSE THE KEYS WERE FOR",
+          "TL* THE CONTACT OWNS A 2008 FORD EXPEDITION. WHILE DRIVING 40-55 MPH, AN ABNORMAL NOISE WAS HEARD COMING FROM THE TRANSMISSION. THERE WAS NO WARNING INDICATOR ILLUMINATED. THE VEHICLE WAS TAKEN TO TOW",
+          "MY TRUCK WAS PUT IN PARK AND I COULDN'T PUT THE CAR IN GEAR. I WAS STRANDED WITH MY FAMILY FOR 1 1/2 . I HAD TO DO RESEARCH SO I WENT TO THE INTERNET ON MY CELL PHONE AND FOUND OUT THAT IT WAS THE BRE"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 13,
+        "share_pct": 8.9,
+        "excerpts": [
+          "SUDDEN ACCELERATION, THAT TORE UP ABOUT FIVE CARS IN A HOSPITAL PARKING LOT AND ONTO ON COMING TRAFFIC.",
+          "WHILE DRIVING APPROXIMATELY 45 MPH MY VEHICLE STARTED TO ACCELERATE BY ITSELF. I WOULD BRAKE HARD AND THE ENGINE WOULD REV HIGH. I RAN TWO STOP SIGNS. I TRIED TO PUT IT INTO NEUTRAL AND I COULDN'T GET",
+          "I WAS DRIVING DOWN THE HIGHWAY COMING TO A RED LIGHT AND I LEFT OFF THE PEDAL AND MY VEHICLE KEPT GOING IT WOULD NOT SLOW DOWN. THE RPMS FINALLY CAME DOWN AND I WAS ABLE TO STOP. THEN I WENT HOME AND "
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 13,
+        "share_pct": 8.9,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2008 FORD EXPEDITION. THE CONTACT STATED THAT WHILE DRIVING AT APPROXIMATELY 55, THE BRAKE PEDAL WAS DEPRESSED BUT THE BRAKES FAILED TO RESPOND. THE VEHICLE WAS TOWED TO A DEALE",
+          "THIS IS A USED CAR WE WERE GOING TO BUY AT A REPUTABLE DEALER'S LOT.  SALESMAN ASSURED US IT HAD NOT BEEN IN AN ACCIDENT.  UPON INSPECTION BY OUR MECHANIC, IT WAS DETERMINED THAT THIS VEHICLE HAD EXTE",
+          "TL* THE CONTACT OWNS A 2008 FORD EXPEDITION. THE CONTACT STATED THAT THE VEHICLE STABILITY CONTROL WARNING LIGHT ILLUMINATED.  THE CONTACT APPLIED THE BRAKES WHEN THE VEHICLE BEGIN TO SHIMMY AND THE B"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 24,
+      "fires": 2,
+      "injuries": 20,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 4
+      },
+      {
+        "year": 2008,
+        "count": 16
+      },
+      {
+        "year": 2009,
+        "count": 10
+      },
+      {
+        "year": 2010,
+        "count": 17
+      },
+      {
+        "year": 2011,
+        "count": 14
+      },
+      {
+        "year": 2012,
+        "count": 20
+      },
+      {
+        "year": 2013,
+        "count": 11
+      },
+      {
+        "year": 2014,
+        "count": 10
+      },
+      {
+        "year": 2015,
+        "count": 7
+      },
+      {
+        "year": 2016,
+        "count": 6
+      },
+      {
+        "year": 2017,
+        "count": 3
+      },
+      {
+        "year": 2018,
+        "count": 7
+      },
+      {
+        "year": 2019,
+        "count": 9
+      },
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2021,
+        "count": 3
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 1
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "08V166000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "FORD IS RECALLING 158 MY 2008 EXPEDITION AND LINCOLN NAVIGATOR VEHICLES EQUIPPED WITH A TIRE PRESSURE MONITORING SYSTEM (TPMS) AND THE LIMO BUILDERS PACKAGE FOR FAILING TO CONFORM TO THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 138, Z\"TIRE PRESSURE MONITORING SYSTEMS.\"  THE TIRE PRE",
+        "report_date": "11/04/2008",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V058000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "FORD IS RECALLING 123,632 MY 2007-2008 EXPEDITION AND LINCOLN NAVIGATOR VEHICLES.  THE DOOR HANDLE HOUSING EMBOSSMENT RETAINING THE BOTTOM OF THE INTERIOR DOOR HANDLE SPRING ON ALL SIDE DOORS MAY FRACTURE DURING NORMAL CUSTOMER USAGE.  THIS CAN RESULT IN INSUFFICIENT SPRING FORCE TO RETURN THE HANDL",
+        "report_date": "05/02/2008",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "07E105000",
+        "component": "SERVICE BRAKES, AIR:ANTILOCK:CONTROL UNIT/MODULE",
+        "summary": "CERTAIN CONTINENTAL AUTOMOTIVE ABS AND ESC CONTROL MODULES SOLD FOR INSTALLATION ON THE VEHICLES LISTED ABOVE.  SOME OF THE HYDRAULIC VALVES IN THE ESC MODULE WERE BUILT WITH EXTRA CHECK BALLS.",
+        "report_date": "13/12/2007",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "07V541000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "CERTAIN VEHICLES FAIL TO CONFORM TO THE REQUIREMENTS SPECIFIED IN FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 208, 'OCCUPANT CRASH PROTECTION.'  THE DRIVER AIR BAG MODULE MAY NOT HAVE BEEN PROPERLY ASSEMBLED.",
+        "report_date": "21/11/2007",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:48:17.006Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

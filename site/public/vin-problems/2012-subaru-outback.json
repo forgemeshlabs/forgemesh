@@ -1,0 +1,272 @@
+{
+  "slug": "2012-subaru-outback",
+  "year": 2012,
+  "make": "Subaru",
+  "model": "Outback",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 292,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 107,
+        "share_pct": 36.6,
+        "excerpts": [
+          "When coming to a stop, the car shudders and often stalls just like if you didn't press in the clutch on a manual transmission. No warning lights or messages. See details in TSB- 16-90-13R. Subaru know",
+          "Vehicle stalls when stopping. This is a huge safety issue because stalling at intersections can cause accidents. Dealership diagnosed a faulty torque converter. This torque converter (it should be par",
+          "While driving on the highway, we were forced to brake swiftly.  As a result, the known issue of the torque converter in this model of car caused the engine to stall in the middle lane of the highway a"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 50,
+        "share_pct": 17.1,
+        "excerpts": [
+          "Vehicle stalls when stopping. This is a huge safety issue because stalling at intersections can cause accidents. Dealership diagnosed a faulty torque converter. This torque converter (it should be par",
+          "Just after 100k mile service, car began to shutter when slowing and then stalls at stops. Eventually after I leave it in neutral for up to 2-20 min it will finally restart. First time it happened it w",
+          "The car stalls out at stops. It shutters and them stalls like a 5 speed car. I have almost been rear-ended on a couple occasions. It is now in the shop for a torque converter replacement"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 39,
+        "share_pct": 13.4,
+        "excerpts": [
+          "The contact's girlfriend owns a 2012 Subaru Outback. The contact stated that the vehicle hesitated while starting. In addition, the contact attempted to jumpstart the vehicle; however, the vehicle fai",
+          "Car was involved in a head on collision [XXX] with a concrete exit barrier after being pushed into the lane by a driver trying to in front of them trying to  make a last second dash for the exit. Not ",
+          "Good morning.  Had to replace  3 car battery in 3 years, can not  leave key  in Ignition car goes dead, have to jump to start car more times I can remember. It's take more time to start, sometimes won"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 38,
+        "share_pct": 13,
+        "excerpts": [
+          "Brakes failed completely due to excessive rust / corrosion on brake line junction area. Brake pedal suddenly went to floor and fluid leaked out near right rear quarter of vehicle in-front of right rea",
+          "The brake pedal suddenly went almost to the floor while attempting to stop. Researching I found there was a recall. NHTSA Recall No. 11V-562. My car was not apparently among the ones being recalled, y",
+          "I took my Outback to my local highly respectable mechanic on August 20, 2025 as I needed the oil changed and the concern I had about having to add brake fluid twice in the past 4 months. He inspected "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 37,
+        "share_pct": 12.7,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2012 Subaru Outback. The contact discovered a mileage discrepancy after the purchase. The vehicle was a private sale. At the time of purchase, the mileage was 8",
+          "The contact's girlfriend owns a 2012 Subaru Outback. The contact stated that the vehicle hesitated while starting. In addition, the contact attempted to jumpstart the vehicle; however, the vehicle fai",
+          "The warning lights stay on constantly. I have changed the mass flow air sensor, O2 sensors, serpentine belt, gas cap, treated the fuel system and the lights are still on. This is a common problem with"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 15,
+      "fires": 6,
+      "injuries": 11,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 5
+      },
+      {
+        "year": 2012,
+        "count": 19
+      },
+      {
+        "year": 2013,
+        "count": 9
+      },
+      {
+        "year": 2014,
+        "count": 10
+      },
+      {
+        "year": 2015,
+        "count": 9
+      },
+      {
+        "year": 2016,
+        "count": 21
+      },
+      {
+        "year": 2017,
+        "count": 51
+      },
+      {
+        "year": 2018,
+        "count": 29
+      },
+      {
+        "year": 2019,
+        "count": 56
+      },
+      {
+        "year": 2020,
+        "count": 27
+      },
+      {
+        "year": 2021,
+        "count": 19
+      },
+      {
+        "year": 2022,
+        "count": 12
+      },
+      {
+        "year": 2023,
+        "count": 10
+      },
+      {
+        "year": 2024,
+        "count": 10
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 16,
+    "recalls": [
+      {
+        "campaign_number": "19V008000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2010-2014 Tribeca, WRX, Outback, and Legacy vehicles, 2010-2011 Impreza vehicles and 2010-2013 Forester vehicles sold, or ever registered, in the states of Arizona, Arkansas, Delaware, District of Columbia, Illinois, Indiana, Kansas, Kentucky, Ma",
+        "report_date": "09/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V626000",
+        "component": "PARKING BRAKE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2010-2014 Subaru Legacy and Outback vehicles equipped with a manual transmission.  The electronic parking brake (EPB) may not engage as intended, allowing the vehicle to rollaway if the transmission is not in the proper gear when parked.",
+        "report_date": "13/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V007000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2010-2013 Forester, 2010-2014 Tribeca, WRX, Outback, Legacy, and 2010-2011 Impreza vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, Puerto Rico, Amer",
+        "report_date": "09/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V009000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2010-2014 Tribeca, WRX, Legacy and Outback vehicles, 2010-2011 Impreza vehicles and 2010-2013 Forester vehicles sold, or ever registered, in the states of Alaska, Colorado, Connecticut, Idaho, Iowa, Maine, Massachusetts, Michigan, Minnesota, Mont",
+        "report_date": "09/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V002000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester, 2003-2006 Baja, 2004-2011 Impreza, 2004-2014 WRX (including STI), 2003-2014 Legacy and Outback, and 2006 Saab 9-2X vehicles originally sold, or ever registered, in the states of Arizona, Arkansas, Delaware, District of Columbi",
+        "report_date": "02/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V003000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester, 2003-2006 Baja, 2004-2011 Impreza, 2004-2014 WRX (including STI), 2003-2014 Legacy and Outback, and 2005-2006 Saab 9-2X vehicles originally sold, or ever registered, in the states of Alaska, Colorado, Connecticut, Idaho, Iowa,",
+        "report_date": "02/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V001000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester, 2003-2006 Baja, 2004-2011 Impreza, 2004-2014 WRX (STI included), 2003-2014 Legacy and Outback, and 2005-2006 Saab 9-2X vehicles originally sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawai",
+        "report_date": "02/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V297000",
+        "component": "ELECTRICAL SYSTEM:IGNITION:SWITCH",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester vehicles, 2008-2011 Impreza vehicles, 2008-2014 WRX vehicles, 2005-2014 Legacy vehicles, 2005-2014 Outback vehicles and 2006-2008 Tribeca vehicles equipped with a mechanical key ignition switch installed as a replacement part. ",
+        "report_date": "11/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V694000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2010-2014 Legacy vehicles manufactured November 26, 2008, to June 7, 2013, and 2010-2014 Outback vehicles manufactured January 9, 2009 to June 7, 2013.  Due to contamination, components within the windshield wiper motor bottom cover ma",
+        "report_date": "27/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V012000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Legacy, Forester, Tribeca, WRX and Outback vehicles, and 2009-2011 Impreza vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, Puerto Rico, Am",
+        "report_date": "09/01/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V014000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2005-2006 Subaru Baja, 2006-2011 Impreza (including WRX and STI models), 2006-2012 Tribeca, 2009-2012 Forester, Legacy, Outback, and 2012 WRX vehicles originally sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Ha",
+        "report_date": "10/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V078000",
+        "component": "VISIBILITY/WIPER",
+        "summary": "Subaru is recalling certain model year 2012 Outback and Legacy vehicles manufactured from April 6, 2011, through May 12, 2011.  Components inside the wiper motor bottom cover may overheat.",
+        "report_date": "05/03/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V077000",
+        "component": "VISIBILITY:SUN/MOON ROOF ASSEMBLY",
+        "summary": "Subaru is recalling certain model year 2012 Outback and Legacy vehicles manufactured from April 6, 2011, through May 12, 2011.  The moonroof glass may come loose or detach.  The amount and position of the adhesive between the glass and retainer was inadequately applied.",
+        "report_date": "05/03/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V047000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "SUBARU IS RECALLING CERTAIN MODEL YEAR 2012 LEGACY AND OUTBACK VEHICLES, MANUFACTURED FROM DECEMBER 1, 2011, THROUGH DECEMBER 23, 2011.  THESE VEHICLES MAY BE EQUIPPED WITH SIDE CURTAIN AIR BAGS THAT CONTAIN AN INCORRECT PROPELLANT MIXTURE FOR THE INITIATOR COMPONENT USED, RESULTING IN INSUFFICIENT ",
+        "report_date": "09/02/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V061000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Subaru is recalling certain model year 2010-2012 Legacy and Outback vehicles equipped with an automatic or CVT transmission and an Audiovox remote engine starter (RES) accessory, certain model year 2012-2013 Impreza vehicles equipped with a CVT transmission and an Audiovox remote engine starter (RES",
+        "report_date": "25/02/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V562000",
+        "component": "SERVICE BRAKES, HYDRAULIC:PEDALS AND LINKAGES",
+        "summary": "SUBARU IS RECALLING CERTAIN MODEL YEAR 2012 IMPREZA SEDANS AND WAGONS (EXCEPT WRX/STI MODELS), MANUFACTURED FROM APRIL 21, 2011, THROUGH NOVEMBER 15, 2011, AND LEGACY AND OUTBACK VEHICLES MANUFACTURED FROM OCTOBER 17, 2011, THROUGH NOVEMBER 23, 2011.  THESE VEHICLES MAY BE EQUIPPED WITH A BRAKE MAST",
+        "report_date": "29/11/2011",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:55:58.318Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

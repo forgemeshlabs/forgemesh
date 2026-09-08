@@ -1,0 +1,163 @@
+{
+  "slug": "2008-chevrolet-equinox",
+  "year": 2008,
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 370,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 110,
+        "share_pct": 29.7,
+        "excerpts": [
+          "I believe the Airbags on 08 Equinox's need recalled. I currently have an airbag light on and would like it fixed.",
+          "The contact owns a 2008 Chevrolet Equinox. The contact stated that the airbag warning light was illuminated. The vehicle was not taken to a local dealer to be diagnosed or repaired. The manufacturer w",
+          "TL* THE CONTACT OWNS A 2008 CHEVROLET EQUINOX. THE CONTACT STATED UPON STARTING THE VEHICLE, THE AIR BAG WARNING LIGHT WAS ILLUMINATED. THE VEHICLE WAS TAKEN TO COLE CHEVY BUICK GMC CADILLAC (1156 BIG"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 65,
+        "share_pct": 17.6,
+        "excerpts": [
+          "Occasionally, when finished driving and the key is turned towards the off position it will not fully turn back in order to pull the key out.  It will shut off the engine but generally stops in approx.",
+          "WHILE DRIVING MY HEADLIGHTS KEEP RANDOMLY SHUTTING OFF WHILE DRIVING ON THE HIGHWAY. WHEN I TRY TO TURN THE KNOB TO TURN THEM BACK ON NOTHING HAPPENS. I HAVE TO TURN THE CAR COMPLETELY OFF AND START I",
+          "THE IGNITION LOCKS UP WHEN SHUTTING THE VEHICLE OFF. IT WON'T LET THE KEY TURN THE WHOLE WAY OFF AND LOCKS IT IN PLACE FOR ANYWHERE FROM A MINUTE TO 5 MINUTES. SOMETIMES IF YOU SLAM THE SHIFTER IN PAR"
+        ]
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "complaints": 46,
+        "share_pct": 12.4,
+        "excerpts": [
+          "THE BRAKE SYSTEM LOCKS AND OVERHEAT. EVEN WHEN NEW PARTS ARE PUT ON .AFTER 10 MIN OF DRIVING OLD PROBLEMS DUE EXIST. FROM BRAKE CALIPER TO BRAKE LINE TO BRAKE BOOSTER CHANGED",
+          "TL*  THE CONTACT OWNS A 2008 CHEVROLET EQUINOX. THE CONTACT STATED WHILE DRIVING AT 20-30 MPH, THE BRAKE PEDAL WAS DEPRESSED AND THE VEHICLE SHUDDERED WITH THE STABILITRAC AND AWD OFF WARNING LIGHTS I",
+          "CAN'T DISABLE TRACTION OR STABILITY CONTROL WON'T LET ME GO OVER 50 MPH ON HIGHWAY OR IN TOWN STREETS BRAKES BURNT TO NOTHING LEFT AND BRAKE HOSE MELTED CLOSE ALMOST CAUSED A FIRE AND HAD TO REPLACE T"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 44,
+        "share_pct": 11.9,
+        "excerpts": [
+          "2008 CHEVROLET EQUINOX SPORT MAKES A LOUD POPPING/CLUNKING NOISE IN THE FRONT END WHEN GOING OVER BUMPS. IT ALSO POPS LOUD WHEN TURNING THE STEERING WHEEL. WHEN I AM DRIVING ON STRAIGHT AND SMOOTH ROA",
+          "I BOUGHT MY EQUINOX USED IN 2015 WITH 87,000. SINCE HAVING IT, I'VE REPLACED THE TIRE VALVE SENSORS (BROKE AGAIN). I WAS TOLD THAT FIXING THEM ARE A WASTE OF TIME AND MONEY BECAUSE THEY WILL CONTINUE ",
+          "I HAVE A NEW BATTERY (PURCHASED 2-3MONTHS AGO) & A NEW ALTERNATOR (INSTALLED YESTERDAY).  TODAY DRIVING TO WORK I NOTICE THE STEERING WHEEL LOCKED AS SOON AS I STARTED TO DRIVE.  THERE IS NO PLACE TO "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 39,
+        "share_pct": 10.5,
+        "excerpts": [
+          "Head gasket failure as well as intake manifold",
+          "I am constantly having to fix my \"learn remote\" settings, vehicle stereo volume does not always match the level of it's output, blinker continues to get stuck on even after the steering wheel is in th",
+          "I could smell gas  Took it in for inspection it has not been fixed yet so we know it’s something to do with the fuel and the mechanic said if you drive it could blow up"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 1,
+      "injuries": 12,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2000,
+        "count": 1
+      },
+      {
+        "year": 2001,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 1
+      },
+      {
+        "year": 2008,
+        "count": 14
+      },
+      {
+        "year": 2009,
+        "count": 11
+      },
+      {
+        "year": 2010,
+        "count": 16
+      },
+      {
+        "year": 2011,
+        "count": 22
+      },
+      {
+        "year": 2012,
+        "count": 40
+      },
+      {
+        "year": 2013,
+        "count": 45
+      },
+      {
+        "year": 2014,
+        "count": 59
+      },
+      {
+        "year": 2015,
+        "count": 41
+      },
+      {
+        "year": 2016,
+        "count": 47
+      },
+      {
+        "year": 2017,
+        "count": 25
+      },
+      {
+        "year": 2018,
+        "count": 14
+      },
+      {
+        "year": 2019,
+        "count": 9
+      },
+      {
+        "year": 2020,
+        "count": 6
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T19:46:50.877Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

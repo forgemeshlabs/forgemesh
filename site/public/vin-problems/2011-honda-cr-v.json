@@ -1,0 +1,252 @@
+{
+  "slug": "2011-honda-cr-v",
+  "year": 2011,
+  "make": "Honda",
+  "model": "CR-V",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 552,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 295,
+        "share_pct": 53.4,
+        "excerpts": [
+          "The contact owns a 2011 Honda CR-V. The contact stated that while driving at an undisclosed, the vehicle rear-ended the vehicle ahead. The front driver's side air bag did not fully deploy. No warning ",
+          "The contact owns a 2011 Honda CR-V. The vehicle was taken to an independent mechanic for routine maintenance, where it was determined there was a front passenger’s air bag issue with the wiring undern",
+          "I was in a pretty serious collision with a very large deer this morning. My car is totaled, the airbags did not deploy and I had to physically shield my face, neck and head."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 55,
+        "share_pct": 10,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2011 Honda CR-V. The contact discovered a mileage discrepancy after the purchase. The vehicle was a private sale. At the time of purchase, the mileage was 106,0",
+          "DOOR LOCK ACTUATOR. It is constantly malfunctioning. You are driving with small kids, and the doors keep unlocking and locking as the vehicle is in motion. I am very concerned, especially with childre",
+          "The contact owns a 2011 Honda CR-V. The contact stated that while driving at an undisclosed speed, the vehicle stalled with the check engine warning light illuminated. The vehicle was able to restart."
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 43,
+        "share_pct": 7.8,
+        "excerpts": [
+          "There are known issues with Honda crv’s frames rusting in many states. There was a recall which we had inspection and straps added to strengthen frame. Now, frame has failed and even after filing a ca",
+          "Catastrophic rust damage to the rear trailing arm and its mounting point, where the metal has completely rotted through and fractured",
+          "The contact owns a 2011 Honda CR-V. The contact received notification of NHTSA Campaign Number: 23V228000 (Structure). The contact stated that while attempting to register the vehicle, the vehicle fai"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 37,
+        "share_pct": 6.7,
+        "excerpts": [
+          "The contact owns a 2011 Honda CR-V. The contact stated that the check engine warning light remained illuminated on the vehicle. The contact stated that over time she became aware that the oil level wa",
+          "Oil consumption is exaggerated with to obvious observed signs, I.e, no visible leaks, no blue smoke from tailpipe, no smell behind vehicle. Oil needs to be added every ~70 miles as per the dipstick. E",
+          "I bought my car in 2021, and starting immediately I had issues with my tires going flat, my suspension jolting any time a bump was hit, my gear shift does not fully shift into park which makes it near"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 19,
+        "share_pct": 3.4,
+        "excerpts": [
+          "There are known issues with Honda crv’s frames rusting in many states. There was a recall which we had inspection and straps added to strengthen frame. Now, frame has failed and even after filing a ca",
+          "23V228000 recall involving rust on the frame and rear end. Called into Honda and was told that the recall was closed and repairs were made ?? Impossible I just bought this vehicle in 02-2026 and was n",
+          "Rear trailing arm mount rusted out frame , had have towed to my house , not drivable and its only vehicle i have"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 29,
+      "fires": 2,
+      "injuries": 12,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 30
+      },
+      {
+        "year": 2012,
+        "count": 18
+      },
+      {
+        "year": 2013,
+        "count": 12
+      },
+      {
+        "year": 2014,
+        "count": 21
+      },
+      {
+        "year": 2015,
+        "count": 24
+      },
+      {
+        "year": 2016,
+        "count": 280
+      },
+      {
+        "year": 2017,
+        "count": 28
+      },
+      {
+        "year": 2018,
+        "count": 15
+      },
+      {
+        "year": 2019,
+        "count": 14
+      },
+      {
+        "year": 2020,
+        "count": 11
+      },
+      {
+        "year": 2021,
+        "count": 14
+      },
+      {
+        "year": 2022,
+        "count": 13
+      },
+      {
+        "year": 2023,
+        "count": 41
+      },
+      {
+        "year": 2024,
+        "count": 10
+      },
+      {
+        "year": 2025,
+        "count": 10
+      },
+      {
+        "year": 2026,
+        "count": 10
+      }
+    ]
+  },
+  "recalls": {
+    "count": 13,
+    "recalls": [
+      {
+        "campaign_number": "18V661000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2014 Honda Insight and Acura TSX and TSX Wagon, 2014-2015 Honda Crosstour and Pilot vehicles nationwide, as well as certain 2014 Honda FCX Clarity and Fit EV vehicles in Florida, Hawaii, Puerto Rico, Texas, Alabama, Georgia, Louisiana, Mississipp",
+        "report_date": "27/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V182000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling specific 2003 Acura 3.2CL, 2013-2016 ILX, 2013-2014 ILX Hybrid, 2003-2006 MDX, 2007-2016 RDX, 2002-2003 3.2TL, 2004-2006, and 2009-2014 TL, 2010-2013 ZDX and 2001-2007 and 2009 Honda Accord, 2001-2005 Civic, 2003-2005 Civic Hybrid, 2001-2005 Civic GX NGV",
+        "report_date": "06/03/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V268000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2003-2012 Honda Accord and Pilot, 2010 Accord Crosstour, 2001-2011 Civic, 2002-2011 CR-V, 2003-2004, 2006-2008 and 2011 Element, 2007 and 2009-2013 Fit, 2010-2012 Insight, 2002-2004 Odyssey, and 2012 Ridgeline vehicles.  The front passenger air b",
+        "report_date": "26/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V502000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2014 TSX Sport Wagon, 2010-2013 ZDX, 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic and Civic Hybrid, 2008-2010 Civic GX NGV, 2012-2015 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2014 Fit EV, 2010-201",
+        "report_date": "27/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V500000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013 Acura ILX, 2015 RDX, 2005-2010 and 2012 RL, 2009-2014 TL, 2010 and 2012 ZDX, 2007-2011 CR-V, 2011-2013 and 2015 CR-Z, 2009-2013 Fit, 2013 Fit EV, 2010-2011 and 2013 Insight and 2007-2014 Ridgeline vehicles. \r\n\r\nThese vehicles are equipped wi",
+        "report_date": "27/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V378000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2013 TSX Sport Wagon, and 2010-2012 ZDX and 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic, Civic Hybrid and Civic NGV, 2012-2014 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2010-2013 Insight, and 2009",
+        "report_date": "16/05/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V545000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2008-2012 Accord, 2010-2012 Accord Crosstour, 2006-2011 Civic, 2007-2011 CR-V, 2009-2012 Fit and Pilot, 2010-2012 Insight, and 2009-2012 Acura TSX vehicles that received replacement passenger frontal air bag inflators.  One dealership may have in",
+        "report_date": "31/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V417000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2007-2011 Honda CR-V vehicles which have had the passenger frontal air bag replaced.  The air bag inflator repair kit may have been assembled by the supplier with an incorrect wire harness.",
+        "report_date": "29/06/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V042000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2010-2013 Acura TSX, ZDX, Honda Accord Crosstour, Fit, Insight and Pilot vehicles, 2011-13 Acura TSX Sportswagon, 2010-2012 Honda Accord,, 2010-2011 Honda Civic, Civic NGV, Civic Hybrid and CR-V vehicles and 2013 Honda FCX Clarity and Fit EV vehi",
+        "report_date": "09/01/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V030000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2012 Acura TSX, 2011-2012 Acura TSX Wagon, 2010-2012 Acura ZDX, 2008-2012 Honda Accord, 2010-2012 Honda Accord Crosstour and Honda Insight, 2009-2012 Honda Fit, 2009-2012 Pilot, 2007-2011 Honda CR-V, 2012 Honda FCX Clarity and 2006-2011 Hond",
+        "report_date": "10/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V061000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2007-2011 Honda CR-V, 2011-2015 CR-Z, 2010-2014 FCX, and Insight, 2009-2013 Fit, 2013-2014 Fit EV, 2007-2014 Ridgeline, 2013-2016 Acura ILX, 2013-2014 Acura ILX Hybrid, 2007-2016 RDX, 2005-2012 Acura RL, 2009-2014 Acura TL, and 2010-20",
+        "report_date": "03/02/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V346000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2009-2011 Acura TSX, 2011 TSX Wagon, 2010-2011 Acura ZDX, 2008-2011 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic, Civic Hybrid, and Civic GX, 2007-2011 CR-V, 2010-2011 FCX Clarity and Insight, and 2009-2011 Fit, and Pilot ",
+        "report_date": "24/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V228000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2007-2011 CR-V vehicles that were sold, or ever registered in Connecticut, Delaware, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshire, New Jersey, New York, Ohio, Pennsylvania, Rhode ",
+        "report_date": "30/03/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:53:03.271Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

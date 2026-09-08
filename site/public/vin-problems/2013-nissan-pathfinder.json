@@ -1,0 +1,244 @@
+{
+  "slug": "2013-nissan-pathfinder",
+  "year": 2013,
+  "make": "Nissan",
+  "model": "Pathfinder",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 890,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 370,
+        "share_pct": 41.6,
+        "excerpts": [
+          "The vehicle is a 2013 Nissan Pathfinder experiencing a major transmission/CVT failure that creates serious safety concerns. Only 69 days after purchase, the transmission began failing and the vehicle ",
+          "The contact owns a 2013 Nissan Pathfinder. The contact stated that while accelerating from a stop, there was a slight jerking or hesitation before the vehicle accelerated. The failure was intermittent",
+          "transmission started jerking & went out leaving me stranded."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 177,
+        "share_pct": 19.9,
+        "excerpts": [
+          "Brought our 2013 Nissan Pathfinder to Naples Nissan because of a flashing airbag warning light and a Warning light that passenger airbag was not working . Dealer fixed other recalls and charged us $17",
+          "The front passenger air bag  turned off when an adult or teen sits in the seat. The air bag has remained turned off. The warning light also started to flash periodically and now continuously flashes.",
+          "Hi, in 2018, Nissan replaced the passenger occupancy module as part of a recall.  That module has now gone bad again (~5 years), and Nissan is charging its customers to replace.  Maybe we are unlucky,"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 105,
+        "share_pct": 11.8,
+        "excerpts": [
+          "The contact owns a 2013 Nissan Pathfinder. The contact stated that the vehicle failed to start. There was no warning light illuminated prior to the failure. The vehicle was towed to the local dealer f",
+          "My 2013 Pathfinder keeps shuddering and jerking and swerving while driving",
+          "The contact owns a 2013 Nissan Pathfinder. The contact stated that the check engine warning light was illuminated. The vehicle was taken to the dealer, and it was determined that the vehicle needed an"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 83,
+        "share_pct": 9.3,
+        "excerpts": [
+          "Rear subframe rusted through and unable to be repaired. Contacted Nissan and would not assist even though some VIN # of the same year were recalled and replaced. Having a hard time finding a replaceme",
+          "See attached document for complaint.",
+          "Rear subframe on the passenger side cracked because of excessive rust making it dangerous to drive so it's now stuck at the repair shop. Repair shop said this is not expected for a vehicle with this m"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 66,
+        "share_pct": 7.4,
+        "excerpts": [
+          "Rear sub frame near radial rod on drivers side of vehicle has corroded through without warning. Vehicle is unstable during breaking menuvers and pitches towards on coming traffic. Sudden loss of contr",
+          "When I push on break it doesn’t engage to  Release car from park.",
+          "The contact owns a 2013 Nissan Pathfinder. The contact stated that while driving 50-55 MPH, the contact heard an abnormal popping sound and the vehicle started to wobble. The contact decelerated and p"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 16,
+      "fires": 1,
+      "injuries": 16,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2006,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 3
+      },
+      {
+        "year": 2012,
+        "count": 17
+      },
+      {
+        "year": 2013,
+        "count": 269
+      },
+      {
+        "year": 2014,
+        "count": 103
+      },
+      {
+        "year": 2015,
+        "count": 59
+      },
+      {
+        "year": 2016,
+        "count": 81
+      },
+      {
+        "year": 2017,
+        "count": 62
+      },
+      {
+        "year": 2018,
+        "count": 58
+      },
+      {
+        "year": 2019,
+        "count": 53
+      },
+      {
+        "year": 2020,
+        "count": 35
+      },
+      {
+        "year": 2021,
+        "count": 31
+      },
+      {
+        "year": 2022,
+        "count": 27
+      },
+      {
+        "year": 2023,
+        "count": 30
+      },
+      {
+        "year": 2024,
+        "count": 28
+      },
+      {
+        "year": 2025,
+        "count": 26
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 11,
+    "recalls": [
+      {
+        "campaign_number": "14V138000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2014 Altima, LEAF, Pathfinder, and Sentra, model year 2013 NV200 (aka Taxi) and Infiniti JX35 and model year 2014 Infiniti Q50 and QX60 vehicles.  In the affected vehicles, the occupant classification system (OCS) software may ",
+        "report_date": "25/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V681000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2015 Altima and Pathfinder vehicles, 2013-2014 Nissan Sentra vehicles, 2013 Infiniti JX35 vehicles, 2014-2015 Infiniti QX60 vehicles and 2014 Infiniti QX60 Hybrid vehicles.  The affected vehicles received an incorrect occupant ",
+        "report_date": "20/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V142000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:COOLING UNIT AND LINES",
+        "summary": "Nissan North America (Nissan) is recalling certain model year 2013 Pathfinder vehicles manufactured April 18, 2012, through October 3, 2012, and equipped with a continuously variable transmission (CVT).  In the affected vehicles, the internal oil cooler (ITOC) hose may detach from the cooler due to ",
+        "report_date": "26/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V380000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2014 Pathfinder vehicles manufactured June 20, 2012, to June 13, 2013.  The brake light switch may have been installed incorrectly causing the relay to make intermittent contact and repeatedly cycle.  This may result in the rel",
+        "report_date": "31/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V244000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2016-2017 Nissan Maxima, 2013-2016 Nissan Altima, NV200, LEAF, Sentra, and Pathfinder, 2014-2016 Nissan NV200 Taxi, Infiniti QX60, QX60 Hybrid, and Q50 Hybrid, 2014-2017 Nissan Rogue and Infiniti Q50, 2015-2016 Nissan Murano, Murano",
+        "report_date": "26/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V033000",
+        "component": "STRUCTURE:BODY:HOOD:HINGE AND ATTACHMENTS",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2014 Nissan Pathfinder vehicles manufactured June 20, 2012, to November 18, 2013, 2014 Nissan Pathfinder Hybrid vehicles manufactured July 18, 2013, to November 18, 2013, 2013 Infiniti JX35 vehicles manufactured November 29, 20",
+        "report_date": "26/01/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V069000",
+        "component": "AIR BAGS",
+        "summary": "Nissan is recalling certain model year 2013 Altima, LEAF, Pathfinder, Sentra, and Infiniti JX35 vehicles.  Sensors within the passenger Occupant Detection System (ODS) may have been manufactured out of specification.  This may cause the system to malfunction and permanently suppress the passenger ai",
+        "report_date": "01/03/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V445000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP",
+        "summary": "Nissan is recalling certain model year 2013-2014 Nissan Pathfinder vehicles manufactured April 18, 2012, through September 20, 2013; model year 2013 Infiniti JX35 vehicles manufactured September 15, 2011, through January 16, 2013; and model year 2014 Infiniti QX60 vehicles manufactured January 17, 2",
+        "report_date": "17/10/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V139000",
+        "component": "SERVICE BRAKES",
+        "summary": "Nissan is recalling certain model year 2013 Pathfinder and Infiniti JX vehicles manufactured December 3, 2012, through January 29, 2013.  The front brake torque member was improperly cast resulting in structural weakness. This can lead to premature failure and cracking.",
+        "report_date": "12/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V020000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2013-2015 Nissan Pathfinder vehicles.  The location of the brake light switch may cause the brake light switch relay to repeatedly open and close.  Overtime, this can cause the relay to stick in the \"ON\" position, with the brake lights remaini",
+        "report_date": "20/01/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V420000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2013-2016 Pathfinder vehicles.  On certain Pathfinder vehicles, the secondary hood latch may malfunction and remain in the unlatched, unsecured, position when the hood is closed.",
+        "report_date": "13/06/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:28.932Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

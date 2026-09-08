@@ -1,0 +1,164 @@
+{
+  "slug": "2016-dodge-journey",
+  "year": 2016,
+  "make": "Dodge",
+  "model": "Journey",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 386,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 113,
+        "share_pct": 29.3,
+        "excerpts": [
+          "The contact owns a 2016 Dodge Journey. The contact stated that while driving approximately 25-30 MPH, the engine made an abnormally loud sound. The check engine and ABS warning lights were illuminated",
+          "As I was driving my 2016 DJ just list power.. I coast my to the side of the road. I try cranking the car up but it wouldn't crank up. So I had it towed to my house which were about 5 mins away. Please",
+          "Transmission is slipping between 2nd and 3rd gear with low miles 71357 and already having. Transmission issues"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 86,
+        "share_pct": 22.3,
+        "excerpts": [
+          "The 2012-2015 Dodge Journey was previously subject to an NHTSA recall for an electronic stability control module defect producing similar ABS warning and brake-related symptoms. The 2016 model year wa",
+          "The car started making a whining noise as I was exiting the highway. Within 2 minutes, the check engine light came on. Shortly after that as I was turning right on the street to enter the parking lot,",
+          "The contact owns a 2016 Dodge Journey. The contact stated that while driving 35-40 MPH, the engine started overheating. The message \"Temperature High\" was displayed. Additionally, the contact stated t"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 84,
+        "share_pct": 21.8,
+        "excerpts": [
+          "The 2012-2015 Dodge Journey was previously subject to an NHTSA recall for an electronic stability control module defect producing similar ABS warning and brake-related symptoms. The 2016 model year wa",
+          "The air conditioner turns on by itself. When I turn it off it immediately turns itself back on. I have turned it off at least ten times repeatedly back to back and it continued to turn back on by itse",
+          "The traction control light, the service AWD light and the abs light are all on, the horn stopped working, the buttons on the steering wheel stopped working, the backup camera stopped working, the air "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 52,
+        "share_pct": 13.5,
+        "excerpts": [
+          "The contact owns a 2016 Dodge Journey. The contact stated that while driving approximately 25-30 MPH, the engine made an abnormally loud sound. The check engine and ABS warning lights were illuminated",
+          "The 2012-2015 Dodge Journey was previously subject to an NHTSA recall for an electronic stability control module defect producing similar ABS warning and brake-related symptoms. The 2016 model year wa",
+          "My abs, brake and traction light came on. I ran a code reader which indicated my abs module has failed. I called my local dodge garage and they said this is a known common issue with my year make and "
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 36,
+        "share_pct": 9.3,
+        "excerpts": [
+          "The contact owns a 2016 Dodge Journey. The contact stated that while the vehicle was parked, the driver’s side headrest exploded. The vehicle was not diagnosed or repaired. The manufacturer was notifi",
+          "Headrest deployed and won't go bac in. The vehicle was just sitting in the driveway, when we ot in we noticed the headrest out.",
+          "I opened my car door to get in and found that that head rest was completely popped out. It was not in that condition the previous day."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 19,
+      "fires": 4,
+      "injuries": 16,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 21
+      },
+      {
+        "year": 2017,
+        "count": 31
+      },
+      {
+        "year": 2018,
+        "count": 43
+      },
+      {
+        "year": 2019,
+        "count": 76
+      },
+      {
+        "year": 2020,
+        "count": 60
+      },
+      {
+        "year": 2021,
+        "count": 34
+      },
+      {
+        "year": 2022,
+        "count": 25
+      },
+      {
+        "year": 2023,
+        "count": 33
+      },
+      {
+        "year": 2024,
+        "count": 25
+      },
+      {
+        "year": 2025,
+        "count": 24
+      },
+      {
+        "year": 2026,
+        "count": 12
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V907000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2016 Dodge Journey, Jeep Compass, and Jeep Patriot vehicles manufactured May 9, 2016, to July 15, 2016.  The crankshaft or camshaft sensor may only work intermittently, causing the engine to stall.",
+        "report_date": "16/12/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V461000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2015-2016 Chrysler Town & Country, Dodge Grand Caravan vehicles manufactured July 31, 2015, to April 18, 2016, 2016 Dodge Journey vehicles manufactured August 17, 2015, to January 29, 2016, and 2016 RAM ProMaster vehicles manufactured August 15, ",
+        "report_date": "24/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V273000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST:HOSE, PIPING, AND CONNECTIONS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2009-2016 Dodge Journey vehicles manufactured July 31, 2007, to November 12, 2016.  After exposure to cold temperatures, the power steering return hose may rupture at engine start-up causing a loss of power steering assist.",
+        "report_date": "06/05/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:54.239Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

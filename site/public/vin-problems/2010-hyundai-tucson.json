@@ -1,0 +1,176 @@
+{
+  "slug": "2010-hyundai-tucson",
+  "year": 2010,
+  "make": "Hyundai",
+  "model": "Tucson",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 58,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 22,
+        "share_pct": 37.9,
+        "excerpts": [
+          "SINCE I GOT THIS VEHICLE THE GEAR SHIFT GETS STUCK. I HAVE GONE TO THE DEALERSHIP TO GET THE PROBLEM FIXED. THE PROBLEM HAS BEEN THE BACKLIGHT SWITCH. IT IS A BIG HASSLE TRYING TO GET THIS PROBLEM FIX",
+          "I HEARD A CLUNK UPON TURNING RIGHT, EXITING A PARKING LOT. THE REAR END OF THE CAR STARTED TO SWAY. FEARING A BLOWN TIRE, I PULLED OFF THE ROAD, ONLY TO FIND THE LEFT REAR WHEEL PITCHED AT A RATHER UN",
+          "TL* THE CONTACT OWNS A 2010 HYUNDAI TUCSON. WHILE THE FOUR WHEEL DRIVE WAS ENGAGED, THE VEHICLE TRAVELED UPHILL AND THE FRONT WHEELS MOVED, BUT THE REAR WHEELS SEIZED. THE CONTACT STATED THAT THE FOUR"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 13,
+        "share_pct": 22.4,
+        "excerpts": [
+          "This has been an ongoing problem since I last reported this on February 16, 2025.  There’s a clicking noise under my tires and then I can’t stop, my brakes grind and my pedal grinds… all my ABS lights",
+          "On January 26, 2024, at AutoNation, I was requested to bring my 2010 Hyundai Tucson in to replace a part involving my ‘brakes.’  I’m the original owner, since 2021 my brakes would grind at least twice",
+          "The contact owns a 2010 Hyundai Tucson. The contact stated while driving 40-45 MPH, there was an abnormally loud sound coming from underneath the hood and the temperature gauge fluctuated. The vehicle"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 7,
+        "share_pct": 12.1,
+        "excerpts": [
+          "The contact owns a 2010 Hyundai Tucson. The contact stated while driving 40-45 MPH, there was an abnormally loud sound coming from underneath the hood and the temperature gauge fluctuated. The vehicle",
+          "The engine ran out of oil completely with no leaks no nothing and never had a light come on to show low oil or engine issues. It went from running great to engine knocking with no warning",
+          "The contact owns a 2010  Hyundai Tucson. The contact stated that the dealer had repaired the vehicle under Hyundai Technical Service Bulletin Number: 21-01-023H-3  (Engine Monitoring Logic Update). Ho"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 6,
+        "share_pct": 10.3,
+        "excerpts": [
+          "The car dies, unknown, mechanics don't know! It's in the wires somewhere, the backup camera doesn't work, the radio doesn't work! Even with the the fuse in and everything working the backup camera sti",
+          "Door actuators are not working so the locks only work on two of the five doors.  Safety and security of the passengers is at risk.",
+          "Every morning the car has to have a jump! We bought a battery! That didn't help! We took it to the shop, they couldn't figure it out but said it was something to do with the electrical but didn't know"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 5,
+        "share_pct": 8.6,
+        "excerpts": [
+          "The passenger seat airbag system warning light is on and stays on, there is an active recall but my vin is not yet included",
+          "The contact owns a 2010 Hyundai Tucson. The contact stated that when she started the vehicle, the driver's side air bag warning light illuminated. The vehicle was not diagnosed or repaired by an indep",
+          "I WAS JUST DRIVING NORMAL SPEED AND MY AIRBAG LIGHT CAME ON AND STAYED ON.  I WENT TO THE DEALERSHIP AND INFORMED ME MY DRIVER SIDE AIRBAG CLOCK SPRING IS FAULTY.  THEY ARE SAYING IT ISN'T UNDER MY WA"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 1,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 10
+      },
+      {
+        "year": 2011,
+        "count": 7
+      },
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 5
+      },
+      {
+        "year": 2014,
+        "count": 6
+      },
+      {
+        "year": 2016,
+        "count": 3
+      },
+      {
+        "year": 2017,
+        "count": 2
+      },
+      {
+        "year": 2018,
+        "count": 2
+      },
+      {
+        "year": 2019,
+        "count": 4
+      },
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "13V113000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2006-2009 Accent, model year 2007-2011 Azera, Sonata and Sante Fe,2006-2011 Tucson, 2009-2011 Elantra Touring, 2007-2010 Elantra, 2008-2011 Veracruz, 2009-2011 Genesis, 2010-2011 Genesis Coupe, 2007-2008 Entourage, and  2006-2008 Tiburo",
+        "report_date": "01/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V259000",
+        "component": "EXTERIOR LIGHTING",
+        "summary": "HYUNDAI IS RECALLING CERTAIN MODEL YEAR 2010 TUCSON VEHICLES MANUFACTURED FROM FEBRUARY 27, 2010, THROUGH APRIL 17, 2010 FOR FAILING TO COMPLY WITH FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 108, \"LAMPS, REFLECTIVE DEVICES, AND ASSOCIATED EQUIPMENT,\" FOR THE PHOTOMETRY REQUIREMENTS OF THE REAR REFLEC",
+        "report_date": "26/04/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V061000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "HYUNDAI IS RECALLING CERTAIN MODEL YEAR 2010 TUCSON VEHICLES.  PROPERLY SEATED ADULT RIGHT FRONT SEAT PASSENGERS WEIGHING OVER APPROXIMATELY 240 POUNDS CAUSE THE PASSIVE OCCUPANT DETECTION SYSTEM (PODS) MODULE PROGRAM TO ILLUMINATE THE \"AIR BAG\" WARNING LAMP.",
+        "report_date": "25/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V651000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2015 Elantra, Genesis Coupe, Sonata Hybrid, 2012-2015 Accent, Azera, Veloster, 2013-2015 Elantra Coupe, Santa Fe, 2014-2015 Equus, 2010-2012 Veracruz, 2010-2013 Tucson, 2015 Tucson Fuel Cell, and 2013 Santa Fe Sport vehicles.  The Anti-Lock B",
+        "report_date": "22/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:51:49.195Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,188 @@
+{
+  "slug": "2015-gmc-sierra",
+  "year": 2015,
+  "make": "GMC",
+  "model": "Sierra",
+  "matched_as": {
+    "complaints": [
+      "SIERRA 2500",
+      "SIERRA 1500",
+      "SIERRA 3500"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1050,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 260,
+        "share_pct": 24.8,
+        "excerpts": [
+          "Electric trailer brake control modular is malfunctioning on my 2015 GMC Sierra Denali 3500.  Multiple of sources told me this is a common problem with this generation of GMC.",
+          "Press the pedal feels soft vehicle slightly slows then pedal pressures up and truck instantly stops pedal stays hard for a long time having same issue on 15 tahoe",
+          "The contact owns a 2015 GMC Sierra 1500. The contact stated her husband was driving when the vehicle in front of them applied the brakes unexpectedly, the driver depressed the brake pedal but failed t"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 224,
+        "share_pct": 21.3,
+        "excerpts": [
+          "Headlights were about as bright as a candle while using high beams changed the bulbs and used a head light restoration kit and within a week headlight lenses were hazed over again high beams are no br",
+          "THE HEADLIGHTS ARE COMPLETELY INADEQUATE. IF YOU ARE TAKING A TURN AT NIGHT, THE LIGHTS CONTINUE TO STAY STRAIGHT WITH THE DIRECTION OF THE VEHICLE INSTEAD OF FOLLOWING THE VEHICLE SO THAT YOU END UP ",
+          "THE PROJECTOR HEADLIGHTS THAT ARE INSTALLED IN THIS VEHICLE FROM THE FACTORY DO NOT PROVIDE ADEQUATE VISIBILITY AT NIGHT.  I AM UNABLE TO SEE MORE THAT 15 FEET IN FRONT OF THIS VEHICLE FROM A SAFETY P"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 136,
+        "share_pct": 13,
+        "excerpts": [
+          "The truck is a 2015 GMC Sierra 2500 HD. With less than 51,000 miles, the transmission is gone due to a design flaw. Around march 8th, the transmission went out when I hydroplanned on a two lane road. ",
+          "Shifting started to make a loud clunking sound. Then the vehicle wouldn't shift out of 3rd gear. The engine check light came on and the code determined it to be a faulty transmission control module (T",
+          "I am having a issue with a low milage GMC Sierra. The truck is a 2015 with 24,000 miles. When it was produced the truck had a 100,000 mile warranty but has since lasped in time. The transmission on th"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 122,
+        "share_pct": 11.6,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2015 GMC Sierra 2500. The contact stated that while attempting to register the vehicle, it was discovered that there was a mileage discrepancy. The vehicle was ",
+          "Electric trailer brake control modular is malfunctioning on my 2015 GMC Sierra Denali 3500.  Multiple of sources told me this is a common problem with this generation of GMC.",
+          "The contact owns a 2015 GMC Sierra. The contact stated that when doing the initial start, the rear of the vehicle began smoking and caught on fire. The contact turned off the vehicle and the fire sett"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 111,
+        "share_pct": 10.6,
+        "excerpts": [
+          "The contact owns a 2015 GMC Sierra. The contact stated that while driving at an undisclosed speed, he became aware that the electronic power steering was not functioning properly, requiring increased ",
+          "The contact owns a 2015 GMC Sierra 1500. The contact stated while driving approximately 35 MPH, the message \"Power Steering Assist\" was displayed, and the steering wheel became very difficult to turn ",
+          "THE POWER STEERING GOES OUT WHEN TURNING. THIS IS HAPPENING MORE AND MORE FREQUENTLY. 2014 GMC TRUCKS HAVE A RECALL (#14743) ADDRESSING THIS POWER STEERING ASSIST ISSUE. GMC SAID THAT I NEED TO GET IT"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 43,
+      "fires": 18,
+      "injuries": 21,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 39
+      },
+      {
+        "year": 2015,
+        "count": 151
+      },
+      {
+        "year": 2016,
+        "count": 119
+      },
+      {
+        "year": 2017,
+        "count": 67
+      },
+      {
+        "year": 2018,
+        "count": 140
+      },
+      {
+        "year": 2019,
+        "count": 136
+      },
+      {
+        "year": 2020,
+        "count": 73
+      },
+      {
+        "year": 2021,
+        "count": 90
+      },
+      {
+        "year": 2022,
+        "count": 73
+      },
+      {
+        "year": 2023,
+        "count": 55
+      },
+      {
+        "year": 2024,
+        "count": 43
+      },
+      {
+        "year": 2025,
+        "count": 42
+      },
+      {
+        "year": 2026,
+        "count": 21
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "14V819000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015 Chevrolet Silverado 1500, and GMC Sierra 1500 vehicles manufactured November 24, 2014, to November 25, 2014.  Due to an improper heat-treatment, the rear axle shaft may fracture while the vehicle is being driven.",
+        "report_date": "24/12/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V719000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015 Chevrolet Silverado, Suburban, Tahoe, GMC Sierra, and Yukon XL vehicles, equipped with electric power steering (EPS).  Due to a problem with the EPS module, the affected vehicles may experience a sudden loss of power steering assist during",
+        "report_date": "10/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V446000",
+        "component": "SEATS",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2013-2014 Buick Encore and Cadillac ATS; 2014 Cadillac CTS, ELR, Chevrolet Caprice and SS vehicles; and 2014-2015 Chevrolet Silverado and GMC Sierra Trucks.  Due to an incomplete weld on the seat hook bracket assembly, the front seats in the af",
+        "report_date": "23/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V007000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM",
+        "summary": "General Motors is recalling certain 2014 model year Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles, and 2015 model year Cadillac Escalade and Escalade ESV; Chevrolet Silverado HD; and GMC Sierra HD, Yukon, and Yukon XL, equipped with a 4.3L engine or 5.3L engine.",
+        "report_date": "13/01/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V640000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2015 Chevrolet Silverado and GMC Sierra trucks manufactured January 24, 2014, to February 26, 2014, 2015 Chevrolet Suburban vehicles manufactured February 12, 2014 and Chevrolet Tahoe vehicles manufactured February 6, 2014, to February 13,",
+        "report_date": "09/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V374000",
+        "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2015 Chevrolet Silverado and GMC Sierra vehicles, and model year 2015 GMC Yukon and Chevrolet Suburban and Tahoe vehicles.  In the affected vehicles, an electrical signal short may cause the transfer case to shift to neutral without the dr",
+        "report_date": "27/06/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:00.202Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

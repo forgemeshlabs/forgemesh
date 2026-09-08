@@ -1,0 +1,144 @@
+{
+  "slug": "2020-toyota-highlander",
+  "year": 2020,
+  "make": "Toyota",
+  "model": "Highlander",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 309,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 122,
+        "share_pct": 39.5,
+        "excerpts": [
+          "The transmission started making a whining noise around 69,000 miles that a mechanic said was due to transmission failure. There were no warning lights or messages. I took it to the Toytota dealer who ",
+          "The transmission had a catastrophic failure at 73,000 miles and six years after purchase. There has been a service bulletin issued with known defects on this transmission yet Toyota corporate failed t",
+          "We have a 2020 Toyota Highlander with 89K miles that we have owned since it was new. I was informed today to not drive it any long distances from the dealer due to an impending failure of the transmis"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 39,
+        "share_pct": 12.6,
+        "excerpts": [
+          "Incident: [XXX] Conditions: Clear daylight, dry pavement, normal highway conditions Crash/Injuries: Allstate Claim #[XXX]; several people injured  At approximately [XXX], I was driving my 2020 Toyota ",
+          "Coming to a stop or slowing down the vehicle has a spot where it feels like the brakes fail then come back on.  Especially if going down a grade.  This happens around 15 to 20 mph.   Started off a sli",
+          "The contact owns a 2020 Toyota Highlander. The contact stated that while driving at an undisclosed speed, the brake pedal was depressed; however, the vehicle failed to stop as intended. The contact st"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 32,
+        "share_pct": 10.4,
+        "excerpts": [
+          "The contact owns a 2022 Toyota Corolla. The contact stated that while driving at an undisclosed speed, a passing vehicle suddenly attempted to merge lanes and struck the vehicle on the passenger side ",
+          "Taken vehicle at least 6 times to dealer (Corwin Toyota), to enquire about the 23v-865 recall, and each time have been told the repair is not available.   Most recently asked December 2025.",
+          "I received a safety recall notice from Toyota (Recall No. 23TA15 / 23TB15) for the front passenger Occupant Classification System (OCS) sensors. The letter states that the airbag system may not deploy"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 29,
+        "share_pct": 9.4,
+        "excerpts": [
+          "While driving on a 75 MPH highway, the lower bumper cover, windscreen, and interior wheel well components spontaneously detached from the vehicle and got stuck under the car. There were no warming lam",
+          "I know there is a recall for my 2020 Highlander. My VIN isn't listed. The front bumper is coming off and can't be pushed back in.",
+          "The contact owns a 2020 Toyota Highlander. The contact received notification of NHTSA Campaign Number: 23V72000 (Structure). The vehicle was taken to the dealer; however, the contact was informed that"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 19,
+        "share_pct": 6.1,
+        "excerpts": [
+          "I am having fuel pump issues and my VIN was excluded from the recall from Toyota for similar issues. Toyota’s low-pressure fuel pump recall (originally announced Jan 2020, expanded multiple times thro",
+          "I pushed the brake and swerved and the car kept going and a greater speed and surged into a house.",
+          "Fuel gauge is inaccurate, leading to potential safety issues. The fuel gauge does not show as full, when the car is refueled, and likewise shows as empty when there is enough fuel to drive hundreds of"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 15,
+      "fires": 0,
+      "injuries": 20,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 3
+      },
+      {
+        "year": 2020,
+        "count": 27
+      },
+      {
+        "year": 2021,
+        "count": 29
+      },
+      {
+        "year": 2022,
+        "count": 21
+      },
+      {
+        "year": 2023,
+        "count": 30
+      },
+      {
+        "year": 2024,
+        "count": 64
+      },
+      {
+        "year": 2025,
+        "count": 91
+      },
+      {
+        "year": 2026,
+        "count": 44
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "20V633000",
+        "component": "AIR BAGS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020 Highlander and Highlander hybrid vehicles.  Incorrect seat trim covers on one or both of the front seats can prevent the seat-mounted side air bag from deploying properly.",
+        "report_date": "14/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V162000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020 Highlander vehicles equipped with a 3.5 L, V6 (2GR-FKS) gasoline engine.  Due to an Engine Control Unit (ECU) programming error, fuel may not be correctly supplied to the engine while using the stop and restart feature.",
+        "report_date": "19/03/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V720000",
+        "component": "STRUCTURE:BODY:BUMPERS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020-2023 Highlander & Highlander Hybrid vehicles.  During normal vehicle operation, minor impact to the front lower bumper cover may result in the cover coming loose or detaching.",
+        "report_date": "26/10/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V865000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020-2021 Avalon, Avalon Hybrid, Corolla, Highlander, Highlander Hybrid, RAV4, RAV4 Hybrid, Lexus ES350, Lexus RX350, Lexus RX450H, 2021 Sienna Hybrid, Lexus ES250, 2020-2022 Camry, Camry Hybrid, and ES300H vehicles.  A short cir",
+        "report_date": "20/12/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:52.448Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

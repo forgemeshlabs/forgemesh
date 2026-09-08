@@ -1,0 +1,188 @@
+{
+  "slug": "2009-dodge-charger",
+  "year": 2009,
+  "make": "Dodge",
+  "model": "Charger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 175,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 45,
+        "share_pct": 25.7,
+        "excerpts": [
+          "The contact owns a 2009 Dodge Charger. The contact stated that the vehicle was previously repaired under a recall and the driver’s side air bag was replaced. The contact stated that after the recall r",
+          "The contact owns a 2009 Dodge Charger. The contact stated that while driving at various speeds and while the vehicle was idling, the vehicle had shut off unexpectedly. The vehicle was restarted and op",
+          "I was sold this car from a dealer and told nothing was wrong with it, 2 days later codes U0002 (CAN communication BUS performance) and U0103 (Loss communication with gear shift module) came on and the"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 45,
+        "share_pct": 25.7,
+        "excerpts": [
+          "ORC passenger seat deployment squib 1 reads a open circuit 1.  Has been like this since the last airbag recall in 2019. Was supposed to had been fixed then and dealer was never able to fix the issue.",
+          "The contact owned a 2009 Dodge Charger. The contact stated that upon having the vehicle inspected, she became aware of the NHTSA Campaign Number: 15V313000 (Air Bags) and 16V352000 (Air Bags) however,",
+          "The contact owns a 2009 Dodge Charger. The contact stated while driving at various speeds, the contact heard a rattling sound coming from the passenger’s side air bag compartment. The contact stated t"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 33,
+        "share_pct": 18.9,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2009 DODGE CHARGER. THE CONTACT WAS DRIVING AT 35 MPH, WHEN ALL OF THE WARNING LIGHTS ILLUMINATED THEN STOPPED. THE VEHICLE STALLED BUT THE CONTACT WAS ABLE TO PULL OVER ON THE ",
+          "HEADGASKET, FEL-PRO ENGINE CYLINDER HEAD GASKET, REMOVE CARBON, AND MAKE ALL NECESSARY ADJUSTMENTS.",
+          "ALL OF MY STEERING COLUMN COMPONENTS QUIT WORKING, I HAVE NO TURN SIGNALS, WIPERS, BRIGHTS, CRUISE CONTROL, HORN OR POWER MIRRORS. NOW THE TAILLIGHTS ILLUMINATE ONLY WHEN THEY WANT TO BUT BRAKE LIGHTS"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 18,
+        "share_pct": 10.3,
+        "excerpts": [
+          "I HAVE REPAIRED THE ENTIRE FRONT SUSPENSION SYSTEM, BRAKE SYSTEM, SWAY BAR BUSHING, WATER PUMP, ETC. NOW THE HEAD GASKETS BLEW... ARE THERE ANY RECALLS OR WAYS YOU CAN REFUND ME?",
+          "I HAVE BEEN CHASING A ABS/EPS LIGHT ISSUE SINCE THE DEALERSHIP DID AN AIRBAG RECALL. REPLACED ALL WHEEL SENSORS, ROTORS, BRAKE PADS, CALIPERS AND FINALLY RETURNED TO THE DEALERSHIP FOR THEM TO REPLACE",
+          "I WAS DRIVING DOWN A RESIDENTIAL STREET COMING BACK FROM THE GROCERY STORE TRAVELING BETWEEN 25-30 MILES PER HOUR AND HAD TO MAKE A LEFT TURN COMING UP, I PUT ON MY LEFT TURN SIGNAL TO TURN AT AN 4 WA"
+        ]
+      },
+      {
+        "component": "TIRES",
+        "complaints": 18,
+        "share_pct": 10.3,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2009 DODGE CHARGER. THE CONTACT STATED THAT THE TIRE PRESSURE MONITORING SENSOR (TPMS) WARNING INDICATOR ILLUMINATED. THE VEHICLE WAS SERVICED PER NHTSA CAMPAIGN NUMBER: 08V6420",
+          "VALVE STEM CORRODING HAD ONE REPLACED ALREADY. *TR",
+          "TL*  THE CONTACT OWNS A 2009 DODGE CHARGER. THE CONTACT STATED THAT THE TIRE PRESSURE MONITORING SYSTEM WARNING LIGHT ILLUMINATED AND THE TIRE PRESSURE BECAME LOW. THE CONTACT STATED THAT WHILE DRIVIN"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 4,
+      "injuries": 10,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 5
+      },
+      {
+        "year": 2010,
+        "count": 9
+      },
+      {
+        "year": 2011,
+        "count": 14
+      },
+      {
+        "year": 2012,
+        "count": 12
+      },
+      {
+        "year": 2013,
+        "count": 13
+      },
+      {
+        "year": 2014,
+        "count": 14
+      },
+      {
+        "year": 2015,
+        "count": 43
+      },
+      {
+        "year": 2016,
+        "count": 25
+      },
+      {
+        "year": 2017,
+        "count": 8
+      },
+      {
+        "year": 2018,
+        "count": 10
+      },
+      {
+        "year": 2019,
+        "count": 7
+      },
+      {
+        "year": 2020,
+        "count": 7
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "18V021000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2009-2013 Jeep Wrangler, Chrysler 300, Dodge Challenger and Dodge Charger vehicles, and 2009-2011 Dodge Dakota vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, ",
+        "report_date": "09/01/2018",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V352000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) expanded the affected population to include 73,712 2005-2009 RAM 2500 trucks produced at the St. Louis North Assembly Plant.  With this change, Chrysler is recalling certain model year 2004-2008 RAM 1500, 2005-2009 RAM 2500, 2006-2009 RAM 3500, 2007-2010 RAM 3500 Cab Chassis, 2",
+        "report_date": "24/05/2016",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V313000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2005-2009 Dodge Ram 2500, 2004-2008 Dodge Ram 1500 and Durango, 2006-2009 Dodge Ram 3500, 2008-2010 Dodge Ram 4500 and 5500, 2007-2008 Chrysler Aspen, 2005-2010 Chrysler 300, 300C, 300S, and SRT8, 2006-2010 Dodge Charger, 2005-2008 Magnum, 2005-2",
+        "report_date": "27/05/2015",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V642000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "CHRYSLER IS RECALLING 175 MY 2009 DODGE CHARGER, CHALLENGER, AND CHRYSLER 300 VEHICLES.  THE TIRE PRESSURE MONITOR (TPM) SENSORS MAY NOT TRANSMIT THE ACTUAL TIRE PRESSURE.  THIS COULD RESULT IN THE DRIVER NOT BEING AWARE OF LOW TIRE PRESSURE.",
+        "report_date": "05/12/2008",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V420000",
+        "component": "WHEELS:LUGS/NUTS/BOLTS/STUDS",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2009 THROUGH 2010 PASSENGER VEHICLES EQUIPPED WITH REAR WHEEL DRIVE.  THESE VEHICLES MAY HAVE BEEN BUILT WITHOUT A FRONT WHEEL SPINDLE NUT.",
+        "report_date": "29/10/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V583000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:LEVER AND LINKAGE:COLUMN SHIFT",
+        "summary": "CHRYSLER IS RECALLING 20,283 MY 2006-2009 CHARGER AND MAGNUM VEHICLES BUILT WITH THE POLICE PACKAGE AND EQUIPPED WITH A COLUMN SHIFTER.  THE GEARSHIFT CABLE MAY BECOME DISENGAGED FROM THE STEERING COLUMN MOUNTING BRACKET AND CAUSE AN INCORRECT TRANSMISSION GEARSHIFT POSITION DISPLAY.",
+        "report_date": "06/11/2008",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:49:59.434Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

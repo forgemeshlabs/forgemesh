@@ -1,0 +1,140 @@
+{
+  "slug": "2009-ford-explorer",
+  "year": 2009,
+  "make": "Ford",
+  "model": "Explorer",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 33,
+    "top_failure_components": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 5,
+        "share_pct": 15.2,
+        "excerpts": [
+          "THROTTLE BODY ISSUES, INTERMITTENT STAHLS, PEDAL SURING FORWARD WHEN ACCELERATED.  THIS IS A HUGE SAFETY RISK AND FROM WHAT I HAVE READ A DEFECT IN THE 2009 FORD MODELS. MY TRUCK IS IN THE MIDDLE OF T",
+          "TL* THE CONTACT OWNS A 2009 FORD EXPLORER. WHILE DRIVING APPROXIMATELY 5 MPH, THE VEHICLE INDEPENDENTLY ACCELERATED AND CRASHED INTO A BRICK WALL. THE AIR BAGS DID NOT DEPLOY. A POLICE REPORT WAS FILE",
+          "TL* THE CONTACT OWNS A 2009 FORD EXPLORER. WHILE DRIVING APPROXIMATELY 70 MPH, THE VEHICLE STALLED AND THE WRENCH WARNING INDICATOR ILLUMINATED. THE CONTACT HAD TO COAST TO THE SHOULDER WITH NO POWER "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 4,
+        "share_pct": 12.1,
+        "excerpts": [
+          "SUV SEEMS TO BE IDLED DURING START UP OR EVEN WHEN DRIVING. SOUNDS AIRY LIKE ITS TRYING TO ACCELERATE. ALSO I HAVE HAD BREAK PADS REPLACED MORE THAN USUAL. MECHANIC SAID IT WAS REPORTED THAT THEY HAVE",
+          "TL* THE CONTACT OWNS A 2009 FORD EXPLORER. THE CONTACT STATED THAT THE ENGINE STALLED NUMEROUS TIMES WITHOUT WARNING WHILE DRIVING VARIOUS SPEEDS. THE VEHICLE WAS TAKEN TO TOWN AND COUNTRY FORD (5041 ",
+          "TL* THE CONTACT OWNS A 2009 FORD EXPLORER. WHILE DRIVING APPROXIMATELY 70 MPH, THE VEHICLE STALLED AND THE WRENCH WARNING INDICATOR ILLUMINATED. THE CONTACT HAD TO COAST TO THE SHOULDER WITH NO POWER "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 3,
+        "share_pct": 9.1,
+        "excerpts": [
+          "SUV SEEMS TO BE IDLED DURING START UP OR EVEN WHEN DRIVING. SOUNDS AIRY LIKE ITS TRYING TO ACCELERATE. ALSO I HAVE HAD BREAK PADS REPLACED MORE THAN USUAL. MECHANIC SAID IT WAS REPORTED THAT THEY HAVE",
+          "WHEN COMING TO A STOP, THE CAR LURCHES AND LIGHTS COME ON SIGNALING POWERTRAIN ISSUE.  *TR",
+          "2009 FORD EXPLORER LURCHES WHEN COMING TO A STOP. *TR"
+        ]
+      },
+      {
+        "component": "WHEELS",
+        "complaints": 3,
+        "share_pct": 9.1,
+        "excerpts": [
+          "2009 FORD EXPLORER. CONSUMER WRITES IN REGARDS TO WHEEL SEPARATION WHICH RESULTED IN AN AUTOMOBILE ACCIDENT. *LD  *JS",
+          "IN MAY 2017 I HAD SERVICE PERFORMED ON MY 2009 FORD SUV (INCLUDING  REPLACEMENT OF FRONT AND REAR BRAKE PADS AND TURN OF ALL FOUR ROTORS) AT MY LOCAL FORD DEALERSHIP.  ON MAY 13, 2017, MYSELF, MY WIFE",
+          "WITHIN THE FIRST 12 MONTHS AND LESS THAN 25K MILES HAD TO REPLACE BOTH FRONT FIRESTONE TIRES DUE TO THE INSIDE WEARING BALD ON MY 2009 FORD EXPLORER. JUNE 2011, 23 MONTHS OLD AND WITH 42K MILES RIGHT "
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 3,
+        "share_pct": 9.1,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2009 FORD EXPLORER. THE CONTACT STATED THAT THE FRONT DRIVER SIDE SEAT INDEPENDENTLY RECLINED. THE CONTACT INSPECTED THE SEAT AND NOTICED THE BOLT THAT DETAINED THE BACK OF THE ",
+          "THE FRONT PASSENGER HEAD RESTRAINTS PUSH THE HEAD FORWARD, CREATING STRESS ON THE NECK/BACK AND COULD CAUSE INJURY. SEATING IS UNCOMFORTABLE UNLESS THE SEAT IS RECLINED. WHICH POSES ANOTHER RISK AND S",
+          "TL*THE CONTACT OWNS A 2009 FORD EXPLORER.  WHEN THE CONTACT ENTERED THE VEHICLE, HE NOTICED THAT THE HEAD REST PUSHES THE DRIVER'S HEAD TOWARDS THE WINDSHIELD DUE TO ITS PERPENDICULAR DESIGN.  THE CON"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 0,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1993,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 4
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 4
+      },
+      {
+        "year": 2012,
+        "count": 3
+      },
+      {
+        "year": 2013,
+        "count": 2
+      },
+      {
+        "year": 2014,
+        "count": 2
+      },
+      {
+        "year": 2015,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 3
+      },
+      {
+        "year": 2017,
+        "count": 5
+      },
+      {
+        "year": 2018,
+        "count": 4
+      },
+      {
+        "year": 2020,
+        "count": 2
+      },
+      {
+        "year": 2021,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "10E043000",
+        "component": "EQUIPMENT",
+        "summary": "MARATHON IS RECALLING CERTAIN SEAT COVERS, BRAND SUPERHIDES WITH PART NUMBERS 593, 594, 578, 960, 228, 228-09, 267-08, 333, 625, AND 630, SOLD FOR USE AS AFTERMARKET EQUIPMENT FOR VARIOUS PASSENGER VEHICLES.  THESE SEAT COVERS ARE MADE OF HEAVIER THREAD AND ARE NOT COMPATIBLE WITH SEATS CONTAINING S",
+        "report_date": "03/09/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:49:04.913Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

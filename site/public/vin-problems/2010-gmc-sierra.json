@@ -1,0 +1,163 @@
+{
+  "slug": "2010-gmc-sierra",
+  "year": 2010,
+  "make": "GMC",
+  "model": "Sierra",
+  "matched_as": {
+    "complaints": [
+      "SIERRA 1500 REGULAR CAB",
+      "SIERRA 1500 EXTENDED CAB",
+      "SIERRA 1500 CREW CAB",
+      "SIERRA 2500 EXTENDED CAB",
+      "SIERRA 2500 REGULAR CAB",
+      "SIERRA 3500 EXTENDED CAB"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 775,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 292,
+        "share_pct": 37.7,
+        "excerpts": [
+          "The contact is an attorney who was representing a client who owns a 2010 GMC Sierra 1500. The contact stated that while the vehicle was being driven at an intersection, the front end of the vehicle cr",
+          "The contact owns a 2010 GMC Sierra. The contact stated that while driving at 15 MPH going into an intersection, another vehicle going at approximately 5 MPH, crossed in front of the contact. There wer",
+          "2010GMC SIERRA. CONSUMER WRITES IN REGARDS TO TAKATA AIRBAG SAFETY RECALL.   THE CONSUMER STATED THE DEALER ADVISED THE DASHBOARD WOULD NEED TO BE REPLACED AT THE EXPENSE OF THE OWNER, DUE TO A CRACK."
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 159,
+        "share_pct": 20.5,
+        "excerpts": [
+          "The contact owns a 2010 GMC Sierra 1500. The contact received notification of NHTSA Campaign Number: 21V053000 (Air Bag). The contact stated that while the vehicle was parked, he became aware that the",
+          "Took truck in to have brake light checked to prepare for a trip. Got a call the next day from auto service center that the frame off the truck is completely rusted and that it was unable to be lifted ",
+          "Extreme frame rust and rot issues with this truck and many around this year they’re rotting away excessively"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 55,
+        "share_pct": 7.1,
+        "excerpts": [
+          "Over the last 3 years we have had ongoing issues with our truck going into limp mode.  We have spent thousands of dollars at dealerships and mechanics trying to troubleshoot the issue.   Several occas",
+          "TCM. Yes it's available for inspection.  It failed causing my truck to just lock the brakes up in the middle of the road almost causing an accident. Causing driver and passenger risk of Injury",
+          "The transmission control module failed while towing my trailer. I had my family loaded in the truck and the failure happened in a busy intersection, nearly causing several accidents as I was unable to"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 47,
+        "share_pct": 6.1,
+        "excerpts": [
+          "Over the last 3 years we have had ongoing issues with our truck going into limp mode.  We have spent thousands of dollars at dealerships and mechanics trying to troubleshoot the issue.   Several occas",
+          "WHILE THE VEHICLE WAS IN MOTION ON A CITY STREET, THE FUEL MANAGEMENT SYSTEM FAILED ALMOST CAUSING ME TO BE IN AN ACCIDENT.  THE ENGINE SOUNDED LIKE IT WAS BLOWING UP WITH METAL ON METAL SOUNDS, LOSS ",
+          "ACTIVE FUEL MANAGEMENT SYSTEM FAILED AS I WAS DRIVING DOWN THE STREET.  ENGINE STUCK IN 4 CYLINDERS.  SOUNDED LIKE IT WAS GOING TO BLOW UP IT WAS RATTLING SO LOUD.  RAPID LOSS OF POWER AND TORQUE AS A"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 31,
+        "share_pct": 4,
+        "excerpts": [
+          "A CRACK HAS FORMED ON THE PASSENGER SIDE OF THE DASH BOARD NEAR THE AIR BAG.  THIS SHOULD NOT OCCUR IN A VEHICLE OF THIS AGE. THE VEHICLE HAS BEEN TO THE DEALER ON NUMEROUS OCCASIONS WITHOUT ANY MENTI",
+          "DEALER STATES THAT THE BRAKE MODULAR AND PLUG ARE NO GOOD.  THE COST OF THE REPAIR WOULD BE $1200.00.  THE SERVICE TRACTION CONTROL LIGHT WOULD COME ON.  *TR",
+          "DRIVING AT ANY SPEED WHEN APPLYING LIGHT TO MEDIUM BRAKE PEDAL (AS IF SLOWING TO EXIT INTERSTATE HIGHWAY) BRAKES BEGIN TO PULSE. IT FEELS AS IF ITS IN THE REAR BRAKE. TAKEN TO DEALER SEVERAL TIMES. TH"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 24,
+      "fires": 18,
+      "injuries": 72,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 46
+      },
+      {
+        "year": 2011,
+        "count": 9
+      },
+      {
+        "year": 2012,
+        "count": 48
+      },
+      {
+        "year": 2013,
+        "count": 47
+      },
+      {
+        "year": 2014,
+        "count": 114
+      },
+      {
+        "year": 2015,
+        "count": 105
+      },
+      {
+        "year": 2016,
+        "count": 150
+      },
+      {
+        "year": 2017,
+        "count": 96
+      },
+      {
+        "year": 2018,
+        "count": 49
+      },
+      {
+        "year": 2019,
+        "count": 24
+      },
+      {
+        "year": 2020,
+        "count": 18
+      },
+      {
+        "year": 2021,
+        "count": 38
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 10
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "10E043000",
+        "component": "EQUIPMENT",
+        "summary": "MARATHON IS RECALLING CERTAIN SEAT COVERS, BRAND SUPERHIDES WITH PART NUMBERS 593, 594, 578, 960, 228, 228-09, 267-08, 333, 625, AND 630, SOLD FOR USE AS AFTERMARKET EQUIPMENT FOR VARIOUS PASSENGER VEHICLES.  THESE SEAT COVERS ARE MADE OF HEAVIER THREAD AND ARE NOT COMPATIBLE WITH SEATS CONTAINING S",
+        "report_date": "03/09/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:52:48.972Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

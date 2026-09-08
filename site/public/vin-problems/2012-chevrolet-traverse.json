@@ -1,0 +1,176 @@
+{
+  "slug": "2012-chevrolet-traverse",
+  "year": 2012,
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 354,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 115,
+        "share_pct": 32.5,
+        "excerpts": [
+          "White smoke was coming out the car and my car eventually sat on fire. I had to call the fire department.. fire department stated that it was a electrical issue",
+          "The contact owns a 2012 Chevrolet Traverse. The contact stated while driving 80 MPH, the vehicle stopped abruptly. The check engine, traction control, stability control, and air conditioner warning li",
+          "The air conditioning stopped working after working amazing, Traction Control Disabled light keeps coming on,  The RPM's would rev up seems like it gets stuck then drops to normal. stabilitrak messages"
+        ]
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "complaints": 84,
+        "share_pct": 23.7,
+        "excerpts": [
+          "The contact owns a 2012 Chevrolet Traverse. The contact stated while driving 80 MPH, the vehicle stopped abruptly. The check engine, traction control, stability control, and air conditioner warning li",
+          "WHILE DRIVING ON THE PARKWAY WITH MY 2 YOUNG CHILDREN THE POWER WENT INTO REDUCE ENGINE MODE AND THE ERROR MESSAGE STABILITY TREK AND TRACTION CONTROL KEPT BLINKING THIS HAS HAPPENED ON 4 OCCASIONS NO",
+          "AFTER DRIVING ABOUT 500YARDS , SPEED NOT A FACTOR, MY ABS LIGHT AND TRACTION CONTROL LIGHT COME ON WHEN I PUT CODE READER IN OBD PORT IT SHOWS NO CODES. SHUT THE VEHICLE OFF FOR FEW MOMENTS. START IT "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 62,
+        "share_pct": 17.5,
+        "excerpts": [
+          "It sways left to right really bad.. but when it rains or even even the car detected that it's going to rain.. as soon as the car senses it is going to rain u can't even drive it.. it like hydro plains",
+          "White smoke was coming out the car and my car eventually sat on fire. I had to call the fire department.. fire department stated that it was a electrical issue",
+          "I was driving down the freeway at about 67 MPH when the message \"Traction Control Disabled\" came on my display & the car immediately went into \"limp mode\"! By some miracle I was able to muscle the car"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 48,
+        "share_pct": 13.6,
+        "excerpts": [
+          "It sways left to right really bad.. but when it rains or even even the car detected that it's going to rain.. as soon as the car senses it is going to rain u can't even drive it.. it like hydro plains",
+          "White smoke was coming out the car and my car eventually sat on fire. I had to call the fire department.. fire department stated that it was a electrical issue",
+          "When driving the vehicle it will lose power and flash service stabilitrack and low engine mode enabled without warning. This has happened many times since 2016. When the conditions cannot be replicate"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 48,
+        "share_pct": 13.6,
+        "excerpts": [
+          "After sliding into a ditch, my drivers side, curtain airbag deployed but, instead of covering the drivers side door window, it came out and went across my face, hitting me on the right side of my head",
+          "Airbags deployed unexpectedly while I was driving on the freeway.",
+          "Airbags failed to deploy on drivers side and in the front after an impact of 35 MPH. My daughter and myself got severely hurt due to this malfunction. yes it has been inspected. no there were never an"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 2,
+      "injuries": 14,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 6
+      },
+      {
+        "year": 2013,
+        "count": 11
+      },
+      {
+        "year": 2014,
+        "count": 28
+      },
+      {
+        "year": 2015,
+        "count": 35
+      },
+      {
+        "year": 2016,
+        "count": 39
+      },
+      {
+        "year": 2017,
+        "count": 57
+      },
+      {
+        "year": 2018,
+        "count": 57
+      },
+      {
+        "year": 2019,
+        "count": 59
+      },
+      {
+        "year": 2020,
+        "count": 27
+      },
+      {
+        "year": 2021,
+        "count": 14
+      },
+      {
+        "year": 2022,
+        "count": 7
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "15V415000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2008-2012 Buick Enclave vehicles manufactured January 3, 2007, to February 29, 2012, 2009-2012 Chevrolet Traverse vehicles manufactured July 6, 2008, to March 9, 2012, 2007-2012 GMC Acadia vehicles manufactured September 15, 2006, to February 2",
+        "report_date": "30/06/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V266000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors is recalling certain model year 2009-2014 Buick Enclave vehicles manufactured April 14, 2008, through May 14, 2014, Chevrolet Traverse vehicles manufactured June 6, 2008, through May 14, 2014, and GMC Acadia vehicles manufactured April 9, 2008, through May 14, 2014, and 2009-2010 Satu",
+        "report_date": "20/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V118000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2008-2013 Buick Enclave and GMC Acadia and 2009-2013 Chevrolet Traverse and 2008-2010 Saturn Outlook vehicles.  In the affected vehicles, increased resistance in the driver and passenger seat mounted side impact air bag (SIAB) wiring harnesses ",
+        "report_date": "17/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V151000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:LINKAGES",
+        "summary": "GENERAL MOTORS (GM) IS RECALLING CERTAIN MODEL YEAR 2011-2012 CHEVROLET TRAVERSE, BUICK ENCLAVE, AND GMC ACADIA VEHICLES CURRENTLY REGISTERED IN ALASKA, COLORADO, CONNECTICUT, DELAWARE, IDAHO, ILLINOIS, INDIANA, IOWA, MAINE, MARYLAND, MASSACHUSETTS, MICHIGAN, MINNESOTA, MONTANA, NEBRASKA, NEW HAMPSH",
+        "report_date": "09/04/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V246000",
+        "component": "AIR BAGS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2015, 2017 Buick Enclave, 2010-2019 Chevrolet Traverse, and 2011-2016 GMC Acadia vehicles.  The side curtain air bags may not be properly attached.",
+        "report_date": "08/04/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:56:32.564Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

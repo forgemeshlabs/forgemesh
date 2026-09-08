@@ -1,0 +1,144 @@
+{
+  "slug": "2015-hyundai-tucson",
+  "year": 2015,
+  "make": "Hyundai",
+  "model": "Tucson",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 226,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 118,
+        "share_pct": 52.2,
+        "excerpts": [
+          "We have a 2015 Hyundai Tucson that we bought brand new. It has 80k miles on it. The car started using oil about three years ago. The dealer recommended replacement of the catalytic converter, which we",
+          "While driving on a US highway, the check engine light illuminated and the vehicle lost the ability to start/run normally, requiring the vehicle to be pulled off the road and towed to an authorized Hyu",
+          "The contact owns a 2015 Hyundai Tucson. The contact stated that while driving at 50 MPH, the vehicle stalled without warning. The engine turned over but failed to restart. The contact related the fail"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 67,
+        "share_pct": 29.6,
+        "excerpts": [
+          "The contact owns a 2015 Hyundai Tucson. The contact stated that while driving at 50 MPH, the vehicle stalled without warning. The engine turned over but failed to restart. The contact related the fail",
+          "Bought the vehicle as is with \"1 owner, who was older\" drove it off the lot and rest drove it, at 57,000 miles. Perfect...that was november 2023.. 3 days later my car was a little low on gas due to th",
+          "The contact owns a 2015 Hyundai Tucson. The contact received notification of NHTSA Campaign Number: 22V056000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet availabl"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 52,
+        "share_pct": 23,
+        "excerpts": [
+          "The contact owns a 2015 Hyundai Tucson. The contact stated that while driving at 50 MPH, the vehicle stalled without warning. The engine turned over but failed to restart. The contact related the fail",
+          "The contact owns a 2015 Hyundai Tucson. The contact received notification of NHTSA Campaign Number: 22V056000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet availabl",
+          "The contact owns a 2015 Hyundai Tucson. The contact stated that while driving in stop and go traffic, the braking system malfunctioned. The contact stated that while depressing the brake pedal to stop"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 20,
+        "share_pct": 8.8,
+        "excerpts": [
+          "While driving on a US highway, the check engine light illuminated and the vehicle lost the ability to start/run normally, requiring the vehicle to be pulled off the road and towed to an authorized Hyu",
+          "On January 7, 2026, shortly after delivery of a used 2015 Hyundai Tucson (VIN [XXX] ), the vehicle experienced immediate mechanical failure while being driven, resulting in sudden loss of power and dr",
+          "On [XXX], my husband and I were driving on [XXX] (Highway) in the slow lane, when the engine shutoff without any Service engine light warning. It was frightening because an tractor trailer was directl"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 20,
+        "share_pct": 8.8,
+        "excerpts": [
+          "On March 13, 2026, I was operating my 2015 Hyundai Tucson when the steering locked up, causing me to crash into a tree head-on. In the course of this head-on crash, my airbags failed to deploy. As a d",
+          "Bought the vehicle as is with \"1 owner, who was older\" drove it off the lot and rest drove it, at 57,000 miles. Perfect...that was november 2023.. 3 days later my car was a little low on gas due to th",
+          "It has been OVER 6 MONTHS since there has been a recall on my vehicle (Hyundai Recall 218 / NHTSA Recall 22V-056).  It is a MAJOR safety hazard which could cause an engine fire while parked or driving"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 8,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 8
+      },
+      {
+        "year": 2016,
+        "count": 3
+      },
+      {
+        "year": 2017,
+        "count": 7
+      },
+      {
+        "year": 2018,
+        "count": 15
+      },
+      {
+        "year": 2019,
+        "count": 18
+      },
+      {
+        "year": 2020,
+        "count": 13
+      },
+      {
+        "year": 2021,
+        "count": 34
+      },
+      {
+        "year": 2022,
+        "count": 88
+      },
+      {
+        "year": 2023,
+        "count": 13
+      },
+      {
+        "year": 2024,
+        "count": 14
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "22V056000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2016-2018 Santa Fe, 2017-2018 Santa Fe Sport, 2019 Santa Fe XL, and 2014-2015 Tucson vehicles.  The Anti-Lock Brake System (ABS) module could malfunction and cause an electrical short, which could result in an engine compartment fire.",
+        "report_date": "03/02/2022",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:08.588Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2017-gmc-terrain",
+  "year": 2017,
+  "make": "GMC",
+  "model": "Terrain",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 133,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 77,
+        "share_pct": 57.9,
+        "excerpts": [
+          "Have had to replace the VVT solenoids several times within a year spam. Had to replace the rear main seal because it blew out due to carbon build up. Having issues with excessive oil consumption. Now ",
+          "The contact owns a 2017 GMC Terrain. The contact stated that after the vehicle was taken to a local car wash, while driving at an undisclosed speed, the check engine warning light illuminated. The veh",
+          "I had a message flash that said the power to the engine was reduce. Next message said check stabilink ( or something similar).. it said drive with caution. I live 2 mins from my job I drove home and p"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 23,
+        "share_pct": 17.3,
+        "excerpts": [
+          "I am filing this complaint to report a catastrophic engine failure involving my 2017 GMC Terrain equipped with the 2.4L Ecotec engine, which I believe is the result of a known manufacturing defect rel",
+          "We have been keeping up with all maintenance and oil changes. We have only driven the car for less than a year. At time of oil change; the oil has been low, resulting in OVER oil consumption; Requirin",
+          "Throttle position system all of a sudden went bad. My 2017 Terrain started shaking. I was holding up  traffic. The sun couldn't go over 5mph. I've read online where this is happening alot in 2010'2017"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 12,
+        "share_pct": 9,
+        "excerpts": [
+          "I was driving back home when I suddenly heard a loud pop and my car seat belt immediately tightened up. I saw smoke inside the car and the screen in my dashboard said \"airbag service\"   There was no a",
+          "The air bags will show that they are shut off while we are driving down the road with my wife sitting in the seat and they will also does it if we are just sitting in the drive way.   Also they had a ",
+          "The contact owns a 2017 GMC Terrain. The contact stated while driving at various speeds, the passenger’s side air bag warning light illuminated, and an audible sound was heard. The contact stated that"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 9,
+        "share_pct": 6.8,
+        "excerpts": [
+          "The head unit quit working around 98k. The head unit is the radio, and screen which includes the back up camera. From what we have been told and find online, this is a known problem with them and affe",
+          "I am filing this complaint to report a catastrophic engine failure involving my 2017 GMC Terrain equipped with the 2.4L Ecotec engine, which I believe is the result of a known manufacturing defect rel",
+          "We have been keeping up with all maintenance and oil changes. We have only driven the car for less than a year. At time of oil change; the oil has been low, resulting in OVER oil consumption; Requirin"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 7,
+        "share_pct": 5.3,
+        "excerpts": [
+          "I looked up my recall on my vehicle about my headlights being recall. Never received any information there was a recall.",
+          "The contact owns a 2017 GMC Terrain. The contact stated that the vehicle was taken to the local dealer to be serviced under NHTSA Campaign Number: 22V137000 (Exterior Lighting). After the recall repai",
+          "Driver's side taillight & reverse light fills with water. This unsealed light issue has caused electrical wire corrosion."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 11,
+      "fires": 2,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 5
+      },
+      {
+        "year": 2018,
+        "count": 6
+      },
+      {
+        "year": 2019,
+        "count": 6
+      },
+      {
+        "year": 2020,
+        "count": 6
+      },
+      {
+        "year": 2021,
+        "count": 11
+      },
+      {
+        "year": 2022,
+        "count": 29
+      },
+      {
+        "year": 2023,
+        "count": 19
+      },
+      {
+        "year": 2024,
+        "count": 21
+      },
+      {
+        "year": 2025,
+        "count": 22
+      },
+      {
+        "year": 2026,
+        "count": 8
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "22V137000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2017 GMC Terrain vehicles.  A reflection caused by the headlight housings may illuminate areas above the vehicle and outside of the driver's view with excessively bright light.  As such, these vehicles fail to comply with the requirements of Federal",
+        "report_date": "08/03/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:08.607Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

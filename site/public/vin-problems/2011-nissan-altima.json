@@ -1,0 +1,152 @@
+{
+  "slug": "2011-nissan-altima",
+  "year": 2011,
+  "make": "Nissan",
+  "model": "Altima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 241,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 68,
+        "share_pct": 28.2,
+        "excerpts": [
+          "Drive axle suddenly not functioning properly, caused dangerous conditions to stop the car while driving on highway.",
+          "Unknown. My car is making a whining noise & no matter how much i push the gas pedal it won’t accelerate. Sometimes it works but mostly it won’t.",
+          "Hi my Nissan has 120k miles son it and the transmission is completely wrong don’t go more than 30 mph I take it to the shop to inspect and they told me that it need to be replace. It has code p1778 an"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 36,
+        "share_pct": 14.9,
+        "excerpts": [
+          "What component or system failed or malfunctioned, and is it available for inspection upon request? The Engine Control Module (ECM) is malfunctioning, triggering persistent P0101 codes related to the M",
+          "This is the second nissan altima iv owed an the problem eatch one iv had is that were the idler tensioner pully gose and bolts to brakes so there for you cant put the idler tensioner pully back on",
+          "What component or system failed or malfunctioned, and is it available for inspection upon request? The Engine Control Module (ECM) is malfunctioning, triggering persistent P0101 codes related to the M"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 31,
+        "share_pct": 12.9,
+        "excerpts": [
+          "What component or system failed or malfunctioned, and is it available for inspection upon request? The Engine Control Module (ECM) is malfunctioning, triggering persistent P0101 codes related to the M",
+          "What component or system failed or malfunctioned, and is it available for inspection upon request? The Engine Control Module (ECM) is malfunctioning, triggering persistent P0101 codes related to the M",
+          "I am sending this email concerning a recall that is affecting my vehicle. I dropped the car off as scheduled on 10-10-22. The initial adviser I spoke with in scheduling the appointment at the Darcars "
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 27,
+        "share_pct": 11.2,
+        "excerpts": [
+          "The contact owns a 2011 Nissan Altima. The contact stated that water was leaking from the bottom of the front driver’s and passenger side doors. Additionally, the seat belt warning light remained illu",
+          "Hood latch is not working appropriately. Loose, rattling and lifting over 35 mph.",
+          "The contact owns a 2011 Nissan Altima. The contact stated that the dashboard was sticky to the touch, causing a glare in the windshield. The vehicle was taken to a local dealer where it was diagnosed "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 21,
+        "share_pct": 8.7,
+        "excerpts": [
+          "Airbag sensor flashing.  Seems to be a very common issue and no recall.  Found tons of articles and YouTube videos.",
+          "Vehicle hydroplaned from heavy rain and wet road into a ditch alongside of the main highway & the airbags did NOT deploy. This IS a safety malfunction in the airbag system on a 2011 Nissan Altima.",
+          "The dashboard airbag icon has flashed continuously while the car was being driven on two different days, first with the driver as the occupant and again with the driver and a passenger.  Both times, a"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 11,
+      "fires": 5,
+      "injuries": 9,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 17
+      },
+      {
+        "year": 2012,
+        "count": 19
+      },
+      {
+        "year": 2013,
+        "count": 10
+      },
+      {
+        "year": 2014,
+        "count": 19
+      },
+      {
+        "year": 2015,
+        "count": 13
+      },
+      {
+        "year": 2016,
+        "count": 28
+      },
+      {
+        "year": 2017,
+        "count": 24
+      },
+      {
+        "year": 2018,
+        "count": 37
+      },
+      {
+        "year": 2019,
+        "count": 29
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 11
+      },
+      {
+        "year": 2022,
+        "count": 13
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "11V371000",
+        "component": "SUSPENSION",
+        "summary": "NISSAN IS RECALLING CERTAIN MODEL YEAR 2011-2012 NISSAN ALTIMA SEDAN VEHICLES MANUFACTURED FROM APRIL 25, 2011, THROUGH JUNE 10, 2011 AT THE CANTON, MISSISSIPPI PLANT.  THE TRANSVERSE LINK BOLT MAY NOT HAVE BEEN TORQUED TO THE PROPER SPECIFICATION. THIS CONDITION COULD CAUSE THE BOLT TO BECOME LOOSE",
+        "report_date": "19/07/2011",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:53:40.137Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

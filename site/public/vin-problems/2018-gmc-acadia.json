@@ -1,0 +1,132 @@
+{
+  "slug": "2018-gmc-acadia",
+  "year": 2018,
+  "make": "GMC",
+  "model": "Acadia",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 392,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 163,
+        "share_pct": 41.6,
+        "excerpts": [
+          "The contact owns a 2018 GMC Acadia. The contact stated that while parking the vehicle, the gear shifter was shifted into park(P); however, the message “Shift to Park” was displayed. The gear shifter w",
+          "The contact owns a 2018 GMC Acadia. The contact stated that after parking and then attempting to turn off the vehicle, the message \" Shift to Park\" was displayed. The contact stated that the vehicle w",
+          "Gear shifter is not registering that the vehicle is in park. Because of this issue I have to sit in the vehicle for up to 15 mins trying to get it to register that it is in fact in park and can turn o"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 108,
+        "share_pct": 27.6,
+        "excerpts": [
+          "Shift to park Malfunction again, 4 th time!! 1000$ to fix is ridiculous",
+          "Shift to park error  Vehicle won’t shut off",
+          "For the last 6 months, I keep getting a \"shift to Park\" message on my dashboard indicating that my vehicle is not in park (in which it is).  The problem is getting wors, so I called GMC on 5/14/26 to "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 32,
+        "share_pct": 8.2,
+        "excerpts": [
+          "Hesitants and Shudders when shifting into 2nd gear.",
+          "I am getting the known P0128 code. My engine says it's cold when it's not, my AC isn't working, and I am getting a message that says \"Steer assist reduced. Drive with care\". This is a known problem an",
+          "The vehicle has experienced repeated electrical and engine-related malfunctions, including random engine shutdowns while driving and random no-start conditions. The thermostat and cooling system faile"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 24,
+        "share_pct": 6.1,
+        "excerpts": [
+          "When I’m driving on the highway, I get a message on my dashboard saying steering assist reduced, drive with care. I have taken to the GMC dealership and they will not cover this repair even though it ",
+          "this is the second time I am having to replace gear shift with under 160000 miles.  Turn the car off and it tells me the car is not in park when it is.  It can not tell what gear it is in or when. AGA",
+          "The contact owns a 2018 GMC Acadia. The contact stated while driving at undisclosed speed, the steering assist reduced warning light illuminated. The contact's husband attached a portable diagnostic t"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 21,
+        "share_pct": 5.4,
+        "excerpts": [
+          "The vehicle has experienced repeated electrical and engine-related malfunctions, including random engine shutdowns while driving and random no-start conditions. The thermostat and cooling system faile",
+          "Stabikitrack error causes ABS to trigger while on the highway. Brought in for repair at dealer and needed new wheel sensor and EBCM, significant safety issue!",
+          "“Shift to park” warning keeps popping up on my dash. I looked into it and there are many people saying this is a known issue!"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 1,
+      "injuries": 12,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 10
+      },
+      {
+        "year": 2019,
+        "count": 95
+      },
+      {
+        "year": 2020,
+        "count": 62
+      },
+      {
+        "year": 2021,
+        "count": 35
+      },
+      {
+        "year": 2022,
+        "count": 26
+      },
+      {
+        "year": 2023,
+        "count": 30
+      },
+      {
+        "year": 2024,
+        "count": 46
+      },
+      {
+        "year": 2025,
+        "count": 63
+      },
+      {
+        "year": 2026,
+        "count": 25
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "18V358000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2018 GMC Canyon, 2016-2017 Buick Envision, 2016-2018 Chevrolet Colorado and Malibu, 2017-2018 GMC Acadia, 2018 Buick LaCrosse, Cadillac ATS, Chevrolet Equinox, and GMC Terrain vehicles.  The high pressure fuel pump may detach from its mounting flange",
+        "report_date": "31/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V516000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "General Motors LLC (GM) is recalling certain 2018 Chevrolet Equinox and GMC Terrain vehicles and 2017-2018 GMC Acadia  vehicles.  The right front intermediate driveshaft may fracture and separate while driving.",
+        "report_date": "22/08/2017",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:04.398Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

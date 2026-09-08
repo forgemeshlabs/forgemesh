@@ -1,0 +1,144 @@
+{
+  "slug": "2022-hyundai-santa-fe",
+  "year": 2022,
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 197,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 57,
+        "share_pct": 28.9,
+        "excerpts": [
+          "On June 20 2026 at 2:07pm Central Time there was a check engine light displayed on the dash of my vehicle 2022 Hyundai Santa Fe Calligraphy, while it was parked in the garage of my home and was just p",
+          "Symptoms are those described in Hyundai recall 236 (delayed shifting,hesitation, stalling). Vehicle has had multiple TSP services at Hyundai but symptoms persist intermittently.  Software updates do n",
+          "While accelerating, the 8-speed transmission sporadically hangs in 1st gear and will not change to 2nd.  The motor revs to about 4000 rpm and will only travel at about 15 mph.  This causes a safety ha"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 53,
+        "share_pct": 26.9,
+        "excerpts": [
+          "Symptoms are those described in Hyundai recall 236 (delayed shifting,hesitation, stalling). Vehicle has had multiple TSP services at Hyundai but symptoms persist intermittently.  Software updates do n",
+          "While driving, my vehicle displayed “Shifter System Malfunction! Service Immediately.” Immediately after, I was unable to shift the vehicle from Drive into Park, Reverse, or Neutral. The only way to p",
+          "Vehicle: 2022 Hyundai Santa Fe | Current Mileage: 140,000  Description of Safety Defect: While operating a 2022 Hyundai Santa Fe at speed, the vehicle suffered a sudden, complete, and catastrophic los"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 31,
+        "share_pct": 15.7,
+        "excerpts": [
+          "The horn has now stopped working in my vehicle twice. It was replaced 01/27/2023, and is now non-functional again. I believe this to be a safety issue as I have no way to warn other drivers or pedestr",
+          "I did a navigation update as requested by the infotainment system on the Hyundai. After the update, the air conditioner would not turn on when the ac button was depressed .  I took the vehicle to my l",
+          "I have videos of these two incidents and others that I could not upload. While driving on the PA Turnpike at 4:25PM on 5/22/26 75 mph my accelerator pedal stopped responding, my front collision warnin"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 28,
+        "share_pct": 14.2,
+        "excerpts": [
+          "At approximately 67,000 miles, the vehicle experienced a sudden vibration when accelerate and decelerate. Engine light was on and vehicle had a hard time to maintain speed above 40mph. Cars were honki",
+          "Symptoms are those described in Hyundai recall 236 (delayed shifting,hesitation, stalling). Vehicle has had multiple TSP services at Hyundai but symptoms persist intermittently.  Software updates do n",
+          "Latch system for fuel tank door failure."
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 16,
+        "share_pct": 8.1,
+        "excerpts": [
+          "On June 20 2026 at 2:07pm Central Time there was a check engine light displayed on the dash of my vehicle 2022 Hyundai Santa Fe Calligraphy, while it was parked in the garage of my home and was just p",
+          "Vehicle began to display Front collision avoidance system error/ radar blocked.  This also disabled the 'smart' cruise control features.  This happened any time the cruise control was engaged and we e",
+          "I was driving at approximately 65 MPH using the advanced cruise control system. Randomly, the system disengaged and I started getting 2 MIL warnings on my console. MIL warning 1) was \"Check Forward Sa"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 1,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 6
+      },
+      {
+        "year": 2022,
+        "count": 37
+      },
+      {
+        "year": 2023,
+        "count": 44
+      },
+      {
+        "year": 2024,
+        "count": 32
+      },
+      {
+        "year": 2025,
+        "count": 48
+      },
+      {
+        "year": 2026,
+        "count": 30
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "21V524000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2021-2022 Santa Fe and Sonata vehicles equipped with 2.5L turbocharged engines.  Fuel may leak at the pipe connection between the high-pressure fuel pump and fuel rail.",
+        "report_date": "09/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V197000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:GASOLINE:TURBO/SUPERCHARGER",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2022 Santa Fe and Santa Cruz vehicles.  The oil supply pipe to the turbocharger may crack, which could result in an oil leak in the engine compartment.",
+        "report_date": "28/03/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V746000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain 2021-2022 Santa Fe, Sonata, Veloster N, 2022 Santa Cruz, Elantra N, and Kona N vehicles.  The vehicle's \"fail-safe\" limited-mobility drive mode may be impaired, when prompted by a transmission oil pump malfunction, which can result in a complete l",
+        "report_date": "06/10/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V181000",
+        "component": "TRAILER HITCHES",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2019-2023 Santa Fe, 2021-2023 Santa Fe HEV, 2022-2023 Santa Fe Plug-in HEV and Santa Cruz vehicles potentially equipped with a tow hitch harness installed as original equipment, or purchased as an accessory through a Hyundai dealership.  Water acc",
+        "report_date": "17/03/2023",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "24V879000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2021-2022 Santa Fe, Santa Fe HEV, Elantra, Elantra HEV and 2022 Elantra N and Santa Fe PHEV vehicles.  Due to a damaged printed circuit board, the rearview camera image may fail to display.  As such, these vehicles fail to comply with the requirem",
+        "report_date": "21/11/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:25.064Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

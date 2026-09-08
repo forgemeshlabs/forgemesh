@@ -1,0 +1,124 @@
+{
+  "slug": "2021-chevrolet-malibu",
+  "year": 2021,
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 88,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 29,
+        "share_pct": 33,
+        "excerpts": [
+          "The Chevy Malibu is displaying a “Shift to Park” message even when the gear selector is physically in the Park position. This indicates that the vehicle’s computer may not be recognizing that the vehi",
+          "I purchased this vehicle in April of 2026, 4 days after bringing it home it began displaying a “Shift To Park” message in the dash, essentially making it so the vehicle will not shut off even when the",
+          "I was driving my car  my electrical system is throwing all kinds of code.my sftey restrain is coming on to check my seat belt .the car goes blank .it stop in the middle of the road.this car has a lot "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 28,
+        "share_pct": 31.8,
+        "excerpts": [
+          "The contact owns a 2021 Chevrolet Malibu. The contact stated that while driving 70 MPH, the vehicle failed to accelerate as needed; however, the RPM was extremely elevated. The vehicle then lost motiv",
+          "Failure - B000A-00 Body Control Module Error code - Shift Lever Position not plausible .  Safety - This causes the car to upon attempting to turn off the car say \"Shift into Park\" on the dashboard and",
+          "Shift to park switch failed."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 14,
+        "share_pct": 15.9,
+        "excerpts": [
+          "The Chevy Malibu is displaying a “Shift to Park” message even when the gear selector is physically in the Park position. This indicates that the vehicle’s computer may not be recognizing that the vehi",
+          "A screen popped up saying “reduced engine power” I was already Omw to the shop to get one thing fixed. When they tried to pull my car in they say they he car wouldn’t drive and it was hard to accelera",
+          "I was driving and car suddenly reduced speed,engine light came on and message came across dash “engine power reduced” and a text was sent to tell me I have a transmission issue. Now car won’t drive pa"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 8,
+        "share_pct": 9.1,
+        "excerpts": [
+          "Took my car for an oil change 4/17/2026 dealership stated I had a recall on the 21 chevy malibu for Fuel injection module, They could not do the recall repair because they did not have the part. So th",
+          "I was driving and car suddenly reduced speed,engine light came on and message came across dash “engine power reduced” and a text was sent to tell me I have a transmission issue. Now car won’t drive pa",
+          "My car stalls, jerks, and shuts off when in drive. More specifically when I turn it on, shift it in reverse, reverse, shift into drive. I press on the gas and nothing. Car doesn't move. I put it back "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 6,
+        "share_pct": 6.8,
+        "excerpts": [
+          "I was driving my car  my electrical system is throwing all kinds of code.my sftey restrain is coming on to check my seat belt .the car goes blank .it stop in the middle of the road.this car has a lot ",
+          "This vin is most likely affected by the aftermarket DTN inflator wheel airbag. Please let the final owner know of this. This vehicle was sold to Rightway Automotive credit from Tallmadge Ohio on Octob",
+          "This vin is most likely affected by the aftermarket DTN inflator wheel airbag. Please let the final owner know of this. This vehicle was sold to Bargain Auto Sales Inc from West Palm beach on August 2"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 1,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 7
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 9
+      },
+      {
+        "year": 2024,
+        "count": 27
+      },
+      {
+        "year": 2025,
+        "count": 20
+      },
+      {
+        "year": 2026,
+        "count": 19
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "21V649000",
+        "component": "SEAT BELTS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2016-2021 Chevrolet Malibu and 2019-2021 Cadillac XT4 vehicles.  The rear seat belt retractors may be improperly secured with loose or missing fasteners.",
+        "report_date": "20/08/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V359000",
+        "component": "SEATS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021 Chevrolet Malibu, 2022 Chevrolet Equinox, Blazer and Cadillac XT4 vehicles.  The driver's seat cushion frame may have an improper weld in the power tilt-adjustment mechanism.",
+        "report_date": "19/05/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:19.321Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

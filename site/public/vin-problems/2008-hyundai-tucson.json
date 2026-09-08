@@ -1,0 +1,148 @@
+{
+  "slug": "2008-hyundai-tucson",
+  "year": 2008,
+  "make": "Hyundai",
+  "model": "Tucson",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 43,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 7,
+        "share_pct": 16.3,
+        "excerpts": [
+          "#1. The airbag light comes on saying the passenger airbag is not connected (something like that). #2. Braking lights did stop working and stayed on while the car was turned off. I never received any r",
+          "I took the car to my mechanic to get brake pads because car was pulling to the left upon braking and he informed me the ABS module was bad and was not distributing brake fluid to the right front wheel",
+          "ON 18 OCTOBER 2017 BRAKES FAILED ON A HILL IN TRAFFIC WITH RED LIGHT AHEAD. 43903 MILES ON THE CAR. MY LIFE WAS IN DANGER AS THE PEDAL WENT TO THE FLOOR. SOMEHOW I CONTROLLED THE VEHICLE AND GOT IT TO"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 5,
+        "share_pct": 11.6,
+        "excerpts": [
+          "In October of 2020 I was pulling into a parking space and my car accelerated and crashed into a light pole resulting in injury to both my husband and myself.  He is 91 years old and shattered his uppe",
+          "MY 2008 V6 TUCSON HAS STALLED WHEN STOPPED IN TRAFFIC NUMEROUS TIMES.IT USUALLY STARTED RIGHT BACK UP BUT THE LAST TIME IT WOULD START BUT NOT STAY RUNNING. THE CAR ALSO CHUGS WHEN I RELEASE THE GAS P",
+          "OWNER (HYUNDAI TUCSON 2008 GLS) HYUNDAI CUSTOMER SERVICE AND REPRESENTATIVE IS THE WORSE.  MY VEHICLE HAS BEEN CUTTING OFF WITHOUT ANY WARNING.  I'VE TAKEN MY CAR TO THE DEALER NUMEROUS TIME INDICATIN"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 5,
+        "share_pct": 11.6,
+        "excerpts": [
+          "MY ELDERLY MOTHER INLAW PURCHASED A CAR AT A BUY HERE PAY HERE PLACE. HER GRANDSON IMMEDIATELY NOTICED IT WAS SKIPPING WHEN IT GOT OVER 40.  HIS GRANDMOTHER TOOK IT BACK THEY SAID IT WAS FINE THEN HIS",
+          "TL* THE CONTACT OWNED A 2008 HYUNDAI TUCSON. THE CONTACT STATED WHILE DRIVING 55 MPH, OTHER DRIVERS ON THE HIGHWAY ALERTED HER TO AN ISSUE WITH THE VEHICLE. THE CONTACT WAS UNAWARE THAT THERE WAS A FI",
+          "TL* THE CONTACT OWNS A 2008 HYUNDAI TUCSON. THE CONTACT STATED THAT WHILE DRIVING ABOUT 55 MPH, THE ENGINE CAUGHT ON FIRE WITHOUT WARNING. THE CONTACT JUMPED OUT OF THE VEHICLE AND CALLED 911. THE FIR"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 5,
+        "share_pct": 11.6,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2008 HYUNDAI TUCSON. THE CONTACT STATED THAT THE SPEED CONTROL KNOB FOR THE AIR BLOWER BECAME HARD TO TURN AND REQUIRED EXCESSIVE FORCE. THE CONTACT DISCOVERED THAT THE CONNECTO",
+          "ELECTRIC LOCKS NO LONGER WORK     VEHICLE MUST BE MANUALLY LOCKED AND UNLOCKED.  *TR",
+          "OWNER (HYUNDAI TUCSON 2008 GLS) HYUNDAI CUSTOMER SERVICE AND REPRESENTATIVE IS THE WORSE.  MY VEHICLE HAS BEEN CUTTING OFF WITHOUT ANY WARNING.  I'VE TAKEN MY CAR TO THE DEALER NUMEROUS TIME INDICATIN"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 4,
+        "share_pct": 9.3,
+        "excerpts": [
+          "#1. The airbag light comes on saying the passenger airbag is not connected (something like that). #2. Braking lights did stop working and stayed on while the car was turned off. I never received any r",
+          "In October of 2020 I was pulling into a parking space and my car accelerated and crashed into a light pole resulting in injury to both my husband and myself.  He is 91 years old and shattered his uppe",
+          "TL* THE CONTACT OWNS A 2008 HYUNDAI TUCSON. WHILE DRIVING 40 MPH, THE AIR BAG WARNING LIGHT ILLUMINATED. THE FAILURE OCCURRED CONSTANTLY. THE VEHICLE WAS NOT DIAGNOSED NOR REPAIRED. THE MANUFACTURER W"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 5,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2008,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 7
+      },
+      {
+        "year": 2010,
+        "count": 6
+      },
+      {
+        "year": 2011,
+        "count": 2
+      },
+      {
+        "year": 2012,
+        "count": 5
+      },
+      {
+        "year": 2013,
+        "count": 2
+      },
+      {
+        "year": 2014,
+        "count": 2
+      },
+      {
+        "year": 2015,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 3
+      },
+      {
+        "year": 2017,
+        "count": 3
+      },
+      {
+        "year": 2019,
+        "count": 2
+      },
+      {
+        "year": 2020,
+        "count": 2
+      },
+      {
+        "year": 2021,
+        "count": 3
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "13V113000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2006-2009 Accent, model year 2007-2011 Azera, Sonata and Sante Fe,2006-2011 Tucson, 2009-2011 Elantra Touring, 2007-2010 Elantra, 2008-2011 Veracruz, 2009-2011 Genesis, 2010-2011 Genesis Coupe, 2007-2008 Entourage, and  2006-2008 Tiburo",
+        "report_date": "01/04/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:47:17.285Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

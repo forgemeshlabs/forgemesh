@@ -1,0 +1,192 @@
+{
+  "slug": "2012-toyota-prius",
+  "year": 2012,
+  "make": "Toyota",
+  "model": "Prius",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 685,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 341,
+        "share_pct": 49.8,
+        "excerpts": [
+          "Brake warning lights on, buzzing sound every 10 seconds. Likely a known actuator and master cylinder issue",
+          "Brake lights icons stay on mechanic at Toyota dealership state need new brak master cylinder and booster",
+          "My 2012 Toyota Prius is experiencing brake actuator pump failure, presenting diagnostic trouble codes C1253 (brake actuator pump motor stuck/locked) and C1256 (brake actuator pump motor overcurrent). "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 89,
+        "share_pct": 13,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2012 Toyota Prius. The contact stated that while attempting to register the vehicle, it was discovered that there was a mileage discrepancy. The vehicle was a d",
+          "While driving, the vehicle experienced a sudden brake system malfunction without prior warning or gradual degradation. The vehicle was being operated under normal driving, road, and weather conditions",
+          "Odometer Fraud. The contact’s son recently purchased a 2012 Toyota Prius. The vehicle was a private sale. After the purchase, it was discovered that there was a mileage discrepancy based on the Carfax"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 71,
+        "share_pct": 10.4,
+        "excerpts": [
+          "Unknown. There were a multitude of codes that appeared on the diagnostics causing problems with engine. The temperature, brake, tire sensor lights are all on. The cruise control is not working. White ",
+          "I am writing to express a complaint regarding the issues I have experienced with the brake system of my Toyota Prius C, 2012 model. For the past several months, I have noticed that the brakes exhibit ",
+          "The contact owns a 2012 Toyota Prius V. The contact stated while driving at an undisclosed speed, the temperature gauge and check engine warning lights illuminated. The vehicle then stalled. The vehic"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 43,
+        "share_pct": 6.3,
+        "excerpts": [
+          "The contact owned a 2012 Toyota Prius. The contact stated that while making a left turn at 10 MPH, another vehicle crashed into the vehicle and t-boned the front passenger's side door of the vehicle. ",
+          "On 10-17-24 these warning lights came on: 1. Pre-collision System 2. Hybrid System 3. Airbag 4. Safety Connect red light And Intermittently: 1. Slip Indicator 2. Brake System Cruise control would not ",
+          "Broken bones in face. Nose split in two parts Eye socket broken along with cornea messed up. Broken ribs. Bleeding spleen. Broken neck."
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 42,
+        "share_pct": 6.1,
+        "excerpts": [
+          "Brake master control system failure with constant issues over 80k miles.  Forward running lights control housing has not held a light fixture since day one and dealership wants to charge for light rep",
+          "The contact owns a 2012 Toyota Prius. The contact stated that the passenger's side low-beam headlight failed to provide adequate illumination while driving. The vehicle was taken to the dealer who inf",
+          "Headlamp Lens Issue Vehicle Manufacturers Must Correct ISSUE 1. The increase in pedestrian-vehicular accidents and fatalities is, at times, related to the driver not seeing the person in time to stop."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 71,
+      "fires": 4,
+      "injuries": 49,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 3
+      },
+      {
+        "year": 2012,
+        "count": 66
+      },
+      {
+        "year": 2013,
+        "count": 58
+      },
+      {
+        "year": 2014,
+        "count": 37
+      },
+      {
+        "year": 2015,
+        "count": 25
+      },
+      {
+        "year": 2016,
+        "count": 36
+      },
+      {
+        "year": 2017,
+        "count": 38
+      },
+      {
+        "year": 2018,
+        "count": 48
+      },
+      {
+        "year": 2019,
+        "count": 65
+      },
+      {
+        "year": 2020,
+        "count": 33
+      },
+      {
+        "year": 2021,
+        "count": 39
+      },
+      {
+        "year": 2022,
+        "count": 71
+      },
+      {
+        "year": 2023,
+        "count": 52
+      },
+      {
+        "year": 2024,
+        "count": 52
+      },
+      {
+        "year": 2025,
+        "count": 49
+      },
+      {
+        "year": 2026,
+        "count": 13
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "18V684000",
+        "component": "HYBRID PROPULSION SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2010-2014 Toyota Prius and 2012-2014 Toyota Prius V vehicles.  Excessive voltage in the Intelligent Power Module (IPM) within the inverter may cause the hybrid system to shut down, causing the vehicle to stall while being driven.",
+        "report_date": "04/10/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V487000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2010-2012 Toyota Prius, 2010 and 2012 Toyota Prius Plug-in Hybrid, and 2011-2012 Lexus CT200h vehicles.  A weld in the curtain shield air bag inflator may crack causing one or both portions of the inflator to eject int",
+        "report_date": "30/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V053000",
+        "component": "HYBRID PROPULSION SYSTEM: INVERTER",
+        "summary": "Toyota is recalling certain model year 2010 through 2014 Prius vehicles.  In the affected vehicles, the Intelligent Power Module (IPM) inside the inverter module (a component of the hybrid system) contains transistors that may become damaged from high operating temperatures.  If this occurs, various",
+        "report_date": "12/02/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V396000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2005-2011 4Runner, Highlander, Sequoia, and Sienna, 2005-2010 Avalon and Tundra, 2006-2008 Camry Solara, 2006-2010 Highlander hybrid, 2006-2011 Rav4 and Tacoma, 2007-2010 FJ Cruiser, 2007-2011 Camry hybrid, 2009-2010 Venza, 2010-2012 Priu",
+        "report_date": "02/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V123000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota is recalling certain model year 2008 and 2010-2013 Toyota Tundra, 2010-2012 Rav4, 2012 Toyota Sequoia, 2010-2011 Toyota Corolla, 2010-2011 Toyota Camry and Camry Hybrid, 2010-2013 Toyota Highlander and Highlander Hybrid, 2010-2013 Toyota FJ Cruiser, 2011 Toyota Land Cruiser, 2010-20",
+        "report_date": "09/04/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:56:12.479Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

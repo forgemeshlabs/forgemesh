@@ -1,0 +1,158 @@
+{
+  "slug": "2022-toyota-sienna",
+  "year": 2022,
+  "make": "Toyota",
+  "model": "Sienna",
+  "matched_as": {
+    "complaints": [
+      "redundant SIENNA",
+      "SIENNA HYBRID"
+    ],
+    "recalls": [
+      "redundant SIENNA",
+      "SIENNA HYBRID"
+    ]
+  },
+  "failures": {
+    "total_complaints": 134,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 66,
+        "share_pct": 49.3,
+        "excerpts": [
+          "While driving at about 40mph on a city street I complete lost steering, brakes and vehicle control. I suddenly started severely swerving/ spinning. I suddenly had no control over the vehicle. The vehi",
+          "The 2022 Toyota Sienna temporarily accelerates or surges forward while braking, or has a momentary loss of braking / deceleration before it re-engages in braking.",
+          "For over a year now, I have been experiencing a random issue in my van with the brake system. It feels like a slippage when I hit the brakes to slow down and it will randomly feels like something slip"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 14,
+        "share_pct": 10.4,
+        "excerpts": [
+          "The wiring harness connector for both lights has had water accumulate in the connector which causes the rear tail lights to fail. Both of my tail lights have failed, and the cause was corrosion inside",
+          "Pre-Collision System Malfunction, Hybrid System Malfunction, AWD System Malfunction suddenly when restarting the vehicle.  Towed to Toyota of Downtown LA dealership.  Toyota of Downtown LA Service tel",
+          "When break to slow down the car it accelerate instead."
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 11,
+        "share_pct": 8.2,
+        "excerpts": [
+          "seat retractor failure- white plastic part off and visible , seat is making popping noise when seat is being adjusted. Noticed this when i picked up from dealer after oil change. I feel this is a driv",
+          "The driver side control panel trim keeps snapping off. I’ve researched it and it’s happened to others. It’s been repaired 3 times!",
+          "Back seats do not lock down when folded. This almost caused my pet to get hurt when going over a speed bump sent them flying up. Seats should lock down when folded to prevent injury to pets. Also almo"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 8,
+        "share_pct": 6,
+        "excerpts": [
+          "While driving at about 40mph on a city street I complete lost steering, brakes and vehicle control. I suddenly started severely swerving/ spinning. I suddenly had no control over the vehicle. The vehi",
+          "Pre-Collision System Malfunction, Hybrid System Malfunction, AWD System Malfunction suddenly when restarting the vehicle.  Towed to Toyota of Downtown LA dealership.  Toyota of Downtown LA Service tel",
+          "What component or system failed or malfunctioned, and is it available for inspection upon request? Toyota Integrated Dashcam, and yes its available to review.  How was your safety or the safety of oth"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 8,
+        "share_pct": 6,
+        "excerpts": [
+          "05/13/23 - Hybrid malfunction, battery consistently dies/won't take a charge. 06/01 - 28/25 - Hybrid malfunction, Advanced Detection System Malfunction and Sonar Malfunction, ABS malfunction, Seatbelt",
+          "Right after parking my 2022 Toyota Sienna XLE, I heard a VERY LOUD boom from overhead. It sounded like an explosion. Upon getting out of the car to see if something hit the car, I noticed the glass of",
+          "Car is 2 weeks old and large crack appears in windshield for no apparent reason.  No chips in glass.  No rocks hit windshield."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 0,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 37
+      },
+      {
+        "year": 2023,
+        "count": 23
+      },
+      {
+        "year": 2024,
+        "count": 34
+      },
+      {
+        "year": 2025,
+        "count": 21
+      },
+      {
+        "year": 2026,
+        "count": 14
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "21V889000",
+        "component": "SEAT BELTS:REAR/OTHER:ANCHORAGE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022 Sienna vehicles equipped with seating for eight passengers.  An incorrect seat belt webbing guide may have been installed on the outboard second-row seat belt assemblies.",
+        "report_date": "17/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V239000",
+        "component": "ELECTRONIC STABILITY CONTROL (ESC):CONTROL MODULE:SOFTWARE",
+        "summary": "Toyota Engineering & Manufacturing (Toyota) is recalling certain 2022 Lexus LX 600, Lexus NX 350h, Lexus NX 450h+, Toytoa RAV4 Hybrid, 2021-2022 Lexus LS 500h, Toyota Mirai, RAV4 PRIME, Sienna, Venza, and 2020-2022 Toyota Highlander Hybrid vehicles.  The Skid Control ECU software may not turn on the",
+        "report_date": "13/04/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V086000",
+        "component": "SEATS:MID/REAR ASSEMBLY:RECLINER",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2021-2025 Sienna Hybrid vehicles.  The bolts for the seatbacks on the third-row seat assemblies may not be tightened properly.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard",
+        "report_date": "13/02/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V889000",
+        "component": "SEAT BELTS:REAR/OTHER:ANCHORAGE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022 Sienna vehicles equipped with seating for eight passengers.  An incorrect seat belt webbing guide may have been installed on the outboard second-row seat belt assemblies.",
+        "report_date": "17/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V239000",
+        "component": "ELECTRONIC STABILITY CONTROL (ESC):CONTROL MODULE:SOFTWARE",
+        "summary": "Toyota Engineering & Manufacturing (Toyota) is recalling certain 2022 Lexus LX 600, Lexus NX 350h, Lexus NX 450h+, Toytoa RAV4 Hybrid, 2021-2022 Lexus LS 500h, Toyota Mirai, RAV4 PRIME, Sienna, Venza, and 2020-2022 Toyota Highlander Hybrid vehicles.  The Skid Control ECU software may not turn on the",
+        "report_date": "13/04/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V877000",
+        "component": "EQUIPMENT ADAPTIVE/MOBILITY:WHEELCHAIR RESTRAINTS/SECUREMENT:LATCH/ANCHOR:",
+        "summary": "Vantage Mobility, LLC (VM) is recalling certain 2021-2026 Honda Odyssey, 2021-2025 Chrysler Pacifica, and Toyota Sienna vehicles equipped with QRT-Deluxe and QRT-Max wheelchair restraints. The retractors may not lock, preventing the wheelchair from being properly secured.",
+        "report_date": "17/12/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:43.671Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

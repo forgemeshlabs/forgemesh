@@ -1,0 +1,120 @@
+{
+  "slug": "2022-nissan-sentra",
+  "year": 2022,
+  "make": "Nissan",
+  "model": "Sentra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 81,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 31,
+        "share_pct": 38.3,
+        "excerpts": [
+          "In May of 2026, I began experiencing vibration and steering wheel instability while going over bumps and while braking, as well as while changing lanes. This vibration and instability got progressivel",
+          "The contact owns a 2022 Nissan Sentra. The contact stated that while driving on several occasions at various speeds, the steering was difficult to maintain as the vehicle drifted and the steering whee",
+          "I took my Sentra to Performance Nissan located at 1345 S Federal Hwy, Pompano Beach, FL 33062 and was refused service. They refused to fix the safety recall on my vehicle because of a rebuilt title.  "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 24,
+        "share_pct": 29.6,
+        "excerpts": [
+          "The contact owns a 2022 Nissan Sentra. The contact stated while driving at an undisclosed speed, the forward collision assistance sensor independently deactivated and the warning light illuminated. Th",
+          "While driving in rush hour traffic, I heard an intermittent vibration/noise that seemed to come and go and became louder when I stopped. As I put my car in park when I got home,  I heard a loud clunk ",
+          "1) within three months of vehicle purchase (and in perpetuity to-date ever since), the infotainment system intermittently causes static/crackling when connected to CarPlay. 2) within six months of ini"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 13,
+        "share_pct": 16,
+        "excerpts": [
+          "The contact owns a 2022 Nissan Sentra. The contact stated while driving at an undisclosed speed, the forward collision assistance sensor independently deactivated and the warning light illuminated. Th",
+          "The CVT system is failing since 1 month ago and when I step on the accelerator i heard i weird noise",
+          "There are issues with the sensors. Specifically, the collision sensors. I have owned a 2022 Nissan Sentra for a few months now and multiple times have had the traction control malfunction warning, fro"
+        ]
+      },
+      {
+        "component": "WHEELS",
+        "complaints": 8,
+        "share_pct": 9.9,
+        "excerpts": [
+          "EGR VALVE HAD GONE OUT - WOULD NOT ALLOW CAR TO START / WHEEL BEARINGS HAD GONE OUT BEFORE RECOMMENDED TIME TO REPLACE / WHEN REPLACING WHEEL BEARINGS CVT SHAFTS WERE STRIPPED FROM MANUFACTURER - SO W",
+          "I brought my car in to the local dealer in Olympia WA for a routine oil change and inquired about a wobble when driving on the freeway. I was told that my 5 year tires (purchased less than 1 year ago$",
+          "On August 21, 2024, my daughter was driving the car and was in the drive thru to get breakfast. As she turn the corner and was in the line to pick up her meal, the car wouldn’t move. She tapped on the"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 7,
+        "share_pct": 8.6,
+        "excerpts": [
+          "While driving in rush hour traffic, I heard an intermittent vibration/noise that seemed to come and go and became louder when I stopped. As I put my car in park when I got home,  I heard a loud clunk ",
+          "My car would cut off on me and all the lights would turn on and the engine light. It would shake then slow down and cut off. It happened to me while driving on the freeway. I was able to cut it back o",
+          "The CVT system is failing since 1 month ago and when I step on the accelerator i heard i weird noise"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 0,
+      "injuries": 8,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 26
+      },
+      {
+        "year": 2023,
+        "count": 19
+      },
+      {
+        "year": 2024,
+        "count": 17
+      },
+      {
+        "year": 2025,
+        "count": 11
+      },
+      {
+        "year": 2026,
+        "count": 7
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "23V421000",
+        "component": "STRUCTURE:BODY",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2022 Sentra vehicles.  The driver's side cowl area may have a missing or improper seal, which can allow water to leak inside the vehicle and corrode electrical components.",
+        "report_date": "12/06/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V581000",
+        "component": "STEERING:LINKAGES:TIE ROD ASSEMBLY",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2020-2022 Sentra vehicles.  The left and/or right tie rod may bend.",
+        "report_date": "15/08/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:10.799Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

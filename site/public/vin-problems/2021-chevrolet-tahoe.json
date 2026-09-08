@@ -1,0 +1,240 @@
+{
+  "slug": "2021-chevrolet-tahoe",
+  "year": 2021,
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 443,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 162,
+        "share_pct": 36.6,
+        "excerpts": [
+          "Engine failure  Transmission failure",
+          "The contact owns a 2021 Chevrolet Tahoe. The contact stated that while driving approximately 70 MPH, the message \"Service ESC\" was displayed, and the check engine, traction control, and Forward Collis",
+          "The lifters are tapping on my vehicle and the engine also has a shutter to it. I am also not getting 5000 miles per oil change by 5000 miles my vehicle is showing add engine oil and is taking 2qts to "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 93,
+        "share_pct": 21,
+        "excerpts": [
+          "Fuel Pump Power Control Module failed. GM Part Number: 13554821 My vehicle immediately became immobilized in a lane of traffic. The engine would crank but not start. It appeared that no fuel was pumpe",
+          "I was driving on the highway and my car lost power and then had to shut down. I am now getting error code P129F. which is a known recall for the fuel pump control module. When I put in my VIN, it does",
+          "The engine in my 2021 Chevrolet Tahoe High Country equipped with the 6.2L V8 (L87) experienced a catastrophic failure. While driving, the vehicle suddenly lost power, displayed a “Service ESC” warning"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 86,
+        "share_pct": 19.4,
+        "excerpts": [
+          "My vehicle had a pop and loss of power on the highway. After pulling over, I did not have a check engine light but did connect my code reader and found a P308. I felt unsafe to drive so I had it towed",
+          "Our Tahoe keeps burning through oil. about 2/3 of the way through an oil changes i have to add 2 more quarts to get to the next oil change.  Our tahoe was not part of the initial recall i am not sure ",
+          "The automatic transmission on my 2021 Chevrolet Tahoe (gasoline engine, 10-speed 10L80 transmission) has been exhibiting intermittent slipping/skipping during gear changes, particularly during acceler"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 56,
+        "share_pct": 12.6,
+        "excerpts": [
+          "While at a drive thru, my 2021 Chevy Tahoe High Country experienced a total failure with no advance warning where the engine shut down and would not restart despite what appeared to be good electrical",
+          "The backup camera quit working",
+          "During highway driving, alert on dashboard stated “electrical system failing enter idle mode”. Tahoe slowed down and then engine began knocking right as it shut off resulting in needing to coast to th"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 26,
+        "share_pct": 5.9,
+        "excerpts": [
+          "The contact owns a 2021 Chevrolet Tahoe. The contact stated that the air bag and SRS warning lights were intermittently illuminated. The vehicle was taken to a dealer and the battery was replaced; how",
+          "-On the date of Monday XXX at approximately 4:30 pm est I was traveling on [XXX] and transmission felt like a possible slip happened in transmission. At approximatively 4:45pm est I made it home tried",
+          "The Supplemental Restraint System (SRS) light illuminated on the dashboard. The vehicle was taken to an authorized Chevrolet dealership (Goodwin Chevrolet in Oxford, ME) for diagnostic testing on July"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 3,
+      "injuries": 9,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 13
+      },
+      {
+        "year": 2021,
+        "count": 42
+      },
+      {
+        "year": 2022,
+        "count": 33
+      },
+      {
+        "year": 2023,
+        "count": 52
+      },
+      {
+        "year": 2024,
+        "count": 64
+      },
+      {
+        "year": 2025,
+        "count": 154
+      },
+      {
+        "year": 2026,
+        "count": 84
+      }
+    ]
+  },
+  "recalls": {
+    "count": 16,
+    "recalls": [
+      {
+        "campaign_number": "21V455000",
+        "component": "STEERING:STEERING CONTROL MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021 Cadillac Escalade, Escalade ESV, Chevrolet Suburban, Chevrolet Tahoe, GMC Yukon, and Yukon XL vehicles.  A software issue may cause a loss of power steering assist at startup or while driving.",
+        "report_date": "17/06/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V579000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021 Chevrolet Tahoe and GMC Yukon vehicles.  Dealer service technicians may have calibrated the brake system incorrectly, affecting Electronic Stability Control (ESC) , traction control, Anti-Lock Brake System (ABS), and braking while towing a trailer.",
+        "report_date": "29/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V036000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021 GMC Yukon, Yukon XL, Cadillac Escalade, Escalade ESV, Chevrolet Suburban, and Chevrolet Tahoe vehicles.  The rear wheel driveshaft assemblies may have internal components that were not heat-treated properly, possibly resulting in driveshaft failure.",
+        "report_date": "27/01/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V792000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2019-2021 Chevrolet Silverado 1500 and GMC Sierra 1500, 2021 Chevrolet Suburban and Tahoe and GMC Yukon XL and 2020-2021 Chevrolet Silverado 2500 and 3500 and GMC Sierra 2500 and 3500 vehicles.   The seat belt brackets may not be secured to the seat fram",
+        "report_date": "17/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V811000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020 Chevrolet Bolt EV and 2021 GMC Canyon and Sierra 1500, 2500 and 3500, Yukon, Yukon XL, Cadillac Escalade and Escalade ESV and Chevrolet Blazer, Camaro, Colorado, Equinox, Silverado 1500, 2500 and 3500, Suburban and Tahoe vehicles.  Incorrect bolts m",
+        "report_date": "23/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V064000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021 Chevrolet Tahoe and GMC Yukon vehicles.  The fuel tank assemblies may be missing adhesive between two layers of the fuel tank shell which may result in a fuel leak.",
+        "report_date": "11/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V735000",
+        "component": "SEATS",
+        "summary": "General Motors LLC (GM) is recalling certain 2021 Chevrolet Suburban and Tahoe and GMC Yukon and Yukon XL vehicles.  During general assembly, a repair involved removal of one or both front seats.  The attachment bolts for the front seats may not have been properly reinstalled after the repair was co",
+        "report_date": "25/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V739000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP:CONTROL/DRIVE MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021 Cadillac Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, GMC Yukon, and Yukon XL vehicles.  The fuel pump power control module may cause the fuel pump to fail or operate intermittently, which can interrupt fuel flow to the engine, and cause an un",
+        "report_date": "23/09/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V210000",
+        "component": "SEAT BELTS:REAR/OTHER",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021 Chevrolet Tahoe vehicles.  The second-row center seat belt latch may be trapped beneath the trim bezel and therefore inaccessible.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 208. \"Oc",
+        "report_date": "25/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V421000",
+        "component": "AIR BAGS:SRS MALFUNCTION WARNING LAMP/LIGHT",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021 Buick Envision, Cadillac CT4, CT5, Escalade, Escalade ESV, Chevrolet Tahoe, Corvette, Suburban, GMC Yukon, Yukon XL vehicles.  The communications gateway module incorrectly processes a loss of communication with the sensing diagnostic module (SDM), ",
+        "report_date": "10/06/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V190000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021 Cadillac Escalade, Escalade ESV, GMC Yukon, Yukon XL, Chevrolet Suburban, and Tahoe vehicles with third-row seating.  The third-row outboard seat belts may have been entrapped or misrouted behind the outboard seat-folding mechanism, which could resu",
+        "report_date": "18/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V617000",
+        "component": "SEAT BELTS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (M) is recalling certain 2021-2022 Cadillac Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, GMC Yukon, and Yukon XL vehicles equipped with third-row seats.  The rivet that retains the buckle to the mounting bracket in the left or right side third-row seat belt buckle assembly ",
+        "report_date": "11/08/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V827000",
+        "component": "EXTERIOR LIGHTING:LIGHTING CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021 Yukon, Yukon XL, Chevrolet Tahoe, Chevrolet Suburban, Cadillac Escalade, and Cadillac Escalade ESV vehicles.  The daytime running lights (DRLs) may not deactivate when the headlights are on.  As such, these vehicles fail to comply with the requireme",
+        "report_date": "03/11/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V797000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2022 Chevrolet Silverado 1500, 2500, 3500, GMC Sierra 1500, 2500, 3500, 2021 Cadillac Escalade, Escalade ESV, Chevrolet Tahoe, Suburban, GMC Yukon, and Yukon XL vehicles equipped with diesel engines.  The transmission control valve may fail and caus",
+        "report_date": "24/10/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V274000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "General Motors LLC (GM) is recalling certain 2021-2024 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles equipped with a 6.2L V8 gas engine.  The connecting rod and/or crankshaft engine components may have manufacturing d",
+        "report_date": "24/04/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V619000",
+        "component": "FUEL SYSTEM, DIESEL:STORAGE:TANK ASSEMBLY",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021 Cadillac Escalade, 2021, 2023-2024 Chevrolet Tahoe, and 2022 and 2024 GMC Yukon vehicles equipped with a 6-cylinder diesel engine. The original fuel tank may have been replaced with an incorrect fuel tank, which can allow fuel to leak in a rollover ",
+        "report_date": "18/09/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:07:19.871Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

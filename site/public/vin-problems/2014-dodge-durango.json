@@ -1,0 +1,224 @@
+{
+  "slug": "2014-dodge-durango",
+  "year": 2014,
+  "make": "Dodge",
+  "model": "Durango",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 782,
+    "top_failure_components": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 259,
+        "share_pct": 33.1,
+        "excerpts": [
+          "Water leaks into and pools in the tail lights causing the tail light to go out. Other drivers can't see the back of the car at night thus increasing risk of rear end collision. The problem was confirm",
+          "The rear racetrack light on the lift gate, right side leaks when it rains, car wash, snow and has shorted out part of the light strip.",
+          "The contact owns a 2014 Dodge Durango. The contact stated that while driving at an undisclosed speed, the contact was pulled over by a Police Officer, and was informed that both taillights were inoper"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 163,
+        "share_pct": 20.8,
+        "excerpts": [
+          "The contact owns a 2014 Dodge Durango. The contact stated that while driving approximately 40 MPH, the front passenger’s side head restraint unexpectedly deployed and struck the front seat passenger i",
+          "On February 6, 2026, while driving my 2014 Dodge Durango at normal speed, the driver’s seat headrest suddenly and unexpectedly deployed/exploded, striking the back of my head. The force of the impact ",
+          "1. Active Head Rest Inadvertent Deployment Driver's side 2. seat warmers and steering wheel warmer won't turn off unless vehicle is turned off and on again."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 149,
+        "share_pct": 19.1,
+        "excerpts": [
+          "Airbag service light has come on and upon reading appears to be a major issue among any 2014 dodge durango with the vin starting with 1C4RD…. But not on a recall. Appears to be a bad OCR.   Unsure why",
+          "Odometer Fraud. The contact  purchased a 2014 Dodge Durango. It was discovered that there was a mileage discrepancy. The vehicle was a dealer sale. It was discovered that there was a mileage discrepan",
+          "I was coming out of a drive thru car wash and driving towards an intersection with Rail road tracks on the road getting ready to turn left going 15 to 20 mph. As I turned my vehicle began skidding cau"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 74,
+        "share_pct": 9.5,
+        "excerpts": [
+          "Dodge Durango Rt has developed the Evap system failure. After stopping to refuel the gas tank the engine will not restart till after several attempts and even after restarting it idles erratic and spu",
+          "Car has stalled several times recently on the interstate at least 5 times. Randomly just shuts down. Once stopped the dash says shift in to park to start. Then it will start.",
+          "A new 3.6 Pentastar engine was installed in my 2014 Dodge Durango in July 2019, this repair was over $5,000 and FCA only granted a $1300 goodwill towards the cost. After maintaining the vehicle with a"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 72,
+        "share_pct": 9.2,
+        "excerpts": [
+          "Airbag service light has come on and upon reading appears to be a major issue among any 2014 dodge durango with the vin starting with 1C4RD…. But not on a recall. Appears to be a bad OCR.   Unsure why",
+          "On February 6, 2026, while driving my 2014 Dodge Durango at normal speed, the driver’s seat headrest suddenly and unexpectedly deployed/exploded, striking the back of my head. The force of the impact ",
+          "While stopped at a stop sign, the passenger headrest airbag deployed."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 23,
+      "fires": 9,
+      "injuries": 60,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 3
+      },
+      {
+        "year": 2014,
+        "count": 37
+      },
+      {
+        "year": 2015,
+        "count": 34
+      },
+      {
+        "year": 2016,
+        "count": 33
+      },
+      {
+        "year": 2017,
+        "count": 72
+      },
+      {
+        "year": 2018,
+        "count": 155
+      },
+      {
+        "year": 2019,
+        "count": 143
+      },
+      {
+        "year": 2020,
+        "count": 103
+      },
+      {
+        "year": 2021,
+        "count": 78
+      },
+      {
+        "year": 2022,
+        "count": 41
+      },
+      {
+        "year": 2023,
+        "count": 27
+      },
+      {
+        "year": 2024,
+        "count": 26
+      },
+      {
+        "year": 2025,
+        "count": 20
+      },
+      {
+        "year": 2026,
+        "count": 10
+      }
+    ]
+  },
+  "recalls": {
+    "count": 11,
+    "recalls": [
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V435000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2014 Dodge Challenger, Dodge Charger, Chrysler 300, Dodge Durango, and 2012-2014 Jeep Grand Cherokee vehicles.  The affected vehicles have electro-hydraulic power steering (EHPS) and are equipped with a 5.7L or a 3.6L engine and a 160, 180 o",
+        "report_date": "10/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V572000",
+        "component": "SERVICE BRAKES",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2014 Dodge Durango and Jeep Grand Cherokee vehicles.  The affected vehicles had brake booster shields installed under a previous campaign to prevent water from entering the brake booster and limiting braking ability.  This recall is to verify that the ",
+        "report_date": "18/09/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V741000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014 Dodge Challenger, Charger, Durango, Chrysler 300, and Jeep Grand Cherokee vehicles equipped with a 3.6L engine and a 160 amp alternator.  In the affected vehicles, the alternator may suddenly fail.",
+        "report_date": "21/11/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V154000",
+        "component": "SERVICE BRAKES",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Jeep Grand Cherokee and Dodge Durango vehicles manufactured from January 5, 2010, through September 8, 2013.  The subject vehicles have a brake booster with a center shell that may corrode and allow water to get inside.",
+        "report_date": "01/04/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V293000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2014 Dodge Durango vehicles manufactured January 16, 2014 to April 8, 2014, Jeep Grand Cherokee vehicles manufactured January 16, 2014 to April 8, 2014, Jeep Grand Cherokee SRT vehicles manufactured February 3, 2014 to April 8, 2014, and ",
+        "report_date": "04/06/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V391000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Dodge Durango and Jeep Grand Cherokee vehicles manufactured January 5, 2010, through December 11, 2013.  In the affected vehicles, the wiring for the vanity lamp in the sun visor may short circuit, after a service repair is perf",
+        "report_date": "02/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V643000",
+        "component": "SEAT BELTS",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2014 Dodge Durango vehicles manufactured June 2, 2013, to June 28, 2014, and 2014 Jeep Grand Cherokee vehicles manufactured October 30, 2012, to April 30, 2014.  Due to a fault within the Occupant Restraint Control (OCR) module, the front",
+        "report_date": "14/10/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V461000",
+        "component": "EQUIPMENT:ELECTRICAL:RADIO/TAPE DECK/CD ETC.",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2013-2015 Ram 1500, 2500, 3500, 4500, and 5500, 2015 Chrysler 200, Chrysler 300, Dodge Charger, and Dodge Challenger, 2014-2015 Jeep Grand Cherokee, Cherokee, and Dodge Durango, and 2013-2015 Dodge Viper vehicles.  The affected vehicles are equip",
+        "report_date": "23/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V636000",
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2014 Dodge Durango, and Jeep Grand Cherokee vehicles manufactured October 3, 2013, to April 11, 2014.  Due to an issue with the software for the Steering Column Control Module (SCCM), the Electronic Stability Control (ESC) may be disabled",
+        "report_date": "08/10/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V634000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Chrysler 300, Dodge Charger, Challenger, and Durango; and 2012-2014 Jeep Grand Cherokee vehicles manufactured April 22, 2010, to January 2, 2014, and equipped with a 3.6L engine and a 160 amp alternator.  In the affected vehicle",
+        "report_date": "08/10/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:58:38.036Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

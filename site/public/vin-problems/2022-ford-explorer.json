@@ -1,0 +1,292 @@
+{
+  "slug": "2022-ford-explorer",
+  "year": 2022,
+  "make": "Ford",
+  "model": "Explorer",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 258,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 60,
+        "share_pct": 23.3,
+        "excerpts": [
+          "RECALL COMPLIANCE & SAFETY DEFECT DESCRIPTION: The vehicle was transported via roadside assistance to a licensed manufacturer dealership due to severe engine overheating under an active manufacturer s",
+          "Powertrain System Fault will cause the vehicle to lose power possibly leaving the vehicle and passengers in danger if crossing traffic, pulling onto a road, etc.",
+          "EVERY TIME THE VEHICLE BEGINS MOVING FROM STATIONARY POSITION(BOTH IN FORWARD AND REVERSE GEARS) A LOUD CLUNKING SOUND IS HEAR ORIGINATING FROM THE REAR AXLE/REAR DIFFERENTIAL MOUNTING BOLT. I HAVE SE"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 38,
+        "share_pct": 14.7,
+        "excerpts": [
+          "Rear wiper was working intermittently now it does not work at all. I notice campaign 26S14 (NHTSA Campaign 26V117) but my vin is not included. Even though I have the same problem",
+          "RECALL COMPLIANCE & SAFETY DEFECT DESCRIPTION: The vehicle was transported via roadside assistance to a licensed manufacturer dealership due to severe engine overheating under an active manufacturer s",
+          "While driving, parking, or doing any function of the vehicle, the screen will intermittently switch from the cameras being used to the on board navigation and start routing the vehicle to random locat"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 27,
+        "share_pct": 10.5,
+        "excerpts": [
+          "RECALL COMPLIANCE & SAFETY DEFECT DESCRIPTION: The vehicle was transported via roadside assistance to a licensed manufacturer dealership due to severe engine overheating under an active manufacturer s",
+          "Exhaust manifold turbo charged cracked while driving. Exposing everyone in the vehicle to raw exhaust inside the vehicle every time it is driven. The replacement part is back ordered until September 1",
+          "The contact owns a 2022 Ford Explorer. The contact stated that while driving at an undisclosed speed, there was an abnormal sound coming from the vehicle before the engine seized. The check engine war"
+        ]
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "complaints": 23,
+        "share_pct": 8.9,
+        "excerpts": [
+          "The contact owns a 2022 Ford Explorer. The contact stated that while the vehicle was in reverse, the rearview camera displayed a blank blue screen. The contact received notification of NTHSA Campaign ",
+          "While driving, parking, or doing any function of the vehicle, the screen will intermittently switch from the cameras being used to the on board navigation and start routing the vehicle to random locat",
+          "We purchased our 2022 Ford Explorer brand new on April 12, 2022. The backup camera was nonfunctional that same evening. We brought the car to Porter Ford, where the issue was confirmed via diagnostic "
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 19,
+        "share_pct": 7.4,
+        "excerpts": [
+          "The rearview backup camera on my vehicle has malfunctioned and does not reliably display an image when the vehicle is placed in reverse. The manufacturer sent an official Customer Satisfaction Program",
+          "Rear wiper was working intermittently now it does not work at all. I notice campaign 26S14 (NHTSA Campaign 26V117) but my vin is not included. Even though I have the same problem",
+          "Known defect among Explorer owners. The shade for the sunroof runs along tracks. That track is Known to fail causing the sunshade to fall down and blocks visibility out the rear windshield and inabili"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 17,
+      "fires": 1,
+      "injuries": 23,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2022,
+        "count": 42
+      },
+      {
+        "year": 2023,
+        "count": 65
+      },
+      {
+        "year": 2024,
+        "count": 36
+      },
+      {
+        "year": 2025,
+        "count": 70
+      },
+      {
+        "year": 2026,
+        "count": 45
+      }
+    ]
+  },
+  "recalls": {
+    "count": 24,
+    "recalls": [
+      {
+        "campaign_number": "22V088000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY:FILLER PIPE AND CAP",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2022 Explorer and Lincoln Aviator vehicles.  The fuel filler tube may detach during a crash.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 301, \"Fuel System Integrity.\"",
+        "report_date": "16/02/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V454000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2022 Lincoln Aviator and Ford Explorer vehicles.  The engine rails may have been improperly heat-treated.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard numbers 208, \"Occupant Crash Protection\" and",
+        "report_date": "24/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V685000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2022 Explorer and Ranger vehicles equipped with 2.3L engines.  The fuel line may be loose due to improper tightening of the fuel line connection.",
+        "report_date": "14/09/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V022000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2023 Explorer, Lincoln Aviator, and 2020-2022 Lincoln Corsair vehicles equipped with a 360-degree camera.  The video output may fail, preventing the rearview camera image from displaying.",
+        "report_date": "23/01/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V070000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2022-2023 F-150, Mustang, Explorer, Bronco, and 2023 Lincoln Aviator vehicles equipped with automatic transmissions.  The transmission may contain a loose bolt which could prevent the transmission from engaging the park gear, although the gear shifter p",
+        "report_date": "10/02/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V069000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2022 Explorer vehicles equipped with a 2.3L engine and 10R60 automatic transmission.  An unintentional powertrain control module (PCM) reset may occur while the vehicle is in motion and result in park system damage.",
+        "report_date": "10/02/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V199000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2022 Explorer vehicles equipped with a 2.3L RWD, 3.3L GAS, 3.3L FHEV, or 3.0L ST powertrain.  The previous powertrain control module (PCM) update completed under recall 22V-255 did not include the automatic electronic parking brake feature when the",
+        "report_date": "24/03/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V305000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2022 Explorer Police Interceptor Utility vehicles equipped with a 12.1-inch Integrated Computer Screen (ICS).  When the Display On/Off Button is used to turn the display to \"Off\" prior to placing the vehicle in reverse, the backup camera rearview i",
+        "report_date": "28/04/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V342000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2023 Explorer, Lincoln Aviator, and 2020-2022 Lincoln Corsair vehicles equipped with a 360-degree camera.  The video output may fail, preventing the rearview camera image from displaying.",
+        "report_date": "12/05/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V626000",
+        "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2022 Lincoln Aviator and Ford Explorer vehicles equipped with 3.0L PHEV engines.  A manufacturing defect in one or more of the high voltage battery cells may result in an internal short circuit and battery failure.",
+        "report_date": "08/09/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V675000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2022 Explorer vehicles.  The rear axle horizontal mounting bolt may fracture and cause the driveshaft to disconnect.",
+        "report_date": "06/10/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V598000",
+        "component": "ENGINE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2022 Explorer vehicles equipped with the Police Interceptor Utility Package.  In the event of an engine failure, engine oil and fuel vapor may be released into the engine compartment and accumulate near ignition sources such as hot engine or exhaus",
+        "report_date": "10/08/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V635000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2022 Bronco, F-150, Edge, Explorer, Lincoln Nautilus, and Lincoln Aviator vehicles equipped with either a 2.7L or 3.0L Nano EcoBoost engine.  The engine intake valves may break while driving, which can result in engine failure and a loss of drive p",
+        "report_date": "23/08/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V852000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2025 Explorer, Lincoln Aviator, 2020-2024 Escape, Lincoln Corsair, 2018-2024 F-150, Expedition and Lincoln Navigator vehicles.  The air bag warning label may be missing from the dashboard.  As such, these vehicles fail to comply with the requiremen",
+        "report_date": "08/11/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V159000",
+        "component": "BACK OVER PREVENTION:SOFTWARE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2023 Explorer, Lincoln Aviator, and 2020-2022 Lincoln Corsair vehicles previously repaired incorrectly under recall number 23V-342.  The video output may fail, preventing the rearview camera image from displaying.",
+        "report_date": "14/03/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V166000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2022 Explorer vehicles previously repaired incorrectly under recall numbers 23V-199 or 22V-255.  The rear axle horizontal mounting bolt may fracture and cause the driveshaft to disconnect.",
+        "report_date": "14/03/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V393000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2025 Aviator, and Explorer vehicles. The switch for the easy-entry second-row outer seats may bind or stick, resulting in the seats unlatching, folding, or sliding unexpectedly while driving.",
+        "report_date": "13/06/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V442000",
+        "component": "BACK OVER PREVENTION:SOFTWARE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2022 Transit Connect, 2019-2020 MKZ, MKX,  Edge, Continental, F-150, Nautilus, Fusion, 2019-2023 Ranger, Mustang, 2020-2021 EcoSport, Expedition, Navigator, 2020-2022 Escape, F-250 SD, Corsair, 2020-2023 Aviator, Transit, 2020-2024 Explorer, 2021-2",
+        "report_date": "27/06/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V455000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2023 Bronco, Explorer, Lincoln Aviator, F-250 SD, F-350 SD, F-450 SD,  F-550 SD, 2021-2022 Lincoln Navigator, Mustang, F-150, and 2022 Expedition vehicles. The low-pressure fuel pump may fail, which can result in an engine stall while driving.",
+        "report_date": "07/07/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V685000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Lincoln MKC, 2016-2023 Explorer, 2019-2020 Fusion, 2019-2024 Ranger, 2020-2022 Lincoln Corsair, Escape, 2021-2024 Bronco, Bronco Sport, and 2022-2024 Maverick vehicles. The engine block heater may crack and develop a coolant leak, causing it t",
+        "report_date": "10/10/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V117000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2022 Explorer, Escape, Lincoln Aviator, and Lincoln Corsair vehicles. The windshield wiper motor may fail and prevent the windshield wipers from operating properly.",
+        "report_date": "03/03/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V123000",
+        "component": "BACK OVER PREVENTION:SOFTWARE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2022 Escape, Lincoln Corsair, 2020-2024 Lincoln Aviator, and Explorer vehicles. The image on the center display may flip or invert, resulting in an incorrectly displayed rearview image when the vehicle is placed in reverse. As such, these vehicles ",
+        "report_date": "03/03/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V159000",
+        "component": "SEAT BELTS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2026 Explorer and Lincoln Aviator vehicles. The seat belt anchor bolts at the second-row outer seating positions may be improperly secured.",
+        "report_date": "17/03/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V451000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2027 Aviator and 2020-2026 Explorer vehicles. The switch for the easy-entry second-row outer seats may bind or stick, resulting in the seats unlatching, tipping, or sliding unexpectedly.",
+        "report_date": "14/07/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:12.626Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "2022-gmc-terrain",
+  "year": 2022,
+  "make": "GMC",
+  "model": "Terrain",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 85,
+    "top_failure_components": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 31,
+        "share_pct": 36.5,
+        "excerpts": [
+          "The car stalled while traveling down a road.  We tried to restart and it would run for a few seconds and stall. We could not restart.  There were no warning lights before the stall and after the engin",
+          "My car stalled and did not want to start. It had to be towed to the nearest GMC dealership. my GMC dealer diagnosed a P129F fuel-pump control-module failure and replaced fuel-pump power control module",
+          "Read • 9:59 PM I am formally requesting a VIN eligibility review under GM Customer Assistance Case #XXX. Vehicle: 2022 GMC Terrain VIN: [XXX] DTC: P129F Recall: N252516900 – Fuel Pump Power Control Mo"
+        ]
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "complaints": 15,
+        "share_pct": 17.6,
+        "excerpts": [
+          "The contact owns a 2022 GMC Terrain. The contact stated that while driving 40 MPH, the vehicle lost automotive power. No warning light was illuminated. The vehicle was pulled over to the side of the r",
+          "The contact owns a 2022 GMC Terrain. The contact stated that while his wife was driving 35 MPH, the contact received an email and text from OnStar with DTC: P129F, and the message to not drive the veh",
+          "The contact's husband owns a 2022 GMC Terrain. The contact stated that while driving at 20 MPH, the vehicle shut off with the message \"Press Brake Pedal to Start\" displayed on the instrument panel. Th"
+        ]
+      },
+      {
+        "component": "GASOLINE",
+        "complaints": 14,
+        "share_pct": 16.5,
+        "excerpts": [
+          "The contact owns a 2022 GMC Terrain. The contact stated that while driving 40 MPH, the vehicle lost automotive power. No warning light was illuminated. The vehicle was pulled over to the side of the r",
+          "The contact owns a 2022 GMC Terrain. The contact stated that while his wife was driving 35 MPH, the contact received an email and text from OnStar with DTC: P129F, and the message to not drive the veh",
+          "The contact's husband owns a 2022 GMC Terrain. The contact stated that while driving at 20 MPH, the vehicle shut off with the message \"Press Brake Pedal to Start\" displayed on the instrument panel. Th"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 13,
+        "share_pct": 15.3,
+        "excerpts": [
+          "The contact owns a 2022 GMC Terrain. The contact stated that while his wife was driving 35 MPH, the contact received an email and text from OnStar with DTC: P129F, and the message to not drive the veh",
+          "When driving vehicle, alert sounded lowered speed detection and my engine light came on. My vehicle then lagged power and it smelled like something was burning. Called dealer i bought vehicle from and",
+          "The car went into limp mode while I was on the highway. The car said reducing engine power and then I couldn't go the speed limit I had to drive well under the speed limit and pull off the road as soo"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 11,
+        "share_pct": 12.9,
+        "excerpts": [
+          "The car suffered a long crank, then stalled completely while moving on a public road, which is a severe safety hazard.",
+          "The contact owns a 2022 GMC Terrain. The contact stated that while driving 45 MPH, the vehicle began to shake independently. No warning light illuminated. The vehicle was taken to the dealer where it ",
+          "SUVs check engine light turned on and went into reduced power mode, it has been very cold for approximately a month. Code P0299."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 0,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2022,
+        "count": 7
+      },
+      {
+        "year": 2023,
+        "count": 16
+      },
+      {
+        "year": 2024,
+        "count": 13
+      },
+      {
+        "year": 2025,
+        "count": 27
+      },
+      {
+        "year": 2026,
+        "count": 22
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "22V724000",
+        "component": "SEATS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2022-2023 Chevrolet Equinox and 2022 GMC Terrain vehicles.  The driver's seat may have a stripped or loose bolt at the seat frame height-adjust pivot.",
+        "report_date": "29/09/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V339000",
+        "component": "CHILD SEAT:VEHICLE LATCH ANCHOR",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2023 Chevrolet Equinox and GMC Terrain vehicles.  The four rear-seat lower child seat LATCH anchorage bars may have excessive powder coating, which could prevent a child seat from being installed with the anchorage bars.  As such, these vehicles fai",
+        "report_date": "11/05/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:09:10.881Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

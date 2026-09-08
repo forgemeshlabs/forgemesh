@@ -1,0 +1,176 @@
+{
+  "slug": "2012-gmc-terrain",
+  "year": 2012,
+  "make": "GMC",
+  "model": "Terrain",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 370,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 170,
+        "share_pct": 45.9,
+        "excerpts": [
+          "My car has started stalling and dying when i slow down, take off or when  idling. No power when accelerated, and the smell of exhaust comes into my car. I was making a turn from a red light and my car",
+          "The engine blew. This was already the 2nd engine in the car. Oil consumption.  Metal in the oil. No signs. Needs new engine",
+          "The oil is depleting every month from the vehicle.  Every 2-3 weeks I have to put oil in the vehicle because the oil is being absorbed. Is there a recall on this problem."
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 74,
+        "share_pct": 20,
+        "excerpts": [
+          "I was driving while it was raining. The wipers stopped working. The driverside wiper jumped partially off the windshield. I had my mechanic inspect it. The fuses, relay, and wiper motor are operationa",
+          "Wiper motor went out on me no warning",
+          "Windshield wipers quit working.  I can hear something, but blades don't move.  I see the 2014-15 have a recall."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 37,
+        "share_pct": 10,
+        "excerpts": [
+          "1. The engine suddenly lost power while driving during evening rush hour and the vehicle would no longer accelerate.   2. Because the vehicle could not maintain speed, I was unable to keep up with tra",
+          "GMC Consumer Relations Subject: Structural Undercarriage Safety Defect – 2012 GMC Terrain SLE  Vehicle Information: Year/Make/Model: 2012 GMC Terrain SLE VIN: [XXX]  Mileage at Purchase: 148,305 Date ",
+          "hello i'm writing this letter to inform you about my 2012 Terrian i have had nothing but problems with the motor and now the muffler system i have had all recalls done on this and GM is well aware of "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 33,
+        "share_pct": 8.9,
+        "excerpts": [
+          "1. The engine suddenly lost power while driving during evening rush hour and the vehicle would no longer accelerate.   2. Because the vehicle could not maintain speed, I was unable to keep up with tra",
+          "The display screen of GPS/Radio is blackout combined intermittent control button illuminating light went off( include emergency, A/C control), backup camera stopped working, turning signal lost click ",
+          "When I stop at the light my car shake and rocks, then the car goes into limp mode. Where the stabilitrack comes on and the engine goes into reduced mode. And I can't go over 30mps. When this happened "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 29,
+        "share_pct": 7.8,
+        "excerpts": [
+          "My car has started stalling and dying when i slow down, take off or when  idling. No power when accelerated, and the smell of exhaust comes into my car. I was making a turn from a red light and my car",
+          "I think the manifold on GMC Terrain need to be on a recall because mine already cracked.",
+          "Evap emission control leak detected  As the check engine light comes on, when hooking a computer up to the car for a scan it pulls a code stating there is an evap leak.  The gas cap has been replaced "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 17,
+      "fires": 5,
+      "injuries": 19,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 3
+      },
+      {
+        "year": 2012,
+        "count": 9
+      },
+      {
+        "year": 2013,
+        "count": 11
+      },
+      {
+        "year": 2014,
+        "count": 7
+      },
+      {
+        "year": 2015,
+        "count": 20
+      },
+      {
+        "year": 2016,
+        "count": 34
+      },
+      {
+        "year": 2017,
+        "count": 41
+      },
+      {
+        "year": 2018,
+        "count": 67
+      },
+      {
+        "year": 2019,
+        "count": 68
+      },
+      {
+        "year": 2020,
+        "count": 28
+      },
+      {
+        "year": 2021,
+        "count": 30
+      },
+      {
+        "year": 2022,
+        "count": 18
+      },
+      {
+        "year": 2023,
+        "count": 16
+      },
+      {
+        "year": 2024,
+        "count": 12
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "16V502000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016-2017 Buick Verano and 2016 Chevrolet Malibu as the electronic park lock lever may allow the ignition key to be removed without the transmission being in PARK.  Also, certain 2013 Buick Encore,  2011 Buick Regal, 2013-2014 Buick Verano, 201",
+        "report_date": "05/07/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V447000",
+        "component": "SEATS:FRONT ASSEMBLY:POWER ADJUST",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2011-2012 Buick LaCrosse, Regal and Chevrolet Camaro, as well as certain 2010-2012 Cadillac SRX, Chevrolet Equinox and GMC Terrain vehicles, equipped with power height adjustable driver and passenger seats.  In the affected vehicles, the bolt t",
+        "report_date": "23/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V511000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "GENERAL MOTORS (GM) IS RECALLING CERTAIN MODEL YEAR 2012 CHEVROLET EQUINOX  AND GMC TERRAIN VEHICLES, MANUFACTURED FROM JULY 18, 2011, THROUGH SEPTEMBER 6, 2011, FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NUMBER 138, \"TIRE PRESSURE MONITORING SYSTEM\" (TPMS).",
+        "report_date": "19/10/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V137000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2017 GMC Terrain vehicles.  A reflection caused by the headlight housings may illuminate areas above the vehicle and outside of the driver's view with excessively bright light.  As such, these vehicles fail to comply with the requirements of Federal",
+        "report_date": "08/03/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:56:36.374Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

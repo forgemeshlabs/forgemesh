@@ -1,0 +1,103 @@
+{
+  "slug": "2021-subaru-forester",
+  "year": 2021,
+  "make": "Subaru",
+  "model": "Forester",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 207,
+    "top_failure_components": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 76,
+        "share_pct": 36.7,
+        "excerpts": [
+          "Windshield cracks with the slightest rock hit making the windshield unsafe to continue use. Had two replacements in first six months",
+          "Having repeat issues with the windshield cracking. My vehicle has around 32k miles, and I'm already on my 3rd windshield. I've never had this issue with any other vehicle. It's been extremely costly. ",
+          "The front windshield is covered in chips all over it I've got a few bigger ones repaired. However the whole windshield needs to be replaced I don't even know where they've come from I mean the whole w"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 33,
+        "share_pct": 15.9,
+        "excerpts": [
+          "The contact owns a 2021 Subaru Forester.  The contact stated that while trying to roll up vehicle windows from driver sits and passenger sit they would roll up to 3/4th all the way up and they would r",
+          "My 2021 Subaru Forester has a recurring, worsening defect in the Idle Stop/Start (ISS) system that creates a stalling hazard. When ISS shuts the engine off at a stop, the engine intermittently fails t",
+          "Persistent Battery Drain on a 2021 Subaru Forester Limited. Problems began in year 4 of ownership (~17,000 mileage), after Subaru Starlink Subscription services expired. Red (Error) Starlink SOS indic"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 32,
+        "share_pct": 15.5,
+        "excerpts": [
+          "My 2021 Subaru Forester has a recurring, worsening defect in the Idle Stop/Start (ISS) system that creates a stalling hazard. When ISS shuts the engine off at a stop, the engine intermittently fails t",
+          "While driving this car on April 4, 2026 at around 6PM, I experienced the distinct smell of gasoline.  I had driven for about 5 minutes on our way to a local restaurant that is approximately an 8 minut",
+          "While driving the car, the engine stops completely.  After a few seconds, it can be restarted.  It does this several times a week at random intervals.  It's very dangerous since it usually happens whe"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 17,
+        "share_pct": 8.2,
+        "excerpts": [
+          "My Subaru Forester has a significant safety defect.  If my web searches are representative this software problem affects multiple models and years of Subaru.  I have addressed this problem with the lo",
+          "I am writing to file a formal complaint regarding repeated, severe, and dangerous malfunctions of the vehicle's engine Start/Stop (Idle Stop) feature. The system is failing to operate as intended, res",
+          "After arriving home from a short drive to the grocery store I parked my car in the drive way and went inside.  On the drive home I could hear a low humming coming from the speakers and the car was dec"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 14,
+        "share_pct": 6.8,
+        "excerpts": [
+          "My 2021 Subaru Forester has a recurring, worsening defect in the Idle Stop/Start (ISS) system that creates a stalling hazard. When ISS shuts the engine off at a stop, the engine intermittently fails t",
+          "The contact owned a 2021 Subaru Forester. The contact stated that while driving at approximately 4 MPH and slowing to park, the vehicle accelerated on its own. The contact stated that the vehicle drov",
+          "On 8/12/15, I had stopped at a stoplight. When the light changed and I attempted to move forward with traffic, the Eyesight Disabled warning came on and my car completely stalled and refused to move. "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 16,
+      "fires": 5,
+      "injuries": 8,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 65
+      },
+      {
+        "year": 2022,
+        "count": 46
+      },
+      {
+        "year": 2023,
+        "count": 26
+      },
+      {
+        "year": 2024,
+        "count": 27
+      },
+      {
+        "year": 2025,
+        "count": 31
+      },
+      {
+        "year": 2026,
+        "count": 12
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T20:06:40.005Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "2018-nissan-pathfinder",
+  "year": 2018,
+  "make": "Nissan",
+  "model": "Pathfinder",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 77,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 20,
+        "share_pct": 26,
+        "excerpts": [
+          "While driving the car it randomly turns off and turns back on it also jerks initially. All lights on the dashboard turn off and back on, speakers make a loud BOOM sound! Have experienced the car not s",
+          "Front collision shuts off intermittently for no reason.  Causes cruise control to shut off immediately and disabled collision avoidance breaking.  If cruise is on and approaching slower vehicle car wi",
+          "The stop lamp switch has become contaminated with silicon off-gassing from silicon-based grease used in surrounding components in close proximity. This is causing the car to not start, not able to swi"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 13,
+        "share_pct": 16.9,
+        "excerpts": [
+          "The vehicle veers towards the right, even though a wheel alignment was completed on 7/1/26. On 7/28/26 when driving the vehicle, it wouldn’t accelerate properly, it felt sluggish and although the gas ",
+          "The contact owns a 2018 Nissan Pathfinder. The contact stated that while driving at various speeds, the vehicle hesitated while depressing the accelerator pedal. The failure persisted, and there was a",
+          "My 2018 Nissan Pathfinder started knocking at 75000 miles and it’s getting worse by the day I’ve paid my car payment down to 4000$ and now I’m told my motor is soon to go out."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 13,
+        "share_pct": 16.9,
+        "excerpts": [
+          "Infotainment system stopped working. Now radio, no climate control visible and NO backup camera most of the time. Very dangerous without the backup camera",
+          "The transmission is going bad which makes it dangerous to drive. Had it 2 days and I check my FIXD module and found code. Took to where I purchased it and the drained cvt fluid and now makes a whinnin",
+          "My 2018 Nissan Pathfinder SL has had to have the engine replaced once due to the CVP issues with the transmission causes in the engine to fail. It was replaced not even two years ago and now the issue"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 12,
+        "share_pct": 15.6,
+        "excerpts": [
+          "The vehicle veers towards the right, even though a wheel alignment was completed on 7/1/26. On 7/28/26 when driving the vehicle, it wouldn’t accelerate properly, it felt sluggish and although the gas ",
+          "The transmission is going bad which makes it dangerous to drive. Had it 2 days and I check my FIXD module and found code. Took to where I purchased it and the drained cvt fluid and now makes a whinnin",
+          "My 2018 Nissan Pathfinder SL has had to have the engine replaced once due to the CVP issues with the transmission causes in the engine to fail. It was replaced not even two years ago and now the issue"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 9,
+        "share_pct": 11.7,
+        "excerpts": [
+          "I was driving along at 35-40 mph and the vehicle suddenly stopped accelerating when I gave it gas. Nearly empty at the time so I thought maybe it was a gas issue. I drove it a couple of days after tha",
+          "Front collision shuts off intermittently for no reason.  Causes cruise control to shut off immediately and disabled collision avoidance breaking.  If cruise is on and approaching slower vehicle car wi",
+          "ABS Light comes on and stays on...Checking for recalls seeing if our vehicle could have same problem with brake fluid leaking on internal circuit board and possible fire danger.  Also, several times o"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 0,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 8
+      },
+      {
+        "year": 2019,
+        "count": 25
+      },
+      {
+        "year": 2020,
+        "count": 6
+      },
+      {
+        "year": 2021,
+        "count": 3
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 10
+      },
+      {
+        "year": 2024,
+        "count": 10
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "19V807000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2015-2018 Nissan Murano, 2016-2018 Nissan Maxima, and 2017-2019 Nissan Pathfinder and Infiniti QX60 vehicles.  These vehicles were previously recalled and unrepaired, or inspected and determined to not need a repair, under recall number 18V-60",
+        "report_date": "08/11/2019",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "18V601000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2015-2017 Nissan Murano, 2016-2017 Nissan Maxima, 2017-2018 Nissan Pathfinder, and 2017 Infiniti QX60 vehicles.  The Anti-Lock Brake (ABS) actuator pumps may allow brake fluid to leak onto an internal circuit board.",
+        "report_date": "07/09/2018",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "19V654000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2018-2019 Nissan Altima, Armada, Frontier, Kicks, Leaf, Maxima, Murano, NV, NV200, Pathfinder, Rogue, Rogue Sport, Sentra, Titan, Titan Diesel, Versa Note and Versa Sedan vehicles, as well as Infiniti Q50, Q60, QX30 and QX80 vehicles.  Additio",
+        "report_date": "12/09/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:54.651Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

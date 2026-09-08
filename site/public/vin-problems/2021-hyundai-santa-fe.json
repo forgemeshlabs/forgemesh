@@ -1,0 +1,168 @@
+{
+  "slug": "2021-hyundai-santa-fe",
+  "year": 2021,
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 165,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 50,
+        "share_pct": 30.3,
+        "excerpts": [
+          "The contact owns a 2021 Hyundai Santa Fe. The contact stated that while driving approximately 5-30 MPH, the transmission failed to shift properly, and the vehicle lost motive power. The engine warning",
+          "My check engine light came on, and my car was also feeling \"sluggish\" and slow to accelerate. I scheduled a service appointment at my local dealer 4 days later. At the appointment, the technician stat",
+          "First instance at 50-55 mph the transmission violently shook the car when downshifting to accelerate on multiple occasions.  Dealership diagnosed the problem as a faulty transmission and replaced it a"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 36,
+        "share_pct": 21.8,
+        "excerpts": [
+          "My check engine light came on, and my car was also feeling \"sluggish\" and slow to accelerate. I scheduled a service appointment at my local dealer 4 days later. At the appointment, the technician stat",
+          "My 2021 Hyundai Santa Fe (VIN [XXX] ) is experiencing severe engine instability, including rough idling, hesitation upon acceleration, and intermittent stalling. These symptoms align with TSB 26-FL-00",
+          "First instance at 50-55 mph the transmission violently shook the car when downshifting to accelerate on multiple occasions.  Dealership diagnosed the problem as a faulty transmission and replaced it a"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 29,
+        "share_pct": 17.6,
+        "excerpts": [
+          "-shift lever in transmutation stopped working so car would go into auto shut off and then would not drive once I took my foot off the break. Would not switch gears or drive. Had to shut car off then t",
+          "The rearview backup camera system malfunctioned. The camera was replaced under a safety recall on my 2021 Hyundai Santa Fe. Within four days of the recall repair, the camera continued to fail intermit",
+          "Horns assemblies are Failing repeatedly. Since ownership of the vehicle (2023 and a CPO Platinum Wrap), I have had to replace a single horn, or both horns three times with local Hyundai dealerships. m"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 18,
+        "share_pct": 10.9,
+        "excerpts": [
+          "Was coming off an exit on the interstate and started slowing down. My brakes act like they didn’t want to work. Grinding and the pedal was twitching under my foot. The car stopped thankfully, but then",
+          "On 1/1/26 while traveling on the highway with no traffic in front of or right of my vehicle the ADAS emergency brakes applied themselves and slowed the vehicle nearly causing my vehicle to be rear end",
+          "For a few month now the light of ABS have been turning on. At the beginning there was no diagnosis specific, cause kept turning off. Two or three months ago again turn on and gave code of back caliper"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 9,
+        "share_pct": 5.5,
+        "excerpts": [
+          "The door to the gas tank is a push door which is temperamental. I can be at the pump and push the door to pop it open and it won't. I'm at the point where I have to pop my gas tank open before I even ",
+          "My 2021 Hyundai Santa Fe (VIN [XXX] ) is experiencing severe engine instability, including rough idling, hesitation upon acceleration, and intermittent stalling. These symptoms align with TSB 26-FL-00",
+          "When I try to open the fuel cover it wont' open.  I have to lock and unlock my car, sometimes up to 10 times, to get the fuel fill door to open.  This eventually is going to leave me stranded somewher"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 1,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 22
+      },
+      {
+        "year": 2022,
+        "count": 51
+      },
+      {
+        "year": 2023,
+        "count": 29
+      },
+      {
+        "year": 2024,
+        "count": 16
+      },
+      {
+        "year": 2025,
+        "count": 22
+      },
+      {
+        "year": 2026,
+        "count": 23
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "21V524000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2021-2022 Santa Fe and Sonata vehicles equipped with 2.5L turbocharged engines.  Fuel may leak at the pipe connection between the high-pressure fuel pump and fuel rail.",
+        "report_date": "09/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V00M000",
+        "component": "VISIBILITY:WINDSHIELD",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2020-2021 Santa Fe, 2021 Sonata, and Elantra vehicles.  During manufacturing, the windshield may not have been properly bonded to the vehicle, allowing it to detach in a crash.",
+        "report_date": "28/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V185000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2021 Santa Fe vehicles.  The Occupant Detection System (ODS) module may not deactivate the air bag upon detection of a child restraint system in the front passenger seat.  As such, these vehicles fail to comply with the requirements of Federal Mot",
+        "report_date": "17/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V308000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2021 Santa Fe vehicles equipped with 2.5-litre Turbo engines.  The fuel pipe connecting the high pressure fuel pump to the fuel rail may not have been tightened properly.",
+        "report_date": "03/05/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V746000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain 2021-2022 Santa Fe, Sonata, Veloster N, 2022 Santa Cruz, Elantra N, and Kona N vehicles.  The vehicle's \"fail-safe\" limited-mobility drive mode may be impaired, when prompted by a transmission oil pump malfunction, which can result in a complete l",
+        "report_date": "06/10/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V181000",
+        "component": "TRAILER HITCHES",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2019-2023 Santa Fe, 2021-2023 Santa Fe HEV, 2022-2023 Santa Fe Plug-in HEV and Santa Cruz vehicles potentially equipped with a tow hitch harness installed as original equipment, or purchased as an accessory through a Hyundai dealership.  Water acc",
+        "report_date": "17/03/2023",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "24V879000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2021-2022 Santa Fe, Santa Fe HEV, Elantra, Elantra HEV and 2022 Elantra N and Santa Fe PHEV vehicles.  Due to a damaged printed circuit board, the rearview camera image may fail to display.  As such, these vehicles fail to comply with the requirem",
+        "report_date": "21/11/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:30.845Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,188 @@
+{
+  "slug": "2011-gmc-acadia",
+  "year": 2011,
+  "make": "GMC",
+  "model": "Acadia",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 280,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 64,
+        "share_pct": 22.9,
+        "excerpts": [
+          "Looses power while driving. Cannot jump the battery it needs to be recharged every time. Power steering stops working while driving( low rpm and when stopped) dangerous for merging or lane changes. En",
+          "POWER STEERING RACK & HIGH PRESSURE POWER STEERING LINE. IF THIS FAILS WHILE YOU'RE DRIVING ON A HIGHWAY YOU WILL LOSE POWER STEERING CAUSING A SERIOUS ACCIDENT. ALSO THE TIMING COVER IS LEAKING. BOTH",
+          "The contact owns a 2011 GMC Acadia. The contact stated upon starting the vehicle, the steering wheel became difficult to turn. There was no warning light illuminated. The contact stated that he used h"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 52,
+        "share_pct": 18.6,
+        "excerpts": [
+          "I had issue with the timing chain an have check engine light is on I have heard other people having problems with there timing chain. It starts hard. I've had it looked at multiple times. I feel like ",
+          "The engine light came on. Had a mobile mechanic look at it, he ran a diagnostics, it showed a P0017 code. He advised to get another opinion on how to repair, as he said it may need a new engine. Took ",
+          "LOOKING INTO A CHECK ENGINE LIGHT I FOUND I HAD A MISFIRE IN A FEW CYLINDERS. LOOKING INTO IT I FOUND OIL IN MY SPARK PLUG TUBES, MY COILS WERE PERFECTLY DRY AND THE TOP OF THE TUBES WERE DRY AS WELL."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 47,
+        "share_pct": 16.8,
+        "excerpts": [
+          "The relay for the fan at the top of the fuse/relay box on the right side when facing the front of the vehicle. (under the hood) Gets hot and blows the relay and melts the spot where the relay prongs p",
+          "2011 gmc Acadia slt gear shift does not lock causing it to slip into neutral with slightest bump of shifter or sudden hard breaking Also passenger seat belt does not.lock at all when breaking and driv",
+          "DRLs melted into the housing, seems like this is possibly caused by cowls that are not properly sealed allowing moisture into headlight assembly.  This is obviously a fire hazard and will be a costly "
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 38,
+        "share_pct": 13.6,
+        "excerpts": [
+          "Hi,   I think the 2011 Acadia Denali should be in the recall along with the Terrain. The reason being that I always get flashed at night and every night as though I have the high lights on which I don",
+          "TL* THE CONTACT OWNS A 2011 GMC ACADIA. THE CONTACT STATED THAT THE HEADLIGHTS WERE MELTED AND INOPERABLE. THE VEHICLE WAS TAKEN TO STARLING CHEVROLET BUICK GMC (1001 E IRLO BRONSON MEMORIAL HWY, ST C",
+          "IN MY 2011 GMC ACADIA SLT1 THE HEADLIGHTS SPECIFICALLY THE LOW BEAMS ARE VERY DIM REGARDLESS OF THE BULB BECAUSE I HAVE TRIED ALL FROM THE LOWEST PRICED TO THE MOST EXPENSIVE. WHILE USING THE HIGH BEA"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 33,
+        "share_pct": 11.8,
+        "excerpts": [
+          "Transmission shudder from torque converter",
+          "2011 gmc Acadia slt gear shift does not lock causing it to slip into neutral with slightest bump of shifter or sudden hard breaking Also passenger seat belt does not.lock at all when breaking and driv",
+          "I was driving on the freeway then my car suddenly started slowing down. I tried changing lane so i can pull over on the side of the freeway but unfortunately i couldn't get to pull over before the car"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 10,
+      "injuries": 11,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 2
+      },
+      {
+        "year": 2011,
+        "count": 8
+      },
+      {
+        "year": 2012,
+        "count": 6
+      },
+      {
+        "year": 2013,
+        "count": 22
+      },
+      {
+        "year": 2014,
+        "count": 54
+      },
+      {
+        "year": 2015,
+        "count": 35
+      },
+      {
+        "year": 2016,
+        "count": 39
+      },
+      {
+        "year": 2017,
+        "count": 25
+      },
+      {
+        "year": 2018,
+        "count": 20
+      },
+      {
+        "year": 2019,
+        "count": 21
+      },
+      {
+        "year": 2020,
+        "count": 18
+      },
+      {
+        "year": 2021,
+        "count": 11
+      },
+      {
+        "year": 2022,
+        "count": 7
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "21V246000",
+        "component": "AIR BAGS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2015, 2017 Buick Enclave, 2010-2019 Chevrolet Traverse, and 2011-2016 GMC Acadia vehicles.  The side curtain air bags may not be properly attached.",
+        "report_date": "08/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V266000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors is recalling certain model year 2009-2014 Buick Enclave vehicles manufactured April 14, 2008, through May 14, 2014, Chevrolet Traverse vehicles manufactured June 6, 2008, through May 14, 2014, and GMC Acadia vehicles manufactured April 9, 2008, through May 14, 2014, and 2009-2010 Satu",
+        "report_date": "20/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V415000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2008-2012 Buick Enclave vehicles manufactured January 3, 2007, to February 29, 2012, 2009-2012 Chevrolet Traverse vehicles manufactured July 6, 2008, to March 9, 2012, 2007-2012 GMC Acadia vehicles manufactured September 15, 2006, to February 2",
+        "report_date": "30/06/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V118000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2008-2013 Buick Enclave and GMC Acadia and 2009-2013 Chevrolet Traverse and 2008-2010 Saturn Outlook vehicles.  In the affected vehicles, increased resistance in the driver and passenger seat mounted side impact air bag (SIAB) wiring harnesses ",
+        "report_date": "17/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V151000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:LINKAGES",
+        "summary": "GENERAL MOTORS (GM) IS RECALLING CERTAIN MODEL YEAR 2011-2012 CHEVROLET TRAVERSE, BUICK ENCLAVE, AND GMC ACADIA VEHICLES CURRENTLY REGISTERED IN ALASKA, COLORADO, CONNECTICUT, DELAWARE, IDAHO, ILLINOIS, INDIANA, IOWA, MAINE, MARYLAND, MASSACHUSETTS, MICHIGAN, MINNESOTA, MONTANA, NEBRASKA, NEW HAMPSH",
+        "report_date": "09/04/2012",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:55:26.408Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

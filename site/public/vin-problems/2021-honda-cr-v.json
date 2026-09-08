@@ -1,0 +1,144 @@
+{
+  "slug": "2021-honda-cr-v",
+  "year": 2021,
+  "make": "Honda",
+  "model": "CR-V",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 325,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 110,
+        "share_pct": 33.8,
+        "excerpts": [
+          "When turning left, my steering wheel sticks/locks. This is an ongoing issue and continues to get worse.",
+          "The contact owns a 2021 Honda CR-V. The contact stated that while driving at an undisclosed speed and turning left, the steering wheel was making a clicking sound and became difficult to turn the stee",
+          "I love my Honda CRV however, I recently have experienced what I call \"Sticky Steering\". I purchased this vehicle brand new from Jones Honda in Lancaster and have followed all the service suggestions f"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 86,
+        "share_pct": 26.5,
+        "excerpts": [
+          "On the morning on 7/10/26 I was driving 30mph around a gentle turn and the brakes activated briefly.  I also received a dashboard notification to brake. The weather conditions were sunny and probably ",
+          "Since April 2026 my Honda Crv 2021 had been having issues with all the warning lights on my dashboard turning on and off. When all the lights turn on the sensors don’t function the way they supposed t",
+          "I was approaching an exit on the highway going about 60 mph when my car braked suddenly causing rapid deceleration. I was not touching the brake pedal and in fact tried to push the accelerator to no e"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 34,
+        "share_pct": 10.5,
+        "excerpts": [
+          "Hello NHSTA -- My Honda is a 2021 CR-V AWD Hybrid. Two very unsafe events to report which occurred within a few weeks of each other, apparently from the same cause. First event, on 27 Feb 2026, I was ",
+          "Since April 2026 my Honda Crv 2021 had been having issues with all the warning lights on my dashboard turning on and off. When all the lights turn on the sensors don’t function the way they supposed t",
+          "EPS steering rack locks up and causes jerking in steering wheel. This is a known recall on 2022 models but happening on older models as well.  There is a clicking noise and a feeling of a stuck steeri"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 32,
+        "share_pct": 9.8,
+        "excerpts": [
+          "Hello NHSTA -- My Honda is a 2021 CR-V AWD Hybrid. Two very unsafe events to report which occurred within a few weeks of each other, apparently from the same cause. First event, on 27 Feb 2026, I was ",
+          "While Driving on freeway, engine suddenly stops. This has happened four times now in the last two years one time was almost deadly as we were surrounded by semi’s and lost power completely except for ",
+          "While driving a 2021 Honda CR-V Hybrid, the vehicle has intermittently and without warning lost the ability to accelerate. When this occurs, depressing the accelerator pedal — even fully to the floor "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 27,
+        "share_pct": 8.3,
+        "excerpts": [
+          "On the morning on 7/10/26 I was driving 30mph around a gentle turn and the brakes activated briefly.  I also received a dashboard notification to brake. The weather conditions were sunny and probably ",
+          "In the past two weeks, the automatic brake light came on when there was nothing in front of me.  Then this past Thursday, I was in the middle lane approaching a stoplight that was about 500 ft. ahead ",
+          "The automatic emergency brakes deployed for no reason while I was driving through traffic. There was nothing in the road and nothing that should have triggered the emergency brakes. It could have caus"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 14,
+      "fires": 1,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 3
+      },
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 31
+      },
+      {
+        "year": 2022,
+        "count": 33
+      },
+      {
+        "year": 2023,
+        "count": 32
+      },
+      {
+        "year": 2024,
+        "count": 81
+      },
+      {
+        "year": 2025,
+        "count": 80
+      },
+      {
+        "year": 2026,
+        "count": 64
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "21V900000",
+        "component": "SEAT BELTS:REAR/OTHER:RETRACTOR",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2021 Accord Sedan, Accord Hybrid, CR-V, Ridgeline, 2022 Insight and CR-V Hybrid vehicles.  The automatic locking retractor on the second-row center seat belt assembly may deactivate improperly, which can result in an unsecured child restraint sys",
+        "report_date": "18/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V064000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020-2022 Pilot, Accord, Civic sedan, HR-V, Odyssey, 2020 Civic coupe, Fit, 2021-2022 Civic hatchback, 2021 Civic Type R, Insight, 2020-2021 CR-V, CR-V Hybrid, Passport, Ridgeline, Accord Hybrid, 2020 Acura MDX, 2022 Acura MDX, 2020-2022 Acura RD",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:05:33.405Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

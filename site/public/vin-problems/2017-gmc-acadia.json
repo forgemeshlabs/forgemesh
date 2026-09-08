@@ -1,0 +1,168 @@
+{
+  "slug": "2017-gmc-acadia",
+  "year": 2017,
+  "make": "GMC",
+  "model": "Acadia",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 702,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 235,
+        "share_pct": 33.5,
+        "excerpts": [
+          "My Shift To Park senor come on often and wouldn't let me turn the vehicle off. I have taken to dealership for repair. Long wait and because parts  are back ordered due to numerous vehicles having this",
+          "The contact owns a 2017 GMC Acadia. The contact stated that while the vehicle was parked on an incline with the engine turned off, the contact's toddler was able to shift into drive(D), and the vehicl",
+          "The contact owns a 2017 GMC Acadia. The contact stated that after shifting into park (P), the vehicle failed to shut off because it failed to recognize that the gear shifter was in park (P). The \"Shif"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 193,
+        "share_pct": 27.5,
+        "excerpts": [
+          "My Acadia went into limp Mode displaying low power mode on the screen and wouldn’t start for a couple days after. Lights started illuminating on the dash as abs, traction control, and stanilitrack, th",
+          "Shift to park take forever to get it to recognize that vehicle is in park. my lane departure only works sometimes.",
+          "P0128 code, thermostat-related symptoms, Steering Assist Reduced warnings, increased steering effort, or other safety concerns while driving."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 76,
+        "share_pct": 10.8,
+        "excerpts": [
+          "The contact owns a 2017 GMC Acadia. The contact stated that while parked at her work, she had attempted to start the vehicle and was unable. The contact had the vehicle towed to an independent mechani",
+          "The contact owns a 2017 GMC Acadia. The contact received notification of NHTSA Campaign Number: 23V334000 (Air Bags); however, the part to do the recall repair was not yet available. The local dealer ",
+          "The contact owns a 2017 GMC Acadia. The contact received notification of NHTSA Campaign Number: 23V334000 (Air Bags); however, the part to do the recall repair was not yet available. The local dealer "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 61,
+        "share_pct": 8.7,
+        "excerpts": [
+          "My Acadia went into limp Mode displaying low power mode on the screen and wouldn’t start for a couple days after. Lights started illuminating on the dash as abs, traction control, and stanilitrack, th",
+          "Steering assist is reduced Brake assist reduced Seems to be a defective thermostat and sensor .temp gauge is below Normal operating temperature this needs to be addressed by GM should be a recall as t",
+          "The engine is spewing oil from the sides of the engine. This is causing overheating and check engine light to come on. Mechanics cannot get an error read on it. There is no oil leak coming from under "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 37,
+        "share_pct": 5.3,
+        "excerpts": [
+          "Something inside the wheel started smoking and my gmc app displayed low break fluid. I pulled over and had someone come out two days later. The breakpad had uneven wear and the caliper had a broken se",
+          "Subject of the problem: Service brakes/Hydraulic brakes Problem of the vehicle: While driving, the brake pedal sometimes suddenly goes all the way down without resistance, and the vehicle does not slo",
+          "The contact owns a 2017 GMC Acadia. The contact stated while driving at an undisclosed speed, the brake pedal was depressed; however, the brake pedal was firm. The contact applied full pressure to the"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 2,
+      "injuries": 15,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 1982,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 23
+      },
+      {
+        "year": 2017,
+        "count": 59
+      },
+      {
+        "year": 2018,
+        "count": 50
+      },
+      {
+        "year": 2019,
+        "count": 125
+      },
+      {
+        "year": 2020,
+        "count": 113
+      },
+      {
+        "year": 2021,
+        "count": 32
+      },
+      {
+        "year": 2022,
+        "count": 41
+      },
+      {
+        "year": 2023,
+        "count": 92
+      },
+      {
+        "year": 2024,
+        "count": 80
+      },
+      {
+        "year": 2025,
+        "count": 54
+      },
+      {
+        "year": 2026,
+        "count": 29
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "17V516000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "General Motors LLC (GM) is recalling certain 2018 Chevrolet Equinox and GMC Terrain vehicles and 2017-2018 GMC Acadia  vehicles.  The right front intermediate driveshaft may fracture and separate while driving.",
+        "report_date": "22/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V358000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2018 GMC Canyon, 2016-2017 Buick Envision, 2016-2018 Chevrolet Colorado and Malibu, 2017-2018 GMC Acadia, 2018 Buick LaCrosse, Cadillac ATS, Chevrolet Equinox, and GMC Terrain vehicles.  The high pressure fuel pump may detach from its mounting flange",
+        "report_date": "31/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V802000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2017 Cadillac XT5 vehicles manufactured April 16, 2016, to May 9, 2016, and 2017 GMC Acadia vehicles manufactured April 19, 2016, to April 22, 2016.  The front brake calipers may have a torn or misaligned caliper piston seal which may allow bra",
+        "report_date": "04/11/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V334000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014-2017 Buick Enclave, Chevrolet Traverse, and GMC Acadia vehicles.  The driver's air bag inflator may explode during deployment, due to a manufacturing defect.",
+        "report_date": "10/05/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:07.665Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

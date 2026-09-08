@@ -1,0 +1,109 @@
+{
+  "slug": "2021-subaru-impreza",
+  "year": 2021,
+  "make": "Subaru",
+  "model": "Impreza",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 14,
+    "top_failure_components": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 3,
+        "share_pct": 21.4,
+        "excerpts": [
+          "The Eye Sight front collision warning did a hard brake going 55 mph when a car was well ahead of me slowing down to turn right. I was almost rear ended by the car behind me. This isn't the first time ",
+          "Front windshield spontaneous cracking from defroster area in a \"J\" shape. This is the second windshield since new to do this (2021 model). Available for inspection. The first windshield was inspected ",
+          "I was using the adaptive cruise control on the highway set to 55 mph. The car suddenly decelerated to ~44 mph so quickly I had whiplash. There was no other vehicle in front of me and the highway was c"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 3,
+        "share_pct": 21.4,
+        "excerpts": [
+          "Plastic parts of side mirror melt easily by heat and sunlight. (Not only side mirror, but also other components with the same plastic parts) It bothers driver visibility and safety when driving highwa",
+          "Front windshield spontaneous cracking from defroster area in a \"J\" shape. This is the second windshield since new to do this (2021 model). Available for inspection. The first windshield was inspected ",
+          "JULY 09 2021 REPORTED TO SUBARU EL PASO AT TIME OF FIRST MAINTENANCE (6000 MILES) VEHICLE LOSSES POWER AND STALLS WHEN MAKING TURNS, IT IS MORE NOTICEABLE MAKING A LEFT TURN. TECHNICIAN SAID COUDN'T D"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 2,
+        "share_pct": 14.3,
+        "excerpts": [
+          "I was using the adaptive cruise control on the highway set to 55 mph. The car suddenly decelerated to ~44 mph so quickly I had whiplash. There was no other vehicle in front of me and the highway was c",
+          "THE CAR ACCELERATED WITHOUT ANY INPUT FROM DRIVER. DRIVER DID NOT APPLY PRESSURE TO GAS PEDAL HOWEVER THE CAR STILL MOVES BOTH FORWARD AN BACKWARDS. CAR ACCELERATED ENOUGH TO DRIVE OVER A SPEED BUMP W"
+        ]
+      },
+      {
+        "component": "TIRES",
+        "complaints": 2,
+        "share_pct": 14.3,
+        "excerpts": [
+          "The contact owns a 2021 Subaru Impreza equipped with Continental Tires, Tire Line: ProContact TX, Tire Size: P205/55/R16, DOT Number: A3T2WC892420. The contact stated while driving approximately 30 MP",
+          "Tiers are Yokohama P225/40R18 88V  This vehicle now has slightly more than 8,000 miles and has only been driven over local roads under normal operating conditions and speeds. A couple of weeks ago, wh"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 2,
+        "share_pct": 14.3,
+        "excerpts": [
+          "New lease beginning in March 2021. The steering column is erratically loose, noticeable at highway speed in April 2021, accompanied by slight swerve. Subaru dealer (cityside) begrudgingly assessed and",
+          "THIS CAR WILL NOT TRACK STRAIGHT. NICE FIRM STEERING, BUT SIMPLY WILL NOT TRACK STRAIGHT. THERE IS NO SENSE OF CENTER. IF LEFT ALONE, THE STEERING WILL GO SLIGHTLY LEFT, OR SLIGHTLY RIGHT, BUT NEVER C"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 0,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 7
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "21V675000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM:LOWER ARM",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2021 Impreza vehicles.  The left-front lower control arm weld may fail, allowing the control arm to separate from the crossmember.",
+        "report_date": "30/08/2021",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V024000",
+        "component": "POWER TRAIN:SHIFT LINKAGE/CABLE/ROD",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2021 Outback and Impreza vehicles.  The continuously variable transmission (CVT) select lever cable nut may not have been tightened properly, allowing the nut to loosen.",
+        "report_date": "26/01/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:41.623Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

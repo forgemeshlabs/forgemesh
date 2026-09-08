@@ -1,0 +1,111 @@
+{
+  "slug": "2020-kia-optima",
+  "year": 2020,
+  "make": "Kia",
+  "model": "Optima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 143,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 96,
+        "share_pct": 67.1,
+        "excerpts": [
+          "I have a 2020 Optima, apparently there is a recall for the older models, yet mine is experiencing the exact same issues. Over oil consumption leading to engine failure. I have been in a rental for a m",
+          "I own a 2020 Kia Optima and have been experiencing multiple ongoing problems with the vehicle. The vehicle is leaking and/or losing engine oil at an excessive rate. I have had to add oil multiple time",
+          "Today as I was driving to work my car suddenly stopped while being idle at the stop light. It turned off. I was able to restart and drive to work safely and home. I googled the issue and saw many Kia "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 25,
+        "share_pct": 17.5,
+        "excerpts": [
+          "Engine replacement needed at 99,782 miles. P1326 code continuously popping up. Also has excessive oil consumption and electrical problems concerning the forward collision system. Kia refuses to replac",
+          "Car is consuming oil every three weeks. Engine is going to burn if it does not stop. It’s not in a class action but probably should be. It’s been 4 months and over 1,000 spent.",
+          "My engine has failed. This is the second car I’ve had from Kia that the rod barring has failed."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 13,
+        "share_pct": 9.1,
+        "excerpts": [
+          "I own a 2020 Kia Optima and have been experiencing multiple ongoing problems with the vehicle. The vehicle is leaking and/or losing engine oil at an excessive rate. I have had to add oil multiple time",
+          "I bought my car brand new in July of 2020. In Spetember of 2023 roughly around 60,000 miles the engine started consuming large amounts of oil.  The dealership put me through the so-called warranty pro",
+          "I was driving down the interstate and all of a sudden the blinking lights of the check engine light came on and automatically I went from 75 mph down to 63 mph and when I looked up what it was, it was"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 11,
+        "share_pct": 7.7,
+        "excerpts": [
+          "I own a 2020 Kia Optima and have been experiencing multiple ongoing problems with the vehicle. The vehicle is leaking and/or losing engine oil at an excessive rate. I have had to add oil multiple time",
+          "Fuel Leak: I can smell heavy gas fumes inside the vehicle cabin.  Fire Hazard: The vehicle is unsafe to drive due to an imminent risk of a fuel fire. Corporate Refusal: Kia Corporate refused to genera",
+          "I was driving on the freeway and my check engine light started to flicker and I felt my car shake and going to limp mode. I made an appointment with the Kia dealership and they told me the engine is f"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 8,
+        "share_pct": 5.6,
+        "excerpts": [
+          "The contact owns a 2020 Kia Optima. The contact stated that while the vehicle was at a full stop, the red oil warning light illuminated; however, after driving off, the warning light disappeared. The ",
+          "The contact owns a 2020 Kia Optima. The contact stated that the vehicle was sputtering and vibrating abnormally while starting. There were no warning lights illuminated. The failure was intermittent b",
+          "The contact owns a 2020 Kia Optima. The contact stated that the vehicle was experiencing excessive oil consumption. The vehicle was taken to Downtown Auto Care, where an oil consumption test was initi"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 2,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 7
+      },
+      {
+        "year": 2021,
+        "count": 7
+      },
+      {
+        "year": 2022,
+        "count": 16
+      },
+      {
+        "year": 2023,
+        "count": 22
+      },
+      {
+        "year": 2024,
+        "count": 30
+      },
+      {
+        "year": 2025,
+        "count": 41
+      },
+      {
+        "year": 2026,
+        "count": 19
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T20:04:33.208Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

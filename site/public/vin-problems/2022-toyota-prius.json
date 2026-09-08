@@ -1,0 +1,106 @@
+{
+  "slug": "2022-toyota-prius",
+  "year": 2022,
+  "make": "Toyota",
+  "model": "Prius",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 24,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 6,
+        "share_pct": 25,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2022 Toyota Prius. It was discovered that there was a mileage discrepancy. The vehicle was a private sale. At the time of purchase, the vehicle mileage was 29,9",
+          "The contact owns a 2022 Toyota Prius. While attempting to start the vehicle using the Push to Start feature, the vehicle made a loud screeching sound. The contact drove the vehicle to a dealer, where ",
+          "The contact owns a 2022 Toyota Prius. The contact purchased the vehicle from a private seller online. The contact stated that the sales advertisement indicated that the odometer mileage was 63,000. Th"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 5,
+        "share_pct": 20.8,
+        "excerpts": [
+          "Brake",
+          "The contact owns a 2022 Toyota Prius.  The contact stated that while driving, depressed the brakes, brake pedal became stiff and had to apply extra force to apply the brakes.  The issue occurred multi",
+          "My 2022 Toyota Prius (approx. 12,500 miles) suddenly displayed multiple warning lights while driving, made abnormal noises, and lost the ability to move. The vehicle remained powered on but could not "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 3,
+        "share_pct": 12.5,
+        "excerpts": [
+          "Brake",
+          "My husband and I rented a car from Avis on June 19, 2023.  THe car they we selected was not available so they picked a prius out of the lot and gave it to us. On the morning of June 20, I was slowly t",
+          "Airbags never deployed front or side.  Vehicle equipped and activated SOS system did not work.  vehicle was a total loss and I nearly died in the process"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 2,
+        "share_pct": 8.3,
+        "excerpts": [
+          "My 2022 Prius LE hood latch does not work. It does not click and hood stays locked. They told me at Walmart that the hood latch is probably corroded somewhere or defective. It takes two people to open",
+          "Carfax notified us that our vehicle was part of a recall on 9/24/21.  Toyota never contacted us. I contacted Toyota Corporate the week of Oct. 18th and they contacted the dealer (Hudson Toyota in Jers"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 2,
+        "share_pct": 8.3,
+        "excerpts": [
+          "Started vehicle in driveway to warm up for a minute. Sitting in vehicle with front defrost turned on medium fan, 75 degrees settings. After a few minutes, while still in park, I heard the windshield c",
+          "Driving 60mph on highway and driver's side window spontaneously shattered and covered the driver, drive seat and floor, leaving only about 10 square inches that fell secondarily. There was no projecti"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 0,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 7
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "21V734000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:ENGINE CONTROL MODULE (ECU/ECM):SOFTWARE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022 Prius and Prius Prime vehicles.  The Engine Control Unit (ECU) software may falsely detect an error and shut down the hybrid system, causing a loss of drive power.",
+        "report_date": "22/09/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:46.784Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2020-dodge-durango",
+  "year": 2020,
+  "make": "Dodge",
+  "model": "Durango",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 54,
+    "top_failure_components": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 21,
+        "share_pct": 38.9,
+        "excerpts": [
+          "My entire lighting system in back of truck stopped working. The racetrack lighting system. The license plate lights done. I cannot drive the car at night because I will get pulled over. Dodge saying i",
+          "Tail light not working, was replaced, replacement also malfunctioning.",
+          "Back lights. Bottom of right is out and bottom left is starting to go out. Water collects inside the lights."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 9,
+        "share_pct": 16.7,
+        "excerpts": [
+          "My entire lighting system in back of truck stopped working. The racetrack lighting system. The license plate lights done. I cannot drive the car at night because I will get pulled over. Dodge saying i",
+          "My 2020 Dodge Durango experienced a severe interior dashboard fire that appeared to originate in the center dash/radio area while the vehicle was parkedin driveway. The fire caused extensive melting a",
+          "1, The rear taillights fill up with water making it difficult to see the lights when breaking. 2, The engine had to be repaired due to power failure and was told that the cams and lifters were worn ou"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 7,
+        "share_pct": 13,
+        "excerpts": [
+          "1, The rear taillights fill up with water making it difficult to see the lights when breaking. 2, The engine had to be repaired due to power failure and was told that the cams and lifters were worn ou",
+          "Under heavy load or high RPM the engine starts shaking badly and the engine loses power and is very unresponsive to throttle. After 30 seconds of light use the problem goes away but comes back immedia",
+          "When accelerating, the vehicle tends to lose all power and starts to decelerate and check engine lights comes on, also states the start stop function is  disable. Really tough trying to drive on highw"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 4,
+        "share_pct": 7.4,
+        "excerpts": [
+          "Water intrusion into racetrack tail light. This has apparently been an issue for ten years on this style of light on Durangos with no recall or fix offered. There are hundreds of YouTube videos on how",
+          "Rear lift gate opens while driving and will not latch or stay closed.  This has happened three times.   The second time $10,000 in I-pads for work fell out on the road.  Taken to dealership and repair",
+          "The rear tail lights have a sharp edge that is beak shaped and if you brush up against it on accident it slices into your skin or clothes. I was loading groceries and my arm skimmed over it and sliced"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 3,
+        "share_pct": 5.6,
+        "excerpts": [
+          "The contact owns a 2020 Dodge Durango. The contact stated that upon leaving a parking lot, the air bag warning light was displayed on the instrument panel. The vehicle was taken to a dealer, where an ",
+          "I was driving and the passenger active headrest exploded randomly without any impacts happening",
+          "Drivers seatbelt buckle does not register, resulting in active chiming of the unbuckled seat belt alarm and disengaging of the airbag system.  Driver must hold the seatbelt with downward pressure cont"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 3,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 2
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 9
+      },
+      {
+        "year": 2024,
+        "count": 11
+      },
+      {
+        "year": 2025,
+        "count": 14
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "20V191000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2020 Jeep Gladiator and Jeep Cherokee, 2019-2020 Ram 1500 Pickup, Ram 2500 Pickup, Ram 3500 Pickup, Chrysler Pacifica, Dodge Durango, Jeep Grand Cherokee, Jeep Wrangler, and Jeep Renegade and 2019 Dodge Challenger vehicles equipped with 8.4\" or 12\" radio di",
+        "report_date": "10/09/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V280000",
+        "component": "AIR BAGS:CRITICAL FASTENERS",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2021 Dodge Durango vehicles.  The Side Air Bag Inflatable Curtain (SABIC) fastener may be loose or missing.",
+        "report_date": "22/04/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:05:03.988Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "2013-nissan-frontier",
+  "year": 2013,
+  "make": "Nissan",
+  "model": "Frontier",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 48,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 15,
+        "share_pct": 31.3,
+        "excerpts": [
+          "The contact owns a 2013 Nissan Frontier. The contact stated that the air bag warning light was illuminated. The vehicle was taken to an independent mechanic, where it was diagnosed that the air bag se",
+          "Air bag light will not go off. Afraid will deploy. Dealer no problem just censor. Did not have part to fix.",
+          "In Summer 2023 driving on uneven country road in Upstate New York hit a pothole and my airbag warning light came on.  Then started to flash. Truck is still drivable BUT now  The seatbelts no longer lo"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 8,
+        "share_pct": 16.7,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2013 Nissan Frontier. The vehicle was purchased in a private sale. It was discovered that there was a mileage discrepancy.  At the time of purchase, the vehicle",
+          "In Summer 2023 driving on uneven country road in Upstate New York hit a pothole and my airbag warning light came on.  Then started to flash. Truck is still drivable BUT now  The seatbelts no longer lo",
+          "THE ELECTRONIC CONTROL MODULE WENT OUT ON MY VEHICLE AFTER ONLY 60,000 MILES.  I TRIED EVERY POSSIBLE SOLUTION SUCH AS REPLACING SENSORS, REPLACED SPARK PLUGS, CRANK AND SHIFT SENSORS, ETC UNTIL MY LO"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 6,
+        "share_pct": 12.5,
+        "excerpts": [
+          "My daughter backed out of our driveway, put the truck in reverse. She was then unable to put the truck into drive. It got stuck in the middle of the street. Thankfully we live on a quite street with n",
+          "I WAS TOLD THAT THE TRANSMISSION COOLER IS DEFECTIVE DURING A REGULAR MAINTENCE OF THE TRANSMISSION.",
+          "TRANSMISSION WON'T GO INTO GEAR FORWARD OR REVERSE AT TIMES. WHEN DRIVING ON THE ROAD TRANSMISSION WON'T SHIFT OUT OF 3RD GEAR INTO OVER DRIVE, AFTER TOPPING A HILL AND GOING BACK DOWNHILL. TRUCK WILL"
+        ]
+      },
+      {
+        "component": "SEAT BELTS",
+        "complaints": 5,
+        "share_pct": 10.4,
+        "excerpts": [
+          "In Summer 2023 driving on uneven country road in Upstate New York hit a pothole and my airbag warning light came on.  Then started to flash. Truck is still drivable BUT now  The seatbelts no longer lo",
+          "ONE MORNING I ARRIVED AT WORK AND MY SEAT BELT WOULD NOT DISENGAGE AFTER STRUGGLING WITH IT FOR 10 MINUTES I HAD TO CUT IT TO GET OUT I HAD NO PRIOR PROBLEMS WITH SEATBELT UNTIL THAT MORNING I TOOK MY",
+          "MY SON HAD AN ACCIDENT, DRIVING AT 65 MPH AND HIT A PARKED CAR ON THE FREEWAY. HE HIT THE WINDSHIELD SO HARD WITH HIS HEAD THAT THE WINDSHIELD HAS A CUP SHAPED DENT EVEN WITH SEAT BELT ON AND DEPLOYME"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 4,
+        "share_pct": 8.3,
+        "excerpts": [
+          "This is an intermittent problem sometimes this problem will happen as far apart as a month,  Then for two days then go away.  When accelerating the truck will starting bucking, not getting to enough f",
+          "MANIFOLDS BREAK APART 2 TIMES SINCE OWNING THE TRUCK",
+          "TL* THE CONTACT OWNS A 2013 NISSAN FRONTIER. WHILE DRIVING APPROXIMATELY 60 MPH, THE VEHICLE OVERHEATED AND ANTIFREEZE SPILLED FROM THE ENGINE. THE VEHICLE WAS TAKEN TO THE DEALER, BUT WAS NOT DIAGNOS"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 1,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 4
+      },
+      {
+        "year": 2014,
+        "count": 13
+      },
+      {
+        "year": 2015,
+        "count": 6
+      },
+      {
+        "year": 2016,
+        "count": 5
+      },
+      {
+        "year": 2017,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 2
+      },
+      {
+        "year": 2019,
+        "count": 5
+      },
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "14V052000",
+        "component": "ELECTRICAL SYSTEM:WIRING:FUSES AND CIRCUIT BREAKERS",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2012 through 2014 Frontier vehicles manufactured from November 28, 2012, through December 17, 2013.  In the affected vehicles, a circuit breaker may have been installed incorrectly causing the main wire harness connected to the circ",
+        "report_date": "12/02/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:29.984Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

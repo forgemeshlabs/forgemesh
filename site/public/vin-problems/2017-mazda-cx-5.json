@@ -1,0 +1,128 @@
+{
+  "slug": "2017-mazda-cx-5",
+  "year": 2017,
+  "make": "Mazda",
+  "model": "CX-5",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 148,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 44,
+        "share_pct": 29.7,
+        "excerpts": [
+          "The radio is uncontrollable by driver. The radio the self dial from Bluetooth. Even if not connected, the radio surprises this driver by playing the radio unexpectedly  at the highest rate. Due to the",
+          "There is a consistent issue with the “ghost touch“ and the electrical system so when you’re going down the road, the musical will change. The music will blast up or down randomly it’ll get stuck and i",
+          "Infotainment system randomly makes its own selections. Turns volume up and down, changes settings, changes stations... etc. Anything that can be controlled on the screen is at risk of being randomly h"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 15,
+        "share_pct": 10.1,
+        "excerpts": [
+          "Coolant leak, caused engine failure",
+          "Twice now, my 2017 Mazda CX-5 stalled on the highway with a check engine light popping up--both times was driving around 60-70mph for a couple of hours and had about a quarter tank of gas left. The fi",
+          "Cx 5 2017 mazda. Purchase at the mazda dealership in 2021. Car has been burning oil. At 2000mils my oil level  on the dipstick is at the lowest mark. I have to add 1gt oil to bring the mark to the cor"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 15,
+        "share_pct": 10.1,
+        "excerpts": [
+          "I got my rear brakes replaced. Within a few days I noticed drag on each of the rear brakes would seize up at times causing excessive heat and a burning smell. When I took it into my local Mazda Servic",
+          "My Mazda has a feature called SBS (Smart Brake Support).  It is touted as a safety feature, as it will brake the car when it approaches an object without driver braking.  It can be disabled by the dri",
+          "The brake pads on this vehicle wear out prematurely, despite not using them aggressively. All four brake pads on the SUV wore out in less than the first 16,000 miles (first 3 years) and had to be repl"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 13,
+        "share_pct": 8.8,
+        "excerpts": [
+          "Twice now, my 2017 Mazda CX-5 stalled on the highway with a check engine light popping up--both times was driving around 60-70mph for a couple of hours and had about a quarter tank of gas left. The fi",
+          "18-20 year same model and trim were recalled for fuel pump. Mine a 2017 has same symptoms died on highway going 75 almost life threatening. SEVERAL threads online with 2017 models are stating same cas",
+          "My car has been getting the P092 code with check engine light, it runs really rough,  i have had many parts replaced at my expense when i know the model years 2018 and 2019 have been recalled, I am ma"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 12,
+        "share_pct": 8.1,
+        "excerpts": [
+          "Exact same issues as NHTSA Recall No.19V-272 -- Manufacturer Recall No. 3219D. -- Affected P/N: TK52-675XO B",
+          "The sunroof exploded. Exploded. Sound was shocking. I did not know what it was. The sound of the outside from the sunroof clued me in. The \"shade\" underneath the sunroof was closed so I did not see it",
+          "On April 15th, 2019, Mazda made the public aware of Recall Campaign 3219D which involves a failure of the Front Body Control Module on Mazda 3 vehicles, which renders the front windshield wipers inope"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 0,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 11
+      },
+      {
+        "year": 2018,
+        "count": 20
+      },
+      {
+        "year": 2019,
+        "count": 8
+      },
+      {
+        "year": 2020,
+        "count": 18
+      },
+      {
+        "year": 2021,
+        "count": 15
+      },
+      {
+        "year": 2022,
+        "count": 15
+      },
+      {
+        "year": 2023,
+        "count": 23
+      },
+      {
+        "year": 2024,
+        "count": 18
+      },
+      {
+        "year": 2025,
+        "count": 15
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "17V744000",
+        "component": "TRAILER HITCHES",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2017 CX-5 vehicles equipped with an accessory trailer hitch wiring harness.  This harness may be routed such that there is insufficient clearance between the harness and the exhaust muffler, allowing the wiring harness to contact the muffl",
+        "report_date": "21/11/2017",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:38.634Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

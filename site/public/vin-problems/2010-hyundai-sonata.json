@@ -1,0 +1,168 @@
+{
+  "slug": "2010-hyundai-sonata",
+  "year": 2010,
+  "make": "Hyundai",
+  "model": "Sonata",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 345,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 164,
+        "share_pct": 47.5,
+        "excerpts": [
+          "External Handles made of plastic continue to break and do not allow access to open car doors",
+          "I have several recalls on my vehicle and the dealership only scrub and they did not replace the crossmember and other parts. I need help to see if this is OK",
+          "IN THE LAST THREE MONTHS, BOTH DRIVER'S SIDE DOOR HANDLES HAVE FALLEN OFF/BROKEN. IN THE FIRST INCIDENT (SEPT 2020), THE DRIVER'S SIDE REAR DOOR HANDLE BROKE OFF THE CAR WHEN I TRIED TO OPEN THE DOOR."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 30,
+        "share_pct": 8.7,
+        "excerpts": [
+          "I am contacting the NHTSA regarding a manufacturer's failure to comply with a NHTSA recall campaign. The campaign in question is #13V113000 for a 2010 Hyundai Sonata. The certified Hyundai service cen",
+          "CAR HAD UNSOLICITED ACCELERATION WHEN BACKING UP. CAR WENT FLYING BACK IN FULL ACCELERATION.  HIT RAILING/STAIRS.I PUT CAR IN PARK. THOUGHT I MUST HAVE HIT ACCELERATION BY MISTAKE SO I WENT TO PUT CAR",
+          "THE RIGHT REAR BRAKE BURNED UP THREE TIMES NOW HAD THE CALIPERS CHANGED TWO TIMES ON RIGHT SIDE ONCE ON LEFT SIDE  IN 90000 MILES THERE MUST BE A PROBLEM IN SYSTEM THAT'S INTERMENT I HAVE A NON CONTAC"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 29,
+        "share_pct": 8.4,
+        "excerpts": [
+          "Subject: Non-Collision Engine Compartment Fire - 2010 Hyundai Sonata (VIN: [XXX] )  ​\"On dec 19 2025, my 2010 Hyundai Sonata suffered a sudden, non-collision fire that originated in the engine compart",
+          "Car has had check engine light on for 3 + years. Have taken it to several mechanics including a Hyundai dealership and none of them can figure out what is wrong. Have replaced water pump, belts x2 in ",
+          "While driving 60–70 mph on [XXX] just north of Sylmar, I suddenly heard a loud, deep “pop” from the lower part of the car. Within seconds, the engine began steaming heavily and leaking oil everywhere."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 21,
+        "share_pct": 6.1,
+        "excerpts": [
+          "I am contacting the NHTSA regarding a manufacturer's failure to comply with a NHTSA recall campaign. The campaign in question is #13V113000 for a 2010 Hyundai Sonata. The certified Hyundai service cen",
+          "Rough jerking downshift transmission when stopping or slow down.",
+          "SUSPENSION AND TRANSMISSION FAULTY."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 20,
+        "share_pct": 5.8,
+        "excerpts": [
+          "TWO VERTICAL CRACKS ON EITHER SIDE OF THE PASSENGER SIDE AIRBAGS SHOWED UP THIS MORNING.  THE CAR HAS NOT BEEN IN ANY ACCIDENTS.  DUE THESE CRACKS I AM AFRAID THE AIRBAG WILL DEPLOY WITHOUT CAUSE WHEN",
+          "DASHBOARD ABOVE PASSENGER AIRBAG DEVELOPED (2) VERTICAL CRACKS WITHIN (24) HOURS WITHOUT INCIDENT.  THERE HAS BEEN NO CONTACT OR INCIDENT OF THE VEHICLE OR DASH AREA AT ISSUE. NOT SURE IF AIRBAG IS TR",
+          "TL* THE CONTACT OWNED A 2010 HYUNDAI SONATA. WHILE THE CONTACT'S DAUGHTER WAS DRIVING 30 MPH, THE VEHICLE BEGAN TO SLIDE ON BLACK ICE. AS A RESULT, THE VEHICLE CRASHED INTO THE REAR OF A PICK UP TRUCK"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 19,
+      "fires": 3,
+      "injuries": 19,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 23
+      },
+      {
+        "year": 2011,
+        "count": 7
+      },
+      {
+        "year": 2012,
+        "count": 20
+      },
+      {
+        "year": 2013,
+        "count": 53
+      },
+      {
+        "year": 2014,
+        "count": 56
+      },
+      {
+        "year": 2015,
+        "count": 45
+      },
+      {
+        "year": 2016,
+        "count": 37
+      },
+      {
+        "year": 2017,
+        "count": 27
+      },
+      {
+        "year": 2018,
+        "count": 24
+      },
+      {
+        "year": 2019,
+        "count": 16
+      },
+      {
+        "year": 2020,
+        "count": 15
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "13V113000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2006-2009 Accent, model year 2007-2011 Azera, Sonata and Sante Fe,2006-2011 Tucson, 2009-2011 Elantra Touring, 2007-2010 Elantra, 2008-2011 Veracruz, 2009-2011 Genesis, 2010-2011 Genesis Coupe, 2007-2008 Entourage, and  2006-2008 Tiburo",
+        "report_date": "01/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V354000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Hyundai is recalling certain model year 2006-2010 Sonata vehicles manufactured March 1, 2005, through January 21, 2010; and model year 2006-2011 Azera vehicles manufactured September 27, 2005, through November 22, 2010 originally sold in, or currently registered in, Connecticut, Delaware, Illinois, ",
+        "report_date": "12/08/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:51:46.236Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

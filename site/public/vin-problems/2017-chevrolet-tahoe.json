@@ -1,0 +1,156 @@
+{
+  "slug": "2017-chevrolet-tahoe",
+  "year": 2017,
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 173,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 53,
+        "share_pct": 30.6,
+        "excerpts": [
+          "My chevy tahoe vibrates when i drive and the dealership can not find the reason why it does that.",
+          "The contact owns a 2017 Chevrolet Tahoe. The contact stated that while driving approximately 15 MPH uphill in the mountains, the transmission started slipping, followed by a loud banging sound. The co",
+          "My 2017 Chevrolet Tahoe equipped with a 6L80 transmission began experiencing transmission-related drivability issues at approximately 130,000 miles. The vehicle jerked on takeoff, had delayed/slow shi"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 46,
+        "share_pct": 26.6,
+        "excerpts": [
+          "The contact owns a 2017 Chevrolet Tahoe. The contact stated that the vehicle was previously repaired under NHTSA Campaign Number: 19V645000 (Service Brakes, Hydraulic); however, the failure occurred a",
+          "It has happened several times when going slow the breaks get really hard to stop the vehicle. Otherwise breaks are new work well. One time I hit my garage as I tried to move it slightly forward. Anoth",
+          "My car has a problem This will be the 3rd visit to the Chevy dealership and the 6th time in a garage. At this time, the original alternator that came with the Tahoe, was running high through December "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 26,
+        "share_pct": 15,
+        "excerpts": [
+          "My chevy tahoe vibrates when i drive and the dealership can not find the reason why it does that.",
+          "The Active fuel management system caused the engine to fail",
+          "The contact owns a 2017 Chevrolet Tahoe. The contact stated that while driving approximately 15 MPH uphill in the mountains, the transmission started slipping, followed by a loud banging sound. The co"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 20,
+        "share_pct": 11.6,
+        "excerpts": [
+          "They radio screen and radio navigation system. It will run batteries down replaced 2 Batteries this year. Radio goes haywire changes channels, makes dinging sound, navigation goes off. Screen moves ju",
+          "Steering wheel locked - Available for Inspection - Can not Steer the vehicle - Diagnostic by independent service center - Unknown (Inspection by Manufacturer) - Massage  (Power Steering Assist- Drive ",
+          "Odometer Fraud. The contact purchased a 2017 Chevrolet Tahoe on February 21, 2026. The contact used another vehicle as a trade-in to purchase the vehicle. The contact stated that the odometer was reco"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 10,
+        "share_pct": 5.8,
+        "excerpts": [
+          "Air bag lights it’s on, I’m already went to a shop and they put the scanner and said that there’s no air bag   And transmission go out with 78xxx miles",
+          "Front passenger air bag warning light lit up during road trip to NM. (1400 miles) warning bell sounded. We were very concerned airbag would explode at any minute. This was second time airbag light wen",
+          "The contact owns a 2017 Chevrolet Tahoe. The contact stated that while stopped at a stop light, another vehicle crashed into the rear of the contact's vehicle. As a result, the contact’s vehicle shift"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 1,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 7
+      },
+      {
+        "year": 2018,
+        "count": 7
+      },
+      {
+        "year": 2019,
+        "count": 18
+      },
+      {
+        "year": 2020,
+        "count": 20
+      },
+      {
+        "year": 2021,
+        "count": 24
+      },
+      {
+        "year": 2022,
+        "count": 26
+      },
+      {
+        "year": 2023,
+        "count": 29
+      },
+      {
+        "year": 2024,
+        "count": 16
+      },
+      {
+        "year": 2025,
+        "count": 13
+      },
+      {
+        "year": 2026,
+        "count": 12
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "19V645000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2017 Cadillac Escalade, 2014-2018 Chevrolet Silverado, GMC Sierra, 2015-2018 Chevrolet Suburban, Tahoe, GMC Yukon vehicles.  The amount of vacuum created by the vacuum pump may decrease over time.",
+        "report_date": "06/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V761000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is tra",
+        "report_date": "24/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V651000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015-2017 Chevrolet Silverado 2500 HD, 3500 HD, Tahoe, Suburban,  GMC Sierra 2500 HD and 3500 HD, GMC Yukon, GMC Yukon XL, Cadillac Escalade and Cadillac Escalade ESV vehicles and 2014-2017 Chevrolet Corvette, Silverado 1500, Trax, Caprice Poli",
+        "report_date": "08/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V289000",
+        "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+        "summary": "General Motors, LLC (GM) is recalling certain 2026 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, and GMC Sierra 1500, Yukon, and Yukon XL vehicles with four-wheel (4WD) or all-wheel drive (AWD), and certain 2015-2020 Suburban, Escalade, Escalade ESV, Yukon, Yukon",
+        "report_date": "07/05/2026",
+        "park_it": true,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:00.878Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

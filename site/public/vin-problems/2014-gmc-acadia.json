@@ -1,0 +1,192 @@
+{
+  "slug": "2014-gmc-acadia",
+  "year": 2014,
+  "make": "GMC",
+  "model": "Acadia",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 466,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 245,
+        "share_pct": 52.6,
+        "excerpts": [
+          "Unknown",
+          "The contact owned a 2014 GMC Acadia. The contact stated that while driving at an undisclosed speed, the contact was avoiding crashing into another vehicle when the contact's vehicle crashed into a tre",
+          "called dealer faulkner gmc multiple times while recall was in force they kept saying they would schedule me when part was available found out that recall was over never got the airbag replaced this is"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 91,
+        "share_pct": 19.5,
+        "excerpts": [
+          "On Sunday June 7, 2026 my husband drove our 2014 GMC Acadia to work. We both work at MSY - Louis Armstrong New Orleans International Airport for United Airlines. After he parked in the employee garage",
+          "Unknown",
+          "The contact owns a 2014 GMC Acadia. The contact stated that while driving approximately 20 MPH, the transmission shifted from 2nd gear to 3rd gear, and the vehicle shuddered before shifting. The failu"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 46,
+        "share_pct": 9.9,
+        "excerpts": [
+          "The contact owns a 2014 GMC Acadia. The contact stated that while in park(P), the vehicle rolled, requiring the driver to turn off and restart the vehicle, and the vehicle successfully shifted in park",
+          "Engine randomly shuts off when driving for no reason. Will restart and check engine light comes on.  Has now happened three times , twice to me in traffic. One of those the car went into a limp mode w",
+          "After I put my car in park my daughter and I were still in the vehicle for a few minutes getting our things with the engine still running. I got out to get something from the back seat, my daughter go"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 34,
+        "share_pct": 7.3,
+        "excerpts": [
+          "The contact owns a 2014 GMC Acadia. The contact stated that while in park(P), the vehicle rolled, requiring the driver to turn off and restart the vehicle, and the vehicle successfully shifted in park",
+          "My 2014 GMC Acadia constantly displays “Service Stabilitrak,” “Service Traction Control,” ABS, brake, and check-engine warning lights. The vehicle will not accelerate past 40 mph under normal driving.",
+          "2014 GMC Acadia Denali  When accelerating the car is sputtering and slipping. The RPMs are increased. There is a delay in shifting and it is rough. The car jerks and has a pause when accelerating.  Th"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 26,
+        "share_pct": 5.6,
+        "excerpts": [
+          "The rack unit is going out. It makes the vehicle suddenly jerk to the left at highway speeds. It could cause a collision if there is a car on the left or a head on collision if on a two lane road. It ",
+          "The contact owns a 2014 GMC Acadia. The contact stated that while driving at various speeds and making a turn, there was an abnormal grinding sound coming from the vehicle. There were no warning light",
+          "My wife was driving our 2014 GMC Acadia to work. She stopped to fuel up her car about 4 miles from home. She left the gas station and proceeded to head to work. She called me (her husband) in a panic "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 15,
+      "fires": 2,
+      "injuries": 17,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 8
+      },
+      {
+        "year": 2014,
+        "count": 34
+      },
+      {
+        "year": 2015,
+        "count": 17
+      },
+      {
+        "year": 2016,
+        "count": 26
+      },
+      {
+        "year": 2017,
+        "count": 23
+      },
+      {
+        "year": 2018,
+        "count": 31
+      },
+      {
+        "year": 2019,
+        "count": 48
+      },
+      {
+        "year": 2020,
+        "count": 24
+      },
+      {
+        "year": 2021,
+        "count": 17
+      },
+      {
+        "year": 2022,
+        "count": 28
+      },
+      {
+        "year": 2023,
+        "count": 121
+      },
+      {
+        "year": 2024,
+        "count": 62
+      },
+      {
+        "year": 2025,
+        "count": 19
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "14V266000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors is recalling certain model year 2009-2014 Buick Enclave vehicles manufactured April 14, 2008, through May 14, 2014, Chevrolet Traverse vehicles manufactured June 6, 2008, through May 14, 2014, and GMC Acadia vehicles manufactured April 9, 2008, through May 14, 2014, and 2009-2010 Satu",
+        "report_date": "20/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V223000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014 Buick Enclave, Chevrolet Traverse, and GMC Acadia vehicles manufactured March 26, 2013, through August 15, 2013.  In the affected vehicles, the engine control module (ECM) software may cause the fuel gauge to read inaccurately.",
+        "report_date": "30/04/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V092000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014 Buick Regal, LaCrosse, Verano, and Enclave, and Chevrolet  Impala, Malibu, Cruze, and Traverse, and GMC Acadia vehicles equipped with automatic transmissions.  In the affected vehicles, the transmission shift cable adjuster may disengage f",
+        "report_date": "21/02/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V614000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2013-2014 Cadillac CTS, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, GMC Yukon, and Yukon XL, and 2014 Buick Enclave, Chevrolet Express, Impala, Silverado HD, Traverse, GMC Acadia, Savana, and Sierra HD vehicles.  In the affected vehicles",
+        "report_date": "01/10/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V246000",
+        "component": "AIR BAGS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2015, 2017 Buick Enclave, 2010-2019 Chevrolet Traverse, and 2011-2016 GMC Acadia vehicles.  The side curtain air bags may not be properly attached.",
+        "report_date": "08/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V334000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014-2017 Buick Enclave, Chevrolet Traverse, and GMC Acadia vehicles.  The driver's air bag inflator may explode during deployment, due to a manufacturing defect.",
+        "report_date": "10/05/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:58:49.592Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

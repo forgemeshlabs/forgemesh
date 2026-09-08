@@ -1,0 +1,288 @@
+{
+  "slug": "2021-tesla-model-3",
+  "year": 2021,
+  "make": "Tesla",
+  "model": "Model 3",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 657,
+    "top_failure_components": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 406,
+        "share_pct": 61.8,
+        "excerpts": [
+          "Tesla replaced the windshield on my 2021 Model 3 at the Tesla Service Center in Schaumburg, IL. Days after the installation, following a light rain, a film appeared on the exterior surface of the glas",
+          "The adaptive cruise control on Tesla vehicles is dangerous. The model in question is a 2021 Model 3 but its an issue with many model years.   The cruise control tends to get confused and applies the b",
+          "On July 1, 2026, the vehicle was serviced by the manufacturer for GPS and camera malfunctions, and the vehicle computer was replaced. On the morning of July 2, 2026, during the first use of Autopilot "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 125,
+        "share_pct": 19,
+        "excerpts": [
+          "The forward-facing camera and Autopilot computer system on my 2021 Tesla Model 3 has failed. The dashboard first showed intermittent warnings that \"Automatic Emergency Braking is currently unavailable",
+          "I drove into my neighbor’s driveway to drop her off. As I slowed down and applied the brakes to stop, the car failed to respond. It continued forward, running over the flower and plant pots at the edg",
+          "What component or system failed or malfunctioned, and is it available for inspection upon request?  - ABS, Automatic Emergency Braking, Traction Control, Stability Control failed while braking using t"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 123,
+        "share_pct": 18.7,
+        "excerpts": [
+          "The forward-facing camera and Autopilot computer system on my 2021 Tesla Model 3 has failed. The dashboard first showed intermittent warnings that \"Automatic Emergency Braking is currently unavailable",
+          "When using cruise control, there has been 4 times that the car has engaged in  “phantom braking”. We were driving on highways going the posted speed limit of 70 mph, when the car suddenly slammed on t",
+          "2 problems 1,Phantom braking when cruise control is activated.  2, There's no rear door mechanical release in the event of a electrical power failure in the event of R.T.A"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 76,
+        "share_pct": 11.6,
+        "excerpts": [
+          "The high voltage battery on my 2021 Tesla Model 3 Standard Range suddenly failed without any prior warning or gradual degradation. The vehicle was consistently achieving approximately 180 miles of ran",
+          "The contact owns a 2021 Tesla Model 3. The contact stated that while the vehicle was set to Self-Driving Mode, the vehicle suddenly stopped abruptly without the brake pedal depressed. The contact depr",
+          "This is my fourth high voltage battery failure on this vehicle. Battery replacements occurred at approximately 13,000 miles, 60,000 miles, 96,000 miles, and now at 121,000 miles. The first failure occ"
+        ]
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "complaints": 31,
+        "share_pct": 4.7,
+        "excerpts": [
+          "I was driving down Interstate 635  Lane Departure Assist on my 2021 Model 3   pulls me  into the lane it senses im departing into when system is set to \"assist\"  (if vehicle sense  im  straying into t",
+          "Component: Lane Support System — Emergency Lane Keeping (ELK) Part of standard Autopilot safety suite (not FSD) activated without valid lane detection data and pushed the vehicle into the oncoming lan",
+          "On July 1, 2026, the vehicle was serviced by the manufacturer for GPS and camera malfunctions, and the vehicle computer was replaced. On the morning of July 2, 2026, during the first use of Autopilot "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 45,
+      "fires": 5,
+      "injuries": 19,
+      "deaths": 8
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1976,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 2
+      },
+      {
+        "year": 2021,
+        "count": 134
+      },
+      {
+        "year": 2022,
+        "count": 296
+      },
+      {
+        "year": 2023,
+        "count": 92
+      },
+      {
+        "year": 2024,
+        "count": 58
+      },
+      {
+        "year": 2025,
+        "count": 42
+      },
+      {
+        "year": 2026,
+        "count": 32
+      }
+    ]
+  },
+  "recalls": {
+    "count": 22,
+    "recalls": [
+      {
+        "campaign_number": "22V037000",
+        "component": "ELECTRICAL SYSTEM:ADAS:AUTONOMOUS/SELF DRIVING:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2016-2022 Model S and Model X, 2017-2022 Model 3, and 2020-2022 Model Y vehicles.  The \"rolling stop\" functionality available as part of the Full Self-Driving (Beta) software may allow the vehicle to travel through an all-way stop intersection without first c",
+        "report_date": "27/01/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V834000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2020-2021, 2023 Model 3 vehicles.  The left and/or right side curtain air bag may have been improperly secured to the roof rail, which could result in a twisted air bag.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Sa",
+        "report_date": "25/10/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V835000",
+        "component": "SUSPENSION:CRITICAL FASTENERS",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2020-2021 Model Y and 2019-2021 Model 3 vehicles.  The front suspension lateral link fasteners may loosen, allowing the lateral link to separate from the sub-frame.",
+        "report_date": "25/10/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V045000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2021-2022 Model S and Model X, 2017-2022 Model 3, and 2020-2022 Model Y vehicles.  The audible chime may not activate when the vehicle starts and the driver has not buckled their seat belt.  As such, these vehicles fail to comply with the requirements of Fede",
+        "report_date": "01/02/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V387000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2019-2021 Model 3 and 2020-2021 Model Y vehicles.  The brake caliper bolts may be loose, allowing the brake caliper to separate and contact the wheel rim.",
+        "report_date": "25/05/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V846000",
+        "component": "FORWARD COLLISION AVOIDANCE: SENSING SYSTEM: CAMERA",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2017-2021 Model S, Model 3, Model X, and 2020-2021 Model Y vehicles operating software version 2021.36.5.2.  A communication error may cause false forward-collision warning (FCW) or unexpected activation of the automatic emergency brake (AEB) system.",
+        "report_date": "29/10/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V050000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2021-2022 Model 3, Model S, Model X, and 2020-2022 Model Y vehicles.  A software error may cause a valve in the heat pump to open unintentionally and trap the refrigerant inside the evaporator, resulting in decreased defrosting performance.  As such, these ve",
+        "report_date": "02/02/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V063000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2020-2022 Model S, Model X, Model Y, and 2017-2022 Model 3 vehicles.  The Boombox function allows sounds to be played through an external speaker while the vehicle is in motion, which may obscure the Pedestrian Warning System (PWS) sounds.  As such, these veh",
+        "report_date": "04/02/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V235000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2020-2022 Model Y, Model X, Model S, and 2017-2022 Model 3 vehicles.  The Boombox function allows sounds to be played through an external speaker while the vehicle is in motion, which may obscure the Pedestrian Warning System (PWS) sounds.  As such, these veh",
+        "report_date": "12/04/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V263000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2018-2022 Model 3 Performance vehicles.  The unit of speed (mph or km/h) may fail to display on the speedometer while in Track Mode.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 101, \"Control an",
+        "report_date": "18/04/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V317000",
+        "component": "FORWARD COLLISION AVOIDANCE: AUTOMATIC EMERGENCY BRAKING",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2020-2021 Model 3 and 2021 Model Y vehicles.  The fisheye and narrow camera cable terminals were incorrectly installed in the cable harness connector, resulting in swapped camera views.",
+        "report_date": "09/05/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V702000",
+        "component": "VISIBILITY:POWER WINDOW DEVICES AND CONTROLS",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2017-2022 Model 3, 2020-2022 Model Y, and 2021-2022 Model S and Model X vehicles.  The window automatic reversal system may not react correctly after detecting an obstruction.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehi",
+        "report_date": "19/09/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V798000",
+        "component": "SEAT BELTS:REAR/OTHER:ANCHORAGE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2017-2022 Model 3 vehicles.  The second-row left seat belt buckle and second-row center seat\r\nbelt anchor may have been incorrectly reassembled during vehicle service.",
+        "report_date": "21/10/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V085000",
+        "component": "STEERING:AUTOMATED/ADAPTIVE STEERING",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2016-2023 Model S, Model X, 2017-2023 Model 3, and 2020-2023 Model Y vehicles equipped with Full Self-Driving Beta (FSD Beta) software or pending installation.  The FSD Beta system may allow the vehicle to act unsafe around intersections, such as traveling st",
+        "report_date": "15/02/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V838000",
+        "component": "ELECTRICAL SYSTEM:ADAS:AUTONOMOUS/SELF DRIVING:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling 2012-2023 Model S, 2016-2023 Model X, 2017-2023 Model 3, and 2020-2023 Model Y vehicles equipped with all versions of Autosteer leading up to the version(s) that contains the recall remedy.  In certain circumstances when Autosteer is engaged, the prominence and scope",
+        "report_date": "12/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V051000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2012-2023 Model S, 2016-2024 Model X, 2017-2023 Model 3, 2019-2024 Model Y, and 2024 Cybertruck vehicles.  An incorrect font size is displayed on the instrument panel for the Brake, Park, and Antilock Brake System (ABS) warning lights.  As such, these vehicle",
+        "report_date": "30/01/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V153000",
+        "component": "FORWARD COLLISION AVOIDANCE: WARNINGS:EXTERNAL/PEDESTRIAN ALERT",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2013, 2018-2021 Model S, 2020-2021 Model X, 2018-2022 Model 3, and 2020-2022 Model Y vehicles.  A factory reset muted the Pedestrian Warning System (PWS) sounds.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Sta",
+        "report_date": "27/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V376000",
+        "component": "SEAT BELTS:FRONT:WARNING LIGHT/DEVICES",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2012-2024 Model S, 2015-2024 Model X, 2017-2023 Model 3, and 2020-2023 Model Y vehicles.  In the event of an unbelted driver, the seat belt warning light and audible chime may not activate as intended.  As such, these vehicles fail to comply with the requirem",
+        "report_date": "28/05/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V554000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2021-2024 Model 3, Model S, Model X, and 2020-2024 Model Y vehicles.  The hood latch assembly may fail to detect an unlatched hood condition after the hood has been opened.",
+        "report_date": "24/07/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V935000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2024 Cybertruck, 2017-2025 Model 3, and 2020-2025 Model Y vehicles.  The tire pressure monitoring system (TPMS) warning light may not remain illuminated between drive cycles, failing to warn the driver of low tire pressure.  As such, these vehicles fail to co",
+        "report_date": "17/12/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V283000",
+        "component": "BACK OVER PREVENTION:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2017, 2021-2023 Model 3, 2020-2023 Model Y, 2021-2023 Model S, and Model X vehicles operating software version 2026.8.6. The rearview camera image may be delayed when the vehicle is placed in reverse. As such, these vehicles fail to comply with the requiremen",
+        "report_date": "05/05/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V507000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2017-2023 Model 3 and 2020-2023 Model Y vehicles. The headlight low beams may be too bright and exceed the maximum light output. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 108, \"Lamps, ",
+        "report_date": "05/08/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:57.282Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

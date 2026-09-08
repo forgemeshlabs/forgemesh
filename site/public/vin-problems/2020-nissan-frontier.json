@@ -1,0 +1,127 @@
+{
+  "slug": "2020-nissan-frontier",
+  "year": 2020,
+  "make": "Nissan",
+  "model": "Frontier",
+  "matched_as": {
+    "complaints": [
+      "FRONTIER KING CAB",
+      "FRONTIER CREW CAB"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 46,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 24,
+        "share_pct": 52.2,
+        "excerpts": [
+          "Crank bolt snapped causing  me to loose power steering,  a part failed that shouldn't have .I have the bolt looks like in was cracked  when they put it together,  it was only on by about three threads",
+          "The 9 speed automatic transmission suffered a catastrophic internal failure (codes PO893 and PO876), forcing the vehicle into limp mode.  The vehicle loses propulsion unexpectedly in traffic, and the ",
+          "Hello, I was an owner of a new 2020 Nissan Frontier pro4x. My vehicle had 33,000 miles, garaged in the winter and never used for towing. All minor maintenance were performed at a certified Nissan deal"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 10,
+        "share_pct": 21.7,
+        "excerpts": [
+          "Crank bolt snapped causing  me to loose power steering,  a part failed that shouldn't have .I have the bolt looks like in was cracked  when they put it together,  it was only on by about three threads",
+          "UNKNOWNI want to report my repossessed car and hold Santander Consumer USA responsible because they sold my car without my consent and not only that, report the fraud of the sale of the same car that ",
+          "Vehicle alternator failed at 79,000 miles. Instead of shutting off, vehicle disabled the cooling fans but kept the engine and fuel supply systems running leading to the vehicle overheating during diag"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 8,
+        "share_pct": 17.4,
+        "excerpts": [
+          "Nissan Frontier won’t engage into park parking prowl issue I’ve looked it up on google but my vin doesn't say there is a recall for my truck. Can we get a full recall for the 2020’s ?",
+          "The contact owns a 2020 Nissan Frontier. The contact stated that while driving at various highway speeds, the brake system was erroneously activated causing the vehicle to reduce speeds. The vehicle w",
+          "The contact owns a 2020 Nissan Frontier. The contact stated while driving 55 MPH, there was a loud grinding sound coming from the brakes. There was no warning light illuminated. The vehicle was taken "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 6,
+        "share_pct": 13,
+        "excerpts": [
+          "Vehicle alternator failed at 79,000 miles. Instead of shutting off, vehicle disabled the cooling fans but kept the engine and fuel supply systems running leading to the vehicle overheating during diag",
+          "The contact owns a 2020 Nissan Frontier. The contact stated that upon starting the vehicle, the check engine warning light illuminated. The vehicle was taken to the dealer where it was purchased but t",
+          "The contact owns a 2020 Nissan Frontier. The contact stated that since purchasing the vehicle, the dashboard lights were significantly dim, affecting his visibility of the speedometer while driving. T"
+        ]
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "complaints": 4,
+        "share_pct": 8.7,
+        "excerpts": [
+          "UNKNOWNI want to report my repossessed car and hold Santander Consumer USA responsible because they sold my car without my consent and not only that, report the fraud of the sale of the same car that ",
+          "There are 3 incidents thus far.  ***I have video confirmation of these incidents***  First, I had parked my vehicle at a gas pump, put my vehicle in park, and locked the vehicle. Apparently, as I walk",
+          "UNKNOWNI want to report my repossessed car and hold Santander Consumer USA responsible because they sold my car without my consent and not only that, report the fraud of the sale of the same car that "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 0,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 2
+      },
+      {
+        "year": 2021,
+        "count": 6
+      },
+      {
+        "year": 2022,
+        "count": 12
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 10
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "22V457000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2020-2022 Frontier and Titan vehicles.  The transmission parking pawl may not engage when the vehicle is shifted into park, which can result in a vehicle rollaway.",
+        "report_date": "24/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V671000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2020-2023 Titan, 2020-2022 Frontier, and 2023 Z vehicles.  The transmission parking pawl may not engage when the vehicle is shifted into park, which can result in a vehicle rollaway.",
+        "report_date": "07/09/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:05:09.924Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

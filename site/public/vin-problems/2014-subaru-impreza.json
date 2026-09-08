@@ -1,0 +1,160 @@
+{
+  "slug": "2014-subaru-impreza",
+  "year": 2014,
+  "make": "Subaru",
+  "model": "Impreza",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 108,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 38,
+        "share_pct": 35.2,
+        "excerpts": [
+          "After driving for about an hour stopped a light and accelerated to proceed and drivers side air bag exploded.  Subaru states it was my fault because “dirt” got in the system.  Refused to cover replace",
+          "The contact owned a 2014 Subaru Impreza. The contact stated that while his wife was driving approximately 20 mph for unknown reasons, she veered off the road into a  ditch, rolled over, and crashed in",
+          "Passenger airbag turned off while driving with an adult passenger in seat. Pull over and turn car off it will be on again. Will happen completely at random when driving, not that often but about once "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 20,
+        "share_pct": 18.5,
+        "excerpts": [
+          "Vehicle Production Date: January 2014 Related Recall: Subaru WTM-73 / NHTSA ID 16V738 (revised July 11, 2017 as WTM-73R) Recall Coverage Production End Date: September 13, 2013 Mileage at First Incide",
+          "I was driving in my car had lost of power n started to make a noise n ALLL that so eather valve spring broke then messed up rod bearings n now to the point I can't drive my vehicle is like to know wha",
+          "While driving on the highway in Denver, the engine stalled - I later learned that a valve spring broke and went through the engine, destroying it. I lost all power - lost braking - but was able to ste"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 17,
+        "share_pct": 15.7,
+        "excerpts": [
+          "Cabin blower fan stopped working.  Faint burned plastic smell. Starting with the blower motor, I worked backwards.  The Blower Motor Resistor showed significant wear, which I replaced. After checking ",
+          "When I put my vehicle into park and try to remove the key, it becomes stuck in the vehicle every time due to a failing park position switch. This is a known issue to Subaru and should warrant a recall",
+          "Key won't completely shut off car of come out of ignition."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 9,
+        "share_pct": 8.3,
+        "excerpts": [
+          "I am filing a complaint regarding a known issue with the CVT transmission in my 2014 Subaru Impreza, currently at approximately 80,000 miles. The CVT has started making a loud whining noise while driv",
+          "To whom this may concern, My name is [XXX] . I purchased my 2014 Subaru on December 13th, 2013.  My car has 57,000 miles on it. It has loss of acceleration when entering a freeway. I push on the gas p",
+          "The transmission on my 2014 Subaru Impreza failed suddenly while I was driving about 70 mph in the middle lane of the interstate. My car began to decelerate rapidly, and I lost all ability to accelera"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 8,
+        "share_pct": 7.4,
+        "excerpts": [
+          "Unknown",
+          "The contact owns a 2014 Subaru Impreza. The contact stated that while the vehicle was parked and running, the doors automatically locked with her children inside the vehicle. The contact stated that t",
+          "The hood latch opens while driving."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 16,
+      "fires": 0,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1918,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 11
+      },
+      {
+        "year": 2015,
+        "count": 7
+      },
+      {
+        "year": 2016,
+        "count": 8
+      },
+      {
+        "year": 2017,
+        "count": 11
+      },
+      {
+        "year": 2018,
+        "count": 7
+      },
+      {
+        "year": 2019,
+        "count": 17
+      },
+      {
+        "year": 2020,
+        "count": 10
+      },
+      {
+        "year": 2021,
+        "count": 13
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 10
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "19V149000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2014-2016 Forester, 2008-2016 Impreza sedans, 2012-2016 Impreza station wagons, 2008-2014 WRX sedans (including STI), and 2013-2017 Crosstrek vehicles.  Exposure to certain contaminants may cause the brake light switch to malfunction, preventing ",
+        "report_date": "28/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V772000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2012-2014 Subaru Impreza, 2012-2013 Impreza Stationwagon, 2013 Subaru BRZ, XV Crosstrek and Toyota Scion FR-S vehicles.  The engine valve springs in these vehicles may fracture causing an engine malfunction or a possible engine stall.",
+        "report_date": "01/11/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V738000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2007-2009 model year Legacy and Outback vehicles, 2008-2014 Impreza vehicles and 2009-2013 Forester vehicles, all equipped with turbo-charged engines.  The relay that controls the secondary air injection pump may fail, causing the pump",
+        "report_date": "13/10/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:58:10.974Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

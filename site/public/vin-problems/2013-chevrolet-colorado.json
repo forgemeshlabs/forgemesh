@@ -1,0 +1,49 @@
+{
+  "slug": "2013-chevrolet-colorado",
+  "year": 2013,
+  "make": "Chevrolet",
+  "model": "Colorado",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 1,
+        "share_pct": 100,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2013 CHEVROLET COLORADO. WHILE DRIVING VARIOUS SPEEDS, THE TRANSMISSION WOULD INDEPENDENTLY SHIFT FROM SIXTH TO THIRD GEAR. THE CONTACT STATED THAT THE FAILURE ONLY OCCURRED WHE"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 1,
+        "share_pct": 100,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2013 CHEVROLET COLORADO. WHILE DRIVING VARIOUS SPEEDS, THE TRANSMISSION WOULD INDEPENDENTLY SHIFT FROM SIXTH TO THIRD GEAR. THE CONTACT STATED THAT THE FAILURE ONLY OCCURRED WHE"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 0,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T19:57:45.817Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "2021-toyota-tacoma",
+  "year": 2021,
+  "make": "Toyota",
+  "model": "Tacoma",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 79,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 13,
+        "share_pct": 16.5,
+        "excerpts": [
+          "There are three concerns in this write up: at 117000 miles the blind spot monitoring system has fails and will cost $300 to repair. More concerning is that it was recommended I replace the Power Steer",
+          "The contact owns a 2021 Toyota Tacoma. The contact stated that while driving 10 MPH, after depressing the accelerator pedal and then attempting to depress the brake pedal to make a left turn, the vehi",
+          "Transmission constantly seeking a gear usually 5th to 6th while using Cruize control. At times over-reving to near redline. End up having to manuall downshift to fourth back and fourt to drive. End up"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 12,
+        "share_pct": 15.2,
+        "excerpts": [
+          "Brake master cylinder is leaking in the interior of truck on driver side floor mat.  Oil is come from brake master cylinder seal.",
+          "when I push the brake pedal, it goes to the floor. I have had the brakes and master cylinder replaced. after about one month the brakes started failing again. I am going to take it back to the mechani",
+          "truck is under 20 thousand miles right front brake shoes are loose and not in place. the whole brake assembly  is completely rusted .brake lines are leaking."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 11,
+        "share_pct": 13.9,
+        "excerpts": [
+          "Having two issues major issues that’s causing me a $10,000 bill. The timing cover is leaking and there is a coolant bypass hose that is leaking. I have spend a lot of maintenance on this truck on main",
+          "The plastic coolant crossover valve or pipe failed at 66,000 miles and 5 years of usage. This led to the radiator cracking. After researching online, I read about thousands of Tacoma 3rd generation us",
+          "2021 Toyota Tacoma OR coolant bypass joint leaks at only 47800 miles. The cost of repair is $1490.36"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 9,
+        "share_pct": 11.4,
+        "excerpts": [
+          "Having two issues major issues that’s causing me a $10,000 bill. The timing cover is leaking and there is a coolant bypass hose that is leaking. I have spend a lot of maintenance on this truck on main",
+          "FRONT RADAR RECALL- NO BACK COVER AND GOES DEFECTIVE",
+          "Auto Emergency Braking has gotten extremely dangerous and locking breaks when nothing is in front of me.  Always while in cruise control mode.  On long extended highways, the truck will randomly slam "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 9,
+        "share_pct": 11.4,
+        "excerpts": [
+          "The Multi-Information Display (MID) on the instrument cluster (combination meter) has failed completely. The display shows full-width horizontal RGB scan lines across the entire screen with no readabl",
+          "Digital instrument panel speedometer screen has gone blank. No longer displays speed. This occurred while driving the vehicle.",
+          "When vehicle is driven at 85 mph (cruise control set) speedometer jolts. Speed must be reduced to 84 to resolve issue."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 0,
+      "injuries": 15,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 2
+      },
+      {
+        "year": 2021,
+        "count": 22
+      },
+      {
+        "year": 2022,
+        "count": 14
+      },
+      {
+        "year": 2023,
+        "count": 9
+      },
+      {
+        "year": 2024,
+        "count": 10
+      },
+      {
+        "year": 2025,
+        "count": 12
+      },
+      {
+        "year": 2026,
+        "count": 10
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T20:06:05.560Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

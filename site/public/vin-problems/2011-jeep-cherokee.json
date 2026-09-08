@@ -1,0 +1,212 @@
+{
+  "slug": "2011-jeep-cherokee",
+  "year": 2011,
+  "make": "Jeep",
+  "model": "Cherokee",
+  "matched_as": {
+    "complaints": [
+      "GRAND CHEROKEE"
+    ],
+    "recalls": [
+      "GRAND CHEROKEE"
+    ]
+  },
+  "failures": {
+    "total_complaints": 1638,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 779,
+        "share_pct": 47.6,
+        "excerpts": [
+          "On February 3, Tuesday drove home from work. The battery light came on. I Drove to AutoZone and they placed it on Diagnostic reader. The diagnostic reader said that the battery had no charge. They tol",
+          "My right side suspension has a hard time coming up and I can hear it then it eventually get to right level and my car is freaking out have every light come on and the windshield wipers but it doesn't ",
+          "Started Jeep and after driver info cycled through on dash, the battery warning light came on. Battery had been replaced by local Jeep dealer within last 12 months.  Contacted dealer, Keller Motors, wh"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 350,
+        "share_pct": 21.4,
+        "excerpts": [
+          "The contact owns a 2011 Jeep Grand Cherokee. The contact stated while driving at an undisclosed speed, the brake pedal was depressed, and the contact heard a loud hissing sound. There was no warning l",
+          "The contact owns a 2011 Jeep Grand Cherokee. The contact stated that the brake pedal depressed to the floorboard without warning while attempting to stop the vehicle. The vehicle was taken to an indep",
+          "The contact owns a 2011 Jeep Grand Cherokee. The contact stated that the brake pedal depressed to the floorboard without warning while attempting to stop the vehicle. The vehicle was taken to an indep"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 343,
+        "share_pct": 20.9,
+        "excerpts": [
+          "The car shut off and I can’t get it back on it does not jump I tried replacing the alternator but that’s not it",
+          "Car has died while driving 4 times in the last 3 years. Complete loss of power WHILE driving. Lost of power steering, loss of brakes while driving. Chrystler is saying recall was resolved by previous ",
+          "On February 3, Tuesday drove home from work. The battery light came on. I Drove to AutoZone and they placed it on Diagnostic reader. The diagnostic reader said that the battery had no charge. They tol"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 247,
+        "share_pct": 15.1,
+        "excerpts": [
+          "The car shut off and I can’t get it back on it does not jump I tried replacing the alternator but that’s not it",
+          "Car has died while driving 4 times in the last 3 years. Complete loss of power WHILE driving. Lost of power steering, loss of brakes while driving. Chrystler is saying recall was resolved by previous ",
+          "I had a recall for my 2011 Jeep grand Cherokee to repair a faulty fuel pump relay causing hard starting now it’s starting to intermittently do the same thing sometimes starts right up then sometimes w"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 90,
+        "share_pct": 5.5,
+        "excerpts": [
+          "Transfer case chain making terrible noise under the drivers side",
+          "The contact owns a 2011 Jeep Grand Cherokee. The contact stated that while driving at an undisclosed speed, the vehicle inadvertently lost motive power. The contact was able to pull to the shoulder of",
+          "The contact owns a 2011 Jeep Grand Cherokee. The contact stated while driving at various speeds, the vehicle stalled. The vehicle was towed to the dealer who diagnosed that the fuel pump relay was fau"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 53,
+      "fires": 61,
+      "injuries": 47,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1998,
+        "count": 1
+      },
+      {
+        "year": 2000,
+        "count": 1
+      },
+      {
+        "year": 2003,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 8
+      },
+      {
+        "year": 2011,
+        "count": 40
+      },
+      {
+        "year": 2012,
+        "count": 32
+      },
+      {
+        "year": 2013,
+        "count": 136
+      },
+      {
+        "year": 2014,
+        "count": 524
+      },
+      {
+        "year": 2015,
+        "count": 150
+      },
+      {
+        "year": 2016,
+        "count": 124
+      },
+      {
+        "year": 2017,
+        "count": 103
+      },
+      {
+        "year": 2018,
+        "count": 120
+      },
+      {
+        "year": 2019,
+        "count": 143
+      },
+      {
+        "year": 2020,
+        "count": 101
+      },
+      {
+        "year": 2021,
+        "count": 62
+      },
+      {
+        "year": 2022,
+        "count": 26
+      },
+      {
+        "year": 2023,
+        "count": 27
+      },
+      {
+        "year": 2024,
+        "count": 22
+      },
+      {
+        "year": 2025,
+        "count": 10
+      },
+      {
+        "year": 2026,
+        "count": 7
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "19V813000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2013 Dodge Durango and Jeep Grand Cherokee vehicles equipped with a 3.6, 5.7, or 6.4 liter engine and previously recalled under NHTSA Recall 14V530 or 15V115.  The fuel pump relay inside the Totally Integrated Power Module (TIPM-7) may fail, causing th",
+        "report_date": "14/11/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V572000",
+        "component": "SERVICE BRAKES",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2014 Dodge Durango and Jeep Grand Cherokee vehicles.  The affected vehicles had brake booster shields installed under a previous campaign to prevent water from entering the brake booster and limiting braking ability.  This recall is to verify that the ",
+        "report_date": "18/09/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V154000",
+        "component": "SERVICE BRAKES",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Jeep Grand Cherokee and Dodge Durango vehicles manufactured from January 5, 2010, through September 8, 2013.  The subject vehicles have a brake booster with a center shell that may corrode and allow water to get inside.",
+        "report_date": "01/04/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V391000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Dodge Durango and Jeep Grand Cherokee vehicles manufactured January 5, 2010, through December 11, 2013.  In the affected vehicles, the wiring for the vanity lamp in the sun visor may short circuit, after a service repair is perf",
+        "report_date": "02/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V879000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2013 Dodge Durango and Jeep Grand Cherokee vehicles manufactured December 3, 2009, to September 1, 2012.  In the affected vehicles, the wiring for the vanity lamp in the sun visor may short circuit, after having been remedied for a prior rec",
+        "report_date": "28/12/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V530000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011 Dodge Durango and Jeep Grand Cherokee vehicles manufactured January 5, 2010, to July 20, 2011, and equipped with either a 3.6L or 5.7L engine.  In the affected vehicles, the fuel pump relay inside the Totally Integrated Power Module ",
+        "report_date": "04/09/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:54:18.451Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

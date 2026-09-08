@@ -1,0 +1,41 @@
+{
+  "slug": "2009-kia-forte",
+  "year": 2009,
+  "make": "Kia",
+  "model": "Forte",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 1,
+        "share_pct": 100,
+        "excerpts": [
+          "NOISE WHEN TURNO ON THE IGNICIN MOTOR...NOISE IN THE TIMING CHAIN.   .  3.8L"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 0,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T19:49:38.674Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

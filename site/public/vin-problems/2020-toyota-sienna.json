@@ -1,0 +1,128 @@
+{
+  "slug": "2020-toyota-sienna",
+  "year": 2020,
+  "make": "Toyota",
+  "model": "Sienna",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 38,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 8,
+        "share_pct": 21.1,
+        "excerpts": [
+          "My Toyota sienna is a 2020, has 83,000 miles and has recently been squealing when I accelerate. I took the van to a local body shop and they said it seems to be my transmission. I called Toyota immedi",
+          "The vehicle is a 2020 Toyota Sienna. While driving, the engine suddenly shut off without warning, creating a dangerous situation and loss of power. This occurred while transporting children, increasin",
+          "\"I've owned the vehicle for five years, and recently I started hearing a whining noise coming from the transmission. After doing some research, I discovered that I'm not alone in experiencing this iss"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 7,
+        "share_pct": 18.4,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2020 Toyota Sienna. The contact discovered that there was a mileage discrepancy after the purchase. The vehicle was a private sale. At the time of purchase, the",
+          "The contact owns a 2020 Toyota Sienna. The contact stated that while his wife was driving at an undisclosed speed, the pre collision, lane assist, and air bag warning lights illuminated on the instrum",
+          "Spontaneous and random: Blinkers come on, radio volume goes up or down when turning the other way, CarPlay USB shuts off and on, hiccups when accelerating (when ECO kicks on/in)…everything points to a"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 6,
+        "share_pct": 15.8,
+        "excerpts": [
+          "The vehicle is a 2020 Toyota Sienna. While driving, the engine suddenly shut off without warning, creating a dangerous situation and loss of power. This occurred while transporting children, increasin",
+          "For a month prior, there were intermittent incidents of the van shuddering and the RPM needle jumping upon ignition. Sometimes the van would have a hard time accelerating before jerking and driving no",
+          "Engine stalled in heavy traffic after full stop at red light.  No warning lights.  Managed to pull off the road.  Still no warning lights.  Turned engine off then started normally.  Drove to destinati"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 6,
+        "share_pct": 15.8,
+        "excerpts": [
+          "The vehicle is a 2020 Toyota Sienna. While driving, the engine suddenly shut off without warning, creating a dangerous situation and loss of power. This occurred while transporting children, increasin",
+          "The van has been periodically hesitating, rough idles, and when parked the rpm revs. On 9/13/22, the van was shaking, hesitating, and would not accelerate. It was undrivable and had to be towed. We to",
+          "ON jUNE 3, 2021 I experienced a drastic loss in power and all warning light illuminated on the dash , was able to get of the highway to a safe area and vehicle ceased to function . This happened after"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 4,
+        "share_pct": 10.5,
+        "excerpts": [
+          "Power sliding door on driver side cable snapped.  After closing door and trying to use the door without power unable to open or close the door at all.  Passengers forced to use alternate door for exit",
+          "The power sliding door assembly failed, and the driver side rear sliding door was bound shut, and could not be opened.  Disabling the power door system did not resolve the issue.  The cable for the po",
+          "Hinge rust on fuel door causing it to break and not let rear passenger door auto open (because switch won't make up) hinge is very weakly built"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 1,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 7
+      },
+      {
+        "year": 2021,
+        "count": 6
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V532000",
+        "component": "STEERING",
+        "summary": "Braun Corporation (Braun) is recalling certain modified 2017-2020 Toyota Sienna vehicles.  The steering shaft extensions may have been improperly manufactured, possibly causing the extensions to fracture.",
+        "report_date": "16/07/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:53.480Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

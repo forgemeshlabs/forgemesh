@@ -1,0 +1,172 @@
+{
+  "slug": "2017-hyundai-santa-fe",
+  "year": 2017,
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 960,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 641,
+        "share_pct": 66.8,
+        "excerpts": [
+          "On May 26.2026, Southern States Hyundai performed mandated Service Campaign 9C2 (Theta II Emissions Improvement). The software immediately caused drivability degradation and a catalytic converter fail",
+          "My truck began emitting a strong oil odor on XXX. I took it to Amato in [XXX], where I was told the oil pan was leaking. They replaced the oil pan, and I paid for the inspection as well. About an hour",
+          "Cold-Start Hesitation & Rough Shifting: Following the 9C2 ECU update, my vehicle is experiencing a brief period of throttle hesitation, rough shifting, or jerky transmission behavior specifically duri"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 160,
+        "share_pct": 16.7,
+        "excerpts": [
+          "Cold-Start Hesitation & Rough Shifting: Following the 9C2 ECU update, my vehicle is experiencing a brief period of throttle hesitation, rough shifting, or jerky transmission behavior specifically duri",
+          "Known as an issue with Hyundai, but unresponsive to correct because no diagnostic code is sent.  Transmission will shift extremely hard from 1st to 2nd gear randomly.  In keeping track of the mileage,",
+          "My 2017 Hyundai Santa Fe, purchased new from Lynnes Hyundai in February 2017, has approximately 93,000 miles. The vehicle previously developed a significant oil-consumption/engine problem that was dia"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 67,
+        "share_pct": 7,
+        "excerpts": [
+          "Cold-Start Hesitation & Rough Shifting: Following the 9C2 ECU update, my vehicle is experiencing a brief period of throttle hesitation, rough shifting, or jerky transmission behavior specifically duri",
+          "My 2017 Hyundai Santa Fe, purchased new from Lynnes Hyundai in February 2017, has approximately 93,000 miles. The vehicle previously developed a significant oil-consumption/engine problem that was dia",
+          "Airbag light on. La Quinta Hyundai verified light on scanned codes found active b134800 Driver airbag resistance circuit short to ground 1st stage. Testing found clock spring issue internal fault. Sin"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 59,
+        "share_pct": 6.1,
+        "excerpts": [
+          "Directly after the dealer, Johnson Hyundai of Apex, completed Service Campaign 9C2 on 4/28/26, my vehicle began sticking, surging, and harshly changing gears. I have followed up with the dealer multip",
+          "Complete unmitigated loss of acceleration and power while traveling at highway speeds, creating an immediate life-threatening road hazard. Following a warranty engine replacement and mandatory dealer ",
+          "I own a 2017 Hyundai Santa Fe Sport 2.4L (VIN: [XXX]).  On XXX, my vehicle received Campaign 9C2 (ECU software update for Theta II emissions improvement). Shortly after this update, I began experienci"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 59,
+        "share_pct": 6.1,
+        "excerpts": [
+          "Bottom brake lights will not work but top high brake light works. I was stopped by police three times. They state all three brake lights must operate.",
+          "After performing regular oil changes, and even a new fuel pump sensor, I experienced an issue. Last oil change was within the past two weeks. Driving home from the mountains, I heard a knocking sound ",
+          "ABS doesn't work,  traction control doesn't work,  while it was raining the sensor lights came on and I began to hydroplane almost causing a wreck while driving on the highway. The sensors go off and "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 14,
+      "fires": 23,
+      "injuries": 18,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 57
+      },
+      {
+        "year": 2017,
+        "count": 66
+      },
+      {
+        "year": 2018,
+        "count": 35
+      },
+      {
+        "year": 2019,
+        "count": 40
+      },
+      {
+        "year": 2020,
+        "count": 32
+      },
+      {
+        "year": 2021,
+        "count": 69
+      },
+      {
+        "year": 2022,
+        "count": 157
+      },
+      {
+        "year": 2023,
+        "count": 211
+      },
+      {
+        "year": 2024,
+        "count": 143
+      },
+      {
+        "year": 2025,
+        "count": 85
+      },
+      {
+        "year": 2026,
+        "count": 65
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "17V142000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2017 Santa Fe Sport vehicles.  The affected vehicles have a tire pressure monitoring system (TPMS) that may not have been set in the correct mode during vehicle assembly, and therefore will not provide an appropriate warning in the event of an und",
+        "report_date": "06/03/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V358000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2013-2017 Santa Fe and Santa Fe Sport vehicles.  In the affected vehicles, the secondary hood latch actuating cable may corrode and bind, causing the secondary hood latch to remain in the unlatched position when the hood is closed.",
+        "report_date": "05/06/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V578000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2017 Santa Fe vehicles equipped with 3.3L engines.  The crankshaft assemblies may have been produced with surface irregularities in the crankshaft pin, causing engine bearing wear.",
+        "report_date": "20/09/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V842000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain model year 2016-2017 Tucson vehicles manufactured May 19, 2015, to November 14, 2016, and 2017 Santa Fe vehicles manufactured November 28, 2015, to November 14, 2016.  The affected vehicles may be equipped with an accessory trailer hitch wiring ha",
+        "report_date": "21/11/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V145000",
+        "component": "SEAT BELTS:FRONT:WARNING LIGHT/DEVICES",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain model year 2016-2017 Santa Fe vehicles manufactured September 1, 2015 to February 12, 2016.  In the affected vehicles, the wires in the front seat belt buckle harnesses may be damaged by the seat's height adjuster mechanism, resulting in a failure",
+        "report_date": "10/03/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V056000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2016-2018 Santa Fe, 2017-2018 Santa Fe Sport, 2019 Santa Fe XL, and 2014-2015 Tucson vehicles.  The Anti-Lock Brake System (ABS) module could malfunction and cause an electrical short, which could result in an engine compartment fire.",
+        "report_date": "03/02/2022",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:20.039Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

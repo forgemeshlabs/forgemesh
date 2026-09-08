@@ -1,0 +1,172 @@
+{
+  "slug": "2014-mazda-cx-5",
+  "year": 2014,
+  "make": "Mazda",
+  "model": "CX-5",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 377,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 132,
+        "share_pct": 35,
+        "excerpts": [
+          "The car's electrical system doesn't fully turn off after being put in park and turning the ignition off. The electrical system stays on, despite the engine and ignition turned off. It's a BIG problem ",
+          "Odometer Fraud. The contact purchased a 2014 Mazda CX-5. The contact stated that while attempting to register the vehicle, it was discovered that there was a mileage discrepancy. The vehicle was a pri",
+          "Auxiliary power will not turn off when vehicle is turned off. Radio , lights interior power , etc…..  car turns off when button is pressed but interior power does not ."
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 61,
+        "share_pct": 16.2,
+        "excerpts": [
+          "There is a pressure crack that goes almost all the way across my front windshield, there are no chips or dings in the glass. Second you can smell gas fumes near the back of the car but no gas is leaki",
+          "THE CONTACT OWNS A 2014 MAZDA CX-5. THE CONTACT STATED THAT THE WINDSHIELD WAS FRACTURED ON THE PASSENGER’S SIDE. THE FRACTURE STARTED AT THE BASE OF THE WINDSHIELD AND EXPANDED TO 3 INCHES PAST THE C",
+          "PLASTIC MOLDING AT BOTTOM OF WINDSHIELD CAME LOOSE. AND FOR SOMETIME O EXPLAINED TO DEALERSHIP I HEARD WHAT SOUNDED LIKE GLASS SHIFTING AND FELT THAT THE GLASS WAS GOING TO SHATTER. THIS MORNING I NOT"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 50,
+        "share_pct": 13.3,
+        "excerpts": [
+          "I was waiting at a traffic signal to make a left turn, with my foot on the brake. The car accelerated aggressively, with no warning, like the pedal was pushed to the floor. I stood on the brake and sh",
+          "The contact owns a 2014 Mazda CX-5. The contact stated while attempting to turn off the vehicle, the vehicle failed to immediately turn off. After several attempts, the contact was able to turn off th",
+          "After pushing the button to turn my car off, the engine turns off but none of the electronics does. I have to turn my car on and off numerous times to get the navigation/radio screen to turn off, I'm "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 39,
+        "share_pct": 10.3,
+        "excerpts": [
+          "I was waiting at a traffic signal to make a left turn, with my foot on the brake. The car accelerated aggressively, with no warning, like the pedal was pushed to the floor. I stood on the brake and sh",
+          "The contact owns a 2014 Mazda CX-5. The contact stated that while attempting to turn off the vehicle, the vehicle failed to shutoff. The screen and vehicle remained powered on. The battery was drained",
+          "The contact owns a 2014 Mazda CX-5. The contact stated that while driving at 35 MPH, the check engine warning light illuminated. The vehicle was taken to the dealer, who diagnosed a failure with the h"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 32,
+        "share_pct": 8.5,
+        "excerpts": [
+          "THE PAINT IS FADING ON MY 2014 MADZA . THE CAR IS ONLY 6 YEARS OLD.",
+          "MY 2014 CX5 PAINT IS FADING! PAINT SHOULD NOT FADE IN SUCH A SHORT TIME. IT'S LITERALLY SLIDING OFF MY CAR!",
+          "THE SUNROOF GLASS SHATTERED SUDDENLY WHILE I WAS DRIVING ON THE HIGHWAY. I WAS GOING 70-75 MPH AT THE TIME. THERE WERE NO OTHER CARS AROUND AND THE WEATHER WAS PERFECT SO I DO NOT THINK ANYTHING HIT T"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 0,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1999,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 2
+      },
+      {
+        "year": 2013,
+        "count": 24
+      },
+      {
+        "year": 2014,
+        "count": 59
+      },
+      {
+        "year": 2015,
+        "count": 31
+      },
+      {
+        "year": 2016,
+        "count": 40
+      },
+      {
+        "year": 2017,
+        "count": 28
+      },
+      {
+        "year": 2018,
+        "count": 66
+      },
+      {
+        "year": 2019,
+        "count": 56
+      },
+      {
+        "year": 2020,
+        "count": 12
+      },
+      {
+        "year": 2021,
+        "count": 28
+      },
+      {
+        "year": 2022,
+        "count": 10
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "16V644000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain model year 2010-2013 Mazda3 and Mazdaspeed3 vehicles manufactured November 18, 2008, to June 8, 2013, 2012-2015 Mazda5 vehicles manufactured October 26, 2010, to June 22, 2015, 2016 CX-3 vehicles manufactured June 1, 2015, to December 26, ",
+        "report_date": "06/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V064000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY:FILLER PIPE AND CAP",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain model year 2014-2016 Mazda CX-5 vehicles manufactured June 27, 2013, to February 2, 2016.  The affected vehicles have a fuel filler pipe that may rupture in the event of a crash.  As such, these vehicles fail to comply with the requirement",
+        "report_date": "03/02/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V203000",
+        "component": "STEERING",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain model year 2016 CX-3 vehicles manufactured June 1, 2015, to December 2, 2015, 2013-2014 Mazda2 vehicles manufactured July 3, 2013, to August 8, 2014, 2014-2016 CX-5 vehicles manufactured January 19, 2013, to December 2, 2015, and 2013-2015",
+        "report_date": "11/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16E002000",
+        "component": "VISIBILITY:WINDSHIELD",
+        "summary": "Pilkington North America, Inc. (Pilkington) is recalling certain replacement windshields, model FW04026 GTY, manufactured November 23, 2015, to December 16, 2015 for use in Mazda CX-5 vehicles that are equipped with the Smart City Brake Support system.  The affected windshields have a bracket mounte",
+        "report_date": "19/01/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:58:15.923Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

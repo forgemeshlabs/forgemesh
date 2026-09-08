@@ -1,0 +1,156 @@
+{
+  "slug": "2015-gmc-terrain",
+  "year": 2015,
+  "make": "GMC",
+  "model": "Terrain",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 315,
+    "top_failure_components": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 102,
+        "share_pct": 32.4,
+        "excerpts": [
+          "I was driving home in the dark at an average speed of 45 mph, and it was raining and all of a sudden, my wipers stopped.",
+          "The contact owns a 2015 GMC Terrain. The contact stated that while driving approximately 65 MPH in a rainstorm, the front windshield wiper blades suddenly malfunctioned and ceased operation creating a",
+          "The contact owns a 2015 GMC Terrain. The contact received notification of NHTSA Campaign Number: 22V165000 (Visibility) however, the part to do the recall repair was not yet available. The contact sta"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 81,
+        "share_pct": 25.7,
+        "excerpts": [
+          "I am submitting this complaint regarding the engine timing chain failure in my 2015 GMC Terrain because I believe it presents a serious safety hazard.  Before the failure, the vehicle began experienci",
+          "Oil consumption, causing high pressure furl pump to clog. It also causes catalytic converter to clog. No warning of oil loss. Causing stalling out while driving. Caused the engine to seize. New engine",
+          "I own a 2015 GMC Terrain, 4D. Vehicle started displaying error P0016 during the evening of 07/27/2025, the following day the vehicle stopped working. I towed the vehicle to three different mechanics. "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 35,
+        "share_pct": 11.1,
+        "excerpts": [
+          "My vehicle began jerking, shaking and kept shutting off in a highway intersection. I looked on the ground after coasting into a gas station to find oil leaking from under my vehicle. I've never had an",
+          "I am writing to urgently request a safety recall for the GMC Terrain 2015 due to a critical issue with the lift gate mechanism, which may be both electrical and mechanical. Recently, while utilizing t",
+          "status display screen shows multiple false signals"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 30,
+        "share_pct": 9.5,
+        "excerpts": [
+          "The blower fan for heat In my vehicle was replaced in October 2022, recently the Defroster will not engage and it is vital to winter driving.  The mechanism that switches between which vent to blow ou",
+          "My vehicle had 2 recalls and I took it to the local Chevy dealer where I had purchased the car in 2018.  The windshield wiper problem was repaired but I was told they did not have the correct parts to",
+          "The contact owns a 2015 GMC Terrain. The contact stated while starting the vehicle, the air bag warning light illuminated intermittently. The contact took the vehicle to the local dealer and was infor"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 26,
+        "share_pct": 8.3,
+        "excerpts": [
+          "There have been problems with the 2015 GMC Terrains Timing chain. The timing chain will break when the vehicle is being operated which causes the driver to lose complete control of the SUV, additional",
+          "The blower fan for heat In my vehicle was replaced in October 2022, recently the Defroster will not engage and it is vital to winter driving.  The mechanism that switches between which vent to blow ou",
+          "The timing belt on the GMC Terrains from 2013 to 2015, mostly 2015 are breaking at a unusual amount. If you google it , there is story after story about this problem and GMC has not done anything. Thi"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 1,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 19
+      },
+      {
+        "year": 2016,
+        "count": 5
+      },
+      {
+        "year": 2017,
+        "count": 11
+      },
+      {
+        "year": 2018,
+        "count": 30
+      },
+      {
+        "year": 2019,
+        "count": 62
+      },
+      {
+        "year": 2020,
+        "count": 45
+      },
+      {
+        "year": 2021,
+        "count": 32
+      },
+      {
+        "year": 2022,
+        "count": 53
+      },
+      {
+        "year": 2023,
+        "count": 28
+      },
+      {
+        "year": 2024,
+        "count": 11
+      },
+      {
+        "year": 2025,
+        "count": 11
+      },
+      {
+        "year": 2026,
+        "count": 7
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "15V666000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015 Buick LaCrosse, Cadillac XTS, Chevrolet Camaro, Equinox, Malibu, and GMC Terrain vehicles.  The affected vehicles have front seat-mounted side impact air bags whose inflator may rupture upon its deployment.",
+        "report_date": "16/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V137000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2017 GMC Terrain vehicles.  A reflection caused by the headlight housings may illuminate areas above the vehicle and outside of the driver's view with excessively bright light.  As such, these vehicles fail to comply with the requirements of Federal",
+        "report_date": "08/03/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V165000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014-2015 Chevrolet Equinox and GMC Terrain vehicles.  The ball joints in the windshield wiper module may corrode, causing one or both windshield wipers to fail.",
+        "report_date": "17/03/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:55.526Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

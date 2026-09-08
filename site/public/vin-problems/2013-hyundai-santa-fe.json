@@ -1,0 +1,164 @@
+{
+  "slug": "2013-hyundai-santa-fe",
+  "year": 2013,
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 605,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 273,
+        "share_pct": 45.1,
+        "excerpts": [
+          "Burning oil fast has been confirmed. I always go get frequently oil changes and top off Because it burns a lot. I never get a warning lamp When I go toc get my oil service representative tells me my o",
+          "While I acknowledge that my vehicle is no longer under warranty, I remain extremely concerned about the excessive oil consumption issue. My vehicle is equipped with the Theta II engine, which has been",
+          "While driving to work the gas pedal suddenly would not make the vehicle Excellerate and i was barely able to get the car on the side of the road, when i stopped and turned it off it would not start ag"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 95,
+        "share_pct": 15.7,
+        "excerpts": [
+          "car will drift under acceleration to the left really hard then go straight when let off the accelerator scary feeling and all suspension parts look ok no one can figure it out and is scary",
+          "The contact owned a 2013 Hyundai Santa Fe. The contact stated that while driving at about 35 MPH, The steering wheel was seized on a winding road; the steering warning light had also appeared on the i",
+          "The contact owns a 2013 Hyundai Santa Fe. The contact stated that while driving at 35 MPH, the vehicle had lost power causing the vehicle to decrease in speed. The check engine warning light was illum"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 64,
+        "share_pct": 10.6,
+        "excerpts": [
+          "O don’t appreciate someone activating my vin the same day the remedy comes out on compaign , this had been ongoing battle since 2018 when it states on the website they will replace the engine , when i",
+          "abs module making noise abs light turn on, parking brake stay on, traction light stay on, odometer does not work, speedometer does not work, steering effort decrease, car also stop all of sudden. Car ",
+          "The contact owns a 2013 Hyundai Santa Fe. The contact stated while depressing the brake pedal, the pedal extended to the floorboard and the stopping distance was extended. The vehicle was taken to the"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 53,
+        "share_pct": 8.8,
+        "excerpts": [
+          "O don’t appreciate someone activating my vin the same day the remedy comes out on compaign , this had been ongoing battle since 2018 when it states on the website they will replace the engine , when i",
+          "Engine has always burned oil and vehicle only has 72,000 miles on it.leaking black liquid/oil out exhaust pipe, blowing out Black clouds of smoke and have to keep adding oil. Whole rear end had to be ",
+          "This complaint relates to Recall Campaign 251 from Hyundai, specifically the ABS Control Module. I own an affected 2013 Hyundai Sante Fe Sport. I bought it used in October 2023, and it driven by my mi"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 52,
+        "share_pct": 8.6,
+        "excerpts": [
+          "Please see attached document for detailed description of a Hyundai dealership refusing to fix a hazardous to drive 2013 Hyundai Santa Fe.",
+          "While driving on the interstate the vehicle suddenly shuddered and immediately died, dash lights were still on but all power was cut off. Cars around me were swerving to avoid hitting me from behind a",
+          "I had lightly let off my gas pedal since I was driving down a slight decline/hill.  Upon reaching the bottom of the decline, I pressed the gas pedal to maintain my speed, when I heard a loud noise fro"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 14,
+      "fires": 41,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 19
+      },
+      {
+        "year": 2013,
+        "count": 88
+      },
+      {
+        "year": 2014,
+        "count": 30
+      },
+      {
+        "year": 2015,
+        "count": 27
+      },
+      {
+        "year": 2016,
+        "count": 23
+      },
+      {
+        "year": 2017,
+        "count": 41
+      },
+      {
+        "year": 2018,
+        "count": 36
+      },
+      {
+        "year": 2019,
+        "count": 59
+      },
+      {
+        "year": 2020,
+        "count": 52
+      },
+      {
+        "year": 2021,
+        "count": 58
+      },
+      {
+        "year": 2022,
+        "count": 57
+      },
+      {
+        "year": 2023,
+        "count": 69
+      },
+      {
+        "year": 2024,
+        "count": 39
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "17V358000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2013-2017 Santa Fe and Santa Fe Sport vehicles.  In the affected vehicles, the secondary hood latch actuating cable may corrode and bind, causing the secondary hood latch to remain in the unlatched position when the hood is closed.",
+        "report_date": "05/06/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V355000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+        "summary": "Hyundai is recalling certain model year 2013 front wheel drive Santa Fe Sport vehicles manufactured July 13, 2012, through March 12, 2013; and equipped with 2.4 liter engines.  Due to a manufacturing issue, the right front axle shaft may fracture.",
+        "report_date": "12/08/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V651000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2015 Elantra, Genesis Coupe, Sonata Hybrid, 2012-2015 Accent, Azera, Veloster, 2013-2015 Elantra Coupe, Santa Fe, 2014-2015 Equus, 2010-2012 Veracruz, 2010-2013 Tucson, 2015 Tucson Fuel Cell, and 2013 Santa Fe Sport vehicles.  The Anti-Lock B",
+        "report_date": "22/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:56:48.305Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

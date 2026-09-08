@@ -1,0 +1,107 @@
+{
+  "slug": "2022-subaru-impreza",
+  "year": 2022,
+  "make": "Subaru",
+  "model": "Impreza",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 12,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 3,
+        "share_pct": 25,
+        "excerpts": [
+          "Front wheels locked up while doing 75 miles an hour. Per shop the transmission locked up. There were no signs of transmission failure car ran perfectly fine and had been serviced and new tires 7 days ",
+          "To start of with the steering seems to loosen up while driving, it's hard to explain but while driving the vehicle it is very noticable that the car is jurking side to side , if your used to a certain",
+          "The vehicle was at a stoplight.  Once the light turned green, the driver stepped on the gas.  All of a sudden the car would not move, all the warning lights came on, and we could smell a burning smell"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 3,
+        "share_pct": 25,
+        "excerpts": [
+          "Windshield cracked spontaneously at the middle base of the windshield in a perfect arch. Crack appears to be on the inside of the glass. No impacts or anything hit the windshield, no reason for this t",
+          "Windshield suddenly cracked on the freeway not due to rocks or anything, and has since spread dramatically. Visibility is affected as the sun will glisten throughout driving and all of the cracks almo",
+          "I turn my vehicle on while am waiting to car to get warm i turn on the heat the windshield crack by it self"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 2,
+        "share_pct": 16.7,
+        "excerpts": [
+          "To start of with the steering seems to loosen up while driving, it's hard to explain but while driving the vehicle it is very noticable that the car is jurking side to side , if your used to a certain",
+          "I picked up my vehicle that was made to order from the factory on 2/18/22. I drove the car for 12 days and   found the steering to be over sensitive. The steering wheel felt disconnected from the car."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 1,
+        "share_pct": 8.3,
+        "excerpts": [
+          "The vehicle's rear brake lines (both left rear and right rear) had ballooning present. The issue was initially identified by an independent mechanic during brake pad and rotor replacement on all four "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 1,
+        "share_pct": 8.3,
+        "excerpts": [
+          "We have a hesitation when hitting the gas with our Subaru Impreza. I took it to a mechanic who said there isn't officially an issue with the car, but it is consistent with a CRT transmition issue on o"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 2,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "22V712000",
+        "component": "VISIBILITY:WINDSHIELD",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2022 Impreza and Outback vehicles.  The incorrect paint clearcoat may have been applied, which can cause the windshield to be insufficiently bonded to the vehicle.  As such, these vehicles fail to comply with the requirements of Federal Motor Veh",
+        "report_date": "22/09/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:34.655Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

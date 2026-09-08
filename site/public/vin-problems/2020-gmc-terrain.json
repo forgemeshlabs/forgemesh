@@ -1,0 +1,128 @@
+{
+  "slug": "2020-gmc-terrain",
+  "year": 2020,
+  "make": "GMC",
+  "model": "Terrain",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 194,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 70,
+        "share_pct": 36.1,
+        "excerpts": [
+          "The contact owns a 2020 GMC Terrain. The contact stated that while driving at an undisclosed speed, the vehicle failed to stop as intended. The brake pedal was depressed to the floor, and the vehicle ",
+          "The brake suddenly became impossible to depress more than 3/4 of an inch. Almost unable to stop nearly hitting another vehicle. The dashboard then lit up with a \"service brake system\" warning.  Luckil",
+          "While driving, I suddenly smelled something burning. Immediately after, a warning popped up stating 'Engine power is reducing,' the check engine light came on, and I experienced a sudden, near-total l"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 56,
+        "share_pct": 28.9,
+        "excerpts": [
+          "While driving, I suddenly smelled something burning. Immediately after, a warning popped up stating 'Engine power is reducing,' the check engine light came on, and I experienced a sudden, near-total l",
+          "Vacuum pump failure causing sudden and unexpected hard brake pedal and loss of braking coming off the highway. Ended up catastrophic engine failure. This is the SECOND incident with this vehicle of th",
+          "On June 7, 2026, I was driving my 2020 GMC Terrain. I was going at about 40MPH along a very busy main road. While slowing for a red light the Check Engine Light turned on and the car displayed a notic"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 27,
+        "share_pct": 13.9,
+        "excerpts": [
+          "The back passenger seat exploded and caught fire, burning the back of the seat in front and burning the ceilings. Inside the whole vehicle is black from smoke damage. Incident assessed by fire marshal",
+          "Transmission wouldnt shift. Sensor in car is causing issue, code is N 202321840",
+          "The contact owns a 2020 GMC Terrain. The contact stated that while driving in cold weather at various speeds; moisture accumulated and deactivated the charger, causing the vehicle to go into LIMP Mode"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 26,
+        "share_pct": 13.4,
+        "excerpts": [
+          "Because of the intentional failure of GMC and there promise of “We are Professional Grade”, I almost got plowed down by a semi when the car began to quit on the highway going 60. After pulling into th",
+          "The contact owns a 2020 GMC Terrain. The contact stated that while driving 35 MPH and depressing the accelerator pedal while driving uphill or making a left or right turn, the tires were skipping, and",
+          "The intercooler has been a document problem on GMC Terrains for awhile now. I had my intercooler replaced and now less than 10 months it is having the same problem. The vehicle will go into reduced po"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 25,
+        "share_pct": 12.9,
+        "excerpts": [
+          "Fuel pump control module and or the in tank fuel pump failed and or isn’t making proper connection for car to run correctly.  Safety was put at risk as car came to abrupt halt while driving. Driver wa",
+          "COMPONENT OR SYSTEM FAILED - GMC Dealership replacing fuel pump. SAFETY OR SAFETY OF OTHERS AT RISK - stalled in remote area with no internet/cell service. In order to get to safety we travelled 13 mi",
+          "While driving home from work my 2020 GMC Terrain stalled and turned off. I was on a very busy 2 lane road, crossing a intersection in a tourist area in [XXX]. This could have be come fatal very easily"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 2,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 3
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 14
+      },
+      {
+        "year": 2022,
+        "count": 19
+      },
+      {
+        "year": 2023,
+        "count": 28
+      },
+      {
+        "year": 2024,
+        "count": 33
+      },
+      {
+        "year": 2025,
+        "count": 55
+      },
+      {
+        "year": 2026,
+        "count": 33
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "20V668000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Cruze and Buick LaCrosse, 2018-2020 Chevrolet Equinox, Chevrolet Traverse and GMC Terrain, 2018 Chevrolet Malibu, 2019-2020 Buick Encore, Buick Enclave, Cadillac XT4, Chevrolet Blazer and GMC Acadia, and 2020 Cadillac XT6 vehicles.  Th",
+        "report_date": "29/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V339000",
+        "component": "CHILD SEAT:VEHICLE LATCH ANCHOR",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2023 Chevrolet Equinox and GMC Terrain vehicles.  The four rear-seat lower child seat LATCH anchorage bars may have excessive powder coating, which could prevent a child seat from being installed with the anchorage bars.  As such, these vehicles fai",
+        "report_date": "11/05/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:05:16.661Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

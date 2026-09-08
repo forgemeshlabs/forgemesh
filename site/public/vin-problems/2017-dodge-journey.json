@@ -1,0 +1,140 @@
+{
+  "slug": "2017-dodge-journey",
+  "year": 2017,
+  "make": "Dodge",
+  "model": "Journey",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 197,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 59,
+        "share_pct": 29.9,
+        "excerpts": [
+          "The contact owns a 2017 Dodge Journey. The contact stated that while driving at approximately 30 MPH on two occasions, the vehicle lost power, and the brake pedal and the steering wheel became stiff. ",
+          "CATALYTIC CONVERTERS ON THESE MODELS ARE FAILING TOO. THERE ARE RECALLS ON THE OTHER 2017 DODGE JOURNEYS, PLEASE ADD THIS MODEL TOO THEM ASAP ITS DANGEROUS AND WE USE THIS TO TRANSPORT KIDS. THANK YOU",
+          "Initially, the component that was failing was the rear wiper blade. The wiper blade would not perform a proper rotation. It wouldn’t move at all when I would turn the switch, but anytime the car was u"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 43,
+        "share_pct": 21.8,
+        "excerpts": [
+          "Had over 1300 miles until next oil change. Car has no leaking issues. Car ran out of oil completely and seized engine during camping trip. I use synthetic and both mileage/time were both way under tha",
+          "CATALYTIC CONVERTERS ON THESE MODELS ARE FAILING TOO. THERE ARE RECALLS ON THE OTHER 2017 DODGE JOURNEYS, PLEASE ADD THIS MODEL TOO THEM ASAP ITS DANGEROUS AND WE USE THIS TO TRANSPORT KIDS. THANK YOU",
+          "My check light came on and when I check the code which was a p0420, Catalyst System Efficiency Below Threshold (Bank 1). Emissions Recall U67: Catalytic Converter Efficiency. This was part of the reca"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 32,
+        "share_pct": 16.2,
+        "excerpts": [
+          "On the morning of August 26, 2026, my 2017 Dodge Journey 2.4L was brought to DeLand Chrysler Dodge Jeep Ram for federal safety Emissions Recall Z98, which required updating the software calibration on",
+          "Had over 1300 miles until next oil change. Car has no leaking issues. Car ran out of oil completely and seized engine during camping trip. I use synthetic and both mileage/time were both way under tha",
+          "Purchased vehicle from Wildcat Used Cars in Somerset, KY on [XXX]. Took home and notified dealership of not having seatbelts in middle row. After having an inspection completed, found the SRS system w"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 29,
+        "share_pct": 14.7,
+        "excerpts": [
+          "Purchased vehicle from Wildcat Used Cars in Somerset, KY on [XXX]. Took home and notified dealership of not having seatbelts in middle row. After having an inspection completed, found the SRS system w",
+          "The contact owns a 2017 Dodge Journey.  The contact stated that while driving at an undisclosed speed, the air bag warning light unexpectedly illuminated. The dealer was contacted. The vehicle was not",
+          "Passenger head rest deployed for no reason. If someone was in the seat they would have got severe whiplash. It was a broken plastic piece inside the headrest. This is a common occurrence. There were n"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 19,
+        "share_pct": 9.6,
+        "excerpts": [
+          "While driving on a smooth paved road at normal speed, the active head restraint on the passenger seat suddenly deployed without any impact or collision. The headrest struck the passenger in the back o",
+          "The contact owns a 2017 Dodge Journey. The contact stated that while driving approximately 65 MPH with her son seated in the front passenger’s seat, there was a loud popping sound coming from the pass",
+          "The active headrest deployed in the driver's seat while the vehicle was in use. The vehicle was not involved in any accident at the time of the deployment, and it was unprovoked."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 12,
+      "fires": 7,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 9
+      },
+      {
+        "year": 2018,
+        "count": 32
+      },
+      {
+        "year": 2019,
+        "count": 39
+      },
+      {
+        "year": 2020,
+        "count": 19
+      },
+      {
+        "year": 2021,
+        "count": 18
+      },
+      {
+        "year": 2022,
+        "count": 21
+      },
+      {
+        "year": 2023,
+        "count": 20
+      },
+      {
+        "year": 2024,
+        "count": 19
+      },
+      {
+        "year": 2025,
+        "count": 16
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V723000",
+        "component": "EXTERIOR LIGHTING",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2017-2018 Dodge Journey vehicles.  The amber side reflex reflector assembled into the headlamp may not reflect brightly enough.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 108, \"Lamps, Refle",
+        "report_date": "29/09/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:56.541Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

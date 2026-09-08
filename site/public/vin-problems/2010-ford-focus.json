@@ -1,0 +1,143 @@
+{
+  "slug": "2010-ford-focus",
+  "year": 2010,
+  "make": "Ford",
+  "model": "Focus",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 287,
+    "top_failure_components": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 50,
+        "share_pct": 17.4,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2010 FORD FOCUS. WHILE DRIVING 45 MPH, THE ACCELERATOR PEDAL WAS DEPRESSED; HOWEVER, THE VEHICLE FAILED TO RESPOND. AFTER SEVERAL ATTEMPTS, THE VEHICLE RESPONDED AND HESITATED. ",
+          "WHILE DRIVING ON CITY STREETS THE ENGINE  (35 MPH) THE ENGINE LOST POWER AND DROPPED IN SPEED YO A FEW MPR.  SHUT ENGINE DOWN AND THEN RESTARTED THE ENGINE I DROVE ABOUT A MILE AND THE SAME THING HAPP",
+          "I TURNED ON THE ENGINE IN THE MORNING AND THE CAR SEEM TO START FINE, BUT WHEN I  PUT THE GEAR SELECTOR IN REVERSE AND PRESSED THE GAS PEDAL  SUDDENLY THE CHECK ENGINE CAME ON AND THE CAR STARTED SHAK"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 45,
+        "share_pct": 15.7,
+        "excerpts": [
+          "The contact owns a 2010 Ford Focus. The contact stated that while leaving the parking lot and attempting to shift into reverse(R), the gear shifter failed to respond. There was no warning light illumi",
+          "The contact owns a 2010 Ford Focus. The contact stated that intermittently, after starting the vehicle and while driving at various speeds, the clutch pedal was depressed to the floorboard and the veh",
+          "The contact owns a 2010 Ford Focus. The contact stated that after he shifted the gear shifter to Park(P), the vehicle lunged and rolled backward as he was exiting the vehicle. The contact's right leg "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 43,
+        "share_pct": 15,
+        "excerpts": [
+          "I WENT TO USE MY KEYLESS ENTRY  AND IT WOULDN'T WORK I ASSUMED IT WAS THE BATTERY SO I CHANGED IT STILL DOESN'T WORK.SO I WAS HAVING TO UNLOCK IT BY THE KEY.  I WENT TO UNLOCK MY CAR AND THE KEY WOULD",
+          "IGNITION SWITCH BINDING UP AND THE SWITCH WILL NOT START THE CAR WHEN TURNING THE KEY IN THE SWITCH!  *BF  VEHICLE WAS REPAIRED.*JB",
+          "SINCE I'VE HAD MY CAR THE BACK DOORS LOCK & UNLOCK BY THERE SELF.. ITS VERY DANGEROUS.. CANT OPEN FROM INSIDE OR OUT"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 42,
+        "share_pct": 14.6,
+        "excerpts": [
+          "On June 22 myself and my wife were pulling out of the Food Lion Parking Lot. As we proceeded out to the main Road the gas pedal stuck. The car kept accelerating and know matter what I did I could free",
+          "The contact owns a 2010 Ford Focus. The contact stated that while driving at an undisclosed speed, the RMP increased and revved causing the vehicle to crash into an unoccupied vehicle. No warning ligh",
+          "ALOT OF VIBRATION WHEN IDLE, IDLES UP AND DOWN WHEN IN PARK."
+        ]
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "complaints": 31,
+        "share_pct": 10.8,
+        "excerpts": [
+          "Both rear doors will not stay closed as the latches do not work. The doors will swing open when driving if not secured with a strap, making it unsafe to have passengers in the back seat. Other models ",
+          "TL* THE CONTACT OWNS A 2010 FORD FOCUS. THE CONTACT STATED THAT THE REAR PASSENGER DOOR FAILED TO UNLOCK WITH THE KEY OR MANUALLY. THERE WERE NO WARNING INDICATORS ILLUMINATED. THE VEHICLE WAS TAKEN T",
+          "TL* THE CONTACT OWNS A 2010 FORD FOCUS. THE CONTACT STATED THAT THE REAR PASSENGER AND DRIVER DOORS FAILED TO LOCK WITHOUT WARNING. THE CONTACT REACHED OUT TO A LOCAL DEALER (WEST HERR FORD LINCOLN OF"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 22,
+      "fires": 4,
+      "injuries": 19,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 27
+      },
+      {
+        "year": 2011,
+        "count": 37
+      },
+      {
+        "year": 2012,
+        "count": 33
+      },
+      {
+        "year": 2013,
+        "count": 33
+      },
+      {
+        "year": 2014,
+        "count": 34
+      },
+      {
+        "year": 2015,
+        "count": 31
+      },
+      {
+        "year": 2016,
+        "count": 36
+      },
+      {
+        "year": 2017,
+        "count": 16
+      },
+      {
+        "year": 2018,
+        "count": 12
+      },
+      {
+        "year": 2019,
+        "count": 9
+      },
+      {
+        "year": 2020,
+        "count": 6
+      },
+      {
+        "year": 2021,
+        "count": 8
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 1
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T19:51:21.771Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

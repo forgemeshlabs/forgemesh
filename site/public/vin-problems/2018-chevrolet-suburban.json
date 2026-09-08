@@ -1,0 +1,150 @@
+{
+  "slug": "2018-chevrolet-suburban",
+  "year": 2018,
+  "make": "Chevrolet",
+  "model": "Suburban",
+  "matched_as": {
+    "complaints": [
+      "SUBURBAN 1500"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 81,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 18,
+        "share_pct": 22.2,
+        "excerpts": [
+          "My 2018 LT Chevy suburban with 110000 miles has been giving me transmission and motor problems. I took it to chevy vannuys and they took 3 days and did nothing. I saw a recall on line for the same yea",
+          "The contact owns a 2018 Chevrolet Suburban. The contact stated that on several occasions, while the vehicle was parked and running, or while driving at undisclosed speeds, the vehicle lost motive powe",
+          "1.)  January 29 2026 @6:00PM Vehicle was in use.  Driver accelerated to avoid another vehicle and the engine loss all power.  When pushing on the accelerator the tachometer would increase as if I was "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 17,
+        "share_pct": 21,
+        "excerpts": [
+          "The contact owns a 2018 Chevrolet Suburban. The contact stated while the contact's husband was driving at an undisclosed speed, the accelerator pedal was depressed, however the vehicle failed to accel",
+          "My husband was driving our 2018 Chevy Suburban when it suddenly stopped accelerating and he could no longer shift gears.  Luckily, this happened while he was driving down a gravel road (approx 25-30mp",
+          "The transmission just stopped working no warning just wouldn’t go into gear. Then I turned it off and back on and was able to limp home it’s slipping bad ."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 16,
+        "share_pct": 19.8,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2018 Chevrolet Suburban. The contact stated that while purchasing an aftermarket warranty coverage, the warranty company informed the contact that there was a m",
+          "The contact owns a 2018 Chevrolet Suburban. The contact stated that on several occasions, while the vehicle was parked and running, or while driving at undisclosed speeds, the vehicle lost motive powe",
+          "I've taken this SUV to the Chevy dealership 4 times now for the same issue.  SUV will not start at times then starts, it will even turn off on the road without warning.  New Battery and Chevy can not "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 14,
+        "share_pct": 17.3,
+        "excerpts": [
+          "No official incident has happened yet, but the brake assist kicks in, yet does not work until it's revving engine to over 4000rpm, which causes a sudden jerk and scary sounds from engine. I have had a",
+          "The Trailor brake system, engine light, stabilitrak control system and antilock brake system is on due to the wiring of this vehicle.",
+          "Vehicle starts dinging with warning - Service Trailer Brake System - and warning - Action Required Steering Assist is Reduced Drive with Care - ABS Light - Traction Control. Power steering goes out an"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 8,
+        "share_pct": 9.9,
+        "excerpts": [
+          "TECHNICIAN - Was unable to perform test drive of vehicle. Inspected operation &  found; Vehicle will not turn over, battery very weak. Removed battery, put on charger for approximately 45 minutes. Rei",
+          "While slowing down to make a left hand turn at an intersection, my vehicle suddenly lost power steering and the entire system completely shut down. There was no electronic function during that time. I",
+          "Vehicle starts dinging with warning - Service Trailer Brake System - and warning - Action Required Steering Assist is Reduced Drive with Care - ABS Light - Traction Control. Power steering goes out an"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 0,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 5
+      },
+      {
+        "year": 2019,
+        "count": 9
+      },
+      {
+        "year": 2020,
+        "count": 5
+      },
+      {
+        "year": 2021,
+        "count": 8
+      },
+      {
+        "year": 2022,
+        "count": 17
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 11
+      },
+      {
+        "year": 2026,
+        "count": 8
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "18V673000",
+        "component": "SEAT BELTS:REAR/OTHER",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Cadillac CT6, Escalade ESV, Chevrolet Suburban, Volt, and GMC Yukon XL vehicles.  Certain second-row or third-row rear seatbelts retractor assemblies may not automatically lock when the seatbelt is fully pulled out of the retractor, possibly pre",
+        "report_date": "26/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V645000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2017 Cadillac Escalade, 2014-2018 Chevrolet Silverado, GMC Sierra, 2015-2018 Chevrolet Suburban, Tahoe, GMC Yukon vehicles.  The amount of vacuum created by the vacuum pump may decrease over time.",
+        "report_date": "06/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V761000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is tra",
+        "report_date": "24/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V289000",
+        "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+        "summary": "General Motors, LLC (GM) is recalling certain 2026 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, and GMC Sierra 1500, Yukon, and Yukon XL vehicles with four-wheel (4WD) or all-wheel drive (AWD), and certain 2015-2020 Suburban, Escalade, Escalade ESV, Yukon, Yukon",
+        "report_date": "07/05/2026",
+        "park_it": true,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:59.493Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

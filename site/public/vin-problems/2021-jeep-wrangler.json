@@ -1,0 +1,236 @@
+{
+  "slug": "2021-jeep-wrangler",
+  "year": 2021,
+  "make": "Jeep",
+  "model": "Wrangler",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 909,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 302,
+        "share_pct": 33.2,
+        "excerpts": [
+          "The contact owns a 2021 Jeep Wrangler. The contact stated that while operating the vehicle, the engine overheated, and the vehicle was driving sluggishly with the temperature gauge indicating that the",
+          "When using electric mode, repeatedly and consistently, when I try to accelerate (for example to get onto a highway) despite having the acceleration fully depressed, the car does not accelerate.  After",
+          "After dealer recall 21D inspection on 7/30/2026 I have experienced 2 electrical failures in the recall system, and/or systems associated with recall. The first incident on 7/31/2026 at approximately 9"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 249,
+        "share_pct": 27.4,
+        "excerpts": [
+          "Was driving on the interstate at about 65 mph went over some small bumps in the road and got the jeep death wobble. It happened a total of four times on that trip within an hour. Thought I was going t",
+          "Our Jeep has a death wobble that has almost caused me to have three wrecks where it is taking me out of my lane of travel and put me in Lanes where other people are had to get to the side of the road ",
+          "I am writing to express my concern regarding the handling of the urgent safety recall affecting my Jeep Wrangler. This recall has been classified as an urgent fire and safety risk, yet no remedy is cu"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 214,
+        "share_pct": 23.5,
+        "excerpts": [
+          "When using electric mode, repeatedly and consistently, when I try to accelerate (for example to get onto a highway) despite having the acceleration fully depressed, the car does not accelerate.  After",
+          "The harmonic balancer on the motor failed and flew off the motor causing catastrophic damage to the radiator.  The failure resulted in immediate disabling of the vehicle, which could have happened at ",
+          "The contact owns a 2021 Jeep Wrangler. The contact stated that while driving at various speeds, the temperature gauge rose significantly, indicating that the engine was overheating. The coolant temper"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 179,
+        "share_pct": 19.7,
+        "excerpts": [
+          "On the highway, at Highway speeds of 70 mph, going over small bump my jeep goes into a death wobble. Both tires bouncing erratically steering wheel racing back-and-forth. To stop the death wobble I Ha",
+          "2021 jeep wrangler 4xe unlimited rubicon. Death wobble steering stabilizer has been replaced. 4 Alignments in a week . Was told that it was my tires nope not the case . I can’t not drive my jeep at al",
+          "I am reporting a safety concern involving my vehicle’s steering system, front-end condition, and a recall I was not informed about. I brought the vehicle in for a routine tire rotation, at which time "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 139,
+        "share_pct": 15.3,
+        "excerpts": [
+          "When using electric mode, repeatedly and consistently, when I try to accelerate (for example to get onto a highway) despite having the acceleration fully depressed, the car does not accelerate.  After",
+          "Acceleration lag: either bucking or temporary loss of motive power when attempting to pull into traffic has almost caused us to be hit several times.  We had the problem almost immediately after purch",
+          "2021 jeep wrangler 4xe unlimited rubicon. Death wobble steering stabilizer has been replaced. 4 Alignments in a week . Was told that it was my tires nope not the case . I can’t not drive my jeep at al"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 20,
+      "fires": 27,
+      "injuries": 14,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2019,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 121
+      },
+      {
+        "year": 2022,
+        "count": 145
+      },
+      {
+        "year": 2023,
+        "count": 230
+      },
+      {
+        "year": 2024,
+        "count": 198
+      },
+      {
+        "year": 2025,
+        "count": 123
+      },
+      {
+        "year": 2026,
+        "count": 80
+      }
+    ]
+  },
+  "recalls": {
+    "count": 15,
+    "recalls": [
+      {
+        "campaign_number": "21V028000",
+        "component": "POWER TRAIN:CLUTCH ASSEMBLY",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2021 Jeep Wrangler and 2020-2021 Jeep Gladiator vehicles equipped with manual transmissions.  The clutch pressure plate may overheat and fracture.",
+        "report_date": "28/01/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V638000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2021 Jeep Wrangler, RAM 1500 and 2021 Jeep Gladiator vehicles.  A radio software error may prevent the rearview image from displaying.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 111, \"",
+        "report_date": "25/08/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V766000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2022 Ram 1500, Jeep Gladiator, and 2021 Jeep Wrangler vehicles.  The front seat belt retractors may have an improperly welded micro gas generator, which can result in seat belt pretensioner failure.",
+        "report_date": "13/10/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V767000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2022 Jeep Wrangler, Ram 1500, and 2021-2022 Jeep Gladiator vehicles equipped with 3.0L diesel engines.  The high pressure fuel pump (HPFP) may fail, causing an engine stall.",
+        "report_date": "13/10/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V865000",
+        "component": "ENGINE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2023 Jeep Wrangler 4xe vehicles equipped with 2.0L Plug-In Hybrid Electric Vehicle engines.  A loss of communication may cause an engine shutdown.",
+        "report_date": "23/11/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V116000",
+        "component": "POWER TRAIN:CLUTCH ASSEMBLY",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2023 Jeep Wrangler, and 2020-2023 Jeep Gladiator vehicles equipped with manual transmissions.  The clutch pressure plate may overheat and fracture.",
+        "report_date": "23/02/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V191000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2022 Jeep Wrangler vehicles.  A stud on the frame assembly may puncture the fuel tank in a crash, which can result in a fuel leak.",
+        "report_date": "23/03/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V263000",
+        "component": "FUEL SYSTEM, DIESEL:DELIVERY:FUEL PUMP",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2023 Jeep Wrangler, Gladiator, and 2022-2023 Ram 1500 vehicles equipped with a 3.0L diesel engine.  The high pressure fuel pump (HPFP) may fail.",
+        "report_date": "13/04/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V787000",
+        "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2023 Jeep Wrangler Plug-In Hybrid Electric (PHEV) vehicles.  The high voltage battery may fail internally and lead to a vehicle fire while parked or driving.",
+        "report_date": "22/11/2023",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "24V111000",
+        "component": "VISIBILITY:DEFROSTER/DEFOGGER/HVAC SYSTEM",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2024 Jeep Wrangler and 2022-2024 Jeep Grand Cherokee vehicles.  A hybrid control processor (HCP) software error may cause the defrosting and defogging system to be inoperative.  As such, these vehicles fail to comply with the requirements of Federal M",
+        "report_date": "15/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V572000",
+        "component": "POWER TRAIN:MANUAL TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021 Jeep Wrangler and Jeep Gladiator vehicles that were previously remedied under NHTSA recall number 23V-116.  The software for the powertrain control module may cause an engine stall, which can result in a loss of drive power.",
+        "report_date": "01/08/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V652000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2024 Jeep Gladiator and 2018-2024 Jeep Wrangler vehicles.  The instrument panel cluster may experience an internal short circuit and fail.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 10",
+        "report_date": "05/09/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V676000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2024 Jeep Wrangler vehicles.  The wiring harness for the rearview camera and the center brake light may short circuit, which can disable the rearview camera image and center brake light.  As such, these vehicles fail to comply with the requirements of",
+        "report_date": "12/09/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V741000",
+        "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2025 Jeep Wrangler 4Xe and 2022-2026 Grand Cherokee 4Xe vehicles. The high voltage battery may fail internally and lead to a vehicle fire while parked or driving.",
+        "report_date": "30/10/2025",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "26V363000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST:PUMP",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2025 Jeep Wrangler, Wrangler 4XE, and Jeep Gladiator vehicles. The electric hydraulic power steering pump wiring may overheat and cause a vehicle fire, even when the vehicle is parked with the ignition in the \"Off\" position.",
+        "report_date": "04/06/2026",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:24.228Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

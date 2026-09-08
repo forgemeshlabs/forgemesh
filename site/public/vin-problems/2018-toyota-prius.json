@@ -1,0 +1,128 @@
+{
+  "slug": "2018-toyota-prius",
+  "year": 2018,
+  "make": "Toyota",
+  "model": "Prius",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 36,
+    "top_failure_components": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 5,
+        "share_pct": 13.9,
+        "excerpts": [
+          "Both taillamps holding moisture. Could cause electrical issues or fire.   .. same year and model car have same reported issues and were fixed by manufacturer.  This vehicle is the same but different l",
+          "The automatic high beams will occasionally fail to operate and are stuck in low beams until about 2 minutes have passed, or until the automatic high beams switch is turned off to disable the system.  ",
+          "AUTO HIGH  BEAM FEATURE INTERMITTENTLY CUTS OUT AND THEN RESUMES, ESPECIALLY FREQUENTLY IN RAINY WEATHER. WHILE OFF, I CANNOT ENGAGE THE HIGH BEAM WITHOUT FIRST SHUTTING OFF THE AHB FEATURE. MANY SIMI"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 5,
+        "share_pct": 13.9,
+        "excerpts": [
+          "MY WINDSHIELD HAS CRACKED TWICE WITHOUT BEING STRUCK BY AN OBJECT AND WITHOUT BEING NEAR ANOTHER VEHICLE. BOTH INCIDENTS OCCURRED DURING NORMAL HIGHWAY DRIVING. I WAS NOT SPEEDING OR DRIVING RECKLESSL",
+          "THE CAR IS INADEQUATE IN THE WINTER.  WHEN IT SNOWS I CAN'T KEEP THE WINDOWS CLEAN.  THEY CHANGED THE FITTINGS AND I CAN'T EVEN PUT WINTER BLADES ON THE CAR. ALSO, AND THIS APPLIES TO ALMOST ALL NEW C",
+          "I OWNED A 2008 PRIUS WITH 273,453 MILES WHEN I TRADED IT FOR A 2018 PRIUS ON 3/15/18.  MY 2008 NEVER HAD THE WINDSHIELD REPLACED; MEANWHILE, THE 2018 HAS BEEN REPLACED ONCE AND THE 2ND IS NOW CRACKED "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 4,
+        "share_pct": 11.1,
+        "excerpts": [
+          "The contact owns a 2018 Toyota Prius. The contact stated that while in bumper-to-bumper traffic, the vehicle suddenly accelerated. The brake pedal was applied but failed to respond. The driver crashed",
+          "I WAS DRIVING UP TO MY GARAGE ON THE SIDE OF MY HOUSE ON A CLEAR DAY, EARLY AFTERNOON. I WAS TRAVELING ABOUT 3 MPH AND TRIED TO STOP TO PARK IN FRONT OF THE GARAGE DOOR. I DEPRESSED THE BRAKE PEDAL AN",
+          "I STARTED MY CAR, PUT IT IN DRIVE AND BEGAN TO MAKE A U TURN OUT OF A PARKING LOT WHEN IT SUDDENLY ACCELERATED ON ITS OWN. I HAD THREE TURNS I HAD TO MAKE IN QUICK SUCCESSION (U TURN, LEFT ON PUBLIC D"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 4,
+        "share_pct": 11.1,
+        "excerpts": [
+          "The contact owns a 2018 Toyota Prius. The contact stated that while in bumper-to-bumper traffic, the vehicle suddenly accelerated. The brake pedal was applied but failed to respond. The driver crashed",
+          "Stopped at red light, then the car didn't accelerate when hitting gas. Engine revs but the car does not accelerate. It happened multiple time when the car was out in sun with full ac on(100f). Happene",
+          "TL* THE CONTACT OWNS A 2018 TOYOTA PRIUS. THE CONTACT STATED THAT WHILE OPERATING THE VEHICLE THE VEHICLE HAD EXPERIENCED UNINTENDED ACCELERATION AND CRASHED INTO A SECOND PARKED VEHICLE. NO INJURIES "
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 3,
+        "share_pct": 8.3,
+        "excerpts": [
+          "The contact owns a 2018 Toyota Prius. The contact stated that while having a routine oil change, the contact was made aware that there was no coolant in the coolant reservoir. No warning lights were i",
+          "The contact owns a 2018 Toyota Prius. The contact stated that while driving at an undisclosed speed, the engine constantly overheated. An unidentified warning light was flashing on the instrument pane",
+          "The contact owns a 2018 Toyota Prius. The contact stated while driving at an undisclosed speed, the check engine warning light illuminated. The vehicle was taken to the dealer where it was diagnosed w"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 0,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 10
+      },
+      {
+        "year": 2019,
+        "count": 8
+      },
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "18V579000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2016-2018 Toyota Prius vehicles.  A portion of the engine wire harness connected to the hybrid Power Control Unit (PCU), could contact the cover at this connection and wear, causing an electrical short circuit.",
+        "report_date": "05/09/2018",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:44.085Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

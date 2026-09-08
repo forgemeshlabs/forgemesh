@@ -1,0 +1,128 @@
+{
+  "slug": "2019-mazda-cx-5",
+  "year": 2019,
+  "make": "Mazda",
+  "model": "CX-5",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 267,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 130,
+        "share_pct": 48.7,
+        "excerpts": [
+          "2019 Mazda CX-5 developed P0192-00 fuel-pressure-related fault and significant loss of acceleration/limp mode. Mazda dealership diagnosed fuel rail/injector-seal issue and performed approximately $2,8",
+          "This is a follow-up to my complaint 11754947, filed 8/5/2026 on the same vehicle. The defect has now been confirmed in writing by an authorized Mazda dealer.  On 8/6/2026, San Francisco Mazda (repair ",
+          "My 2019 Mazda CX-5 with the 2.5L naturally aspirated SkyActiv-G engine with cylinder deactivation has developed a significant engine oil leak at the front of the engine, accompanied by a strong burnin"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 46,
+        "share_pct": 17.2,
+        "excerpts": [
+          "The infotainment system is experiencing the \"ghost touch\" problem already identified by Mazda and there has already been a class action lawsuit won regarding this problem.  I was not aware of this cla",
+          "The contact owns a 2019 Mazda CX-5. The contact stated while driving at an undisclosed speed, the instrument panel independently switched between features. The contact stated that the failure was pers",
+          "The touchscreen digitizer on the Mazda Connect infotainment system has developed a known defect causing constant phantom/ghost touch inputs. The screen registers random touches without any physical co"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 29,
+        "share_pct": 10.9,
+        "excerpts": [
+          "My car has an issue officially diagnosed by a reputable mechanic that matches the claim of the former TSB SA-058/20 that was changed and clarified through the now existing TSB SA-031/21.   My car has ",
+          "My VIN indicates the 2.5L non-turbo SKYACTIV engine. Many 2019 CX-5 Touring models with this engine used cylinder deactivation, which is the version that has had some cylinder head cracking complaints",
+          "The vehicle's cylinder head has developed a structural crack at on the casting, a known manufacturing defect identified by the manufacturer in Service Advisory SA-037/23. This failure is causing press"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 16,
+        "share_pct": 6,
+        "excerpts": [
+          "2019 Mazda CX-5 developed P0192-00 fuel-pressure-related fault and significant loss of acceleration/limp mode. Mazda dealership diagnosed fuel rail/injector-seal issue and performed approximately $2,8",
+          "My 2019 Mazda CX-5 (equipped with the 2.5L naturally aspirated SkyActiv-G engine with cylinder deactivation) has experienced a severe structural failure resulting in a cracked engine cylinder head. Th",
+          "My car has an issue officially diagnosed by a reputable mechanic that matches the claim of the former TSB SA-058/20 that was changed and clarified through the now existing TSB SA-031/21.   My car has "
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 16,
+        "share_pct": 6,
+        "excerpts": [
+          "My wife's vehicle has a \"Infotainment screen\" (dashboard touch screen).  There is a class action suit (CSP13d dealer letter) for issues regarding the screen performing tasks (Ghost screening touch) on",
+          "I purchased a 2019 Mazda CX-5 (As is) on July 20, 2015.  On September 11, 2025, as I was traveling on a three lane highway. I attempted to pass another vehicle.  As I was attempting to go around the v",
+          "When accelerating, the transmission feels jerky/stutters. The check engine light and traction control light are illuminated and on the instrument cluster the messages: \"Forward Smart City Brake Suppor"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 2,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 18
+      },
+      {
+        "year": 2020,
+        "count": 6
+      },
+      {
+        "year": 2021,
+        "count": 25
+      },
+      {
+        "year": 2022,
+        "count": 26
+      },
+      {
+        "year": 2023,
+        "count": 47
+      },
+      {
+        "year": 2024,
+        "count": 63
+      },
+      {
+        "year": 2025,
+        "count": 51
+      },
+      {
+        "year": 2026,
+        "count": 31
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "19V497000",
+        "component": "ENGINE",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2018-2019 CX-5, Mazda6, and 2019 Mazda3 vehicles.  A software error in the powertrain control module (PCM) may cause the engine to stall.",
+        "report_date": "27/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V875000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2018 Mazda3, Mazda6, 2019 CX-3, 2018-2019 MX-5, CX-5, CX-9, and 2019-2020 Mazda2 vehicles.  The impeller inside the low-pressure fuel pump may crack and deform, potentially causing the fuel pump to fail.",
+        "report_date": "12/11/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:37.706Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

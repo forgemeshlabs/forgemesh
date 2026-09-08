@@ -1,0 +1,140 @@
+{
+  "slug": "2019-toyota-highlander",
+  "year": 2019,
+  "make": "Toyota",
+  "model": "Highlander",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 475,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 191,
+        "share_pct": 40.2,
+        "excerpts": [
+          "The UA80 8-speed automatic transmission failed at 87,896 miles. Symptoms began as slipping in 1st and 2nd gears and harsh jerking when accelerating from a stop, with the engine revving while the vehic",
+          "The component that malfunctioned is the vehicle’s automatic transmission. The transmission developed a progressively worsening humming/whining noise during acceleration. The transmission is no longer ",
+          "My 2019 Toyota Highlander AWD vehicle started making a whining noise around 85,000 miles.  This high pitched whining sound occurred while accelerating and became louder and louder with time.  I resear"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 86,
+        "share_pct": 18.1,
+        "excerpts": [
+          "I am filing this safety complaint regarding a known defect in my 2019 Toyota Highlander Hybrid related to the high-pressure fuel system. My vehicle triggered a Check Engine Light with Diagnostic Troub",
+          "Vehicle has experienced sudden stalling while driving and an intermittent Check Engine Light with Diagnostic Trouble Code (DTC) P107B — Fuel Rail Pressure Sensor “B” Circuit Range/Performance. This is",
+          "Check engine light came on without warning, car started losing power, idling roughly, stalling out, and not wanting to start. Had my battery, alternator, and starter checked and they are all fine. Dia"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 69,
+        "share_pct": 14.5,
+        "excerpts": [
+          "I am writing to formally document a series of unresolved mechanical issues with my vehicle, culminating in a complete transmission failure, and to request assistance in resolving this matter. The time",
+          "The car is was a 2019 Toyota Highlander with approximately 125,000 miles. White Smoke started appearing in the exhaust. Quickly after that, the check engine light appeared and started blinking, meanin",
+          "My transmission is now missing the 3rd gear and left me and my kids stalled in traffic as I was turning in oncoming traffic.  Toyota dealership confirmed that was the problem upon inspection."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 55,
+        "share_pct": 11.6,
+        "excerpts": [
+          "My transmission is now missing the 3rd gear and left me and my kids stalled in traffic as I was turning in oncoming traffic.  Toyota dealership confirmed that was the problem upon inspection.",
+          "Sporadically, when starting up the vehicle, from the overhead console, it emanate a loud, ear piercing sound that is painful to one's ears.   Apparently, this is a KNOWN issue with 2019 Toyota Highlan",
+          "The contact owns a 2019 Toyota Highlander. The contact stated that while driving approximately 30 MPH, the vehicle stalled; the contact shifted the vehicle into park(P) and restarted the vehicle for t"
+        ]
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "complaints": 21,
+        "share_pct": 4.4,
+        "excerpts": [
+          "2019 Toyota Highlander- Consumer is asking for any help that can be offered in reference to recalls.  Legal Notice-Class Action Settlement, recall notice, online recall search documents, invoice for r",
+          "The contact owns a 2019 Toyota Highlander. The contact stated while driving 60 MPH, the check engine warning light illuminated and the vehicle lost motive power and stalled. The vehicle was jumpstarte",
+          "2019 TOYOTA HIGHLANDER. CONSUMER WRITES SEEKING REIMBURSEMENT FOR VEHICLE REPAIRS RELATED TO SAFETY RECALL.  THE CONSUMER REQUESTED TO BE REMOVED FROM THE RECALL LIST AS THE VEHICLE HAS BEEN REPAIRED."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 22,
+      "fires": 1,
+      "injuries": 18,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 4
+      },
+      {
+        "year": 2019,
+        "count": 43
+      },
+      {
+        "year": 2020,
+        "count": 85
+      },
+      {
+        "year": 2021,
+        "count": 29
+      },
+      {
+        "year": 2022,
+        "count": 22
+      },
+      {
+        "year": 2023,
+        "count": 34
+      },
+      {
+        "year": 2024,
+        "count": 66
+      },
+      {
+        "year": 2025,
+        "count": 131
+      },
+      {
+        "year": 2026,
+        "count": 61
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V012000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) recalled certain 2018-2019 4Runner, Highlander, Camry, Land Cruiser, Sequoia, Sienna, Tacoma and Tundra, and Lexus RC 300, RC 350, GS 350, GX 460, IS 300, LC 500, LS 500, LX 570, RX 350L, and 2019 Toyota Avalon and Corolla, and certain Lexus NX 300, ",
+        "report_date": "13/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V244000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Gulf States Toyota (GST) is recalling certain 2019 C-HR, 4Runner, Avalon, Avalon Hybrid, Camry, Camry Hybrid, Highlander, Land Cruiser, Prius, RAV4, Sequoia, Tacoma, Sienna, Tundra and Yaris vehicles.  The text on the load capacity label may become illegible.  As such, these vehicles fail to comply ",
+        "report_date": "27/03/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:40.314Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

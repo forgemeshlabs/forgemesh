@@ -1,0 +1,111 @@
+{
+  "slug": "2022-kia-forte",
+  "year": 2022,
+  "make": "Kia",
+  "model": "Forte",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 26,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 4,
+        "share_pct": 15.4,
+        "excerpts": [
+          "Hi I had my Kia forte GT 2022 for 3 years and my engine light has been on for about 3 months now . I get a check up and an oil change regularly. It comes on and goes off . I told my mechanic and he sa",
+          "In early 2025, I encountered a serious issue with my 2022 Kia Forte GT, a manual car with 76,000 miles and a 1.6L turbo Gamma engine. I took it for a routine oil change at a local non-Kia shop, but th",
+          "The car hesitates to accelerate when going from my stop and then suddenly accelerate. The check engine comes on and when I’m gonna take it to the dealership. It turns off. Dealership claims they can’t"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 4,
+        "share_pct": 15.4,
+        "excerpts": [
+          "My car body material looks like a baby toy I have a bas accient and",
+          "I believe that airbags/ airbag sensors have failed or malfunctioned and they are available for inspection. My safety as well as the safety of others was put at risk because the airbags should have dep",
+          "I keep shutting down, not going on something with a forward assist on top of that. I have no control over my car does whatever ones and it’s very unstable Fawzy no control is very unstable very bumpy "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 3,
+        "share_pct": 11.5,
+        "excerpts": [
+          "I've been experiencing issues with steering loosening/tighting for over 1 1/2 years.21,000 miles since I first reported the issue 5/23/24.Within a few months of reporting the steering issue,I started ",
+          "The front passenger-side lower control arm on my 2022 Kia Forte fractured completely without warning during normal driving conditions. There was no collision, curb strike, pothole impact, or accident.",
+          "I got into an accident i On December 10th, 2023 my car was totaled out. My steering wheel felt like it was doing its own thing and I crashed straight into a curb and some rocks. I was injured and they"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 3,
+        "share_pct": 11.5,
+        "excerpts": [
+          "I've been experiencing issues with steering loosening/tighting for over 1 1/2 years.21,000 miles since I first reported the issue 5/23/24.Within a few months of reporting the steering issue,I started ",
+          "The front passenger-side lower control arm on my 2022 Kia Forte fractured completely without warning during normal driving conditions. There was no collision, curb strike, pothole impact, or accident.",
+          "I keep shutting down, not going on something with a forward assist on top of that. I have no control over my car does whatever ones and it’s very unstable Fawzy no control is very unstable very bumpy "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 2,
+        "share_pct": 7.7,
+        "excerpts": [
+          "AC is not blowing cold air even after replacing refrigerant. Mechanic says the compressor has failed, even though the car is only a few years old and has never been involved in any major incidents.",
+          "I believe that airbags/ airbag sensors have failed or malfunctioned and they are available for inspection. My safety as well as the safety of others was put at risk because the airbags should have dep"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 1,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 10
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "22V304000",
+        "component": "STEERING:COLUMN",
+        "summary": "Kia Motors America (Kia) is recalling certain 2021-2022 Rio and Forte vehicles.  A bolt in the steering column may not be secured properly, which can cause the steering column to detach from the steering rack and result in a loss of steering control.",
+        "report_date": "05/05/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:31.792Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

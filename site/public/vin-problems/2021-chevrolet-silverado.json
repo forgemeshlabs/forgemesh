@@ -1,0 +1,296 @@
+{
+  "slug": "2021-chevrolet-silverado",
+  "year": 2021,
+  "make": "Chevrolet",
+  "model": "Silverado",
+  "matched_as": {
+    "complaints": [
+      "SILVERADO 2500",
+      "SILVERADO 1500",
+      "SILVERADO 3500",
+      "SILVERADO 6500",
+      "SILVERADO 4500"
+    ],
+    "recalls": [
+      "SILVERADO 2500",
+      "SILVERADO 1500",
+      "SILVERADO 3500",
+      "SILVERADO 6500",
+      "SILVERADO 4500"
+    ]
+  },
+  "failures": {
+    "total_complaints": 934,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 375,
+        "share_pct": 40.1,
+        "excerpts": [
+          "Similar to the issues that were on the gas version of this engine and the recall associated with it. The engine seized on the expressway. When it was towed to the dealership, they said it was catastro",
+          "first issue was around April-May 2025 when my engine started knocking and burning fuel.  Warning light came on and it went right in to the dealer where I have all my maintenance done.  They determined",
+          "I own a 2021 Chevrolet Silverado 2500HD Duramax diesel with approximately 100,300 miles. The truck began displaying a “Service Emissions System” warning and a countdown message that in a certain numbe"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 267,
+        "share_pct": 28.6,
+        "excerpts": [
+          "My 10L1000 transmission had a catastrophic failure internally which caused it to rough shift, sudden down shifting, not want to shift into gear at all, and high engine rpm prior to roughly shifting. I",
+          "Operator of this vehicle was commuting and truck started to slow down and chug. Vehicle hesitated when operator applied gas pedal. -Transmission cooler inlet/outlet pipe as per Chevrolet known issues.",
+          "While traveling at highway speed on the interstate in my 2021 Chevrolet Silverado 2500 HD (approx. 120,000 miles), the vehicle experienced a sudden hard jolt followed by a momentary rear wheel lockup."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 138,
+        "share_pct": 14.8,
+        "excerpts": [
+          "The contact owns a 2021 Chevrolet Silverado 2500. The contact stated that the connector for the heater system was causing the vehicle to overheat, subsequently enabling the vehicle to go faster than 5",
+          "We believe that it is the park sensor in the column . When you place the truck into park, the screen displays the words shift to park period and the dinger.Inside the truck continues to ding for a lon",
+          "The tailgate on my truck is electrically opened & closed. I've been having trouble with the tailgate opening randomly, even while driving. This has happened multiple times and can create a very danger"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 65,
+        "share_pct": 7,
+        "excerpts": [
+          "What component or system failed or malfunctioned, and is it available for inspection upon request? - The parking brakes were engaged and would not release / yes, it is available for inspection How was",
+          "On 01/16/2026, Quirk Chevrolet completed product safety recall N242482680 for the Brake Pressure Switch Connector Fire on my vehicle.  Shortly after, my vehicle would come to an abrupt stop on its own",
+          "Took truck to dealer with concern of higher than normal braking force needed. Couldn’t verify concern. Looked today under the steering column and the brake booster is leaking fluid inside the cabin of"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 57,
+        "share_pct": 6.1,
+        "excerpts": [
+          "The contact owns a 2021 Chevrolet Silverado 1500. The contact stated that while attempting to start the vehicle, the engine failed to crank. The contact originally suspected a battery failure, as the ",
+          "The contact owns a 2021 Chevrolet Silverado 1500. The contact stated that while driving at an undisclosed speed, the check engine warning light illuminated and the messages \"Engine Power Reduced\" and ",
+          "The contact owns a 2021 Chevrolet Silverado 1500. The contact stated that while driving at an undisclosed speed, the vehicle came to a complete stop without warning. The contact stated that the failur"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 23,
+      "fires": 13,
+      "injuries": 19,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 6
+      },
+      {
+        "year": 2021,
+        "count": 87
+      },
+      {
+        "year": 2022,
+        "count": 75
+      },
+      {
+        "year": 2023,
+        "count": 79
+      },
+      {
+        "year": 2024,
+        "count": 179
+      },
+      {
+        "year": 2025,
+        "count": 339
+      },
+      {
+        "year": 2026,
+        "count": 167
+      }
+    ]
+  },
+  "recalls": {
+    "count": 21,
+    "recalls": [
+      {
+        "campaign_number": "21V578000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "General Motors, LLC. (GM) is recalling certain 2020-2021 Chevrolet Silverado 2500 and GMC Sierra 2500 vehicles equipped with a 17\" spare tire (RPO ZHQ or ZXT) and either the 20\" accessory road tire (RPO REM) or the 18\" accessory road tire (RPO Q2V).  Operating the spare tire with other 20\" or 18\" ti",
+        "report_date": "29/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V758000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021-2022 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500, and Sierra 3500 vehicles with electronic brake control modules (EBCM) replaced during vehicle assembly.  The bolts that attach the brake pressure modulator valve (BPMV) assembly may not",
+        "report_date": "29/09/2021",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "20V792000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2019-2021 Chevrolet Silverado 1500 and GMC Sierra 1500, 2021 Chevrolet Suburban and Tahoe and GMC Yukon XL and 2020-2021 Chevrolet Silverado 2500 and 3500 and GMC Sierra 2500 and 3500 vehicles.   The seat belt brackets may not be secured to the seat fram",
+        "report_date": "17/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V811000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020 Chevrolet Bolt EV and 2021 GMC Canyon and Sierra 1500, 2500 and 3500, Yukon, Yukon XL, Cadillac Escalade and Escalade ESV and Chevrolet Blazer, Camaro, Colorado, Equinox, Silverado 1500, 2500 and 3500, Suburban and Tahoe vehicles.  Incorrect bolts m",
+        "report_date": "23/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V060000",
+        "component": "LATCHES/LOCKS/LINKAGES:TAILGATE:LATCH",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2024 Chevrolet Silverado 2500, 3500, GMC Sierra 2500 and 3500 vehicles equipped with power-unlatching tailgates.  The tailgate's electronic gate-release switch may short circuit due to water intrusion, which can result in the tailgate inadvertently ",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V797000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2022 Chevrolet Silverado 1500, 2500, 3500, GMC Sierra 1500, 2500, 3500, 2021 Cadillac Escalade, Escalade ESV, Chevrolet Tahoe, Suburban, GMC Yukon, and Yukon XL vehicles equipped with diesel engines.  The transmission control valve may fail and caus",
+        "report_date": "24/10/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V792000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2019-2021 Chevrolet Silverado 1500 and GMC Sierra 1500, 2021 Chevrolet Suburban and Tahoe and GMC Yukon XL and 2020-2021 Chevrolet Silverado 2500 and 3500 and GMC Sierra 2500 and 3500 vehicles.   The seat belt brackets may not be secured to the seat fram",
+        "report_date": "17/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V811000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020 Chevrolet Bolt EV and 2021 GMC Canyon and Sierra 1500, 2500 and 3500, Yukon, Yukon XL, Cadillac Escalade and Escalade ESV and Chevrolet Blazer, Camaro, Colorado, Equinox, Silverado 1500, 2500 and 3500, Suburban and Tahoe vehicles.  Incorrect bolts m",
+        "report_date": "23/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V684000",
+        "component": "TIRES",
+        "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT5, GMC Acadia and Chevrolet Traverse vehicles and 2020-2021 Chevrolet Silverado 1500, GMC Sierra 1500 vehicles.  The vehicles may have been manufactured with Continental tires that were overcured.",
+        "report_date": "05/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V495000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors, LLC. (GM) is recalling certain 2021 Chevrolet Silverado 1500 vehicles.  The front driver's side air bag module may be missing one or more metal tabs that secure the plastic air bag cover to the housing.",
+        "report_date": "01/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V985000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "General Motors (GM) is recalling certain 2019-2021 GMC Sierra 1500 and Silverado 1500 vehicles equipped with certain accessory road tires and a 17\" spare tire.  The 17\" spare tire provided with the vehicle is not compatible for use with the accessory wheels, which can cause the anti-lock brake syste",
+        "report_date": "16/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V797000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2022 Chevrolet Silverado 1500, 2500, 3500, GMC Sierra 1500, 2500, 3500, 2021 Cadillac Escalade, Escalade ESV, Chevrolet Tahoe, Suburban, GMC Yukon, and Yukon XL vehicles equipped with diesel engines.  The transmission control valve may fail and caus",
+        "report_date": "24/10/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V274000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "General Motors LLC (GM) is recalling certain 2021-2024 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles equipped with a 6.2L V8 gas engine.  The connecting rod and/or crankshaft engine components may have manufacturing d",
+        "report_date": "24/04/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V083000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC is recalling certain 2020 Chevrolet Silverado 2500, 3500, GMC Sierra 2500, 3500, and 2020-2022 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles that may have been repaired incorrectly under recall 24V797. The transmission control valve may fail and cause the rear wheels to l",
+        "report_date": "12/02/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V758000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021-2022 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500, and Sierra 3500 vehicles with electronic brake control modules (EBCM) replaced during vehicle assembly.  The bolts that attach the brake pressure modulator valve (BPMV) assembly may not",
+        "report_date": "29/09/2021",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "20V792000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2019-2021 Chevrolet Silverado 1500 and GMC Sierra 1500, 2021 Chevrolet Suburban and Tahoe and GMC Yukon XL and 2020-2021 Chevrolet Silverado 2500 and 3500 and GMC Sierra 2500 and 3500 vehicles.   The seat belt brackets may not be secured to the seat fram",
+        "report_date": "17/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V811000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020 Chevrolet Bolt EV and 2021 GMC Canyon and Sierra 1500, 2500 and 3500, Yukon, Yukon XL, Cadillac Escalade and Escalade ESV and Chevrolet Blazer, Camaro, Colorado, Equinox, Silverado 1500, 2500 and 3500, Suburban and Tahoe vehicles.  Incorrect bolts m",
+        "report_date": "23/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V060000",
+        "component": "LATCHES/LOCKS/LINKAGES:TAILGATE:LATCH",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2024 Chevrolet Silverado 2500, 3500, GMC Sierra 2500 and 3500 vehicles equipped with power-unlatching tailgates.  The tailgate's electronic gate-release switch may short circuit due to water intrusion, which can result in the tailgate inadvertently ",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V797000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2022 Chevrolet Silverado 1500, 2500, 3500, GMC Sierra 1500, 2500, 3500, 2021 Cadillac Escalade, Escalade ESV, Chevrolet Tahoe, Suburban, GMC Yukon, and Yukon XL vehicles equipped with diesel engines.  The transmission control valve may fail and caus",
+        "report_date": "24/10/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V390000",
+        "component": "SERVICE BRAKES, HYDRAULIC:BRAKE FLUID LOW WARNING:SWITCH/SENSOR/FLOAT",
+        "summary": "General Motors (GM) is recalling certain 2019-2024 Chevrolet Silverado Medium Duty 4500HD, 5500HD, and 6500HD vehicles. The brake pressure sensor assembly may leak brake fluid into the brake pressure switch and cause a short circuit.",
+        "report_date": "12/06/2025",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "25V390000",
+        "component": "SERVICE BRAKES, HYDRAULIC:BRAKE FLUID LOW WARNING:SWITCH/SENSOR/FLOAT",
+        "summary": "General Motors (GM) is recalling certain 2019-2024 Chevrolet Silverado Medium Duty 4500HD, 5500HD, and 6500HD vehicles. The brake pressure sensor assembly may leak brake fluid into the brake pressure switch and cause a short circuit.",
+        "report_date": "12/06/2025",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:00.113Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

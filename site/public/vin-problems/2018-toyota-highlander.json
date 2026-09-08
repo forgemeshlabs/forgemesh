@@ -1,0 +1,164 @@
+{
+  "slug": "2018-toyota-highlander",
+  "year": 2018,
+  "make": "Toyota",
+  "model": "Highlander",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 264,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 64,
+        "share_pct": 24.2,
+        "excerpts": [
+          "whining sound in the transmission, including high-pitched whining, erratic shifting, clunks, hesitation, and premature failure. These vehicles are equipped with the UA80F (AWD) and UA80E (FWD) 8-speed",
+          "Transmission failure happened suddenly. I pulled out of a car wash and car would not accelerate. I was in heavy traffic and car wouldn’t move.",
+          "Vehicle has a high pitch whine on acceleration. Was diagnosed by Toyota dealer. Advised to replace the transmission. This VIN is not included in the CSP ZJC warranty but is a 2018 and is experiencing "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 58,
+        "share_pct": 22,
+        "excerpts": [
+          "The brakes are very soft and unreliable.  There is a recall #18V-211 dated April 2,2018.  This recall did not include this specific car but the car was manufactured within a few days of the recall. Af",
+          "Car will not start due to message that says \"Braking Power Low.  Stop in a Safe Place\" There have been recalls on 2018 Highlanders for the brake vacuum pump but it is not listed for my particular vehi",
+          "I own a Toyota Highlander 2018 LE. I have been servicing it regularly at authorized Toyota delaership service centers. I have around 28000 miles on it.  While trying to start the car this morning, the"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 33,
+        "share_pct": 12.5,
+        "excerpts": [
+          "While driving my 2018 Toyota Highlander Limited, the check engine light began flashing off and on. I was near an exit and drove off the freeway. I could feel the car (near the gas pedal) start shaking",
+          "I just got my vehicle inspected and successfully passed with no codes on 07/07/2026. Today 07/10/2026 as I was driving to work my vehicle began to jerk/ jitter and when into limp mode. I took it to a ",
+          "Engine cam tower oil leak due to the manufacturer's inadequate assembly of the engine parts. The mating surfaces were not adequately prepared and/or application of a contaminated sealant did not adher"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 24,
+        "share_pct": 9.1,
+        "excerpts": [
+          "The contact owns a 2018 Toyota Highlander. The contact stated that while attempting to turn left or right, the steering wheel became difficult to turn. The check engine warning light illuminated, and ",
+          "There is a voice listening device or microphone on the headliner right above the driver's side seat which leaks water. I see there is a recall for a windshield but it could be coming from the sunroof.",
+          "While driving the car at approximately 40 mphs the car suddenly jolted and stopped moving.  Luckily no one was behind and I pulled over also noticing check engine light came on.   I immediately called"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 22,
+        "share_pct": 8.3,
+        "excerpts": [
+          "I just got my vehicle inspected and successfully passed with no codes on 07/07/2026. Today 07/10/2026 as I was driving to work my vehicle began to jerk/ jitter and when into limp mode. I took it to a ",
+          "First symptom I noticed was the car smell while it was running. I used a device to see what codes of any would pop up on a scan. It came up with codes tying into the fuel system. I then went to go fil",
+          "I just found out that there was an initial recall #20V012000 and an expanded recall #20V682000 on my 2018 Toyota Highlander that I was unaware of regarding the low-pressure fuel pump inside the fuel t"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 23,
+      "fires": 1,
+      "injuries": 25,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 30
+      },
+      {
+        "year": 2019,
+        "count": 30
+      },
+      {
+        "year": 2020,
+        "count": 47
+      },
+      {
+        "year": 2021,
+        "count": 21
+      },
+      {
+        "year": 2022,
+        "count": 24
+      },
+      {
+        "year": 2023,
+        "count": 23
+      },
+      {
+        "year": 2024,
+        "count": 31
+      },
+      {
+        "year": 2025,
+        "count": 29
+      },
+      {
+        "year": 2026,
+        "count": 27
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V012000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) recalled certain 2018-2019 4Runner, Highlander, Camry, Land Cruiser, Sequoia, Sienna, Tacoma and Tundra, and Lexus RC 300, RC 350, GS 350, GX 460, IS 300, LC 500, LS 500, LX 570, RX 350L, and 2019 Toyota Avalon and Corolla, and certain Lexus NX 300, ",
+        "report_date": "13/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18E107000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Fujian Wanda Automobile Glass Industry (Wanda) is recalling certain aftermarket Replacement Windshields sold for use in 2014-2018 Toyota Highlander vehicles.  The windshields have an attached wire harness that water may leak into, possibly causing damage to the vehicle's Engine Control Module (ECM).",
+        "report_date": "27/11/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V831000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2017-2018 Toyota 4Runner and Tundra, 2018 Toyota Highlander, RAV4 and Lexus GX460 and 2017 Toyota Sienna and Tacoma vehicles.  These vehicles may have incorrect load carrying capacity modification labels.  As such, these vehicles",
+        "report_date": "20/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V211000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018 Toyota Camry and Highlander vehicles, 2017 Toyota Sienna and Tacoma vehicles and 2017 Lexus RX350 vehicles.  During the manufacturing process, the oil galley in the rotor for the brake booster vacuum pump assembly may have b",
+        "report_date": "03/04/2018",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:36.409Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

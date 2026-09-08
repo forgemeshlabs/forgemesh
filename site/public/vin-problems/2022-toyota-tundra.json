@@ -1,0 +1,212 @@
+{
+  "slug": "2022-toyota-tundra",
+  "year": 2022,
+  "make": "Toyota",
+  "model": "Tundra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 425,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 162,
+        "share_pct": 38.1,
+        "excerpts": [
+          "I am filing this complaint regarding my Toyota Tundra and Toyota Safety Recall 24TA07. My vehicle was previously affected by this engine recall, and Toyota replaced the engine as the recall remedy.  T",
+          "\"I am writing to report a latent safety concern regarding my 2022 Toyota Tundra Hybrid equipped with the V35A-FTS engine. Non-hybrid 2022–2024 Tundras sharing this exact V35A engine block architecture",
+          "I am 99% sure my vehicle is compromised via a cybersecurity incident.  My emergency brake will sometimes slam for no reason, no multi media system updates have occurred for over two years, and the veh"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 103,
+        "share_pct": 24.2,
+        "excerpts": [
+          "Manufacturer Recall Number25TB06 NHTSA Recall Number25V322  In regards to the above mentioned recalls. The vehicle's reverse camera began flashing while driving forward. The R light on the gearshift w",
+          "I have not had an actual vehicle accident as of yet but the vehicle has a serious hesitation issue during acceleration from a quick stop or rolling situation whereas if you were making a left turn at ",
+          "I've been experiencing throttle lag on my 2022 Tundra in certain situations during rolling stops (I've also had it occur from a dead stop, though more frequent in rolling stops). Sometimes there is a "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 74,
+        "share_pct": 17.4,
+        "excerpts": [
+          "Driving on the interstate and the truck surged very hard. The truck began to surge very hard and went into decreased speed mode.  We were told by the dealer there is a TSB for the PCM. This decreased ",
+          "After I put gas into the vehicle gas tank, the gas tank gauge indicated the tank was 75% full. The following day when I started the vehicle the gauge indicated the tank was 100% full and I did not add",
+          "On 2022 - 2024 Toyota Tundra models, the vehicles are experiencing an issue where the fuel sensor will reset the digital and analog fuel displays back to showing a full tank without adding fuel to the"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 37,
+        "share_pct": 8.7,
+        "excerpts": [
+          "The contact owns a 2022 Toyota Tundra. The contact previously received notification of NHTSA Campaign Number: 24V381000 (ENGINE AND ENGINE COOLING). The contact stated that at start-up there was an ab",
+          "The contact owns a 2022 Toyota Tundra. The contact stated that while his wife was driving at an undisclosed speed, the vehicle jerked, and the engine stalled. The vehicle was driven to the shoulder of",
+          "The contact owns a 2022 Toyota Tundra. The contact stated that while her partner was driving approximately 45 MPH, the vehicle stalled. The driver was able to pull over; however, several attempts were"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 31,
+        "share_pct": 7.3,
+        "excerpts": [
+          "The regain from brake for the hybrid system jerking when go to full stop",
+          "The contact called on behalf of the owner of a 2022 Toyota Tundra. The owner received notifications of NHTSA Campaign Numbers: 22V501000 (ELECTRICAL SYSTEM, BACK OVER PREVENTION), 22V661000 (SERVICE B",
+          "My 2022 had a new crate engine put in at 26,000 miles in approx June 2025 (told me it would be 2 days but in less than 24hrs the service advisor called and told me it was completed) and from the secon"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 0,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 71
+      },
+      {
+        "year": 2023,
+        "count": 64
+      },
+      {
+        "year": 2024,
+        "count": 114
+      },
+      {
+        "year": 2025,
+        "count": 124
+      },
+      {
+        "year": 2026,
+        "count": 49
+      }
+    ]
+  },
+  "recalls": {
+    "count": 13,
+    "recalls": [
+      {
+        "campaign_number": "22V285000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022 Tundra vehicles equipped with a Panoramic View Monitor (PVM) system.  The parking assist electronic control unit (ECU) software may prevent transmission of the rearview camera signal during cold weather, preventing the rearv",
+        "report_date": "28/04/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V445000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022 Tundra and Tundra Hybrid vehicles.  The flange nuts on the axle shaft sub-assemblies can loosen over time and potentially cause one or both axle shaft sub-assemblies to separate from the axle housing.",
+        "report_date": "23/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V501000",
+        "component": "ELECTRICAL SYSTEM:ADAS:PARKING ASSIST:SOFTWARE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022 Tundra and Tundra Hybrid vehicles equipped with a Panoramic View Monitor (PVM) system.  Incorrect programming of the parking-assist electronic control unit (ECU) software, may cause the front camera image to appear on the mu",
+        "report_date": "13/07/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V661000",
+        "component": "SERVICE BRAKES, HYDRAULIC",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022 Lexus NX250, NX350, and Toyota Tundra vehicles.  The Skid Control ECU within the Brake Actuator Assembly may falsely detect an overcurrent condition of the Electronic Parking Brake (EPB) Actuator and enter a failsafe mode wh",
+        "report_date": "01/09/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V111000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022-2023 Tundra and Tundra Hybrid vehicles.  A software error in the combination meter's electronic control unit (ECU) may cause the Instrument Panel LCD display to go blank.  As such, these vehicles fail to comply with the requ",
+        "report_date": "22/02/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V142000",
+        "component": "STRUCTURE:BODY",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022-2023 Tundra and Tundra Hybrid vehicles that may be equipped with a Toyota genuine accessory tonneau cover.  The tonneau cover attachment joints may come loose and allow the cover to detach.",
+        "report_date": "03/03/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V566000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022-2023 Tundra and Tundra Hybrid vehicles.  The plastic fuel tube routed near metallic brake lines may chafe against the brake lines and become damaged, possibly resulting in a fuel leak.",
+        "report_date": "10/08/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V757000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2022-2024 Toyota Tundra vehicles.  The load carrying capacity modification label states the incorrect load carrying capacity, which can result in an overloaded vehicle.  As such, these vehicles fail to comply with the requirements of Fede",
+        "report_date": "09/11/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V125000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022-2024 Tundra, Tundra Hybrid, Lexus LX600, and 2023-2024 Sequoia Hybrid vehicles.  Unexpected vehicle movement may occur when the vehicle is in neutral and the brakes are not applied.",
+        "report_date": "21/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V381000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022-2023 Tundra and Lexus LX600 vehicles equipped with a V35A engine.  Debris from the manufacturing process may contaminate the engine and cause the main bearings to fail, which can result in an engine stall and loss of drive p",
+        "report_date": "30/05/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V322000",
+        "component": "EXTERIOR LIGHTING:BACK UP LIGHTS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022-2025 Toyota Tundra and Tundra Hybrid vehicles. Moisture may enter the reverse light assemblies and cause a light failure.",
+        "report_date": "15/05/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V657000",
+        "component": "BACK OVER PREVENTION:SOFTWARE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022-2025 Tundra, Tundra Hybrid, and 2023-2025 Sequoia Hybrid vehicles. A software error may cause the rearview image not to display when the vehicle is placed in reverse. As such, these vehicles fail to comply with the requireme",
+        "report_date": "01/10/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V767000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022-2024 Toyota Tundra, Lexus LX, and 2024 Lexus GX vehicles equipped with a V35A engine. Debris from the manufacturing process may contaminate the engine and cause the main bearings to fail, which can result in an engine stall ",
+        "report_date": "06/11/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:05.733Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

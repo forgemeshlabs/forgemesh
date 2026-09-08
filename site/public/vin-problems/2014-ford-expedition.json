@@ -1,0 +1,131 @@
+{
+  "slug": "2014-ford-expedition",
+  "year": 2014,
+  "make": "Ford",
+  "model": "Expedition",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 72,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 34,
+        "share_pct": 47.2,
+        "excerpts": [
+          "I bought this 2014 ford expedition. I didn't know at the time the Triton 5.4 had a transmission Lead Frame defect. I asked them to cover it under NHTSA 26V237 but they refused because they dsaid it wa",
+          "While driving on interstate at highway speeds (70mph), the transmission experienced sudden downshift, which increased the engine RPMs to redline and rapidly decelerated the vehicle. Occupant safety wa",
+          "While driving the truck will shift into 1st gear.  It will also shift back and forth between gears randomly.  When this happens, the wheels may lock up or just skid.  The service engine light will com"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 13,
+        "share_pct": 18.1,
+        "excerpts": [
+          "Was driving 80MPH down the highway when instantly the rear wheels locked up, green wrench came on dashboard and my car came to a screeching halt.  Complete loss of power, and am VERY lucky it did not ",
+          "The contact owns a 2014 Ford Expedition. The contact stated that while driving 55 MPH, the contact noticed an abnormal burning smell while the blower motor was engaged. There was no warning light illu",
+          "The contact owns a 2014 Ford Expedition. The contact stated that while at the car wash, the running boards extended downward and fractured. The contact stated that the running boards failed to retract"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 10,
+        "share_pct": 13.9,
+        "excerpts": [
+          "Was driving 80MPH down the highway when instantly the rear wheels locked up, green wrench came on dashboard and my car came to a screeching halt.  Complete loss of power, and am VERY lucky it did not ",
+          "The contact owns a 2014 Ford Expedition. The contact stated while driving at an undisclosed speed, the transmission unexpectedly downshifted. The contact stated that the check engine and Advancetrac w",
+          "The contact's father owns a 2014 Ford Expedition. The contact stated while his father was driving at an undisclosed speed, the speedometer was fluctuating. The vehicle was taken to an unknown dealer, "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 7,
+        "share_pct": 9.7,
+        "excerpts": [
+          "TRAVELING APROX 45-50 MPH ON HIGHWAY WHEN A SUBURBAN PULL OUT IN FRONT OF WITH ABOUT 55 FEET AND I HIT THE TRAILER THEY WERE PULLING HEAD ON AND THEN IT SPUN ME SIDEWAYS AND INTO A 5 FT DEEP DITCH AND",
+          "TRAFFIC ON HWY CAME TO A SUDDEN STOP FROM AROUND 60 MPH. I APPLIED THE BRAKES VERY HARD AND CAME TO A SAFE STOP. THE VEHICLE BEHIND ME DID NOT STOP AND REAR ENDED ME AT A HIGH RATE OF SPEED. THERE WER",
+          "THIS VEHICLE WAS IN AN ACCIDENT WITH A SEMI TRUCK ON A SURFACE STREET. BOTH VEHICLES WERE IN MOTION; THE SEMI TURNED INTO OUR VEHICLE.  THE ENTIRE DRIVER SIDE FRONT QUARTER PANEL AND A PILLAR WERE DES"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 6,
+        "share_pct": 8.3,
+        "excerpts": [
+          "Minor side impact.  All repairs were make and no issues noted",
+          "The contact owns a 2014 Ford Expedition. The contact stated that while at the car wash, the running boards extended downward and fractured. The contact stated that the running boards failed to retract",
+          "ON SUNDAY NOVEMBER 29, 2020, THE VEHICLE WAS DRIVEN BACK FROM CHURCH, APPROXIMATELY 10 MILES.  IT WAS PARKED ON A GRAVEL DRIVE WAY, IN PARK, AND THE KEY REMOVED.  THE VEHICLE WAS EXITED AT APPROXIMATE"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 2,
+      "injuries": 9,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 2
+      },
+      {
+        "year": 2015,
+        "count": 3
+      },
+      {
+        "year": 2016,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 5
+      },
+      {
+        "year": 2018,
+        "count": 5
+      },
+      {
+        "year": 2019,
+        "count": 9
+      },
+      {
+        "year": 2020,
+        "count": 7
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 7
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T19:59:01.779Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

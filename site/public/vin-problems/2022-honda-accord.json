@@ -1,0 +1,136 @@
+{
+  "slug": "2022-honda-accord",
+  "year": 2022,
+  "make": "Honda",
+  "model": "Accord",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 238,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 91,
+        "share_pct": 38.2,
+        "excerpts": [
+          "I am writing because I am having an ongoing problem with my car stereo ghosting. I understand it to be the digitizer that Honda is fully aware of. When I called to speak with the service manager at th",
+          "The infotainment touchscreen in my 2022 Honda Accord is malfunctioning and repeatedly registering phantom or “ghost” touches without any input from me. While I am driving, the system unpredictably cha",
+          "This ongoing problem, not related to an accident or single incident. The center console screen will jump around / glitch / freeze without being touched. These “ghost touches” go in and out of apps, ma"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 60,
+        "share_pct": 25.2,
+        "excerpts": [
+          "1) incident 1: While changing lanes on an empty street emergency brake kicked in although there is vehicle in front or rear in adjacent lane. Incident date: 08/6/2026 2) incident 2: during snow time o",
+          "Today was the 4th time my vehicle breaked on its own without any reason. The prior breaking, I kinda shrugged off thinking it maybe sensed another vehicle and was being cautious. However, today I was ",
+          "The contact owns a 2022 Honda Accord. The contact stated that on four occasions while driving at various speeds, the pre-collision warning light activated, and the Forward Collision Avoidance Automati"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 31,
+        "share_pct": 13,
+        "excerpts": [
+          "The head gasket failed in the engine. Coolant leaked into the cylinder head causing the engine to overheat and put the driver at danger to immediate vehicle failure while driving.  The problem was con",
+          "Keep getting code p0299",
+          "The car suddenly started to miss fire and lose power. This puts the driver and others in dangerous situations. If it happens when pulling out into traffic and the car misfired it could cause a serious"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 17,
+        "share_pct": 7.1,
+        "excerpts": [
+          "Auto start/stop not working and  air horn went out as well, yes available for inspection. No it hasn’t been inspected yet by dealer as it is over warranty limit. First appeared 5/29/26",
+          "When I would go to accelerate onto the the interstate and would hit around 67-69 MPH my car would go lazy and the engine light would come on. This happened about 3 times and then 4th time every single",
+          "While driving my vehicle suddenly would not accelerate above 20 mph and warning lights all over the dash lit up (check engine, abs brake system, adaptive cruise control, vehicle stability, power steer"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 15,
+        "share_pct": 6.3,
+        "excerpts": [
+          "1) incident 1: While changing lanes on an empty street emergency brake kicked in although there is vehicle in front or rear in adjacent lane. Incident date: 08/6/2026 2) incident 2: during snow time o",
+          "Different codes started blanking after I got gas June 11, 2026. Soon as I cranked up it started flashing warnings. Emission system, brake system, sport mode doesn’t work, cruise control doesn’t work, ",
+          "Today was the 4th time my vehicle breaked on its own without any reason. The prior breaking, I kinda shrugged off thinking it maybe sensed another vehicle and was being cautious. However, today I was "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 0,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 22
+      },
+      {
+        "year": 2023,
+        "count": 35
+      },
+      {
+        "year": 2024,
+        "count": 33
+      },
+      {
+        "year": 2025,
+        "count": 79
+      },
+      {
+        "year": 2026,
+        "count": 68
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "23V430000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Honda (America Honda Motor Co.) is recalling certain 2023 Civic, Acura RDX, Acura Integra, and 2022 Honda Accord vehicles.  A ball valve in the vehicle stability assist (VSA) modulator may leak brake fluid, which can result in unintended vehicle movement when the brake hold feature is engaged or an ",
+        "report_date": "15/06/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V064000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020-2022 Pilot, Accord, Civic sedan, HR-V, Odyssey, 2020 Civic coupe, Fit, 2021-2022 Civic hatchback, 2021 Civic Type R, Insight, 2020-2021 CR-V, CR-V Hybrid, Passport, Ridgeline, Accord Hybrid, 2020 Acura MDX, 2022 Acura MDX, 2020-2022 Acura RD",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:07:34.226Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

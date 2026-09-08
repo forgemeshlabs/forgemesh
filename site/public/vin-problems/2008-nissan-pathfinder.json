@@ -1,0 +1,196 @@
+{
+  "slug": "2008-nissan-pathfinder",
+  "year": 2008,
+  "make": "Nissan",
+  "model": "Pathfinder",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 328,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 155,
+        "share_pct": 47.3,
+        "excerpts": [
+          "A coolant hose leaked in transmission and shorted tcm causing total transmission failure and totaling out vehicle",
+          "Crack in defective radiator allowed coolant to mix in with transmission fluid. Coolant caused transmission to fail while driving it.  transmission changed gears on its own and would not shift properly",
+          "Bought vehicle I’m second owner it was sold as is from a dealership with airbag lights on  after a certain amount miles check engine light came on said I had         e -regular voltage to fuel injecto"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 61,
+        "share_pct": 18.6,
+        "excerpts": [
+          "Bought vehicle I’m second owner it was sold as is from a dealership with airbag lights on  after a certain amount miles check engine light came on said I had         e -regular voltage to fuel injecto",
+          "This is.my 2nd time replacing it the oil is mixing with the anti freeze because the radiator has a hole in it another recall problem for nissan",
+          "Contamination from the radiator mixed with the transmission cooler. The car is now inoperable due to this design flaw. This causes the transmission to be extremely sluggish and unresponsive when run, "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 51,
+        "share_pct": 15.5,
+        "excerpts": [
+          "There was a recall concerning the fuel gauge not working correctly. The sensor in the tank needed replaced.  Well my car had that recall fixed or so it says, but it is doing the same thing again. So a",
+          "I BOUGHT THE NISSAN PATHFINDER BRAND NEW OFF THE LOT IN LATE 2007. IT ONLY HAS 45 THOUSAND MILES ON IT. I'VE NEVER HAD ANY PROBLEMS WITH THIS VEHICLE UNTIL NOW. ABOUT 2 WEEKS AGO I THOUGHT SOMEONE WAS",
+          "WHILE DRIVING THURSDAY, FEBRUARY 14TH, 2019, MY CHECK ENGINE LIGHT CAME ON. I PULLED OVER IN A NEARBY PARKING LOT AS SOON AS I COULD. AT THIS POINT, I NOTICED THAT MY FUEL GAUGE HAD DROPPED FROM 1/4 T"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 41,
+        "share_pct": 12.5,
+        "excerpts": [
+          "The contact owns a 2008 Nissan Pathfinder. The contact received notification of NHTSA Campaign Number: 23V067000 (Air Bags) however, the part to do the recall repair was not yet available. The contact",
+          "The passenger air bag warning light is flashing and the passenger air bag button that tells you that it is on and working when somebody gets in the car is off.  Therefore the air bag will not deploy i",
+          "Front airbag sensor is bad. I checked it to see if this vehicle had its recall done for this known problem looks like it did because it don’t have a open recall for it."
+        ]
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "complaints": 31,
+        "share_pct": 9.5,
+        "excerpts": [
+          "2008 NISSAN PATHFINDER.  CONSUMER WRITES IN REGARDS TO NEVER BEING NOTIFIED ABOUT FUEL GAUGE INACCURACY RECALL NOTICE (10V-075) UNTIL VEHICLE RAN OUT OF FUEL.  *SMD  THE CONSUMER STATED HIS WIFE RAN O",
+          "TL* THE CONTACT OWNS A 2008 NISSAN PATHFINDER. WHILE DRIVING AT VARIOUS SPEEDS, THE FUEL GAUGE WOULD NOT GO ANY LOWER THAN A QUARTER TANK AND THE CHECK ENGINE LIGHT ILLUMINATED ON THE INSTRUMENT PANEL",
+          "TL* THE CONTACT OWNS A 2008 NISSAN PATHFINDER. WHILE OPERATING THE VEHICLE, THE FUEL GAUGE INDICATED THE FUEL TANK WAS HALF FULL BEFORE SUDDENLY DECREASING TO EMPTY. THE VEHICLE WAS TAKEN TO THE DEALE"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 0,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2005,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 1
+      },
+      {
+        "year": 2008,
+        "count": 4
+      },
+      {
+        "year": 2009,
+        "count": 7
+      },
+      {
+        "year": 2010,
+        "count": 10
+      },
+      {
+        "year": 2011,
+        "count": 9
+      },
+      {
+        "year": 2012,
+        "count": 18
+      },
+      {
+        "year": 2013,
+        "count": 32
+      },
+      {
+        "year": 2014,
+        "count": 44
+      },
+      {
+        "year": 2015,
+        "count": 53
+      },
+      {
+        "year": 2016,
+        "count": 46
+      },
+      {
+        "year": 2017,
+        "count": 32
+      },
+      {
+        "year": 2018,
+        "count": 27
+      },
+      {
+        "year": 2019,
+        "count": 20
+      },
+      {
+        "year": 2020,
+        "count": 8
+      },
+      {
+        "year": 2021,
+        "count": 7
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "10E019000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM:LOWER ARM",
+        "summary": "NISSAN IS RECALLING CERTAIN FRONT AND REAR LOWER LINKS, P/NOS. 54501ZQ00A, 54500ZQ00A, 551A1ZQ00A, 551A0ZQ00A , 54501EA00A, 54500EA00A, 551A1EA500, 551A0EA500, 54501ZR00A, AND 54500ZR00A, SOLD BETWEEN NOVEMBER 25, 2009 AND MAY 14, 2010 AS REPLACEMENT PARTS FOR MODEL YEAR 2004 THROUGH 2010 TITAN, ARM",
+        "report_date": "20/05/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V075000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:AUXILLARY TANK",
+        "summary": "NISSAN IS RECALLING CERTAIN MODEL YEAR 2006 AND MODEL YEAR 2008 FRONTIER, XTERRA AND PATHFINDER VEHICLES.  THE MOLDED FUEL TANK SHELLS CAN DEFORM, CAUSING THE FUEL SENDER FLOAT ARM  TO CONTACT AN EMBOSSMENT MOLDED INTO THE TANK SHELL  CAUSING THE INSTRUMENT PANEL FUEL GAUGE TO SHOW THAT THE VEHICLE ",
+        "report_date": "03/03/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V690000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "NISSAN IS RECALLING 242,720 MY 2005-2009 PATHFINDER, FRONTIER AND XTERRA VEHICLES ORIGINALLY SOLD IN OR CURRENTLY REGISTERED IN THE STATES OF CONNECTICUT, DELAWARE, ILLINOIS, INDIANA,  IOWA, MAINE, MARYLAND, MASSACHUSETTS, MICHIGAN, MINNESOTA, MISSOURI, NEW HAMPSHIRE, NEW JERSEY, NEW YORK, OHIO, PEN",
+        "report_date": "29/12/2008",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V401000",
+        "component": "EQUIPMENT:ELECTRICAL:NAVIGATIONAL SYSTEM(GLOBAL POSITIONING SYSTEM)",
+        "summary": "NISSAN IS RECALLING CERTAIN VEHICLES THAT WERE EQUIPPED WITH A GARMIN NUVI MODEL 750 NAVIGATION SYSTEM.  THE BATTERIES CONTAINED IN THE AFFECTED GPS UNITS CAN OVERHEAT.",
+        "report_date": "10/09/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V067000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2008-2011 Titan, Frontier, Xterra, Pathfinder, Armada, and 2008-2009 Quest vehicles.  The resin emblem on the driver's air bag cover may develop cracks and detach during air bag deployment.",
+        "report_date": "10/02/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:47:57.147Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

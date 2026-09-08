@@ -1,0 +1,172 @@
+{
+  "slug": "2016-hyundai-tucson",
+  "year": 2016,
+  "make": "Hyundai",
+  "model": "Tucson",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1616,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 516,
+        "share_pct": 31.9,
+        "excerpts": [
+          "While stopped at a traffic light, the engine began producing a loud metallic clattering and clanking sound, consistent with connecting rod bearing failure (rod knock). There was no prior warning light",
+          "While driving, the vehicle experienced a sudden and severe loss of motive power accompanied by a loud, catastrophic internal knocking sound from the engine compartment. The vehicle was towed to an aut",
+          "The vehicle severely shudders, jerks, and hesitates from a stop and while making a turn, during both acceleration and deceleration, making it entirely unsafe to drive. The vehicle has been completely "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 422,
+        "share_pct": 26.1,
+        "excerpts": [
+          "While stopped at a traffic light, the engine began producing a loud metallic clattering and clanking sound, consistent with connecting rod bearing failure (rod knock). There was no prior warning light",
+          "The engine is failing at 128,000 miles. The car is burning so much oil that it is impossible to drive more than 500 miles without the oil running dry. The problem has been inspected by the Hyundai dea",
+          "While driving, the vehicle experienced a sudden and severe loss of motive power accompanied by a loud, catastrophic internal knocking sound from the engine compartment. The vehicle was towed to an aut"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 227,
+        "share_pct": 14,
+        "excerpts": [
+          "Door latch issue. Driver's side door has to be pulled multiple times after unlocking to open from the exterior. Passenger side door latch has become completely inoperable and does not open from the in",
+          "All the door locks and actuators/latches are failing. Hyundai claims there is no recall for it, and the price for one door repair is $1384... This is a safety issue since the passenger in the rear sea",
+          "Within the last month, the passenger side front door will no longer open from the outside even if the door is unlocked.  The driver must lean over to open the passenger door from the inside.    Then a"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 214,
+        "share_pct": 13.2,
+        "excerpts": [
+          "This problem was observed about 1 month ago:  While driving and headlights set on AUTO, during the day, and the light switch NOT on, the dashboard would indicate the lights were ON, for just a second ",
+          "All the warning lights in the day lit up. Brake, LDWS, AEB, outside air temperature won’t read and the a/c blows hot. $486 to diagnose at dealer and they state that it’s an electrical issue due to a b",
+          "Took vehicle to dealership and had it diagnosed for the electrical system faults cause all the dashboard warning lights came on. Shop said it could be bad vacuum pump."
+        ]
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "complaints": 157,
+        "share_pct": 9.7,
+        "excerpts": [
+          "The contact owns a 2016 Hyundai Tucson. The contact stated that while the vehicle was parked, the front passenger’s side door failed to unlatch as needed. The front passenger's side window failed to r",
+          "The driver's side rear door cannot be opened from either inside or outside. In researching the problem, I found evidence that the issue is commonly reported with the Model 2016 Hyundai Tucson, which I",
+          "The contact owns a 2016 Hyundai Tucson. The contact stated while the vehicle was parked at the residence, the rear doors on the driver’s and passenger’s sides were not opening as needed after several "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 14,
+      "fires": 24,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 16
+      },
+      {
+        "year": 2016,
+        "count": 307
+      },
+      {
+        "year": 2017,
+        "count": 92
+      },
+      {
+        "year": 2018,
+        "count": 74
+      },
+      {
+        "year": 2019,
+        "count": 122
+      },
+      {
+        "year": 2020,
+        "count": 181
+      },
+      {
+        "year": 2021,
+        "count": 279
+      },
+      {
+        "year": 2022,
+        "count": 182
+      },
+      {
+        "year": 2023,
+        "count": 156
+      },
+      {
+        "year": 2024,
+        "count": 105
+      },
+      {
+        "year": 2025,
+        "count": 66
+      },
+      {
+        "year": 2026,
+        "count": 35
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "16V628000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2016 Tucson vehicles manufactured May 20, 2015 through May 31, 2016 and equipped with a 7-speed EcoShift Dual Clutch Transmission.  Certain driving conditions and high temperatures may cause the vehicle to not move if the accelerator pe",
+        "report_date": "30/08/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V842000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain model year 2016-2017 Tucson vehicles manufactured May 19, 2015, to November 14, 2016, and 2017 Santa Fe vehicles manufactured November 28, 2015, to November 14, 2016.  The affected vehicles may be equipped with an accessory trailer hitch wiring ha",
+        "report_date": "21/11/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V147000",
+        "component": "EXTERIOR LIGHTING:TAIL LIGHTS",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain model year 2016 Hyundai Tucson vehicles manufactured May 26, 2015 to January 15, 2016 and equipped with an accessory trailer hitch harness either included with the accessory trailer hitch or sold as a service part.  In the affected vehicles, when ",
+        "report_date": "10/03/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V348000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2016 Tucson vehicles manufactured May 19, 2015 to March 14, 2016.  In the affected vehicles, if the primary hood latch has been released, and the vehicle is driven, the secondary hood latch may not hold adequately secure the hood to pre",
+        "report_date": "24/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V543000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) recalled certain 2019-2021 Tucson vehicles on September 4, 2020.  On December 30, 2020, Hyundai expanded the recall population, and added certain 2016-2018 Tucson vehicles.  The Anti-lock Brake Hydraulic Electronic Control Unit (HECU) could corrode internally and caus",
+        "report_date": "04/09/2020",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:13.606Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

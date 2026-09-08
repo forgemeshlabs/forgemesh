@@ -1,0 +1,167 @@
+{
+  "slug": "2010-chevrolet-suburban",
+  "year": 2010,
+  "make": "Chevrolet",
+  "model": "Suburban",
+  "matched_as": {
+    "complaints": [
+      "SUBURBAN 1500",
+      "SUBURBAN 2500"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 292,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 128,
+        "share_pct": 43.8,
+        "excerpts": [
+          "*From day one of purchase there is a random, frequent loud buzzing/whining through the speakers(with our without the radio on).  Dealership had no idea how to fix and Chevrolet said there was no known",
+          "Takata recall. The contact owns a 2010 Chevrolet Suburban. The contact received notification of NHTSA Campaign Number: 21V054000 (Air Bags) however, the part to do the recall repair was not available.",
+          "TK Holdings Inc. (“Takata”) has decided that a defect which relates to motor vehicle safety exists in the passenger-side frontal airbag inflators installed as original equipment in certain 2007 to 201"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 70,
+        "share_pct": 24,
+        "excerpts": [
+          "While driving down the road a large piece of the dash exploded violently projecting a sharp plastic piece of the dash, hitting driver in the face, narrowly missing the eyes, bouncing off and landing i",
+          "I took my vehicle to have to air bag repaired and it has a cracks all over the dashboard now. I contacted to representative and was informed this is a Hazzard of this vehicle. It is a known issue but ",
+          "DASHBOARD CRACKING IN 2 PLACES.  *TR"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 18,
+        "share_pct": 6.2,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2010 Chevrolet Suburban. The contact stated that while driving approximately 55 MPH, the vehicle suddenly stalled. The vehicle was restarted and driven; however",
+          "I AM HAVING A BIG ISSUE WITH CRACKS ON MY DASH BOARD- I HAVE A 2010 SUBURBAN AND THE CRACKS STARTED IN 2013 AND HAVE NOW GROWN IN SIZE TO WHERE A PORTION OF MY DASH HAS CAVED IN ABOVE THE INSTRUMENT C",
+          "2010 CHEVY SUBURBAN......CHECK ENGINE LIGHT WAS ON, WENT TO THE CHEVY DEALER, IT SCANNED AS THE FUEL PUMP MODULE PART# 2087716 AND ALSO THE ABS, BRAKE LIGHT, STABILTRAK AND TRACTION CONTROL LIGHT COME"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 14,
+        "share_pct": 4.8,
+        "excerpts": [
+          "2010 5.3L ENGINE CONSUMES OIL AT AN EXCESSIVE RATE. THE LACK OF A LOW OIL WARNING HAS CAUSED THE ENGINE TO BE RUN WITHOUT OIL FOR EXCESSIVE PERIODS OF TIME. ENGINE ISSUES INCLUDE STALLING AND INABILIT",
+          "CAM LIFTERS GOING BAD ON 2010 CHEVY (SUBURBAN).  WAS NOTICING ON INTERNET SEVERAL VEHICLES BETWEEN THE YEAR 2010-2013 HAVE BEEN HAVING PROBLEMS WITH THIS.  STARTED OFF AS THE STABILITY TRACKING WHICH ",
+          "TL* THE CONTACT OWNS A 2010 CHEVROLET SUBURBAN. WHEN THE VEHICLE WAS STARTED, THE VEHICLE AND THE GARAGE FILLED UP WITH DARK GRAY SMOKE WITHOUT WARNING. THE DEALER DIAGNOSED THAT THE VEHICLE FAILED AN"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 7,
+        "share_pct": 2.4,
+        "excerpts": [
+          "2010 CHEVY SUBURBAN......CHECK ENGINE LIGHT WAS ON, WENT TO THE CHEVY DEALER, IT SCANNED AS THE FUEL PUMP MODULE PART# 2087716 AND ALSO THE ABS, BRAKE LIGHT, STABILTRAK AND TRACTION CONTROL LIGHT COME",
+          "ON MOTHER'S DAY I WAS DRIVING MY 2010 CHEVY SUBURBAN WITH 92K MILES ON IT.  WHEN I WAS LEAVING THE CAR WASH I ACCELERATED ON THE GAS TO GET ONTO HWY 29.   AS SOON AS I GOT UNTO HWY 29 A CAR SWITCHED F",
+          "8-10-15 DRIVING ABOUT 35 MPH WITHOUT WARNING VEHICLE COMPLETELY SHUT DOWN. NO POWER STEERING OR BRAKES. WAS ABLE TO PULL OFF ROAD WITH DIFFICULTY BUT SAFELY. CHECK ENGINE LIGHT CAME ON. WAS ABLE TO ST"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 2,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 10
+      },
+      {
+        "year": 2011,
+        "count": 9
+      },
+      {
+        "year": 2012,
+        "count": 4
+      },
+      {
+        "year": 2013,
+        "count": 10
+      },
+      {
+        "year": 2014,
+        "count": 39
+      },
+      {
+        "year": 2015,
+        "count": 40
+      },
+      {
+        "year": 2016,
+        "count": 68
+      },
+      {
+        "year": 2017,
+        "count": 44
+      },
+      {
+        "year": 2018,
+        "count": 23
+      },
+      {
+        "year": 2019,
+        "count": 15
+      },
+      {
+        "year": 2020,
+        "count": 16
+      },
+      {
+        "year": 2021,
+        "count": 8
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "21V054000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014 Cadillac Escalade, Escalade ESV, Chevrolet Silverado 2500, Silverado 3500, Suburban, Tahoe, GMC Sierra 2500, Sierra 3500, Yukon, and Yukon XL vehicles originally sold, or ever registered, in the states of AL, CA, FL, GA, HI, LA, MS, SC, TX, PR, AS, ",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V050000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2007-2011 Cadillac Escalade, Escalade ESV, Escalade EXT, Chevrolet Avalanche, Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, Yukon XL, and 2009-2011 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500 and Sierra 3500 vehicles originally s",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V053000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2013 Cadillac Escalade, Escalade ESV, and Escalade EXT, Chevrolet Avalanche, Silverado 1500, Silverado 2500/3500, Suburban, Tahoe, GMC Sierra 1500, Sierra 2500/3500, Yukon, and Yukon XL vehicles originally sold, or ever registered, in the states of Alaba",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:52:35.410Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

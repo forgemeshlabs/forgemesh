@@ -1,0 +1,172 @@
+{
+  "slug": "2015-kia-soul",
+  "year": 2015,
+  "make": "Kia",
+  "model": "Soul",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 903,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 629,
+        "share_pct": 69.7,
+        "excerpts": [
+          "The contact owned a 2015 Kia Soul. The contact stated that while driving approximately 40 MPH, there was smoke coming from the exhaust, with an abnormally loud popping sound coming from the vehicle. T",
+          "Dealer refusing to honor open recall remedy for SC200 / NHTSA 20V750000 on 2015 Kia Soul VIN [XXX], approx 100k miles. Recall shows \"no unrepaired recall found\" on NHTSA VIN lookup, but KSDS update an",
+          "Please see attached documents.  I have also put them in the US mail.  One to KIA: Kia Customer Care Center, Kia Motors America, Inc., P.O. Box 52410, Irvine, CA, 92619-2410 and one to the National Hig"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 76,
+        "share_pct": 8.4,
+        "excerpts": [
+          "The contact owns a 2015 Kia Soul. The contact stated that while driving at 20 MPH, the brakes became inoperable. There were no warning lights illuminated. The contact stated that the vehicle was towed",
+          "The engine warning light illuminated and the vehicle began to hesitate and lose power while driving, making the vehicle unsafe to operate. The problem involves the engine and powertrain. A Kia dealer ",
+          "Headlamp Multi-Function Switch Service Campaign Hazwewdiouse may cause colition or vision impairment. from ongoing traffic and or insufficient illumination  While driving lights will flicker, causing "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 76,
+        "share_pct": 8.4,
+        "excerpts": [
+          "Code P1326 Popped up - my mechanic replaced the P1326 Knock Sensor for the Kia.  Code P1326 Popped up 2nd time - replaced sensor again.  Code P1326 popped up and now there is some knocking.   Check en",
+          "P0420 code indicated during emissions test. Vehicle shut off after stopping and acceleration after stopping. Hesitates when trying to restart Vehicle. Contact kia manufacturer about engine and P0420 c",
+          "While my 80 yr old dad and 18 yr old daughter were driving on the highway to get to my uncle’s funeral. My dad had his cruise on, when he and my daughter started noticing a strange sound almost a knoc"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 62,
+        "share_pct": 6.9,
+        "excerpts": [
+          "The vehicle is a 2015 Kia Soul with the 1.6L GDI engine. The check engine light came on solid, and a dealer later confirmed diagnostic trouble code P0420, indicating the catalyst system efficiency is ",
+          "On the highway, not reaching speed at expected RPM, try increasing power and RPM stops climbing at 3500, and speed decreases suddenly, car starts bucking, check engine light flashing. I pull over, sto",
+          "The engine warning light illuminated and the vehicle began to hesitate and lose power while driving, making the vehicle unsafe to operate. The problem involves the engine and powertrain. A Kia dealer "
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 58,
+        "share_pct": 6.4,
+        "excerpts": [
+          "The contact owns a 2015 Kia Soul. The contact stated that upon taking the vehicle to the dealer to be repaired under NHTSA Campaign Number: 19V120000 (ENGINE, ENGINE AND ENGINE COOLING); the dealer in",
+          "The contact owns a 2015 Kia Soul. The contact stated that while driving 40 MPH, the accelerator pedal was depressed; however, the vehicle failed to accelerate as intended, with the check engine warnin",
+          "The contact owns a 2015 Kia Soul. The contact stated that the vehicle was repaired under NHTSA Campaign: 19V120000 (Engine, Engine and Engine Cooling); however, the repair failed to prevent the failur"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 36,
+      "fires": 83,
+      "injuries": 32,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2001,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 2
+      },
+      {
+        "year": 2015,
+        "count": 29
+      },
+      {
+        "year": 2016,
+        "count": 24
+      },
+      {
+        "year": 2017,
+        "count": 18
+      },
+      {
+        "year": 2018,
+        "count": 41
+      },
+      {
+        "year": 2019,
+        "count": 158
+      },
+      {
+        "year": 2020,
+        "count": 159
+      },
+      {
+        "year": 2021,
+        "count": 139
+      },
+      {
+        "year": 2022,
+        "count": 104
+      },
+      {
+        "year": 2023,
+        "count": 101
+      },
+      {
+        "year": 2024,
+        "count": 58
+      },
+      {
+        "year": 2025,
+        "count": 48
+      },
+      {
+        "year": 2026,
+        "count": 20
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "20V750000",
+        "component": "ENGINE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2012-2013 Sorento, 2012-2015 Forte and Forte Koup, 2011-2013 Optima Hybrid, 2014-2015 Soul, and 2012 Sportage vehicles.  An engine compartment fire can occur while driving.",
+        "report_date": "02/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V120000",
+        "component": "ENGINE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2012-2016 Kia Soul vehicles equipped with 1.6L Gasoline Direct Injection (GDI) engines.  High exhaust gas temperatures may damage the catalytic converter, possibly resulting in abnormal engine combustion and damage to one or more of the engine's pistons ",
+        "report_date": "22/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V608000",
+        "component": "STEERING",
+        "summary": "Kia Motors America (Kia) is recalling certain 2014-2016 Soul and Soul EV vehicles.  The pinion plug may allow the pinion gear to separate from the steering gear assembly.",
+        "report_date": "29/09/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V123000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2014-2015 Soul and Soul electric vehicles manufactured July 21, 2013, to January 8, 2015.  A section of the accelerator pedal may bend and fracture.",
+        "report_date": "02/03/2015",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:15.839Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

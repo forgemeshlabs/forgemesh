@@ -1,0 +1,156 @@
+{
+  "slug": "2014-chevrolet-tahoe",
+  "year": 2014,
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 93,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 15,
+        "share_pct": 16.1,
+        "excerpts": [
+          "Major electrical issues causing problems with the wipers, cruise control, break lights, sensor issues and much more",
+          "I tried to get the fan recall done. I went to Countryside Chevrolet I'm Franklin NC.  They refused to do the recall.  I just moved out of my house and have no address.  I'm here, in Franklin NC. Tryin",
+          "Trailer brake come one, power locks unlock and lock, traction stability comes on and off,"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 13,
+        "share_pct": 14,
+        "excerpts": [
+          "Component/System Failure  The Supplemental Restraint System (SRS) failed to function as designed. Specifically, the driver steering wheel airbag and front passenger airbag did not deploy during a coll",
+          "My dash is cracked in 3 places. One is around the passenger airbag. If the air bag is deployed it could send jagged edges into the face of a passenger.  Very unsafe and GM just ignores the problem.  I",
+          "Takata Recall. The contact owns a 2014 Chevrolet Tahoe. The contact received notification of NHTSA Campaign Number: 21V054000 (Air Bags) however, the part to do the recall repair was not available. Th"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 11,
+        "share_pct": 11.8,
+        "excerpts": [
+          "Cracked dashboard in 3 separate pieces. This is safety concern with the jagged sharp point that could cause severe injury during a crash or everyday driving. Lowers value of very high end vehicle and ",
+          "The front dash broad is cracked. I’m scared that it will affect the airbag.",
+          "MY DASHBOARD IS CRACKED IN TWO DIFFERENT AREAS. I SEE THAT MANY DASHBOARD BETWEEN 2013 AND 2017 CHEVY TAHOES HAVE CRACK. ONE OF THE CRACKS LEADS INTO THE COMPARTMENT THAT HOLDS THE FRONT PASSENGER AIR"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 6,
+        "share_pct": 6.5,
+        "excerpts": [
+          "Brake pedal hard to push and stop vehicle when braking, could possibly be defected brake vacuum pump.",
+          "WHILE PARKED, THE DRIVER'S FEMALE SEAT BELT BUCKLE END (PART #19121538) FREQUENTLY DOES NOT LATCH. IT USUALLY TAKES MULTIPLE ATTEMPTS TO LATCH. I VISITED A DEALER ON 11/5/20, TO SEE WHAT THEY WOULD DO",
+          "CHASI ELECTRICAL COMPONENT RECALL  , TRAILER BREAKING SYSTEM , CAR DEAD WON'T START 3 YEARS OF THIS , BATTERY REPLACED EVERY YEAR , SPARK PLUGS ETC I HAVE BEEN TO CLASSIC CHEVERLOT VERY YEAR AND THEY "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 5,
+        "share_pct": 5.4,
+        "excerpts": [
+          "The contact owns a 2014 Chevrolet Tahoe. The contact stated while attempting to start the vehicle, the contact noticed a failure with the gear shifter. The contact stated that the gear shifter remaine",
+          "WAS GETTING 20 TO 22 MPG ON THE HIGHWAY THEN IT SUDDENLY DROPPED TO WHERE I WOULD ONLY BE GETTING 15 TO 16 MPG. I HAVE ALSO GONE OUT AND GOTTEN GAS THE NIGHT BEFORE AND AFTER RESETING THE AVERAGE MPG ",
+          "CHASI ELECTRICAL COMPONENT RECALL  , TRAILER BREAKING SYSTEM , CAR DEAD WON'T START 3 YEARS OF THIS , BATTERY REPLACED EVERY YEAR , SPARK PLUGS ETC I HAVE BEEN TO CLASSIC CHEVERLOT VERY YEAR AND THEY "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 0,
+      "injuries": 2,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 6
+      },
+      {
+        "year": 2015,
+        "count": 11
+      },
+      {
+        "year": 2016,
+        "count": 9
+      },
+      {
+        "year": 2017,
+        "count": 14
+      },
+      {
+        "year": 2018,
+        "count": 12
+      },
+      {
+        "year": 2019,
+        "count": 9
+      },
+      {
+        "year": 2020,
+        "count": 13
+      },
+      {
+        "year": 2021,
+        "count": 9
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 1
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "13V342000",
+        "component": "SERVICE BRAKES, HYDRAULIC",
+        "summary": "General Motors is recalling certain model year 2014 Chevrolet Suburban vehicles manufactured July 9, 2013, through July 22, 2013; and 2014 Chevrolet Tahoe vehicles manufactured July 16, 2013, through July 23, 2013; and model year 2014 GMC Yukon vehicles manufactured July 13, 2013, through July 18, 2",
+        "report_date": "06/08/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V614000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2013-2014 Cadillac CTS, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, GMC Yukon, and Yukon XL, and 2014 Buick Enclave, Chevrolet Express, Impala, Silverado HD, Traverse, GMC Acadia, Savana, and Sierra HD vehicles.  In the affected vehicles",
+        "report_date": "01/10/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V054000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014 Cadillac Escalade, Escalade ESV, Chevrolet Silverado 2500, Silverado 3500, Suburban, Tahoe, GMC Sierra 2500, Sierra 3500, Yukon, and Yukon XL vehicles originally sold, or ever registered, in the states of AL, CA, FL, GA, HI, LA, MS, SC, TX, PR, AS, ",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:58:45.086Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "2015-honda-odyssey",
+  "year": 2015,
+  "make": "Honda",
+  "model": "Odyssey",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 205,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 53,
+        "share_pct": 25.9,
+        "excerpts": [
+          "I first experienced an engine misfire in February 2025. The vehicle had a P0301 misfire code, and at the time I was unaware of Honda’s extended warranty related to this issue. We had a trusted mechani",
+          "American Honda Motor Co., Inc. issued an official Warranty Extension in July 2025 covering engine misfires from piston ring deterioration (DTCs P0301-P0304) on 2013-15 Pilot and 2013-17 Odyssey vehicl",
+          "I had an engine failure on my odyssey that was causing a single piston to misfire - that i then had a honda dealer repair for around $3500. A couple months later i received a letter indicating this sp"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 41,
+        "share_pct": 20,
+        "excerpts": [
+          "Approximately 7 months ago, my 2015 Honda Odyssey experienced an engine misfire with code P0302 (cylinder 2). All spark plugs were replaced at that time and the issue appeared resolved. However, the m",
+          "The car sporadically does not shift from 1st 2 second and then abruptly shuts cause a loud jerk of engine and car. It is startling and scary when it happens.  I’m afraid the car will break down while ",
+          "I am reporting an engine defect covered under Honda’s recent warranty extension for 2013–2017 Odyssey / 2013–2015 Pilot vehicles when the MIL comes on with DTCs P0301–P0304. On November 1, 2022, I was"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 28,
+        "share_pct": 13.7,
+        "excerpts": [
+          "American Honda Motor Co., Inc. issued an official Warranty Extension in July 2025 covering engine misfires from piston ring deterioration (DTCs P0301-P0304) on 2013-15 Pilot and 2013-17 Odyssey vehicl",
+          "Odometer Fraud. The contact purchased a 2015 Honda Odyssey. It was discovered that there was a mileage discrepancy. The vehicle was a dealer sale. At the time of purchase, the vehicle mileage was 150,",
+          "Odometer Fraud. The contact purchased a 2015 Honda Odyssey. It was discovered that there was a mileage discrepancy. The vehicle was a dealer sale. At the time of purchase, the vehicle mileage was 84,0"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 25,
+        "share_pct": 12.2,
+        "excerpts": [
+          "2015 Honda Odyssey Touring Elite, VIN [XXX]. Vehicle was involved in a frontal collision on XXX. The driver's frontal airbag did not deploy. During the impact, I was thrown forward and struck the stee",
+          "There is paint peeling off the back on my van. I have seen this issue on other Honda Odyssey’s (same year) driving on the road.",
+          "The driverside back automatic door cable broke down. I see other year's cars have a recall for the same thing but not my car."
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 16,
+        "share_pct": 7.8,
+        "excerpts": [
+          "The driver side middle row seat slide while driving back and forth and never latch into place every time you brake or accelerate",
+          "The contact owns a 2015 Honda Odyssey. The contact received notification of NHTSA Campaign Number: 17V725000 (SEATS); however, the part to do the recall repair was not yet available. The local dealer ",
+          "TL* THE CONTACT OWNS A 2015 HONDA ODYSSEY. THE CONTACT RECEIVED RECALL NOTIFICATIONS FOR NHTSA CAMPAIGN NUMBERS: 18V170000 (SEATS) AND 17V725000 (SEATS). THE CONTACT STATED THAT BOTH REAR SEATS ON THE"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 3,
+      "injuries": 10,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 6
+      },
+      {
+        "year": 2015,
+        "count": 30
+      },
+      {
+        "year": 2016,
+        "count": 17
+      },
+      {
+        "year": 2017,
+        "count": 29
+      },
+      {
+        "year": 2018,
+        "count": 20
+      },
+      {
+        "year": 2019,
+        "count": 18
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 8
+      },
+      {
+        "year": 2022,
+        "count": 16
+      },
+      {
+        "year": 2023,
+        "count": 15
+      },
+      {
+        "year": 2024,
+        "count": 8
+      },
+      {
+        "year": 2025,
+        "count": 17
+      },
+      {
+        "year": 2026,
+        "count": 12
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "18V170000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2014-2016 Honda Odyssey vehicles.  The second row outboard seats have a lever to fold the seatback and slide the seat forward to access the third row seats.  Due to a manufacturing error, if the walk-in release lever is used to fold a fully recli",
+        "report_date": "13/03/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V725000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2011-2017 Honda Odyssey vehicles.  The second row outboard seats can slide sideways to one of two positions.  If a seat is placed between either of the two positions when attaching the seat to the vehicle floor, the seat will not latch properly t",
+        "report_date": "17/11/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V933000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2011-2016 Odyssey vehicles manufactured August 17, 2010, to October 1, 2015.  The affected vehicles have second row outboard seats that have a release lever that allows the seats to move for easier access to the third row of seats.  Th",
+        "report_date": "27/12/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V417000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2015 Acura MDX 2WD and MDX 4WD vehicles, 2016 Acura MDX 4WD vehicles, 2015-2016 Honda Odyssey vehicles, and 2016 Honda Pilot 2WD and 4WD vehicles.  The affected vehicles have fuel tanks that were manufactured with insufficient welds wh",
+        "report_date": "09/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V876000",
+        "component": "EQUIPMENT ADAPTIVE/MOBILITY:WHEELCHAIR RESTRAINTS/SECUREMENT:LATCH/ANCHOR:",
+        "summary": "Rollx Vans (Rollx) is recalling certain GMC Yukon, Sierra, Chevrolet Express 2500, Ford Transit, E-250, Toyota Sienna, Sienna Hybrid, Honda Odyssey, Chrysler Town and Country, Voyager, Pacifica, Dodge Grand Caravan, and Ram Promaster vehicles equipped with QRT-Deluxe and QRT-Max wheelchair restraint",
+        "report_date": "17/12/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:29.503Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

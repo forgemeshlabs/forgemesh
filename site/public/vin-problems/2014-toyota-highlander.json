@@ -1,0 +1,172 @@
+{
+  "slug": "2014-toyota-highlander",
+  "year": 2014,
+  "make": "Toyota",
+  "model": "Highlander",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 135,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 35,
+        "share_pct": 25.9,
+        "excerpts": [
+          "The radio keeps freezing up all the time along with the back tail light area going in and out. I keep smelling like burnt wire smell. Engine sound really rough.",
+          "I noticed the smell of wires burning, a billow of smoke started emitting from the two levers used to heat the seats near the gear shift area. I was on the freeway and immediately pulled to the side of",
+          "The contact owns a 2014 Toyota Highlander. The contact stated that a hybrid system warning alert was displayed. The vehicle was taken to an independent mechanic, where it was diagnosed and determined "
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 32,
+        "share_pct": 23.7,
+        "excerpts": [
+          "The driver’s-side rear spoiler on my 2014 Toyota Highlander Limited AWD has melted, bubbled, and warped. The vehicle has been stored 100% of the time in a fully enclosed garage with no windows since n",
+          "Was driving 70 mph on nj 287 when all sudden I hear something that sounded like implosion and air was coming from sunroof.  Ended up being sun roof glass flew out of car sunroof frame.  Toyota knew it",
+          "Water leaks inside the car every time it rains. We checked the sunroof drain tubes. They are clear. It is getting in through the roof rail bolts. It runs down the pillars to the floor and underneath t"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 8,
+        "share_pct": 5.9,
+        "excerpts": [
+          "SHARDS OF METAL INSIDE TRANSMISSION PAN AT 74K MILES. WHILE DRIVING AT DIFFERENT MPH, THE VEHICLES FEELS LIKE IT'S SLIPPING INTO NEUTRAL.  *TR",
+          "WITHIN THE PAST MONTH OR SO THERE WERE A FEW SEPARATE/SPORADIC OCCASIONS WHEN THE TRANSMISSION OF MY 2014 HIGHLANDER WITH 82,344 GENTLE MILES ON IT SEEMED TO SLIP/NOT ENGAGE FOR A MOMENT WHEN FIRST ST",
+          "TRANSMISSION FAILURE IN MOTION"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 6,
+        "share_pct": 4.4,
+        "excerpts": [
+          "The radio keeps freezing up all the time along with the back tail light area going in and out. I keep smelling like burnt wire smell. Engine sound really rough.",
+          "The glass from the panoramic sunroof detached from the vehicle while traveling approximately 60 MPH.",
+          "On or about 12-01-2022 the windshield wipers stopped functioning. The result was an inability to drive the car in the rain and especially at night. It was impossible to see so we pulled over and waite"
+        ]
+      },
+      {
+        "component": "SEAT BELTS",
+        "complaints": 5,
+        "share_pct": 3.7,
+        "excerpts": [
+          "PASSENGER FRONT SEAT BELT WILL NOT RETRACT, WHEN I GOT OUT OF VEHICLE TODAY.  DINGING SOUND COMING FROM SOMEWHERE WHEN WE DROVE IT LAST NIGHT.",
+          "I WAS T BONED ON PASSENGER SIDE, SIDE IMPACT AIR BAG DID NOT DEPLOY. I WAS PUSHED INTO ONCOMING TRAFFIC, FRONT AIRBAGS DID NOT DEPLOY IN HEAD ON COLLISION. SEAT BELT DID NOT TIGHTEN- I INITIALLY HIT D",
+          "2014 TOYOTA HIGHLANDER    THE DRIVER SIDE SEAT BELT THREADING DETERIORATED AT THE STITCHING WHERE IT ATTACHES TO THE FLOOR OF THE CAR. IT WAS FIXED BOTH TIMES AT IRA TOYOTA IN DANVERS, MA., ONCE ON JU"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 1,
+      "injuries": 6,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 21
+      },
+      {
+        "year": 2015,
+        "count": 9
+      },
+      {
+        "year": 2016,
+        "count": 12
+      },
+      {
+        "year": 2017,
+        "count": 15
+      },
+      {
+        "year": 2018,
+        "count": 24
+      },
+      {
+        "year": 2019,
+        "count": 19
+      },
+      {
+        "year": 2020,
+        "count": 5
+      },
+      {
+        "year": 2021,
+        "count": 8
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 1
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "18E107000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Fujian Wanda Automobile Glass Industry (Wanda) is recalling certain aftermarket Replacement Windshields sold for use in 2014-2018 Toyota Highlander vehicles.  The windshields have an attached wire harness that water may leak into, possibly causing damage to the vehicle's Engine Control Module (ECM).",
+        "report_date": "27/11/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V272000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2014 Highlander and Highlander Hybrid vehicles. The affected vehicles may have improper software installed in the air bag electronic control unit (ECU) for the operation of the front passenger seat belt force limiter, ",
+        "report_date": "22/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V576000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2014 Toyota Avalon, Camry, Sienna, and Highlander and model year 2015 Lexus RX350 vehicles.  Fuel may leak from the one of the fuel delivery pipes in the engine compartment.",
+        "report_date": "19/09/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V274000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2014 Highlander vehicles manufactured April 23, 2014, through April 29, 2014.  The affected vehicles may have a second row right-hand seat assembly that does not fully lock into the inboard seat track in the forward fi",
+        "report_date": "22/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V051000",
+        "component": "SEAT BELTS:REAR/OTHER",
+        "summary": "Toyota is recalling certain model year 2014 Highlander vehicles manufactured November 20, 2013, through January 18, 2014.  The third row middle seat belt assembly might not have been properly secured to the vehicle floor anchorage during vehicle assembly.  As such, these vehicles fail to conform to ",
+        "report_date": "07/02/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:58:17.572Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

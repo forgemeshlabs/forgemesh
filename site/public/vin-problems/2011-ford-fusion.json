@@ -1,0 +1,220 @@
+{
+  "slug": "2011-ford-fusion",
+  "year": 2011,
+  "make": "Ford",
+  "model": "Fusion",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 2783,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 1426,
+        "share_pct": 51.2,
+        "excerpts": [
+          "The vehicle experienced a sudden, complete failure of the electronic power steering assist while operating, resulting in a dangerous increase in steering effort and an immediate safety hazard. A profe",
+          "Yesterday evening, my power steering went out (EPAS), it did that when the car had been parked for the night and not in motion thankfully so nobodies safety was at risk,  but I don’t know if and when ",
+          "See attached document for complaint."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 330,
+        "share_pct": 11.9,
+        "excerpts": [
+          "ihave?opntitle.2011fordfusionseflexfuel1OFTHEEXPENSIVEMACHANICALREPLACE ,TOREPAIR/ELECTRONICASSISTSHUTOFFTOMANUALSTEER:FORDWILLREPLACEAIRBAGREPAIR:DRIVEABLE'RUNS:ELECTRONICPOWERSTERINGASSISTANCESHUTOF",
+          "2airbagsrecall,epas-steering 15n01,nhtsarecall19v001000,.",
+          "The contact owned a 2011 Ford Fusion. The contact received notification of NHTSA Campaign Number: 21V158000 (Air Bags); prompting the contact to schedule the vehicle for repair. The vehicle was taken "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 276,
+        "share_pct": 9.9,
+        "excerpts": [
+          "My 2011 Ford Fusion Hybrid is dangerous to me and others on the road. When I drove my car, was coming to a stopping point and it didn't want to stop. It does it off and on. I took it to the dealership",
+          "The contact's boyfriend owns a 2011 Ford Fusion. The contact stated that while driving at various speeds, the vehicle hesitated while depressing the accelerator pedal, with the check engine warning li",
+          "The contact owns a 2011 Ford Fusion. The contact stated that while driving at an undisclosed speed, the brake pedal was depressed and traveled to the floorboard. There was no warning light illuminated"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 268,
+        "share_pct": 9.6,
+        "excerpts": [
+          "Powertrain light came on and threw code p1450 and car went into limp mode. Car will stall at stops and lights and won't go over 40. Replaced the canister purge valve which turned light off but it imme",
+          "rdofcookevilletennessee/towedmy2011fordfusionse{38milagefromemyhome{duetonodriverecall{airbags.,Ipickupfusion.,nostart,fordpushedin,outofgurageforairbagrecallfix.OK|wontstartduetofordsaysbrokentransca",
+          "The contact owns a 2011 Ford Fusion. The contact stated that while attempting to start the vehicle, the vehicle failed to start. The lock warning lights was illuminated. The vehicle was towed to an in"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 256,
+        "share_pct": 9.2,
+        "excerpts": [
+          "The contact owns a 2011 Ford Fusion. The contact stated that while driving at an undisclosed speed, the vehicle independently accelerated while the brake pedal was depressed. No warning light was illu",
+          "Powertrain light came on and threw code p1450 and car went into limp mode. Car will stall at stops and lights and won't go over 40. Replaced the canister purge valve which turned light off but it imme",
+          "Car continues to accelerate after applying the brake. Has happened numerous times. Usually at slow speed"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 80,
+      "fires": 10,
+      "injuries": 46,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 10
+      },
+      {
+        "year": 2011,
+        "count": 65
+      },
+      {
+        "year": 2012,
+        "count": 106
+      },
+      {
+        "year": 2013,
+        "count": 444
+      },
+      {
+        "year": 2014,
+        "count": 285
+      },
+      {
+        "year": 2015,
+        "count": 226
+      },
+      {
+        "year": 2016,
+        "count": 311
+      },
+      {
+        "year": 2017,
+        "count": 216
+      },
+      {
+        "year": 2018,
+        "count": 228
+      },
+      {
+        "year": 2019,
+        "count": 234
+      },
+      {
+        "year": 2020,
+        "count": 149
+      },
+      {
+        "year": 2021,
+        "count": 145
+      },
+      {
+        "year": 2022,
+        "count": 116
+      },
+      {
+        "year": 2023,
+        "count": 103
+      },
+      {
+        "year": 2024,
+        "count": 61
+      },
+      {
+        "year": 2025,
+        "count": 60
+      },
+      {
+        "year": 2026,
+        "count": 24
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "19V001000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2014 Ford Mustang vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, Puerto Rico, American Samoa, Guam, the Northern Mariana Islands (Saipan), and the U.S. Vi",
+        "report_date": "07/01/2019",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V384000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2007-2011 Ford Ranger vehicles, 2006-2011 Ford Fusion, Mercury Milan and Lincoln Zephyr/MKZ vehicles, 2007-2010 Ford Edge, Lincoln MKX vehicles, 2005-2006 Ford GT vehicles, and 2005-2011 Ford Mustang vehicles originally sold, or ever register",
+        "report_date": "31/05/2016",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V340000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2011-2012 Ford Fusion vehicles without a 3.5L engine and Lincoln MKZ hybrid electric vehicles, 2011 Mercury Milan vehicles, 2011-2012 Ford Taurus, Ford Flex, Lincoln MKS, and Lincoln MKT vehicles equipped with a 3.5L GTDI engine and 2013 Ford",
+        "report_date": "02/06/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V793000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:AUXILLARY TANK",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2010-2011 Ford Fusion vehicles manufactured July 21, 2008, to March 4, 2011, and 2010-2011 Mercury Milan vehicles manufactured July 23, 2008, to December 10, 2010.  The affected vehicles have fuel vapor canisters whose purge valves may not op",
+        "report_date": "24/11/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14E028000",
+        "component": "EQUIPMENT",
+        "summary": "Ford Motor Company (Ford) is recalling certain all weather driver side accessory floor mats sold for use in model year 2006-2011 Ford Fusion and Mercury Milan, 2006 Lincoln Zephyr, and 2007-2011 Lincoln MKZ vehicles manufactured November 9, 2007, through October 31, 2010.  The affected floor mats ma",
+        "report_date": "29/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V574000",
+        "component": "WHEELS:LUGS/NUTS/BOLTS/STUDS",
+        "summary": "FORD IS RECALLING CERTAIN MODEL YEAR 2010-2011 FORD FUSION AND MERCURY MILAN VEHICLES EQUIPPED WITH 17 INCH STEEL WHEELS AND BUILT FROM APRIL 1, 2009, THROUGH APRIL 30, 2009, AND FROM DECEMBER 1, 2009, THROUGH NOVEMBER 13, 2010.  THE WHEEL STUDS MAY FRACTURE, POTENTIALLY CAUSING A WHEEL TO SEPARATE.",
+        "report_date": "07/12/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V158000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2007-2011 Ranger, 2006-2012 Fusion, Lincoln Zephyr, Lincoln MKZ, 2006-2011 Mercury Milan, 2007-2010 Ford Edge, and Lincoln MKX vehicles.  The driver's side air bag inflator may explode due to propellant degradation occurring after long-term exposure to ",
+        "report_date": "10/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V081000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2005-2014 Mustang, 2004-2011 Ranger, 2009-2011 Mercury Milan, 2006 Ford GT, 2008-2012 Fusion, 2007-2010 Edge and Lincoln MKX, and 2009-2010 Lincoln MKZ vehicles.  These vehicles may be equipped with a driver or passenger frontal air bag inflator used as",
+        "report_date": "16/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21E013000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain air bag inflator and/or module replacement service parts that may have been used as part of a collision repair.  The parts include certain driver-side air bag inflators and/or modules, designed to fit 2005-2014 Ford Mustang and Mustang GT500.  It also i",
+        "report_date": "16/02/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:53:58.653Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

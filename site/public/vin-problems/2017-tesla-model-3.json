@@ -1,0 +1,236 @@
+{
+  "slug": "2017-tesla-model-3",
+  "year": 2017,
+  "make": "Tesla",
+  "model": "Model 3",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 26,
+    "top_failure_components": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 8,
+        "share_pct": 30.8,
+        "excerpts": [
+          "Within a week of posting a complaint here about phantom braking while in autopilot, my autopilot was disabled. Does the NHTSA share VIN numbers with the manufacturer? Because that sure felt like retal",
+          "Feb 25 around 4pm PT we were driving north on US Hwy 101 using the basic cruise control feature of our Model 3. Based on our settings I believe this would be considered adaptive cruise control, but I'",
+          "The vehicle frequently applies emergency braking when approaching overpasses at night while driving on highways at night at normal speeds. This happens about once per 100 miles or so."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 7,
+        "share_pct": 26.9,
+        "excerpts": [
+          "Seats Front passenger safety restraint system issue/ Service is required/Service is required",
+          "My Tesla repeatedly displayed a “Passenger Safety Restraint” warning related to the front passenger restraint/airbag system. Tesla Service Center in Los Gatos, California attempted multiple repairs ov",
+          "I received an error about the occupant classification system and a safety restraint fault. These are due to known manufacturing defects. Addressing these concerns was expensive and also required a rep"
+        ]
+      },
+      {
+        "component": "SEAT BELTS",
+        "complaints": 6,
+        "share_pct": 23.1,
+        "excerpts": [
+          "My Tesla repeatedly displayed a “Passenger Safety Restraint” warning related to the front passenger restraint/airbag system. Tesla Service Center in Los Gatos, California attempted multiple repairs ov",
+          "I received an error about the occupant classification system and a safety restraint fault. These are due to known manufacturing defects. Addressing these concerns was expensive and also required a rep",
+          "Hello. I am following up with the previous safety report I submitted for my vehicle. I just received an updated repair estimate citing the parts that will need replaced (pdf attached). I also confirme"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 6,
+        "share_pct": 23.1,
+        "excerpts": [
+          "My Tesla repeatedly displayed a “Passenger Safety Restraint” warning related to the front passenger restraint/airbag system. Tesla Service Center in Los Gatos, California attempted multiple repairs ov",
+          "Hello. I am following up with the previous safety report I submitted for my vehicle. I just received an updated repair estimate citing the parts that will need replaced (pdf attached). I also confirme",
+          "There is a warning on my car saying “front passenger safety restraint system fault”. The Tesla service center says the fix requires an air bag replacement and to replace the seat sensor. Does this not"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 4,
+        "share_pct": 15.4,
+        "excerpts": [
+          "I am writing to file a formal safety complaint against Tesla, Inc. regarding a software update failure that has disabled legally required vehicle functions on my Tesla for over two years.  For more th",
+          "Feb 25 around 4pm PT we were driving north on US Hwy 101 using the basic cruise control feature of our Model 3. Based on our settings I believe this would be considered adaptive cruise control, but I'",
+          "Experiencing unexpected braking on freeway while on cruise control. Car brakes for apparently no reason. There is no warning, vehicles in sight, on clear sunny day. Has braked up to 3 times/hr on two "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 0,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 16,
+    "recalls": [
+      {
+        "campaign_number": "22V037000",
+        "component": "ELECTRICAL SYSTEM:ADAS:AUTONOMOUS/SELF DRIVING:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2016-2022 Model S and Model X, 2017-2022 Model 3, and 2020-2022 Model Y vehicles.  The \"rolling stop\" functionality available as part of the Full Self-Driving (Beta) software may allow the vehicle to travel through an all-way stop intersection without first c",
+        "report_date": "27/01/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V045000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2021-2022 Model S and Model X, 2017-2022 Model 3, and 2020-2022 Model Y vehicles.  The audible chime may not activate when the vehicle starts and the driver has not buckled their seat belt.  As such, these vehicles fail to comply with the requirements of Fede",
+        "report_date": "01/02/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V00D000",
+        "component": "ELECTRICAL SYSTEM:WIRING: REAR COMPARTMENT/TRUNK",
+        "summary": "Tesla, Inc. (Tesla) is recalling all 2017-2020 Model 3 vehicles.  The rearview camera cable harness may be damaged by the opening and closing of the trunk lid, preventing the rearview camera image from displaying.",
+        "report_date": "21/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V846000",
+        "component": "FORWARD COLLISION AVOIDANCE: SENSING SYSTEM: CAMERA",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2017-2021 Model S, Model 3, Model X, and 2020-2021 Model Y vehicles operating software version 2021.36.5.2.  A communication error may cause false forward-collision warning (FCW) or unexpected activation of the automatic emergency brake (AEB) system.",
+        "report_date": "29/10/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V063000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2020-2022 Model S, Model X, Model Y, and 2017-2022 Model 3 vehicles.  The Boombox function allows sounds to be played through an external speaker while the vehicle is in motion, which may obscure the Pedestrian Warning System (PWS) sounds.  As such, these veh",
+        "report_date": "04/02/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V169000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2018-2019 Model S, Model X, and 2017-2020 Model 3 vehicles equipped with Autopilot Computer 2.5 and operating certain firmware releases.  The rearview image may not immediately display when the vehicle begins to reverse.  As such, these vehicles fail to compl",
+        "report_date": "18/03/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V235000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2020-2022 Model Y, Model X, Model S, and 2017-2022 Model 3 vehicles.  The Boombox function allows sounds to be played through an external speaker while the vehicle is in motion, which may obscure the Pedestrian Warning System (PWS) sounds.  As such, these veh",
+        "report_date": "12/04/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V702000",
+        "component": "VISIBILITY:POWER WINDOW DEVICES AND CONTROLS",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2017-2022 Model 3, 2020-2022 Model Y, and 2021-2022 Model S and Model X vehicles.  The window automatic reversal system may not react correctly after detecting an obstruction.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehi",
+        "report_date": "19/09/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V798000",
+        "component": "SEAT BELTS:REAR/OTHER:ANCHORAGE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2017-2022 Model 3 vehicles.  The second-row left seat belt buckle and second-row center seat\r\nbelt anchor may have been incorrectly reassembled during vehicle service.",
+        "report_date": "21/10/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V085000",
+        "component": "STEERING:AUTOMATED/ADAPTIVE STEERING",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2016-2023 Model S, Model X, 2017-2023 Model 3, and 2020-2023 Model Y vehicles equipped with Full Self-Driving Beta (FSD Beta) software or pending installation.  The FSD Beta system may allow the vehicle to act unsafe around intersections, such as traveling st",
+        "report_date": "15/02/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V838000",
+        "component": "ELECTRICAL SYSTEM:ADAS:AUTONOMOUS/SELF DRIVING:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling 2012-2023 Model S, 2016-2023 Model X, 2017-2023 Model 3, and 2020-2023 Model Y vehicles equipped with all versions of Autosteer leading up to the version(s) that contains the recall remedy.  In certain circumstances when Autosteer is engaged, the prominence and scope",
+        "report_date": "12/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V051000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2012-2023 Model S, 2016-2024 Model X, 2017-2023 Model 3, 2019-2024 Model Y, and 2024 Cybertruck vehicles.  An incorrect font size is displayed on the instrument panel for the Brake, Park, and Antilock Brake System (ABS) warning lights.  As such, these vehicle",
+        "report_date": "30/01/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V376000",
+        "component": "SEAT BELTS:FRONT:WARNING LIGHT/DEVICES",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2012-2024 Model S, 2015-2024 Model X, 2017-2023 Model 3, and 2020-2023 Model Y vehicles.  In the event of an unbelted driver, the seat belt warning light and audible chime may not activate as intended.  As such, these vehicles fail to comply with the requirem",
+        "report_date": "28/05/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V935000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2024 Cybertruck, 2017-2025 Model 3, and 2020-2025 Model Y vehicles.  The tire pressure monitoring system (TPMS) warning light may not remain illuminated between drive cycles, failing to warn the driver of low tire pressure.  As such, these vehicles fail to co",
+        "report_date": "17/12/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V283000",
+        "component": "BACK OVER PREVENTION:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2017, 2021-2023 Model 3, 2020-2023 Model Y, 2021-2023 Model S, and Model X vehicles operating software version 2026.8.6. The rearview camera image may be delayed when the vehicle is placed in reverse. As such, these vehicles fail to comply with the requiremen",
+        "report_date": "05/05/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V507000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2017-2023 Model 3 and 2020-2023 Model Y vehicles. The headlight low beams may be too bright and exceed the maximum light output. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 108, \"Lamps, ",
+        "report_date": "05/08/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:49.201Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

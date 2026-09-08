@@ -1,0 +1,158 @@
+{
+  "slug": "2021-toyota-sienna",
+  "year": 2021,
+  "make": "Toyota",
+  "model": "Sienna",
+  "matched_as": {
+    "complaints": [
+      "SIENNA HYBRID",
+      "redundant SIENNA"
+    ],
+    "recalls": [
+      "SIENNA HYBRID",
+      "redundant SIENNA"
+    ]
+  },
+  "failures": {
+    "total_complaints": 205,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 86,
+        "share_pct": 42,
+        "excerpts": [
+          "FAILURE: Brake control system. Vehicle intermittently surges forward while braking at low speed, most often through a curve — the brakes momentarily release and the vehicle lurches before braking resu",
+          "Car surged as brakes were applied when stopping.  Very dangerous.  Could have easily rear-ended another vehicle.  Surge was immediate and occurred when brake was being applied.  Not confirmed yet, but",
+          "My 2021 Toyota Sienna Hybrid has an intermittent and dangerous brake failure where the brakes suddenly release pressure during normal braking. When slowing down—especially at lower speeds or approachi"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 29,
+        "share_pct": 14.1,
+        "excerpts": [
+          "SRS Airbag Malfunction, visit Dealer warning",
+          "SRS light has been showing up on the dashboard, off and on for 3 weeks. Diagnostic reader completed by the dealership states it is an airbag module malfunction of the 2nd row left passenger seat.  The",
+          "Unknown, I got the SRS Airbag system malfunction in my vehicle, I got the same error in my vehicle dashboard a few times in the past but it would go away and since yesterday I have the message in my d"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 21,
+        "share_pct": 10.2,
+        "excerpts": [
+          "The electronic driver's seat motor and track assembly failed completely on my 2021 Toyota Sienna (VIN: [XXX]) at less than 18,000 miles. The seat is permanently seized in a fixed position. This create",
+          "The contact owns a 2021 Toyota Sienna Hybrid. The contact stated that while the vehicle was parked, the contact observed a melted spot, almost identical on the driver’s and front passenger’s lower bac",
+          "The contact owns a 2021 Toyota Sienna Hybrid. The contact stated that while driving at an undisclosed speed, there was an abnormal rattling sound coming from the second-row seats. The message to \"Chec"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 16,
+        "share_pct": 7.8,
+        "excerpts": [
+          "FAILURE: Blind spot monitor module failed due to a corroded internal electrical connector. The failure disabled both the Blind Spot Monitor (BSM) and Rear Cross-Traffic Alert (RCTA). Both remain inope",
+          "Unexpected failure of the acceleration pedal to accelerate from a complete stop to a go at an intersection. The electric vehicle (EV) motor began accelerating up to about 3 mph than instantly had a fa",
+          "The contact owns a 2021 Toyota Sienna Hybrid. The contact stated that the vehicle was experiencing inaccurate fuel gauge readings. The contact stated while starting the vehicle, the fuel gauge reading"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 11,
+        "share_pct": 5.4,
+        "excerpts": [
+          "We were stopped at a stoplight. As soon as we stepped on the gas pedal, there was a loud clunk sound and plastic parts started flying out from under the car. We immediately pulled over. Oil was spilli",
+          "The contact owned a 2021 Toyota Sienna Hybrid. The vehicle was parked in the driveway when an explosion occurred; the vehicle burned down. The contact was inside the residence when a loud noise was he",
+          "TL* THE CONTACT OWNS A 2021 TOYOTA SIENNA HYBRID. THE CONTACT STATED WHILE ATTEMPTING TO MAKE A RIGHT TURN WITH THE ACCELERATOR PEDAL DEPRESSED, THE VEHICLE FAILED TO RESPOND. THE CONTACT STATED NO WA"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 14,
+      "fires": 4,
+      "injuries": 12,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2021,
+        "count": 32
+      },
+      {
+        "year": 2022,
+        "count": 43
+      },
+      {
+        "year": 2023,
+        "count": 34
+      },
+      {
+        "year": 2024,
+        "count": 54
+      },
+      {
+        "year": 2025,
+        "count": 23
+      },
+      {
+        "year": 2026,
+        "count": 15
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "23V865000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020-2021 Avalon, Avalon Hybrid, Corolla, Highlander, Highlander Hybrid, RAV4, RAV4 Hybrid, Lexus ES350, Lexus RX350, Lexus RX450H, 2021 Sienna Hybrid, Lexus ES250, 2020-2022 Camry, Camry Hybrid, and ES300H vehicles.  A short cir",
+        "report_date": "20/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V086000",
+        "component": "SEATS:MID/REAR ASSEMBLY:RECLINER",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2021-2025 Sienna Hybrid vehicles.  The bolts for the seatbacks on the third-row seat assemblies may not be tightened properly.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard",
+        "report_date": "13/02/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V239000",
+        "component": "ELECTRONIC STABILITY CONTROL (ESC):CONTROL MODULE:SOFTWARE",
+        "summary": "Toyota Engineering & Manufacturing (Toyota) is recalling certain 2022 Lexus LX 600, Lexus NX 350h, Lexus NX 450h+, Toytoa RAV4 Hybrid, 2021-2022 Lexus LS 500h, Toyota Mirai, RAV4 PRIME, Sienna, Venza, and 2020-2022 Toyota Highlander Hybrid vehicles.  The Skid Control ECU software may not turn on the",
+        "report_date": "13/04/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V877000",
+        "component": "EQUIPMENT ADAPTIVE/MOBILITY:WHEELCHAIR RESTRAINTS/SECUREMENT:LATCH/ANCHOR:",
+        "summary": "Vantage Mobility, LLC (VM) is recalling certain 2021-2026 Honda Odyssey, 2021-2025 Chrysler Pacifica, and Toyota Sienna vehicles equipped with QRT-Deluxe and QRT-Max wheelchair restraints. The retractors may not lock, preventing the wheelchair from being properly secured.",
+        "report_date": "17/12/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V239000",
+        "component": "ELECTRONIC STABILITY CONTROL (ESC):CONTROL MODULE:SOFTWARE",
+        "summary": "Toyota Engineering & Manufacturing (Toyota) is recalling certain 2022 Lexus LX 600, Lexus NX 350h, Lexus NX 450h+, Toytoa RAV4 Hybrid, 2021-2022 Lexus LS 500h, Toyota Mirai, RAV4 PRIME, Sienna, Venza, and 2020-2022 Toyota Highlander Hybrid vehicles.  The Skid Control ECU software may not turn on the",
+        "report_date": "13/04/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:50.515Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

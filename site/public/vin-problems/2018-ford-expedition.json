@@ -1,0 +1,236 @@
+{
+  "slug": "2018-ford-expedition",
+  "year": 2018,
+  "make": "Ford",
+  "model": "Expedition",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 372,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 145,
+        "share_pct": 39,
+        "excerpts": [
+          "Transmission that's was replaced approx 3 yrs ago is hard shifting from park to drive and park to reverse on flat level surface.",
+          "The contact owns a 2018 Ford Expedition. While the contact's wife was driving at an undisclosed speed, the transmission independently shifted into park. The check engine warning light illuminated, and",
+          "Failing Transmission, does not shift into the gear just hear grinding noise, after few seconds of it, transmission makes very hard shift. This takes place in all phases or driving leading to potential"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 97,
+        "share_pct": 26.1,
+        "excerpts": [
+          "I noticed a loud rattle when starting my 2018 Ford Expedition, at first occasionally and then on every cold start. The Ford Dealer's service department diagnosed a cam phaser issue. There were no warn",
+          "Engine light stays on along with manual light and charging system service now.  Battery,  alternator changed out, 3 mechanic repair shops can not find what is wrong. Vehicle bogs down and does not run",
+          "After Fords most recent recall for a PCM software update at the dealer the car immediately runs different and after full engine temperatures sounds like marbles or valve train issues including low rpm"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 33,
+        "share_pct": 8.9,
+        "excerpts": [
+          "The infotainment screen that includes the rear backup camera stopped working intermittently and then completely. The dealer's service department identified that the APIM, a module involved in operatin",
+          "Engine light stays on along with manual light and charging system service now.  Battery,  alternator changed out, 3 mechanic repair shops can not find what is wrong. Vehicle bogs down and does not run",
+          "Ford performed Emission Recall 24E13 on my vehicle. The corporate software update bricked the Powertrain Control Module (PCM), rendering the vehicle completely inoperable 30 miles later. Ford corporat"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 25,
+        "share_pct": 6.7,
+        "excerpts": [
+          "The contact owns a 2018 Ford Expedition. The contact stated that while driving at an undisclosed speed, there was an abnormal rattling sound coming from the engine. The vehicle was taken to a dealer, ",
+          "The contact owns a 2018 Ford Expedition. The contact stated while driving approximately 70 MPH, the vehicle lost motive power and failed to accelerate as intended. The contact stated that the power tr",
+          "The contact owns a 2018 Ford Expedition. The contact stated that upon starting the vehicle, there was an abnormal cranking sound coming from the vehicle. There was no warning light illuminated. The ve"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 24,
+        "share_pct": 6.5,
+        "excerpts": [
+          "While driving on to a rough area such as a bridge crossing the vehicle exhibited excessive bouncing and caused the direction of travel toward the next lane. Repairs to the front struts were made at th",
+          "With only 53500 miles the gears stopped working.  The gear shift pulls and hesitates when changing gears.  The engine pulls when excelerating even at low speeds while struggling to shift.  The Cam is ",
+          "Front struts faulty. Drivers side blew and all the fluid leaked out and the passenger side was leaking. Unknown safety issue but the vehicle only has 42,000 miles and has never been off road. Still ha"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 2,
+      "injuries": 25,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2000,
+        "count": 1
+      },
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 17
+      },
+      {
+        "year": 2019,
+        "count": 29
+      },
+      {
+        "year": 2020,
+        "count": 16
+      },
+      {
+        "year": 2021,
+        "count": 29
+      },
+      {
+        "year": 2022,
+        "count": 44
+      },
+      {
+        "year": 2023,
+        "count": 59
+      },
+      {
+        "year": 2024,
+        "count": 69
+      },
+      {
+        "year": 2025,
+        "count": 74
+      },
+      {
+        "year": 2026,
+        "count": 33
+      }
+    ]
+  },
+  "recalls": {
+    "count": 14,
+    "recalls": [
+      {
+        "campaign_number": "18V392000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 Ford Expedition, F-150, and Lincoln Navigator vehicles equipped with 3.5L GTDI V6 engines.  These vehicles have high pressure fuel pump assemblies with welds that can fracture, which may cause an oil or fuel leak.",
+        "report_date": "12/06/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V805000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 Lincoln Navigator, and Ford Expedition vehicles.  The second row center seat track assemblies may be missing one or both of the J-Channel reinforcement brackets, possibly allowing the seat to move in the event of a crash.",
+        "report_date": "14/11/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V775000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 Expedition vehicles.  The second row outboard seats may have excessive forward adjustment capability and/or may have an improperly installed bolt that secures the seat back to the seat base.  As such, these vehicles fail to comply with the requirem",
+        "report_date": "01/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V213000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2017-2018 Ford F-150 and 2018 Ford Expedition and Mustang and Lincoln Navigator vehicles equipped with 10-speed automatic transmissions.  A roll pin may not have been installed in the transmission, potentially causing a loss of the \"Park\" function.",
+        "report_date": "04/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V058000",
+        "component": "VISIBILITY:POWER WINDOW DEVICES AND CONTROLS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 Ford Expedition and Lincoln Navigator vehicles.  The second row window control modules may intermittently stop the movement of the power window.  If something, such as a finger, is pinched by the window glass, the stopped window control module may ",
+        "report_date": "16/01/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V214000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 F-650 and F-750 vehicles equipped with 6-speed automatic transmissions and 2018 Ford F-150 and Expedition vehicles equipped with 10-speed automatic transmissions (excluding Expedition vehicles with\r\na Rotary Gear Shift Dial on the console).  The ge",
+        "report_date": "04/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V420000",
+        "component": "EQUIPMENT:OTHER:OWNERS/SERVICE/OTHER MANUAL",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2023 Expedition and Lincoln Navigator vehicles equipped with third-row seating; and 2019-2023 F-Super Duty F-250, F-350, F-450, and F-550 SuperCab vehicles.  The owner's manual does not include instructions for adjusting or removing certain head re",
+        "report_date": "09/06/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V099000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 Expedition and Lincoln Navigator vehicles.  The seat belt pretensioner in the driver and/or front passenger seat may inadvertently deploy and lock the seat belt, which will not allow the belt to retract or extend.",
+        "report_date": "09/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V852000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2025 Explorer, Lincoln Aviator, 2020-2024 Escape, Lincoln Corsair, 2018-2024 F-150, Expedition and Lincoln Navigator vehicles.  The air bag warning label may be missing from the dashboard.  As such, these vehicles fail to comply with the requiremen",
+        "report_date": "08/11/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V197000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 Expedition and Lincoln Navigator vehicles.  The seat belt pretensioner in the driver and/or front passenger seat may inadvertently lock the seat belt, which will not allow the belt to retract or extend.",
+        "report_date": "23/05/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V236000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:MASTER CYLINDER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2017-2018 F-150, Expedition, and Lincoln Navigator vehicles.  The brake master cylinder may allow brake fluid to leak from the front wheel circuit into the brake booster.",
+        "report_date": "11/04/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V344000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2022 Expedition and Lincoln Navigator vehicles. The seat belt pretensioner in the driver and/or front passenger seat may inadvertently lock the seat belt, which will not allow the belt to retract or extend.",
+        "report_date": "27/05/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V368000",
+        "component": "STRUCTURE:INTERIOR PANELS:CENTER CONSOLE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2024 Expedition vehicles. The chrome plating on the center console may bubble and peel, resulting in sharp edges.",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V402000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2021 Navigator, Expedition, 2020-2021 Explorer, Lincoln Aviator, and 2021 F-150 vehicles. The transmission park pawl may engage while the vehicle is in motion, resulting in park system damage.",
+        "report_date": "24/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:14.796Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "2012-nissan-pathfinder",
+  "year": 2012,
+  "make": "Nissan",
+  "model": "Pathfinder",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 23,
+    "top_failure_components": [
+      {
+        "component": "SUSPENSION",
+        "complaints": 5,
+        "share_pct": 21.7,
+        "excerpts": [
+          "Right lower control arm snapped while driving at highway speed (65MPH) causing vehicle into a 360 spin. Vehicle spun, was hard to control and tire blew out at speed. Others behind me or in front may h",
+          "Rear subframe sagging and unsafe due to rust and corrosion.",
+          "The contact owns a 2012 Nissan Pathfinder. The contact stated that while the vehicle was parked, he noticed that the rear tires were abnormally damaged. The contact stated that upon further inspection"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 5,
+        "share_pct": 21.7,
+        "excerpts": [
+          "There was no incident but now I’m scared to drive my vehicle that I’m still paying for and my insurance telling me if I don’t get the recall resolve it’s going to be an issue.",
+          "Check engine light comes on and vehicle will not cycle through gears. Will go into drive, reverse, neutral but not 1st, second, third. Vehicle will go back to normal after I disconnect the battery for",
+          "We purchased the truck in 2018. Starting last year the truck starting losing power, not cutting on. Replaced the battery and have had 5 mechanics check it. Not one mechanic has been able to find the i"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 4,
+        "share_pct": 17.4,
+        "excerpts": [
+          "There was no incident but now I’m scared to drive my vehicle that I’m still paying for and my insurance telling me if I don’t get the recall resolve it’s going to be an issue.",
+          "I WAS IN A 40MPH CAR ACCIDENOT AND MY FRONT AIRBAGS DID NOT DEPLOY.",
+          "TL* THE CONTACT OWNS A 2012 NISSAN PATHFINDER. THE CONTACT STATED WHILE DRIVING AT 75 MPH, A DEER JUMPED INTO THE ROAD CAUSING THE CONTACT TO CRASH INTO IT. THE AIR BAGS FAILED TO DEPLOY. THERE WAS NO"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 3,
+        "share_pct": 13,
+        "excerpts": [
+          "The contact owns a 2012 Nissan Pathfinder. The contact stated that the vehicle was parked on the road outside his friend's residence.  The contact stated that as he approached the vehicle, he saw smok",
+          "We purchased the truck in 2018. Starting last year the truck starting losing power, not cutting on. Replaced the battery and have had 5 mechanics check it. Not one mechanic has been able to find the i",
+          "WE BOUGHT A 2012 NISSAN PATHFINDER ON SEPTEMBER 17TH, 2015 USED FOR $27,999.00.  WE PUT $3,000.00 DOWN PAYMENT ON THE VEHICLE.  WE WERE UNDER THE IMPRESSION, AND WERE TOLD BY OUR SALESMAN THAT WE DIDN"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 2,
+        "share_pct": 8.7,
+        "excerpts": [
+          "The contact owns a 2012 Nissan Pathfinder. The contact stated that while the vehicle was parked, he noticed that the rear tires were abnormally damaged. The contact stated that upon further inspection",
+          "The contact owns a 2012 Nissan Pathfinder. The contact stated while driving approximately 35 MPH, the vehicle started to wobble as if the steering wheel was being turned to the left and to the right r"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 1,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 3
+      },
+      {
+        "year": 2015,
+        "count": 3
+      },
+      {
+        "year": 2016,
+        "count": 2
+      },
+      {
+        "year": 2018,
+        "count": 3
+      },
+      {
+        "year": 2019,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "11V592000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "NISSAN IS RECALLING CERTAIN MODEL YEAR 2011 INFINITI FX, MODEL YEAR 2012 INFINITI M, MODEL YEAR 2011-2012 NISSAN FRONTIER, MODEL YEAR 2011-2012 NISSAN XTERRA, MODEL YEAR 2011-2012 NISSAN PATHFINDER, AND MODEL YEAR 2012 NISSAN NV VEHICLES.  SOME OF THE BOLTS THAT CONNECT THE ENGINE OIL COOLER AND THE",
+        "report_date": "19/12/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V462000",
+        "component": "SUSPENSION:FRONT:HUB",
+        "summary": "Nissan is recalling certain model year 2012 Frontier, Pathfinder, and Xterra two-wheel drive vehicles manufactured from June 19, 2012, through July 12, 2012.  These vehicles may have been equipped with front wheel hubs that may not meet the design hardness specifications.  A wheel hub that was manuf",
+        "report_date": "20/09/2012",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:56:25.198Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "2009-ford-focus",
+  "year": 2009,
+  "make": "Ford",
+  "model": "Focus",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 229,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 45,
+        "share_pct": 19.7,
+        "excerpts": [
+          "The contact owns a 2009 Ford Focus. The contact stated that the vehicle failed to start-up after multiple attempts without warning. The contact initially took the vehicle to an independent mechanic an",
+          "THE FUEL PUMP KEEP DISABLING! WHEN TRYING TO CRANK THE CAR IT WILL CONTINUE TO TURN OVER AFTER THE KEY HAS BEEN PULLED BACK OUT OF THE START POSITION",
+          "TL* THE CONTACT'S SON OWNS A 2009 FORD FOCUS. THE CONTACT SON STATED THAT WHILE DRIVING AT VARIOUS SPEEDS, THE VEHICLE LOSS MOTIVE POWER WITHOUT WARNING. THE VEHICLE WAS JUMP STARTED AND RESUMED NORMA"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 39,
+        "share_pct": 17,
+        "excerpts": [
+          "The contact owns a 2009 Ford Focus. The contact stated that the vehicle failed to start-up after multiple attempts without warning. The contact initially took the vehicle to an independent mechanic an",
+          "THE TRANSMISSION STARTED TO HESITATE SHIFTING THEN WOULDNT GO PAST THIRD SHIFT AND THEN  COMPLETELY STOPPED WORKING WHILE DRIVING ON THE ROAD.",
+          "TL* THE CONTACT OWNS A 2009 FORD FOCUS. THE CONTACT STATED THAT THE VEHICLE WOULD INTERMITTENTLY SHIFT INTO NEUTRAL AT VARIOUS SPEEDS. THE CONTACT HAD TO WAIT UNTIL HE COULD SHIFT INTO THE CORRECT GEA"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 33,
+        "share_pct": 14.4,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2009 FORD FOCUS. WHILE DRIVING APPROXIMATELY 45 MPH, THE VEHICLE IDLED AND WOULD NOT ACCELERATE PROPERLY. THE VEHICLE WOULD OPERATE ONLY IF THE ACCELERATOR PEDAL WAS DEPRESSED T",
+          "DRIVING ON HIGHWAY IN RUSH HOUR TRAFFIC AT 65 MILES AN HOUR WHEN SUDDENLY LOSING THROTTLE CONTROL DOWN TO 35 MILES AN HOUR THE GAS PEDAL WOULD NOT RESPOND. YELLOW WRENCH LIGHT AND WAVY CAR WARNING LIG",
+          "WHILE DRIVING DOWN THE INTERSTATE AT 70 MILES PER HOUR, THE CAR DROPPED OUT OF CRUISE CONTROL AND COASTED TO 5 MILES PER HOUR. PRESSING THE GAS PEDAL HAD NO RESULT. WE WERE LUCKY TO AVOID COLLISION WI"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 25,
+        "share_pct": 10.9,
+        "excerpts": [
+          "I HAVE HAD THE MOTOR AND TRANSMISSION MOUNTS REPLACED TWICE IN THE LAST TWO YEARS ON THIS VEHICLE. I WAS TOLD TO REPORT IT AS THAT SHOULD NEVER HAPPEN.",
+          "THIS IS GETTING ABSOLUTELY RIDICULOUS! I AM ON MY SIXTH SET OF TIRES!! THEY WEAR UNEVEN AFTER LESS THAN 20K MILES MAKING A MORE THAN ANNOYING WOBBLE.  I HAVE GOTTEN NUMEROUS ALIGNMENTS AND NEW SWAY AR",
+          "I PURCHASED THIS VEHICLE IN DECEMBER 2008. SINCE THEN THERE IS ONLY 28000 MILES ON IT. COUNTING THE ORIGINAL SET OF TIRES I AM ON MY FOURTH SET OF TIRES. THEY WEAR UNEVEN OR ENTIRELY TO QUICK.  THE RE"
+        ]
+      },
+      {
+        "component": "WHEELS",
+        "complaints": 22,
+        "share_pct": 9.6,
+        "excerpts": [
+          "LEFT REAR HUB CAME OFF CAR ON FREEWAY, CROSSED OVER TO OTHER SIDE, AND KILLED ANOTHER DRIVER IN THE OPPOSITE DIRECTION, AND HE HAD HIS 12 YEAR OLD DAUGHTER NEXT TO HIM. I GUESS THIS HAS HAPPENED WITH ",
+          "HAD AND ACCIDENT AFTER 6 MONTHS OF PAYING ON THE CAR, WHICH WAS SEPT. 2009.. INSIDE OF TIRED BALD, TOOK TO FORD TO HAVE OIL CHANGED, AND SUPPOSED  LOOK OVER, BUT WAS NEVER TOLD ABOUT THE INSIDE WARN T",
+          "AIR BAG LIGHT IS STUCK ON RANDOMLY MAKES A \"DINGING\" SOUND. TIRES CONTINUE TO WEAR OUT AT A RAPID SPEED, IGNITION SWITCH WILL GET STUCK AN ENGINE WILL NOT TURN OVER-CAN'T FIND A CAUSE. AND THE A/C STO"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 26,
+      "fires": 2,
+      "injuries": 21,
+      "deaths": 3
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 18
+      },
+      {
+        "year": 2010,
+        "count": 32
+      },
+      {
+        "year": 2011,
+        "count": 25
+      },
+      {
+        "year": 2012,
+        "count": 21
+      },
+      {
+        "year": 2013,
+        "count": 25
+      },
+      {
+        "year": 2014,
+        "count": 31
+      },
+      {
+        "year": 2015,
+        "count": 20
+      },
+      {
+        "year": 2016,
+        "count": 13
+      },
+      {
+        "year": 2017,
+        "count": 13
+      },
+      {
+        "year": 2018,
+        "count": 13
+      },
+      {
+        "year": 2019,
+        "count": 8
+      },
+      {
+        "year": 2020,
+        "count": 4
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T19:49:07.378Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,168 @@
+{
+  "slug": "2016-kia-optima",
+  "year": 2016,
+  "make": "Kia",
+  "model": "Optima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 754,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 424,
+        "share_pct": 56.2,
+        "excerpts": [
+          "While driving at highway speeds on the freeway in San Diego, the engine of my 2016 Kia Optima catastrophically seized without warning. I instantly lost all power steering, brake assist, and electrical",
+          "The engine assembly completely seized and the vehicle is currently stored at an independent repair shop . While traveling at high speed on Interstate 4 on July 24, 2026, the vehicle suffered a sudden,",
+          "engine failure, i was driving home from work and i went to accelerate from 0 to 20 miles and the car hesitated and didn't want to move. I took the car to the dealer three days later and it was confirm"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 102,
+        "share_pct": 13.5,
+        "excerpts": [
+          "Vehicle was purchased in 2023. AC blower failure occurred for the first time in June 2024 and was repaired by PepBoys. On 4/2/2025 the ve3hicle had an active recall event when the engine seized on the",
+          "While driving at highway speeds on the freeway in San Diego, the engine of my 2016 Kia Optima catastrophically seized without warning. I instantly lost all power steering, brake assist, and electrical",
+          "Blower motor is drawing excessive electricity, which in turn burns the fuse and junction pin, which in turn can start a fire in the car.  Kia of Irvine suggested redoing all electrical wiring in the c"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 73,
+        "share_pct": 9.7,
+        "excerpts": [
+          "Vehicle was purchased in 2023. AC blower failure occurred for the first time in June 2024 and was repaired by PepBoys. On 4/2/2025 the ve3hicle had an active recall event when the engine seized on the",
+          "The engine assembly completely seized and the vehicle is currently stored at an independent repair shop . While traveling at high speed on Interstate 4 on July 24, 2026, the vehicle suffered a sudden,",
+          "The Kia had a problem with the check engine light coming on and it gently went into limp mode. I had it repaired at Darlings Ford and it worked for about 600 miles. I had it repaired again and it work"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 53,
+        "share_pct": 7,
+        "excerpts": [
+          "My 2016 Kia Optima equipped with the 2.4L DOHC I4 GDI engine began to experience progressive and severe oil consumption during the latter part of my ownership. The oil warning light began activating r",
+          "The car returned P1326 and had multiple misfires and audible knocking, the dealers will indeed fight the already existing class action warranties. Was sent home and told to “drive the fuck out of it”,",
+          "Car is not holding oil it acts like it's gonna cut off while driving and it jerking was diagnosed with colitic converter p0604"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 47,
+        "share_pct": 6.2,
+        "excerpts": [
+          "Vehicle was purchased in 2023. AC blower failure occurred for the first time in June 2024 and was repaired by PepBoys. On 4/2/2025 the ve3hicle had an active recall event when the engine seized on the",
+          "The engine is a problem and all I’m ever told us “ this vehicle is know to have engine problems. This is dangerous to have in the road. Kia is aware of this. Why sale the vehicle knowing this and not ",
+          "The headlights and brake lights have been VERY dim for a while.  I've had to replace both headlights and brake lights an excessive amount in the last several years.  This year alone since December 202"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 27,
+      "fires": 19,
+      "injuries": 21,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 13
+      },
+      {
+        "year": 2017,
+        "count": 23
+      },
+      {
+        "year": 2018,
+        "count": 27
+      },
+      {
+        "year": 2019,
+        "count": 70
+      },
+      {
+        "year": 2020,
+        "count": 57
+      },
+      {
+        "year": 2021,
+        "count": 93
+      },
+      {
+        "year": 2022,
+        "count": 117
+      },
+      {
+        "year": 2023,
+        "count": 154
+      },
+      {
+        "year": 2024,
+        "count": 94
+      },
+      {
+        "year": 2025,
+        "count": 72
+      },
+      {
+        "year": 2026,
+        "count": 33
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "18V907000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2011-2017 Optima, 2012-2017 Sorento and 2011-2018 Sportage vehicles that previously received an engine replacement under recall number 17V-224, warranty, or the Knock Sensor Detection System (KSDS) Product Improvement Campaign.  The high pressure fuel pi",
+        "report_date": "19/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V007000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Kia Motors America (Kia) has recalled one 2016 Optima vehicle.  In this vehicle, the end seal for the driver's frontal air bag inflator may not have been properly installed, possibly resulting in reduced inflation of the frontal air bag in the event of a crash.",
+        "report_date": "06/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V705000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2016 Kia Optima vehicles manufactured November 13, 2015, to April 23, 2016 and equipped with a 2.4l engine.  The right front axle driveshaft may crack and fail.",
+        "report_date": "03/10/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V231000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2016 Kia Optima vehicles manufactured November 10, 2015, to February 12, 2016.  In these vehicles, a chemical enhancer required for the for the second stage deployment of the driver's frontal air bag was not loaded, resulting in the second sta",
+        "report_date": "21/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V594000",
+        "component": "LATCHES/LOCKS/LINKAGES:TRUNK LID:LATCH",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2016-2017 Rio, 2016-2018 Optima, 2017-2018 Optima Hybrid and Optima Plug-in Hybrid vehicles.  The trunk latch base may crack, preventing the opening of the trunk from the inside.  As such, these vehicles fail to comply with the requirements of Federal Mot",
+        "report_date": "24/08/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:16.042Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

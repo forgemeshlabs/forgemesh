@@ -1,0 +1,192 @@
+{
+  "slug": "2008-dodge-charger",
+  "year": 2008,
+  "make": "Dodge",
+  "model": "Charger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 624,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 397,
+        "share_pct": 63.6,
+        "excerpts": [
+          "The contact owns a 2008 Dodge Charger. The contact stated that the vehicle failed to start as intended. An abnormal cranking sound could be heard coming from the engine. The contact stated it would ta",
+          "When I turned my ignition key, it would not turn on the car no power",
+          "The contact owns a 2008 Dodge Charger. The contact stated that while driving at an undisclosed speed, the vehicle stalled, but was able to coast off the roadway. After restarting the vehicle, the vehi"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 124,
+        "share_pct": 19.9,
+        "excerpts": [
+          "My air bag light is on and im having problems with high idle after replacing map sensors, and replacing the Throttle Body, and replacing the fuel pump my car is running horrible",
+          "The contact owned a 2008 Dodge Charger. The contact received notification of NHTSA Campaign Number: 16V352000 (Air Bags). The contact stated that while a female was driving the vehicle at an unknown s",
+          "I WAS PLANNING TO GO TO THE DEALERSHIP AND HAVE THE TWO AIRBAG RECALLS FIXED.  BEFORE I HAD THE CHANCE TO DO THAT ,FEBRUARY 22 ,2020, MY VEHICLE WAS INVOLVED IN A MINOR ACCIDENT THAT IS STILL UNDER DI"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 94,
+        "share_pct": 15.1,
+        "excerpts": [
+          "When I turned my ignition key, it would not turn on the car no power",
+          "Hesitation when starting car",
+          "The contact owns a 2008 Dodge Charger. The contact stated while driving 65 MPH, the vehicle lost motive power with the check engine, traction control, and an unknown warning light illuminated. The con"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 35,
+        "share_pct": 5.6,
+        "excerpts": [
+          "When I turned my ignition key, it would not turn on the car no power",
+          "The contact owns a 2008 Dodge Charger. The contact stated that while driving at an undisclosed speed, the vehicle stalled, but was able to coast off the roadway. After restarting the vehicle, the vehi",
+          "The gas gage on the dash is not reading properly  my car said I had 1/8  of a tank and then driving down the interstate my car dies in the middle of the road lights went out power steering"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 31,
+        "share_pct": 5,
+        "excerpts": [
+          "I DRIVE TO WORK EVERY DAY AND I CAN FEEL MY CAR SHACKING WHILE I HAVE THE CAR ON DRIVE. I HAVE EXPERIENCED MY VEHICLE SLIDING OF THE ROAD WITH OUT CONTROL. ALSO MY BREAKS HAS LOST CONTROL ON ME WHILE ",
+          "THE CAR DOES WITH NO WARNING. YOU LOOSE POWER STEERING, BRAKES, AND ACCELERATION ABILITIES. IT HAS HAPPENED TWICE ON A SMALL STREET GOING ABOUT 35 AND ANOTHER ON FREEWAY GOING 70. I WAS ABLE TO GET IN",
+          "STEERING PROBLEMS RAPPING SOUND IN STEERING WHEEL AND ELECTRICAL FAILURE SINCE 2009 - 2018. TK HOLDINGS CLAIM SUBMITTED TO DELAWARE UNITED BANKRUPTCY COURT AND ATTORNEYS AT TK HOLDINGS IN NEW YORK JAN"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 24,
+      "fires": 22,
+      "injuries": 23,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2007,
+        "count": 1
+      },
+      {
+        "year": 2008,
+        "count": 14
+      },
+      {
+        "year": 2009,
+        "count": 18
+      },
+      {
+        "year": 2010,
+        "count": 19
+      },
+      {
+        "year": 2011,
+        "count": 25
+      },
+      {
+        "year": 2012,
+        "count": 22
+      },
+      {
+        "year": 2013,
+        "count": 50
+      },
+      {
+        "year": 2014,
+        "count": 154
+      },
+      {
+        "year": 2015,
+        "count": 178
+      },
+      {
+        "year": 2016,
+        "count": 54
+      },
+      {
+        "year": 2017,
+        "count": 29
+      },
+      {
+        "year": 2018,
+        "count": 21
+      },
+      {
+        "year": 2019,
+        "count": 14
+      },
+      {
+        "year": 2020,
+        "count": 10
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "16V352000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) expanded the affected population to include 73,712 2005-2009 RAM 2500 trucks produced at the St. Louis North Assembly Plant.  With this change, Chrysler is recalling certain model year 2004-2008 RAM 1500, 2005-2009 RAM 2500, 2006-2009 RAM 3500, 2007-2010 RAM 3500 Cab Chassis, 2",
+        "report_date": "24/05/2016",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V567000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2008 Chrysler 300 vehicles manufactured May 31, 2007, to May 12, 2008, Dodge Magnum vehicles manufactured May 23, 2007, to May 12, 2008, Dodge Charger vehicles manufactured May 24, 2007, to May 12, 2008, Jeep Commander vehicles manufactur",
+        "report_date": "17/09/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V313000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2005-2009 Dodge Ram 2500, 2004-2008 Dodge Ram 1500 and Durango, 2006-2009 Dodge Ram 3500, 2008-2010 Dodge Ram 4500 and 5500, 2007-2008 Chrysler Aspen, 2005-2010 Chrysler 300, 300C, 300S, and SRT8, 2006-2010 Dodge Charger, 2005-2008 Magnum, 2005-2",
+        "report_date": "27/05/2015",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V583000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:LEVER AND LINKAGE:COLUMN SHIFT",
+        "summary": "CHRYSLER IS RECALLING 20,283 MY 2006-2009 CHARGER AND MAGNUM VEHICLES BUILT WITH THE POLICE PACKAGE AND EQUIPPED WITH A COLUMN SHIFTER.  THE GEARSHIFT CABLE MAY BECOME DISENGAGED FROM THE STEERING COLUMN MOUNTING BRACKET AND CAUSE AN INCORRECT TRANSMISSION GEARSHIFT POSITION DISPLAY.",
+        "report_date": "06/11/2008",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V295000",
+        "component": "POWER TRAIN:AXLE HUBS",
+        "summary": "CHRYSLER IS RECALLING 5,509 MY 2008 300,  DODGE MAGNUM, AND CHARGER VEHICLES.  THE TORQUE RETENTION CRIMP FEATURE WAS MISSED DURING THE MANUFACTURE OF ONE LOT OF REAR AXLE HUB NUTS.  THIS COULD CAUSE THE NUTS TO LOOSEN AND ALLOW THE HALFSHAFT TO DISENGAGE FROM THE WHEEL HUB.",
+        "report_date": "02/07/2008",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:47:51.086Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "2018-mazda-cx-5",
+  "year": 2018,
+  "make": "Mazda",
+  "model": "CX-5",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 117,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 95,
+        "share_pct": 81.2,
+        "excerpts": [
+          "The contact owns a 2018 Mazda CX-5. The contact stated that while driving at various speeds, the vehicle was leaking engine oil, and there was white smoke coming from underneath the hood. The contact ",
+          "I am writing to formally document a significant engine failure on my 2018 Mazda CX-5 Grand Touring (VIN: [XXX], License: [XXX], Odometer: 78,159 miles).  The vehicle began exhibiting visible smoke fro",
+          "The contact owns a 2018 Mazda CX-5. The contact stated that white smoke was coming from the engine compartment whenever the vehicle reached normal operating temperature. The contact stated that smoke "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 17,
+        "share_pct": 14.5,
+        "excerpts": [
+          "My Mazda 2018, CX-5, Grand Touring, was diagnosed with a cracked cylinder head at 64,599 miles.  This issue could posed a safety hazard for not only us but others on the road by:   *Engine Failure / S",
+          "Cylinder head suddenly cracked, causing heavy oil leakage onto hot exhaust manifold. Car started to smoke heavily. Vehicle turned off before potential engine fire.",
+          "2018 Mazda CX-5 AWD with 2.5 L engine, non turbo. Car has 98,914 miles. Rear differential started leaking oil. Dealer stated that the differential needs to be replaced, for $5,003.33.  Manual does not"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 3,
+        "share_pct": 2.6,
+        "excerpts": [
+          "The contact owns a 2018 Mazda CX-5. The contact stated that while his wife was driving at an undisclosed speed, there was smoke coming from under the hood. No warning light was illuminated. The contac",
+          "The contact owns a 2018 Mazda CX-5. The contact stated that while driving the vehicle he could smell a burning odor, and added that he noticed a puddle of oil on his driveway. The vehicle was taken to",
+          "The contact owns a 2018 Mazda CX-5. The contact stated that while driving at 45 MPH, there was smoke coming from the engine, and the contact smelled an oil-burning odor.  No warning lights were illumi"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 3,
+        "share_pct": 2.6,
+        "excerpts": [
+          "I am reporting a safety issue involving engine failure and fumes entering the vehicle cabin as well as unintended braking post major engine repair at 75,000 miles on my 2018 Mazda CX5.  My vehicle dev",
+          "The infotainment system consistently changes stations and volume on its own. Knob will not allow you to make adjustments . Contacted dealer and infotainment Is not covered under warranty , or extended",
+          "Multiple instances of phantom braking, which resulted in two instances where we were just inches from being rear-ended. The circumstances of the phantom braking are similar, and has occured many times"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 2,
+        "share_pct": 1.7,
+        "excerpts": [
+          "Check engine light on when read it comes back with P0171 code",
+          "The cylinder head and timing cover are leaking oil and need to be replaced. It is at the dealer and available for inspection. The car started smoking and lost oil obscuring my vision. The problem appe"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 0,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 13
+      },
+      {
+        "year": 2024,
+        "count": 39
+      },
+      {
+        "year": 2025,
+        "count": 30
+      },
+      {
+        "year": 2026,
+        "count": 33
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "18V426000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2018 Mazda CX-5 vehicles.  In the event of a side impact or rollover crash, the side curtain air bags may not properly unfold during deployment.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety ",
+        "report_date": "25/06/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V497000",
+        "component": "ENGINE",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2018-2019 CX-5, Mazda6, and 2019 Mazda3 vehicles.  A software error in the powertrain control module (PCM) may cause the engine to stall.",
+        "report_date": "27/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V875000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2018 Mazda3, Mazda6, 2019 CX-3, 2018-2019 MX-5, CX-5, CX-9, and 2019-2020 Mazda2 vehicles.  The impeller inside the low-pressure fuel pump may crack and deform, potentially causing the fuel pump to fail.",
+        "report_date": "12/11/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:34.853Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

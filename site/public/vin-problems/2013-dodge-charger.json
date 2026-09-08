@@ -1,0 +1,204 @@
+{
+  "slug": "2013-dodge-charger",
+  "year": 2013,
+  "make": "Dodge",
+  "model": "Charger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 360,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 167,
+        "share_pct": 46.4,
+        "excerpts": [
+          "A few weeks ago I was traveling on unfamiliar curvy roads. It had recently rained. I fishtailed going through the curve, and my breaks locked up. Not long after I had the famous “Christmas Tree Lights",
+          "The abs module lights came on and is not functioning properly. I contacted the dealership and the part has been on back order for years. The abs light, traction, and brake light is on simultaneously. ",
+          "Vehicle: 2013 Dodge Charger R/T  I’m reaching out because my car has been showing signs that seem to match the symptoms of the V62 recall that FCA issued for the fuel pump relay issue. I have a 2013 D"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 50,
+        "share_pct": 13.9,
+        "excerpts": [
+          "The \"Vehicle Not in Park\" warning message is a safety feature designed to prevent accidents and injuries. It's a standard safety feature in most modern vehicles, including the Dodge Charger. Here's wh",
+          "The contact owns a 2013 Dodge Charger. The contact stated while driving at undisclosed speeds, the lifters were making an abnormal tapping sound. There were no warning lights illuminated. The contact ",
+          "There’s a recall on 11 part on my vehicle"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 48,
+        "share_pct": 13.3,
+        "excerpts": [
+          "Power train,  transmission output shaft fracture could result in a loss of power, increasing the risk of a crash.  if the parking brake is not applied before exiting the vehicle, the vehicle may roll ",
+          "The contact owns a 2013 Dodge Charger. The contact stated that after stopping at a stop light, the brake pedal was released and the accelerator pedal was depressed to make a left turn however, the veh",
+          "The shifter module that was replaced under recall S27/NHTSA 16V-240 in August of 2016 started shifting itself into sport mode automatically and without warning in November of 2022. I took my car to Ja"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 41,
+        "share_pct": 11.4,
+        "excerpts": [
+          "The contact owns a 2013 Dodge Charger. The contact stated that the airbag warning light illuminated. The vehicle was taken to a dealer, where it was not diagnosed; however, the dealer confirmed there ",
+          "There’s a recall on 11 part on my vehicle",
+          "Power train,  transmission output shaft fracture could result in a loss of power, increasing the risk of a crash.  if the parking brake is not applied before exiting the vehicle, the vehicle may roll "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 30,
+        "share_pct": 8.3,
+        "excerpts": [
+          "I'm driving mi dogde hard steering",
+          "While driving the vehicle the steering became very difficult, to the point I could not control my car and had to pull over. The steering seem to have locked up while driving. I had it towed to auto re",
+          "Power steering locks up, power steering fuses have blown three times in less than three months and there are thumping noises and vibrations when making turns."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 25,
+      "fires": 20,
+      "injuries": 18,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 15
+      },
+      {
+        "year": 2014,
+        "count": 40
+      },
+      {
+        "year": 2015,
+        "count": 46
+      },
+      {
+        "year": 2016,
+        "count": 57
+      },
+      {
+        "year": 2017,
+        "count": 70
+      },
+      {
+        "year": 2018,
+        "count": 39
+      },
+      {
+        "year": 2019,
+        "count": 33
+      },
+      {
+        "year": 2020,
+        "count": 23
+      },
+      {
+        "year": 2021,
+        "count": 16
+      },
+      {
+        "year": 2022,
+        "count": 7
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 1
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "19V018000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2010 Dodge Ram 3500, Ram 4500/5500, 2010-2011 Dodge Dakota, 2010-2014 Dodge Challenger, 2010-2015 Dodge Challenger, Chrysler 300, and 2010-2016 Jeep Wrangler vehicles.  Upon deployment of the driver's frontal air bag, excessive internal pressure may cause t",
+        "report_date": "15/01/2019",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V435000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2014 Dodge Challenger, Dodge Charger, Chrysler 300, Dodge Durango, and 2012-2014 Jeep Grand Cherokee vehicles.  The affected vehicles have electro-hydraulic power steering (EHPS) and are equipped with a 5.7L or a 3.6L engine and a 160, 180 o",
+        "report_date": "10/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V021000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2009-2013 Jeep Wrangler, Chrysler 300, Dodge Challenger and Dodge Charger vehicles, and 2009-2011 Dodge Dakota vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, ",
+        "report_date": "09/01/2018",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V240000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2012-2014 Dodge Charger and Chrysler 300 vehicles manufactured February 15, 2011, to November 27, 2014, and 2014-2015 Jeep Grand Cherokee vehicles manufactured July 16, 2012, to December 22, 2015.  The affected vehicles, equipped with an eight-sp",
+        "report_date": "25/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V467000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2014 Dodge Charger vehicles manufactured May 6, 2010, to June 5, 2014.  In the affected vehicles, the side impact sensor calibrations may be overly sensitive, and as a result, the side air bag inflatable curtains and seat air bags may unexpe",
+        "report_date": "27/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V043000",
+        "component": "STRUCTURE",
+        "summary": "FCA US LLC (Chrysler) is recalling certain model year 2011-2016 Dodge Charger vehicles manufactured August 23, 2010, to January 7, 2016.  When an affected vehicle is lifted using the supplied tire jack without chocking the wheels, the vehicle's body-side sill may give causing the tire jack to fail a",
+        "report_date": "28/01/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V610000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2013 Chrysler 300 AWD, Dodge Charger AWD, and Dodge Ram 1500 4x4 vehicles equipped with ZF all wheel drive (\"AWD\") 8HP45 transmissions.  In the affected vehicles, the transmission output shaft may fracture.",
+        "report_date": "06/12/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V634000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Chrysler 300, Dodge Charger, Challenger, and Durango; and 2012-2014 Jeep Grand Cherokee vehicles manufactured April 22, 2010, to January 2, 2014, and equipped with a 3.6L engine and a 160 amp alternator.  In the affected vehicle",
+        "report_date": "08/10/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:21.821Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

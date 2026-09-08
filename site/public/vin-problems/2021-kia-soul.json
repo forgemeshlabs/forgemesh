@@ -1,0 +1,132 @@
+{
+  "slug": "2021-kia-soul",
+  "year": 2021,
+  "make": "Kia",
+  "model": "Soul",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 228,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 129,
+        "share_pct": 56.6,
+        "excerpts": [
+          "My 2021 KIA Soul has a recall order for P1327 code which is the knocking noise from the piston ring.   The KIA dealership in Idaho Falls is denying the recall order, claiming that it has to be from th",
+          "My 2021 Kia Soul has stalled unexpectedly while being driven on multiple occasions. When the vehicle stalls, the engine shuts off and the vehicle loses propulsion, creating a risk of a collision, part",
+          "Vehicle: 2021 Kia Soul LX, 2.0L Engine Subject: Loss of Motive Power and Stall While Driving Under Recall SC336  Description of Incident:  On 07/02 @ roughly 6:15PM, while driving on the highway I-35E"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 46,
+        "share_pct": 20.2,
+        "excerpts": [
+          "The contact owns a 2021 Kia Soul. The contact stated that the vehicle was consuming an excessive amount of engine oil. The contact stated that the high oil consumption might cause a fire in the engine",
+          "The contact owns a 2021 Kia Soul. The contact stated that while driving at an undisclosed speed, the vehicle stalled. The vehicle was restarted but continued to stall each time the vehicle was stopped",
+          "The contact owns a 2021 Kia Soul. The contact stated that while driving at an undisclosed speed, the vehicle stalled. The check engine and engine oil warning lights were illuminated. The contact added"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 26,
+        "share_pct": 11.4,
+        "excerpts": [
+          "I am filing this complaint regarding my 2021 Kia Soul due to repeated engine and powertrain failures and concerns about the quality and safety of the repairs.  While my vehicle was under Kia's 100,000",
+          "Cv joint and axle causing car to stall when turunning",
+          "took to kia of jackson  for recall sc209a  they said they would not do recall because i was a dealer ,called customer service and they said do to the fact that i was a dealer it would not be covered  "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 15,
+        "share_pct": 6.6,
+        "excerpts": [
+          "Mi carro hay veces que prende la luz de la engine, lo lleve a checar y salió en la computadora que era un problema de Power Train system, que era secondary DTCs P1C28 Y P1C28000, lo busque en Google y",
+          "The entire car is dead from the engine to the key function completely dead. The car broke down 3 time in the middle of the street which could've caused a serious crash putting my safety and others at ",
+          "Auto Start Stop Issue - Vehicle will stall and not start when waiting at a red light after you let go of break. All warning lights would turn on and stall."
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 10,
+        "share_pct": 4.4,
+        "excerpts": [
+          "What component or system failed or malfunctioned?  The engine (piston rings) and catalytic converter failed. The catalytic converter is available for inspection upon request.  How was safety put at ri",
+          "Owner was driving home at the normal posted speed limit when the car stalled out. The check engine light was on along with the oil Light, the car cranked back up in time before owner was rear ended. N",
+          "Contact Information: •Name: [XXX]  •Contact:  Phone: [XXX]  Email: [XXX]  •Location: Hawaii  Vehicle Information: •Year / Make / Model:  2021 Kia Soul S •VIN: [XXX]  •Mileage: 133,000 miles  Recall Re"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 12,
+      "fires": 3,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1998,
+        "count": 1
+      },
+      {
+        "year": 2001,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 4
+      },
+      {
+        "year": 2021,
+        "count": 19
+      },
+      {
+        "year": 2022,
+        "count": 17
+      },
+      {
+        "year": 2023,
+        "count": 27
+      },
+      {
+        "year": 2024,
+        "count": 25
+      },
+      {
+        "year": 2025,
+        "count": 86
+      },
+      {
+        "year": 2026,
+        "count": 48
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "21V259000",
+        "component": "ENGINE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2020-2021 Soul, and 2021 Seltos vehicles equipped with 2.0L Nu MPI engines.  The piston oil rings may not have been properly heat-treated, which may result in engine damage.",
+        "report_date": "13/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V099000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2021-2023 Seltos and Soul vehicles.  The piston oil rings may have been manufactured incorrectly, which can result in engine damage.",
+        "report_date": "17/02/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:36.451Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

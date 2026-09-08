@@ -1,0 +1,132 @@
+{
+  "slug": "2022-hyundai-tucson",
+  "year": 2022,
+  "make": "Hyundai",
+  "model": "Tucson",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 380,
+    "top_failure_components": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 130,
+        "share_pct": 34.2,
+        "excerpts": [
+          "In April 2026 (29,805 miles) I was on an interstate underpass U-turn and when I went to accelerate from the U-turn, the vehicle “revved”, had difficulty accelerating, and appeared to not go into the n",
+          "Fuel injector went bad causing vehicle engine to misfire and shake rapidly. Check engine light is on. The vehicle only has 40,000 miles on it. Seems to be a very common concern for this make and model",
+          "While driving the car stalled and then the engine shutdown, caused by a misfired fuel injector. Myself and the passengers in the car were minorly safe, as this incident occurred while driving through "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 114,
+        "share_pct": 30,
+        "excerpts": [
+          "The car was shaking, idling and accelerating and engine lights on.",
+          "In April 2026 (29,805 miles) I was on an interstate underpass U-turn and when I went to accelerate from the U-turn, the vehicle “revved”, had difficulty accelerating, and appeared to not go into the n",
+          "Vehicle turned itself off with no warning while being driven @ 40 moh.  Dealer suspects fuel injectors, but could be ignition coil."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 63,
+        "share_pct": 16.6,
+        "excerpts": [
+          "In April 2026 (29,805 miles) I was on an interstate underpass U-turn and when I went to accelerate from the U-turn, the vehicle “revved”, had difficulty accelerating, and appeared to not go into the n",
+          "My 2022 Hyundai Tucson Experience, a sudden transmission failure at approximately 92,520 miles. The vehicle develop shifting issues and abnormal noises before losing propulsión. While driving. Hyundai",
+          "Multiple DTC codes on car at 25,120 miles,32,344, 34,324, 47,484, 51,853, 53,521, Consistent Fuel Injector failing under warranty, prior to 60,000 miles and not replaced correctly, as I have had to se"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 53,
+        "share_pct": 13.9,
+        "excerpts": [
+          "The contact owns a 2022 Hyundai Tucson. The contact stated that while driving at an undisclosed speed, the right turn signal indicator light failed to illuminate on the instrument panel upon depressin",
+          "The contact owns a 2022 Hyundai Tucson. The contact stated while driving at an undisclosed speed, several unknown warning lights illuminated. The vehicle was taken to an independent mechanic, where it",
+          "My wife was driving my SUV while I was a passenger. We were in the left lane, and put the left turn signal on while traveling south bound approaching an intersection to take a left turn (traveling app"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 38,
+        "share_pct": 10,
+        "excerpts": [
+          "I had just started accelerating from a stop light at 715 am on a clear morning.  I was not close to any other cars and there was no traffic entering.  Without warning my collision warning came on and ",
+          "The car was shaking, idling and accelerating and engine lights on.",
+          "My wife was driving my SUV while I was a passenger. We were in the left lane, and put the left turn signal on while traveling south bound approaching an intersection to take a left turn (traveling app"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 25,
+      "fires": 4,
+      "injuries": 54,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 15
+      },
+      {
+        "year": 2022,
+        "count": 52
+      },
+      {
+        "year": 2023,
+        "count": 80
+      },
+      {
+        "year": 2024,
+        "count": 80
+      },
+      {
+        "year": 2025,
+        "count": 96
+      },
+      {
+        "year": 2026,
+        "count": 56
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "21V938000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2022 Tucson vehicles.  The software installed in the Integrated Central Control Unit (ICU) may be incompatible with the vehicle, which could result in inoperative headlights and/or taillights.",
+        "report_date": "02/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V038000",
+        "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2022 Tucson and 2022-2023 Santa Cruz vehicles.  The roof moldings may detach.",
+        "report_date": "31/01/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V893000",
+        "component": "TRAILER HITCHES",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2022-2024 Tucson vehicles equipped with an optional Mobis tow hitch wiring harness. The wiring harness may have been installed incorrectly, allowing water into the control module. Moisture accumulation may cause the trailer lighting to fail or an ",
+        "report_date": "19/12/2025",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:26.729Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "2013-ford-expedition",
+  "year": 2013,
+  "make": "Ford",
+  "model": "Expedition",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 92,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 43,
+        "share_pct": 46.7,
+        "excerpts": [
+          "The contact owns a 2013 Ford Expedition. The contact stated that while driving 55 MPH, the transmission unexpectedly downshifted to first gear, causing the vehicle to shake and jerk abnormally. The sp",
+          "The contact owns a 2013 Ford Expedition. The contact stated that while driving 55 MPH, the vehicle decelerated and unexpectedly downshifted to first gear before the vehicle veered over into the next l",
+          "The contact owns a 2013 Ford Expedition. The contact stated that while driving at 25 MPH, there was a sudden unattended downshift of the vehicle. The speedometer went to zero. The RPM increased withou"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 10,
+        "share_pct": 10.9,
+        "excerpts": [
+          "2013 Ford Expedition Limited 5.4 engine. The vehicle was purchased new with an extended warranty with all services performed by Ford dealer. On or about [XXX], with no warning or indication of problem",
+          "The contact owns a 2013 Ford Expedition. The contact stated while driving 20 MPH, the vehicle stalled and lost motive power without warning. The vehicle was towed to an independent mechanic to be diag",
+          "Vehicle suddenly loses power the wrench light comes on and the vehicle will not go when pushing the accelerator. The vehicle has to be turned off and restarted before it becomes mobile again."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 10,
+        "share_pct": 10.9,
+        "excerpts": [
+          "When driving veh wrench light came on veh jerks and drops down to first gear rpm and speed gauges go out for second  had to pull over cut veh off and cut it back on to get it home this happened severa",
+          "The contact owned a 2013 Ford Expedition. The contact stated that while the vehicle was idling in the daughter's driveway, a mist was present coming from the vents, and moments later the horn activate",
+          "The transmission is shifting dangerously. All the lights on the dash are flashing and the speedometer doesn't work. We were driving at highway speed and the transmission shifted into first gear causin"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 7,
+        "share_pct": 7.6,
+        "excerpts": [
+          "2/13/19- Ford Issued Recall on 2013 Ford Expedition for OSS failure and downshift 2/20/19- I go to the Preston Ford Mazda dealership, Maryland.  I view and test drive a 2013 Ford Expedition, during th",
+          "Since more than 18 months, we have the known intermittent problem described in TSB [XXX], where all of a sudden the wrench appears, speedometer drops to zero and car can't change gear anymore. Sometim",
+          "Vehicle suddenly loses power the wrench light comes on and the vehicle will not go when pushing the accelerator. The vehicle has to be turned off and restarted before it becomes mobile again."
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 5,
+        "share_pct": 5.4,
+        "excerpts": [
+          "REPLACED SWAY BAR LINKS THREE TIMES ON BOTH SIDES",
+          "THE STRUTS WERE REPLACED AT 26,344 ON 6/30.16 AND  NOW IN OCTOBER 2016 THE NEW ONES ARE ALSO LEAKING OIL AND NOT WORKING. I DRIVE ON PAVED ROADS.",
+          "BOTH FRONT STRUTS LEAKING FLUID AFTER ONLY 36,000 MILES"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 3,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 6
+      },
+      {
+        "year": 2014,
+        "count": 5
+      },
+      {
+        "year": 2015,
+        "count": 4
+      },
+      {
+        "year": 2016,
+        "count": 10
+      },
+      {
+        "year": 2017,
+        "count": 3
+      },
+      {
+        "year": 2018,
+        "count": 11
+      },
+      {
+        "year": 2019,
+        "count": 12
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 7
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T19:57:47.898Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

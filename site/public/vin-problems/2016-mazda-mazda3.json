@@ -1,0 +1,172 @@
+{
+  "slug": "2016-mazda-mazda3",
+  "year": 2016,
+  "make": "Mazda",
+  "model": "Mazda3",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 102,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 22,
+        "share_pct": 21.6,
+        "excerpts": [
+          "The contact owns a 2016 Mazda Mazda3. The contact stated that while driving and while starting the vehicle, the instrument cluster was inoperable. The contact also stated that the instrument cluster s",
+          "When I checked for recall information 2 recalls were listed under my car's vin #:  Recall #1: 3219D with Closed status. Recall #2: 6023G is listed as Active. But, when I tried to schedule a repair for",
+          "NHTSA Recall # 23V-487 Manufacturer Recall # 6023G issued July 14, 2023 After repeated phone calls to the Manufacturer and the Mazda Dealership, the recall has not been fixed. I have been told that th"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 13,
+        "share_pct": 12.7,
+        "excerpts": [
+          "Parking brake does not fully disengage. This causes the rear brakes to wear prematurely and also has the potential to generate excessive heat.",
+          "I PARKED AT THE TOP OF MY DRIVEWAY AT A SLIGHT INCLINE POSITION WITH THE EMERGENCY BRAKE ENGAGED AND THE CAR WAS IN SECOND GEAR (MANUAL TRANSMISSION). IT WAS IN A STATIONARY POSITION AT THAT TIME. MY ",
+          "POWER BREAK BOOSTER FAILURE. MAKING IT DIFFICULT TO STOP."
+        ]
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "complaints": 12,
+        "share_pct": 11.8,
+        "excerpts": [
+          "My 2016 Mazda 3 has had a faulty rearview camera, computerized controls, and monitor display screen for over 2 years now. I am not sure if there is a problem with the electrical system because I have ",
+          "The contact owns a 2016 Mazda Mazda3. The contact received notification of NHTSA Campaign Number: 23V487000 (Back Over Prevention); however, the part to do the recall repair was not yet available. The",
+          "It’s been over a year since recall number 23v-487 was issued  Need to get it taken care of"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 9,
+        "share_pct": 8.8,
+        "excerpts": [
+          "I am writing to formally report a serious safety issue with my 2016 Mazda 3 manual transmission, which experienced a sudden and complete clutch failure at less  60,000 miles — without any warning ligh",
+          "Timing cover leak, all maintenance was completed before the service bulletin. This is a TSB but should be a recall for how common this issue is as they stated it could be caused from the assembly line",
+          "I WAS DRIVING HOME FROM WORK ON 2-16-2021, ALL OF A SUDDEN WITH OUT WARNING, EVERY WARNING AND INFORMATION LIGHT LIGHT UP LIKE A XMAS TREE, THE POWER STEERING WENT AWAY MAKING IT HARD TO DRIVE, THE EN"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 7,
+        "share_pct": 6.9,
+        "excerpts": [
+          "It’s been over a year since recall number 23v-487 was issued  Need to get it taken care of",
+          "The windshield wipers work but the washer does not squirt the windshield washing fluid out and it the reservoir is full of fluid but there are certain days in which I need that to work because my visi",
+          "ALL OF THE WINDOWS HAVE BUBBLES AND RIPPLES IN THE FACTORY TINT WHICH CAUSES POOR VISIBILITY. THE WINDOWS HAVE TO BE ROLLED DOWN TO TO SEE ONCOMING TRAFFIC. THE RIPPLES AND BUBBLES ARE SO BAD THAT YOU"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 1,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 5
+      },
+      {
+        "year": 2017,
+        "count": 16
+      },
+      {
+        "year": 2018,
+        "count": 10
+      },
+      {
+        "year": 2019,
+        "count": 12
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 12
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 10
+      },
+      {
+        "year": 2024,
+        "count": 14
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "19V272000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2016-2018 Mazda3 vehicles.  A defective windshield wiper relay may cause the windshield wipers to become inoperative, reducing the driver's visibility.",
+        "report_date": "04/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V684000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "Mazda Motors North American Operations (Mazda) is recalling certain model year 2014-2016 Mazda3 vehicles manufactured January 4, 2014, to September 18, 2015.  The fuel tank of the affected vehicles may have been improperly handled during manufacturing and, as a result, the welded attachment of the I",
+        "report_date": "22/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V685000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain model year 2016 Mazda3 vehicles manufactured September 24, 2015, to October 16, 2015.  During manufacturing, the fuel tanks for the affected vehicles may have deformed, resulting in a fuel leak from the recirculation pipe welded connection",
+        "report_date": "23/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V393000",
+        "component": "PARKING BRAKE",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2014-2015 Mazda6 and 2014-2016 Mazda3 vehicles.  Water could possibly enter the brake caliper causing the parking brake actuator shaft to corrode and possibly bind.",
+        "report_date": "22/06/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V621000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain model year 2015-2016 Mazda3 vehicles manufactured May 21, 2015, to August 25, 2015.  The affected vehicles are equipped with a fuel tank with a shut-off valve that can allow fuel to enter into the fuel tank emissions systems.  If enough fu",
+        "report_date": "02/10/2015",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V487000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2014-2018 Mazda3 and 2016-2021 CX-3 vehicles.  The rearview camera image may not display properly by showing a flickering or distorted image.",
+        "report_date": "14/07/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:30.070Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

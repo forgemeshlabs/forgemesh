@@ -1,0 +1,180 @@
+{
+  "slug": "2010-mazda-mazda3",
+  "year": 2010,
+  "make": "Mazda",
+  "model": "Mazda3",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 686,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 169,
+        "share_pct": 24.6,
+        "excerpts": [
+          "See attached document for complaint.",
+          "The dashboards should be subject to a recall immediately since badly reduced visibility from glare is a recipe for an accident. The defective (melting) material is so bad that if the sun hits it just ",
+          "The dash of the car is melting. It causes a reflection that is bright and impairs visibility. Mazda addressed this problem with extending the warranty. When I called the local dealerships, none of the"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 106,
+        "share_pct": 15.5,
+        "excerpts": [
+          "This vehicle is subject to recall #:  17V-082  referring to a drivers seat lifter link than can break.  My car has a broken lifter link, was brought to the dealership and instead of replacing the enti",
+          "Monday 7/10/2023 car was fine ie (the seat) next day Tues 7/11/2023 opened drivers side door couldn’t believe my eyes. The driver seat had somehow migrated clear up to an inch from my chest to the ste",
+          "The contact owns a 2010 Mazda Mazda3. The contact stated upon opening the driver's side door, she noticed that the front driver's side seat had independently moved closer to the steering wheel. The co"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 100,
+        "share_pct": 14.6,
+        "excerpts": [
+          "my Mazda 03 dashboard is melting, and I am not able to see out the window... I have talked to dealer and manufactory, and they will not pay the whole amount knowing it's a safety issue.  I don't under",
+          "The dashboard adhesive migrates to the surface of the dashboard.  Adhesive then sublimates and condenses on the windshield making a glaze on the windshield, making it extremely difficult to see the ro",
+          "Front dash is melted and very shiny causing intense glare for the driver."
+        ]
+      },
+      {
+        "component": "WHEELS",
+        "complaints": 54,
+        "share_pct": 7.9,
+        "excerpts": [
+          "ABS module malfunction all four wheel speed sensor not read in the same time and powersteering cut off cause by unready wheel speed check engine light ABS light and Steering Light on.",
+          "As the original owner, I have now experienced (4) faulty/broken/corroded valve stem as part (attached to the TPMS-Tire Pressure Monitor System). This happened over the course of 12 years.  I do believ",
+          "ABS, AND TRACTION CONTROL DASH BOARD LIGHTS ARE ON.  THE ABS RELAY IS FAULTY, SO THE ABS MODULE NEEDS TO BE REPLACED"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 50,
+        "share_pct": 7.3,
+        "excerpts": [
+          "The AT light came on the dash, added transmission fluid because it was a little low but the light still has not gone off. I think there is an electrical problem within the transmission. It's had shift",
+          "NHTSA Complaint Narrative  I am filing this complaint regarding a 2010 Mazda 3, VIN [XXX] .  The vehicle experiences intermittent transmission control failures, including difficulty shifting out of fi",
+          "The a.b.s pump module is defective in these vehicles. There are tons of people having issues with them. When they fail it happens suddenly resulting in brake failure, power steering failure, the car d"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 18,
+      "fires": 5,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1985,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 6
+      },
+      {
+        "year": 2010,
+        "count": 38
+      },
+      {
+        "year": 2011,
+        "count": 22
+      },
+      {
+        "year": 2012,
+        "count": 48
+      },
+      {
+        "year": 2013,
+        "count": 86
+      },
+      {
+        "year": 2014,
+        "count": 134
+      },
+      {
+        "year": 2015,
+        "count": 85
+      },
+      {
+        "year": 2016,
+        "count": 55
+      },
+      {
+        "year": 2017,
+        "count": 60
+      },
+      {
+        "year": 2018,
+        "count": 32
+      },
+      {
+        "year": 2019,
+        "count": 31
+      },
+      {
+        "year": 2020,
+        "count": 36
+      },
+      {
+        "year": 2021,
+        "count": 11
+      },
+      {
+        "year": 2022,
+        "count": 12
+      },
+      {
+        "year": 2023,
+        "count": 13
+      },
+      {
+        "year": 2024,
+        "count": 7
+      },
+      {
+        "year": 2025,
+        "count": 7
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "17V082000",
+        "component": "SEATS",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2011 Mazda2 and 2010-2011 Mazda3 and Mazdaspeed3 vehicles equipped with a manual seat lifter.  In the affected vehicles, the seat height adjustment lifter links may break or detach from the seat frame and the seat angle may incline causing",
+        "report_date": "09/02/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V644000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain model year 2010-2013 Mazda3 and Mazdaspeed3 vehicles manufactured November 18, 2008, to June 8, 2013, 2012-2015 Mazda5 vehicles manufactured October 26, 2010, to June 22, 2015, 2016 CX-3 vehicles manufactured June 1, 2015, to December 26, ",
+        "report_date": "06/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V126000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "MAZDA IS RECALLING 25,400 MY 2010 MAZDA3 VEHICLES.  A CLEARANCE BETWEEN THE ENGINE HARNESS AND THE HOUSING OF STARTER MOTOR MAY BE INSUFFICIENT.  DUE TO THIS, THE COVERING OF THE HARNESS MAY BE DAMAGED THROUGH VIBRATION DURING OPERATION POSSIBLY CAUSING A SHORT-CIRCUIT BETWEEN CERTAIN HARNESS WIRES ",
+        "report_date": "16/04/2009",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:52:03.253Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

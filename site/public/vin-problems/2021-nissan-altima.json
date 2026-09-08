@@ -1,0 +1,120 @@
+{
+  "slug": "2021-nissan-altima",
+  "year": 2021,
+  "make": "Nissan",
+  "model": "Altima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 69,
+    "top_failure_components": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 22,
+        "share_pct": 31.9,
+        "excerpts": [
+          "My car is supposed to have an automatic braking system/collision detection. Two cars in front of me slammed on their brakes and the car in front of me slammed on his brake, and I didn't have enough ti",
+          "The system malfunctioning is the front sensor braking. My safety and others were put at risk with this because multiple times my car has braked me and or completely stopped me because it’s malfunction",
+          "Vehicle Breaking on Its Own While Driving I am writing to file a formal safety complaint and to demand immediate corporate intervention regarding an extremely dangerous mechanical/ADAS defect. My Niss"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 21,
+        "share_pct": 30.4,
+        "excerpts": [
+          "Got the car from kingdom Chevy on 66 and western on February 2024 used at 62.000. I took the car back twice because the screen in the car kept cutting off fading on and fading off. Secondly, the Bluet",
+          "Door lock actuators have failed completely on 2 doors, and intermittently on 1 door of a 2021 Nissan Altima. They do not respond to either the key fob or door button. There are no warnings or indicato",
+          "I purchased this car in April 2023 and in December 2023. I had to get a new battery when I purchased a car. They told me that there was no worries or mishaps with the vehicle they said just only norma"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 20,
+        "share_pct": 29,
+        "excerpts": [
+          "When I make a turn, I hear a clicking noise and also when I come to a complete stop, I can a sound that sounds like a grunting noise. I had new brakes, rotors and brand new tires put on in 2025. I thi",
+          "My car is supposed to have an automatic braking system/collision detection. Two cars in front of me slammed on their brakes and the car in front of me slammed on his brake, and I didn't have enough ti",
+          "The system malfunctioning is the front sensor braking. My safety and others were put at risk with this because multiple times my car has braked me and or completely stopped me because it’s malfunction"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 7,
+        "share_pct": 10.1,
+        "excerpts": [
+          "When I make a turn, I hear a clicking noise and also when I come to a complete stop, I can a sound that sounds like a grunting noise. I had new brakes, rotors and brand new tires put on in 2025. I thi",
+          "Steering wheel module buttons are not working .  /  needs a sensor replaced - recalibration.",
+          "Due to the Pasadena wildfires the car has been highly affected due to the extreme heat and the ashes"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 6,
+        "share_pct": 8.7,
+        "excerpts": [
+          "While heading west on interstate after a Drs. Appointment my wife was driving our 2021 Nissan Altima when suddenly there was a loss of power to the engine as if the engine was overheating or had loss ",
+          "Often while driving the car loses power as if the power went off or I ran out of gas,,, studder for a moment then pick up power to continue to drive is the best way I can describe it. Immediately afte",
+          "Dealership found metal contamination in oil pan from engine. They diagnosed as car needing a new engine due to engine failure. The car only has 90,000 miles and it’s a 2021."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 1,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 6
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 13
+      },
+      {
+        "year": 2024,
+        "count": 18
+      },
+      {
+        "year": 2025,
+        "count": 13
+      },
+      {
+        "year": 2026,
+        "count": 11
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "21V138000",
+        "component": "STEERING:LINKAGES:TIE ROD ASSEMBLY",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2020-2021 Nissan Altima vehicles.  The tie rod ball joint fastener was not tightened properly, which could result in the tie rod ball joint detaching from the steering knuckle.",
+        "report_date": "04/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V628000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2019-2021 Altima and 2020-2021 Sentra vehicles.  Damage to the camera harness can cause distortion or loss of the rearview camera display image.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Stan",
+        "report_date": "08/09/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:07.725Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

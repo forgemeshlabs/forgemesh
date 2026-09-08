@@ -1,0 +1,128 @@
+{
+  "slug": "2018-chevrolet-colorado",
+  "year": 2018,
+  "make": "Chevrolet",
+  "model": "Colorado",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 182,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 78,
+        "share_pct": 42.9,
+        "excerpts": [
+          "While driving at normal and safe highway speeds, without warning (no audible or visual warning from the vehicle information display) my vehicle experienced engine lockout, loss of all non-electric pow",
+          "I purchased the truck at the end of March 2025. Within a few weeks I was noticing different issues in the transmission. It would occasionally shudder, have jerky or long shifts, would jump gears and l",
+          "66,500 miles transmission shudder. Scenic Chevrolet advised the torque converter failed and damaged the transmission."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 34,
+        "share_pct": 18.7,
+        "excerpts": [
+          "The contact owns a 2018 Chevrolet Colorado. The contact stated that while the vehicle was parked, the key was difficult to remove from the ignition. The dealer was contacted and informed that the shif",
+          "My 2018 Chevrolet Colorado diesel has had repeated diesel emissions/DPF-related failures that cause the vehicle to enter reduced-power or limp mode. This is a safety issue because the truck suddenly l",
+          "All the sensors seem to not be functioning correctly. Doesn't tell me the right measurements for the wheels, gas, over heating. Right front passenger door locks/unlocks when it wants. It chokes up whe"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 23,
+        "share_pct": 12.6,
+        "excerpts": [
+          "While driving at normal and safe highway speeds, without warning (no audible or visual warning from the vehicle information display) my vehicle experienced engine lockout, loss of all non-electric pow",
+          "Engine fails it violenty thumps and studders and drops from highway speed with no warning.  This is a mfg. defect and also an EXTREME SAFETY CONCERN.   The engine studders and thumps and we were almos",
+          "The problem started two months ago, with a loss of engine power and a stability track warning on the dashboard. This happened occasionally while driving, often going away on its own by turning off the"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 18,
+        "share_pct": 9.9,
+        "excerpts": [
+          "Power steering failure, without incident. It started one morning, after turning off truck the previous day. Warning lights displayed as soon as truck was started. Very difficult to turn steering wheel",
+          "The ignition switch will frequently lock when turning off and not allow the electrical system to fully turn off and prevent you from removing the key.  It happens randomly but has been increasing in f",
+          "The power steering quits working intermittently. It has always been extremely cold when it happens. So far, it has only happened when the vehicle has been started, then driven. Turning the ignition of"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 11,
+        "share_pct": 6,
+        "excerpts": [
+          "My 2018 Chevrolet Colorado diesel has had repeated diesel emissions/DPF-related failures that cause the vehicle to enter reduced-power or limp mode. This is a safety issue because the truck suddenly l",
+          "7.5 amp to fuel injectors has blown 2 times unknow reason causing loss of power 1st time on country road then 2nd time on a  highway it's a common problem from the Chevy Colorado forums regarding the ",
+          "All the sensors seem to not be functioning correctly. Doesn't tell me the right measurements for the wheels, gas, over heating. Right front passenger door locks/unlocks when it wants. It chokes up whe"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 5,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 3
+      },
+      {
+        "year": 2018,
+        "count": 23
+      },
+      {
+        "year": 2019,
+        "count": 35
+      },
+      {
+        "year": 2020,
+        "count": 14
+      },
+      {
+        "year": 2021,
+        "count": 21
+      },
+      {
+        "year": 2022,
+        "count": 15
+      },
+      {
+        "year": 2023,
+        "count": 22
+      },
+      {
+        "year": 2024,
+        "count": 21
+      },
+      {
+        "year": 2025,
+        "count": 20
+      },
+      {
+        "year": 2026,
+        "count": 8
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "18V358000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2018 GMC Canyon, 2016-2017 Buick Envision, 2016-2018 Chevrolet Colorado and Malibu, 2017-2018 GMC Acadia, 2018 Buick LaCrosse, Cadillac ATS, Chevrolet Equinox, and GMC Terrain vehicles.  The high pressure fuel pump may detach from its mounting flange",
+        "report_date": "31/05/2018",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:12.933Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

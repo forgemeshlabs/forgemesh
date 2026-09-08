@@ -1,0 +1,188 @@
+{
+  "slug": "2021-nissan-rogue",
+  "year": 2021,
+  "make": "Nissan",
+  "model": "Rogue",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 285,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 60,
+        "share_pct": 21.1,
+        "excerpts": [
+          "I have two major safety concerns for my 2021 Nissan Rogue.   1) FAILED REAR DOOR ACTUATORS ON BOTH THE DRIVER AND PASSENGER SIDE OF VEHICLE:  I own a 2021 Nissan Rogue with approximately 68,000 miles.",
+          "My Nissan Rogue Platinum 2021 not want to start I call a AAA they check the batery but the batery was new 3 months I have to call a tow truck and bring it to Nissan dealer on university dr in hunstvil",
+          "All four door locks are now inoperable.   Doors do not respond to normal locking and unlocking features.  Doors lock and unlock randomly making this a safety concern for those in the vehicle.   NIssan"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 51,
+        "share_pct": 17.9,
+        "excerpts": [
+          "On July 29th 2024 (two weeks after regular oil change) i noticed the engine temperature rise to the halfway mark. I stopped at Sheetz and waited for it to cool down. I opened the coolant cap and only ",
+          "Last year we had engine problems and the head gasket was bad, had it replaced and it ran for another year. It currently has a cracked head and needs repaired again.",
+          "I was on the interstate as I got off the interstate had a complete loss of power and heard what sounded like metal banging against metal in the engin. I was broke down in the middle of the intersectio"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 33,
+        "share_pct": 11.6,
+        "excerpts": [
+          "Constant strong fuel smell that last for day I'm a disabled veteran and I had really bad headaches after driving each time. I have taken vehicle in to dealership and told them about fuel smell problem",
+          "I own a 2021 Nissan Rogue SV, 2.5L engine. I have repeatedly experienced a strong gasoline/fuel/exhaust-like odor inside the passenger compartment of the vehicle. The odor is extremely strong and has ",
+          "Check engine light code detected fuel leak. Fuel could be smelled outside of car when operated or parked. Took car to Nissan to inspect fuel leak. Fuel pump had to be replaced due to a leak per Nissan"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 29,
+        "share_pct": 10.2,
+        "excerpts": [
+          "The contact owns a 2021 Nissan Rogue. The contact stated she was involved in a crash, stated she was going 30 MPH, when suddenly a parked vehicle back out and T-boned the right side of the straight do",
+          "Vehicle will come up with a collision warning and tell you to refer to the owners manual. And then tells you to pull over and shuts off the vehicle. After 10 seconds vehicle starts up again and drives",
+          "Vehicle Safety Defect Report I am submitting this vehicle safety defect report regarding a serious and dangerous failure in a 2021 Nissan Rogue. The vehicle experienced complete electronic shutdowns w"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 26,
+        "share_pct": 9.1,
+        "excerpts": [
+          "The contact owned a 2021 Nissan Rogue. The contact stated that while the vehicle was parked, the vehicle independently accelerated and the brakes failed to operate while the brake pedal was depressed,",
+          "I was driving my 2021 Nissan Rogue on the highway, returning from the airport after picking up a friend, when the check engine light illuminated and the vehicle began jerking on acceleration. The vehi",
+          "The vehicle was puttering and smoking from the exhaust. At first the mechanic thought it was a head gasket, but with further investigation it was the coolant/exhaust. The vehicle stalled out multiple "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 21,
+      "fires": 3,
+      "injuries": 11,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 50
+      },
+      {
+        "year": 2022,
+        "count": 31
+      },
+      {
+        "year": 2023,
+        "count": 41
+      },
+      {
+        "year": 2024,
+        "count": 46
+      },
+      {
+        "year": 2025,
+        "count": 73
+      },
+      {
+        "year": 2026,
+        "count": 43
+      }
+    ]
+  },
+  "recalls": {
+    "count": 10,
+    "recalls": [
+      {
+        "campaign_number": "21V957000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2021 Rogue vehicles.  Abnormal wear inside the fuel pump may cause it to overheat and fail.",
+        "report_date": "09/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V286000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2021 Rogue vehicles.  The rear left and/or right brake caliper assemblies may be missing an internal bushing, allowing the O-ring seal to move and brake fluid to leak.",
+        "report_date": "22/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V186000",
+        "component": "WHEELS:LUGS/NUTS/BOLTS/STUDS",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2021 Nissan Rogue vehicles.  The incorrect wheel nuts may have been installed, and may loosen causing wheel vibration.",
+        "report_date": "17/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V068000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2021 Nissan Rogue vehicles.  The fuel hose may not be secured in the proper position and the fuel tank lock ring may not be fully seated.",
+        "report_date": "11/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V474000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2021 Rogue vehicles.  The second-row upper tether wires may have been improperly welded to the seatback frame, preventing a child seat from being securely anchored.  As such, these vehicles fail to comply with the requirements of Federal Motor",
+        "report_date": "24/06/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V527000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2021-2022 Rogue, 2022 Frontier, Pathfinder, and Titan rental vehicles.  When the Sirius XM subscription is set to \"Not Subscribed,\" it may cause the infotainment head unit to reboot, resulting in an inoperative rearview camera.  As such, these",
+        "report_date": "21/07/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V666000",
+        "component": "SEAT BELTS: REAR/OTHER:BUCKLE ASSEMBLY",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2021-2022 Rogue vehicles.  The rear seat belts for the left-hand and right-hand rear seats may not retract properly.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard numbers 208, \"Occupant ",
+        "report_date": "01/09/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V772000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2022 Titan, Titan XD, Frontier, and 2021-2022 Rogue vehicles.  The in-vehicle infotainment (IVI) system may continuously reboot when the vehicle is restarted, which can result in an inoperative rearview display.  As such, these vehicles fail t",
+        "report_date": "13/10/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V791000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2021 Rogue vehicles.  The left and/or right rear brake caliper assemblies may be missing an internal bushing, allowing the O-ring seal to move and brake fluid to leak.",
+        "report_date": "22/11/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V437000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2021-2024 Rogue, 2019-2020 Altima, 2019-2022 Infiniti QX50, and 2022 Infiniti QX55 vehicles equipped with 3-cylinder 1.5L or 4-cylinder 2.0L variable compression turbo (VC-Turbo) engines. The engine bearings may have manufacturing defects that",
+        "report_date": "27/06/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:09.175Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

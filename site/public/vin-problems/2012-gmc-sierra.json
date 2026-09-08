@@ -1,0 +1,161 @@
+{
+  "slug": "2012-gmc-sierra",
+  "year": 2012,
+  "make": "GMC",
+  "model": "Sierra",
+  "matched_as": {
+    "complaints": [
+      "SIERRA 1500",
+      "SIERRA 2500",
+      "SIERRA 3500",
+      "SIERRA 1500 HYBRID"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 295,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 71,
+        "share_pct": 24.1,
+        "excerpts": [
+          "2012 GMC SIERRA. CONSUMER WRITES IN REGARDS TO PASSENGER SIDE AIRBAG SAFETY RECALL.   THE CONSUMER STATED THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME COMPLETING THE RECALL REPAIR.",
+          "DASH CRACKS EVERYWHERE, ALL ATTACHMENT POINTS ARE CRACKING. NO APPARENT REASON OTHER THAN USING A UN U.V PROTECTED PLASTIC.",
+          "DASH BOARD HAS CRACKED AROUND AIRBAG.  CONCERNED THAT IF THERE WAS A COLLISION THAT TYE AIRBAG WOULD EXPLODE AND ENTIRE DASH WOULD EXPLODE WITH IT"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 57,
+        "share_pct": 19.3,
+        "excerpts": [
+          "DASH CRACKS EVERYWHERE, ALL ATTACHMENT POINTS ARE CRACKING. NO APPARENT REASON OTHER THAN USING A UN U.V PROTECTED PLASTIC.",
+          "OUR GMC HAS EXPERIENCED 3 EXTERIOR DOOR HANDLE FAILURES. WE PAID TO HAVE THE 1ST BROKEN HANDLE REPAIRED AS IT WAS NOT OPERABLE FROM THE OUTSIDE. THIS MAKES FOR A DANGEROUS EVACUATION EXPERIENCE IN THE",
+          "MY DASH IS CRACKING FOR NO APPARENT REASON. IT'S TO A POINT NOW OF NEEDING REPLACED AND HAS RAISED MY SAFETY CONCERN FOR MYSELF AND PASSENGER IF I WAS TO COME  INVOLVED IN A CRASH BY BROKEN LARGE PLAS"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 44,
+        "share_pct": 14.9,
+        "excerpts": [
+          "June 29, 2025, Driving on the St. Francis loop in Amarillo, TX, brake lights start flashing, the warning sounds happening, no brakes.  I had already slowed down to 35-45 mph due to road construction a",
+          "Odometer Fraud. The contact purchased a 2012 GMC Sierra 1500. The contact stated that it was discovered that there was a mileage discrepancy. The vehicle was a private sale. At the time of purchase, t",
+          "WHEN THE VEHICLE IS AT 50 60 OR ANY SPEED - THE TACHOMETER JUMPS AND THE CAR SURGES FEELS LIKE IT GOING TO STOP"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 34,
+        "share_pct": 11.5,
+        "excerpts": [
+          "WHEN THE VEHICLE IS AT 50 60 OR ANY SPEED - THE TACHOMETER JUMPS AND THE CAR SURGES FEELS LIKE IT GOING TO STOP",
+          "THE FUEL INJECTION PUMP CP4 HAD A CATASTROPHIC FAILURE AS I WAS DRIVING ON A HEAVILY TRAVELED FOUR LANE HIGHWAY, US RT.20. I LOST POWER STEERING AND BRAKES. I FELT FORTUNATE THAT I WAS NOT TOWING A 16",
+          "ENGINE WILL INCREASE IDLE FROM 700 TO 900 AT ANY TIME. ONE CAN BE SITTING AT A TRAFFIC LIGHT AND IT MIGHT INCREASE OR DECREASE. I PULL A 5TH WHEEL (35 FEET) AND IT IS VERY DIFFICULT TO STOP WITH THE E"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 26,
+        "share_pct": 8.8,
+        "excerpts": [
+          "June 29, 2025, Driving on the St. Francis loop in Amarillo, TX, brake lights start flashing, the warning sounds happening, no brakes.  I had already slowed down to 35-45 mph due to road construction a",
+          "I PURCHASED A 2012 GMC SIERRA DENALI FROM STAHL MOTORS IN MONTEREY, CA IN FEBRUARY OF 2015. THEY ARE NOT WILLING TO PAY FOR THE DAMAGES TO MY TRUCK EVEN THOUGH THEY SOLD ME A COMPLETELY DANGEROUS VEHI",
+          "THE FUEL INJECTION PUMP CP4 HAD A CATASTROPHIC FAILURE AS I WAS DRIVING ON A HEAVILY TRAVELED FOUR LANE HIGHWAY, US RT.20. I LOST POWER STEERING AND BRAKES. I FELT FORTUNATE THAT I WAS NOT TOWING A 16"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 21,
+      "fires": 8,
+      "injuries": 6,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 32
+      },
+      {
+        "year": 2013,
+        "count": 17
+      },
+      {
+        "year": 2014,
+        "count": 34
+      },
+      {
+        "year": 2015,
+        "count": 51
+      },
+      {
+        "year": 2016,
+        "count": 42
+      },
+      {
+        "year": 2017,
+        "count": 32
+      },
+      {
+        "year": 2018,
+        "count": 19
+      },
+      {
+        "year": 2019,
+        "count": 6
+      },
+      {
+        "year": 2020,
+        "count": 11
+      },
+      {
+        "year": 2021,
+        "count": 26
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "14V827000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2011-2012 Cadillac Escalade, Escalade ESV, Escalade EXT, Chevrolet Avalanche, Silverado HD, Silverado LD, Suburban, Tahoe, GMC Sierra LD, Sierra HD, Yukon, and Yukon XL vehicles.  In the affected vehicles, the ignition lock actuator may bind, m",
+        "report_date": "30/12/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V615000",
+        "component": "FUEL SYSTEM, DIESEL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2012-2013 Chevrolet Silverado HD and GMC Sierra HD vehicles, equipped with 6.6L diesel engines and dual fuel tanks.  In the affected vehicles, the transfer pump which moves fuel from the rear tank to the front tank could malfunction and cause t",
+        "report_date": "11/12/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:56:39.836Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

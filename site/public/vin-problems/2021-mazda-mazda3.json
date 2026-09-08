@@ -1,0 +1,112 @@
+{
+  "slug": "2021-mazda-mazda3",
+  "year": 2021,
+  "make": "Mazda",
+  "model": "Mazda3",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 49,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 18,
+        "share_pct": 36.7,
+        "excerpts": [
+          "Spontaneous loss of power while driving on highway. Check engine light came on. Speed limited by car. Continues to vibrate especially at idle from cold start. Code P0304 intermittently popping up.",
+          "The thermostat malfunctioned on this vehicle, resulting in the thermostat remaining open and providing excess coolant to the engine, which in turn damaged internal components of the engine (compromise",
+          "The contact owns a 2021 Mazda Mazda3. The contact received notification of an unknown Class Action Lawsuit Number however, the part to do the repair was unavailable. The contact stated that the manufa"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 7,
+        "share_pct": 14.3,
+        "excerpts": [
+          "When this feature is left on in my vehicle, it will detect curves, vehicles, and objects that are not there, and as a result, will attempt to turn my steering wheel (safety concern). I have had to kee",
+          "At red light, close behind car in front of the mazda. After light turns green, start driving the mazda after car in front moves forward. Although the car in front is moving forward at a higher rate of",
+          "During a night drive, travelling approx. 40mph, car warning system audio blared a warning and suddenly braked causing car to skid (was raining) and causing driver to also jolt forward with momentum. T"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 6,
+        "share_pct": 12.2,
+        "excerpts": [
+          "During the incident, the vehicle exhibited an uncontrollable malfunction—the steering wheel suddenly jerked sharply to the right while accelerating violently, leaving me unable to steer or brake effec",
+          "The driver window, upon attempted to be let up, will start to go up then go all the way down, ignoring the function to go up. This is a safety concern, as harsh temperatures and foreign objects are ab",
+          "Context: ADAS was not on. Lane keep assist is disabled in system settings entirely as it is dangerous. Blinkers were on, I was pulling out from parallel parking into left turn lane onto a straight roa"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 4,
+        "share_pct": 8.2,
+        "excerpts": [
+          "Brakes are underpowered especially when hot.  Drove 20-30 minutes in traffic and when decelerating from 60 mph highway in turn lane to turn into neighborhood the brakes felt very soft .  Car only has ",
+          "During a night drive, travelling approx. 40mph, car warning system audio blared a warning and suddenly braked causing car to skid (was raining) and causing driver to also jolt forward with momentum. T",
+          "Strong unburnt fuel smell had just started at 6700 miles. Mazda Dealership stated that they would not be looking at my car and that gas smells are normal... After this encounter, I had 2 mechanics loo"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 4,
+        "share_pct": 8.2,
+        "excerpts": [
+          "Air bag malfunction light comes on a and goes off multiple times while driving",
+          "The vehicle was badly rear ended and the airbags didn't deploy. The dashboard indicated an \"airbag malfunction\" after the collision happened. The failure of the airbags put myself and my passengers at",
+          "My car started to show a warning on the dashboard that the airbag system is malfunctioning. The alarm would come on for a few seconds, then turn off, then repeat like that multiple times every drive. "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 2,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 9
+      },
+      {
+        "year": 2022,
+        "count": 18
+      },
+      {
+        "year": 2023,
+        "count": 7
+      },
+      {
+        "year": 2024,
+        "count": 8
+      },
+      {
+        "year": 2025,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "21V101000",
+        "component": "TIRES:VALVE",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2021 Mazda3 and CX-30 vehicles.  Air may suddenly leak from the tire air valve.",
+        "report_date": "22/02/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:42.990Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

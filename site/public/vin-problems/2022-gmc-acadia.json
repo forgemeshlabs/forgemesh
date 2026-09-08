@@ -1,0 +1,124 @@
+{
+  "slug": "2022-gmc-acadia",
+  "year": 2022,
+  "make": "GMC",
+  "model": "Acadia",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 48,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 14,
+        "share_pct": 29.2,
+        "excerpts": [
+          "“Steering Assist is Reduced” warning, P0128 code, thermostat-related symptoms, increased steering effort or other safety concerns while driving. This issue required increased steering effort and affec",
+          "UNKNOWN After diagnosis at the GMC dealership they stated that it is same issue as released in the following: Special Coverage Adjustments:  N212356540 Front Exhaust Pipe  N222385510 Special Coverage ",
+          "purchased the vehicle in good faith, unaware that the check engine light was illuminated at the time of purchase and not informed that this indicated a serious mechanical or emissions-related issue. A"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 14,
+        "share_pct": 29.2,
+        "excerpts": [
+          "This vehicle was bought brand new and has received proper maintenance from one dealership since purchasing.   I had to replace the thermostat and radiator before owning the vehicle three years.  Withi",
+          "purchased the vehicle in good faith, unaware that the check engine light was illuminated at the time of purchase and not informed that this indicated a serious mechanical or emissions-related issue. A",
+          "The contact owns a 2022 GMC Acadia. The vehicle was recently purchased, and at the time of purchase, the check engine warning light was illuminated. The vehicle was taken to the dealer, where it was d"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 8,
+        "share_pct": 16.7,
+        "excerpts": [
+          "The car stalled while driving it.  It would not restart.  I received an email with error code po23f.  The car had to be towed to the dealership for repair. P023f fuel pump power control module failed.",
+          "The Fuel Pump Control Module failed.  It happened when the car was parked.  The car would crank, but would not start.  We were stranded far from where we live.  It was hot and we had to be towed to a ",
+          "While deiving in three lanes of traffic in rainy weather.  The vehicle began to buck as though the engine was cutting on and off.  No warming lights or abnormal noises preceded the event.  The vehicle"
+        ]
+      },
+      {
+        "component": "SEAT BELTS",
+        "complaints": 4,
+        "share_pct": 8.3,
+        "excerpts": [
+          "Since we purchased our 2022 Acadia 6/24/2022 we have had the warning \"Service Safety Restraint System\" pop up randomly.  We have mentioned it numerous times over the years when the vehicle has been in",
+          "The contact owns a 2022 GMC Acadia. The contact stated that the rear passenger side seat belt and driver's side rear seat belt failed to fully extend smoothly while passengers were attempting to buckl",
+          "This is about my brand new Acadia.  One of the seatbelt locks of the second row is missing.    I did report the issue to the GMC local dealer and they’re to replace the missing lock, however, I was ex"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 4,
+        "share_pct": 8.3,
+        "excerpts": [
+          "This vehicle was bought brand new and has received proper maintenance from one dealership since purchasing.   I had to replace the thermostat and radiator before owning the vehicle three years.  Withi",
+          "12/13/2024: While pulling onto the highway, the vehicle suddenly not accelerate past about 18 mph and would not shift gears, only rev the engine louder. Once button was pressed to engage shifting gear",
+          "There are currently approximately 22,000 miles on this vehicle.  On approximately December 22, 2023, the car was operating normally, and has been since purchased with 3 miles on it, the car was being "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 1,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2022,
+        "count": 7
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 10
+      },
+      {
+        "year": 2025,
+        "count": 18
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "21V702000",
+        "component": "AIR BAGS",
+        "summary": "General Motors, LLC. (GM) is recalling certain 2022 GMC Acadia vehicles.  The sensing diagnostic module (SDM) may have been left in \"manufacturing mode\" and not activated at the assembly plant prior to shipment.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle S",
+        "report_date": "10/09/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V427000",
+        "component": "SUSPENSION:REAR",
+        "summary": "General Motors, LLC (GM) is recalling certain 2022 Cadillac XT5, XT6, and GMC Acadia vehicles.  The left-rear suspension toe link may have been tightened improperly, which could result in a loose or separated toe link.",
+        "report_date": "16/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V446000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "General Motors, LLC (GM) is recalling certain 2022 Cadillac XT5, XT6, and GMC Acadia All-Wheel Drive (AWD) vehicles.  The fuel tank rollover valve may not provide a proper seal in the event of a rollover crash.",
+        "report_date": "23/06/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:09:09.435Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "2017-dodge-durango",
+  "year": 2017,
+  "make": "Dodge",
+  "model": "Durango",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 210,
+    "top_failure_components": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 79,
+        "share_pct": 37.6,
+        "excerpts": [
+          "Approximately 3 years ago we noticed water accumulating in the rear light. They refer to it as a race track light bar. Went to dealer who said not covered under warranty, and it would be $1,455 to rep",
+          "Race light tail lights went out. Water can get in around light . Known issue in class action lawsuit",
+          "UNKNOWN"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 61,
+        "share_pct": 29,
+        "excerpts": [
+          "The vehicle involved is a 2017 Dodge Durango. The primary systems malfunctioning include the engine cooling system, braking system, and electrical system.  The engine repeatedly overheats while drivin",
+          "I am submitting this complaint regarding a serious safety‑related failure involving the Totally Integrated Power Module (TIPM) in my 2017 Dodge Durango. Although my vehicle is not included in the 2011",
+          "Approximately 3 years ago we noticed water accumulating in the rear light. They refer to it as a race track light bar. Went to dealer who said not covered under warranty, and it would be $1,455 to rep"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 28,
+        "share_pct": 13.3,
+        "excerpts": [
+          "Vehicle overheats while at a stop. Problem has been happening for past 8 months. Leaking antifreeze under transmission. Shop unable to diagnose problem after various attempts. Researched problem onlin",
+          "The vehicle involved is a 2017 Dodge Durango. The primary systems malfunctioning include the engine cooling system, braking system, and electrical system.  The engine repeatedly overheats while drivin",
+          "Push start vehicle stalls 3 to 5 times. While driving the dash board flickers on and off. Navigation system screen blacks out radio turns on when I have it off. Reverse camera also glitches and works "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 23,
+        "share_pct": 11,
+        "excerpts": [
+          "The contact owns a 2017 Dodge Durango. The contact stated that while driving at an undisclosed speed and depressing the accelerator pedal, the vehicle jerked and hesitated to respond, and the engine m",
+          "Just bought the vehicle two months ago and have had to replace multiple things on the vehicle. The first issue was the diming lights and passenger window rolling down while driving along with remote s",
+          "Transmission has parts that wear out fast causing transmission to completely go out."
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 16,
+        "share_pct": 7.6,
+        "excerpts": [
+          "Customer Satisfaction Notification T23 (TSB 18-031-17). Under this T23 a PCM software flash and a replacement EGR valve assembly were required. My dealer only did the software flash and my car now thr",
+          "I am submitting this complaint regarding a serious safety‑related failure involving the Totally Integrated Power Module (TIPM) in my 2017 Dodge Durango. Although my vehicle is not included in the 2011",
+          "Push start vehicle stalls 3 to 5 times. While driving the dash board flickers on and off. Navigation system screen blacks out radio turns on when I have it off. Reverse camera also glitches and works "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 2,
+      "injuries": 10,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 3
+      },
+      {
+        "year": 2017,
+        "count": 15
+      },
+      {
+        "year": 2018,
+        "count": 19
+      },
+      {
+        "year": 2019,
+        "count": 27
+      },
+      {
+        "year": 2020,
+        "count": 33
+      },
+      {
+        "year": 2021,
+        "count": 23
+      },
+      {
+        "year": 2022,
+        "count": 25
+      },
+      {
+        "year": 2023,
+        "count": 22
+      },
+      {
+        "year": 2024,
+        "count": 21
+      },
+      {
+        "year": 2025,
+        "count": 13
+      },
+      {
+        "year": 2026,
+        "count": 8
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V541000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2017 Dodge Durango vehicles.  The vehicles may have been assembled with rear axle halfshafts that are too short.",
+        "report_date": "31/08/2017",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:55.409Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

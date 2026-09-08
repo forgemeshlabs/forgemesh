@@ -1,0 +1,188 @@
+{
+  "slug": "2011-toyota-highlander",
+  "year": 2011,
+  "make": "Toyota",
+  "model": "Highlander",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 186,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 34,
+        "share_pct": 18.3,
+        "excerpts": [
+          "Clicking in steering column light comes on dash for power steering then hard to make turn then well go back off then able to make turns with ease again",
+          "In the last 30 days, the steering has begun to feel \"loose\", as if I am driving on ice. At first it was barely perceptable. There has been more \"play\" in the steering. During the last 2 days, the car ",
+          "The power steering is clunky, locks in position when backing out of a parking spot, is clunky and unreliable at slow speeds. I can feel the steering column get far tighter feeling when turning at slow"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 27,
+        "share_pct": 14.5,
+        "excerpts": [
+          "The contact owns a 2011 Toyota Highlander. The contact stated that the sun visors on the driver’s and passenger’s sides were hanging down and would not stay in the upright position. The contact stated",
+          "I NOTICED IN NOVEMBER 2016 THAT THE PAINT ON MY 2011 TOYOTA ROOF WAS PEELING OFF. I TOOK IT TO A TRUSTED BODY SHOP AND THE OWNER ADVISED MY TO TAKE IT TO THE DEALERSHIP AS IT APPEARED TO BE A MANUFACT",
+          "POWER LIFTGATE MOTOR ARM DETACHED FROM THE UPPER PORTION OF THE REAR DOOR.  UPON REPEATED USE AND TIGHTENING IT BECOMES STRIPPED. FORUMS REPORTS THIS IS COMMON FOR SEVERAL MODEL YEARS - NO RECALL.  HO"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 25,
+        "share_pct": 13.4,
+        "excerpts": [
+          "DRIVER SIDE SUN VISOR STUCK IN DOWN POSITION, AND WILL NOT MOVE UPWARD OUT OF THE WAY, OBSTRUCTING DRIVER'S VIEW. IT CAN BE MOVED TO THE SIDE WINDOW, BUT THEN THE SIDE VIEW IS OBSTRUCTED. I HESITATE T",
+          "DRIVER SIDE SUN VISOR NO LONGER STAYS UP AND BLOCKS THE DRIVERS VISION WHILE DRIVING. THIS SEEMS TO BE A ON GOING PROBLEM WITH TOYOTA SUN VISORS.",
+          "THE DRIVER SIDE WINDOW IS OFF THE TRACK AND UNABLE TO ROLL UP. PRIOR TO THE WINDOW FALLING OFF THE TRACK, THE DRIVER SIDE WINDOW WOULD MAKE A POPPING NOISE AND WOULD RATTLE WHEN GOING UP OR DOWN. THE "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 23,
+        "share_pct": 12.4,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2011 Toyota Highlander. It was discovered that there was a mileage discrepancy. The vehicle was a private sale but contacted by a dealer. At the time of purchas",
+          "TURNING ON THE REAR DEFROSTER WILL CUT POWER TO THE ENGINE AND DASHBOARD. TURNING OFF THE DEFROSTER WILL RETURN POWER TO THE DASH. THIS HAPPENS REGARDLESS OF IF THE VEHICLE IS STILL OR IN MOTION.",
+          "WHILE DRIVING ON THE HIGHWAY IN CRUISE CONTROL AND NO CHECK ENGINE LIGHT VEHICLE LOST POWER STEERING SPEEDOMETER READINGS. REPORTED ABS BRAKE MALFUNCTION, BRAKE MALFUNCTION. OVER THE NEXT 45 MINUTES W"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 18,
+        "share_pct": 9.7,
+        "excerpts": [
+          "1. The 3.5L V6 Engine (2GR-FE) failed due to the subsequent loss of lubrication caused by the rupture of the Oil Cooler Pipe (Rubber component), a manufacturing defect known under TSB T-SB-0201-11 (ZE",
+          "Our car had a major oil leak from the engine Oil Cooler Pipe Manifold at the bottom of the engine (front). My research has concluded that this has been a known issue with various Toyota models with th",
+          "Dear Sir/Madam,  I am writing to file a formal complaint regarding persistent safety issues with my 2011 Toyota Highlander V6 AWD. Specifically, I have experienced significant problems related to the "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 14,
+      "fires": 0,
+      "injuries": 8,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2008,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 2
+      },
+      {
+        "year": 2011,
+        "count": 18
+      },
+      {
+        "year": 2012,
+        "count": 14
+      },
+      {
+        "year": 2013,
+        "count": 18
+      },
+      {
+        "year": 2014,
+        "count": 30
+      },
+      {
+        "year": 2015,
+        "count": 16
+      },
+      {
+        "year": 2016,
+        "count": 10
+      },
+      {
+        "year": 2017,
+        "count": 7
+      },
+      {
+        "year": 2018,
+        "count": 22
+      },
+      {
+        "year": 2019,
+        "count": 20
+      },
+      {
+        "year": 2020,
+        "count": 6
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 9
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "16V396000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2005-2011 4Runner, Highlander, Sequoia, and Sienna, 2005-2010 Avalon and Tundra, 2006-2008 Camry Solara, 2006-2010 Highlander hybrid, 2006-2011 Rav4 and Tacoma, 2007-2010 FJ Cruiser, 2007-2011 Camry hybrid, 2009-2010 Venza, 2010-2012 Priu",
+        "report_date": "02/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V743000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2011 Prius and Corolla, 2009-2011 Venza, 2006-2010 Avalon, 2007-2010 FJ Cruiser, 2005-2011 Sienna and Sequoia, 2006-2011 Tacoma 4x2 and 4x4, Camry, Highlander, Tundra 4x2 and 4x4, and 2007-2011 Rav4 and 4Runner.  The affec",
+        "report_date": "19/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V689000",
+        "component": "VISIBILITY:POWER WINDOW DEVICES AND CONTROLS",
+        "summary": "Toyota Motor Company (Toyota) is recalling certain model year 2009-2011 Tundra, Sequoia, Corolla, Corolla Matrix and Scion xB, 2008-2011 Highlander and Highlander Hybrid, 2007 Camry and Camry Hybrid, 2009 Camry and Camry Hybrid, 2006-2011 RAV4, 2006-2010 Yaris, and 2009-2010 Scion xD and Pontiac Vib",
+        "report_date": "22/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V123000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota is recalling certain model year 2008 and 2010-2013 Toyota Tundra, 2010-2012 Rav4, 2012 Toyota Sequoia, 2010-2011 Toyota Corolla, 2010-2011 Toyota Camry and Camry Hybrid, 2010-2013 Toyota Highlander and Highlander Hybrid, 2010-2013 Toyota FJ Cruiser, 2011 Toyota Land Cruiser, 2010-20",
+        "report_date": "09/04/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:54:49.867Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

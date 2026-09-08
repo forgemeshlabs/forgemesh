@@ -1,0 +1,188 @@
+{
+  "slug": "2014-kia-sorento",
+  "year": 2014,
+  "make": "Kia",
+  "model": "Sorento",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 983,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 386,
+        "share_pct": 39.3,
+        "excerpts": [
+          "I am filing an official safety complaint against the manufacturer for refusing to perform federally mandated safety recall repairs on my vehicle.   My vehicle is impacted by critical safety recalls in",
+          "2015 KIA Sorento v6 engine failed and seized. VIN was not included in KIA extended warranty offered for this year and engine.",
+          "On XXX, the 2.4L Theta II GDI engine on our 2014 Kia Sorento (current mileage: 160,000) catastrophically seized without warning while my [XXX] was driving at interstate speeds at night. This caused an"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 160,
+        "share_pct": 16.3,
+        "excerpts": [
+          "my 2014 Kia Sorento is having a paint issue and I know their is a class action law suite to get repaired. The only complaint I have is the white pearl paint is chipping off the front of the roof and o",
+          "Severe paint delamination has occurred on my vehicle, causing the clear coat and base coat (Snow White Pearl color) to come off on the side of the hood, pillars, the doors, and the hood of the car. No",
+          "The paint on my 2014 Kia Sorento (Snow White Pearl) is peeling and delaminating across multiple areas of the vehicle, including the roof and side panels. In several areas the paint has detached comple"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 153,
+        "share_pct": 15.6,
+        "excerpts": [
+          "I am filing an official safety complaint against the manufacturer for refusing to perform federally mandated safety recall repairs on my vehicle.   My vehicle is impacted by critical safety recalls in",
+          "This is a follow up of NHTSA case# 1840444.                                                                      Complaint Description: Vehicle exhibited active CAN-bus communication timeout code DTC ",
+          "This is a follow up submission to NHTSA case #XXX. Organization Under Complaint: Hutchinson Kia, [XXX] Complaint Summary: The dealership is utilizing unfair and deceptive financial gating practices to"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 86,
+        "share_pct": 8.7,
+        "excerpts": [
+          "The contact owns a 2014 Kia Sorento. The contact stated that while the vehicle was parked, she became aware that the headlights were blown, and that the connector to the headlights had detached. No wa",
+          "The contact owns a 2014 Kia Sorento. The contact stated while driving 55 MPH, the headlights failed to function properly. The contact stated that the check engine warning light was also illuminated. T",
+          "The headlights and taillights are constantly going out on their own. Took car to dealership and they say it's fixed, but you don't leave the lot & the light is out again. Same issue has been happening"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 84,
+        "share_pct": 8.5,
+        "excerpts": [
+          "I am filing an official safety complaint against the manufacturer for refusing to perform federally mandated safety recall repairs on my vehicle.   My vehicle is impacted by critical safety recalls in",
+          "This is a follow up of NHTSA case# 1840444.                                                                      Complaint Description: Vehicle exhibited active CAN-bus communication timeout code DTC ",
+          "This is a follow up submission to NHTSA case #XXX. Organization Under Complaint: Hutchinson Kia, [XXX] Complaint Summary: The dealership is utilizing unfair and deceptive financial gating practices to"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 23,
+      "fires": 45,
+      "injuries": 24,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2008,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 20
+      },
+      {
+        "year": 2014,
+        "count": 34
+      },
+      {
+        "year": 2015,
+        "count": 24
+      },
+      {
+        "year": 2016,
+        "count": 21
+      },
+      {
+        "year": 2017,
+        "count": 62
+      },
+      {
+        "year": 2018,
+        "count": 98
+      },
+      {
+        "year": 2019,
+        "count": 136
+      },
+      {
+        "year": 2020,
+        "count": 132
+      },
+      {
+        "year": 2021,
+        "count": 99
+      },
+      {
+        "year": 2022,
+        "count": 105
+      },
+      {
+        "year": 2023,
+        "count": 107
+      },
+      {
+        "year": 2024,
+        "count": 87
+      },
+      {
+        "year": 2025,
+        "count": 36
+      },
+      {
+        "year": 2026,
+        "count": 21
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "18V907000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2011-2017 Optima, 2012-2017 Sorento and 2011-2018 Sportage vehicles that previously received an engine replacement under recall number 17V-224, warranty, or the Knock Sensor Detection System (KSDS) Product Improvement Campaign.  The high pressure fuel pi",
+        "report_date": "19/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V519000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2013-2015 Optima and 2014-2015 Sorento vehicles.  Brake fluid may leak inside the Hydraulic Electronic Control Unit (HECU), possibly resulting in an electrical short.",
+        "report_date": "27/08/2020",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "21V331000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2013-2015 Optima and 2014-2015 Sorento vehicles previously recalled under recall 20V-519.  Brake fluid may leak inside the Hydraulic Electronic Control Unit (HECU), possibly resulting in an electrical short.",
+        "report_date": "10/05/2021",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "17V224000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Kia Motor Company (Kia) is recalling certain 2011-2014 Optima, 2012-2014 Sorento and 2011-2013 Sportage vehicles.  Machining errors during the engine manufacturing process may cause premature bearing wear within the engine.",
+        "report_date": "31/03/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V356000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+        "summary": "Kia Motors Corp. is recalling certain model year 2014 front wheel drive Sorento vehicles manufactured January 7, 2013, through March 12, 2013; and equipped with 2.4 liter engines.  Due to a manufacturing issue, the right front axle shaft may fracture.",
+        "report_date": "13/08/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V652000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2010-2019 Borrego, 2014-2016 Cadenza, 2010-2013 Forte, Forte Koup, Sportage, 2015-2018 K900, 2011-2015 Optima, 2011-2013 Optima Hybrid, Soul, 2012-2017 Rio, 2011-2014 Sorento, and 2010-2011 Rondo vehicles.  The Hydraulic Electronic Control Unit (HECU) may",
+        "report_date": "25/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:59.649Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

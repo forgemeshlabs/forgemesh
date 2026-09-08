@@ -1,0 +1,116 @@
+{
+  "slug": "2022-chevrolet-colorado",
+  "year": 2022,
+  "make": "Chevrolet",
+  "model": "Colorado",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 51,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 19,
+        "share_pct": 37.3,
+        "excerpts": [
+          "Loss of power steering, Truck repaired by GM dealer, he stated it was the same failure mode described in Recall notice N2023254 10.  The repair even though the same as the previous failures was not co",
+          "The contact owns a 2022 Chevrolet Colorado. The contact stated that while parking the vehicle, it was difficult to remove the key from ignition switch.  There was no warning light illuminated. The con",
+          "key will not release from ignition. I will put the truck in park but the computer will not read that it is in park, so the key can only be rotated to the accessory position. This has been confirmed by"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 12,
+        "share_pct": 23.5,
+        "excerpts": [
+          "Loss of power steering, Truck repaired by GM dealer, he stated it was the same failure mode described in Recall notice N2023254 10.  The repair even though the same as the previous failures was not co",
+          "Beginning in Nov 2025 my steering wheel occasionally catches, grabs or gets stuck at slow speeds in forward or reverse as I turn the wheel like pulling into a parking space.  A loud noise also occurs ",
+          "The key will not come out after park and engine turn off. It getting harder and harder each time to get the key out."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 7,
+        "share_pct": 13.7,
+        "excerpts": [
+          "While driving on the freeway, I experienced a sudden issue with the vehicle’s braking system. The brake pedal became extremely stiff and difficult to press, and the brake assist stopped functioning. I",
+          "Component that failed: brakes. I was pulling into a parking spot at low speed and the brake pedal was suddenly extremely difficult to depress, almost impossible. It felt as if a brick were under the p",
+          "I was driving down a street, stopped for an accident that the police where directing traffic for, went passed the 2 officers, put my indicator light on to turn into Dunkin Donuts and stepped on the br"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 5,
+        "share_pct": 9.8,
+        "excerpts": [
+          "While driving our 2022 Chevrolet Colorado ZR2 (VIN: [XXX]) through an active roadway intersection at approximately midnight, the vehicle experienced a sudden, uncommanded complete loss of motive power",
+          "Component that failed: brakes. I was pulling into a parking spot at low speed and the brake pedal was suddenly extremely difficult to depress, almost impossible. It felt as if a brick were under the p",
+          "Issue 1: Cooling Fan Remained On After Engine Shutdown Component or system involved: Engine cooling system and fan control system, including the radiator cooling fan, fan relay, coolant temperature se"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 3,
+        "share_pct": 5.9,
+        "excerpts": [
+          "Unknown on first appear -  key gets stuck in the ignition. This happened for the first time shortly after we bought it.  It was still under warranty and the Chevrolet dealership in Washington PA fixed",
+          "I purchased the vehicle in October 2021. Through the 2021/2022 Michigan winter - no issues. This 2022/2023 winter, an issue has occurred. When breaking, prior to coming to a complete stop, the vehicle",
+          "The contact's partner owned a 2022 Chevrolet Colorado. The contact stated that upon placing the vehicle into park, he went into a store while his partner remained in the vehicle with the engine runnin"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 0,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2001,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 7
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 11
+      },
+      {
+        "year": 2025,
+        "count": 13
+      },
+      {
+        "year": 2026,
+        "count": 10
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "22V375000",
+        "component": "SEATS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2022 GMC Canyon and Chevrolet Colorado vehicles equipped with a manual passenger seat.  The front passenger seat may have a hook attachment that was not properly welded, allowing it to separate from the inboard track of the seat frame.",
+        "report_date": "26/05/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:09:20.788Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

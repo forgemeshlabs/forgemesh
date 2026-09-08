@@ -1,0 +1,148 @@
+{
+  "slug": "2021-toyota-highlander",
+  "year": 2021,
+  "make": "Toyota",
+  "model": "Highlander",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 503,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 210,
+        "share_pct": 41.7,
+        "excerpts": [
+          "At 57,000 miles the dealership says the transmission must be replaced. Toyota refused to replace it under warranty because they stated it wasn't serviced at Toyota consistently. There isnt a service f",
+          "1. The car makes a squeaky sound when I accelerate. The faster I go the louder the noise becomes. I took the car to the Toyota dealership and was told that the transmission needs to be replaced. The c",
+          "The transmission whining started 70,000 miles and it is progressively gotten worse, there has been some sudden shifting at times. The manufacturer has known about this 8 speed transmission. Problem si"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 66,
+        "share_pct": 13.1,
+        "excerpts": [
+          "While driving and applying the brakes to come to a complete stop at low speed (approximately 5–15 mph), the vehicle intermittently loses brake responsiveness for a brief moment during the transition f",
+          "I had the dealer perform the repair described in Toyota Technical Service Bulletin T-SB-0059-23 (Hybrid Regenerative Brake Transition Feeling Improvement), which reprograms the brake actuator control ",
+          "When applying the brakes when slowing down  fro a traffic light or in traffic, the brkaes suddely stop workign for a few sseconds at a speed of 5-10 mph, causing car to lurch forward before the brakes"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 51,
+        "share_pct": 10.1,
+        "excerpts": [
+          "1. The car makes a squeaky sound when I accelerate. The faster I go the louder the noise becomes. I took the car to the Toyota dealership and was told that the transmission needs to be replaced. The c",
+          "Lift gate does not open. Hydraulic struts have failed and the lift gate will only open with significant manual effort. This means that the rear door cannot be opened from inside the car.",
+          "This is a formal report of Recall Non-Compliance regarding Safety Recall 23V-720 (Toyota Recall 23TA12) on my 2021 Highlander Hybrid. An authorized dealership performed the recall on May 6, 2024, util"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 44,
+        "share_pct": 8.7,
+        "excerpts": [
+          "I own a 2021 Toyota Highlander with approximately 127k miles. The vehicle has developed a noticeable whining/whirring noise during acceleration. The noise appears to originate from the drivetrain/tran",
+          "Transmission leak requiring torque converter replacement",
+          "My vehicle was parked for about an hr 30 min , and it started smoking from dashboard area and immediately went into flames ."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 42,
+        "share_pct": 8.3,
+        "excerpts": [
+          "Four days after I took delivery of this used vehicle (April 25, 2026), multiple warning lights appeared at once: BRAKE, ABS, PARK, Check Engine, Blind Spot Monitor Unavailable, and RCTA OFF. An indepe",
+          "Recall remedy is not a available in timely manner. Recall # 23ta15",
+          "Recall has been active since 2023. Delarship states there is no fix for issue at time time 2 years later"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 16,
+      "fires": 4,
+      "injuries": 18,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 3
+      },
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 66
+      },
+      {
+        "year": 2022,
+        "count": 37
+      },
+      {
+        "year": 2023,
+        "count": 48
+      },
+      {
+        "year": 2024,
+        "count": 92
+      },
+      {
+        "year": 2025,
+        "count": 150
+      },
+      {
+        "year": 2026,
+        "count": 105
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "23V720000",
+        "component": "STRUCTURE:BODY:BUMPERS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020-2023 Highlander & Highlander Hybrid vehicles.  During normal vehicle operation, minor impact to the front lower bumper cover may result in the cover coming loose or detaching.",
+        "report_date": "26/10/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V865000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020-2021 Avalon, Avalon Hybrid, Corolla, Highlander, Highlander Hybrid, RAV4, RAV4 Hybrid, Lexus ES350, Lexus RX350, Lexus RX450H, 2021 Sienna Hybrid, Lexus ES250, 2020-2022 Camry, Camry Hybrid, and ES300H vehicles.  A short cir",
+        "report_date": "20/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V452000",
+        "component": "TIRES",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2021-2024 Highlander vehicles.  The 20-inch accessory tires with an insufficient load rating for the vehicle's Gross Axle Weight Rating (GAWR) were installed.  As such, these vehicles fail to comply with the requirements of Federal Motor ",
+        "report_date": "18/06/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V128000",
+        "component": "SEATS:MID/REAR ASSEMBLY:RECLINER",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2021-2024 Highlander and Highlander Hybrid vehicles. The second-row seat backs may fail to lock into position during seat back adjustment.",
+        "report_date": "05/03/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:46.241Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

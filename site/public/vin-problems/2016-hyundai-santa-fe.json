@@ -1,0 +1,156 @@
+{
+  "slug": "2016-hyundai-santa-fe",
+  "year": 2016,
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 235,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 150,
+        "share_pct": 63.8,
+        "excerpts": [
+          "WHAT FAILED: The engine — the 3.3L Lambda II GDI V6 (engine family GHYXV03.31XE per the federal emissions label) — failed catastrophically: a connecting rod penetrated the engine block. The failed eng",
+          "I filed a complaint when the first engine seized. It's a miracle we got off the road safely that day. While it was at the dealership, the engine was replaced with a used engine and covered by my exten",
+          "Purchased a used Santa Fe in January 2026 with 129k mile and at 131k my vehicle's CEL came on and did not function properly while operating.  While driving the vehicle failed to accelerate above 25 mp"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 20,
+        "share_pct": 8.5,
+        "excerpts": [
+          "Hard Shift occurs between gear 1 and gear 2. The hard shift lurches the entire car. It occurs on both upshift and downshift. The hard shift occurs on cold starts. The problem goes away when you turn t",
+          "Was driving on a 5 hour car ride at 5pm on August 16th and was going up a hill, the vehicle quickly lost all power and the engine light lit.  I was able to pull the car to the side of the road with th",
+          "Around three weeks ago, we start listening to a knocking noise in the engine. As soon as we heard this noise, we took it to a mechanic near our home and the mechanic told us that there was an internal"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 17,
+        "share_pct": 7.2,
+        "excerpts": [
+          "The contact owns a 2016 Hyundai Santa Fe. The contact stated while driving at an undisclosed speed, the contact stated that the brake pedal was inoperable. The contact stated that the vehicle vibrated",
+          "Driving on a slight upgrade, lost power and smoke started to come out of the vents and from under the hood.  Had no brakes and by the time we were able to drift to a stop, the engine compartment was o",
+          "None"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 11,
+        "share_pct": 4.7,
+        "excerpts": [
+          "Abs system is randomly locking up calipers causing a dangerous speed wobble. Dealership can't re create so won't diagnose. Have had to replace all brake calipers and components were near new but ruine",
+          "The company has stopped supporting their Bluelink function that is causing the screen to do a continuous search for a connection and remaining blank so the controls and cameras are not visible.  The c",
+          "EXCESSIVE ENGINE OIL CONSOMPTION AND THE BRAKE LIGHTBULL KEEP BURNING FREQUENTLY."
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 9,
+        "share_pct": 3.8,
+        "excerpts": [
+          "The contact owns a 2016 Hyundai Santa Fe. The contact stated while driving at an undisclosed speed, the contact stated that the brake pedal was inoperable. The contact stated that the vehicle vibrated",
+          "The contact owns a 2016 Hyundai Santa Fe. The contact received notification of NHTSA Campaign Number: 22V056000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet availa",
+          "The contact owns a 2016 Hyundai Santa Fe. The contact received notification of NHTSA Campaign Number: 22V056000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet availa"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 2,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1016,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 5
+      },
+      {
+        "year": 2016,
+        "count": 8
+      },
+      {
+        "year": 2017,
+        "count": 6
+      },
+      {
+        "year": 2018,
+        "count": 8
+      },
+      {
+        "year": 2019,
+        "count": 13
+      },
+      {
+        "year": 2020,
+        "count": 17
+      },
+      {
+        "year": 2021,
+        "count": 33
+      },
+      {
+        "year": 2022,
+        "count": 40
+      },
+      {
+        "year": 2023,
+        "count": 51
+      },
+      {
+        "year": 2024,
+        "count": 42
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "17V358000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2013-2017 Santa Fe and Santa Fe Sport vehicles.  In the affected vehicles, the secondary hood latch actuating cable may corrode and bind, causing the secondary hood latch to remain in the unlatched position when the hood is closed.",
+        "report_date": "05/06/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V145000",
+        "component": "SEAT BELTS:FRONT:WARNING LIGHT/DEVICES",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain model year 2016-2017 Santa Fe vehicles manufactured September 1, 2015 to February 12, 2016.  In the affected vehicles, the wires in the front seat belt buckle harnesses may be damaged by the seat's height adjuster mechanism, resulting in a failure",
+        "report_date": "10/03/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V056000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2016-2018 Santa Fe, 2017-2018 Santa Fe Sport, 2019 Santa Fe XL, and 2014-2015 Tucson vehicles.  The Anti-Lock Brake System (ABS) module could malfunction and cause an electrical short, which could result in an engine compartment fire.",
+        "report_date": "03/02/2022",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:08.742Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

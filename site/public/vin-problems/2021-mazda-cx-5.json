@@ -1,0 +1,107 @@
+{
+  "slug": "2021-mazda-cx-5",
+  "year": 2021,
+  "make": "Mazda",
+  "model": "CX-5",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 143,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 77,
+        "share_pct": 53.8,
+        "excerpts": [
+          "The vehicle developed an engine oil leak from the timing cover due to what appears to be premature seal failure. Engine oil was leaking externally and could drip onto hot engine components, creating a",
+          "2021 Mazda CX‑5 (VIN: [XXX] ). First low‑oil warning at 17,800 miles. ([XXX])  Mazda dealership in La Crosse, WI performed an oil change and fully refilled the oil. Second low‑oil warning at 18,700 mi",
+          "My 2021 Mazda CX‑5 is experiencing excessive oil consumption. The vehicle is burning oil between regular oil changes, and the oil level drops noticeably before the recommended service interval. I have"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 16,
+        "share_pct": 11.2,
+        "excerpts": [
+          "the “trailing link shaft” broke/split/tore apart at the right rear wheel. my car only has 16,500 miles. the vehicle was inspected by auto manufacturing dealer (mazda). mazda refused to admit it’s real",
+          "Engine developed a major oil leak at 70,000 miles, with multiple seals leaking.  This appears to be a known defect with these vehicles and owners should not be bearing the cost for repairs.",
+          "Oil has been leaking multiple times, with warranty repair for a faulty timing cover and gasket. This is now leaking again after being repaired twice already. This most recent time causing error messag"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 12,
+        "share_pct": 8.4,
+        "excerpts": [
+          "The vehicle's Connectivity Master Unit (CMU) suffers from a severe, persistent electronic hardware malfunction that causes the central information display and dashboard telemetry to blink, cycle, and ",
+          "Radio audio randomly stopped working and you have to disconnect the negative or you have to leave the car off essentially all night.   It’s definitely unknown issue there’s videos all over YouTube abo",
+          "..... ON AT LEAST 5 SEPERATE OCCASIONS OUR 2021 MAZDA CX5 SUV ACCELERATED TO A HIGH RATE OF SPEED (ON IT'S OWN). IT HAS DONE IT TO MY WIFE AND I BOTH. I CONTACTED TWO DIFFERENT MAZDA SERVICE CENTERS A"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 11,
+        "share_pct": 7.7,
+        "excerpts": [
+          "I was sitting at a traffic light with my foot on the brake waiting to turn left onto Lee Highway from Fairfax County Parkway. Car jerked forward TWO times in a row, both times hitting the car in front",
+          "The vehicle's Connectivity Master Unit (CMU) suffers from a severe, persistent electronic hardware malfunction that causes the central information display and dashboard telemetry to blink, cycle, and ",
+          "2021 Mazda CX5 AWD- Non Turbo Engine.  Sunny Day, Dry.  My Car was clean.  No Precipitation. Some shadows of the interstate light poles across the road 200-300 feet in front of me, but they were thin "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 11,
+        "share_pct": 7.7,
+        "excerpts": [
+          "2021 Mazda CX5 AWD- Non Turbo Engine.  Sunny Day, Dry.  My Car was clean.  No Precipitation. Some shadows of the interstate light poles across the road 200-300 feet in front of me, but they were thin ",
+          "The car has 21000 miles and is driven lightly when applying the brakes the steering wheel started shaking and the car made noises - the brakes could have failed at any time and at any speedl The deale",
+          "The contact owns a 2021 Mazda CX-5. The contact stated that the Front Brake System Malfunction, Forward Brake Malfunction, and Check Engine warning lights were illuminated. The contact stated that whi"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 0,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 25
+      },
+      {
+        "year": 2022,
+        "count": 45
+      },
+      {
+        "year": 2023,
+        "count": 19
+      },
+      {
+        "year": 2024,
+        "count": 20
+      },
+      {
+        "year": 2025,
+        "count": 21
+      },
+      {
+        "year": 2026,
+        "count": 12
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T20:06:45.436Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

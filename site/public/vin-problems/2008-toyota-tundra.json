@@ -1,0 +1,268 @@
+{
+  "slug": "2008-toyota-tundra",
+  "year": 2008,
+  "make": "Toyota",
+  "model": "Tundra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 327,
+    "top_failure_components": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 77,
+        "share_pct": 23.5,
+        "excerpts": [
+          "On 5 different occasions between January-March 2023 the accelerator pedal continued to accelerate after the pedal pressure was released.  Even with braking, the accelerator pedal did not decelerate.  ",
+          "I have multiple problems with the dash lights going on and off , have taken it to car repair when scanned and had replaced relays many times. I have read many stories of people having the same problem",
+          "Vehicle accelerates slow where it takes time for truck to gain spread. Also the cruise control doesn’t work for some reason when button is pushed the cruise light comes on but truck doesn’t cruise on "
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 56,
+        "share_pct": 17.1,
+        "excerpts": [
+          "The contact owns a 2008 Toyota Tundra. The contact stated that the rear subframe of the vehicle was extremely rusted. The vehicle was driven to an independent mechanic to be inspected, and it was dete",
+          "The 2016 Toyota Frame Rust Settlement (Burns v. Toyota Motor Sales, U.S.A., Inc.): This $3.4 billion class action directly addresses premature corrosion in 2007–2008 Tundras (and similar models). It c",
+          "Standard Vehicle Components failed. My 2008 Tundra [VIN [XXX] ] was inspected in Nov 2017 under HOF/WEP, passed with CRC applied, but now has a 2-finger-wide perforation in the frame and rusted throug"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 46,
+        "share_pct": 14.1,
+        "excerpts": [
+          "My truck drove fine then all of a sudden my check engine, vsc and traction control light came on.  I brought it to the shop and the code read P 2440.  It is in limp mode and  the shifting is sporadic.",
+          "When accelerating on my truck between 45 and 55 miles, the motor starts shaking alot. I have to release the gas pedal to make it stopped. Also the transmission shift by itself when I am at a stop sign",
+          "NHTSA ID #10140591 WAS THE CAMPAIGN THAT MY TRUCK WAS WARRANTIED UNDER, I AM EXACTLY 64 DAYS OUTSIDE OF TOYOTA'S EXTENDED WARRANTY AND MY TRUCK STARTED THROWING CODE P2442 BANK 2 SECONDARY AIR INJECTO"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 38,
+        "share_pct": 11.6,
+        "excerpts": [
+          "THIS OWNER'S 2008 TOYOTA TUNDRA 5.7L DASHBOARD LIGHTS LIT UP INCLUDING THE VSC, TRACTION CONTROL, CHECK ENGINE AND 4 LO. THE 4 LO LIGHT WAS FLASHING. THE TRUCK WOULD NO LONGER GO PAST 3000 RPM ON SOME",
+          "Odometer Fraud. The contact purchased a 2008 Toyota Tundra. The contact discovered that there was a mileage discrepancy. The vehicle was a private sale. At the time of purchase, the mileage was 171,00",
+          "Odometer Fraud. The contact purchased a 2008 Toyota Tundra. The contact stated that it was discovered that there was a mileage discrepancy after the purchase. The vehicle was a private sale. At the ti"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 36,
+        "share_pct": 11,
+        "excerpts": [
+          "The contact owns a 2008 Toyota Tundra. The contact stated while driving 50 MPH, the vehicles stalled. The contact stated that the vehicle hesitated and failed to accelerate above 50 MPH. The check eng",
+          "The contact owns a 2008 Toyota Tundra. The contact stated while driving 20 MPH, the vehicle stalled. There were no warning lights illuminated. The contact called an independent mechanic, but no assist",
+          "The truck has had three engine  oil leaks since 4-20-22. The most recent is being repaired now. In each of these leaks, engine oil leaks out of the valve cover and or the cam tower and drips onto the "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 24,
+      "fires": 2,
+      "injuries": 12,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 3
+      },
+      {
+        "year": 2007,
+        "count": 5
+      },
+      {
+        "year": 2008,
+        "count": 46
+      },
+      {
+        "year": 2009,
+        "count": 37
+      },
+      {
+        "year": 2010,
+        "count": 55
+      },
+      {
+        "year": 2011,
+        "count": 21
+      },
+      {
+        "year": 2012,
+        "count": 13
+      },
+      {
+        "year": 2013,
+        "count": 12
+      },
+      {
+        "year": 2014,
+        "count": 16
+      },
+      {
+        "year": 2015,
+        "count": 12
+      },
+      {
+        "year": 2016,
+        "count": 19
+      },
+      {
+        "year": 2017,
+        "count": 13
+      },
+      {
+        "year": 2018,
+        "count": 16
+      },
+      {
+        "year": 2019,
+        "count": 8
+      },
+      {
+        "year": 2020,
+        "count": 10
+      },
+      {
+        "year": 2021,
+        "count": 11
+      },
+      {
+        "year": 2022,
+        "count": 9
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 7
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 13,
+    "recalls": [
+      {
+        "campaign_number": "21V920000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2008-2022 Sequoia and 2007-2021 Tundra vehicles.  The power steering gear assembly may have been manufactured incorrectly, which can result in an oil leak.",
+        "report_date": "23/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21E103000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain JTEKT power steering gear assembly service parts for 2007-2021 Tundra and 2008-2022 Sequoia, part numbers 44250-0C160, 44250-0C131, 44250-0C170, and 11250-0C121.  The power steering gear assembly may have been manufactured incorr",
+        "report_date": "23/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V743000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2011 Prius and Corolla, 2009-2011 Venza, 2006-2010 Avalon, 2007-2010 FJ Cruiser, 2005-2011 Sienna and Sequoia, 2006-2011 Tacoma 4x2 and 4x4, Camry, Highlander, Tundra 4x2 and 4x4, and 2007-2011 Rav4 and 4Runner.  The affec",
+        "report_date": "19/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V396000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2005-2011 4Runner, Highlander, Sequoia, and Sienna, 2005-2010 Avalon and Tundra, 2006-2008 Camry Solara, 2006-2010 Highlander hybrid, 2006-2011 Rav4 and Tacoma, 2007-2010 FJ Cruiser, 2007-2011 Camry hybrid, 2009-2010 Venza, 2010-2012 Priu",
+        "report_date": "02/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V148000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2008 THROUGH 2011 FJ CRUISER, LAND CRUISER, TACOMA, SEQUOIA AND TUNDRA VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 138, \"TIRE PRESSURE MONITORING SYSTEM (TPMS).\" WHEN FACTORY-INSTALLED  WHEELS AND TIRES WERE",
+        "report_date": "04/03/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V491000",
+        "component": "VISIBILITY:POWER WINDOW DEVICES AND CONTROLS",
+        "summary": "Toyota is recalling certain model year 2007-2009 Camry, Camry Hybrid, RAV4, Corolla, Corolla Matrix, Tundra, Sequoia, Highlander, Highlander Hybrid, Yaris, Scion xB, Scion xD and Pontiac Vibe vehicles.  The power window master switch assemblies in some of these vehicles were built using a less preci",
+        "report_date": "10/10/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V123000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota is recalling certain model year 2008 and 2010-2013 Toyota Tundra, 2010-2012 Rav4, 2012 Toyota Sequoia, 2010-2011 Toyota Corolla, 2010-2011 Toyota Camry and Camry Hybrid, 2010-2013 Toyota Highlander and Highlander Hybrid, 2010-2013 Toyota FJ Cruiser, 2011 Toyota Land Cruiser, 2010-20",
+        "report_date": "09/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V278000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2007-2011 TUNDRA VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 138, \"TIRE PRESSURE MONITORING SYSTEMS.\"  THE TPMS ON SOME VEHICLES MAY NOT HAVE BEEN PROPERLY CALIBRATED AND AS A RESULT THE LOW TIRE P",
+        "report_date": "12/05/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V388000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2004-2010 PASSENGER VEHICLES.  THE ACCELERATOR PEDAL CAN GET STUCK IN THE WIDE OPEN POSITION DUE TO ITS BEING TRAPPED BY AN UNSECURED OR INCOMPATIBLE DRIVER'S FLOOR MAT.",
+        "report_date": "05/10/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V223000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "TOYOTA IS RECALLING 27,080 MODEL YEAR 2005 THROUGH 2010 PASSENGER CARS BUILT FROM SEPTEMBER 1, 2005 TO MAY 4, 2009.  THESE VEHICLES WERE NOT EQUIPPED WITH LOAD CARRYING CAPACITY MODIFICATION LABELS WHICH FAILS TO CONFORM WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE S",
+        "report_date": "15/06/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V035000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "GULF STATES TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2010 VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD BETWEEN SEPTEMBER 1, 2005 AND JUNE 2, 2008 WITHOUT THE REQUISITE LOAD CARRYING CAPA",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V017000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2010 AVALON, MODEL YEAR 2007-2010 CAMRY, MODEL YEAR 2009-2010 COROLLA, COROLLA MATRIX, RAV4, MODEL YEAR 2010 HIGHLANDER, MODEL YEAR 2008-2010 SEQUOIA, AND MODEL YEAR 2007-2010 TUNDRA VEHICLES.  DUE TO THE MANNER IN WHICH THE FRICTION LEVER INTERACTS WITH T",
+        "report_date": "21/01/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V036000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2011 PASSENGER VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD WITHOUT THE REQUISITE LOAD CARRYING CAPACITY MODIFICATION LABELS.",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:46:16.816Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

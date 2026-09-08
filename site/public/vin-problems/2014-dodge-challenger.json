@@ -1,0 +1,176 @@
+{
+  "slug": "2014-dodge-challenger",
+  "year": 2014,
+  "make": "Dodge",
+  "model": "Challenger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 148,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 61,
+        "share_pct": 41.2,
+        "excerpts": [
+          "Totally Integrated Power Module (TIPM)  I have two children and the vehicle has left me stranded about a dozen times because it will not even start.  Upon research, this faulty part can also cause the",
+          ": The vehicle’s steering wheel intermittently hardens or \"locks\" while in motion, making it extremely difficult to maneuver and creating a severe safety hazard. This issue remains unresolved despite t",
+          "On August 7, 2025, at approximately 11:30 PM, my 2014 Dodge Challenger caught fire in the trunk area where the battery is located. I had just parked at my location and was about to get out of the car "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 36,
+        "share_pct": 24.3,
+        "excerpts": [
+          "I bought this vehicle after only having 28,000 miles on it required the water pump to be replaced.  That should not be the case.  The vehicle started running hot again after having the original water ",
+          "I was entering onto the highway and accelerating up to speed. When the car suddenly jerked multiple times, the vehicle did not accelerate, but the RPMs redlined. I then lost power while entering the h",
+          "MY 2014 DODGE CHALLENGER OVER HEATED WHILE I WAS DRIVING. I PULLED OVER AND FILLED THE RESERVOIR WITH ANTIFREEZE. I DROVE LESS THAN A MILE DOWN THE ROAD AND IT OVER HEATED AGAIN.WHEN I CHECKED THE RES"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 20,
+        "share_pct": 13.5,
+        "excerpts": [
+          ": The vehicle’s steering wheel intermittently hardens or \"locks\" while in motion, making it extremely difficult to maneuver and creating a severe safety hazard. This issue remains unresolved despite t",
+          "Steering wheel locks up at while driving making it very hard to turn. The dealerships, wants $200/300 for a diagnostic fee and $3k to repair it.  This has been reported for years now as you can se wit",
+          "A car pulled out in .frount of me doing 45 he was making a right turn light turned yellow would of made the crossing but had to swerve to miss the car and hit a pole causing frount end damage,estimate"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 18,
+        "share_pct": 12.2,
+        "excerpts": [
+          "Subject VIN sits in database as completed for Takata Airbag replacement completion during previous Passenger Air Bag NHTSA Recall; however, recent \"Do Not Drive\" warnings that include this year model ",
+          "A car pulled out in .frount of me doing 45 he was making a right turn light turned yellow would of made the crossing but had to swerve to miss the car and hit a pole causing frount end damage,estimate",
+          "CAR SHUTS OFF AT APPORXIMATELY 45MPH. ALMOST WRECK AND THEN FLICKERS BACK TO NORMAL OPERATING AND DRIVE HOME(5)MINUTES AND PARK. WILL NOT START BACK UP. TOWED THE CAR TO A DODGE DEALER WHO REPLACED TH"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 14,
+        "share_pct": 9.5,
+        "excerpts": [
+          "On August 7, 2025, at approximately 11:30 PM, my 2014 Dodge Challenger caught fire in the trunk area where the battery is located. I had just parked at my location and was about to get out of the car ",
+          "There is a fuel leak in the vehicle.",
+          "The Evaporative Canister was recalled for Dodge Challenger 2014 in 2021. The car was taken to the Chrysler Dodge Dealership and they confirmed the repair. November 2023 the engine light came on. Anoth"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 16,
+      "fires": 5,
+      "injuries": 16,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 22
+      },
+      {
+        "year": 2015,
+        "count": 19
+      },
+      {
+        "year": 2016,
+        "count": 6
+      },
+      {
+        "year": 2017,
+        "count": 22
+      },
+      {
+        "year": 2018,
+        "count": 15
+      },
+      {
+        "year": 2019,
+        "count": 22
+      },
+      {
+        "year": 2020,
+        "count": 20
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "19V018000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2010 Dodge Ram 3500, Ram 4500/5500, 2010-2011 Dodge Dakota, 2010-2014 Dodge Challenger, 2010-2015 Dodge Challenger, Chrysler 300, and 2010-2016 Jeep Wrangler vehicles.  Upon deployment of the driver's frontal air bag, excessive internal pressure may cause t",
+        "report_date": "15/01/2019",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18E053000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain Mopar Stage 1 Kit Performance Packages Powertrain Control Modules (PCM) Part Numbers P5160023, P5160025, and Demon Crate PCM Part Number 68412287AA.  The PCMs are being recalled to address a defect that could prevent the cruise control system from disengagi",
+        "report_date": "12/07/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V435000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2014 Dodge Challenger, Dodge Charger, Chrysler 300, Dodge Durango, and 2012-2014 Jeep Grand Cherokee vehicles.  The affected vehicles have electro-hydraulic power steering (EHPS) and are equipped with a 5.7L or a 3.6L engine and a 160, 180 o",
+        "report_date": "10/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V741000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014 Dodge Challenger, Charger, Durango, Chrysler 300, and Jeep Grand Cherokee vehicles equipped with a 3.6L engine and a 160 amp alternator.  In the affected vehicles, the alternator may suddenly fail.",
+        "report_date": "21/11/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V634000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Chrysler 300, Dodge Charger, Challenger, and Durango; and 2012-2014 Jeep Grand Cherokee vehicles manufactured April 22, 2010, to January 2, 2014, and equipped with a 3.6L engine and a 160 amp alternator.  In the affected vehicle",
+        "report_date": "08/10/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:58:35.231Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

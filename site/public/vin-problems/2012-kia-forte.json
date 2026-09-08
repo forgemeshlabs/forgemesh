@@ -1,0 +1,176 @@
+{
+  "slug": "2012-kia-forte",
+  "year": 2012,
+  "make": "Kia",
+  "model": "Forte",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 291,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 160,
+        "share_pct": 55,
+        "excerpts": [
+          "Vehicle: 2012 Kia Forte   Recall: NHTSA 23V-652 (Kia SC284) – HECU/ABS fuse recall   My vehicle underwent this safety recall in 2025. The dealership replaced the HECU fuse. Immediately upon leaving th",
+          "While driving, the engine suddenly shut off without warning. The vehicle lost power in traffic, creating a safety risk. There were no warning signs before the failure. The oil level was properly maint",
+          "Engine started screeching out of nowhere, sounded like something fell through, there was no warning of any kind, car was running seemingly fine prior to this, car was jolting and not going anymore and"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 52,
+        "share_pct": 17.9,
+        "excerpts": [
+          "The contact owns a 2012 Kia Forte. The contact stated that while the vehicle was parked, the contact noticed an abnormal sound for approximately five minutes, and the check engine warning light illumi",
+          "My vehicle is a 2012 Kia Forte EX. The vehicle experienced a corrosion-related brake line failure that affected braking performance and created a safety concern. The brake pedal became soft/sank, and ",
+          "The contact owns a 2012 Kia Forte. The contact stated that while driving at an undisclosed speed, there was a strong fuel odor coming from the vehicle, followed by a loss of motive power. The malfunct"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 37,
+        "share_pct": 12.7,
+        "excerpts": [
+          "Airbag light came on August 21, 2026. I tried several steps to troubleshoot with no resolution. I took it to the local Kia dealership for further inspection. I was terrified to drive the vehicle becau",
+          "There is a class action lawsuit concerning the airbag control unit not functioning properly leading to safety issues during a crash.  The case is called  ZF-TRW Airbag Control Unit Product Liabilty Li",
+          "The contact's cousin owned a 2012 Kia Forte. The contact stated that the vehicle was parked unattended by the privacy fence. The contact was alerted by her nephew and observed that the vehicle was on "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 32,
+        "share_pct": 11,
+        "excerpts": [
+          "Vehicle: 2012 Kia Forte   Recall: NHTSA 23V-652 (Kia SC284) – HECU/ABS fuse recall   My vehicle underwent this safety recall in 2025. The dealership replaced the HECU fuse. Immediately upon leaving th",
+          "Engine started screeching out of nowhere, sounded like something fell through, there was no warning of any kind, car was running seemingly fine prior to this, car was jolting and not going anymore and",
+          "Every two months I have to change the bulb for the break lights. It burns out fast.  Not only is it burning out fast but its melting and takes several days for pry the melted material out.  Also smell"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 23,
+        "share_pct": 7.9,
+        "excerpts": [
+          "The contact owns a 2012 Kia Forte. The contact stated that while the vehicle was in reverse, the vehicle seized. No warning lights were illuminated. The contact stated that the vehicle was towed to an",
+          "The contact called on behalf of his wife who owns a 2012 Kia Forte. The contact stated that the passenger’s side air bag warning light was illuminated. The contact stated that the vehicle was repaired",
+          "Unknown…  The car has been having on going issues with shutting off while driving. With new battery, starter, tune up, plugs, and still no fix. The signal lights do keep busting. The headlights and br"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 20,
+      "fires": 22,
+      "injuries": 16,
+      "deaths": 3
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 2
+      },
+      {
+        "year": 2012,
+        "count": 7
+      },
+      {
+        "year": 2013,
+        "count": 11
+      },
+      {
+        "year": 2014,
+        "count": 12
+      },
+      {
+        "year": 2015,
+        "count": 8
+      },
+      {
+        "year": 2016,
+        "count": 16
+      },
+      {
+        "year": 2017,
+        "count": 17
+      },
+      {
+        "year": 2018,
+        "count": 34
+      },
+      {
+        "year": 2019,
+        "count": 32
+      },
+      {
+        "year": 2020,
+        "count": 32
+      },
+      {
+        "year": 2021,
+        "count": 32
+      },
+      {
+        "year": 2022,
+        "count": 20
+      },
+      {
+        "year": 2023,
+        "count": 37
+      },
+      {
+        "year": 2024,
+        "count": 11
+      },
+      {
+        "year": 2025,
+        "count": 14
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "20V750000",
+        "component": "ENGINE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2012-2013 Sorento, 2012-2015 Forte and Forte Koup, 2011-2013 Optima Hybrid, 2014-2015 Soul, and 2012 Sportage vehicles.  An engine compartment fire can occur while driving.",
+        "report_date": "02/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V363000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2010-2013 Kia Forte, Forte Koup, 2011-2013 Kia Optima and 2011-2012 Kia Optima Hybrid and Sedona vehicles.  In the event of a crash, the air bag control unit (ACU) may short circuit, preventing the frontal air bags and seat belt pretensioners from deploy",
+        "report_date": "01/06/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V773000",
+        "component": "SERVICE BRAKES, HYDRAULIC:PEDALS AND LINKAGES",
+        "summary": "Kia Motors America (Kia) is recalling certain 2012-2014 Forte and Forte Koup vehicles.  The brake pedal stopper pad can deteriorate allowing the brake light switch plunger to remain extended when the brake pedal is released.  This will allow the brake lights to remain illuminated continuously.  It c",
+        "report_date": "01/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V652000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2010-2019 Borrego, 2014-2016 Cadenza, 2010-2013 Forte, Forte Koup, Sportage, 2015-2018 K900, 2011-2015 Optima, 2011-2013 Optima Hybrid, Soul, 2012-2017 Rio, 2011-2014 Sorento, and 2010-2011 Rondo vehicles.  The Hydraulic Electronic Control Unit (HECU) may",
+        "report_date": "25/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:55:56.298Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

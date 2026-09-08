@@ -1,0 +1,144 @@
+{
+  "slug": "2022-toyota-highlander",
+  "year": 2022,
+  "make": "Toyota",
+  "model": "Highlander",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 236,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 49,
+        "share_pct": 20.8,
+        "excerpts": [
+          "Because I am not an expert, I cannot say with certainty what exact vehicle components contributed to this incident. On August 17, 2026, at approximately 12:40 PM, I was slowly driving my 2022 Toyota H",
+          "Because I am not an expert, I cannot say with certainty what exact vehicle components contributed to this incident. On August 17, 2026, at approximately 12:40 PM, I was slowly driving my 2022 Toyota H",
+          "loud noise when accelerating.  noise is gone when let go of gas pedal.  noise like internal gears from transmission"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 42,
+        "share_pct": 17.8,
+        "excerpts": [
+          "In the past 3 days, the trunk of the vehicle has opened on its own even though it was locked. This has also happened 3 additional times in the past since I have taken it to the Toyota service center i",
+          "The fender liner detached and was getting caught up in the tire, I had to pull it out and then it was dragging on the ground. It was hard to turn because it was getting under the tire. Finally, one wa",
+          "While traveling on interstate highways from [XXX] to [XXX], the front lower bumper cover on my 2022 Toyota Highlander Limited (VIN [XXX]) partially detached during normal driving at approximately 81,8"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 36,
+        "share_pct": 15.3,
+        "excerpts": [
+          "The cars brakes will release and car will lurch forward forcing you to hit the brakes again to avoid colliding with car in front of you. This is a KNOWN problem called \"HYBRID REGENERATIVE BRAKE TRANS",
+          "Component or system that malfunctioned: The braking system on my 2022 Toyota Highlander Hybrid, specifically the transition between regenerative braking and hydraulic friction braking, appears to malf",
+          "When I am slowing down and coming to a stop, my car will surge forward. It feels like my brakes stop working for a second and that I pressed the accelerator. It has happened on flat road, hills and tu"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 23,
+        "share_pct": 9.7,
+        "excerpts": [
+          "My mother was involved in a motor vehicle collision while properly restrained by her seat belt. During the collision, the vehicle sustained a significant impact; however, the airbags did not deploy.  ",
+          "Was in collision - front impact- vehicle was a total loss, airbags did not deploy for driver or passenger side",
+          "PKSB malfunction, LTA system malfunction, SRS system malfunction, Per-Collision system malfunction, Headlight system malfunction and Front camera unavailable."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 16,
+        "share_pct": 6.8,
+        "excerpts": [
+          "The only door that will lock or unlock using the fab key or the master lock button on the drivers armrest is the drivers side rear door. My vehicle is not able to be locked unless I do it manually and",
+          "Motorized struts to lift and close the rear lift gate have failed.  The struts do work to open the lift gate but they do not work to close it. Manually closing the lift gate is extremely difficult bec",
+          "Vehicle: 2022 Toyota Highlander Limited Mileage at failure: ~60,000 miles   The driver seat began moving rearward without any driver input while the vehicle was being driven. The movement was intermit"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 16,
+      "fires": 1,
+      "injuries": 13,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 49
+      },
+      {
+        "year": 2023,
+        "count": 43
+      },
+      {
+        "year": 2024,
+        "count": 35
+      },
+      {
+        "year": 2025,
+        "count": 55
+      },
+      {
+        "year": 2026,
+        "count": 52
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "22V310000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Gulf States Toyota, Inc. (GST) is recalling certain 2022 4Runner, Tacoma, Highlander, and Highlander Hybrid vehicles.  The load carrying capacity modification labels may not be permanent and can fade, becoming illegible.  As such, these vehicles fail to comply with the requirements of Federal Motor ",
+        "report_date": "06/05/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V720000",
+        "component": "STRUCTURE:BODY:BUMPERS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020-2023 Highlander & Highlander Hybrid vehicles.  During normal vehicle operation, minor impact to the front lower bumper cover may result in the cover coming loose or detaching.",
+        "report_date": "26/10/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V419000",
+        "component": "TIRES",
+        "summary": "Gulf States Toyota, Inc. (GST) is recalling certain 2022-2024 model year Highlander L and Highlander LE vehicles equipped with the Blackout Package that includes 20\" black alloy wheels and tires.  The installed tires have an insufficient load rating.  As such, these vehicles fail to comply with the ",
+        "report_date": "06/06/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V452000",
+        "component": "TIRES",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2021-2024 Highlander vehicles.  The 20-inch accessory tires with an insufficient load rating for the vehicle's Gross Axle Weight Rating (GAWR) were installed.  As such, these vehicles fail to comply with the requirements of Federal Motor ",
+        "report_date": "18/06/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V128000",
+        "component": "SEATS:MID/REAR ASSEMBLY:RECLINER",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2021-2024 Highlander and Highlander Hybrid vehicles. The second-row seat backs may fail to lock into position during seat back adjustment.",
+        "report_date": "05/03/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:39.718Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

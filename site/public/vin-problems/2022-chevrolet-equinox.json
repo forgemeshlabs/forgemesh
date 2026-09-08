@@ -1,0 +1,140 @@
+{
+  "slug": "2022-chevrolet-equinox",
+  "year": 2022,
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 165,
+    "top_failure_components": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 71,
+        "share_pct": 43,
+        "excerpts": [
+          "While driving, the car began stalling, and the info window said to shift to \"neutral\" and restart the vehicle.  Attempted this, and the car just stopped in the middle of the street, unable to move it ",
+          "While accelerating in traffic, the car suddenly lost engine power. (Stalled). After several tries to restart, the vehicle had to be towed to the dealership for repair. The fuel pump control module was",
+          "I was driving in town at normal speed getting on entrance ramp to XXX in [XXX]. As I made my turn the car engine stopped working. I pulled over to the side of the ramp. The car would not start. I call"
+        ]
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "complaints": 30,
+        "share_pct": 18.2,
+        "excerpts": [
+          "The contact owns a 2022 Chevrolet Equinox. The contact stated that while driving at an undisclosed speed, the vehicle stalled and came to a complete stop. The contact was unable to restart the vehicle",
+          "The contact owns a 2022 Chevrolet Equinox. The contact stated that while driving at 30 MPH, the vehicle lost motive power upon depression of the accelerator pedal. The contact coasted the vehicle into",
+          "The contact owns a 2022 Chevrolet Equinox.  The contact stated that the vehicle was serviced under NHTSA Campaign Number: 23V013000 (Fuel System, Gasoline); however, the vehicle stalled while his wife"
+        ]
+      },
+      {
+        "component": "GASOLINE",
+        "complaints": 30,
+        "share_pct": 18.2,
+        "excerpts": [
+          "The contact owns a 2022 Chevrolet Equinox. The contact stated that while driving at an undisclosed speed, the vehicle stalled and came to a complete stop. The contact was unable to restart the vehicle",
+          "The contact owns a 2022 Chevrolet Equinox. The contact stated that while driving at 30 MPH, the vehicle lost motive power upon depression of the accelerator pedal. The contact coasted the vehicle into",
+          "The contact owns a 2022 Chevrolet Equinox.  The contact stated that the vehicle was serviced under NHTSA Campaign Number: 23V013000 (Fuel System, Gasoline); however, the vehicle stalled while his wife"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 25,
+        "share_pct": 15.2,
+        "excerpts": [
+          "Codes p2227 and code p0299 are coming up machine says this is a known issue with 2021 to 2023 Chevy equinox and there is a lot of water in intake and engine is in limp mode 1.5L engine, are known to e",
+          "The contact owns a 2022 Chevrolet Equinox. While driving at approximately 70 MPH, the check engine warning light illuminated with the message “Reduce Engine Power – Drive with Care” displayed, and the",
+          "On 1/22/25 took my car in for warranty repairs of the air induction system.  The dealership claimed they fixed it, On 2/17/25 went back letting the dealership know the issue was not fixed but the told"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 20,
+        "share_pct": 12.1,
+        "excerpts": [
+          "Known issue of arabic language reset on engine start with this make/model infotainment system. (TSB 23-NA-118 / 23-NA-042). Causes language and user errors upon startup and causes the rear backup came",
+          "While driving vehicle during afternoon traffic, the vehicle started to sputter then die in the middle of the road, I tried restarting the vehicle, it would crank but would not start.  I pushed the veh",
+          "While operating our vehicle on   traveling at approx. 45 mph during mid-day traffic, the engine on our vehicle died and would not restart. we had no power steering and had to wrestle the vehicle off t"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 13,
+      "fires": 3,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2022,
+        "count": 23
+      },
+      {
+        "year": 2023,
+        "count": 42
+      },
+      {
+        "year": 2024,
+        "count": 31
+      },
+      {
+        "year": 2025,
+        "count": 39
+      },
+      {
+        "year": 2026,
+        "count": 30
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "21V612000",
+        "component": "TIRES",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021-2022 Chevrolet Equinox and GMC Terrain vehicles equipped with certain Hankook tires.  The tires may have been manufactured with an insufficient amount of curative agent, which could cause tread separation.",
+        "report_date": "05/08/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V359000",
+        "component": "SEATS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021 Chevrolet Malibu, 2022 Chevrolet Equinox, Blazer and Cadillac XT4 vehicles.  The driver's seat cushion frame may have an improper weld in the power tilt-adjustment mechanism.",
+        "report_date": "19/05/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V724000",
+        "component": "SEATS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2022-2023 Chevrolet Equinox and 2022 GMC Terrain vehicles.  The driver's seat may have a stripped or loose bolt at the seat frame height-adjust pivot.",
+        "report_date": "29/09/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V013000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP:CONTROL/DRIVE MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021-2022 Chevrolet Equinox and 2022 GMC Terrain vehicles.  The fuel pump module may not consistently provide sufficient fuel to the engine, resulting in an engine stall.",
+        "report_date": "19/01/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V339000",
+        "component": "CHILD SEAT:VEHICLE LATCH ANCHOR",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2023 Chevrolet Equinox and GMC Terrain vehicles.  The four rear-seat lower child seat LATCH anchorage bars may have excessive powder coating, which could prevent a child seat from being installed with the anchorage bars.  As such, these vehicles fai",
+        "report_date": "11/05/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:17.379Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

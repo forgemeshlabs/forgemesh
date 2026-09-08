@@ -1,0 +1,188 @@
+{
+  "slug": "2012-dodge-challenger",
+  "year": 2012,
+  "make": "Dodge",
+  "model": "Challenger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 253,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 138,
+        "share_pct": 54.5,
+        "excerpts": [
+          "The contact leased a 2012 Dodge Challenger. The contact stated that the check engine warning light was illuminated. The contact stated that while driving at 45 MPH, the vehicle stalled. The vehicle fa",
+          "My car has come to a complete halt several times when I pressed the gas trying to get onto the speedway it will just have no power to it like it’s in neutral and I will have to hurry up and get over t",
+          "2012 Challenger SRT8 TIPM is this issue and there is no recall for this, while it should due to being a major part of the electrical system that controls all aspects of the safety system. Also now I a"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 47,
+        "share_pct": 18.6,
+        "excerpts": [
+          "The contact leased a 2012 Dodge Challenger. The contact stated that the check engine warning light was illuminated. The contact stated that while driving at 45 MPH, the vehicle stalled. The vehicle fa",
+          "Air bag failure indicator is on after other clock spring related issue (radio volume increases when steering wheel turns) started. Air bags no longer appear to be in working order after apparent click",
+          "TL* THE CONTACT OWNS A 2012 DODGE CHALLENGER. THE CONTACT STATED THAT THE AIR BAG INDICATOR REMAINED ILLUMINATED, THE EMERGENCY BRAKE WAS DEFECTIVE, AND THE VEHICLE OVERHEATED DUE TO AN ANTIFREEZE LEA"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 25,
+        "share_pct": 9.9,
+        "excerpts": [
+          "The contact leased a 2012 Dodge Challenger. The contact stated that the check engine warning light was illuminated. The contact stated that while driving at 45 MPH, the vehicle stalled. The vehicle fa",
+          "The transmission stalled after driving it for 4000 miles.  The car has 9 codes associated with the anti lock brakes, electric power steering, and transmission control.  The car is available for inspec",
+          "Car randomly stalls while driving. Does NOT show CHECK ENGINE light, nor have any codes been recorded as checked by dealer obd reader. 2 Dodge Dealerships unable to diagnose because of no codes. Both "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 19,
+        "share_pct": 7.5,
+        "excerpts": [
+          "My car has come to a complete halt several times when I pressed the gas trying to get onto the speedway it will just have no power to it like it’s in neutral and I will have to hurry up and get over t",
+          "ALL OF A SUDDEN MY POWER STEERING WENT OUT IT'S HARD TO STEER THE VEHICLE WHILE MAKING A LEFT TURN, ON A CITY STREET WITH A LOT OF TRAFFIC AND PEDESTRIANS. THE ROAD WAS DRY. NO INDICATIONS THAT THE CA",
+          "I INITIALLY GOT MY ALTERNATOR CHANGED BY MY OWN MECHANIC BEFORE THERE WAS ANY RECALL ON THE ALTERNATOR. THEN SOME TIME LAST YEAR 2018 I TOOK MY CAR IN FOR THE RECALL ON THE AIR BAGS. WHILE MY CAR WAS "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 17,
+        "share_pct": 6.7,
+        "excerpts": [
+          "The contact owns a 2012 Dodge Challenger. The contact stated that while driving on several occasions at various speeds, the vehicle stalled. The vehicle was towed to an independent mechanic, where it ",
+          "The contact owns a 2012 Dodge Challenger. The contact stated that when shifting the vehicle to reverse(R) or to neutral(N), the vehicle would only move forward. There were no warning lights illuminate",
+          "While backing into my driveway garage I heard a loud bang and my car's transmission lost its linkage to the drive shaft.  The car rolled forward regardless of shifting the car in park, reverse, neutra"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 11,
+      "fires": 8,
+      "injuries": 8,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 2
+      },
+      {
+        "year": 2012,
+        "count": 12
+      },
+      {
+        "year": 2013,
+        "count": 15
+      },
+      {
+        "year": 2014,
+        "count": 47
+      },
+      {
+        "year": 2015,
+        "count": 35
+      },
+      {
+        "year": 2016,
+        "count": 28
+      },
+      {
+        "year": 2017,
+        "count": 37
+      },
+      {
+        "year": 2018,
+        "count": 30
+      },
+      {
+        "year": 2019,
+        "count": 22
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 6
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "19V018000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2010 Dodge Ram 3500, Ram 4500/5500, 2010-2011 Dodge Dakota, 2010-2014 Dodge Challenger, 2010-2015 Dodge Challenger, Chrysler 300, and 2010-2016 Jeep Wrangler vehicles.  Upon deployment of the driver's frontal air bag, excessive internal pressure may cause t",
+        "report_date": "15/01/2019",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V435000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2014 Dodge Challenger, Dodge Charger, Chrysler 300, Dodge Durango, and 2012-2014 Jeep Grand Cherokee vehicles.  The affected vehicles have electro-hydraulic power steering (EHPS) and are equipped with a 5.7L or a 3.6L engine and a 160, 180 o",
+        "report_date": "10/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V021000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2009-2013 Jeep Wrangler, Chrysler 300, Dodge Challenger and Dodge Charger vehicles, and 2009-2011 Dodge Dakota vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, ",
+        "report_date": "09/01/2018",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V352000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) expanded the affected population to include 73,712 2005-2009 RAM 2500 trucks produced at the St. Louis North Assembly Plant.  With this change, Chrysler is recalling certain model year 2004-2008 RAM 1500, 2005-2009 RAM 2500, 2006-2009 RAM 3500, 2007-2010 RAM 3500 Cab Chassis, 2",
+        "report_date": "24/05/2016",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V118000",
+        "component": "AIR BAGS",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2012 Chrysler 300, Dodge Challenger, and Dodge Charger vehicles manufactured April 11, 2011, through December 14, 2011.  The affected vehicles may have improperly sized terminal crimps on the seat side-airbag wiring harness which may",
+        "report_date": "03/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V634000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Chrysler 300, Dodge Charger, Challenger, and Durango; and 2012-2014 Jeep Grand Cherokee vehicles manufactured April 22, 2010, to January 2, 2014, and equipped with a 3.6L engine and a 160 amp alternator.  In the affected vehicle",
+        "report_date": "08/10/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:56:20.285Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

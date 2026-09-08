@@ -1,0 +1,188 @@
+{
+  "slug": "2008-nissan-altima",
+  "year": 2008,
+  "make": "Nissan",
+  "model": "Altima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1028,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 312,
+        "share_pct": 30.4,
+        "excerpts": [
+          "The dashboard of the car melted that causes a very bright glare.",
+          "My 2008 Nissan Altima's dash is degrading and has caused a sticky residue to form on it. This stickiness is very shiny and causes a glare to occur on the windshield. I live in Kentucky and when the su",
+          "The dashboard of this vehicle has become sticky to the touch and excessively shiny, and appears to be melting in spots, causing glare on the windshield that obstructs vision while driving."
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 168,
+        "share_pct": 16.3,
+        "excerpts": [
+          "Glare off dash board is blinding on sunny days. Dashboard is melting, the melted dash reflection is distraciton/ binding on sunny days, and smell from dash is not pleasant. Not knowing actual product ",
+          "The dash as a sticky substance that causing a bad glare.Back rear window as a film on it blocking vision.And car as foul Oder when you get in it.",
+          "The dashboard in this vehicle similar to other Nissan models that have already been recalled is cracked, sticky, shiny and glossy. It’s dangerous to have cracks in the dashboard in case of airbag depl"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 142,
+        "share_pct": 13.8,
+        "excerpts": [
+          "Passenger air bag indicator light has been on for 2 years and have been unable to locate issue.  All air bag systems test good except error code for passenger side air bag.",
+          "At first, the passenger airbag off light always turn on when a person sit on the seat(never turn off). Then few months later the Airbag light on dashboard starts flashing with no reason, 1 long 5 shor",
+          "The contact owns a 2008 Nissan Altima. The contact received notification of NHTSA Campaign Number: 08V521000 (Air Bags, Electrical System). The contact called the dealer and made an appointment; howev"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 92,
+        "share_pct": 8.9,
+        "excerpts": [
+          "While pulling into a parking spot and coming to a halt, I put the car into park mode. My foot was still on the brake. Instantly the engine went into \"overdrive\" and lurched forward over a parking curb",
+          "Brake switch or Stop Light Switch goes out which causes brakes to become very stiff and not light up the brakes which causes car’s push start to not start car more than 5 times a week. I will always h",
+          "I have had my cars rear brakes completely replaced once in the last 6 months and completely replaced the front brake system TWICE in 6 months. I’ve had to pay close to $4000 in repairs on only the car"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 90,
+        "share_pct": 8.8,
+        "excerpts": [
+          "The contact owns a 2008 Nissan Altima. The contact received notification of NHTSA Campaign Number: 08V521000 (Air Bags, Electrical System). The contact called the dealer and made an appointment; howev",
+          "Parked car due to electrical and transmission issues had left it for a couple hours to receive assistance and the car was gone it had no plates because I was attempting to register the car that same d",
+          "I’m having to replace at least 2 sensors every 6 or 7 months."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 53,
+      "fires": 13,
+      "injuries": 33,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2007,
+        "count": 4
+      },
+      {
+        "year": 2008,
+        "count": 55
+      },
+      {
+        "year": 2009,
+        "count": 33
+      },
+      {
+        "year": 2010,
+        "count": 53
+      },
+      {
+        "year": 2011,
+        "count": 69
+      },
+      {
+        "year": 2012,
+        "count": 84
+      },
+      {
+        "year": 2013,
+        "count": 140
+      },
+      {
+        "year": 2014,
+        "count": 161
+      },
+      {
+        "year": 2015,
+        "count": 105
+      },
+      {
+        "year": 2016,
+        "count": 94
+      },
+      {
+        "year": 2017,
+        "count": 66
+      },
+      {
+        "year": 2018,
+        "count": 55
+      },
+      {
+        "year": 2019,
+        "count": 32
+      },
+      {
+        "year": 2020,
+        "count": 31
+      },
+      {
+        "year": 2021,
+        "count": 15
+      },
+      {
+        "year": 2022,
+        "count": 11
+      },
+      {
+        "year": 2023,
+        "count": 9
+      },
+      {
+        "year": 2024,
+        "count": 9
+      },
+      {
+        "year": 2025,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "08V363000",
+        "component": "SUSPENSION",
+        "summary": "NISSAN IS RECALLING 1,018 MY 2008 ALTIMA VEHICLES.  THE LEFT SIDE FRONT SUSPENSION TRANSVERSE LINK BOLT MAY NOT HAVE BEEN TIGHTENED TO SPECIFICATION.  THIS CONDITION COULD CAUSE THE BOLT TO BECOME LOOSE WHILE THE VEHICLE IS BEING DRIVEN.",
+        "report_date": "31/07/2008",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V521000",
+        "component": "AIR BAGS",
+        "summary": "NISSAN IS RECALLING 204,361 MY 2007-2008 ALTIMA, ALTIMA HYBRID, 350Z, 350Z ROADSTER, MY 2008 ALTIMA COUPE, ROGUE, MY 2009 MURANO, AND INFINITI MY 2007-2008 G35 SEDAN, MY 2008 G37 COUPE AND EX35 PASSENGER VEHICLES EQUIPPED WITH CONTINENTAL AUTOMOTIVE SYSTEMS' OCCUPANT CLASSIFICATION SYSTEM (OCS) CONT",
+        "report_date": "07/10/2008",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V401000",
+        "component": "EQUIPMENT:ELECTRICAL:NAVIGATIONAL SYSTEM(GLOBAL POSITIONING SYSTEM)",
+        "summary": "NISSAN IS RECALLING CERTAIN VEHICLES THAT WERE EQUIPPED WITH A GARMIN NUVI MODEL 750 NAVIGATION SYSTEM.  THE BATTERIES CONTAINED IN THE AFFECTED GPS UNITS CAN OVERHEAT.",
+        "report_date": "10/09/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "07V599000",
+        "component": "ELECTRICAL SYSTEM:IGNITION:MODULE",
+        "summary": "ON CERTAIN PASSENGER VEHICLES THAT HAVE HAD THE BODY CONTROL MODULE (BCM) REPLACED DURING SERVICE AT A DEALERSHIP, THE TIRE PRESSURE MONITORING SYSTEM (TPMS)  MAY HAVE BEEN INADVERTENTLY DEACTIVATED DUE TO AN ISSUE WITH THE DEALER SERVICE SOFTWARE.  IF THE TPMS IS TURNED OFF, IT WOULD NOT ALERT THE ",
+        "report_date": "28/12/2007",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:46:22.753Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

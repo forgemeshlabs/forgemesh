@@ -1,0 +1,124 @@
+{
+  "slug": "2017-nissan-frontier",
+  "year": 2017,
+  "make": "Nissan",
+  "model": "Frontier",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 38,
+    "top_failure_components": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 10,
+        "share_pct": 26.3,
+        "excerpts": [
+          "I drive on the highway and my truck stalls out and just shuts off. When I’m driving at slow speeds, it just keeps stalling I lose power and it takes a few tries for it to start again then I have to pe",
+          "Check engine light came on and when filling with fuel, gas came shooting back out.",
+          "Fuel tank developed leak at the filler neck connection point.  The tank is \"plastic\".  Connection neck is \"plastic\" but a different color than the tank.  (Perhaps dissimilar materials that are somehow"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 6,
+        "share_pct": 15.8,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2017 Nissan Frontier. The contact stated that while attempting to register the vehicle, it was discovered that there was a mileage discrepancy. The vehicle was ",
+          "Complete power/ignition failure resulting in death of driver on [XXX] while driving at night in the rain in a 2017 Nissan Frontier Pickup 4 door. The TDPS in McKinney, TX is pulling the black box for ",
+          "As I was driving my truck this morning it stalled on me, two times.  The first time I was able to turn the key off and back on again and it started right up.  I then drove it about 20 yards (luckily I"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 6,
+        "share_pct": 15.8,
+        "excerpts": [
+          "The contact's boyfriend owns a 2017 Nissan Frontier. The contact stated while her boyfriend was driving at 30 MPH or above, the vehicle started to stall. The check engine warning light was illuminated",
+          "There was a coolant leak. It was leaking from head gasket. When it was being rebuilt there were two head bolts stripped. The truck only has 58,000 miles. We were told that the engin isn't covered by t",
+          "AIRBAG LIGHT ON, COMPETITOR (MAZDA) DEALER STATED THAT AIR BAG MODULE NEEDS REPLACING ESTIMATED COST $2500. ALSO WHEN 4X4 IS ENGAGED IT'S REALLY HARD TO DO TURN LEFT OR RIGHT AT LOW SPEED."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 5,
+        "share_pct": 13.2,
+        "excerpts": [
+          "Since buying the vehicle new, the airbag light has been on and off throughout the entire time (The vehicle has never been crashed). I have brought it in to multiple dealerships asking for them to take",
+          "Hit a cement barrier going 60 mph at a 45 degree angle on the passenger side and only the passenger side curtain airbag deployed.",
+          "AIRBAG LIGHT ON, COMPETITOR (MAZDA) DEALER STATED THAT AIR BAG MODULE NEEDS REPLACING ESTIMATED COST $2500. ALSO WHEN 4X4 IS ENGAGED IT'S REALLY HARD TO DO TURN LEFT OR RIGHT AT LOW SPEED."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 4,
+        "share_pct": 10.5,
+        "excerpts": [
+          "The contact's boyfriend owns a 2017 Nissan Frontier. The contact stated while her boyfriend was driving at 30 MPH or above, the vehicle started to stall. The check engine warning light was illuminated",
+          "I had a check engine light come on and took it to my mechanic for diagnosis and repair if needed.  He diagnosed it as error code P2004. The code indicated a bad runner control valve position sensor.  ",
+          "As I was driving my truck this morning it stalled on me, two times.  The first time I was able to turn the key off and back on again and it started right up.  I then drove it about 20 yards (luckily I"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 1,
+      "injuries": 1,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 6
+      },
+      {
+        "year": 2018,
+        "count": 5
+      },
+      {
+        "year": 2019,
+        "count": 8
+      },
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "18V551000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2017 Nissan NV200, Sentra, NV3500 Van, NV3500 Bus, NV200 Taxi, NV1500, NV2500 Van, Chevrolet City Express, 2017-2018 Frontier, Versa Note, and Versa Sedan vehicles that have a mechanical (physical) key ignition system.  In these models, over t",
+        "report_date": "22/08/2018",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:59.294Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,208 @@
+{
+  "slug": "2009-jeep-wrangler",
+  "year": 2009,
+  "make": "Jeep",
+  "model": "Wrangler",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 458,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 123,
+        "share_pct": 26.9,
+        "excerpts": [
+          "horn honks on its own, crinkling while turning wheel, airbag light on dash, esp, bas lights on dash",
+          "CRINKLING NOISE WHEN TURNING THE WHEEL EITHER WAY, HORN RANDOMLY HONKS, RED AIR BAG ON, BAS ESP LIGHT ON",
+          "The contact owns a 2009 Jeep Wrangler. The contact received notifications of NHTSA Campaign Numbers: 10V236000 (Service Brakes, Hydraulic), 16V290000 (Air Bags), and 18V021000 (Air Bags); however, the"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 74,
+        "share_pct": 16.2,
+        "excerpts": [
+          "When filling my tank, it spits gas back out of the nozzle. I’ve been told in several forums that this is a warranty issue and is to be replaced by a dealership for free. The item that needs to be repa",
+          "Fuel overflow problem. It happens every time I fill up the gas tank.",
+          "Every time I fill the fuel tank it will overflow quite profusely.  Not just a trickle, but more like a quart or more.  Not only is this manufactured defect a COSTLY inconvenience, BUT A POSSIBLY DANGE"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 72,
+        "share_pct": 15.7,
+        "excerpts": [
+          "Frank Hyundai sold this vehicle with significant structural damage to everything that is metal due to rust.",
+          "Hi.. My Jeep has the death wobble and that my Jeep is not included in the recall due ; according to the Jeep dealership. The recall has expired for my 2009 Jeep Wrangler. My kids and grand was in the ",
+          "DEAD WOBBLE ON JEEP AT 50 MPH SUV STARTS SHACKING LIKE IT'S GOING TO ROLL OVER"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 70,
+        "share_pct": 15.3,
+        "excerpts": [
+          "horn honks on its own, crinkling while turning wheel, airbag light on dash, esp, bas lights on dash",
+          "Experiencing the death wobble.",
+          "THE JEEP HAS LESS THAN 40.000 IS AND IS NOT USED OFF ROAD. ABOUT 55MPH THE FRONT END GETS A OUT OF CONTROL WOBBLE. YOU HAVE TO SLOW WAY DOWN FOR IT TO STOP. IT HAS DONE A FEW TIMES BEFORE. THE LAST TI"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 49,
+        "share_pct": 10.7,
+        "excerpts": [
+          "The manual transmission malfunctioned, it is available for inspection upon request. My safety and others are put at risk due to the transmission not accepting first gear when in 1st gear, and it “pops",
+          "TIPM failure while driving is very unsafe. Can cause lights, wipers, and other failures while driving, including intermittent dangerous stalling and non starting. Please don’t wait until deaths or inj",
+          "FIRST GEAR KEEPS POPPING OUT WHEN CROSSING INTERCEPTION IT COULD GET DANGEROUS"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 15,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 24
+      },
+      {
+        "year": 2010,
+        "count": 41
+      },
+      {
+        "year": 2011,
+        "count": 40
+      },
+      {
+        "year": 2012,
+        "count": 41
+      },
+      {
+        "year": 2013,
+        "count": 60
+      },
+      {
+        "year": 2014,
+        "count": 61
+      },
+      {
+        "year": 2015,
+        "count": 47
+      },
+      {
+        "year": 2016,
+        "count": 42
+      },
+      {
+        "year": 2017,
+        "count": 24
+      },
+      {
+        "year": 2018,
+        "count": 13
+      },
+      {
+        "year": 2019,
+        "count": 25
+      },
+      {
+        "year": 2020,
+        "count": 13
+      },
+      {
+        "year": 2021,
+        "count": 6
+      },
+      {
+        "year": 2022,
+        "count": 7
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "18V021000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2009-2013 Jeep Wrangler, Chrysler 300, Dodge Challenger and Dodge Charger vehicles, and 2009-2011 Dodge Dakota vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, ",
+        "report_date": "09/01/2018",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V290000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2007-2010 Jeep Wrangler JK vehicles manufactured March 2, 2006, to August 13, 2010. The clockspring assembly may become contaminated with dust and cause the air bag circuit to fail.",
+        "report_date": "11/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V352000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) expanded the affected population to include 73,712 2005-2009 RAM 2500 trucks produced at the St. Louis North Assembly Plant.  With this change, Chrysler is recalling certain model year 2004-2008 RAM 1500, 2005-2009 RAM 2500, 2006-2009 RAM 3500, 2007-2010 RAM 3500 Cab Chassis, 2",
+        "report_date": "24/05/2016",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13E010000",
+        "component": "EQUIPMENT",
+        "summary": "Quadratec, Inc. is recalling certain aftermarket accessory, driver-side, Ultimate Floor Liners part numbers 14254.0301 07, 14254.0301 08, 14254.0301Q, 14254.0302 07, 14254.0302 08, 14254.0302Q, 14254.0303 07, 14254.0303 08, 14254.0303Q, 14254.0309 07, 14254.0309 08, and 14254.0309Q sold from May 1, ",
+        "report_date": "25/02/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V528000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2008-2012 RIGHT HAND DRIVE (RHD) JEEP WRANGLER VEHICLES MANUFACTURED FROM FEBRUARY 1, 2007, THROUGH OCTOBER 10, 2011.  SOME VEHICLES MAY BE EQUIPPED WITH DRIVER'S AIRBAG CLOCKSPRING ASSEMBLIES THAT COULD EXPERIENCE A COMPROMISED AIRBAG CIRCUIT RESULTING IN AN",
+        "report_date": "02/11/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V176000",
+        "component": "AIR BAGS",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2008-2012 Jeep Wrangler right-hand drive vehicles manufactured February 1, 2007, through October 10, 2011.  The affected vehicles have airbag clockspring assemblies that could experience broken airbag circuits.",
+        "report_date": "07/05/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V236000",
+        "component": "SERVICE BRAKES, HYDRAULIC",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2007 THROUGH 2010 JEEP WRANGLER LEFT AND RIGHT HAND DRIVE PASSENGER VEHICLES MANUFACTURED FROM MAY 15, 2006 THROUGH APRIL 22, 2010.  THERE MAY BE CONTACT BETWEEN THE RIGHT AND LEFT FRONT INNER FENDER LINERS AND THE RIGHT FRONT AND LEFT REAR BRAKE TUBES WHICH ",
+        "report_date": "03/06/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:49:20.985Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

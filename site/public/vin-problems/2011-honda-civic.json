@@ -1,0 +1,220 @@
+{
+  "slug": "2011-honda-civic",
+  "year": 2011,
+  "make": "Honda",
+  "model": "Civic",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 168,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 51,
+        "share_pct": 30.4,
+        "excerpts": [
+          "The contact owns a 2011 Honda Civic. The contact stated that while the vehicle was parked in a parking lot, the engine was powered off with the key in the ignition, and the front driver-side air bag a",
+          "The contact owned a 2011 Honda Civic. The contact stated that while attempting to park in a parking lot, he was blinded by the sun and collided with the circular concrete base of a parking lot light o",
+          "On August 9 while grandson was in route on I20 toward Birmingham, Al. to attend grandparent funeral, driver air bag exploded. He struggled to take a close next exit. He pulled car to side of road and "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 33,
+        "share_pct": 19.6,
+        "excerpts": [
+          "Each time I applied brakes I would hear a scraping sound in sync with a point or span of tire rotation. Then as I was attempting to stop at a red light the brakes failed. The nearest place was OR auto",
+          "TL* THE CONTACT OWNS A 2011 HONDA CIVIC. THE CONTACT STATED WHILE DRIVING 35 MPH, WHEN ATTEMPTING TO DEPRESS ON THE BRAKE PEDAL BUT THE VEHICLE FAILED TO STOP AND CRASHED INTO MULTIPLE VEHICLES. THE A",
+          "AT APPROXIMATELY 35 TO 40 MPH WHEN APPLYING THE BRAKES LATELY DUE TO TRAFFIC SLOWING DOWN IN FRONT I HAD ABSOLUTELY NO BRAKE PEDAL AT ALL. THE PEDAL WENT IMMEDIATELY DOWN TO THE FLOOR AND THE VEHICLE "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 15,
+        "share_pct": 8.9,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2011 Honda Civic. The contact stated that upon obtaining the vehicle history report, it was discovered that there was a mileage discrepancy. The vehicle was a p",
+          "Airbag sensor light for front passenger seat has recently lit up and won’t turn off.  Honda dealer said my daughter needs to replace the passenger seat weight sensor which means replacing the whole se",
+          "HONDA CIVIC 2011-CAR PROCEEDED INTO INTERSECTION EVEN THOUGH THE BRAKE WAS APPLIED,LOW VISABILITY HEADLIGHTS,PASSENGER BACK DOOR RIGHT SIDE RATTLES LIKE IT IS NOT SHUT,ODOMETER DIGITAL NUMBERS GOING O"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 13,
+        "share_pct": 7.7,
+        "excerpts": [
+          "THE DRIVER'S SIDE VISOR HAS SPLIT AND JUST HANGS DOWN IN THE LINE OF VISION....I PURCHASED A NEW GENUINE HONDA VISOR AND THE SAME THING IS HAPPENING TO IT. NOW THE PASSENGER SIDE VISOR IS ALSO BEGINNI",
+          "THE SUN VISOR FOR THE CAR HAS BEEN REPLACED EVERY YEAR SINCE PURCHASING THE VEHICLE, AS IT MELTS OFF IN THE SUMMER HEAT. THE VISOR WILL HANG AND BLOCK VISIBILITY FOR THE DRIVER CAUSING HAZARDOUS CONDI",
+          "THE SUN VISOR FALLS AND IS SPLIT AND DOES NOT STAY IN PLACE. THIS REDUCES MY ABILITY TO BLOCK THE SUN WHEN I AM DRIVING."
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 10,
+        "share_pct": 6,
+        "excerpts": [
+          "THE TRUNK LID HASN'T BEEN RIGHT ALL ALONG.  I CAN'T TELL YOU HOW MANY TIMES IT HAS COME DOWN AND HIT ME ON THE HEAD.  NOW, THE BAR THAT KEEPS THE LID OPEN HAS SNAPPED AND THE TRUNK WILL NOT STAY OPEN ",
+          "I BOUGHT A 2011 HONDA CIVIC COUPE. I BOUGHT IT NEW AND HAVE BEEN THE ONLY OWNER. 2 YEARS AGO THE PAINT BEGAN PEELING ON THE TRUNK. THE PEELING HAS NOW EXTENDED FROM TRUNK TO THE ROOF. THE PAINT ON THE",
+          "HONDA CIVIC 2011-CAR PROCEEDED INTO INTERSECTION EVEN THOUGH THE BRAKE WAS APPLIED,LOW VISABILITY HEADLIGHTS,PASSENGER BACK DOOR RIGHT SIDE RATTLES LIKE IT IS NOT SHUT,ODOMETER DIGITAL NUMBERS GOING O"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 22,
+      "fires": 5,
+      "injuries": 20,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2007,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 3
+      },
+      {
+        "year": 2011,
+        "count": 28
+      },
+      {
+        "year": 2012,
+        "count": 17
+      },
+      {
+        "year": 2013,
+        "count": 18
+      },
+      {
+        "year": 2014,
+        "count": 10
+      },
+      {
+        "year": 2015,
+        "count": 7
+      },
+      {
+        "year": 2016,
+        "count": 39
+      },
+      {
+        "year": 2017,
+        "count": 7
+      },
+      {
+        "year": 2018,
+        "count": 11
+      },
+      {
+        "year": 2019,
+        "count": 11
+      },
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2021,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "18V661000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2014 Honda Insight and Acura TSX and TSX Wagon, 2014-2015 Honda Crosstour and Pilot vehicles nationwide, as well as certain 2014 Honda FCX Clarity and Fit EV vehicles in Florida, Hawaii, Puerto Rico, Texas, Alabama, Georgia, Louisiana, Mississipp",
+        "report_date": "27/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V268000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2003-2012 Honda Accord and Pilot, 2010 Accord Crosstour, 2001-2011 Civic, 2002-2011 CR-V, 2003-2004, 2006-2008 and 2011 Element, 2007 and 2009-2013 Fit, 2010-2012 Insight, 2002-2004 Odyssey, and 2012 Ridgeline vehicles.  The front passenger air b",
+        "report_date": "26/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V502000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2014 TSX Sport Wagon, 2010-2013 ZDX, 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic and Civic Hybrid, 2008-2010 Civic GX NGV, 2012-2015 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2014 Fit EV, 2010-201",
+        "report_date": "27/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V378000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2013 TSX Sport Wagon, and 2010-2012 ZDX and 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic, Civic Hybrid and Civic NGV, 2012-2014 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2010-2013 Insight, and 2009",
+        "report_date": "16/05/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V545000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2008-2012 Accord, 2010-2012 Accord Crosstour, 2006-2011 Civic, 2007-2011 CR-V, 2009-2012 Fit and Pilot, 2010-2012 Insight, and 2009-2012 Acura TSX vehicles that received replacement passenger frontal air bag inflators.  One dealership may have in",
+        "report_date": "31/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V030000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2012 Acura TSX, 2011-2012 Acura TSX Wagon, 2010-2012 Acura ZDX, 2008-2012 Honda Accord, 2010-2012 Honda Accord Crosstour and Honda Insight, 2009-2012 Honda Fit, 2009-2012 Pilot, 2007-2011 Honda CR-V, 2012 Honda FCX Clarity and 2006-2011 Hond",
+        "report_date": "10/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V042000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2010-2013 Acura TSX, ZDX, Honda Accord Crosstour, Fit, Insight and Pilot vehicles, 2011-13 Acura TSX Sportswagon, 2010-2012 Honda Accord,, 2010-2011 Honda Civic, Civic NGV, Civic Hybrid and CR-V vehicles and 2013 Honda FCX Clarity and Fit EV vehi",
+        "report_date": "09/01/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V346000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2009-2011 Acura TSX, 2011 TSX Wagon, 2010-2011 Acura ZDX, 2008-2011 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic, Civic Hybrid, and Civic GX, 2007-2011 CR-V, 2010-2011 FCX Clarity and Insight, and 2009-2011 Fit, and Pilot ",
+        "report_date": "24/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V176000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "HONDA IS RECALLING CERTAIN MODEL YEAR 2011 HONDA CIVIC VEHICLES.  TO PREVENT FUEL FROM LEAKING OUT OF A VEHICLE'S FUEL TANK INTO THE EVAPORATIVE EMISSIONS CANISTER IN THE EVENT A ROLL-OVER INCIDENT OCCURS, THE FUEL PUMP MODULE IS EQUIPPED WITH A ROLL OVER VALVE (ROV).  DUE TO IMPROPER ULTRASONIC WEL",
+        "report_date": "15/03/2011",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:52:54.975Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

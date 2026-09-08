@@ -1,0 +1,70 @@
+{
+  "slug": "2010-jeep-cherokee",
+  "year": 2010,
+  "make": "Jeep",
+  "model": "Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": [
+      "GRAND CHEROKEE"
+    ]
+  },
+  "failures": {
+    "total_complaints": 0,
+    "top_failure_components": [],
+    "severity": {
+      "crashes": 0,
+      "fires": 0,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": []
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "13V175000",
+        "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2005-2010 Jeep Grand Cherokee vehicles manufactured February 11, 2004, through March 9, 2010; and 2006-2010 Jeep Commander vehicles manufactured January 31, 2005, through March 10, 2010.  A transfer case electrical failure may result in a",
+        "report_date": "07/05/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V200000",
+        "component": "ELECTRICAL SYSTEM:IGNITION:MODULE",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2010 CHRYSLER 300, DODGE CHALLENGER, CHARGER, JEEP COMMANDER, GRAND CHEROKEE AND DODGE RAM VEHICLES.  THESE VEHICLES MAY HAVE BEEN BUILT WITH A WIRELESS IGNITION NODE (WIN) MODULE EXHIBITING A BINDING CONDITION OF THE SOLENOID LATCH.",
+        "report_date": "11/05/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V454000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2010 JEEP GRAND CHEROKEE PASSENGER VEHICLES MANUFACTURED FROM OCTOBER 22 THROUGH NOVEMBER 12, 2009.  THE PASSENGER SIDE AIRBAG MAY NOT PROPERLY DEPLOY THROUGH THE INSTRUMENT PANEL TEAR SEAM.",
+        "report_date": "25/11/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V085000",
+        "component": "EQUIPMENT",
+        "summary": "CHRYSLER IS RECALLING MODEL YEAR 2010 JEEP COMMANDER AND GRAND CHEROKEE VEHICLES.  THEY MAY HAVE BEEN BUILT WITH AN IMPROPERLY MANUFACTURED REAR TRACK BAR.",
+        "report_date": "05/03/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V009000",
+        "component": "SERVICE BRAKES, HYDRAULIC",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2010 CHRYSLER SEBRING; DODGE AVENGER AND NITRO; JEEP LIBERTY, COMMANDER AND GRAND CHEROKEE; AND MODEL YEAR 2009-2010 DODGE RAM TRUCK.  THESE VEHICLES MAY HAVE BEEN BUILT WITH AN IMPROPERLY FORMED OR MISSING BRAKE BOOSTER INPUT ROD RETAINING CLIP.",
+        "report_date": "11/01/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:51:42.855Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

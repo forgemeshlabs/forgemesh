@@ -1,0 +1,168 @@
+{
+  "slug": "2013-chevrolet-traverse",
+  "year": 2013,
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 162,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 53,
+        "share_pct": 32.7,
+        "excerpts": [
+          "Fuse box",
+          "Service Traction Control, Traction Control Off/On/Off, Service All Wheel Drive display on dash. Check Engine Light on at times, When starting vehicle Service All Wheel Drive displays immediately. Code",
+          "Rain Water is getting into the door connectors and caused some pins on passenger side to corrode. All audio in vehicle has stopped including turn signals, pack up sensor audio, and radio ect. GM/Chevy"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 45,
+        "share_pct": 27.8,
+        "excerpts": [
+          "Vehicle dies while driving in traffic. Has done this since I bought it. Very unsafe. I have had my car since march 2022. While driving it says engine power reduced, traction control, stabli track, and",
+          "It happened several times already and couple of times was so dangerous, I had 4 kids in my car. When I drive from Salem, OR to Portland, OR, in the middle of a highway, my car suddenly doesn't drive. ",
+          "I was parking in front of a restaurant- my foot was on the brake and as I came to a stop the engine  revved up and the car surged  forwarded about 5 feet - The car pushed a pole and blew out the front"
+        ]
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "complaints": 43,
+        "share_pct": 26.5,
+        "excerpts": [
+          "I HAVE BEEN HAVING PROBLEMS WITH MY 2013 CHEVY TRAVERSE THE TRACTION CONTROL LIGHT/STABILITRAX COMES ON, WHICH MAKES MY CHECK ENGINE LIGHT COME ON, WHICH THEN CAUSES MY ENGINE TO POWER DOWN, I WILL TH",
+          "WHILE DRIVING THE CAR ON THE FREEWAY WITH MY KIDS DRIVING NORMAL WHEN THE STABILITRAK HAPPENED, AND THE CAR WENT FROM 60 MILES PER HOUR TO 20 MILE PER HOUR ON THE FREEWAY ALMOST CAUSING A BAD ACCIDENT",
+          "DRIVING AND THE TRANSMISSION OVERHEATS ON LONG CAR RIDES EVEN THOUGH THE FLUIDS ARE ALL FINE  THE TRACTION CONTROL CODE COMES ON AND I LOSE POWER TO THE VEHICLE AFTER ABOUT 20 MINUTES"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 28,
+        "share_pct": 17.3,
+        "excerpts": [
+          "Service Traction Control, Traction Control Off/On/Off, Service All Wheel Drive display on dash. Check Engine Light on at times, When starting vehicle Service All Wheel Drive displays immediately. Code",
+          "The contact owns a 2013 Chevrolet Traverse. The contact stated while driving 25-35 MPH, the vehicle jolted and shuddered upon depressing the accelerator pedal. There was no warning light illuminated. ",
+          "the breaks grind and took it to a shop they said it was my anit break locked up when my car comes to a stop it shakes and my tacation control warning comes on"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 27,
+        "share_pct": 16.7,
+        "excerpts": [
+          "Service Air Bag light is on and won’t go off. Car was never in an accident or anything done for this light to be on so I’m a bit confused. Car has been inspected and looked over only issue is the serv",
+          "The contact owns a 2013 Chevrolet Traverse. The contact stated while she has a passenger with her, she stated her passenger air bag light goes on and off but most of the times states the airbag is off",
+          "The \"Service Airbag\" light and notification comes up on the dash. This happened in the past as this vehicle was part of a recall NHTSA 14V118. The car was service for that recall already back on 3-18-"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 2,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 4
+      },
+      {
+        "year": 2014,
+        "count": 15
+      },
+      {
+        "year": 2015,
+        "count": 15
+      },
+      {
+        "year": 2016,
+        "count": 12
+      },
+      {
+        "year": 2017,
+        "count": 18
+      },
+      {
+        "year": 2018,
+        "count": 22
+      },
+      {
+        "year": 2019,
+        "count": 26
+      },
+      {
+        "year": 2020,
+        "count": 20
+      },
+      {
+        "year": 2021,
+        "count": 12
+      },
+      {
+        "year": 2022,
+        "count": 9
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 1
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "14V266000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors is recalling certain model year 2009-2014 Buick Enclave vehicles manufactured April 14, 2008, through May 14, 2014, Chevrolet Traverse vehicles manufactured June 6, 2008, through May 14, 2014, and GMC Acadia vehicles manufactured April 9, 2008, through May 14, 2014, and 2009-2010 Satu",
+        "report_date": "20/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V118000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2008-2013 Buick Enclave and GMC Acadia and 2009-2013 Chevrolet Traverse and 2008-2010 Saturn Outlook vehicles.  In the affected vehicles, increased resistance in the driver and passenger seat mounted side impact air bag (SIAB) wiring harnesses ",
+        "report_date": "17/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V782000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors, LLC (GM) is recalling certain 2008-2017 Buick Enclave and 2013-2017 Chevrolet Traverse vehicles.  The driver's air bag inflator may explode during deployment, due to a manufacturing defect.",
+        "report_date": "07/10/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V246000",
+        "component": "AIR BAGS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2015, 2017 Buick Enclave, 2010-2019 Chevrolet Traverse, and 2011-2016 GMC Acadia vehicles.  The side curtain air bags may not be properly attached.",
+        "report_date": "08/04/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:36.076Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,168 @@
+{
+  "slug": "2010-ford-f-150",
+  "year": 2010,
+  "make": "Ford",
+  "model": "F-150",
+  "matched_as": {
+    "complaints": [
+      "F-150 EXTENDED CAB",
+      "F-150 SUPERCAB",
+      "F-150 REGULAR CAB"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 2534,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 500,
+        "share_pct": 19.7,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2010 Ford F-150. It was discovered that there was a mileage discrepancy. The vehicle was a private sale. At the time of purchase, the vehicle mileage was 154,80",
+          "Odometer Fraud. The contact purchased a 2010 Ford F-150. It was discovered that there was a mileage discrepancy. The vehicle was a private sale from Facebook Marketplace. At the time of purchase, the ",
+          "My truck won't shift into 3rd gear. It hesitates when idling. When you accelerate it shudders. After a certain rbm it goes."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 363,
+        "share_pct": 14.3,
+        "excerpts": [
+          "The truck on multiple occasions shifts into lower gear unexpectedly.",
+          "My truck won't shift into 3rd gear. It hesitates when idling. When you accelerate it shudders. After a certain rbm it goes.",
+          "engine shout off while in travel. heavy traffic ,crazy driver's. no warning . nothing filed ... tow truck returned truck to home. no light's or warning. repair by owner. still incomplete."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 322,
+        "share_pct": 12.7,
+        "excerpts": [
+          "My truck won't shift into 3rd gear. It hesitates when idling. When you accelerate it shudders. After a certain rbm it goes.",
+          "engine shout off while in travel. heavy traffic ,crazy driver's. no warning . nothing filed ... tow truck returned truck to home. no light's or warning. repair by owner. still incomplete.",
+          "2010 f150 Rear heated window exploded when heat was turned on for window had to replace out of my own pocket also exhaust manifold bolt is gone exhaust leak truck only has 93343miles  what happened to"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 313,
+        "share_pct": 12.4,
+        "excerpts": [
+          "While driving on interstate with defog operating, I heard a loud pop and one of the rear window panels had shattered. Apparently this is a common issue, yet Ford has not issued a recall.",
+          "when i turned on the rear defrost within seconds the glass shattered                     please note the incident happened on 11.15.2021 the computer keeps putting todays date",
+          "VEHICLE WAS PARKED IN MY DRIVEWAY - I TURNED IT ON TO WARM UP AND TURNED ON THE REAR DEFROSTER.  WITHIN A FEW MINS, THE REAR WINDOW SHATTERED AND THERE IS A BURN MARK AND MELTING OF THE TRIM IN THE BO"
+        ]
+      },
+      {
+        "component": "VISIBILITY",
+        "complaints": 288,
+        "share_pct": 11.4,
+        "excerpts": [
+          "The contact owns a 2010 Ford F-150. The contact stated that while driving at an undisclosed speed, there was an abnormal sound coming from the rear of the vehicle. After a visual inspection of the ext",
+          "The contact owns a 2010 Ford F-150. The contact stated two minutes after starting the vehicle and activating the defroster, there was an abnormally loud sound. The contact turned around and noticed th",
+          "TL* THE CONTACT OWNS A 2010 FORD F-150. WHILE DRIVING 50 MPH, THE CONTACT ATTEMPTED TO CLOSE THE MOON ROOF; HOWEVER, IT BECAME STUCK AND WOULD NOT CLOSE. THE CONTACT HEARD AN ABNORMAL POPPING SOUND CO"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 69,
+      "fires": 105,
+      "injuries": 84,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1917,
+        "count": 3
+      },
+      {
+        "year": 2009,
+        "count": 15
+      },
+      {
+        "year": 2010,
+        "count": 235
+      },
+      {
+        "year": 2011,
+        "count": 204
+      },
+      {
+        "year": 2012,
+        "count": 152
+      },
+      {
+        "year": 2013,
+        "count": 244
+      },
+      {
+        "year": 2014,
+        "count": 306
+      },
+      {
+        "year": 2015,
+        "count": 282
+      },
+      {
+        "year": 2016,
+        "count": 239
+      },
+      {
+        "year": 2017,
+        "count": 185
+      },
+      {
+        "year": 2018,
+        "count": 147
+      },
+      {
+        "year": 2019,
+        "count": 210
+      },
+      {
+        "year": 2020,
+        "count": 69
+      },
+      {
+        "year": 2021,
+        "count": 69
+      },
+      {
+        "year": 2022,
+        "count": 33
+      },
+      {
+        "year": 2023,
+        "count": 39
+      },
+      {
+        "year": 2024,
+        "count": 33
+      },
+      {
+        "year": 2025,
+        "count": 57
+      },
+      {
+        "year": 2026,
+        "count": 12
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "11V049000",
+        "component": "STRUCTURE:BODY:DOOR",
+        "summary": "FORD IS RECALLING CERTAIN MODEL YEAR 2009 AND 2010 F-150 VEHICLES MANUFACTURED FROM JANUARY 18, 2008, THROUGH NOVEMBER 30, 2009.  THE INTERIOR DOOR HANDLE HOUSING EMBOSSMENT RETAINING THE INTERIOR DOOR HANDLE SPRING MAY FRACTURE DURING NORMAL USAGE RESULTING IN INSUFFICIENT SPRING FORCE TO RETURN TH",
+        "report_date": "01/02/2011",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:50:51.569Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

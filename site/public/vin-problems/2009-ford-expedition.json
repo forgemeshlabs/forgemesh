@@ -1,0 +1,148 @@
+{
+  "slug": "2009-ford-expedition",
+  "year": 2009,
+  "make": "Ford",
+  "model": "Expedition",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 28,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 7,
+        "share_pct": 25,
+        "excerpts": [
+          "TAMARA RECALL  I WAS RECENTLY IN AN ACCIDENT WHERE MY VEHICLE WAS TOTALED! I WAS TRAVELING AT APPROXIMATELY 67 MPH AND HIT SOMETHING AT A DEAD STOP. NO AIRBAGS DEPLOYED.",
+          "PAINT NOT ADHERING TO REAR TAILGATE. DOOR APPEARS TO BE ALUMINUM AND NOT PREPARED  PROPERLY.  FAULTY WORKMANSHIP BY FORD MOTOR COMPANY. THERE NEEDS TO CLASS ACTION TAKEN AGAINST FORD.",
+          "TL* THE CONTACT OWNS A 2009 FORD EXPEDITION. THE CONTACT STATED THAT THE HOOD AND THE REAR LIFTGATE ON THE VEHICLE BEGAN TO CORRODE. THE CONTACT STATED THAT THE ALUMINUM CORRODED AND THE PAINT STARTED"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 5,
+        "share_pct": 17.9,
+        "excerpts": [
+          "AIR CONDITIONER AUTO CLIMATE CONTROL.FRONT BLOWER PERIODICALLY STOPS BLOWING.MAY NOT TURN ON WHEN VEHICLE STARTED OR STOP WHILE VEHICLE HAS BEEN RUNNING, NOTHING SPECIFIC TO RECREATE ISSUE.REAR BLOWER",
+          "THE BRAKE SENSOR HAS MALFUNCTIONED AND I AM NOT ABLE TO TAKE THE VEHICLE OUT OF PARK.  IF I DEPRESSED THE BRAKE PEDAL MULTIPLE TIMES, IT WILL FINALLY SENSE THE BRAKES AND LET ME DRIVE.  ALSO, SOMETIME",
+          "2009 FORD EXPEDITION. CONSUMER REPORTS PROBLEM WITH  DASH INSTRUMENT CLUSTER *TGW  THE CONSUMER STATED DURING DAY LIGHT HOURS, HE WAS UNABLE TO READ ANY OF THE GAUGES SUCH AS THE SPEEDOMETER, GAS, OIL"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 4,
+        "share_pct": 14.3,
+        "excerpts": [
+          "The drive shaft is bad. My expedition is shaking very bad at high speeds it shakes the rear view mirror. I took it back to the dealership where I got it from 3 months after I got it because they thoug",
+          "WHILE IAM  DRIVING MY 2009 EXPEDITION ON A HIGHWAY ITS  GOING TO A  LIMP MODE MEANS VECHLE AUTOMATICITY LOSE POWER AND GO DOWN TO 20 MILES PER HOUR. 18 WHEELER ALMOST REAR END ME OTHER DAY . THIS A SA",
+          "REAR AND FRONT DIFFERENTIAL LEAKS CAUSED EXPENSIVE FIXES. FUEL ISSUE IS THAT THE SENSOR DOESN'T WORK CORRECTLY IN VERY COLD WEATHER AND CONSTANTLY SHOWS ZERO MILES TO EMPTY ON INFORMATION PANEL. CAUSE"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 4,
+        "share_pct": 14.3,
+        "excerpts": [
+          "THE ABS LIGHT STAYS ON AND THE VEHICLE WOBBLES WHEN STOPPING. THE BRAKES LOOK FINE AND THE ROTORS APPEAR TO BE GOOD.  *TR",
+          "THE BRAKE SENSOR HAS MALFUNCTIONED AND I AM NOT ABLE TO TAKE THE VEHICLE OUT OF PARK.  IF I DEPRESSED THE BRAKE PEDAL MULTIPLE TIMES, IT WILL FINALLY SENSE THE BRAKES AND LET ME DRIVE.  ALSO, SOMETIME",
+          "THE HYDRALIC CONTROLLER WENT OUT AFTER GETTING THE BRAKES REPAIRED BY THE DEALER. THEIR WAS NO WARNING THAT THE PUMP HAD GONE OUT. THIS ALLOWED THE BRAKES TO FAIL MAKING THE CAR A HAZARD ON THE ROAD. "
+        ]
+      },
+      {
+        "component": "VISIBILITY",
+        "complaints": 4,
+        "share_pct": 14.3,
+        "excerpts": [
+          "2009 FORD EXPEDITION.  CONSUMER WRITES IN REGARDS TO MOON ROOF FAILURE.  *SMD  THE CONSUMER STATED WHEN HE ENTERED THE VEHICLE, HE DISCOVERED THE MOON ROOF WAS LEAKING. THE MOON ROOF WOULD NOT FULLY O",
+          "LIFT GATE WINDOW EXPLODED AFTER SHUTTING THE PASSENGER SIDE DOOR.. VEHICLE WAS IN A GARAGE WITH GARAGE DOOR OPEN.  *TR",
+          "BACK LIFT GATE WINDOW EXPLODED AFTER SHUTTING THE DRIVERS SIDE DOOR.  VEHICLE WAS IN GARAGE WITH THE GARAGE DOOR OPEN.   THIS IS THE SECOND TIME THIS HAS HAPPENED IN TWO MONTHS TIME. *TR"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 0,
+      "injuries": 2,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2008,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 3
+      },
+      {
+        "year": 2010,
+        "count": 2
+      },
+      {
+        "year": 2011,
+        "count": 3
+      },
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 2
+      },
+      {
+        "year": 2014,
+        "count": 4
+      },
+      {
+        "year": 2015,
+        "count": 3
+      },
+      {
+        "year": 2016,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 2
+      },
+      {
+        "year": 2019,
+        "count": 2
+      },
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "09V232000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "FORD IS RECALLING 1,357 MY 2009 EXPEDITION AND NAVIGATOR VEHICLES FOR FAILING TO COMPLY WITH THE FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 108, \"LAMPS, REFLECTIVE DEVICES, AND ASSOCIATED EQUIPMENT.\"  THE BRAKE STOP LAMP SWITCH MAY BE IMPROPERLY ADJUSTED.  THIS MAY RESULT IN A DELAY IN BRAKE STOPLAMP",
+        "report_date": "24/06/2009",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:50:26.937Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "2020-subaru-outback",
+  "year": 2020,
+  "make": "Subaru",
+  "model": "Outback",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 896,
+    "top_failure_components": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 313,
+        "share_pct": 34.9,
+        "excerpts": [
+          "I am on my third windshield in les than a year. The tiniest pebble will crack the windshield, or sudden changes to weather has now caused a stress crack. Seems to be poor weight distribution on the de",
+          "Windshield cracked from a rock chip.  Within 1 day, the crack had expanded to 12 inches across the windshield.",
+          "Problem component: exterior mirror on driver side It was raining, I was driving, I heard what sounded like a loud explosion by my driver side window. After the initial shock,  I thought a tire had blo"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 258,
+        "share_pct": 28.8,
+        "excerpts": [
+          "In the first 2 weeks after financing vehicle it started having passenger window issues when it rained it caused window to not wat to go up or would try coming down when trying to let it up when it rai",
+          "The contact owns a 2020 Subaru Outback. The contact stated that while driving 65 MPH on the highway, the contact was alerted by the message “Eyesight Technology Failure”, before the battery shut down,",
+          "Immediately stop every single traffic light"
+        ]
+      },
+      {
+        "component": "VISIBILITY",
+        "complaints": 70,
+        "share_pct": 7.8,
+        "excerpts": [
+          "The contact owns a 2020 Subaru Outback. The contact stated that the front passenger’s side mirror had started to detach from the vehicle without an impact to the vehicle, and the mirror had become ino",
+          "The contact owns a 2020 Subaru Outback. The contact stated while the vehicle was parked in the garage, the contact became aware that there was a 12-inch-long crack on the windshield starting from the ",
+          "Rearview mirror fell off windshield with very little use.  The mirror broke off a piece of the windshield, causing damage and requiring complete replacement of the windshield."
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 49,
+        "share_pct": 5.5,
+        "excerpts": [
+          "I was parking my car slowly until it suddenly accelerated. I hit a wall and car got totaled.",
+          "Gas cap was not secured overnight.  The next day every ADAS function both safety and convenience was disabled and their lights were on. Users guide said car should recover after a few miles of driving",
+          "I was driving to a medical appointment in Ann Arbor Mi, and was in the area where [XXX] has a few big turns in the road .... like at ... [XXX]  .All of he sudden the car started to accelerate a little"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 48,
+        "share_pct": 5.4,
+        "excerpts": [
+          "The contact owns a 2020 Subaru Outback. The contact stated that on various occasions upon bringing the vehicle to a stop or upon acceleration the vehicle had experienced a total loss of automotive pow",
+          "The warning lights on our 2020 Subaru Outback have lit intermittently for the past 2 years. When bringing the vehicle into the dealer for service and oil changes, this was reported. Recently the TPMS ",
+          "What component or system failed or malfunctioned, and is it available for inspection upon request? - Car fire, originating under the hood.  Unknown if vehicle is available for inspection. Last reporte"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 19,
+      "fires": 7,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 22
+      },
+      {
+        "year": 2020,
+        "count": 284
+      },
+      {
+        "year": 2021,
+        "count": 280
+      },
+      {
+        "year": 2022,
+        "count": 152
+      },
+      {
+        "year": 2023,
+        "count": 64
+      },
+      {
+        "year": 2024,
+        "count": 57
+      },
+      {
+        "year": 2025,
+        "count": 24
+      },
+      {
+        "year": 2026,
+        "count": 12
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "20V766000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2020 Legacy and Outback vehicles equipped with \"high\" grade and \"mid\" grade multimedia navigation.  The August 2020 over-the-air software update may have timed out without completing the installation, corrupting the data, and causing the rearview",
+        "report_date": "10/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V955000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2019-2020 Ascent, 2020 Legacy and Outback vehicles.  A programming error in the Transmission Control Unit (TCU) may allow the clutch to engage before the drive chain is completely clamped.",
+        "report_date": "09/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V587000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2019-2020 Ascent, 2018 Forester, 2018-2020 Impreza, Legacy, Outback, 2018-2019 BRZ, WRX, and Toyota 86 vehicles.  The low-pressure fuel pump inside the fuel tank may fail.",
+        "report_date": "29/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V664000",
+        "component": "SERVICE BRAKES, HYDRAULIC:PEDALS AND LINKAGES",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2020 Outback and Legacy vehicles.  The brake pedal mounting bracket may have a missing or insufficiently tightened bolt.",
+        "report_date": "18/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V485000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2020-2021 Outback and Legacy vehicles.  A programming error in the Transmission Control Unit (TCU) may allow the clutch to engage before the drive chain is completely clamped.",
+        "report_date": "08/07/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V227000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2020-2022 Outback and Legacy vehicles.  A capacitor in the sensors for the Occupant Detection System (ODS) may crack and short circuit, which can prevent the front passenger air bag from deploying in a crash.",
+        "report_date": "22/03/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:42.384Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

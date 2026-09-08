@@ -1,0 +1,268 @@
+{
+  "slug": "2010-toyota-rav4",
+  "year": 2010,
+  "make": "Toyota",
+  "model": "RAV4",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 400,
+    "top_failure_components": [
+      {
+        "component": "SUSPENSION",
+        "complaints": 101,
+        "share_pct": 25.3,
+        "excerpts": [
+          "The contact owns a 2010 Toyota Rav4. The contact stated that the vehicle was repaired under NHTSA Campaign Number: 13V383000 (Suspension) in 2015. The contact stated that in 2015 while driving at an u",
+          "Engine oil is burning with out discharging from the engine.  Can find no leak anywhere in the engine compartment.  Constantly adding oil to the car as the oil indicator isn’t working either. The engin",
+          "NHTSa CAMPAIGN ID 16v596000  AUG 12, 2016  Recalls supercedes 13V-383  vehicles inspected but did not have both arms replaced. Vehicles need to have both arms replaced.  Recall done on vehicle (RAV4 2"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 83,
+        "share_pct": 20.8,
+        "excerpts": [
+          "Steering becomes very hard to control with no slack and in the wheel and occasionally it feels like you hit ice and sliding when you change lanes, happens on dry paved road without warning. Also when ",
+          "On August 10 2022 I was pulling slowly into a parking spot with foot lightly on brake to control forward motion car attempted to surge /accelerate .  I stepped firmly on brake and since car was nearly",
+          "I WAS ON THE FREEWAY AND ENTERING A FREEWAY RAMP TO ANOTHER FREEWAY IN A TURN AND I LET MY FOOT OFF THE GAS AND THE THROTTLE STUCK AND ACTUALLY MY CAR BEGAN TO SPEED UP ON ITS OWN!   MY FOOT WAS NOT T"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 38,
+        "share_pct": 9.5,
+        "excerpts": [
+          "I was about to accelerate on a main avenue, made a clunking sound and came to a halt. Couldn't pull over safely. Investigated by mechanic, said the Transmission exploded, and the differential gears br",
+          "Transmission vavle body issue and not safe to drive",
+          "The contact owns a 2010 Toyota RAV4. The contact stated that while driving at an undisclosed speed, the vehicle made abnormal sounds. The vehicle was taken to the dealer, but the dealer could not dupl"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 34,
+        "share_pct": 8.5,
+        "excerpts": [
+          "The contact owns a 2010 Toyota RAV4. The contact stated that while driving at an undisclosed speed and approaching a stop light, with the brake pedal depressed to the floorboard the vehicle failed to ",
+          "TL* THE CONTACT OWNS A 2010 TOYOTA RAV-4. THE CONTACT STATED WHILE DRIVING AT 40 MPH AND APPROACHING AN EXIT RAMP OFF THE HIGHWAY, THE CONTACT STATED THEY WERE DEPRESSING ON THE BRAKE PEDAL BUT THE VE",
+          "I WAS BACKING UP, TURNING AROUND IN A DRIVEWAY. WHEN I ATTEMPTED TO STOP, SOMETHING INTERFERED WITH MY ABILITY TO DEPRESS THE BRAKE PEDAL, RESULTING IN A LOW-SPEED (LESS THAN 2 MPH) COLLISION WITH A S"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 28,
+        "share_pct": 7,
+        "excerpts": [
+          "Impact on Right front end at 60 mph and air bags did not deploy",
+          "TOYOTA FOUND OCCUPANT ECU NEEDED REPLACEMENT INTERNAL FAILURE. SIMPLY THE SEATBELT LIGHT AND AIRBAG WARNING LIGHTS CAME ON. . AIR BAG SYSTEM AUTOMATICALLY SHUTS OFF AND IS NOT PROTECTING PASSENGER IN ",
+          "SIDE CURTAIN AIRBAGS SPONTANEOUSLY DEPLOYED WHILE VEHICLE WAS BEING BACKED OUT OF A MECHANIC'S GARAGE AFTER ROUTINE BRAKE MAINTENANCE WAS PERFORMED. THERE WAS NO IMPACT PRIOR TO THE DEPLOYMENT. THANKF"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 57,
+      "fires": 3,
+      "injuries": 27,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 4
+      },
+      {
+        "year": 2009,
+        "count": 8
+      },
+      {
+        "year": 2010,
+        "count": 87
+      },
+      {
+        "year": 2011,
+        "count": 31
+      },
+      {
+        "year": 2012,
+        "count": 25
+      },
+      {
+        "year": 2013,
+        "count": 23
+      },
+      {
+        "year": 2014,
+        "count": 43
+      },
+      {
+        "year": 2015,
+        "count": 41
+      },
+      {
+        "year": 2016,
+        "count": 50
+      },
+      {
+        "year": 2017,
+        "count": 27
+      },
+      {
+        "year": 2018,
+        "count": 18
+      },
+      {
+        "year": 2019,
+        "count": 14
+      },
+      {
+        "year": 2020,
+        "count": 5
+      },
+      {
+        "year": 2021,
+        "count": 9
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 14,
+    "recalls": [
+      {
+        "campaign_number": "16V596000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2006-2011 Toyota RAV4 vehicles manufactured October 31, 2005, to September 7, 2010, and 2010 Lexus HS250h vehicles manufactured July 6, 2009, to August 26, 2010.  The affected vehicles have rear suspension arms (rear t",
+        "report_date": "12/08/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V743000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2011 Prius and Corolla, 2009-2011 Venza, 2006-2010 Avalon, 2007-2010 FJ Cruiser, 2005-2011 Sienna and Sequoia, 2006-2011 Tacoma 4x2 and 4x4, Camry, Highlander, Tundra 4x2 and 4x4, and 2007-2011 Rav4 and 4Runner.  The affec",
+        "report_date": "19/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V689000",
+        "component": "VISIBILITY:POWER WINDOW DEVICES AND CONTROLS",
+        "summary": "Toyota Motor Company (Toyota) is recalling certain model year 2009-2011 Tundra, Sequoia, Corolla, Corolla Matrix and Scion xB, 2008-2011 Highlander and Highlander Hybrid, 2007 Camry and Camry Hybrid, 2009 Camry and Camry Hybrid, 2006-2011 RAV4, 2006-2010 Yaris, and 2009-2010 Scion xD and Pontiac Vib",
+        "report_date": "22/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V096000",
+        "component": "SEAT BELTS:REAR/OTHER",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2006-2012 RAV4 vehicles manufactured July 28, 2005, to December 19, 2012, and 2012-2014 RAV4 EV vehicles manufactured July 24, 2012, to August 29, 2014.  In the event of a frontal collision, the rear seat belts for the",
+        "report_date": "19/02/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V577000",
+        "component": "VISIBILITY/WIPER",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2009-2012 RAV4 vehicles manufactured October 27, 2008, to December 19, 2012 and 2012-2014 RAV4 EV vehicles manufactured July 24, 2012, to August 29, 2014.  In the affected vehicles, water may drip onto the joint that c",
+        "report_date": "18/09/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V396000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2005-2011 4Runner, Highlander, Sequoia, and Sienna, 2005-2010 Avalon and Tundra, 2006-2008 Camry Solara, 2006-2010 Highlander hybrid, 2006-2011 Rav4 and Tacoma, 2007-2010 FJ Cruiser, 2007-2011 Camry hybrid, 2009-2010 Venza, 2010-2012 Priu",
+        "report_date": "02/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V373000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Toyota is recalling certain model year 2006 through 2011 RAV4 and 2010 Lexus HS250h passenger vehicles manufactured from October 2005 through September 2010.  If the nuts for adjusting the rear wheel alignment are improperly tightened during service, the rear suspension arm (rear tie rod) may develo",
+        "report_date": "02/08/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V383000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Toyota is recalling certain model year 2006 through 2011 RAV4 and 2010 Lexus HS250h passenger vehicles manufactured from October 2005 through September 2010.  If the nuts for adjusting the rear wheel alignment are improperly tightened during service, the rear suspension arm (rear tie rod) may develo",
+        "report_date": "28/08/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V113000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2008 THROUGH 2011 LEXUS LX570, 2003 THROUGH 2009 TOYOTA 4RUNNER, AND 2006 THROUGH 2010 RAV4 VEHICLES.  THE ACCELERATOR PEDAL CAN GET STUCK IN THE WIDE OPEN POSITION DUE TO ITS BEING TRAPPED BY AN UNSECURED OR INCOMPATIBLE DRIVER'S FLOOR MAT.",
+        "report_date": "24/02/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V123000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota is recalling certain model year 2008 and 2010-2013 Toyota Tundra, 2010-2012 Rav4, 2012 Toyota Sequoia, 2010-2011 Toyota Corolla, 2010-2011 Toyota Camry and Camry Hybrid, 2010-2013 Toyota Highlander and Highlander Hybrid, 2010-2013 Toyota FJ Cruiser, 2011 Toyota Land Cruiser, 2010-20",
+        "report_date": "09/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V036000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2011 PASSENGER VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD WITHOUT THE REQUISITE LOAD CARRYING CAPACITY MODIFICATION LABELS.",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V017000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2010 AVALON, MODEL YEAR 2007-2010 CAMRY, MODEL YEAR 2009-2010 COROLLA, COROLLA MATRIX, RAV4, MODEL YEAR 2010 HIGHLANDER, MODEL YEAR 2008-2010 SEQUOIA, AND MODEL YEAR 2007-2010 TUNDRA VEHICLES.  DUE TO THE MANNER IN WHICH THE FRICTION LEVER INTERACTS WITH T",
+        "report_date": "21/01/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V035000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "GULF STATES TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2010 VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD BETWEEN SEPTEMBER 1, 2005 AND JUNE 2, 2008 WITHOUT THE REQUISITE LOAD CARRYING CAPA",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:50:39.979Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

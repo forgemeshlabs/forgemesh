@@ -1,0 +1,168 @@
+{
+  "slug": "2016-chevrolet-traverse",
+  "year": 2016,
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 291,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 163,
+        "share_pct": 56,
+        "excerpts": [
+          "The contact owns a 2016 Chevrolet Traverse. The contact received notification of NHTSA Campaign Number: 23V334000 (Air Bags). The contact stated that four local dealers were contacted. The contact was",
+          "There is an open recall on my 2016  Chevrolet Traverse that I have been trying to get resolved for almost 2 years. I finally opened a case with GM (#{XXX]) back on February 15, 2026 in an effort to es",
+          "The contact owned a 2016 Chevrolet Traverse. The contact received notification of NHTSA Campaign Number: 23V334000 (AIR BAGS) and requested to be removed from the recall distribution list. The local d"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 36,
+        "share_pct": 12.4,
+        "excerpts": [
+          "The vehicle only has 145,xxx miles and I experience a \"shudder\" which could be caused by torque converter issues, often felt at highway speeds (approx. 40-60 mph).",
+          "the transmission lost power and almost caused an accident with the vehicle behind me",
+          "Transmission solenoid. Common. Needs to be reported. Its know as the week link to this vehicle. The manufacturer knows and there are many complaints. This vehicle needs to be recalled. Safety concern "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 31,
+        "share_pct": 10.7,
+        "excerpts": [
+          "The contact owns a 2016 Chevrolet Traverse. The contact stated that the vehicle was retrieved from a dealer after a recall regarding the air bags; however, while driving approximately 25 MPH and depre",
+          "The big problem when I drive is that it is not safe, it jerks when I start to accelerate. I took it to the nearest dealer to have the problem fixed. And they do not want to fix the problem and now I j",
+          "2 issues: 1: Brakes did not stop car nor did the abs braking system kick in causing the car to not stop on full demand! 2 cars slammed on their brakes at a yellow light instead of going thru causing a"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 26,
+        "share_pct": 8.9,
+        "excerpts": [
+          "Front lights started dimming about the middle of April 2025 and now both back lights are out at the same time on June 3rd 2025.The car makes a rough grinding noise as it switches gears.",
+          "I had to replace the timing chain. I had to replace the Torque Converter.  New issues: Interior lights on the dash and radio have been going out while driving. Message center warning has been not work",
+          "While driving on highway, experienced sudden/acute loss of engine power. Depressed acceleration pedal, but no response from engine. No CEL.  Pulled to the shoulder and vehicle couldn't start. Key star"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 24,
+        "share_pct": 8.2,
+        "excerpts": [
+          "Power steering pump in the car had low pressure causing the steering wheel to barely turn or have a hard time turning the wheel. This put me and my family at risk while driving because when making tur",
+          "Rack and pinion steering is failing at 66,000 miles on a 2016 Chevy Traverse. This is low mileage for a vehicle to lose this function and a safety concern should the steering fail at speed and needs t",
+          "Replaced the transmission in 2018, transmission went out again in 2021.  Power steering also had to be replaced in 2021.  The initial transmission repair was covered under warranty but not the subsequ"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 1,
+      "injuries": 15,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2015,
+        "count": 4
+      },
+      {
+        "year": 2016,
+        "count": 15
+      },
+      {
+        "year": 2017,
+        "count": 12
+      },
+      {
+        "year": 2018,
+        "count": 20
+      },
+      {
+        "year": 2019,
+        "count": 22
+      },
+      {
+        "year": 2020,
+        "count": 15
+      },
+      {
+        "year": 2021,
+        "count": 14
+      },
+      {
+        "year": 2022,
+        "count": 10
+      },
+      {
+        "year": 2023,
+        "count": 109
+      },
+      {
+        "year": 2024,
+        "count": 56
+      },
+      {
+        "year": 2025,
+        "count": 10
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "15V609000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016 Chevrolet Traverse, GMC Acadia, and Buick Enclave vehicles manufactured August 18, 2015 to September 24, 2015.  Due to a manufacturing defect, the windshield wiper motor may overheat when used.",
+        "report_date": "29/09/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V833000",
+        "component": "SEATS",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016 Chevrolet Traverse, GMC Acadia, and Buick Enclave vehicles manufactured November 6, 2015, to November 12, 2015.  The affected vehicles have a the third row left lower seat frame that may have welds that are not in the correction location.",
+        "report_date": "11/12/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V782000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors, LLC (GM) is recalling certain 2008-2017 Buick Enclave and 2013-2017 Chevrolet Traverse vehicles.  The driver's air bag inflator may explode during deployment, due to a manufacturing defect.",
+        "report_date": "07/10/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V246000",
+        "component": "AIR BAGS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2015, 2017 Buick Enclave, 2010-2019 Chevrolet Traverse, and 2011-2016 GMC Acadia vehicles.  The side curtain air bags may not be properly attached.",
+        "report_date": "08/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V334000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014-2017 Buick Enclave, Chevrolet Traverse, and GMC Acadia vehicles.  The driver's air bag inflator may explode during deployment, due to a manufacturing defect.",
+        "report_date": "10/05/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:02.353Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

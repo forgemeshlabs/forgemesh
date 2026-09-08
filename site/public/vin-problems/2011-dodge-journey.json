@@ -1,0 +1,176 @@
+{
+  "slug": "2011-dodge-journey",
+  "year": 2011,
+  "make": "Dodge",
+  "model": "Journey",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 169,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 55,
+        "share_pct": 32.5,
+        "excerpts": [
+          "The contact owns a 2011 Dodge Journey. The contact stated that while driving at an undisclosed speed, the brake pedal was depressed and traveled to the floorboard with the ABS warning light illuminate",
+          "BREAK CALIPERS LOCK UP WHEN DRIVING. THEY HAVE BEEN REPLACED AND CONTINUE TO DO THIS",
+          "TL* THE CONTACT OWNS A 2011 DODGE JOURNEY. THE CONTACT STATED WHILE DRIVING AT AN UNDISCLOSED SPEED, THE ABS, BRAKE AND TRACTION CONTROL WARNING LIGHTS WERE ILLUMINATED. THE VEHICLE WAS TAKEN TO COMMU"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 43,
+        "share_pct": 25.4,
+        "excerpts": [
+          "Pressure sensors saying there's an issue with your tire pressure and you have binding in your drive line",
+          "SPEED IS HORRIBLE I DON'T NO WHERE TO START",
+          "THERE ARE MANY MANY AS IN HUGE MULTIPLE COMPLAINTS OF THIS JOURNEY VEHICLE NOT STARTING BECAUSE KEEPING A CHARGE. WE HAVE HAD TO BUY AND HAVE DEALER INSTALL THREE BATTERIES IN THE LAST FOUR YEARS. FOU"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 29,
+        "share_pct": 17.2,
+        "excerpts": [
+          "SPEED IS HORRIBLE I DON'T NO WHERE TO START",
+          "MY CAR HAS ONLY 91000 MILES AND THERE IS A CLICK FROM THE TRANSMISSION AND A WEIRD SLOWING NOISE HAVE NO CLUE WHY DONE ALL THE MAINTENANCE ONE IT",
+          "BOTH CATALYST CONVERTS WENT OUT AT THE SAME TIME AND FAILED MY GA EMISSIONS TEST. THERE IS A PERMANENT CODE. I ONLY HAD THIS SUV A YEAR AND HAVE ALREADY REBUILT THE TRANSMISSION, ALONG WITH CALIBER IS"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 23,
+        "share_pct": 13.6,
+        "excerpts": [
+          "Power steering starts leaking in cold climates  resulting in tightness and difficulty in  steering wheel  . recall code s08",
+          "Stirring wheel fluid hose has burst during cold weather, and will lose control of wheel. My car wasn’t listed in the recall for that said issue for other dodge journey’s. I had it repair ones and now ",
+          "TL* THE CONTACT OWNS A 2011 DODGE JOURNEY. THE CONTACT STATED THAT WHILE DRIVING ABOUT 35 MPH, THE CONTACT SAW SMOKE EMITTING FROM THE HOOD WITHOUT WARNING. THE CONTACT PULLED TO THE SIDE AND ADDED SO"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 20,
+        "share_pct": 11.8,
+        "excerpts": [
+          "The contact owns a 2011 Dodge Journey. The contact stated that the transmission warning light would illuminate while attempted to change gears. The contact took the vehicle to a certified mechanic and",
+          "The contact owns a 2011 Dodge Journey. The contact stated that while driving at an undisclosed speed, the vehicle lost motive power. The vehicle was taken to an independent mechanic and diagnosed with",
+          "Pressure sensors saying there's an issue with your tire pressure and you have binding in your drive line"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 4,
+      "injuries": 10,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 19
+      },
+      {
+        "year": 2012,
+        "count": 22
+      },
+      {
+        "year": 2013,
+        "count": 11
+      },
+      {
+        "year": 2014,
+        "count": 14
+      },
+      {
+        "year": 2015,
+        "count": 19
+      },
+      {
+        "year": 2016,
+        "count": 15
+      },
+      {
+        "year": 2017,
+        "count": 12
+      },
+      {
+        "year": 2018,
+        "count": 19
+      },
+      {
+        "year": 2019,
+        "count": 15
+      },
+      {
+        "year": 2020,
+        "count": 11
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "17V432000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2015 Dodge Journey vehicles.  In the affected vehicles, the driver's frontal air bag may unexpectedly deploy if the air bag wiring harness gets chafed within the steering wheel and short circuits.",
+        "report_date": "07/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V273000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST:HOSE, PIPING, AND CONNECTIONS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2009-2016 Dodge Journey vehicles manufactured July 31, 2007, to November 12, 2016.  After exposure to cold temperatures, the power steering return hose may rupture at engine start-up causing a loss of power steering assist.",
+        "report_date": "06/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V431000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2015 Dodge Journey vehicles manufactured July 19, 2010, to May 26, 2015 and equipped with 2.4L engines.  In the affected vehicles, the engine cover may detach from the engine and contact the exhaust manifold.",
+        "report_date": "07/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V315000",
+        "component": "STEERING:COLUMN",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2011DODGE JOURNEY, JEEP WRANGLER, CHRYSLER 200, CHRYSLER 200 CONVERTIBLE, DODGE AVENGER, DODGE NITRO, JEEP LIBERTY, DODGE CALIBER, JEEP COMPASS, JEEP PATRIOT, DODGE GRAND CARAVAN AND CHRYSLER TOWN & COUNTRY VEHICLES.  SOME OF THESE VEHICLES MAY HAVE BEEN BUIL",
+        "report_date": "08/06/2011",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:55:11.863Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

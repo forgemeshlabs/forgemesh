@@ -1,0 +1,216 @@
+{
+  "slug": "2008-ford-fusion",
+  "year": 2008,
+  "make": "Ford",
+  "model": "Fusion",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1353,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 638,
+        "share_pct": 47.2,
+        "excerpts": [
+          "Takata recall. The contact owns a 2008 Ford Fusion. The contact received notification of NHTSA Campaign Number: 21V158000 (Air Bags) however, the part to do the recall repair was unavailable. The cont",
+          "The contact owned a 2008 Ford Fusion. The contact received notification of NHTSA Campaign Number: 21V158000 (Air Bags) and would like to be removed from the recall distribution list as the vehicle had",
+          "The contact owns a 2008 Ford Fusion. The contact stated that while the car was parked outside in the sun, the passenger’s side dashboard nearby the air bag became deformed. The local dealer was not co"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 556,
+        "share_pct": 41.1,
+        "excerpts": [
+          "I had the Ford brake recall work completed in 2023, but the same brake issue has returned. This appears to be the same HCU problem covered by the recall, and Ford is now refusing to repair it. I am co",
+          "I have been having issues with my 2008 ford fusion. I did research and found that the is a Ford customer satisfaction program( campaign # 21N11) which also goes along with recall number 19S54 and ford",
+          "My brake pedal drops to the floor when braking at times.  Mechanics say that is my ABS module.  I believe this is a very common issue with these vehicles.   This has happened to me several times.  Onl"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 82,
+        "share_pct": 6.1,
+        "excerpts": [
+          "Door handle is stuck/broken.  Door cannot open from the inside or outside.  Passengers are stuck in car.",
+          "I want to file a safety complaint against Ford car company for their vehicle in which I purchased which is a 2008 Ford Fusion SEL for excessive and dangerous rot and rust problem on the frame and susp",
+          "The contact owns a 2008 Ford Fusion. The contact stated that while the car was parked outside in the sun, the passenger’s side dashboard nearby the air bag became deformed. The local dealer was not co"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 74,
+        "share_pct": 5.5,
+        "excerpts": [
+          "The contact owns a 2008 Ford Fusion. The contact stated that while his girlfriend was driving at undisclosed speeds, the vehicle hydroplaned, and the anti-lock brakes engaged and disengaged. The brake",
+          "The contact owns a 2008 Ford Fusion. The contact stated while driving 50 MPH, the brake pedal was depressed and went to the floorboard. The contact was unsure if a warning light was illuminated. The c",
+          "The contact owns a 2008 Ford Fusion. The contact received notification of NHTSA Campaign Number: 19V904000 (Service Brakes, Hydraulic) however, the part to do the recall repair was unavailable. The co"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 47,
+        "share_pct": 3.5,
+        "excerpts": [
+          "The contact owns a 2008 Ford Fusion. The contact stated that there was a squealing sound coming from underneath the dashboard. The vehicle was hard shifting while accelerating or while idling. The che",
+          "Transmission slipping",
+          "1. Currently on My 2nd PCM and 4th set of coils and plugs. I was driving My car a few months ago and it started struggling to stay running and the engine light started flashing and after about 2 minut"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 53,
+      "fires": 6,
+      "injuries": 29,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1015,
+        "count": 2
+      },
+      {
+        "year": 1901,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 2
+      },
+      {
+        "year": 2008,
+        "count": 7
+      },
+      {
+        "year": 2009,
+        "count": 7
+      },
+      {
+        "year": 2010,
+        "count": 20
+      },
+      {
+        "year": 2011,
+        "count": 23
+      },
+      {
+        "year": 2012,
+        "count": 31
+      },
+      {
+        "year": 2013,
+        "count": 61
+      },
+      {
+        "year": 2014,
+        "count": 86
+      },
+      {
+        "year": 2015,
+        "count": 64
+      },
+      {
+        "year": 2016,
+        "count": 409
+      },
+      {
+        "year": 2017,
+        "count": 269
+      },
+      {
+        "year": 2018,
+        "count": 172
+      },
+      {
+        "year": 2019,
+        "count": 69
+      },
+      {
+        "year": 2020,
+        "count": 64
+      },
+      {
+        "year": 2021,
+        "count": 41
+      },
+      {
+        "year": 2022,
+        "count": 10
+      },
+      {
+        "year": 2023,
+        "count": 7
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 1
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "21V158000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2007-2011 Ranger, 2006-2012 Fusion, Lincoln Zephyr, Lincoln MKZ, 2006-2011 Mercury Milan, 2007-2010 Ford Edge, and Lincoln MKX vehicles.  The driver's side air bag inflator may explode due to propellant degradation occurring after long-term exposure to ",
+        "report_date": "10/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V081000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2005-2014 Mustang, 2004-2011 Ranger, 2009-2011 Mercury Milan, 2006 Ford GT, 2008-2012 Fusion, 2007-2010 Edge and Lincoln MKX, and 2009-2010 Lincoln MKZ vehicles.  These vehicles may be equipped with a driver or passenger frontal air bag inflator used as",
+        "report_date": "16/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V904000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2006-2010 Ford Fusion, Mercury Milan, Lincoln Zephyr and MKZ vehicles.  The valves within the ABS Hydraulic Control Units (HCU) may react with brake fluids containing specific corrosion preventative additives.  This reaction may cause the valves to not ",
+        "report_date": "18/12/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V024000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012 Ford Fusion and Mustang and Lincoln Zephyr and MKZ vehicles originally sold, or ever registered, in Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, Puerto Rico, American Samoa, Guam, the Northern Marian",
+        "report_date": "10/01/2017",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V384000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2007-2011 Ford Ranger vehicles, 2006-2011 Ford Fusion, Mercury Milan and Lincoln Zephyr/MKZ vehicles, 2007-2010 Ford Edge, Lincoln MKX vehicles, 2005-2006 Ford GT vehicles, and 2005-2011 Ford Mustang vehicles originally sold, or ever register",
+        "report_date": "31/05/2016",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14E028000",
+        "component": "EQUIPMENT",
+        "summary": "Ford Motor Company (Ford) is recalling certain all weather driver side accessory floor mats sold for use in model year 2006-2011 Ford Fusion and Mercury Milan, 2006 Lincoln Zephyr, and 2007-2011 Lincoln MKZ vehicles manufactured November 9, 2007, through October 31, 2010.  The affected floor mats ma",
+        "report_date": "29/05/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:46:47.601Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

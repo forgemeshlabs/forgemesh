@@ -1,0 +1,136 @@
+{
+  "slug": "2019-dodge-challenger",
+  "year": 2019,
+  "make": "Dodge",
+  "model": "Challenger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 57,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 16,
+        "share_pct": 28.1,
+        "excerpts": [
+          "the car shot up in RPM would not slow down spinning tires while holding the brake hard. had to go in neutral and kill the motor, when restarted it would continue to do the same thing",
+          "The factory-installed Uconnect infotainment system in my 2019 Dodge Challenger intermittently malfunctions by remaining stuck on the rearview camera display after the vehicle is shifted out of reverse",
+          "When battery was replaced the smart window function stopped working..."
+        ]
+      },
+      {
+        "component": "WHEELS",
+        "complaints": 11,
+        "share_pct": 19.3,
+        "excerpts": [
+          "Unknown",
+          "I had a flat tire while driving to work and was unable to pull over for about a few thousand feet. As the tire went flat I swirled into the grass on a street without a shoulder. The tire snapped off a",
+          "My 2019 Dodge Challenger wheels on the front has been wearing and tearing from the inside causing rubbing on the outside of the wheels. When I drive there is an uneven drive with the wheels wobbly goi"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 8,
+        "share_pct": 14,
+        "excerpts": [
+          "Power steering/rack and pinion.  Yes.  Power steering cuts in and out around corners and sometimes completely locking steering wheel with no control.  When steering wheel locks up it’s you to lose con",
+          "The power steering or steering rack appears to be defective. While turning on a curve, the steering will get stuck in what feels like a knotch, and can be weird to un-stick from that knotch. Can maybe",
+          "the lower control arm and  lower ball  joint broke causing me to hit another vehicle ,plus  had to be towed due to damage , highway patrol called and took a report, was inspected my insurance adjuster"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 7,
+        "share_pct": 12.3,
+        "excerpts": [
+          "the car shot up in RPM would not slow down spinning tires while holding the brake hard. had to go in neutral and kill the motor, when restarted it would continue to do the same thing",
+          "I owned a 2017 Dodge Challenger which had electrical issues and a defective Uconnect radio system. A few months after purchasing the 2019 Dodge Challenger, I experienced electrical issues.  The electr",
+          "Have had several dodge chargers and challengers and oil cooler fails too soon I believe way to expensive to fix so soon in my opinion all it takes is for someone to over torque the oil filter cap duri"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 7,
+        "share_pct": 12.3,
+        "excerpts": [
+          "On my way to work on the highway and my rear differential blew apart sending pieces all over the high way had to get it towed home.",
+          "On my way to work on 9/28/23 my 2019 dodge challenger hellcat Redeye engine just shut off at 65mph. I was in the left lane by the wall on I45 heading northbound. I instantly had a loss of power steeri",
+          "I HAVE A 2019 CHALLENGER R/T WITH THE 6 SPEED MANUAL TRANSMISSION. IT HAS A PROBLEM WHERE IT WILL POP OUT OF FIRST GEAR INTERMITTENTLY AND I HAVE TAKEN IT TO THE DEALER 7 TIMES IN THE 7 MONTHS I HAVE "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 3,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 9
+      },
+      {
+        "year": 2020,
+        "count": 14
+      },
+      {
+        "year": 2021,
+        "count": 8
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "20V191000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2020 Jeep Gladiator and Jeep Cherokee, 2019-2020 Ram 1500 Pickup, Ram 2500 Pickup, Ram 3500 Pickup, Chrysler Pacifica, Dodge Durango, Jeep Grand Cherokee, Jeep Wrangler, and Jeep Renegade and 2019 Dodge Challenger vehicles equipped with 8.4\" or 12\" radio di",
+        "report_date": "10/09/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V203000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Dodge Challenger and Charger and Chrysler 300 vehicles.  The instrument cluster may not properly illuminate driver warnings.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 101, \"Con",
+        "report_date": "14/03/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V758000",
+        "component": "SERVICE BRAKES",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Dodge Challenger and Charger vehicles.  An incompatible front wheel and brake package was installed and may allow the front tire to contact the steering knuckle, causing tire damage.",
+        "report_date": "24/10/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:56.213Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

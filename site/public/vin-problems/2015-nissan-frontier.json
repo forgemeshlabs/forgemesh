@@ -1,0 +1,119 @@
+{
+  "slug": "2015-nissan-frontier",
+  "year": 2015,
+  "make": "Nissan",
+  "model": "Frontier",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 33,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 10,
+        "share_pct": 30.3,
+        "excerpts": [
+          "2015 Nissan Frontier, air bag light came on, replaced clock spring, and no fault found, no change to air bag warning, blinking light still on.",
+          "My daughter was in an accident where she struck another vehicle. She was traveling between 35-40 mph. Her airbag did not deploy. Her face and chest struck the steering wheel. She suffered a concussion",
+          "Air bag light began blinking. I brought it to a nissan dealer for service and that have replaced and charged me for multiple parts in excess of $2,000.00. They stated my car was ready and repaired. Up"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 5,
+        "share_pct": 15.2,
+        "excerpts": [
+          "Dangerous lurching and sometimes with not engage. Other Nissan models have the same problem. The diagnostic code is U0101 bad communication between TCM and Vehicle.",
+          "Engine light came on, and vehicle accelerated, then lost acceleration while revolutions increased.  Diagnosis indicates Bad TCM. I went to 3 shops, and all said that the TCM are going bad, especially ",
+          "TL* THE CONTACT OWNS A 2015 NISSAN FRONTIER. THE CONTACT STATED THAT THERE WAS AN INTERMITTENT FAILURE WITH THE REAR TIRES RUBBER BURNING OUT WHEN ATTEMPTING TO MAKE A STOP, AT A LIGHT, UP AND DOWN A "
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 5,
+        "share_pct": 15.2,
+        "excerpts": [
+          "VEHICLE SHIPPED FROM FACTORY WITH DEFECTIVE BOLT ON TRAILER HITCH (RECEIVER TYPE).  BOLT IS PART OF SYSTEM TO ATTACH THE HITCH TO THE TRUCK FRAME.  DISCOVERED AFTER SEVERAL THOUSAND MILES OF TRAILER T",
+          "DISCOVERED MY 2015 NISSAN FRONTIER EXTENDED CAB MODEL HAS A VERY OBVIOUS OUT OF ALIGNED SITUATION IN THE TRUCK BED.  IT IS OFF ON THE DRIVERS SIDE SIGNIFICANTLY AND EASILY VIEWED WITH THE HUMAN EYE CO",
+          "I SENT A COMPLAINT ONCE. HAVE NOT HEARD BACK FROM YOU YET.     THIS TRUCK WAS PURCHASED ON MARCH 6TH, 2015 AND DELIVERED ON MARCH 8TH, 2015 WITH MFG DEFECTS AND NISSAN REFUSES TO STAND BY THEIR WARRAN"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 3,
+        "share_pct": 9.1,
+        "excerpts": [
+          "Engine light came on, and vehicle accelerated, then lost acceleration while revolutions increased.  Diagnosis indicates Bad TCM. I went to 3 shops, and all said that the TCM are going bad, especially ",
+          "DROVE FOR AN HOUR, PARKED FOR 20 MINS STARTED PROCEEDING SOUTH DRIVE ABOUT 500FT TO MAKE RIGHT TURN WHEN VEHICLE SUDDENLY ACCELERATED OUT OF CONTROL REVING UP SWIRVING OUT IF CONTROL ON THE NORTHBOUND",
+          "TL* THE CONTACT OWNS A 2015 NISSAN FRONTIER. WHEN THE CRUISE CONTROL WAS ACTIVATED AT APPROXIMATELY 50 MPH AND ATTEMPTING TO ACCELERATE, THE VEHICLE INDEPENDENTLY DECELERATED TO LOW SPEEDS. THE VEHICL"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 3,
+        "share_pct": 9.1,
+        "excerpts": [
+          "THE AIR BAG WARNING LIGHT HAS BEEN FLASHING ON MY INSTRUMENT PANEL SINCE SPRING OF 2019. BROUGHT TO A COUPLE DIFFERENT PLACES AND THEY CAN'T CLEAR THE CODE. SAYS NO AIR BAG DETECTED. I HAVEN'T FIXED I",
+          "WHILE OPERATING VEHICLE THE HEADLIGHTS BECOME DIM, AFTER HAVING THE VEHICLE INSPECTED THE HEADLAMP CONNECTOR WAS MELTED AND THE WIRING WAS OVERHEATED. THE HARNESS WAS REPLACED BY A NISSAN DEALER AND I",
+          "CAR WAS PARKED ENGINE RUN FLAMES STARTED TO COME UP BY THE BATTERY SIDE .FOUND OUT THAT THE 2012 -2014 FRONTIERS HAD A RECALL FOR WIRE HARNESS CATCHING FIRE."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 1,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2015,
+        "count": 9
+      },
+      {
+        "year": 2016,
+        "count": 5
+      },
+      {
+        "year": 2017,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 5
+      },
+      {
+        "year": 2019,
+        "count": 2
+      },
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 3
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T19:59:46.639Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

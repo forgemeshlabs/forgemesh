@@ -1,0 +1,140 @@
+{
+  "slug": "2016-gmc-terrain",
+  "year": 2016,
+  "make": "GMC",
+  "model": "Terrain",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 152,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 46,
+        "share_pct": 30.3,
+        "excerpts": [
+          "The timing chain snapped and caused the engine to seize on our 2016 GMC Terrain 2.4L SLC-1 SUV/Truck. Since this has occurred multiple times on the 2.4L engines in this model from 2012 - 2016, we beli",
+          "My 2016 GMC Terrain 2.4L Ecotec first stalled while idling at a red light in Raleigh, NC. I restarted it and it sounded different, so I drove it home. The next morning it would not start. The failure ",
+          "My vehicle started turning off suddenly when stopped and then when starting to move. I replaced my rear seal. A week later, I have oil in my timing and my engine no longer works. I have had it checked"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 46,
+        "share_pct": 30.3,
+        "excerpts": [
+          "Windshield wiper mechanism broke while driving in heavy heavy rain near [XXX] .  Extremely dangerous situation and almost resulted in a crash but I was able to make my way off of the interstate safely",
+          "During heavy rainfall in the mountains at dawn, my windshield wipers suddenly have stopped working. We can manually move the wipers with ease and can hear the motor engaging but both front wipers sudd",
+          "The windshield wipers quit working while driving during a down pour; some piece to the motor broke. This can cause severe injuries and even death due to the fact that it caused me to not be able to se"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 11,
+        "share_pct": 7.2,
+        "excerpts": [
+          "My 2016 GMC Terrain 2.4L Ecotec first stalled while idling at a red light in Raleigh, NC. I restarted it and it sounded different, so I drove it home. The next morning it would not start. The failure ",
+          "On or around August 15th I was in traffic and my 2016 GMC TERRAIN just shut off in the middle off traffic almost causing the car behind me to hit me is the rear. I got it started and then slowed down ",
+          "Code p0700 was indicated at a professional transmission shop. My vehicle started driving different.  It is a scary feeling.  I have a ten year old daughter who I commute to school and safety is the ut"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 10,
+        "share_pct": 6.6,
+        "excerpts": [
+          "Back right tail light filling with water when it rains. Affecting electrical wires and water dripping into back cargo.  No cracks or damage found on tail light.",
+          "The contact owns a 2016 GMC Terrain. The contact received notification of NHTSA Campaign Number: 22V137000 (Exterior Lighting) however, the part to do the recall repair was unavailable. The contact st",
+          "The contact owns a 2016 GMC Terrain. The contact received notification of NHTSA Campaign Number: 22V137000 (Exterior Lighting) however, the part to do the recall repair was not yet available. The cont"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 9,
+        "share_pct": 5.9,
+        "excerpts": [
+          "The contact owns a 2016 GMC Terrain. The contact stated that while driving approximately 20 MPH, a second vehicle crashed into the front passenger side of the vehicle. During the crash, the vehicle su",
+          "consumption of oil!  I got my oil changed January 1, 2025. It is now February 1. I have driven less than 500 miles. I had no oil. I have no Leaks or anything wrong. The car just consumes . I have had ",
+          "The contact owned a 2016 GMC Terrain. The contact stated that while making a right turn, a Dodge Ram truck ran through a stop sign causing the contact to crash into the truck head-on. The air bags fai"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 0,
+      "injuries": 9,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 3
+      },
+      {
+        "year": 2017,
+        "count": 3
+      },
+      {
+        "year": 2018,
+        "count": 10
+      },
+      {
+        "year": 2019,
+        "count": 21
+      },
+      {
+        "year": 2020,
+        "count": 15
+      },
+      {
+        "year": 2021,
+        "count": 19
+      },
+      {
+        "year": 2022,
+        "count": 25
+      },
+      {
+        "year": 2023,
+        "count": 16
+      },
+      {
+        "year": 2024,
+        "count": 14
+      },
+      {
+        "year": 2025,
+        "count": 17
+      },
+      {
+        "year": 2026,
+        "count": 9
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "16V449000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016 Chevrolet Equinox and GMC Terrain vehicles manufactured October 16, 2015.  The certification labels may have incorrect tire/rim size and cold tire pressure information.  As such, these vehicles fail to comply with the requirements of Feder",
+        "report_date": "21/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V137000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2017 GMC Terrain vehicles.  A reflection caused by the headlight housings may illuminate areas above the vehicle and outside of the driver's view with excessively bright light.  As such, these vehicles fail to comply with the requirements of Federal",
+        "report_date": "08/03/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:04.701Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

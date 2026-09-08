@@ -1,0 +1,172 @@
+{
+  "slug": "2018-honda-pilot",
+  "year": 2018,
+  "make": "Honda",
+  "model": "Pilot",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 437,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 156,
+        "share_pct": 35.7,
+        "excerpts": [
+          "The vehicle started to make some strange noises coming from the engine area. I brought the vehicle to our mechanic, who stated that the engine needs to be replaced. He described the problem as an issu",
+          "When I press down on the gas, the car is delayed in responding. This has gotten increasingly worse, at times resulting in near collisions with on-coming traffic. I've reported this to my local dealers",
+          "If the auto engine shut off is activated the engine shuts off randomly and it does not restart the engine. The battery needs to be unplugged to reset the electrical system. This happens daily."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 85,
+        "share_pct": 19.5,
+        "excerpts": [
+          "If the auto engine shut off is activated the engine shuts off randomly and it does not restart the engine. The battery needs to be unplugged to reset the electrical system. This happens daily.",
+          "The vehicle will not start occasionally and states brake issue.  The brakes becomes rigid and I'm left stranded until it corrected itself.  This is a KNOWN issue,  and yet they won't do a recall.  It ",
+          "Honda pilot would not restart after auto ideal engine stop. This issue caused all the warnings lights to come on with blinking engine light! Honda dealer was not able to resolve the issue and ended up"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 78,
+        "share_pct": 17.8,
+        "excerpts": [
+          "2018 Honda Pilot Transmission Failed at Only 34,726 Miles I want to share my experience so other Honda owners are aware of a very premature transmission failure.  I am the original owner of a 2018 Hon",
+          "While operating my vehicle on a public roadway, the vehicle suffered a sudden, catastrophic loss of transmission hydraulic pressure and vehicle propulsion, accompanied by a dashboard warning light wit",
+          "Transfer case exploded internally and cracked the transfer case while pulling out of parking lot. I still have the transfer case for inspection."
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 63,
+        "share_pct": 14.4,
+        "excerpts": [
+          "High Pressure Fuel Pump fails after implementing recall listed below. See recall information: December 18, 2023 NHTSA CAMPAIGN NUMBER: 23V858000 Fuel Pump May Fail Fuel pump failure can cause an engin",
+          "Honda pilot would not restart after auto ideal engine stop. This issue caused all the warnings lights to come on with blinking engine light! Honda dealer was not able to resolve the issue and ended up",
+          "While driving down a freeway, my car shuddered and my engine suddenly lost power and was put into limp mode. Mechanic determined it was the high pressure fuel pump that failed. This vehicle was part o"
+        ]
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "complaints": 62,
+        "share_pct": 14.2,
+        "excerpts": [
+          "The contact owns a 2018 Honda Pilot. The contact stated that while driving 80 MPH, the vehicle decelerated and stalled while depressing the accelerator pedal. Several unknown warning lights were illum",
+          "The contact owns a 2018 Honda Pilot. The contact received notification of NHTSA Campaign Number: 23V858000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The",
+          "The contact owns a 2018 Honda Pilot. The contact received notifications of NHTSA Campaign Numbers: 23V858000 (FUEL SYSTEM, GASOLINE) and 21V932000 (STRUCTURE, LATCHES/LOCKS/LINKAGES). The contact stat"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 2,
+      "injuries": 11,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 20
+      },
+      {
+        "year": 2019,
+        "count": 25
+      },
+      {
+        "year": 2020,
+        "count": 19
+      },
+      {
+        "year": 2021,
+        "count": 38
+      },
+      {
+        "year": 2022,
+        "count": 93
+      },
+      {
+        "year": 2023,
+        "count": 60
+      },
+      {
+        "year": 2024,
+        "count": 99
+      },
+      {
+        "year": 2025,
+        "count": 57
+      },
+      {
+        "year": 2026,
+        "count": 26
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "21V932000",
+        "component": "STRUCTURE:BODY:HOOD",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019 Passport, 2016-2019 Pilot, and 2017-2020 Ridgeline vehicles.  The hood latch striker may become damaged and separate from the hood, which can result in the hood opening while driving.",
+        "report_date": "29/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V298000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:GASOLINE:BELTS AND ASSOCIATED PULLEYS",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2019 Acura MDX and Honda Pilot vehicles and 2019 Acura RLX, RLX Sport Hybrid, TLX and Honda Odyssey and Ridgeline vehicles.  The timing belt teeth may separate from the belt.",
+        "report_date": "12/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V221000",
+        "component": "SEATS",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018 Honda Pilot and Ridgeline vehicles and 2018 Acura MDX vehicles.  The front driver and passenger powered seats in the Honda vehicles and the driver powered seats in the Acura vehicles may have been assembled with improperly manufactured rivet",
+        "report_date": "05/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V751000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2015-2020 Acura TLX, 2016-2020 Acura MDX, 2016 and 2018-2019 Pilot, 2017 and 2019 Ridgeline, and 2018-2019 Odyssey vehicles.  Due to a manufacturing error, the connecting rod bearing in the engine may wear and seize, damaging the engine.",
+        "report_date": "13/11/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V365000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "American Honda Motor Company (Honda) is recalling certain 2016-2022 Honda Pilot, 2017-2023 Ridgeline, 2019-2023 Passport, and 2014-2020 Acura MDX vehicles that were sold in Connecticut, Delaware, District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minne",
+        "report_date": "04/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:43.252Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

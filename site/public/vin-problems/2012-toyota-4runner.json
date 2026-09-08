@@ -1,0 +1,192 @@
+{
+  "slug": "2012-toyota-4runner",
+  "year": 2012,
+  "make": "Toyota",
+  "model": "4Runner",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 96,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 70,
+        "share_pct": 72.9,
+        "excerpts": [
+          "2012 TOYOTA 4RUNNER. CONSUMER WRITES IN REGARD TO TAKATA FRONT PASSENGER AIRBAG INFLATOR SAFETY RECALL. *LD    THE CONSUMER REQUESTED TO HAVE A RECALL NOTICE MAILED TO A CURRENT ADDRESS. *JS",
+          "I AM THE OWNER OF A 2012 TOYOTA 4RUNNER WHICH HAS A CURRENT AIR BAG RECALL.   THE PARTS WERE NOT AVAILABLE BEFORE OUR MILITARY PCS TRANSFER OVERSEAS.  THEY BECAME AVAILABLE AFTER MY MOVE OVERSEAS, BUT",
+          "TL* THE CONTACT OWNS A 2012 TOYOTA 4RUNNER. THE CONTACT STATED WHILE DRIVING 51 MPH, THE CONTACT STATED IN AN ATTEMPT TO AVOID A HEAD ON COLLISON, HE SWERVED, LOSING CONTROL OF THE VEHICLE SLIDING INT"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 7,
+        "share_pct": 7.3,
+        "excerpts": [
+          "APPROXIMATELY 7:45 AM ON 9/18/19, MY SON WHILE COMING HOME FROM WORK, HAD AN ACCIDENT. I WAS NOT WITH HIM AT THE TIME. WHEN HE SHOWED UP AT HOME AFTER THE INCIDENT, HE EXPLAINED HOW HE WAS UNABLE TO S",
+          "THE BRAKES OF THE VEHICLE SLIP. WHEN YOU ARE ON THE FREEWAY AND YOU NEED TO STOP FOR ACCIDENTS AND YOU BRAKE THE VEHICLE SLIPS AND ALMOST WANTS TO ROLE OVER. WHEN THE VEHICLE COMES TO COMPLETE STOP AF",
+          "TL*  THE CONTACT OWNS A 2012 TOYOTA 4RUNNER. THE CONTACT STATED THAT WHILE DEPRESSING THE BRAKE PEDAL TO STOP THE VEHICLE, A LOUD ABNORMAL NOISE WAS PRESENT AND THE BRAKE PEDAL HAD TO GRADUALLY BE DEP"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 6,
+        "share_pct": 6.3,
+        "excerpts": [
+          "THE BACKUP CAMERA DOES NOT WORK CONSISTENTLY. WHILE NOT MOVING AND THEN SHIFITING INTO REVERSE, THE SCREEN DOES NOT CHANGE OR CHANGES TO SOMETHING OTHER THAN THE CAMERA. IT USUALLY STOPS WORKING AFTER",
+          "I WAS DRIVING IN THE FREEWAY BELTWAY 08 WHEN TEHRAN TRASMISION OF MY CAR RUN OUT LAST SATURDAY  02/04/2018",
+          "SQUIRRELS KEEP EATING MY ELECTRICAL WIRING AND THE WIRING HARNESS. THEY ACCESS THE ENGINE BAY THROUGH THE OPENINGS IN THE WHEEL WELLS AFTER JUMPING ON TOP OF THE TIRES. THE RESULTS HAVE DISABLED MY AB"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 5,
+        "share_pct": 5.2,
+        "excerpts": [
+          "Consistent steering wheel shake between 60-65 mph. This is a very well known issue on the 2010-2024 4Runners and it drives me and many others crazy, and feels unsafe to drive with. Will happen almost ",
+          "THE WIRING IN MY STEERING COLUMN CONNECTED TO THE HORN IN THE CLOCK SPRING HAS CAUSED MY HORN TO NOT WORK . I GOT MY CAR DIAGNOSED AND THEY SAID THAT THE CLOCK SPRING NEEDS TO BE REPLACED. IT COST $10",
+          "WHILE DRIVING ON HIGHWAY THE STEERING WHEEL SHUTTERS OR VIBRATE AT HIGHWAY SPEEDS. REPLACED TIRES WITH NEW TIRES, ALIGNMENT, AND PROBLEM STILL EXISTS, ROTATED AND BALANCED TIRES AND PROBLEM STILL EXIS"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 5,
+        "share_pct": 5.2,
+        "excerpts": [
+          "Vehicle radiator light came on, shortly thereafter (5-10 min) vehicle overheated.  Waited for vehicle to cool down, then drove home.  The following day drove the vehicle to dealership.    After an ins",
+          "I WAS DRIVING IN THE FREEWAY BELTWAY 08 WHEN TEHRAN TRASMISION OF MY CAR RUN OUT LAST SATURDAY  02/04/2018",
+          "GOT CODE P2440 AND WAS QUOTED 2000. FOR REPAIR AND ONLY JUST 47107 MILES"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 1,
+      "injuries": 9,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 6
+      },
+      {
+        "year": 2013,
+        "count": 2
+      },
+      {
+        "year": 2014,
+        "count": 3
+      },
+      {
+        "year": 2015,
+        "count": 5
+      },
+      {
+        "year": 2016,
+        "count": 5
+      },
+      {
+        "year": 2017,
+        "count": 64
+      },
+      {
+        "year": 2018,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 2
+      },
+      {
+        "year": 2020,
+        "count": 4
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "19V005000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2014-2016 Toyota 4Runner, 2014-2015 Scion xB, Lexus IS350C, IS250C, 2014 Toyota Sienna, Lexus IS-F, and 2014-2017 Lexus GX460 vehicles sold, or ever registered in the states of Alabama, California, Florida, Georgia, Hawaii, Louis",
+        "report_date": "09/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V741000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2010-2016 4Runner, 2003-2006 Tundra, 2003-2013 Corolla, 2009-2010 Corolla Matrix, 2004-2005 RAV4, 2002-2007 Sequoia, 2011-2013 Sienna, 2008-2012 Scion xB, 2008-2009 Lexus IS-F, 2007-2012 Yaris and Lexus ES350, 2010-2017 Lexus GX4",
+        "report_date": "17/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V425000",
+        "component": "STRUCTURE:BODY:HOOD:HINGE AND ATTACHMENTS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2011-2016 Toyota Tacoma and 4Runner vehicles equipped with accessory hood scoops installed by SET or SET dealers.  The adhesive attaching the hood scoop may weaken, allowing the hood scoop to detach from the vehicle.",
+        "report_date": "03/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V006000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2012 Toyota 4Runner, Corolla, Corolla Matrix, Sienna, Yaris, Scion xB, Lexus ES350, GX460, IS-F, IS250, IS350, IS250C, IS350C, and Lexus LFA vehicles originally sold, or ever registered, in Alabama, California, Florida, Georgia, ",
+        "report_date": "09/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V577000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:MANIFOLD/HEADER/MUFFLER/TAIL PIPE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2015 Toyota 4Runner vehicles manufactured September 3, 2009, to December 1, 2014.  The affected vehicles may be equipped with accessory exhaust tips installed by SET or SET dealers that may contact people and possibly burn",
+        "report_date": "03/08/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V515000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:MANIFOLD/HEADER/MUFFLER/TAIL PIPE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2015 Toyota 4Runner vehicles manufactured March 29, 2010, to July 30, 2015. The affected vehicles may be equipped with accessory exhaust tips installed by SET or SET dealers that may contact people and possibly burn them w",
+        "report_date": "13/08/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V120000",
+        "component": "EQUIPMENT:ELECTRICAL",
+        "summary": "GULF STATES TOYOTA IS RECALLING CERTAIN MODEL YEAR 2012 4RUNNER AND SIENNA VEHICLES, EQUIPPED WITH NON-ORIGINAL EQUIPMENT REMOTE ENGINE STARTERS.  A MALFUNCTION IN THE AUDIOVOX ELECTRONICS BRAND REMOTE ENGINE STARTER MODULE CAN PREVENT NORMAL COMMUNICATION OF THE VEHICLES CONTROLLER AREA NETWORK (C",
+        "report_date": "23/03/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:56:12.827Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

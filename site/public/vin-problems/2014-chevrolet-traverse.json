@@ -1,0 +1,192 @@
+{
+  "slug": "2014-chevrolet-traverse",
+  "year": 2014,
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 547,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 258,
+        "share_pct": 47.2,
+        "excerpts": [
+          "I was involved in a car accident on 4/30/26 but my airbags did not deploy.",
+          "The contact owns a 2014 Chevrolet Traverse. The contact stated that while driving at an undisclosed speed, the vehicle lost motive power. The message \"Engine Power Reduced\" was displayed. After waitin",
+          "The airbag light is constantly on. I've dinner many replacement repairs but it's still on"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 126,
+        "share_pct": 23,
+        "excerpts": [
+          "Odometer Fraud. The contact was in the process of purchasing a 2014 Chevrolet Traverse. It was discovered that there was a mileage discrepancy. The vehicle was a private sale. Before the vehicle was p",
+          "Had the whole ECM replaced as well as all wire harnesses inspected. Fuse box inspection and retighned. All fuses and relays checked. Ignition switch replacement as well. The code for P1682 went away m",
+          "The contact owns a 2014 Chevrolet Traverse. The contact stated that while driving at an undisclosed speed, the vehicle lost motive power. The message \"Engine Power Reduced\" was displayed. After waitin"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 117,
+        "share_pct": 21.4,
+        "excerpts": [
+          "Had the whole ECM replaced as well as all wire harnesses inspected. Fuse box inspection and retighned. All fuses and relays checked. Ignition switch replacement as well. The code for P1682 went away m",
+          "fuel pump issue that is  cause engines to stall while driving or not start after placing gas in the vehicle. It is having the battery run low and car die or stall and stop while driving. It will turn ",
+          "My car has been having a problem with traction control/service stabilitrak and losing power to the engine since I purchased it. The problem was only occasionally, now it does it EVERYTIME I drive. Fir"
+        ]
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "complaints": 117,
+        "share_pct": 21.4,
+        "excerpts": [
+          "I WAS GOING DOWN THE INTERSTATE AND THE STABILITRAK, TRACTION CONTROL, CHECK ENGINE LIGHTS ALL CAME ON. ENGINE REDUCED POWER LIGHT CAME ON I LOST ALL POWER OF THE VEHICLE, I WAS IN HEAVY TRAFFIC AND F",
+          "FIRST THE SEAT BELT WARNING LIGHT COME ON THEN THE SEAT BELT LIGHT GOES OFF THEN TRACTION LIGHT/STABILITAK COMES ON LOSE POWER ON HIGHWAY NOW A RUBBING SOUND ON DRIVER SIDE",
+          "THE TRACTION CONTROL GOES OUT RANDOMLY AND I LOSE MY POWER STEERING AND ALL MY FUNCTIONS OF MY CAR RANDOMLY AND I HAVE TO PULL OVER TO TURN IT OFF WHEN I'M DRIVING TO GET IT TO GO BACK TO NORMAL ONCE "
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 48,
+        "share_pct": 8.8,
+        "excerpts": [
+          "Traction control light comes on and then my vehicle keeps jerking as I drive and a stabilizer track notification light comes on",
+          "This has happened three times .  First time i was driving my vehicle on the street and randomly turned off . The second time this happened i was driving on the freeway at 66 mph & it randomly turned o",
+          "I have been receiving warning messages on my dashboard regarding Service The Stabilitrak, followed by Traction Control Off message and then vehicle shaking, losing steering power and engine shutting d"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 1,
+      "injuries": 15,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 6
+      },
+      {
+        "year": 2014,
+        "count": 24
+      },
+      {
+        "year": 2015,
+        "count": 19
+      },
+      {
+        "year": 2016,
+        "count": 28
+      },
+      {
+        "year": 2017,
+        "count": 41
+      },
+      {
+        "year": 2018,
+        "count": 65
+      },
+      {
+        "year": 2019,
+        "count": 71
+      },
+      {
+        "year": 2020,
+        "count": 43
+      },
+      {
+        "year": 2021,
+        "count": 25
+      },
+      {
+        "year": 2022,
+        "count": 15
+      },
+      {
+        "year": 2023,
+        "count": 120
+      },
+      {
+        "year": 2024,
+        "count": 73
+      },
+      {
+        "year": 2025,
+        "count": 15
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "14V266000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors is recalling certain model year 2009-2014 Buick Enclave vehicles manufactured April 14, 2008, through May 14, 2014, Chevrolet Traverse vehicles manufactured June 6, 2008, through May 14, 2014, and GMC Acadia vehicles manufactured April 9, 2008, through May 14, 2014, and 2009-2010 Satu",
+        "report_date": "20/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V223000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014 Buick Enclave, Chevrolet Traverse, and GMC Acadia vehicles manufactured March 26, 2013, through August 15, 2013.  In the affected vehicles, the engine control module (ECM) software may cause the fuel gauge to read inaccurately.",
+        "report_date": "30/04/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V092000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014 Buick Regal, LaCrosse, Verano, and Enclave, and Chevrolet  Impala, Malibu, Cruze, and Traverse, and GMC Acadia vehicles equipped with automatic transmissions.  In the affected vehicles, the transmission shift cable adjuster may disengage f",
+        "report_date": "21/02/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V614000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2013-2014 Cadillac CTS, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, GMC Yukon, and Yukon XL, and 2014 Buick Enclave, Chevrolet Express, Impala, Silverado HD, Traverse, GMC Acadia, Savana, and Sierra HD vehicles.  In the affected vehicles",
+        "report_date": "01/10/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V782000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors, LLC (GM) is recalling certain 2008-2017 Buick Enclave and 2013-2017 Chevrolet Traverse vehicles.  The driver's air bag inflator may explode during deployment, due to a manufacturing defect.",
+        "report_date": "07/10/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V246000",
+        "component": "AIR BAGS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2015, 2017 Buick Enclave, 2010-2019 Chevrolet Traverse, and 2011-2016 GMC Acadia vehicles.  The side curtain air bags may not be properly attached.",
+        "report_date": "08/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V334000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014-2017 Buick Enclave, Chevrolet Traverse, and GMC Acadia vehicles.  The driver's air bag inflator may explode during deployment, due to a manufacturing defect.",
+        "report_date": "10/05/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:58:47.740Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "2016-dodge-challenger",
+  "year": 2016,
+  "make": "Dodge",
+  "model": "Challenger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 78,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 16,
+        "share_pct": 20.5,
+        "excerpts": [
+          "I am reporting a serious vehicle safety issue caused by negligent service performed by Tony T’s Chrysler Dodge Jeep Ram, located at 7250 Gulf Freeway, Houston, TX 77017.  The dealership performed a bo",
+          "I had a recall fixed at dodge for PCM since then service power steering comes on and the steering wheel locks up sometimes I'm driving and it seizes up it started at 37000 miles And when my extended w",
+          "Center bond of crankshaft Damper falling-off front of engines on the highway due to defective bonding material in manufacturing causing failure in rubber bonding. At highways speeds, a 10lb chunk of m"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 15,
+        "share_pct": 19.2,
+        "excerpts": [
+          "I had a recall fixed at dodge for PCM since then service power steering comes on and the steering wheel locks up sometimes I'm driving and it seizes up it started at 37000 miles And when my extended w",
+          "Tipman module is melting and has a burning smell and black marks where there has been spark. Fire hazard. Draws too many amps from headlights.  Drivers side seatbelt won't register and seatbelt airbag",
+          "I was driving on the interstate and the ACC/FCW light came on.Then soon after The ABS light came on then the power steering system failed causing the steering wheel to lock while I was driving.I turne"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 12,
+        "share_pct": 15.4,
+        "excerpts": [
+          "Hemi Tick.  The problem is so bad there is a common name for Stelantis 5.7 Hemi engine.  Nothing else needs to be said the problem is well documented.",
+          "Center bond of crankshaft Damper falling-off front of engines on the highway due to defective bonding material in manufacturing causing failure in rubber bonding. At highways speeds, a 10lb chunk of m",
+          "The contact owns a 2016 Dodge Challenger. The contact stated that while operating the vehicle, there was a knocking and ticking sound coming from the engine compartment. The vehicle was taken to the l"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 11,
+        "share_pct": 14.1,
+        "excerpts": [
+          "ON APRIL 19TH 2021 MY WIFE WAS TRAVELING BETWEEN 30 -35 MPH IN HER 2016 DODGE CHALLENGER SXT ON A MINOR THOROUGHFARE WHEN A CAR TURNED ABRUPTLY IN FRONT OF HER. MY WIFE'S VEHICLE SUSTAINED SIGNIFICANT",
+          "TL* THE CONTACT OWNS A 2016 DODGE CHALLENGER. THE CONTACT STATED THAT WHILE DRIVING AT 67 MPH, THE DRIVER CRASHED INTO A PEDESTRIAN WHO WAS JAY WALKING AND SUCCUMBED TO HIS INJURIES. THE AIR BAGS FAIL",
+          "I HAD A SINGLE CAR ACCIDENT HEAD ON COLLISION TO GUARD RAILS. SEAT BELTS DID NOT RESTRICT ME FROM HITTING WINDSHIELD ALSO MY AIR BAGS DIDN'T DEPLOY AT IMPACT."
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 9,
+        "share_pct": 11.5,
+        "excerpts": [
+          "Good morning my (eps) Electronic steering  system isn't working I have the light on my dashboard and while driving it went on and couldn't steer it needs force  to turn and its difficult to keep it st",
+          "When making a sharp turn where you need to turn the wheel fully to the left or right, the car steering would lock up and a power steering indicator light would appear on the dashboard. I would have to",
+          "My 2016 Dodge Challenger has less then 38,000 miles. I don’t even drive it in the rain to keep it spotless. I have taken great care of it. It started making a knocking noise from underneath the car. T"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 2,
+      "injuries": 10,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2000,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 2
+      },
+      {
+        "year": 2016,
+        "count": 9
+      },
+      {
+        "year": 2017,
+        "count": 12
+      },
+      {
+        "year": 2018,
+        "count": 10
+      },
+      {
+        "year": 2019,
+        "count": 8
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 8
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "18E053000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain Mopar Stage 1 Kit Performance Packages Powertrain Control Modules (PCM) Part Numbers P5160023, P5160025, and Demon Crate PCM Part Number 68412287AA.  The PCMs are being recalled to address a defect that could prevent the cruise control system from disengagi",
+        "report_date": "12/07/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:51.721Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

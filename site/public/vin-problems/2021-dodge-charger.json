@@ -1,0 +1,118 @@
+{
+  "slug": "2021-dodge-charger",
+  "year": 2021,
+  "make": "Dodge",
+  "model": "Charger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 33,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 15,
+        "share_pct": 45.5,
+        "excerpts": [
+          "[XXX] Chrysler Jeep Dodge Ram, located in [XXX] performed an airbag recall on my vehicle. The vehicle was put back together incorrectly, and the headliner, rearview mirror, and sunglass holder are all",
+          "While parked in my driveway, the passenger rear side curtain airbag inflated on its own with noone in the car. The car cranks and operates correctly with no indication of a problem with the airbag sys",
+          "The contact owns a 2021 Dodge Charger. The contact received notifications of NHTSA Campaign Numbers: 24V198000 (Air Bags) and 21V516000 (Visibility).  The dealer was contacted to perform the recall re"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 5,
+        "share_pct": 15.2,
+        "excerpts": [
+          "The contact owns a 2021 Dodge Charger. The contact stated while driving at an undisclosed speed, the vehicle downshifted with the “Service Transmission” message displayed. The contact stated that the ",
+          "The contact owns a 2021 Dodge Charger. The contact stated that while driving at approximately 60 MPH, the engine warning light illuminated. The vehicle was taken to an independent mechanic, who inform",
+          "Driving home from work when my vehicle lost control, when trying to steer my steering wheel straight the rear end of my vehicle locked up and ended up in a guard rail , there was nothing in the road o"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 3,
+        "share_pct": 9.1,
+        "excerpts": [
+          "The contact owns a 2021 Dodge Charger. The contact stated that while driving at approximately 60 MPH, the engine warning light illuminated. The vehicle was taken to an independent mechanic, who inform",
+          "During a recent tire change, I observed that the plastic cover beneath the engine had become dislodged, and several clips were broken. Additionally, a large round component had detached and fallen out",
+          "AT ONLY 256 MILES, THE VEHICLE EITHER SHUTS OFF WHILE DRIVING OR WILL NOT START AFTER IT'S PARKED. THE FIRST OCCURRENCE OF THE ENGINE TURNING OFF WAS WHILE I WAS DRIVING. THE VEHICLE APPEARED TO STALL"
+        ]
+      },
+      {
+        "component": "VISIBILITY",
+        "complaints": 2,
+        "share_pct": 6.1,
+        "excerpts": [
+          "The contact owns a 2021 Dodge Charger. The contact received notifications of NHTSA Campaign Numbers: 24V198000 (Air Bags) and 21V516000 (Visibility).  The dealer was contacted to perform the recall re",
+          "The contact owns a 2021 Dodge Charger. The contact stated while driving 60-65 MPH, a tiny rock hit the windshield and the windshield cracked. The vehicle was repaired by Safelite at the contact's resi"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 2,
+        "share_pct": 6.1,
+        "excerpts": [
+          "condensation in headlight",
+          "1. Headlight low/high beam keeps going out and comes back on. It seems like the wiring harness overheating, bulb is fine but continues to go out and on. 2. Transmission, does a very aggressive down sh"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 0,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 11
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "21V516000",
+        "component": "VISIBILITY:WINDSHIELD",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2021 Dodge Challenger, Dodge Charger, and Chrysler 300 vehicles.  During manufacturing, the windshield may not have been properly bonded to the vehicle, allowing it to detach in a crash.  As such, these vehicles fail to comply with the requirements of",
+        "report_date": "08/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V198000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN:INFLATOR",
+        "summary": "Chrysler (FCA US, LLC) (Stellantis) is recalling certain 2018-2021 Dodge Charger and Chrysler 300 vehicles.  The right and left side curtain air bag inflators may rupture due to a manufacturing defect.",
+        "report_date": "14/03/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:07:10.015Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

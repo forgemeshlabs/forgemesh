@@ -1,0 +1,140 @@
+{
+  "slug": "2018-chevrolet-traverse",
+  "year": 2018,
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 457,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 192,
+        "share_pct": 42,
+        "excerpts": [
+          "the vehicle will not register that it is in park, when the engine is turned off a beeping noise reads shift to park - you have to start the engine and shut it off multiple times, or slam the shifter i",
+          "Car wouldn’t move in Reverse, I’d give it gas and it would just rev.  It would drive forward but very sluggish.  Brought to 2 different mechanics and they both said I need to replace the transmission.",
+          "Transmission shuddering when gear changing as accelerate."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 100,
+        "share_pct": 21.9,
+        "excerpts": [
+          "Front passenger tire was losing air, on the way to bring it to tire shop dashboard displayed tire pressure sensor, power steering system, TCM notification, Electronic brake control. Got it to the tire",
+          "2018 Chevy Traverse purchased from Carvana caused carbon monoxide exposure to my family in military housing. Vehicle locked itself while running in the garage (garage door open), and CO entered the ho",
+          "Repeated problems trying to turn off vehicle with a \"Shift to Park\" notification being displayed.  It took numerous attempts each time of banging the shift lever and flicking the shift button for it f"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 84,
+        "share_pct": 18.4,
+        "excerpts": [
+          "Cracked flex pipe on exhaust system",
+          "Corrosion of the exhaust pipes lead to an exhaust leak.",
+          "Engine light came on. Car started shaking and making noise when shifting. Speed would not increase while driving. When shifting into park the car does not recognize that’s it’s in park and had to jigg"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 37,
+        "share_pct": 8.1,
+        "excerpts": [
+          "On 08/15/26, I was at a traffic light waiting to make a left turn on a major roadway. Because the wait was on a hill, the park brake automatically engaged. When the traffic light turned green and as I",
+          "The vacuum pump had a catastrophic failure. This led to failure of assisted breaking, and caused brake pedal to go rock hard while driving on the roadway. Metal shards from the vacuum pump broke off, ",
+          "The contact owns a 2018 Chevrolet Traverse. The contact stated that the driveway was on a slope, and his wife was attempting to reenter the vehicle while it was in parked and the engine was running, a"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 29,
+        "share_pct": 6.3,
+        "excerpts": [
+          "Special coverage programs for the 2018 Chevy Traverse front exhaust pipe mounting bracket failure. GM has focused on coverage specifically on 2019-2021 models, but 2018 models are affected as well. I'",
+          "The vehicle shudders and it very slow to shift from park to drive.",
+          "My engine light came on, so I took it the mechanic. According to the reading it says it was my purge valve, they replaced. After driving 30 miles it came back on. I took it back and they thought it wa"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 2,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2017,
+        "count": 5
+      },
+      {
+        "year": 2018,
+        "count": 43
+      },
+      {
+        "year": 2019,
+        "count": 56
+      },
+      {
+        "year": 2020,
+        "count": 43
+      },
+      {
+        "year": 2021,
+        "count": 39
+      },
+      {
+        "year": 2022,
+        "count": 43
+      },
+      {
+        "year": 2023,
+        "count": 53
+      },
+      {
+        "year": 2024,
+        "count": 62
+      },
+      {
+        "year": 2025,
+        "count": 72
+      },
+      {
+        "year": 2026,
+        "count": 39
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "20V668000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Cruze and Buick LaCrosse, 2018-2020 Chevrolet Equinox, Chevrolet Traverse and GMC Terrain, 2018 Chevrolet Malibu, 2019-2020 Buick Encore, Buick Enclave, Cadillac XT4, Chevrolet Blazer and GMC Acadia, and 2020 Cadillac XT6 vehicles.  Th",
+        "report_date": "29/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V246000",
+        "component": "AIR BAGS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2015, 2017 Buick Enclave, 2010-2019 Chevrolet Traverse, and 2011-2016 GMC Acadia vehicles.  The side curtain air bags may not be properly attached.",
+        "report_date": "08/04/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:01.656Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "2010-chevrolet-cruze",
+  "year": 2010,
+  "make": "Chevrolet",
+  "model": "Cruze",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 2,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 1,
+        "share_pct": 50,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2010 CHEVROLET CRUZE. WHILE DRIVING APPROXIMATELY 50 MPH, THE SERVICE AIR BAG WARNING INDICATOR ILLUMINATED. THE CONTACT DEPRESSED THE MENU BUTTON AND CLEARED THE WARNING INDICA"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 1,
+        "share_pct": 50,
+        "excerpts": [
+          "VEHICLE NOT TAKING OFF  FROM STOP THEN RED LINES AND JERKS FORWARD . DEALERSHIP TRYING TO SAY IT IS THE ADAPTIVE MEMORY ON TRANSMISSION . THE CAR IS NOT TAKING OFF PROPERLY AND THEN LURCHES AND JERKS "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 0,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T19:51:35.919Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

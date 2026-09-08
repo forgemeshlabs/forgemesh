@@ -1,0 +1,127 @@
+{
+  "slug": "2018-nissan-frontier",
+  "year": 2018,
+  "make": "Nissan",
+  "model": "Frontier",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 25,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 5,
+        "share_pct": 20,
+        "excerpts": [
+          "2018 Nissan Frontier Desert Runner... Battery inconsistently drains fast when off and while driving. Indicator lights for battery, brakes, ABS and traction control come on. Gauges malfunction. Tried a",
+          "15 mph door lock system does not work. Have been in garage with truck, and heard doors lock with no one near vehicle. I understand there is a class action suit about the door lock system. Seems to me ",
+          "Jan 29 2025 vehicle failed to start . Turned switch to start several times .no response at all no dash lights no starter reaction no clicking from battery, which would indicate battery problem. Waited"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 4,
+        "share_pct": 16,
+        "excerpts": [
+          "I WENT FOR INSPECTION AND THEY TOLD ME I NEED FROM BRAKES AND ROTOR AND I ONLY GOT TEN THOUSAND EIGHT HUNDRED MILES",
+          "I OWN A 2018 NISSAN FRONTIER 9745 MILES. AS A PREVIOUS OWNER HAS EXPLAINED HIS BRAKE PROBLEM SAME AS MINE WHEN YOU DEPRESS THE BRAKE PEDAL  SOLID IT ALMOST GOES TO THE FLOOR ALSO WHEN THIS PEDAL GOES ",
+          "TL* THE CONTACT OWNS A 2018 NISSAN FRONTIER. THE CONTACT STATED THAT THE BRAKE AND ACCELERATOR PEDALS WERE TOO CLOSE TOGETHER. WHILE BRAKING, THE ACCELERATOR PEDAL WOULD ALSO DEPRESS AND THE VEHICLE W"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 3,
+        "share_pct": 12,
+        "excerpts": [
+          "I have a 2018 Nissan Frontier bought it in 2019 I noticed a little vibration at first and now 2 years later it’s vibrating a lot more I took to Nissan in 2020 they said they saw nothing wrong but now ",
+          "Squeaking sound coming from front driver side suspension. This has been happening ever since purchased in 2018 that dealer cannot find. Getting worse as it ages. Afraid tire may drive train may break ",
+          "2018 NISSAN FRONTIER. CONSUMER WRITES IN REGARDS TO PROBLEM WITH ALIGNMENT.*LD    THE CONSUMER STATED THE DEALER COULD NOT COMPLETE AN ALIGNMENT BEFORE REPAIRING THE VEHICLE WITH A KIT. THE MANUFACTUR"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 3,
+        "share_pct": 12,
+        "excerpts": [
+          "VEHICLE WAS STOPPED, FOOT ON BRAKE, EXITING A PUBLIC PARKING LOT,  WHEN SUDDENLY ENGINE ACCELERATED RAPIDLY AND WHEELS WERE SCREECHING.  THE PASSENGER OF VEHICLE HAD TO PLACE TRANSMISSION IN NEUTRAL, ",
+          "TL* THE CONTACT OWNS A 2018 NISSAN FRONTIER. THE CONTACT STATED THAT THE BRAKE AND ACCELERATOR PEDALS WERE TOO CLOSE TOGETHER. WHILE BRAKING, THE ACCELERATOR PEDAL WOULD ALSO DEPRESS AND THE VEHICLE W",
+          "THE THROTTLE CONTROL, FOOT PEDAL, HAS DEAD SPOTS THAT HAPPEN WHEN LEAVING A STOP SIGN, GREEN LIGHTS, PULLING OUT INTO TRAFFIC. ALSO CLIMBING A HILL WHEN YOU STEP ON THE GAS NOTHING HAPPENS UNTIL THE T"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 2,
+        "share_pct": 8,
+        "excerpts": [
+          "The passenger dashboard airbag keeps generating error codes and the airbag light continually flashes. There have been 2 costly repair attempts by a Nissan dealership, but the problem persists. The dea",
+          "Passenger airbag warning light on dashboard flashes continually. This indicates it may not deploy in accident. It was taken to a Nissan dealer and mechanic inspected and stated in report, \"Found occup"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 0,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 3
+      },
+      {
+        "year": 2019,
+        "count": 7
+      },
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "18V551000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2017 Nissan NV200, Sentra, NV3500 Van, NV3500 Bus, NV200 Taxi, NV1500, NV2500 Van, Chevrolet City Express, 2017-2018 Frontier, Versa Note, and Versa Sedan vehicles that have a mechanical (physical) key ignition system.  In these models, over t",
+        "report_date": "22/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V654000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2018-2019 Nissan Altima, Armada, Frontier, Kicks, Leaf, Maxima, Murano, NV, NV200, Pathfinder, Rogue, Rogue Sport, Sentra, Titan, Titan Diesel, Versa Note and Versa Sedan vehicles, as well as Infiniti Q50, Q60, QX30 and QX80 vehicles.  Additio",
+        "report_date": "12/09/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:55.912Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "2008-dodge-durango",
+  "year": 2008,
+  "make": "Dodge",
+  "model": "Durango",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 97,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 26,
+        "share_pct": 26.8,
+        "excerpts": [
+          "TAMARA RECALL. NO LONGER HAVE STABLE CONTROL OF MY 08 DODGE DURANGO. AIRBAG LIGHT IS ON AS  WELL AS ESP ABS TRACTION LIGHT.",
+          "TL* THE CONTACT OWNS A 2008 DODGE DURANGO. WHILE DRIVING APPROXIMATELY 65 MPH, THE CONTACT DROVE OVER A POTHOLE AND THE VEHICLE VEERED OFF THE ROAD. THE VEHICLE STRUCK TWO METAL MAILBOXES THAT WERE GR",
+          "TL* TAKATA RECALL. THE CONTACT OWNS A 2008 DODGE DURANGO. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V352000 (AIR BAGS); HOWEVER, THE PART TO DO THE REPAIR WAS UNAVAILABLE. THE CONT"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 21,
+        "share_pct": 21.6,
+        "excerpts": [
+          "My Car started smoking from under the hood and coming through the vents . It over heated . So then I opened up the hood and smoke with you coming out a bit crazy then something food from the engine li",
+          "THE FUEL LINE FROM THE FUEL PUMP CAME OFF WHILE DRIVING DOWN THE ROAD IT HAS NEVER BEEN TOUCHED IT IS ALL FACTORY ORIGINAL AND I FOUND TWO OTHER HOSES OFF TO BOTH HAD NO CLAMPS ON IT FROM THE FACTORY ",
+          "EVERY TIME THE FUEL TANK IS FILLED TO 3/4 OR MORE THERE IS ALWAYS A BACK SPLASH  OF ABOUT 2-3 CUPS OF FUEL. IF ENGINE  HAS BEEN RUNNING LONG COULD RUN DOWN SIDE OF VEHICLE AND IGNITE ON HOT EXHAUST PI"
+        ]
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "complaints": 19,
+        "share_pct": 19.6,
+        "excerpts": [
+          "BEGINNING WITH THE FIRST TIME I FILLED THE TANK, WHEN THE FUEL FULLER NOZZLE IS SET TO AUTO FILL, WHEN THE FILLER CLICKS OFF, FUEL GUSHES BACK OUT OF THE TANK AND DOWN THE SIDE OF THE CAR AND ALL OVER",
+          "FILLING GAS TANK AT FUEL PUMP; SET THE AUTO-FIL ON PUMP; HANDLE CLICKED (AS NORMAL WHEN A TANK IS FULL) AS I REACHED TO GRAB THE HANDLE TO PUT AWAY - RIGHT BEFORE I TOUCH THE HANDLE GAS IS REGURGITATE",
+          "WHILE FILLING GAS TANK THE AUTO STOP ON THE PUMP WILL KICK OFF. AFTER A FEW SECONDS FUEL WILL BEGIN TO FLOW OUT OF THE TANK. TRIED TO STOP THE PUMP ON MY OWN AND STILL CONTINUES TO DO IT. SOUNDS LIKE "
+        ]
+      },
+      {
+        "component": "GASOLINE",
+        "complaints": 19,
+        "share_pct": 19.6,
+        "excerpts": [
+          "BEGINNING WITH THE FIRST TIME I FILLED THE TANK, WHEN THE FUEL FULLER NOZZLE IS SET TO AUTO FILL, WHEN THE FILLER CLICKS OFF, FUEL GUSHES BACK OUT OF THE TANK AND DOWN THE SIDE OF THE CAR AND ALL OVER",
+          "FILLING GAS TANK AT FUEL PUMP; SET THE AUTO-FIL ON PUMP; HANDLE CLICKED (AS NORMAL WHEN A TANK IS FULL) AS I REACHED TO GRAB THE HANDLE TO PUT AWAY - RIGHT BEFORE I TOUCH THE HANDLE GAS IS REGURGITATE",
+          "WHILE FILLING GAS TANK THE AUTO STOP ON THE PUMP WILL KICK OFF. AFTER A FEW SECONDS FUEL WILL BEGIN TO FLOW OUT OF THE TANK. TRIED TO STOP THE PUMP ON MY OWN AND STILL CONTINUES TO DO IT. SOUNDS LIKE "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 10,
+        "share_pct": 10.3,
+        "excerpts": [
+          "Alternator having to replace. There is a ticking sound that has been going on and the alternator goes out. I have replaced this part twice and each time before it goes out it starts to tick. Also have",
+          "My Car started smoking from under the hood and coming through the vents . It over heated . So then I opened up the hood and smoke with you coming out a bit crazy then something food from the engine li",
+          "WHILE DRIVING ALL ELECTRICAL AND ENGINE, STEERING SHUT DOWN WITH NO NOTICE....NO LIGHTS OR STEERING WHILE IN THE DARK WILL GET ME KILLED"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 2,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2008,
+        "count": 4
+      },
+      {
+        "year": 2009,
+        "count": 5
+      },
+      {
+        "year": 2010,
+        "count": 6
+      },
+      {
+        "year": 2011,
+        "count": 18
+      },
+      {
+        "year": 2012,
+        "count": 5
+      },
+      {
+        "year": 2013,
+        "count": 11
+      },
+      {
+        "year": 2014,
+        "count": 5
+      },
+      {
+        "year": 2015,
+        "count": 17
+      },
+      {
+        "year": 2016,
+        "count": 8
+      },
+      {
+        "year": 2017,
+        "count": 10
+      },
+      {
+        "year": 2018,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 2
+      },
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "15V313000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2005-2009 Dodge Ram 2500, 2004-2008 Dodge Ram 1500 and Durango, 2006-2009 Dodge Ram 3500, 2008-2010 Dodge Ram 4500 and 5500, 2007-2008 Chrysler Aspen, 2005-2010 Chrysler 300, 300C, 300S, and SRT8, 2006-2010 Dodge Charger, 2005-2008 Magnum, 2005-2",
+        "report_date": "27/05/2015",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V352000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) expanded the affected population to include 73,712 2005-2009 RAM 2500 trucks produced at the St. Louis North Assembly Plant.  With this change, Chrysler is recalling certain model year 2004-2008 RAM 1500, 2005-2009 RAM 2500, 2006-2009 RAM 3500, 2007-2010 RAM 3500 Cab Chassis, 2",
+        "report_date": "24/05/2016",
+        "park_it": true,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:47:53.438Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

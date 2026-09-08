@@ -1,0 +1,212 @@
+{
+  "slug": "2008-toyota-prius",
+  "year": 2008,
+  "make": "Toyota",
+  "model": "Prius",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1497,
+    "top_failure_components": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 579,
+        "share_pct": 38.7,
+        "excerpts": [
+          "Hello.  My 2008 Toyota Prius had a malfunction with the \"combination meter\" which caused the vehicle dashboard to turn off completely, and we could not turn off the engine at times when stopped and pa",
+          "On June 1st yesterday this issue happened again but it was the taillights.   The uploaded document is from the most recent repair shop bill for the front headlight (under warranty since it stopped wor",
+          "I am currently having this issue with Combination Meter, which means the Prius dash board will not show any speed, fuel, P, R, D label and many more important information is not shown on display. I ha"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 395,
+        "share_pct": 26.4,
+        "excerpts": [
+          "2008 Toyota Prius gen2  with 139k miles. ABS, Brake, parking brake, and Traction Control lights all illuminated while driving the other day.  Potential is losing all electronically assisted braking fu",
+          "Brake pedal became hard and vehicle was difficult to stop. ABS warning light appeared on dashboard. This is a problem that Toyota has addressed previously by extending the warranty period to 10 Years/",
+          "The ABS brake booster/accumulator is going out and this has been a known issue with Toyota for years. Mine was purchased used a few years ago and had no issues until recently, as the pump is running m"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 235,
+        "share_pct": 15.7,
+        "excerpts": [
+          "In the cars digital instrument cluster have problem on the same model many of cars because I know many of friends that have same model car and I get problem so I go to the mechanic and the mechanic sa",
+          "Randomly my instrument panel goes blank while in motion and can only be retrieved by hard turning the car off when stopped, you loose your speedometer, lights, and all until reset. Other issue with sp",
+          "Trunk lock will not unlock or allow opening, back latch malfunctions, when car battery dies or car looses power《• you cannot open the trunk and access emergency tools/equipment and battery to jump car"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 171,
+        "share_pct": 11.4,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2008 TOYOTA PRIUS. WHILE DRIVING 20 MPH, THE BRAKE, ANTI-LOCK BRAKING SYSTEM, VEHICLE STABILITY CONTROL, AND TRACTION CONTROL WARNING INDICATORS ILLUMINATED ON THE INSTRUMENT PA",
+          "WHENEVER I'M BRAKING THE VEHICLE AND IT GOES OVER A BUMP IN THE ROAD THE ANTI SKID BRAKING SYSTEM ENGAGES AND BLINKS ON THE DASH AND THERE IS A BRIEF SEVERAL SECOND LOSS OF BRAKING AND I CAN FEEL THE ",
+          "WHILE ENTERING A HIGHWAY ONRAMP IN MY COMPANY'S 2008 TOYOTA PRIUS, THE CAR SUDDENLY BEGAN ACCELERATING OUT OF CONTROL WITHOUT APPLICATION OF THE GAS PEDAL.  I HAD TO PRESS HARD ON THE BRAKE JUST TO HO"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 156,
+        "share_pct": 10.4,
+        "excerpts": [
+          "Randomly my instrument panel goes blank while in motion and can only be retrieved by hard turning the car off when stopped, you loose your speedometer, lights, and all until reset. Other issue with sp",
+          "My name is [XXX]  ,i am filing this report on behalf of My daughter  [XXX]  the driver of the vehicle that involved with the unintended acceleration on the 2009 Toyota Prius .On a good  clear morning ",
+          "I am currently having this issue with Combination Meter, which means the Prius dash board will not show any speed, fuel, P, R, D label and many more important information is not shown on display. I ha"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 152,
+      "fires": 6,
+      "injuries": 71,
+      "deaths": 7
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 6
+      },
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2003,
+        "count": 1
+      },
+      {
+        "year": 2006,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 10
+      },
+      {
+        "year": 2008,
+        "count": 127
+      },
+      {
+        "year": 2009,
+        "count": 245
+      },
+      {
+        "year": 2010,
+        "count": 324
+      },
+      {
+        "year": 2011,
+        "count": 84
+      },
+      {
+        "year": 2012,
+        "count": 95
+      },
+      {
+        "year": 2013,
+        "count": 88
+      },
+      {
+        "year": 2014,
+        "count": 91
+      },
+      {
+        "year": 2015,
+        "count": 72
+      },
+      {
+        "year": 2016,
+        "count": 64
+      },
+      {
+        "year": 2017,
+        "count": 55
+      },
+      {
+        "year": 2018,
+        "count": 72
+      },
+      {
+        "year": 2019,
+        "count": 53
+      },
+      {
+        "year": 2020,
+        "count": 28
+      },
+      {
+        "year": 2021,
+        "count": 29
+      },
+      {
+        "year": 2022,
+        "count": 11
+      },
+      {
+        "year": 2023,
+        "count": 9
+      },
+      {
+        "year": 2024,
+        "count": 14
+      },
+      {
+        "year": 2025,
+        "count": 11
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "12V537000",
+        "component": "STEERING",
+        "summary": "Toyota is recalling certain model year 2004-2009 Prius vehicles manufactured August 5, 2003, through March 30, 2009.  The affected vehicles have a steering intermediate extension shaft assembly built with metal splines that complete the connection from the steering wheel to the steering gear.  These",
+        "report_date": "14/11/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V536000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "Toyota is recalling certain model year 2004-2009 Prius vehicles manufactured August 6, 2003, through March 30, 2009 and FCHV-adv vehicles manufactured December 12, 2008, through September 13, 2011.  During manufacturing, a scratch may have occurred inside of the electrically driven water pump at the",
+        "report_date": "14/11/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V388000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2004-2010 PASSENGER VEHICLES.  THE ACCELERATOR PEDAL CAN GET STUCK IN THE WIDE OPEN POSITION DUE TO ITS BEING TRAPPED BY AN UNSECURED OR INCOMPATIBLE DRIVER'S FLOOR MAT.",
+        "report_date": "05/10/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V036000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2011 PASSENGER VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD WITHOUT THE REQUISITE LOAD CARRYING CAPACITY MODIFICATION LABELS.",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:47:44.183Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

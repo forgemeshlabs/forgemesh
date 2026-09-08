@@ -1,0 +1,124 @@
+{
+  "slug": "2020-kia-sorento",
+  "year": 2020,
+  "make": "Kia",
+  "model": "Sorento",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 134,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 64,
+        "share_pct": 47.8,
+        "excerpts": [
+          "My 2020 Kia Sorento stalled and shut off while driving and eventually stopped working completely, requiring it to be towed to a Kia dealership. The dealership first replaced the starter and then the h",
+          "The vehicle suffered a sudden, severe engine malfunction/misfire while in operation, presenting a serious safety hazard on the road. Following the incident, the vehicle was taken to an authorized deal",
+          "Engine is burning oil at a significant rate, when I get my oil changed at the dealers recommendation it is extremely low. I have to replace the oil regularly between oil changes, and there is an exhau"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 19,
+        "share_pct": 14.2,
+        "excerpts": [
+          "Driving on highway at 65, traction control light, airbag light, parking light, bcw warning, all came in at the same time. I was able to pull off to the side and re start engine to clear the lights. As",
+          "My Oil Pressure Switch is diagnosed as faulty by independent service center as well as Kia. Kia is denying coverage. I have found information that it should be covered. My check engine light shows an ",
+          "To the Office of Defects Investigation,  I am submitting this formal complaint regarding NHTSA Recall 22V703000 (Kia Recall SC249) involving my 2020 Kia Sorento (VIN: [XXX] ).  This recall identifies "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 18,
+        "share_pct": 13.4,
+        "excerpts": [
+          "The contact called on behalf of his daughter who owns 2020 Kia Sorento. The contact stated that the vehicle was taken to a dealer for a routine oil change when the contact was informed that there was ",
+          "The vehicle suffered a sudden, severe engine malfunction/misfire while in operation, presenting a serious safety hazard on the road. Following the incident, the vehicle was taken to an authorized deal",
+          "Oil pressure light would come on and off, dealer said was probably the sensor got it replaced. Came back on the night I picked it back up."
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 9,
+        "share_pct": 6.7,
+        "excerpts": [
+          "The vehicle suffered a sudden, severe engine malfunction/misfire while in operation, presenting a serious safety hazard on the road. Following the incident, the vehicle was taken to an authorized deal",
+          "Component/System Affected: UNKNOWN – suspected fuel system or related component due to strong gasoline odor. Vehicle is available for inspection upon request.  What Happened: There is a strong gasolin",
+          "To the Office of Defects Investigation,  I am submitting this formal complaint regarding NHTSA Recall 22V703000 (Kia Recall SC249) involving my 2020 Kia Sorento (VIN: [XXX] ).  This recall identifies "
+        ]
+      },
+      {
+        "component": "TRAILER HITCHES",
+        "complaints": 9,
+        "share_pct": 6.7,
+        "excerpts": [
+          "The contact owned a 2020 Kia Sorento. The contact stated that while driving at an undisclosed speed, the contact noticed smoke coming from the vehicle. The contact stated the fuse box located on the d",
+          "The contact owns a 2020 Kia Sorento. The contact stated that on multiple occasions while driving at various speeds, there was an abnormal burning odor inside the cabin of the vehicle. The contact rece",
+          "The contact owns a 2020 Kia Sorento. The contact received notification of NHTSA Campaign Number: 22V703000 (Trailer Hitches); however, the part to do the recall repair was unavailable. The contact sta"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 11,
+      "injuries": 21,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 12
+      },
+      {
+        "year": 2021,
+        "count": 9
+      },
+      {
+        "year": 2022,
+        "count": 16
+      },
+      {
+        "year": 2023,
+        "count": 16
+      },
+      {
+        "year": 2024,
+        "count": 15
+      },
+      {
+        "year": 2025,
+        "count": 44
+      },
+      {
+        "year": 2026,
+        "count": 20
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "22V703000",
+        "component": "TRAILER HITCHES",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2016-2022 Sorento, 2021-2022 Sorento Hybrid (HEV), 2022-2023 Sorento Plug-In Hybrid (PHEV), and 2017-2022 Sportage vehicles equipped with a tow hitch harness installed as original equipment, or purchased as an accessory through a Kia dealership.  Debris a",
+        "report_date": "19/09/2022",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:35.160Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

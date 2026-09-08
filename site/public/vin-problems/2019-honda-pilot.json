@@ -1,0 +1,228 @@
+{
+  "slug": "2019-honda-pilot",
+  "year": 2019,
+  "make": "Honda",
+  "model": "Pilot",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 894,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 260,
+        "share_pct": 29.1,
+        "excerpts": [
+          "The contact owns a 2019 Honda Pilot. The contact stated that the check engine warning light was illuminated. The vehicle was taken to the dealer and was diagnosed with fuel injector failure. The conta",
+          "When at a red light or stop sign the vehicle will idle and turn off. The vehicle doesn’t want to restart. It takes a bit to get started again then it progresses.While parked I turned the car off for 5",
+          "warning lights and problems"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 229,
+        "share_pct": 25.6,
+        "excerpts": [
+          "My engine light came on, and the codes reported were P0441 P04F1 U0401 and P0172. I took the car to the dealer for a diagnostic and they stated it was the fuel injectors. Their is a TSB 21-010 related",
+          "The vehicle experienced a check engine light with code P0430 and a failed Air/Fuel ratio test due to defective fuel injectors leaking raw fuel into the exhaust bank. This failure completely mirrors th",
+          "The contact owns a 2019 Honda Pilot. The contact stated that while merging onto the highway at 40 MPH, the vehicle lost power and several warning lights illuminated on the instrument panel. The contac"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 119,
+        "share_pct": 13.3,
+        "excerpts": [
+          "My dash will light up and say that cruise control is not working and lane keep assist is also not working",
+          "warning lights and problems",
+          "A little after hitting 114000 miles, all the lights came on the dashboard: brake system, ACC, LKAS, automatic high beams, collision mitigation system. We had the battery checked and it is not the batt"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 112,
+        "share_pct": 12.5,
+        "excerpts": [
+          "The vehicle experienced a check engine light with code P0430 and a failed Air/Fuel ratio test due to defective fuel injectors leaking raw fuel into the exhaust bank. This failure completely mirrors th",
+          "Left home driving 5 min down the road the car suddenly started hiccuping as to power I almost wrecked it recovered but started again …was a prime example of that fuel pump issue …i turned around drove",
+          "I am submitting this complaint regarding my 2019 Honda Pilot after experiencing a failure of the fuel rail assembly that resulted in the check engine light illuminating and required repair at my own e"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 92,
+        "share_pct": 10.3,
+        "excerpts": [
+          "The contact owns a 2019 Honda Pilot. The contact stated that the check engine warning light was illuminated. The vehicle was taken to the dealer and was diagnosed with fuel injector failure. The conta",
+          "The contact owns a 2019 Honda Pilot. The contact stated that the engine light was illuminated. The transmission emission message was displayed. The contact stated that the failure was associated with ",
+          "Ön teker sağ ve sol teker bağlantı yerleri sübvansiyon bağlantı yerleri aşırı paslanma var. tesadüfen gördüm arabam 61500 mile"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 13,
+      "fires": 5,
+      "injuries": 15,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 8
+      },
+      {
+        "year": 2019,
+        "count": 78
+      },
+      {
+        "year": 2020,
+        "count": 48
+      },
+      {
+        "year": 2021,
+        "count": 45
+      },
+      {
+        "year": 2022,
+        "count": 163
+      },
+      {
+        "year": 2023,
+        "count": 143
+      },
+      {
+        "year": 2024,
+        "count": 173
+      },
+      {
+        "year": 2025,
+        "count": 138
+      },
+      {
+        "year": 2026,
+        "count": 96
+      }
+    ]
+  },
+  "recalls": {
+    "count": 13,
+    "recalls": [
+      {
+        "campaign_number": "20V439000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2020 Odyssey, 2019-2020 Passport, and 2019-2021 Pilot vehicles.   Incorrect instrument panel control module software can cause the instrument panel to not display critical information, such as engine oil pressure, speedometer, and gear selec",
+        "report_date": "28/07/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V440000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2021 Pilot, 2019-2020 Odyssey and 2019-2020 Passport vehicles.  Incorrect central network software programming may cause several errors to occur that can delay or prevent the rearview camera image from displaying.  As such, these vehicles fa",
+        "report_date": "28/07/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V932000",
+        "component": "STRUCTURE:BODY:HOOD",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019 Passport, 2016-2019 Pilot, and 2017-2020 Ridgeline vehicles.  The hood latch striker may become damaged and separate from the hood, which can result in the hood opening while driving.",
+        "report_date": "29/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V165000",
+        "component": "TIRES",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2020 Passport and Pilot vehicles equipped with Continental tires.  On the affected vehicles, it is possible that one or more tires were cured for too long during tire production.",
+        "report_date": "11/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V215000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2020 Acura MDX, MDX Sport Hybrid, RDX, TLX, Honda Accord, Civic Hatchback, Insight, 2019 Acura ILX, Honda Accord Hybrid, Civic Coupe, Civic Coupe Si, Civic Sedan, Civic Sedan Si, Civic Type R, Fit, HR-V, Odyssey, Passport, Pilot and Ridgelin",
+        "report_date": "25/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V784000",
+        "component": "STRUCTURE:BODY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2020 Pilot and 2019 Passport vehicles.  The front frame left and right side upper members may not have been welded completely to the unibody.  As such, these vehicles may fail to comply with the requirements of Federal Motor Vehicle Safety S",
+        "report_date": "31/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V298000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:GASOLINE:BELTS AND ASSOCIATED PULLEYS",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2019 Acura MDX and Honda Pilot vehicles and 2019 Acura RLX, RLX Sport Hybrid, TLX and Honda Odyssey and Ridgeline vehicles.  The timing belt teeth may separate from the belt.",
+        "report_date": "12/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V848000",
+        "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019 Honda Ridgeline and Pilot vehicles.  The mounting holes for the clip that secures the right center pillar trim panel may be larger than intended.   In the event of a crash necessitating right side curtain air bag deployment, the clip may not",
+        "report_date": "28/11/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V431000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2023 Odyssey, 2019-2022 Pilot, and 2019-2023 Passport vehicles.  Due to a faulty Media Oriented Systems Transport (MOST) communication coaxial cable connector, the rearview camera image may not appear on the display.  As such, these vehicles",
+        "report_date": "15/06/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V751000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2015-2020 Acura TLX, 2016-2020 Acura MDX, 2016 and 2018-2019 Pilot, 2017 and 2019 Ridgeline, and 2018-2019 Odyssey vehicles.  Due to a manufacturing error, the connecting rod bearing in the engine may wear and seize, damaging the engine.",
+        "report_date": "13/11/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V365000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "American Honda Motor Company (Honda) is recalling certain 2016-2022 Honda Pilot, 2017-2023 Ridgeline, 2019-2023 Passport, and 2014-2020 Acura MDX vehicles that were sold in Connecticut, Delaware, District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minne",
+        "report_date": "04/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:48.136Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

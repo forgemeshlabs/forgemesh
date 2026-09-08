@@ -1,0 +1,172 @@
+{
+  "slug": "2016-dodge-charger",
+  "year": 2016,
+  "make": "Dodge",
+  "model": "Charger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 182,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 53,
+        "share_pct": 29.1,
+        "excerpts": [
+          "The contact owns a 2016 Dodge Charger. The contact stated that the dashboard and plastic around the gear shifter were folding outward. The contact was concerned that the parts would detach. The local ",
+          "The interior door panels on both front doors of my 2016 Dodge Charger SXT have warped and pulled away from the frame near the window area. The defect appears to be heat-related, and the panels have pr",
+          "Unexpected vehicle movement from power Train.  I was changing my tire and the jack caused my vehicle body side to deform causing the vehicle to fall and nearly broke my leg."
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 25,
+        "share_pct": 13.7,
+        "excerpts": [
+          "I am starting to smell fuel inside of my car everytime I fill up my vehicle.",
+          "Smelled fuel leaking inside car towards rear seat. Electrical connector to fuel pump had fuel surrounding it (located under back seat, on left side of car). Upon disconnecting connector, I notice two ",
+          "The car has had over 5 batteries in the last year and 3 in the last 2 months. Something is constantly draining the battery in my car and making them go very bad. Also the car will be dead if I park it"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 25,
+        "share_pct": 13.7,
+        "excerpts": [
+          "The contract owns a 2016 Dodge Charger. The contact stated that while driving approximately 38 MPH, the vehicle began cranking. The contact was able to pull to the side of the road, where they called ",
+          "The contact owns a 2016 Dodge Charger. The contact stated that while driving 40 MPH, while the accelerator pedal was depressed, there was an abnormal thumping sound coming from the front passenger’s s",
+          "Unknown/. When Press on brake car still moves. Also when put in parked car will move forward or backwards a few inches. Steering wheel does not feel right as if feels not secure when driving.when tryi"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 25,
+        "share_pct": 13.7,
+        "excerpts": [
+          "Dodge Charger, 2016, won't turn on a list. Key is in the cup holder. On the driver's side also there are many videos showing this same issue with many dodge, twenty sixteen chargers.",
+          "I recently tried to get my oil changed and they told me that the oil filter housing was cracked. After doing research on this there is several sources saying that there is lots that has had the same m",
+          "The contact owns a 2016 Dodge Charger. The contact purchased the vehicle, and the vehicle was taken for the Emissions Test; however, the vehicle failed the Emissions Test. The contact notified the dea"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 25,
+        "share_pct": 13.7,
+        "excerpts": [
+          "The contact owns a 2016 Dodge Charger. The contact purchased the vehicle, and the vehicle was taken for the Emissions Test; however, the vehicle failed the Emissions Test. The contact notified the dea",
+          "Odometer Faud. The contact purchased a 2016 Dodge Charger. The contact stated that while attempting to have the vehicle diagnosed, it was discovered that there was a mileage discrepancy. The vehicle w",
+          "There’s multiple issues I’ve had with this car since day one. One of them almost causing a crash on the interstate going 70mph. The car shut down though the lights remained on and the message service "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 2,
+      "injuries": 15,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 11
+      },
+      {
+        "year": 2017,
+        "count": 15
+      },
+      {
+        "year": 2018,
+        "count": 30
+      },
+      {
+        "year": 2019,
+        "count": 28
+      },
+      {
+        "year": 2020,
+        "count": 29
+      },
+      {
+        "year": 2021,
+        "count": 21
+      },
+      {
+        "year": 2022,
+        "count": 15
+      },
+      {
+        "year": 2023,
+        "count": 10
+      },
+      {
+        "year": 2024,
+        "count": 9
+      },
+      {
+        "year": 2025,
+        "count": 9
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "18E053000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain Mopar Stage 1 Kit Performance Packages Powertrain Control Modules (PCM) Part Numbers P5160023, P5160025, and Demon Crate PCM Part Number 68412287AA.  The PCMs are being recalled to address a defect that could prevent the cruise control system from disengagi",
+        "report_date": "12/07/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V281000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2015-2018 Dodge Charger pursuit police vehicles equipped with all-wheel drive and V8 engines. The front driveshaft universal joint may seize or fracture causing the shaft to detach from the vehicle.",
+        "report_date": "01/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V824000",
+        "component": "EQUIPMENT",
+        "summary": "Chrysler (FCA US LLC) is recalling various Dodge, Chrysler, and RAM vehicles equipped with Kidde Plastic-Handle or Push Button 'Pindicator' Fire Extinguishers.  A list of the affected trailer models is available at: https://static.nhtsa.gov/odi/rcl/2017/RMISC-17V824-0103.pdf.  These extinguishers ma",
+        "report_date": "21/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V097000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2017 Dodge Charger and Chrysler 300 vehicles equipped with all-wheel drive (AWD).  The front driveshaft bolts may loosen and allow the front driveshaft to disconnect, potentially causing a loss of motive power.",
+        "report_date": "14/02/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V043000",
+        "component": "STRUCTURE",
+        "summary": "FCA US LLC (Chrysler) is recalling certain model year 2011-2016 Dodge Charger vehicles manufactured August 23, 2010, to January 7, 2016.  When an affected vehicle is lifted using the supplied tire jack without chocking the wheels, the vehicle's body-side sill may give causing the tire jack to fail a",
+        "report_date": "28/01/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:50.732Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

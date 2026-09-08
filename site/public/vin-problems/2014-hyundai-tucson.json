@@ -1,0 +1,148 @@
+{
+  "slug": "2014-hyundai-tucson",
+  "year": 2014,
+  "make": "Hyundai",
+  "model": "Tucson",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 202,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 111,
+        "share_pct": 55,
+        "excerpts": [
+          "Complete engine failure in July of 2024. When the car was sold to us it was under recall and not repaired and we were not told there was a recall. When the engine failed we were told we were at fault ",
+          "The contact owns a 2014 Hyundai Tucson. The contact stated that while driving 40 MPH, the vehicle started making an abnormal ticking sound. While accelerating, the sound level increased. The contact s",
+          "My truck started knock and losing power as I drove it. I took it to get serviced put the machine same is was a recall on the engine. I took it to the Hyundai dealership with in 2 weeks he said it was "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 56,
+        "share_pct": 27.7,
+        "excerpts": [
+          "As I was driving on 76 in Philadelphia  pa my engine seized it wouldn't go over 5mph.  I panicked because of the highway I was on that.  I put my hazard lights on as I made my way over to the side. My",
+          "The contact owns a 2014 Hyundai Tucson. The contact stated that while driving at an undisclosed speed, the ABS, DBC, and ESC warning lights illuminated. The vehicle was taken to the dealer. The dealer",
+          "The contact owns a 2014 Hyundai Tucson. The contact received notification of NHTSA Campaign Number: 22V056000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet availabl"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 41,
+        "share_pct": 20.3,
+        "excerpts": [
+          "The contact owns a 2014 Hyundai Tucson. The contact stated that while driving at an undisclosed speed, the ABS, DBC, and ESC warning lights illuminated. The vehicle was taken to the dealer. The dealer",
+          "The contact owns a 2014 Hyundai Tucson. The contact received notification of NHTSA Campaign Number: 22V056000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet availabl",
+          "The contact owns a 2014 Hyundai Tucson. The contact received notification of NHTSA Campaign Number: 22V056000 (Service Brakes, Hydraulic) however, the part to do the recall repair was unavailable. The"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 15,
+        "share_pct": 7.4,
+        "excerpts": [
+          "I brought my car to dealership three times in two month period time. The first time was because car wasn’t starting and I need to replace spark plugs , second time was because camshaft position sensor",
+          "My car started to slightly jerk when beginning to drive, the next day, while crossing a very busy road, it made a loud clunking noise and harsh jerking. This happened 3 times and then subsided. I took",
+          "Took car in back in April 2022 to settle the recall. After servicing the car the abs and two other sensor lights came on, it’s now August 2023 it has less than 100,000 miles and it’s less than 10 year"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 11,
+        "share_pct": 5.4,
+        "excerpts": [
+          "The engine experienced catastrophic failure. A piston punctured the engine block, likely due to failure of the connecting rods, an issue known to be associated with the recalled Theta II engine. The e",
+          "While driving on street lost power in traffic then a loud knocking noise.pulled over to a mechanic shop and they told me that it was engine pulleys was bad plus 2 transmitters was bad .  I only had th",
+          "I was traveling in Texas with my child on the highway going 65 when my vehicle went into limp mode and immediately started making a noise like a card in a bicycle tire and would not accelerate. After "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 3,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 10
+      },
+      {
+        "year": 2015,
+        "count": 4
+      },
+      {
+        "year": 2016,
+        "count": 5
+      },
+      {
+        "year": 2017,
+        "count": 5
+      },
+      {
+        "year": 2018,
+        "count": 22
+      },
+      {
+        "year": 2019,
+        "count": 15
+      },
+      {
+        "year": 2020,
+        "count": 4
+      },
+      {
+        "year": 2021,
+        "count": 28
+      },
+      {
+        "year": 2022,
+        "count": 69
+      },
+      {
+        "year": 2023,
+        "count": 15
+      },
+      {
+        "year": 2024,
+        "count": 12
+      },
+      {
+        "year": 2025,
+        "count": 10
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "14V245000",
+        "component": "AIR BAGS",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2011-2014 Hyundai Tucson vehicles manufactured January 3, 2011, through December 23, 2013.  In the affected vehicles, the air bag assembly installed in the steering wheel may come loose from its mounting.",
+        "report_date": "13/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V056000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2016-2018 Santa Fe, 2017-2018 Santa Fe Sport, 2019 Santa Fe XL, and 2014-2015 Tucson vehicles.  The Anti-Lock Brake System (ABS) module could malfunction and cause an electrical short, which could result in an engine compartment fire.",
+        "report_date": "03/02/2022",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:54.688Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

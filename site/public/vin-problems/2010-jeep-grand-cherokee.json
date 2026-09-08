@@ -1,0 +1,180 @@
+{
+  "slug": "2010-jeep-grand-cherokee",
+  "year": 2010,
+  "make": "Jeep",
+  "model": "Grand Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 117,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 46,
+        "share_pct": 39.3,
+        "excerpts": [
+          "The air bag light comes on every now and then. It happened in my previous jeep and is happening in my dad's Chrysler Sebring car as well. I seen this problem with the airbag   automatic deactivation w",
+          "The contact owns a 2010 Jeep Grand Cherokee.  The contact stated while attempting to shut-off the vehicle, the vehicle remained on when the key was removed from the ignition. The contact stated that t",
+          "REFERENCE: NHTSA CAMPAIGN NUMBER: 10V200000  WHILE DRIVING, IF THE VEHICLE GOES OVER A BUMP IN THE ROAD THE KEY FOB MAY FALL OUT OF THE IGNITION MODULE.  WHILE STATIONARY, THE KEY MAY BE REMOVED FROM "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 22,
+        "share_pct": 18.8,
+        "excerpts": [
+          "WIN MODULE FAILURE CAUSE CAR TO STALL WHILE DRIVING AND NOT STARTING",
+          "IN DECEMBER 2019 I RECEIVED A RECALL NOTICE V51 FOR AN SYSTEM UPDATE TO THE POWERTRAIN (POWER CONTROL MODULE). ON 1/30/20 I TOOK MY BELOVED JEEP TO PUTNUM CHRYSLR JEEP IN BURLINGAME, CA TO PERFORM THE",
+          "CONSTANT RUMBLE IN REAR END OF VEHICLE. DEALER HAS HAD 5 SEPARATE OCCASIONS AND CAN'T RESOLVE. FEELS LIKE REST WHEELS WILL FALL OFF. ALSO, INTERMITTENTLY WHEN TURNING IGNITION SWITCH, VEHICLE WON'T ST"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 21,
+        "share_pct": 17.9,
+        "excerpts": [
+          "Driving 2010 Jeep Grand Cherokee with HEMI engine on the freeway and the car lost engine power causing it to rapidly slow.  Was able to make it safely to the side of the freeway, although multiple car",
+          "WIN MODULE FAILURE CAUSE CAR TO STALL WHILE DRIVING AND NOT STARTING",
+          "I WAS DRIVING MY CAR DOWN A HILL AT APPROXIMATELY 45 MILES AND HOUR, ECO MODE WAS ACTIVATED, AND BEGAN TO SLOW DOWN THE LIGHT WHEN SUDDENLY MY CHECK ENGINE LIGHT AND TRACTION CONTROL LIGHT CAME ON. I "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 12,
+        "share_pct": 10.3,
+        "excerpts": [
+          "I was driving to work and the light turned red and I went to press on my brakes and if they didn't budge at all even all my body weight on it I couldn't get it to stop I almost smashed into the person",
+          "TIPM OR FRONT CONTROL MODULE SHUTTING OFF CAR WHILE DRIVING, TURNING OFF AIRBAGS AND NOT LETTING ABS SYSTEM FUNCTION PROPERLY.  THE ENGINE HAS SHUT DOWN SEVERAL TIMES WHILE I'VE BEEN DRIVING SINCE I P",
+          "IT STARTED OVER BUMP IN THE ROAD THEN BRAKE PEDAL WOULD GO ALL THE WAY DOWN NOT STOPPING CORRECTLY NOW IT LIKE THAT ALL THE TIME WHILE IN MOTION OR AT A HALT. TURNING KEY IN IGNITION CAUSES A STALL LI"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 10,
+        "share_pct": 8.5,
+        "excerpts": [
+          "The Air Bag warning light came on after we got an oil change for our car.",
+          "The air bag light comes on every now and then. It happened in my previous jeep and is happening in my dad's Chrysler Sebring car as well. I seen this problem with the airbag   automatic deactivation w",
+          "TIPM OR FRONT CONTROL MODULE SHUTTING OFF CAR WHILE DRIVING, TURNING OFF AIRBAGS AND NOT LETTING ABS SYSTEM FUNCTION PROPERLY.  THE ENGINE HAS SHUT DOWN SEVERAL TIMES WHILE I'VE BEEN DRIVING SINCE I P"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 4,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 11
+      },
+      {
+        "year": 2011,
+        "count": 4
+      },
+      {
+        "year": 2012,
+        "count": 7
+      },
+      {
+        "year": 2013,
+        "count": 15
+      },
+      {
+        "year": 2014,
+        "count": 18
+      },
+      {
+        "year": 2015,
+        "count": 10
+      },
+      {
+        "year": 2016,
+        "count": 6
+      },
+      {
+        "year": 2017,
+        "count": 8
+      },
+      {
+        "year": 2018,
+        "count": 9
+      },
+      {
+        "year": 2019,
+        "count": 13
+      },
+      {
+        "year": 2020,
+        "count": 10
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 1
+      },
+      {
+        "year": 2024,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "13V175000",
+        "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2005-2010 Jeep Grand Cherokee vehicles manufactured February 11, 2004, through March 9, 2010; and 2006-2010 Jeep Commander vehicles manufactured January 31, 2005, through March 10, 2010.  A transfer case electrical failure may result in a",
+        "report_date": "07/05/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V200000",
+        "component": "ELECTRICAL SYSTEM:IGNITION:MODULE",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2010 CHRYSLER 300, DODGE CHALLENGER, CHARGER, JEEP COMMANDER, GRAND CHEROKEE AND DODGE RAM VEHICLES.  THESE VEHICLES MAY HAVE BEEN BUILT WITH A WIRELESS IGNITION NODE (WIN) MODULE EXHIBITING A BINDING CONDITION OF THE SOLENOID LATCH.",
+        "report_date": "11/05/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V454000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2010 JEEP GRAND CHEROKEE PASSENGER VEHICLES MANUFACTURED FROM OCTOBER 22 THROUGH NOVEMBER 12, 2009.  THE PASSENGER SIDE AIRBAG MAY NOT PROPERLY DEPLOY THROUGH THE INSTRUMENT PANEL TEAR SEAM.",
+        "report_date": "25/11/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V085000",
+        "component": "EQUIPMENT",
+        "summary": "CHRYSLER IS RECALLING MODEL YEAR 2010 JEEP COMMANDER AND GRAND CHEROKEE VEHICLES.  THEY MAY HAVE BEEN BUILT WITH AN IMPROPERLY MANUFACTURED REAR TRACK BAR.",
+        "report_date": "05/03/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V009000",
+        "component": "SERVICE BRAKES, HYDRAULIC",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2010 CHRYSLER SEBRING; DODGE AVENGER AND NITRO; JEEP LIBERTY, COMMANDER AND GRAND CHEROKEE; AND MODEL YEAR 2009-2010 DODGE RAM TRUCK.  THESE VEHICLES MAY HAVE BEEN BUILT WITH AN IMPROPERLY FORMED OR MISSING BRAKE BOOSTER INPUT ROD RETAINING CLIP.",
+        "report_date": "11/01/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:51:40.216Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

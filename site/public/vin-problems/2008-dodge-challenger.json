@@ -1,0 +1,126 @@
+{
+  "slug": "2008-dodge-challenger",
+  "year": 2008,
+  "make": "Dodge",
+  "model": "Challenger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 10,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 4,
+        "share_pct": 40,
+        "excerpts": [
+          "TAKING RECALL   THIS CAR WAS BOUGHT IN NOVEMBER LESS THAN 100 MILES WAS PUT ON IT RAN HOT THEN DOOR LOCKS WIDOWS STOPPED WORKING AIR BAG AND ENGINE LIGHT STAYED ON 3 MECHANICS NO-ONE CAN FIGURE IT OUT",
+          "I PURCHASED A NEW 2008 DODGE CHALLENGER SRT-8 IN 2008 AND EVERY SINCE HAVE HAD PROBLEMS. CHRYSLER WOULD FIX EVERY TIME SOMETHING WOULD HAVE PROBLEMS. AFTER THE FIRST MOTOR WENT OUT (DUE TO ENGINEERING",
+          "IGNITION LOCK WORKS ERRATICALLY AND BINDS. INTERMITTENT OPERATION OF DOOR LOCKS, WINDOWS AND PANEL LIGHTS. SOME TIME IT WILL NOT START, SOME TIME WHEN THE KEY IS REMOVED THE CHIME WILL STAY ON AFTER W"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 4,
+        "share_pct": 40,
+        "excerpts": [
+          "TAKING RECALL   THIS CAR WAS BOUGHT IN NOVEMBER LESS THAN 100 MILES WAS PUT ON IT RAN HOT THEN DOOR LOCKS WIDOWS STOPPED WORKING AIR BAG AND ENGINE LIGHT STAYED ON 3 MECHANICS NO-ONE CAN FIGURE IT OUT",
+          "TL* TAKATA RECALL. THE CONTACT OWNS A 2008 DODGE CHALLENGER. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 15V444000 (AIR BAGS); HOWEVER, THE PART TO DO THE REPAIR WAS UNAVAILABLE. THE C",
+          "TAKATA RECALL: TL* THE CONTACT OWNS A 2008 DODGE CHALLENGER. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 15V313000 (AIR BAGS); HOWEVER, THE PART TO DO THE REPAIR WAS UNAVAILABLE. THE C"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 3,
+        "share_pct": 30,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2008 DODGE CHALLENGER. THE CONTACT STATED WHILE DRIVING 35 MPH, THE VEHICLE DECELERATED AND STALLED. THE CONTACT STATED NO WARNING LIGHT WAS ILLUMINATED. THE CONTACT RESTARTED T",
+          "EXITING THE FREEWAY VIA OFF RAMP THE CAR SUDDENLY STALLED AND JUST AS QUICK AS IT STALL IT STARTED BACK UP. THE WHOLE TIME IT WAS IN GEAR AND I NEVER TOUCHED ANYTHING.  ABOUT A MILE PRIOR ON THE FREEW",
+          "I PURCHASED A NEW 2008 DODGE CHALLENGER SRT-8 IN 2008 AND EVERY SINCE HAVE HAD PROBLEMS. CHRYSLER WOULD FIX EVERY TIME SOMETHING WOULD HAVE PROBLEMS. AFTER THE FIRST MOTOR WENT OUT (DUE TO ENGINEERING"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 2,
+        "share_pct": 20,
+        "excerpts": [
+          "My throttle got stuck open four times and the last time I almost lost my life and was in an accident. This is a known issue on the dodge forums but dodge refuses to call this defective and make it a r",
+          "TL* THE CONTACT OWNS A 2008 DODGE CHALLENGER. THE CONTACT STATED WHILE DRIVING 35 MPH, THE VEHICLE DECELERATED AND STALLED. THE CONTACT STATED NO WARNING LIGHT WAS ILLUMINATED. THE CONTACT RESTARTED T"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 2,
+        "share_pct": 20,
+        "excerpts": [
+          "EXITING THE FREEWAY VIA OFF RAMP THE CAR SUDDENLY STALLED AND JUST AS QUICK AS IT STALL IT STARTED BACK UP. THE WHOLE TIME IT WAS IN GEAR AND I NEVER TOUCHED ANYTHING.  ABOUT A MILE PRIOR ON THE FREEW",
+          "I PURCHASED A NEW 2008 DODGE CHALLENGER SRT-8 IN 2008 AND EVERY SINCE HAVE HAD PROBLEMS. CHRYSLER WOULD FIX EVERY TIME SOMETHING WOULD HAVE PROBLEMS. AFTER THE FIRST MOTOR WENT OUT (DUE TO ENGINEERING"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 1,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 4
+      },
+      {
+        "year": 2016,
+        "count": 2
+      },
+      {
+        "year": 2017,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "16V352000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) expanded the affected population to include 73,712 2005-2009 RAM 2500 trucks produced at the St. Louis North Assembly Plant.  With this change, Chrysler is recalling certain model year 2004-2008 RAM 1500, 2005-2009 RAM 2500, 2006-2009 RAM 3500, 2007-2010 RAM 3500 Cab Chassis, 2",
+        "report_date": "24/05/2016",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V444000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2008-2010 Dodge Challenger vehicles manufactured September 19, 2007, to October 29, 2010.  The affected vehicles are equipped with a dual-stage driver frontal air bag that may be susceptible to moisture intrusion which, over time, could cause the",
+        "report_date": "10/07/2015",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V458000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:PARK/NEUTRAL START INTERLOCK SWITCH",
+        "summary": "CHRYSLER IS RECALLING 6,636 MY 2008-2009 DODGE CHALLENGER VEHICLES EQUIPPED WITH AUTOMATIC TRANSMISSIONS AND \"KEYLESS GO\" OPTION.  THESE VEHICLES FAIL TO CONFORM TO THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 114, \"THEFT PREVENTION.\"  IF THE STOP/START BUTTON IS PRESSED AND HELD AN",
+        "report_date": "10/09/2008",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:47:52.125Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

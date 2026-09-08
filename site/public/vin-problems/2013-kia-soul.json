@@ -1,0 +1,168 @@
+{
+  "slug": "2013-kia-soul",
+  "year": 2013,
+  "make": "Kia",
+  "model": "Soul",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 660,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 282,
+        "share_pct": 42.7,
+        "excerpts": [
+          "The contact owns a 2013 Kia Soul. The contact stated that the check engine warning light was illuminated. The contact stated that there was a misfire in the engine. The contact associated the failure ",
+          "My vehicle engine failed on the interstate after getting KDS update on my vehicle and it is covered Kia Corporate and the franchise dealer are actively claiming they 'cannot share or access' the vehic",
+          "Vehicle is experiencing rod-knock and engine performance issues along with a P0420 code for the catalytic converter.  After using a diagnostic tool to retrieve code, a recall was present for the exist"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 150,
+        "share_pct": 22.7,
+        "excerpts": [
+          "The contact owns a 2013 Kia Soul. The contact stated that while the vehicle was parked and attempting to start the vehicle, there was a popping and knocking sound coming from the steering wheel. No wa",
+          "Steering wheel column coupler clicking and wore out",
+          "There is a distinct click when the steering wheel is center (car going straight).  there is a click and a notch feeling when you turn the wheel back and forth from center. Appears to be a common probl"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 99,
+        "share_pct": 15,
+        "excerpts": [
+          "The contact owns a 2013 Kia Soul. The contact stated that the vehicle spontaneously caught fire while parked unattended at 3 am. All the warning lights were illuminated prior to the failure, and the v",
+          "The contact owned a 2013 Kia Soul. The contact stated that while the vehicle was parked at night, the neighbor knocked on the door approximately 4:00 AM in the morning to alert the contact that the ve",
+          "On 10/23/25, my car caught fire due to the ABS module."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 71,
+        "share_pct": 10.8,
+        "excerpts": [
+          "Put gas in it and out the blue would go pass 30 rpm we never had any issues with it I work on cars for a living I have spend over 3000 in new parts now I got it tow to Firestone they telling me it’s s",
+          "Recall since I got the car but never been able to afford to bring it go he fixed. Single mother of 2 boys. Both autistic, one age [XXX]  and one age [XXX] .  INFORMATION REDACTED PURSUANT TO THE FREED",
+          "On [XXX] Jim Ellis Kia of Kennesaw performed Recall SC284 on my 2013 Kia Soul (VIN: [XXX] ), replacing the HECU fuse.  The next day, [XXX], the vehicle lost acceleration while driving, produced a muff"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 67,
+        "share_pct": 10.2,
+        "excerpts": [
+          "The contact owns a 2013 Kia Soul. The contact stated that the vehicle spontaneously caught fire while parked unattended at 3 am. All the warning lights were illuminated prior to the failure, and the v",
+          "The contact owned a 2013 Kia Soul. The contact stated that while the vehicle was parked at night, the neighbor knocked on the door approximately 4:00 AM in the morning to alert the contact that the ve",
+          "The contact owned a 2013 Kia Soul. The contact received notifications of NHTSA Campaign Numbers: 19V120000 (Engine, Engine and Engine Cooling) and NHTSA Campaign Number: 23V652000 (SERVICE BRAKES, HYD"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 22,
+      "fires": 45,
+      "injuries": 25,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 5
+      },
+      {
+        "year": 2013,
+        "count": 25
+      },
+      {
+        "year": 2014,
+        "count": 20
+      },
+      {
+        "year": 2015,
+        "count": 16
+      },
+      {
+        "year": 2016,
+        "count": 11
+      },
+      {
+        "year": 2017,
+        "count": 16
+      },
+      {
+        "year": 2018,
+        "count": 50
+      },
+      {
+        "year": 2019,
+        "count": 109
+      },
+      {
+        "year": 2020,
+        "count": 70
+      },
+      {
+        "year": 2021,
+        "count": 55
+      },
+      {
+        "year": 2022,
+        "count": 56
+      },
+      {
+        "year": 2023,
+        "count": 103
+      },
+      {
+        "year": 2024,
+        "count": 82
+      },
+      {
+        "year": 2025,
+        "count": 27
+      },
+      {
+        "year": 2026,
+        "count": 14
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "19V120000",
+        "component": "ENGINE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2012-2016 Kia Soul vehicles equipped with 1.6L Gasoline Direct Injection (GDI) engines.  High exhaust gas temperatures may damage the catalytic converter, possibly resulting in abnormal engine combustion and damage to one or more of the engine's pistons ",
+        "report_date": "22/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V822000",
+        "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2010-2013 Kia Soul vehicles manufactured January 8, 2009, to October 2, 2013, equipped with a sun roof.  A headliner plate may detach during deployment of the curtain air bag.",
+        "report_date": "29/12/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V652000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2010-2019 Borrego, 2014-2016 Cadenza, 2010-2013 Forte, Forte Koup, Sportage, 2015-2018 K900, 2011-2015 Optima, 2011-2013 Optima Hybrid, Soul, 2012-2017 Rio, 2011-2014 Sorento, and 2010-2011 Rondo vehicles.  The Hydraulic Electronic Control Unit (HECU) may",
+        "report_date": "25/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:56:59.579Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

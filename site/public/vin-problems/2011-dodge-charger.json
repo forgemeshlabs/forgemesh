@@ -1,0 +1,232 @@
+{
+  "slug": "2011-dodge-charger",
+  "year": 2011,
+  "make": "Dodge",
+  "model": "Charger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 694,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 395,
+        "share_pct": 56.9,
+        "excerpts": [
+          "Manufacturer failed to provide an adequate remedy for Safety Recall 17V-435 (T36). On 09/12/2018, the dealer \"inspected\" the 180-AMP alternator (Part 4801833AB) and cleared it as safe. On 09/25/2019, ",
+          "The Anti-Lock Brake module has prematurely failed in the vehicle. The dealership can and will inspect the fault but they will say they are not trained or authorizes to fix the module. I was directed t",
+          "My display screen went completely black. The blind spot warning system does not work at all as well when the display screen went black. It's completely unresponsive, no navigation, radio, entertainmen"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 158,
+        "share_pct": 22.8,
+        "excerpts": [
+          "The contact owns a 2011 Dodge Charger. The contact stated that the front headlamps failed to provide adequate illumination while driving. The vehicle was taken to an independent mechanic, who replaced",
+          "Both low headlights went out while driving at night. I have changed the bulbs out multiple times and the continue to blow out.",
+          "The contact owns a 2011 Dodge Charger. The contact stated while driving, the driver-side headlight failed. The vehicle was taken to an independent mechanic where the headlight was replaced however, th"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 79,
+        "share_pct": 11.4,
+        "excerpts": [
+          "I just bought the car, a 2011 Charger R/T AWD, and drove it home approx.400 km. I filled the fueltank full when coming home, and left the car still for 2 days now. I have been smelling a strong gas od",
+          "ABS Wiring had a recall and replaced but the ABS Module is now out Air Bag had a recall but now the air bag clock spring is out Fuel Pump had an extended warranty but is now out and fuel pump needs re",
+          "VERY STRONG GASOLINE ODOR AFTER FILLING TANK. NOTICED STRONG ODOR IN OUR GARAGE AND  FOUND A LARGE PUDDLE OF GAS UNDER CAR DIRECTLY BENEATH THE REAR PASSENGER SIDE SEAT.  UPON INVESTIGATION DISCOVERED"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 77,
+        "share_pct": 11.1,
+        "excerpts": [
+          "There has been numerous issues that affected my safety while driving and had to make costly repairs and replacements while on going. Alternator and serpentine belt broke out and all my coolant leaked ",
+          "The contact owns a 2011 Dodge Charger. The contact stated that while driving approximately 45 MPH, the engine seized. There were no warning lights illuminated. The vehicle was towed to the local deale",
+          "Tensioner guide for timing"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 53,
+        "share_pct": 7.6,
+        "excerpts": [
+          "The Anti-Lock Brake module has prematurely failed in the vehicle. The dealership can and will inspect the fault but they will say they are not trained or authorizes to fix the module. I was directed t",
+          "ABS Wiring had a recall and replaced but the ABS Module is now out Air Bag had a recall but now the air bag clock spring is out Fuel Pump had an extended warranty but is now out and fuel pump needs re",
+          "WHILE DRIVING ON MAJORS HIGHWAY OR ROADS CAR JUST STALLS COMPLETELY THIS HAS HAPPENED NUMEROUS TIMES ALMOST"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 25,
+      "fires": 64,
+      "injuries": 16,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 19
+      },
+      {
+        "year": 2012,
+        "count": 34
+      },
+      {
+        "year": 2013,
+        "count": 73
+      },
+      {
+        "year": 2014,
+        "count": 217
+      },
+      {
+        "year": 2015,
+        "count": 103
+      },
+      {
+        "year": 2016,
+        "count": 89
+      },
+      {
+        "year": 2017,
+        "count": 54
+      },
+      {
+        "year": 2018,
+        "count": 40
+      },
+      {
+        "year": 2019,
+        "count": 28
+      },
+      {
+        "year": 2020,
+        "count": 14
+      },
+      {
+        "year": 2021,
+        "count": 7
+      },
+      {
+        "year": 2022,
+        "count": 7
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 11,
+    "recalls": [
+      {
+        "campaign_number": "19V018000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2010 Dodge Ram 3500, Ram 4500/5500, 2010-2011 Dodge Dakota, 2010-2014 Dodge Challenger, 2010-2015 Dodge Challenger, Chrysler 300, and 2010-2016 Jeep Wrangler vehicles.  Upon deployment of the driver's frontal air bag, excessive internal pressure may cause t",
+        "report_date": "15/01/2019",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V435000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2014 Dodge Challenger, Dodge Charger, Chrysler 300, Dodge Durango, and 2012-2014 Jeep Grand Cherokee vehicles.  The affected vehicles have electro-hydraulic power steering (EHPS) and are equipped with a 5.7L or a 3.6L engine and a 160, 180 o",
+        "report_date": "10/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V021000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2009-2013 Jeep Wrangler, Chrysler 300, Dodge Challenger and Dodge Charger vehicles, and 2009-2011 Dodge Dakota vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, ",
+        "report_date": "09/01/2018",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V467000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2014 Dodge Charger vehicles manufactured May 6, 2010, to June 5, 2014.  In the affected vehicles, the side impact sensor calibrations may be overly sensitive, and as a result, the side air bag inflatable curtains and seat air bags may unexpe",
+        "report_date": "27/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V101000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2012 Dodge Charger vehicles manufactured May 20, 2010, through November 8, 2011, and equipped with halogen headlamps.  In the affected vehicles, a sub-harness for the headlights may overheat and cause the low beam headlights to go ou",
+        "report_date": "04/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V352000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) expanded the affected population to include 73,712 2005-2009 RAM 2500 trucks produced at the St. Louis North Assembly Plant.  With this change, Chrysler is recalling certain model year 2004-2008 RAM 1500, 2005-2009 RAM 2500, 2006-2009 RAM 3500, 2007-2010 RAM 3500 Cab Chassis, 2",
+        "report_date": "24/05/2016",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V043000",
+        "component": "STRUCTURE",
+        "summary": "FCA US LLC (Chrysler) is recalling certain model year 2011-2016 Dodge Charger vehicles manufactured August 23, 2010, to January 7, 2016.  When an affected vehicle is lifted using the supplied tire jack without chocking the wheels, the vehicle's body-side sill may give causing the tire jack to fail a",
+        "report_date": "28/01/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V118000",
+        "component": "AIR BAGS",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2012 Chrysler 300, Dodge Challenger, and Dodge Charger vehicles manufactured April 11, 2011, through December 14, 2011.  The affected vehicles may have improperly sized terminal crimps on the seat side-airbag wiring harness which may",
+        "report_date": "03/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V042000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2011 and 2012 DODGE CHARGER POLICE VEHICLES.  THE LOW BEAM HEADLAMPS OF SOME VEHICLES COULD FAIL DUE TO AN OVERHEATED BULB HARNESS CONNECTOR.  OTHER VEHICLES MAY LOSE ABS/ESC SYSTEM FUNCTION DUE TO AN OVERHEATED POWER DISTRIBUTION CENTER.",
+        "report_date": "07/02/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V634000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Chrysler 300, Dodge Charger, Challenger, and Durango; and 2012-2014 Jeep Grand Cherokee vehicles manufactured April 22, 2010, to January 2, 2014, and equipped with a 3.6L engine and a 160 amp alternator.  In the affected vehicle",
+        "report_date": "08/10/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V197000",
+        "component": "SERVICE BRAKES, AIR:ANTILOCK:CONTROL UNIT/MODULE",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2011 AND 2012 300 AND DODGE CHARGER VEHICLES.  THESE VEHICLES MAY LOSE ABS/ESC SYSTEM FUNCTION DUE TO AN OVERHEATED POWER DISTRIBUTION CENTER.",
+        "report_date": "02/05/2012",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:55:05.505Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

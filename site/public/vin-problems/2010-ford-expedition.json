@@ -1,0 +1,139 @@
+{
+  "slug": "2010-ford-expedition",
+  "year": 2010,
+  "make": "Ford",
+  "model": "Expedition",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 58,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 10,
+        "share_pct": 17.2,
+        "excerpts": [
+          "The transmission is malfunctioning.  The shifting in the gears has become rough with kick or clunk feeling. This happens when increasing speed and decreasing speed. The Transmission has even gotten st",
+          "TL* THE CONTACT OWNS A 2010 FORD EXPEDITION. THE CONTACT STATED THAT WHILE THE VEHICLE WAS IDLING WITH THE PARK ENGAGED, THE VEHICLE SHIFTED OUT OF GEAR AND ROLLED BACKWARDS CRASHING INTO A STEEL POST",
+          "TRANSMISIN PROBLEM BERY NOISE WHEN DRIVING AND PRESS GAS.  SOMETIMES WHEN IS PARKED IT MOVES LIKE 12\" .  AC ALWAYS A PROBLEM TOKE TO MECANIC AT LEASE 10 TIMES I'M SO TIRED IF THIS."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 10,
+        "share_pct": 17.2,
+        "excerpts": [
+          "Interior A/c blower motor short. A/c stops and starts by itself with smell of wiring melting or burnt.",
+          "I ATTEMPTED TO ROLE MY WINDOW UP WHILE DRIVING AND IT STOPPED WORKING. THE WINDOW WILL NOT ROLL UP OR DOWN AND IS STUCK OPEN. THE MOTOR MAKES A CLICKING SOUND. WINDOW IS NOT OFF TRACK EITHER.",
+          "TRANSMISIN PROBLEM BERY NOISE WHEN DRIVING AND PRESS GAS.  SOMETIMES WHEN IS PARKED IT MOVES LIKE 12\" .  AC ALWAYS A PROBLEM TOKE TO MECANIC AT LEASE 10 TIMES I'M SO TIRED IF THIS."
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 10,
+        "share_pct": 17.2,
+        "excerpts": [
+          "FORD VEHICLE TRAVELING AT APPROXIMATELY 45 TO 50 MPH HITS PICKUP TRUCK BROADSIDE PUSHES TRUCK AT 45 DEGREE ANGLE ABOUT 25 FEET.  DAMAGE TO FORD FRONT BUMPER, FENDER AND HOOD JUST OFF CENTER OF VEHICLE",
+          "2010 FORD EXPEDITION WAS TRAVELING SOUTHBOUND. A 2007 CHEVY SILVERADO THAT WAS ON THE NORTHBOUND SIDE, MADE A LEFT-HAND TURN IN FRONT OF THE EXPEDITION WITHOUT YIELDING RIGHT OF WAY TO ONCOMING TRAFFI",
+          "TL* THE CONTACT OWNS A 2010 FORD EXPEDITION. WHILE THE VEHICLE WAS PARKED, THE CONTACT NOTICED COROSSION AROUND THE PASSENGER SIDE LIFTGATE. THE VEHICLE WAS TAKEN TO A DEALER WHERE IT WAS DIAGNOSED TH"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 6,
+        "share_pct": 10.3,
+        "excerpts": [
+          "2010 FORD EXPEDITION HEADREST DESIGN IS EXTREMELY UNCOMFORTABLE.  ANGLE IS TOO FAR FORWARD.  I HAVE CONSTANT UPPER BACK AND NECK PAIN SINCE BUYING THIS VEHICLE IN MAY 2010.  THE DEALER HAS NO SOLUTION",
+          "I JUST WANT TO REPORT HOW UNCOMFORTABLE THE HEADREST IN THE FORD EXPEDITION ARE. THEY ARE TILTED WAY TO FAR FORWARD. *TR",
+          "HEADRESTS FOR DRIVER'S AND PASSENGER'S SEATS ARE AT AN ACUTE INWARD ANGLE FORCING IMPROPER SITTING POSITION IN SEAT AND POINTING THE HEAD DOWNWARD.  *TR"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 4,
+        "share_pct": 6.9,
+        "excerpts": [
+          "FIRST INCIDENT IN MARCH 2019 FROM PARKED POSITION, PUT CAR IN DRIVE AND IT \"RACED\" OUT OF CONTROL, TRIED TO BRAKE AND FINALLY STOPPED THE CAR JUST SHORT OF JUMPING CURB ACROSS THE STREET.  IN MAY 2019",
+          "FORD VEHICLE SHUTS OFF SPORADICALLY WITH MULTIPLE WARNING LIGHTS WHILE DRIVING AND STATIONARY. THE BRAKES ALSO SEIZE UP TO THE POINT WHERE THEY OVER HEAT AND COULD CATCH FIRE. THE MOST RECENT EVENT HA",
+          "EXPEDITION SHUT OFF RANDOMLY, TOOK TO DEALER TOLD WAS FINE AND 2 DAYS LATER WHILE MY WIFE AND 3 KIDS WERE DRIVING. ENGINE FAILED WHILE DRIVING. NO LIGHTS ON DASH OR WARNING. LOST CONTROL OF VEHICLE WH"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 1,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 4
+      },
+      {
+        "year": 2010,
+        "count": 8
+      },
+      {
+        "year": 2011,
+        "count": 7
+      },
+      {
+        "year": 2012,
+        "count": 5
+      },
+      {
+        "year": 2013,
+        "count": 5
+      },
+      {
+        "year": 2014,
+        "count": 7
+      },
+      {
+        "year": 2015,
+        "count": 3
+      },
+      {
+        "year": 2016,
+        "count": 4
+      },
+      {
+        "year": 2017,
+        "count": 3
+      },
+      {
+        "year": 2018,
+        "count": 3
+      },
+      {
+        "year": 2019,
+        "count": 4
+      },
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T19:52:53.452Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

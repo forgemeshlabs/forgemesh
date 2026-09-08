@@ -1,0 +1,144 @@
+{
+  "slug": "2019-dodge-durango",
+  "year": 2019,
+  "make": "Dodge",
+  "model": "Durango",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 140,
+    "top_failure_components": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 45,
+        "share_pct": 32.1,
+        "excerpts": [
+          "The rear taligate track light for brakes is not working. Some of the lights are out when braking",
+          "The rear race track light and license plate lights failed to work due to a faulty gasket or seal on the light. Faulty in the manufacturing process and now to repair this issue is $1500 or more. The ve",
+          "Last year I notice water in my tail lights. I removed the bolt to help drain the water. Part of my tail lights is now burned out.  Now at 77,000+ my start/stop light came on, then the check engine.  S"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 36,
+        "share_pct": 25.7,
+        "excerpts": [
+          "The contact owns a 2019 Dodge Durango. The contact stated that while the vehicle was turned off, the vehicle independently started, and the contact was alerted by the audible sound coming from the hor",
+          "my vehicle has had a recall since November 2024 For the HCU/ABS module that falsely reads pressure in the primary circuit may illuminate the brake lights (up to 4.5 mph), disable the ABS and Electroni",
+          "My 2019 Dodge Durango R/T began experiencing drivetrain and warning system issues after collision/body repairs were completed by a repair facility. The original repair work involved suspension/body-re"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 26,
+        "share_pct": 18.6,
+        "excerpts": [
+          "The contact owns a 2019 Dodge Durango. The contact stated that while the vehicle was turned off, the vehicle independently started, and the contact was alerted by the audible sound coming from the hor",
+          "The contact stated that the vehicle was taken to the dealer for a recall repair for NHTSA Campaign Number 24V838000 (Service Brakes, Hydraulic); according to the contact, the vehicle was partially rep",
+          "I had a safety recall for the ABS brake module which was taken in. I was told twice one time the part they did not know when it would arrive. I kept calling. It was very hard to get a hold of the deal"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 24,
+        "share_pct": 17.1,
+        "excerpts": [
+          "At 37008 miles my coolant started to leak and it overheated, when taking to a mechanic they replaced the coolant and tubes and advised that it was rubbing on the hose, so they replaced the hoses and p",
+          "At 30,000 had one blown head gasket and a few thousand miles later another blown head gasket. Regular maintenance and oil changes have been done and maintenance. Then last year my cam Shalf had to be ",
+          "Brakes pump when used; vehicle stalls when shifting into higher gears."
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 16,
+        "share_pct": 11.4,
+        "excerpts": [
+          "The contact owns a 2019 Dodge Durango. The contact stated that while the vehicle was turned off, the vehicle independently started, and the contact was alerted by the audible sound coming from the hor",
+          "The contact stated that the vehicle was taken to the dealer for a recall repair for NHTSA Campaign Number 24V838000 (Service Brakes, Hydraulic); according to the contact, the vehicle was partially rep",
+          "The contact owns a 2019 Dodge Durango. The contact received notification of NHTSA Campaign Number: 24V838000 (Service Brakes, Hydraulic); however, the part for the recall repair was not available. The"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 2,
+      "injuries": 8,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 18
+      },
+      {
+        "year": 2020,
+        "count": 6
+      },
+      {
+        "year": 2021,
+        "count": 13
+      },
+      {
+        "year": 2022,
+        "count": 31
+      },
+      {
+        "year": 2023,
+        "count": 23
+      },
+      {
+        "year": 2024,
+        "count": 21
+      },
+      {
+        "year": 2025,
+        "count": 18
+      },
+      {
+        "year": 2026,
+        "count": 10
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "20V191000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2020 Jeep Gladiator and Jeep Cherokee, 2019-2020 Ram 1500 Pickup, Ram 2500 Pickup, Ram 3500 Pickup, Chrysler Pacifica, Dodge Durango, Jeep Grand Cherokee, Jeep Wrangler, and Jeep Renegade and 2019 Dodge Challenger vehicles equipped with 8.4\" or 12\" radio di",
+        "report_date": "10/09/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V183000",
+        "component": "POWER TRAIN:DRIVELINE:DIFFERENTIAL UNIT",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Jeep Grand Cherokee and Dodge Durango vehicles.  The front differential may have been assembled with pinion gears that are insufficiently hardened, which can lead to the gear teeth wearing down.  If both pinion gears have their teeth sufficiently worn ",
+        "report_date": "26/03/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V426000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2019 Jeep Grand Cherokee and Dodge Durango vehicles.  A malfunction in the antilock-brake system (ABS) module may illuminate the brake lights, and allow the vehicle to start and shift out of Park without the brake pedal being applied.",
+        "report_date": "09/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V838000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2019 Jeep Grand Cherokee and Dodge Durango vehicles.  A malfunction in the antilock-brake system (ABS) module may incorrectly illuminate the brake lights and disable the ABS and electronic stability control (ESC).  In addition, the vehicle operator ma",
+        "report_date": "07/11/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:57.385Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

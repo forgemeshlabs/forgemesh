@@ -1,0 +1,128 @@
+{
+  "slug": "2019-nissan-pathfinder",
+  "year": 2019,
+  "make": "Nissan",
+  "model": "Pathfinder",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 75,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 15,
+        "share_pct": 20,
+        "excerpts": [
+          "There was built up sludge in my engine that caused it to fail, and I was charged to replace it",
+          "Check engine light came in. Took into repair shop to change oil and diagnose issue. It was about 7,000 miles since previous oil change with full synthetic oil. Drained oil was full of metal shavings. ",
+          "Car started jerking multiple times and then RPM went down to zero and stopped driving while in traffic."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 13,
+        "share_pct": 17.3,
+        "excerpts": [
+          "I am driving the car in the highway when  I tray to exit ,I see the  RED light semaforo in the end of the exit. Well I tray to stop the car and the brakes does' not work, and the air bag coming out be",
+          "The contact owns a 2019 Nissan Pathfinder. The contact stated that while driving at 30 MPH and attempting to come to a stop, the vehicle failed to decelerate sufficiently, resulting in a rear-end coll",
+          "On three separate incidents my brakes have totally failed. I went to apply the brakes and the pedal went to the floor with no braking action at all. The most recent occurrence we were exiting a freewa"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 10,
+        "share_pct": 13.3,
+        "excerpts": [
+          "The contact owns a 2019 Nissan Pathfinder. The contact stated that while driving at undisclosed speeds, the contact was losing control of the vehicle. The Forward Collision Avoidance warning light was",
+          "Idle needle jumping when turning the car on. Delay in shifting gears and throttle response. Forward collision warning goes off at random times even when no cars are present.",
+          "While entering the [XXX] going East (Home) exit [XXX] I needed to accelerate because of incoming vehicles to my left (Freeway) Instead of going fast my Nissan Pathfinder lose some power to accelarate "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 10,
+        "share_pct": 13.3,
+        "excerpts": [
+          "Left side passenger lock mechanism just stopped working. Conducted research online and discovered it’s a rather huge issue with some Nissan vehicles. (I also saw a lawsuit currently in pending status ",
+          "The contact owns a 2019 Nissan Pathfinder. The contact stated that various electrical sensors alerted that there were objects nearby; however, there were no objects nearby. Due to the failure, the cru",
+          "My driver side door will not lock or unlock. I have changed the battery in the key fob and I am still having the same problem. I believe the lock actuator is malfunctioning. I have taken it to a mecha"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 9,
+        "share_pct": 12,
+        "excerpts": [
+          "Driving at 75 miles per hour on highway.  We Heard an explosion, and airbags deployed. There was no collision or front end hit, there was no warning lights or sounds, no deceleration. My husband was s",
+          "The car broke on the highway (possibly drive train? Waiting for mechanic). Despite no impact, the steering wheel airbag deployed.",
+          "Idle needle jumping when turning the car on. Delay in shifting gears and throttle response. Forward collision warning goes off at random times even when no cars are present."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 1,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 5
+      },
+      {
+        "year": 2020,
+        "count": 12
+      },
+      {
+        "year": 2021,
+        "count": 9
+      },
+      {
+        "year": 2022,
+        "count": 12
+      },
+      {
+        "year": 2023,
+        "count": 7
+      },
+      {
+        "year": 2024,
+        "count": 11
+      },
+      {
+        "year": 2025,
+        "count": 14
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "19V654000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2018-2019 Nissan Altima, Armada, Frontier, Kicks, Leaf, Maxima, Murano, NV, NV200, Pathfinder, Rogue, Rogue Sport, Sentra, Titan, Titan Diesel, Versa Note and Versa Sedan vehicles, as well as Infiniti Q50, Q60, QX30 and QX80 vehicles.  Additio",
+        "report_date": "12/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V807000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2015-2018 Nissan Murano, 2016-2018 Nissan Maxima, and 2017-2019 Nissan Pathfinder and Infiniti QX60 vehicles.  These vehicles were previously recalled and unrepaired, or inspected and determined to not need a repair, under recall number 18V-60",
+        "report_date": "08/11/2019",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:00.583Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

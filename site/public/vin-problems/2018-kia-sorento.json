@@ -1,0 +1,148 @@
+{
+  "slug": "2018-kia-sorento",
+  "year": 2018,
+  "make": "Kia",
+  "model": "Sorento",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 252,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 104,
+        "share_pct": 41.3,
+        "excerpts": [
+          "I am a working parent filing a formal complaint against Kia America and Classic kia of Carrollton for non-compliance with the Theta II Class Action Settlement mandates. My vehicle experienced a qualif",
+          "The contact owns a 2018 Kia Sorento. The contact stated that while driving 50 MPH and depressing the accelerator pedal, the vehicle failed to respond as needed. There was smoke coming from the rear of",
+          "My wife and I were Driving when I tried to stop and the brakes failed. Within seconds the vehicle caught fire in the engine compartment. I had to slam the transmission into park cause the doors would "
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 41,
+        "share_pct": 16.3,
+        "excerpts": [
+          "The vehicle’s ignition system began malfunctioning immediately after a recall-related service (Campaign CS2312 – ignition cylinder protector installation) performed on January 9, 2026. Prior to this s",
+          "In April, 2025, my vehicle's engine power was significantly reduced while on the highway. I could not keep pace with traffic. My mechanic said there were recalls for the turbo engine but my car was no",
+          "My speedometer was jumping from 0 to 20 mph while in park. A couple weeks later it did it while I was driving, I was going 25 mph and it jumped to 55 mph. I took it to the shop that day and all 4 of m"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 29,
+        "share_pct": 11.5,
+        "excerpts": [
+          "I had the car for just 2 years and it's giving me a lot of problems the car smells like gas it has a gas leak the breaks don't work and the electrical system don't work properly",
+          "Sunroof was working properly, no issues.  I parked car with sunroof open and when i restarted car it started closing extremely slow.  Technicians have tried resetting but no luck. This is a safety iss",
+          "The vehicle’s ignition system began malfunctioning immediately after a recall-related service (Campaign CS2312 – ignition cylinder protector installation) performed on January 9, 2026. Prior to this s"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 26,
+        "share_pct": 10.3,
+        "excerpts": [
+          "I was driving and when I lost all power steering the lights on the dash came on for power steering and traction I could not steer at all it was so hard to drive . I reported it right away and had my c",
+          "The steering started to fail and would be hard to steer while driving.I then looked further online and found that a recall was issued for the steering column and how dangerous it was to continue drivi",
+          "Sometimes this condition hardly noticable and other times very stiff then move steering wheel slightly and full assist. Seems more prevalent after driving 1/2 hour or more on expressway  steering beco"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 13,
+        "share_pct": 5.2,
+        "excerpts": [
+          "The High Pressure Fuel Pump failed while driving on highway. I took it to the Kia dealership and they told me of the issue. There were no prior warnings of issues  Kia recalled all 2019-2020 kia soren",
+          "In April, 2025, my vehicle's engine power was significantly reduced while on the highway. I could not keep pace with traffic. My mechanic said there were recalls for the turbo engine but my car was no",
+          "While on the road driving at 35 MPH, the vehicle started to \"bog\" and losing power and/or acceleration. Had to immediately drive off the road as there were several vehicles  behind. As soon as driving"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 12,
+      "fires": 11,
+      "injuries": 11,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 16
+      },
+      {
+        "year": 2019,
+        "count": 16
+      },
+      {
+        "year": 2020,
+        "count": 18
+      },
+      {
+        "year": 2021,
+        "count": 20
+      },
+      {
+        "year": 2022,
+        "count": 33
+      },
+      {
+        "year": 2023,
+        "count": 44
+      },
+      {
+        "year": 2024,
+        "count": 52
+      },
+      {
+        "year": 2025,
+        "count": 36
+      },
+      {
+        "year": 2026,
+        "count": 15
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "18V656000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Kia Motors America (Kia) is recalling certain 2018 Kia Sorento vehicles.  The cowl crossbar that connects to the Motor Driven Power Steering (MDPS) steering column may be improperly welded, allowing the steering column to separate.",
+        "report_date": "21/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V784000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Kia Motors America (Kia) is recalling certain 2018 Kia Sorento vehicles.  The side curtain air bags on these vehicles have a component that may detach during deployment of the inflatable curtain air bag.",
+        "report_date": "08/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V703000",
+        "component": "TRAILER HITCHES",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2016-2022 Sorento, 2021-2022 Sorento Hybrid (HEV), 2022-2023 Sorento Plug-In Hybrid (PHEV), and 2017-2022 Sportage vehicles equipped with a tow hitch harness installed as original equipment, or purchased as an accessory through a Kia dealership.  Debris a",
+        "report_date": "19/09/2022",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:23.476Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

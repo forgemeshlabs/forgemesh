@@ -1,0 +1,208 @@
+{
+  "slug": "2021-jeep-grand-cherokee",
+  "year": 2021,
+  "make": "Jeep",
+  "model": "Grand Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 401,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 114,
+        "share_pct": 28.4,
+        "excerpts": [
+          "Final drive control module, transfercase control module went out. Causing “Service 4WD” message Check-engine/MIL light 4WD system becoming unavailable Trouble codes related to the drivetrain control m",
+          "I had stopped at a red light and the auto start/stop turned off the car. It would not restart. The fault caused it to stay in Park and could not get out of Park to move vehicle. This not only caused a",
+          "This submission is an update to NHTSA Complaint #11727024.  The vehicle continues to experience recurring engine overheating and misfire conditions. These issues have been previously diagnosed and are"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 102,
+        "share_pct": 25.4,
+        "excerpts": [
+          "Steering is erratic while driving.  Car is shifting left and right by itself while driving down the road feeling like the tires want to go different directions from one another.  Steering wheel makes ",
+          "The contact owned a 2021 Jeep Grand Cherokee. The contact stated that while making a left-hand turn, the wheels on the vehicle failed to follow the trajectory of the movement and failed to function as",
+          "The contact owns a 2021 Jeep Grand Cherokee. The contact stated that while driving at an undisclosed speed, the ESC and “Service 4WD” warning lights illuminated, causing the vehicle to shake abnormall"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 60,
+        "share_pct": 15,
+        "excerpts": [
+          "-Thermostat -car died in traffic -not that I know of -it was diagnosed by the dealer -no warning lights or lamps  -not that I’m aware if",
+          "BE ASVISED, THIS REPORT MAY BE INTERCEPTED, DELETED, HIDDEN, OR MODIFIED UPON RECEIVING.   NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION   Vehicle Safety Complaint    Complainant:   [XXX]    [XXX]   ",
+          "This submission is an update to NHTSA Complaint #11727024.  The vehicle continues to experience recurring engine overheating and misfire conditions. These issues have been previously diagnosed and are"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 57,
+        "share_pct": 14.2,
+        "excerpts": [
+          "Final drive control module, transfercase control module went out. Causing “Service 4WD” message Check-engine/MIL light 4WD system becoming unavailable Trouble codes related to the drivetrain control m",
+          "Electronic Throttle Control warning light comes on upon starting vehicle while extended crank occurs. When starting car, the push to start feature will not turn over and continuously cranks multiple t",
+          "The contact owns a 2021 Jeep Grand Cherokee. The contact stated that while driving at various speeds, the vehicle hesitated while depressing the accelerator pedal and attempting to overtake another ve"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 42,
+        "share_pct": 10.5,
+        "excerpts": [
+          "I was driving back from the airport and as it began to get dark, it became apparent I had no headlights. I somehow managed to drive the last two hours home on parking lights and lights from other vehi",
+          "The contact owns a 2021 Jeep Grand Cherokee. The contact stated that while driving at various speeds, the vehicle hesitated while depressing the accelerator pedal and attempting to overtake another ve",
+          "The contact owns a 2021 Jeep Grand Cherokee. The contact stated that while the vehicle was parked with the headlight switch set to the Automatic Off/On position, the headlights blinked continuously, t"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 20,
+      "fires": 8,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 4
+      },
+      {
+        "year": 2021,
+        "count": 70
+      },
+      {
+        "year": 2022,
+        "count": 112
+      },
+      {
+        "year": 2023,
+        "count": 70
+      },
+      {
+        "year": 2024,
+        "count": 73
+      },
+      {
+        "year": 2025,
+        "count": 49
+      },
+      {
+        "year": 2026,
+        "count": 22
+      }
+    ]
+  },
+  "recalls": {
+    "count": 12,
+    "recalls": [
+      {
+        "campaign_number": "21V797000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021 Jeep Grand Cherokee L vehicles not equipped with automatic high beams.  When the master lighting switch is set to the auto position, the high beam headlights will not activate unless the master lighting switch is first changed to the 'on\" position.  A",
+        "report_date": "14/10/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V950000",
+        "component": "EXTERIOR LIGHTING:LIGHTING CONTROL MODULE:SOFTWARE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021 Jeep Grand Cherokee L vehicles equipped with smart lighting modules (SLM).  An incomplete SLM software update may cause one or both headlights to become inoperable.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle",
+        "report_date": "09/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V729000",
+        "component": "VISIBILITY:REARVIEW MIRRORS/DEVICES",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021 Jeep Grand Cherokee L vehicles.  A radio software error may prevent the rearview image from displaying.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 111, \"Rear Visibility.\"",
+        "report_date": "21/09/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V873000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE:SOFTWARE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021 Jeep Grand Cherokee L, 2022 Jeep Wagoneer, and Grand Wagoneer vehicles.  The Occupant Restraint Controller (ORC) may have incorrect software which can disable the driver, passenger, and knee air bags without warning.",
+        "report_date": "10/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V180000",
+        "component": "CHILD SEAT:VEHICLE TETHER ANCHOR",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2022 Jeep Grand Cherokee L vehicles.  These vehicles may have been built with a missing weld from the seat back frame to the child seat tether anchorage.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Sta",
+        "report_date": "24/03/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V284000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:EMISSION CONTROL:GAS RECIRCULATION VALVE (EGR VALVE)",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021 Dodge Durango, Jeep Grand Cherokee WK, 2022 Jeep Grand Cherokee, and 2021-2022 Jeep Grand Cherokee L vehicles equipped with 3.6L engines.  The exhaust gas recirculation (EGR) valve may stick open, resulting in an unexpected loss of drive power.",
+        "report_date": "28/04/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V544000",
+        "component": "EXTERIOR LIGHTING:TAIL LIGHTS",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2022 Jeep Grand Cherokee and 2021-2022 Jeep Grand Cherokee L vehicles.  The tail light side marker assemblies may be damaged and not illuminate.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 1",
+        "report_date": "28/07/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V352000",
+        "component": "STEERING:COLUMN",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2022-2023 Jeep Grand Cherokee and 2021-2023 Jeep Grand Cherokee L vehicles.  An incorrectly assembled steering column intermediate shaft may disconnect from the u-joint, and result in a loss of steering control.",
+        "report_date": "18/05/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V413000",
+        "component": "SUSPENSION:REAR:SPRINGS:COIL SPRINGS",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2022-2023 Jeep Grand Cherokee and 2021-2023 Jeep Grand Cherokee L vehicles.  The rear coil springs may have been incorrectly installed and detach from the vehicle while driving.",
+        "report_date": "08/06/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V577000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2022-2023 Jeep Grand Cherokee, 2021-2023 Jeep Grand Cherokee L, and 2022-2024 Jeep Wagoneer and Grand Wagoneer vehicles.  The Central Vision Park Assist module (CVPAM) software may prevent the rearview image from displaying when the vehicle is placed in re",
+        "report_date": "14/08/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V132000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM:UPPER BALL JOINT",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2023 Jeep Grand Cherokee L and 2022-2023 Jeep Grand Cherokee vehicles.  The upper control arm ball joint and steering knuckle may separate and cause the wheel to fall outward, resulting in a loss of vehicle control.",
+        "report_date": "22/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V436000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2022 Dodge Durango, 2021-2023 Chrysler Pacifica, Jeep Grand Cherokee L, 2022 Ram 1500, 2500, 3500, Chrysler Voyager, 2022-2023 Jeep Compass, Grand Cherokee, Wagoneer, Grand Wagoneer, and Ram Promaster vehicles.  The radio software may prevent the rear",
+        "report_date": "13/06/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:26.051Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

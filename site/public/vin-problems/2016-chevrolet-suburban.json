@@ -1,0 +1,182 @@
+{
+  "slug": "2016-chevrolet-suburban",
+  "year": 2016,
+  "make": "Chevrolet",
+  "model": "Suburban",
+  "matched_as": {
+    "complaints": [
+      "SUBURBAN 1500"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 219,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 82,
+        "share_pct": 37.4,
+        "excerpts": [
+          "While in the parking lot or stopping at the stop light the brakes will get hard and won’t brake .",
+          "Per AAA—Front Airbag/Seatbelt and Increase break pedal",
+          "Increased brake pedal effort to the point of difficulty to stop or control brake pressure at low speeds.   This seems like the same issue reported in Safety Recall #N192268499-01, but my VIN is outsid"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 45,
+        "share_pct": 20.5,
+        "excerpts": [
+          "The transmission failed suddenly and without warning. When I Went to pull out from a stop sign with cross traffic doing 55 mph, the vehicle shuddered and stopped pulling.   We barely had enough moment",
+          "Just purchased this vehicle used from a business in Moyock, NC. The mileage at purchase was 92,860. We checked Carfax and it showed two previous owners and had a steady maintenance history. On the way",
+          "Transmission and Engine Failed. Please inspect. I've had several shops and mechanics inspect. I was towing both times and could have been seriously injured when my transmission went out. Then after th"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 27,
+        "share_pct": 12.3,
+        "excerpts": [
+          "Per AAA—Front Airbag/Seatbelt and Increase break pedal",
+          "I have read reports online of the two thousand sixteen chevy suburban turning off completely while driving.I have experienced this not once not twice.But three times now, with my chevy, suburban. This",
+          "I AM REPORTING A SEVERE AND RECURRING SAFETY DEFECT WHERE MY VEHICLE SUFFERS A COMPLETE LOSS OF ELECTRICAL AND ENGINE POWER WHILE IN MOTION. THIS HAPPENS WITHOUT WARNING AT VARIOUS SPEEDS AND DURING V"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 26,
+        "share_pct": 11.9,
+        "excerpts": [
+          "As I was driving 75 mph down the highway my collision alert flashed all my lights turned off, including my headlights and all interior lights as it was dark time and they flashed back on a couple of t",
+          "I have read reports online of the two thousand sixteen chevy suburban turning off completely while driving.I have experienced this not once not twice.But three times now, with my chevy, suburban. This",
+          "I AM REPORTING A SEVERE AND RECURRING SAFETY DEFECT WHERE MY VEHICLE SUFFERS A COMPLETE LOSS OF ELECTRICAL AND ENGINE POWER WHILE IN MOTION. THIS HAPPENS WITHOUT WARNING AT VARIOUS SPEEDS AND DURING V"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 23,
+        "share_pct": 10.5,
+        "excerpts": [
+          "As I was driving 75 mph down the highway my collision alert flashed all my lights turned off, including my headlights and all interior lights as it was dark time and they flashed back on a couple of t",
+          "I have read reports online of the two thousand sixteen chevy suburban turning off completely while driving.I have experienced this not once not twice.But three times now, with my chevy, suburban. This",
+          "Loss of steering, jerks the week right out of your hand and then you are unable to turn the wheel. Engine stalls and you have to try to coast to the side of the road, put in park and try to restart th"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 1,
+      "injuries": 8,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 12
+      },
+      {
+        "year": 2017,
+        "count": 19
+      },
+      {
+        "year": 2018,
+        "count": 21
+      },
+      {
+        "year": 2019,
+        "count": 48
+      },
+      {
+        "year": 2020,
+        "count": 23
+      },
+      {
+        "year": 2021,
+        "count": 17
+      },
+      {
+        "year": 2022,
+        "count": 20
+      },
+      {
+        "year": 2023,
+        "count": 14
+      },
+      {
+        "year": 2024,
+        "count": 19
+      },
+      {
+        "year": 2025,
+        "count": 13
+      },
+      {
+        "year": 2026,
+        "count": 11
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "19V645000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2017 Cadillac Escalade, 2014-2018 Chevrolet Silverado, GMC Sierra, 2015-2018 Chevrolet Suburban, Tahoe, GMC Yukon vehicles.  The amount of vacuum created by the vacuum pump may decrease over time.",
+        "report_date": "06/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V761000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is tra",
+        "report_date": "24/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V033000",
+        "component": "VISIBILITY:REARVIEW MIRRORS/DEVICES:EXTERIOR",
+        "summary": "General Motors LLC (GM) is recalling certain 2016-2017 Chevrolet Suburban HD vehicles.   These vehicles were assembled with a convex right-hand outside mirror, instead of with a non-convex (flat) right-hand outside mirror.  As such, these vehicles fail to comply with the requirements of Federal Moto",
+        "report_date": "12/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V651000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015-2017 Chevrolet Silverado 2500 HD, 3500 HD, Tahoe, Suburban,  GMC Sierra 2500 HD and 3500 HD, GMC Yukon, GMC Yukon XL, Cadillac Escalade and Cadillac Escalade ESV vehicles and 2014-2017 Chevrolet Corvette, Silverado 1500, Trax, Caprice Poli",
+        "report_date": "08/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V256000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016-2017 Chevrolet Silverado 1500 and 2016 Cadillac Escalade, Cadillac Escalade ESV, Chevrolet Suburban, Chevrolet Tahoe, GMC Sierra, GMC Yukon and GMC Yukon XL vehicles.  The front upper control arms may have inadequate welds near the control",
+        "report_date": "28/04/2016",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V437000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2016 Buick Lacrosse and Chevrolet Spark EV, Caprice PPV and SS vehicles, 2014-2017 Buick Encore and Chevrolet Corvette, Silverado 1500 and GMC Sierra 1500 vehicles, 2015-2016 Cadillac Escalade and Escalade ESV, Chevrolet Tahoe, Trax, Subur",
+        "report_date": "10/07/2017",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:01.798Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

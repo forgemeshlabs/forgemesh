@@ -1,0 +1,140 @@
+{
+  "slug": "2019-gmc-terrain",
+  "year": 2019,
+  "make": "GMC",
+  "model": "Terrain",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 181,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 68,
+        "share_pct": 37.6,
+        "excerpts": [
+          "On Saturday, August 15th we were driving on the freeway when with no warning the check engine light came on and the vehicle began to run poorly, and then the vehicle lost electrical power and it becam",
+          "The car’s brakes hardened on the highway, posing a life-threatening danger, right before the engine died. Following a tow to the dealership’s service center, an initial inspection revealed a broken va",
+          "While driving my 2019 GMC Terrain on local roads, the vehicle suffered a sudden and complete failure of the braking system. The brake pedal became extremely hard to press, and the dashboard displayed "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 66,
+        "share_pct": 36.5,
+        "excerpts": [
+          "On Saturday, August 15th we were driving on the freeway when with no warning the check engine light came on and the vehicle began to run poorly, and then the vehicle lost electrical power and it becam",
+          "The car’s brakes hardened on the highway, posing a life-threatening danger, right before the engine died. Following a tow to the dealership’s service center, an initial inspection revealed a broken va",
+          "While driving my 2019 GMC Terrain on local roads, the vehicle suffered a sudden and complete failure of the braking system. The brake pedal became extremely hard to press, and the dashboard displayed "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 50,
+        "share_pct": 27.6,
+        "excerpts": [
+          "No engine lights are on. When at stops it starts chugging and when I accelerate sometimes it does not go like it should. It idles high and feels like it is slipping. I have almost been hit in the rear",
+          "The turbo went completely out at around 105k miles while I was driving to work. I had to coast into a repair shop because it was smoking and wouldn’t go over 20mph and then have it towed to the place ",
+          "The contact owns a 2019 GMC Terrain. The contact stated while driving at an undisclosed speed, the transmission unexpectedly shifted into neutral(N). There was transmission fluid on the ground, and th"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 38,
+        "share_pct": 21,
+        "excerpts": [
+          "On Saturday, August 15th we were driving on the freeway when with no warning the check engine light came on and the vehicle began to run poorly, and then the vehicle lost electrical power and it becam",
+          "My cars breaks failed by a vacuum pump failer and I almost died on the a hill going home",
+          "I bought this Terrain brand new from Betten Baker Chevrolet in Muskegon Mi in 2019 with 500 miles. That same year we had transmission Slippage causing it to slip out of gear then slam back into gear w"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 9,
+        "share_pct": 5,
+        "excerpts": [
+          "Vehicle struggles to shift from low gears; seems to completely miss 3rd gear. Codes from maintenance indicate TCC slip",
+          "Friday July 25, 2025 I was driving my 2019 GMC Terrain SLE and when exiting the interstate the brake pedal got hard and I could not stop. After almost rear ending another vehicle, I got the vehicle in",
+          "The contact owns a 2019 GMC Terrain. The contact stated while driving approximately 40 MPH, the accelerator was depressed to overtake a vehicle; however, the vehicle hesitated, and RPM revved to 4,000"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 3,
+      "injuries": 12,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 8
+      },
+      {
+        "year": 2019,
+        "count": 20
+      },
+      {
+        "year": 2020,
+        "count": 7
+      },
+      {
+        "year": 2021,
+        "count": 19
+      },
+      {
+        "year": 2022,
+        "count": 21
+      },
+      {
+        "year": 2023,
+        "count": 25
+      },
+      {
+        "year": 2024,
+        "count": 29
+      },
+      {
+        "year": 2025,
+        "count": 36
+      },
+      {
+        "year": 2026,
+        "count": 16
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "18V576000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Equinox, Impala, Cruze, Volt and Bolt EV vehicles, GMC Terrain vehicles, Buick Lacrosse and Regal vehicles, Cadillac XTS and XTS Professional vehicles and 2018 Chevrolet Malibu vehicles. The rear brake caliper pistons may have an insuf",
+        "report_date": "30/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V668000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Cruze and Buick LaCrosse, 2018-2020 Chevrolet Equinox, Chevrolet Traverse and GMC Terrain, 2018 Chevrolet Malibu, 2019-2020 Buick Encore, Buick Enclave, Cadillac XT4, Chevrolet Blazer and GMC Acadia, and 2020 Cadillac XT6 vehicles.  Th",
+        "report_date": "29/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V184000",
+        "component": "SEATS",
+        "summary": "General Motors LLC (GM) is recalling certain Chevrolet Equinox and GMC Terrain vehicles.  The rear-right seat may have insufficient welds on the head-restraint bracket.",
+        "report_date": "07/03/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:10.605Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

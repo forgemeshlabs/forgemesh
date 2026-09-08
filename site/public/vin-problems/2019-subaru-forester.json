@@ -1,0 +1,140 @@
+{
+  "slug": "2019-subaru-forester",
+  "year": 2019,
+  "make": "Subaru",
+  "model": "Forester",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 832,
+    "top_failure_components": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 370,
+        "share_pct": 44.5,
+        "excerpts": [
+          "In May 2025, I had the passenger-side mirror on my 2019 Subaru Forester replaced at a licensed Subaru dealership. I was told the replacement part would be factory-original and matched to the vehicle’s",
+          "I started my car and turned on the windshield wipers and fluid to clear the windshield.  Within a few seconds of wiping the windshield, I heard a pop and a crack directly down the center of the windsh",
+          "I purchased this vehicle brand new in 2019, and since them i have had to replace my windshield once in January of 2023 (piece of gravel on highway), then in February of this year, my passenger front w"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 134,
+        "share_pct": 16.1,
+        "excerpts": [
+          "We have replaced the battery twice and likely will need a third battery soon. I have learned that there is a known issue with the DCM trying to connect using 3G. This is causing a parasitic drain on t",
+          "The contact owns a 2019 Subaru Forester. The contact stated that while driving at an undisclosed speed, the vehicle stalled, with several unknown warning lights intermittently illuminated. The failure",
+          "The electrical system fails, and the battery is not charging sufficiently. When the auto start/stop engages, the car does not restart in traffic. Requested a battery test at the dealership in May 2025"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 106,
+        "share_pct": 12.7,
+        "excerpts": [
+          "While at a Stop as the engine turns off and awaits decompression of brake to turn on again vehicle moves forward bit, then the engine shuts down while in drive (stalls) had a vehicle hit me in rear bu",
+          "Engine lost power and was misfiring while many warning symbols appeared on the dash. There was a divider separating the lanes. The car coasted to almost to a stop, but the engine chugged enough to slo",
+          "I have reported this before but it never went anywhere. When at a red light or in a traffic slowdown, the car will activate the auto start/stop system. Three times in the past 2 days, the car would no"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 43,
+        "share_pct": 5.2,
+        "excerpts": [
+          "The contact owns a 2019 Subaru Forester. The contact stated that while driving at 30 MPH with the adaptive cruise control engaged, the vehicle accelerated independently. The contact depressed the brak",
+          "Engine lost power and was misfiring while many warning symbols appeared on the dash. There was a divider separating the lanes. The car coasted to almost to a stop, but the engine chugged enough to slo",
+          "The contact owns a 2019 Subaru Forester. The contact stated that while driving approximately 70 MPH, the Forward Collision Avoidance system activated, and the vehicle immediately decelerated to 56 MPH"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 38,
+        "share_pct": 4.6,
+        "excerpts": [
+          "The electrical system fails, and the battery is not charging sufficiently. When the auto start/stop engages, the car does not restart in traffic. Requested a battery test at the dealership in May 2025",
+          "While at a Stop as the engine turns off and awaits decompression of brake to turn on again vehicle moves forward bit, then the engine shuts down while in drive (stalls) had a vehicle hit me in rear bu",
+          "- *Incident 1 (2023):* While driving, my vehicle suddenly stopped while in drive gear, accompanied by a high-pitched alarm and multiple engine service lights. It took over 30 seconds to shift into par"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 36,
+      "fires": 11,
+      "injuries": 20,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 5
+      },
+      {
+        "year": 2019,
+        "count": 259
+      },
+      {
+        "year": 2020,
+        "count": 162
+      },
+      {
+        "year": 2021,
+        "count": 116
+      },
+      {
+        "year": 2022,
+        "count": 107
+      },
+      {
+        "year": 2023,
+        "count": 98
+      },
+      {
+        "year": 2024,
+        "count": 47
+      },
+      {
+        "year": 2025,
+        "count": 29
+      },
+      {
+        "year": 2026,
+        "count": 9
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "21V263000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2018-2019 Subaru Crosstrek, 2019 Crosstrek Hybrid, and 2019 Forester vehicles.  The rear stabilizer bracket bolts may loosen and detach.",
+        "report_date": "15/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V856000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:EMISSION CONTROL:CRANKCASE (PCV)",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2019 Crosstrek, Forester, and Ascent vehicles.  The aluminum Positive Crankcase Ventilation (PCV) valve can separate, allowing the separated components to enter the engine, resulting in a loss of power while driving.",
+        "report_date": "02/12/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V065000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2019 Forester and Crosstrek vehicles.  A connector inside the Electronic Power Steering (EPS) unit may short circuit resulting in a loss of electric power steering assistance.",
+        "report_date": "06/02/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:33.877Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "2011-nissan-sentra",
+  "year": 2011,
+  "make": "Nissan",
+  "model": "Sentra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 142,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 34,
+        "share_pct": 23.9,
+        "excerpts": [
+          "The contact owns a 2011 Nissan Sentra. The contact stated that while driving at 70 MPH, the vehicle stalled, and the engine seized. The contact stated that several unknown warning lights were illumina",
+          "THE CAR CHARGER REFUSES TO ADHERE TO A CAR CHARGER THAT CAME AS AN ACCESSORY WITH A CELL PHONE PACKAGE.BUT MY PHONE CAR CHARGER WORKS FOR ANY OTHER RANDOM C- CHARGER THAT MY CELL PHONES USES",
+          "LIKE MANY OTHER COMPLAINTS I AM READING I HAVE HAD MULTIPLE TIMES I HAVE BEEN DRIVING DOWN THE ROAD AND MY VDC OFF LIGHT WILL APPEAR AND MY CAR WILL START JERKING AND HAVE TROUBLE ACCELERATING, I THEN"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 30,
+        "share_pct": 21.1,
+        "excerpts": [
+          "I purchased a Nissan vehicle that was represented as reliable and safe. Considering I’m a single mother also still young enough to wanna live not be on the highway and have my car declined speed and a",
+          "To Whom It May Concern,  I’m writing to express my deep frustration and disappointment with Nissan over the CVT failure in my 2011 Nissan Sentra. There are no active recalls listed for my vehicle, yet",
+          "I was driving at low speed 20 mph , stopped at the stop sign , when I pressed acceleration the vehicle did not respond . I checked Dash and I could see all engine warnings light up. I switched off the"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 20,
+        "share_pct": 14.1,
+        "excerpts": [
+          "I was in the highway at about 60 mph and the air bag light came on also the check engine light and I heard a sound and my car lost power I was able to get to the side lane then when it stopped all the",
+          "Getting a airbag control module open code.",
+          "The Airbag Light, came on a few months ago. UNKNOWN why or exact date. Air Bag inspection, has outrageous cost, to just diagnose why it's on.  I have never had a issue with air bags with this car or a"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 18,
+        "share_pct": 12.7,
+        "excerpts": [
+          "I was in the highway at about 60 mph and the air bag light came on also the check engine light and I heard a sound and my car lost power I was able to get to the side lane then when it stopped all the",
+          "TRANSMISSION FAILED AT 92K MILES. STARTED TO \"KICK\" ON THE HIGHWAY AND BY THE TIME WE GOT HOME IT'S TOO UNSAFE TO DRIVE.",
+          "IT IS RIDICULOUS THAT SO MANY PEOPLE WITH THE SAME CAR HAVE HAD THE SAME EXACT PROBLEM AND NO INVESTIGATION OR ACTION HAS BEEN DONE BY THE NHTSA YET. AS OTHERS HAVE COMPLAINED BEFORE, I HAVE HAD MOMEN"
+        ]
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "complaints": 17,
+        "share_pct": 12,
+        "excerpts": [
+          "HAVING ISSUE WHILE DRIVING.  ABS BRAKE SYSTEM LIGHT COMES ON AND CAR JERKS VIOLENTLY. HAVE TO STOP AND TURN OFF CAR AND ALL LIGHTS.  PUSH THE ABS LIGHT BUTTON AND START CAR AGAIN TO REPEAT.  HAPPENS S",
+          "LIKE MANY OTHER COMPLAINTS I AM READING I HAVE HAD MULTIPLE TIMES I HAVE BEEN DRIVING DOWN THE ROAD AND MY VDC OFF LIGHT WILL APPEAR AND MY CAR WILL START JERKING AND HAVE TROUBLE ACCELERATING, I THEN",
+          "PURCHASED THE VEHICLE IN JUNE 2016, SERVICE ENGINE LIGHT CAME ON IN OCTOBER (APPROXIMATELY 60,000-70,000 MILES) WHEN TEMP DROPPED BELOW 55 DEGREES. TOOK IT TO A MECHANIC, CODE READ P0101. FIND NISSAN "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 19,
+      "fires": 6,
+      "injuries": 14,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 2
+      },
+      {
+        "year": 2011,
+        "count": 22
+      },
+      {
+        "year": 2012,
+        "count": 9
+      },
+      {
+        "year": 2013,
+        "count": 4
+      },
+      {
+        "year": 2014,
+        "count": 12
+      },
+      {
+        "year": 2015,
+        "count": 14
+      },
+      {
+        "year": 2016,
+        "count": 13
+      },
+      {
+        "year": 2017,
+        "count": 13
+      },
+      {
+        "year": 2018,
+        "count": 19
+      },
+      {
+        "year": 2019,
+        "count": 13
+      },
+      {
+        "year": 2020,
+        "count": 7
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "11V579000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY:CABLES",
+        "summary": "NISSAN IS RECALLING CERTAIN MODEL YEAR 2010-2011 SENTRA VEHICLES EQUIPPED WITH MR20 ENGINES, MANUFACTURED FROM MAY 11, 2010, TO MAY 22, 2010, AND JULY 8, 2010, TO OCTOBER 25, 2010.  THE ZINC COATING APPLIED TO THE TERMINAL STUD BOLT WAS THICKER THAN SPECIFICATION.  THIS CAN RESULT IN A VOLTAGE DROP ",
+        "report_date": "15/12/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V555000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY:CABLES",
+        "summary": "NISSAN IS RECALLING CERTAIN MODEL YEAR 2010-2011 SENTRA VEHICLES, MANUFACTURED FROM MAY 22, 2010, THROUGH JULY 8, 2010.\r\nDUE TO A MACHINING IRREGULARITY, THE BOLT/WASHER SURFACE ON THE POSITIVE BATTERY TERMINAL CABLE END MAY ALLOW FOR A GAP TO OCCUR IN THE CONTACT AREA OF THE TERMINAL.  THIS CAN RES",
+        "report_date": "12/11/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:53:42.940Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

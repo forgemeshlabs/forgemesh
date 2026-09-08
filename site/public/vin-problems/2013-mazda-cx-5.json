@@ -1,0 +1,144 @@
+{
+  "slug": "2013-mazda-cx-5",
+  "year": 2013,
+  "make": "Mazda",
+  "model": "CX-5",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 194,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 58,
+        "share_pct": 29.9,
+        "excerpts": [
+          "The car does not turn off when I put it in park and push the ON/OFF button. I have to start and turn off multiple times and jiggle the gear shift multiple times before it turns off. Sometimes even tha",
+          "My car does not turn off when you push the ignition button.  I spoke to Mazda's parts manager about this, and his wife had the same issue and the same model and year as my car.  He told me that it is ",
+          "When you shut the car off the radio and other components do not shut down. You have to start the car back up and put in gear then back in park and shut the car off (sometimes two or three times) to ge"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 42,
+        "share_pct": 21.6,
+        "excerpts": [
+          "The car battery will not turn off when I turn off the vehicle.",
+          "My car won't shut off! I put it in park and turn it off and the accessories stay on. It is getting worse and worse and has taken up to 7 times of turning it off and on, backing it up and forward befor",
+          "AFTER FIXING THE ELECTRICAL PROBLEM WITH THE CAR NOT FULLY TURNING OFF, THE CAR SUDDENLY DIED IN TRAFFIC AND WOULDN'T RESTART. REPLACING MASS AIR SENSOR, O2 SENSOR, AND PLUGS, THE CAR WILL DIE IN TRAF"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 38,
+        "share_pct": 19.6,
+        "excerpts": [
+          "The contact owns a 2013 Mazda CX-5.  The contact stated while shifting into the park the electronics failed to turn off. The contact vigorously shifted the gear shifter in several positions for approx",
+          "My vehicle does not want to turn off when placed in park. The car is fully in the park position, but the start push button is illuminated with a red light. The power is still on, and the car beeps whe",
+          "The contact owns a 2013 MAZDA CX5. The contact stated while attempting to shut off the vehicle, the vehicle failed to turn off due to the transmission not being fully in PARK. The contact stated that "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 26,
+        "share_pct": 13.4,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2013 MAZDA CX-5. WHILE DRIVING, THE CONTACT HEARD AN ABNORMAL NOISE COMING FROM THE REAR OF THE VEHICLE. UPON INSPECTION, IT WAS DISCOVERED THAT THE REAR BRAKE ROTOR WAS DEFORME",
+          "PURCHASED USED 2013 MAZDA CX-5 IN DECEMBER 2015. APRIL 2017 HAD REAR BRAKE PADS AND ROTORS REPLACED DUE TO RUST. SCREECHING BEGAN, AGAIN, END OF JUNE 2019 WHILE DRIVING NORMAL SPEEDS.  CONTINUED TO GE",
+          "OVER THE LIFETIME OF MY VEHICLE, I HAVE REPLACED MY REAR PADS AND ROTORS THREE TIMES (HAVE ALSO REPLACED FRONT PADS AND ROTORS TWO TIMES DURING THE LIFETIME OF THE CAR). THE MOST TWO RECENT OCCURRENCE"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 22,
+        "share_pct": 11.3,
+        "excerpts": [
+          "When in the highway and changing lanes and you try to excelerate it doesnt take off ..instead just acts as if i had over excelerated but not speeding up.. i have almost been ran over because i could n",
+          "WHILE DRIVING MY VEHICLE ON THE INTERSTATE THE CAR LOST THE ABILITY TO ACCELERATE. ALL OF THE DASHBOARD LIGHTS CAME ON AND I HAD TO COAST TO THE SIDE OF THE INTERSTATE. AFTER RESTARTING THE VEHICLE I ",
+          "TL* THE CONTACT OWNS A 2013 MAZDA CX-5.  THE CONTACT STATED WHILE DRIVING AT VARIOUS SPEEDS AND DECELERATING, THERE WAS AN ABNORMAL WINDING AND GRINDING NOISE DETECTED. THERE WERE NO WARNING LIGHTS IL"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 1,
+      "injuries": 8,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 13
+      },
+      {
+        "year": 2013,
+        "count": 23
+      },
+      {
+        "year": 2014,
+        "count": 22
+      },
+      {
+        "year": 2015,
+        "count": 16
+      },
+      {
+        "year": 2016,
+        "count": 23
+      },
+      {
+        "year": 2017,
+        "count": 23
+      },
+      {
+        "year": 2018,
+        "count": 21
+      },
+      {
+        "year": 2019,
+        "count": 16
+      },
+      {
+        "year": 2020,
+        "count": 13
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 7
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "16V644000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain model year 2010-2013 Mazda3 and Mazdaspeed3 vehicles manufactured November 18, 2008, to June 8, 2013, 2012-2015 Mazda5 vehicles manufactured October 26, 2010, to June 22, 2015, 2016 CX-3 vehicles manufactured June 1, 2015, to December 26, ",
+        "report_date": "06/09/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:08.201Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

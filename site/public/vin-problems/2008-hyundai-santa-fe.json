@@ -1,0 +1,212 @@
+{
+  "slug": "2008-hyundai-santa-fe",
+  "year": 2008,
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 541,
+    "top_failure_components": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 215,
+        "share_pct": 39.7,
+        "excerpts": [
+          "Large leak detected P0455",
+          "The fuel tank level sensor failed and yes can be inspected. Check engine light goes on and fuel says empty with little yellow light .My mechanic checked my car and told me it was the fuel tank level s",
+          "THE FUEL GAGE KEEPS MARKING THE WRONG LEVEL OF GAS. FIRST IT WENT CRAZY GOING UP AND DOWN. AFTER SENSORS WERE CHANGED, IT STAYED AT HALF OF TANK EVEN WHEN FULL. NOW THE FUEL SYSTEM WILL NEED TO BE REP"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 74,
+        "share_pct": 13.7,
+        "excerpts": [
+          "Engine rattles noise when starting the car after sitting for more than an hour it makes that sound another issue is that when i turn the headlights on all interior lights shuts off including the instr",
+          "I have taken my car to my local dealership for the Service Campaign 976 (Oil Gasket leak) back in Nov 2023. Ever since then my car has had starting issues until one day it needed a jump start in 2024 ",
+          "I took the car to get this recall done: Hyundai has decided to conduct a service campaign to inspect (and if necessary replace) the alternator and replace the front valve cover gasket on certain 2007-"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 70,
+        "share_pct": 12.9,
+        "excerpts": [
+          "My suv was involved in a Roll Over accident.  The front driver tire blew out causing the driver to hit the curb which caused the SUV to roll 4 times. The driver was ejected from the vehicle while wear",
+          "My car has a recall, and the dealership is unable to fix it.  There is also an issue with the oem control module that they are unable to get the part and unable to fix this because they do not have th",
+          "The contact owns a 2008 Hyundai Santa Fe. The contact stated that the vehicle was taken to the dealer after receiving notification of NHTSA Campaign Number: 21V936000 (Service Brakes, Hydraulic) and 1"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 60,
+        "share_pct": 11.1,
+        "excerpts": [
+          "Engine rattles noise when starting the car after sitting for more than an hour it makes that sound another issue is that when i turn the headlights on all interior lights shuts off including the instr",
+          "I have taken my car to my local dealership for the Service Campaign 976 (Oil Gasket leak) back in Nov 2023. Ever since then my car has had starting issues until one day it needed a jump start in 2024 ",
+          "I took the car to get this recall done: Hyundai has decided to conduct a service campaign to inspect (and if necessary replace) the alternator and replace the front valve cover gasket on certain 2007-"
+        ]
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "complaints": 59,
+        "share_pct": 10.9,
+        "excerpts": [
+          "The contact owns a 2008 Hyundai Santa Fe. The contact stated that the vehicle failed to display an accurate current fuel level. The contact stated that the check engine warning light was illuminated. ",
+          "THIS VEHICLE STARTED SHOWING ISSUES WITH KEY FOB NOT WORKING - GAS GAUGE NOT ACCURATE NEXT CRUISE CONTROL LIGHT ON ALSO CHECK ENGINE LIGHT POINTING TO BAD FUEL PUMP SENSOR UNITS - I'VE RESEARCHED THIS",
+          "TL* THE CONTACT OWNS A 2008 HYUNDAI SANTA FE. THE CONTACT STATED THAT THE FUEL GAUGE FAILED TO DISPLAY THE CORRECT FUEL LEVEL AFTER THE TANK WAS FILLED. THE VEHICLE WAS TAKEN TO ADVANTAGE HYUNDAI (440"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 17,
+      "fires": 7,
+      "injuries": 12,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 2
+      },
+      {
+        "year": 2008,
+        "count": 34
+      },
+      {
+        "year": 2009,
+        "count": 26
+      },
+      {
+        "year": 2010,
+        "count": 22
+      },
+      {
+        "year": 2011,
+        "count": 18
+      },
+      {
+        "year": 2012,
+        "count": 19
+      },
+      {
+        "year": 2013,
+        "count": 61
+      },
+      {
+        "year": 2014,
+        "count": 95
+      },
+      {
+        "year": 2015,
+        "count": 70
+      },
+      {
+        "year": 2016,
+        "count": 58
+      },
+      {
+        "year": 2017,
+        "count": 33
+      },
+      {
+        "year": 2018,
+        "count": 25
+      },
+      {
+        "year": 2019,
+        "count": 27
+      },
+      {
+        "year": 2020,
+        "count": 16
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 7
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "12V354000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Hyundai is recalling certain model year 2007 through 2009 Santa Fe vehicles manufactured from April 19, 2006, through July 7, 2008.  The occupant classification system (OCS) may need recalibration to accurately detect small statured adults.",
+        "report_date": "25/07/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V113000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2006-2009 Accent, model year 2007-2011 Azera, Sonata and Sante Fe,2006-2011 Tucson, 2009-2011 Elantra Touring, 2007-2010 Elantra, 2008-2011 Veracruz, 2009-2011 Genesis, 2010-2011 Genesis Coupe, 2007-2008 Entourage, and  2006-2008 Tiburo",
+        "report_date": "01/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V472000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "HYUNDAI IS RECALLING CERTAIN MODEL YEAR 2007-2008 HYUNDAI VERACRUZ VEHICLES MANUFACTURED FROM DECEMBER 26, 2006, THROUGH MARCH 21, 2008, AND MODEL YEAR 2007-2008 HYUNDAI SANTA FE VEHICLES MANUFACTURED FROM APRIL 19, 2006 THROUGH MARCH 20, 2008.  THE CLOCK SPRING CONTACT ASSEMBLY FOR THE DRIVER'S AIR",
+        "report_date": "09/09/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08E016000",
+        "component": "TRAILER HITCHES",
+        "summary": "THIS RECALL HAS BEEN SUPERCEDED BY RECALL 08E-055.  HYUNDAI IS RECALLING 3,387 TRAILER HITCH WIRING HARNESSES EITHER INCLUDED WITH A TRAILER HITCH OR SOLD AS A SERVICE PART MANUFACTURED BY THULE TOWING SYSTEMS AND DISTRIBUTED BY HYUNDAI FOR INSTALLATION ON MY 2007-2008 SANTA FE AND VERACRUZ VEHICLES",
+        "report_date": "07/02/2008",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08E055000",
+        "component": "TRAILER HITCHES",
+        "summary": "HYUNDAI IS RECALLING 3,387 TRAILER HITCH WIRING HARNESSES EITHER INCLUDED WITH A TRAILER HITCH OR SOLD AS A SERVICE PART MANUFACTURED BY THULE TOWING SYSTEMS AND DISTRIBUTED BY HYUNDAI FOR INSTALLATION ON MY 2007-2008 SANTA FE AND VERACRUZ VEHICLES.  THE ACCESSORY TRAILER HITCH WIRING HARNESS CONVER",
+        "report_date": "03/09/2008",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V272000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "HYUNDAI IS RECALLING 88,943 MY 2007-2008 HYUNDAI SANTA FE VEHICLES EQUIPPED WITH P235/60R18 TIRES.  THESE VEHICLES FAIL TO COMPLY WITH THE LABELING REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110 \"TIRE SELECTION AND RIMS FOR MOTOR VEHICLES.\"  THE BLACK CERTIFICATION LABEL AFFIXED TO TH",
+        "report_date": "19/06/2008",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:47:15.887Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

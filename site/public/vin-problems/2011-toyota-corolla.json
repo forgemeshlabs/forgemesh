@@ -1,0 +1,216 @@
+{
+  "slug": "2011-toyota-corolla",
+  "year": 2011,
+  "make": "Toyota",
+  "model": "Corolla",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 590,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 422,
+        "share_pct": 71.5,
+        "excerpts": [
+          "The contact owned a 2011 Toyota Corolla. The contact stated that while he was driving at 40 MPH, another vehicle that was speeding caused a multiple vehicle collision. During the collision, the contac",
+          "I am submitting a safety concern regarding airbag non-deployment involving my former vehicle, a 2011 Toyota Corolla LE (VIN: [XXX] ). This vehicle was subject to multiple Takata airbag recalls, includ",
+          "1.- Bolsa de aire. Si me lo solicita, por supuesto puedo llevarlo a inspección. 2.- Se puso en riesgo ya que pudo haber sido otro tipo de accidente y las bolsas de aire no se activaron. Yo usaba el ci"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 47,
+        "share_pct": 8,
+        "excerpts": [
+          "I was notified of the air bag recall a year ago but the car dealerships in my area does not have the parts and I need to use my vehicle daily. So I am not sure what to do from here for that but I beli",
+          "TL* THE CONTACT OWNS A 2011 TOYOTA COROLLA. THE CONTACT STATED THAT THE VEHICLE INDEPENDENTLY ACCELERATED WHILE DRIVING AT AN UNDISCLOSED SPEED, WITHOUT WARNING. THE VEHICLE WAS NOT TAKEN TO BE DIAGNO",
+          "TO WHOM IT MAY CONCERN,      WE HAVE EXPERIENCED ANOMALOUS BEHAVIOR IN OUR VEHICLE THAT WE BELIEVE IS DUE TO MALWARE. WE WERE REFERRED TO REPORT THIS FROM THE PUBLIC SERVICE ANNOUNCEMENT:      HTTPS:/"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 43,
+        "share_pct": 7.3,
+        "excerpts": [
+          "While driving on a straight road steering wheel suddenly jerk hard left and right several times for just a few seconds and then went normal. This caused the car to cross lane into oncoming traffic. Fo",
+          "WHILE DRIVING ON THE HIGHWAY, THE CAR BEGAN TO DRIFT SIDE TO SIDE, FEELING LIKE IT IS SLIDING ON ICE. I FEEL VERY UNSAFE AND HOPE TO BE ABLE TO GET SOME ANSWERS TO RESOLVE THE ISSUE.",
+          "LOST POWER STEERING.CAN NOT TURN LEFT OR RIGHT"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 22,
+        "share_pct": 3.7,
+        "excerpts": [
+          "I am writing to formally request a recall or resolution for a significant defect in my [2011, Toyota, Corolla] vehicle, which I purchased in 2011. Over time, the paint on my vehicle has begun peeling ",
+          "TL* THE CONTACT OWNS A 2011 TOYOTA COROLLA. THE CONTACT STATED THAT THE MOLDING ON THE FRONT DRIVER'S SIDE WINDOW DETACHED, MAKING IT DIFFICULT TO ROLL THE WINDOW UP OR DOWN. A DEALER WAS NOT CONTACTE",
+          "TL* TAKATA RECALL. THE CONTACT OWNS A 2011 TOYOTA COROLLA. THE CONTACT STATED THAT THE MANUFACTURER FAILED TO PROVIDE THE REMEDY AND REPAIR PARTS TO THE DEALER WITHIN A REASONABLE TIME FRAME. THE DEAL"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 21,
+        "share_pct": 3.6,
+        "excerpts": [
+          "THE ACCIDENT HAPPENED IN THE HOUSE-ATTACHED GARAGE. I ALREADY ENTERED THE GARAGE, AND THE CAR IS ALMOST STOPPED. THEN I NEED TO HIT THE BRAKE THOROUGHLY TO FULLY STOP THE CAR. I HIT THE BRAKE PEDAL HO",
+          "BRAKES WARPED AFTER LESS THAN 60,000 MILES. CAUSE SHAKING OF THE CAR WHEN BRAKES ARE APPLIED",
+          "I WAS ON A DECLINE ON THE OFF RAMP, AND WHEN I WENT TO STOP FOR A LITE, MY BRAKES WOULD NOT STOP MY CAR.  I TRIED TO STOP, AND FELT AS IF THE CAR SPED UP.  I HAD COMPLAINED TO THE DEALER AND HAD THEM "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 44,
+      "fires": 2,
+      "injuries": 34,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 65
+      },
+      {
+        "year": 2012,
+        "count": 22
+      },
+      {
+        "year": 2013,
+        "count": 26
+      },
+      {
+        "year": 2014,
+        "count": 20
+      },
+      {
+        "year": 2015,
+        "count": 22
+      },
+      {
+        "year": 2016,
+        "count": 288
+      },
+      {
+        "year": 2017,
+        "count": 106
+      },
+      {
+        "year": 2018,
+        "count": 7
+      },
+      {
+        "year": 2019,
+        "count": 4
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 7
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "19V005000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2014-2016 Toyota 4Runner, 2014-2015 Scion xB, Lexus IS350C, IS250C, 2014 Toyota Sienna, Lexus IS-F, and 2014-2017 Lexus GX460 vehicles sold, or ever registered in the states of Alabama, California, Florida, Georgia, Hawaii, Louis",
+        "report_date": "09/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V741000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2010-2016 4Runner, 2003-2006 Tundra, 2003-2013 Corolla, 2009-2010 Corolla Matrix, 2004-2005 RAV4, 2002-2007 Sequoia, 2011-2013 Sienna, 2008-2012 Scion xB, 2008-2009 Lexus IS-F, 2007-2012 Yaris and Lexus ES350, 2010-2017 Lexus GX4",
+        "report_date": "17/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V340000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2008-2011 Scion xB and Lexus IS F, 2009-2011 Toyota Corolla and Corolla Matrix, 2006-2011 Toyota Yaris, Lexus IS250 and Lexus IS350, 2010-2011 Toyota 4Runner, Lexus IS250C, Lexus IS350C and Lexus GX460, 2011 Sienna, 20",
+        "report_date": "23/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V743000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2011 Prius and Corolla, 2009-2011 Venza, 2006-2010 Avalon, 2007-2010 FJ Cruiser, 2005-2011 Sienna and Sequoia, 2006-2011 Tacoma 4x2 and 4x4, Camry, Highlander, Tundra 4x2 and 4x4, and 2007-2011 Rav4 and 4Runner.  The affec",
+        "report_date": "19/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V689000",
+        "component": "VISIBILITY:POWER WINDOW DEVICES AND CONTROLS",
+        "summary": "Toyota Motor Company (Toyota) is recalling certain model year 2009-2011 Tundra, Sequoia, Corolla, Corolla Matrix and Scion xB, 2008-2011 Highlander and Highlander Hybrid, 2007 Camry and Camry Hybrid, 2009 Camry and Camry Hybrid, 2006-2011 RAV4, 2006-2010 Yaris, and 2009-2010 Scion xD and Pontiac Vib",
+        "report_date": "22/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V566000",
+        "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2010-2011  COROLLA VEHICLES EQUIPPED WITH A NON-TOYOTA, BLUE TOOTH HANDS FREE DEVICE OR NAVIGATION UNIT AND CERTAIN MODEL YEAR 2011 TOYOTA SIENNA VEHICLES EQUIPPED WITH A NON-TOYOTA, OVERHEAD ENTERTAINMENT SYSTEM AND/OR BLUETOOTH HANDS FREE DEVICE.  T",
+        "report_date": "22/11/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V123000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota is recalling certain model year 2008 and 2010-2013 Toyota Tundra, 2010-2012 Rav4, 2012 Toyota Sequoia, 2010-2011 Toyota Corolla, 2010-2011 Toyota Camry and Camry Hybrid, 2010-2013 Toyota Highlander and Highlander Hybrid, 2010-2013 Toyota FJ Cruiser, 2011 Toyota Land Cruiser, 2010-20",
+        "report_date": "09/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V024000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing  (Toyota) is recalling certain 2011-2019 Corolla, 2011-2013 Matrix, 2012-2018 Avalon, and 2013-2018 Avalon Hybrid vehicles.  During certain crashes, the air bag electronic control unit (ECU) may malfunction, possibly disabling the deployment of the air bags a",
+        "report_date": "17/01/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:52:59.248Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

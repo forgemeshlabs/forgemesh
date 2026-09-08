@@ -1,0 +1,232 @@
+{
+  "slug": "2009-toyota-tundra",
+  "year": 2009,
+  "make": "Toyota",
+  "model": "Tundra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 38,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 11,
+        "share_pct": 28.9,
+        "excerpts": [
+          "PURCHASED A 2009 TOYOTA TUNDRA WITH 67 MILES ON IT, AT ABOUT 12,000 MILES IT STARTED TO MAKE A DRAGGING SOUND FROM THE FRONT DRIVE TRAIN. TOOK IT TO THE DEALER AND THEY SAID THAT THEY COULD NOT HEAR O",
+          "TL* THE CONTACT OWNS A 2009 TOYOTA TUNDRA. WHILE DRIVING APPROXIMATELY 35 MPH, THERE WAS SUDDEN INCREASE IN ENGINE RPMS AND THE VEHICLE DECELERATED. ALSO, WHEN THE BRAKE PEDAL WAS DEPRESSED, THE VEHIC",
+          "I WAS THE OPERATOR OF THE VEHICLE ON MY DRIVEWAY WHEN THE ENGINE SUDDENLY ACCELERATED. THE ACCELERATOR WAS WIDE OPEN WHILE I WAS HARD ON THE BRAKES. I WAS ABLE TO PUT THE GEAR SHIFT INTO PARK, AND ONC"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 5,
+        "share_pct": 13.2,
+        "excerpts": [
+          "IT LOSES POWER, MY 2009 TOYOTA TUNDRA WITH LESS THAN 90,000 MILES , JUST DECELERATES AND WENT DOWN TO 30 MILES PER HOUR IN THE FREEWAY, I USED A CARMD READING TO GIVE ME A CODE, AND IT SHOWS THAT THE ",
+          "TL* THE CONTACT OWNS A 2009 TOYOTA TUNDRA. WHILE DRIVING 35 MPH, THE VEHICLE DECELERATED INDEPENDENTLY TO APPROXIMATELY 15 MPH. THE CONTACT STATED THAT THE VEHICLE SWITCHED TO LIMP MODE. THE VEHICLE W",
+          "TL* THE CONTACT OWNS A 2009 TOYOTA TUNDRA. WHILE DRIVING 65 MPH AND TOWING A CAMPER, THE RACK AND PINION FAILED AND THE POWER STEERING ABILITY WAS LOST. THERE WERE NO WARNING INDICATORS ILLUMINATED. T"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 5,
+        "share_pct": 13.2,
+        "excerpts": [
+          "MY 2009 TOYOTA TUNDRA WAS REPAIRED BY TOYOTA THIS PAST FRIDAY AS A RESULT OF THE THROTTLE BODY STICKING OPEN..IE WOULD STALL.  AFTER REPAIRS, THE TRUCK DROVE FINE FOR 2 HRS APPROX.  AFTER STOPPING FOR",
+          "TL*THE CONTACT OWNS A 2009 TOYOTA TUNDRA. WHILE TRAVELING BETWEEN 35-40 MPH THE ACCELERATOR SUDDENLY BECAME STUCK IN PLACE CAUSING THE VEHICLE TO CONTINUE MOVING THROUGH AN INTERSECTION. THE CONTACT A",
+          "LTR FWD (TX) RE 2009 TOYOTA TUNDRA, CONSIDERS VEHICLE A LEMON AFTER EXPERIENCING SEVERAL DEFECTS ESPECIALLY W/ELECTRICAL & FUEL SYSTEM, FILED COMPLAINTS W/NHTSA ODI SYSTEM IN 2009, REPLY TO HOUSTON, T"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 4,
+        "share_pct": 10.5,
+        "excerpts": [
+          "REPORTING A SAFETY ISSUE REGARDING THE ECM,  WIRE HARNESS, AND A SENSOR ATTACHED TO THE TRANSMISSION.  IN PARTICULAR, A TRANSMISSION SENSOR FAILED AND ALLOWED A TRANSMISSION FLUID TO WICK ITS WAY THRO",
+          "TL*THE CONTACT OWNS A 2009 TOYOTA TUNDRA. THE CONTACT NOTICED A BURNING SMELL WHILE DRIVING APPROXIMATELY 40 MPH. SHE TOOK THE VEHICLE TO THE DEALERSHIP AND WAS INFORMED THAT THEY COULD NOT FIND ANYTH",
+          "LTR FWD (TX) RE 2009 TOYOTA TUNDRA, CONSIDERS VEHICLE A LEMON AFTER EXPERIENCING SEVERAL DEFECTS ESPECIALLY W/ELECTRICAL & FUEL SYSTEM, FILED COMPLAINTS W/NHTSA ODI SYSTEM IN 2009, REPLY TO HOUSTON, T"
+        ]
+      },
+      {
+        "component": "TIRES",
+        "complaints": 3,
+        "share_pct": 7.9,
+        "excerpts": [
+          "The contact owns a 2009 Toyota Tundra. The contact stated that the TPMS warning light was illuminated. The vehicle was taken to a local mechanic where it was diagnosed with needing the TPMS replaced h",
+          "YOKOHAMA TIRE BLOW OUT WHILE DRIVING 65 MPH 5 FEB 2017. YOKOHAMA P275/65R18 GEOLANDER HTS. READ TIRE, SIDEWALL RUPTURE. NO ROAD HAZARD CONTACT.  TIRES PURCHASED FROM TREAD QUARTERS IN HAMPTON VA AUG 2",
+          "1. COLD START PISTON SLAP - EVERYTIME VEHICLE IS TURNED ON AND SHIFTED INTO DRIVE.  2. TIRES DO NOT HOLD A BALANCE.  3. STEERING WHEEL VIBRATES; ESPECIALLY AT 64-70 MPH  4. DRIVE SHAFT BODY ROLL - FEE"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 1,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2003,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 8
+      },
+      {
+        "year": 2010,
+        "count": 8
+      },
+      {
+        "year": 2011,
+        "count": 2
+      },
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 2
+      },
+      {
+        "year": 2016,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 2
+      },
+      {
+        "year": 2018,
+        "count": 3
+      },
+      {
+        "year": 2019,
+        "count": 6
+      },
+      {
+        "year": 2020,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 13,
+    "recalls": [
+      {
+        "campaign_number": "21V920000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2008-2022 Sequoia and 2007-2021 Tundra vehicles.  The power steering gear assembly may have been manufactured incorrectly, which can result in an oil leak.",
+        "report_date": "23/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21E103000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain JTEKT power steering gear assembly service parts for 2007-2021 Tundra and 2008-2022 Sequoia, part numbers 44250-0C160, 44250-0C131, 44250-0C170, and 11250-0C121.  The power steering gear assembly may have been manufactured incorr",
+        "report_date": "23/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V743000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2011 Prius and Corolla, 2009-2011 Venza, 2006-2010 Avalon, 2007-2010 FJ Cruiser, 2005-2011 Sienna and Sequoia, 2006-2011 Tacoma 4x2 and 4x4, Camry, Highlander, Tundra 4x2 and 4x4, and 2007-2011 Rav4 and 4Runner.  The affec",
+        "report_date": "19/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V689000",
+        "component": "VISIBILITY:POWER WINDOW DEVICES AND CONTROLS",
+        "summary": "Toyota Motor Company (Toyota) is recalling certain model year 2009-2011 Tundra, Sequoia, Corolla, Corolla Matrix and Scion xB, 2008-2011 Highlander and Highlander Hybrid, 2007 Camry and Camry Hybrid, 2009 Camry and Camry Hybrid, 2006-2011 RAV4, 2006-2010 Yaris, and 2009-2010 Scion xD and Pontiac Vib",
+        "report_date": "22/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V396000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2005-2011 4Runner, Highlander, Sequoia, and Sienna, 2005-2010 Avalon and Tundra, 2006-2008 Camry Solara, 2006-2010 Highlander hybrid, 2006-2011 Rav4 and Tacoma, 2007-2010 FJ Cruiser, 2007-2011 Camry hybrid, 2009-2010 Venza, 2010-2012 Priu",
+        "report_date": "02/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V148000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2008 THROUGH 2011 FJ CRUISER, LAND CRUISER, TACOMA, SEQUOIA AND TUNDRA VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 138, \"TIRE PRESSURE MONITORING SYSTEM (TPMS).\" WHEN FACTORY-INSTALLED  WHEELS AND TIRES WERE",
+        "report_date": "04/03/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V185000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "GULF STATES TOYOTA IS RECALLING CERTAIN MODEL YEAR 2011 FJ CRUISER AND MODEL YEAR 2009-2011 TUNDRA VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 138, \"TIRE PRESSURE MONITORING SYSTEMS.\" THE TPMS ON SOME VEHICLES MAY NOT HAVE BEEN PROPERLY CALIBRATE",
+        "report_date": "16/03/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V278000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2007-2011 TUNDRA VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 138, \"TIRE PRESSURE MONITORING SYSTEMS.\"  THE TPMS ON SOME VEHICLES MAY NOT HAVE BEEN PROPERLY CALIBRATED AND AS A RESULT THE LOW TIRE P",
+        "report_date": "12/05/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V388000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2004-2010 PASSENGER VEHICLES.  THE ACCELERATOR PEDAL CAN GET STUCK IN THE WIDE OPEN POSITION DUE TO ITS BEING TRAPPED BY AN UNSECURED OR INCOMPATIBLE DRIVER'S FLOOR MAT.",
+        "report_date": "05/10/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V223000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "TOYOTA IS RECALLING 27,080 MODEL YEAR 2005 THROUGH 2010 PASSENGER CARS BUILT FROM SEPTEMBER 1, 2005 TO MAY 4, 2009.  THESE VEHICLES WERE NOT EQUIPPED WITH LOAD CARRYING CAPACITY MODIFICATION LABELS WHICH FAILS TO CONFORM WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE S",
+        "report_date": "15/06/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V035000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "GULF STATES TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2010 VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD BETWEEN SEPTEMBER 1, 2005 AND JUNE 2, 2008 WITHOUT THE REQUISITE LOAD CARRYING CAPA",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V017000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2010 AVALON, MODEL YEAR 2007-2010 CAMRY, MODEL YEAR 2009-2010 COROLLA, COROLLA MATRIX, RAV4, MODEL YEAR 2010 HIGHLANDER, MODEL YEAR 2008-2010 SEQUOIA, AND MODEL YEAR 2007-2010 TUNDRA VEHICLES.  DUE TO THE MANNER IN WHICH THE FRICTION LEVER INTERACTS WITH T",
+        "report_date": "21/01/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V036000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2011 PASSENGER VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD WITHOUT THE REQUISITE LOAD CARRYING CAPACITY MODIFICATION LABELS.",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:48:52.992Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

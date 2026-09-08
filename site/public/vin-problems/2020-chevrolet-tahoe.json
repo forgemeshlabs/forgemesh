@@ -1,0 +1,132 @@
+{
+  "slug": "2020-chevrolet-tahoe",
+  "year": 2020,
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 55,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 14,
+        "share_pct": 25.5,
+        "excerpts": [
+          "Transmission valve , vehicle shutter, and eventually complete loss of power and failure.   Transmission had to be replaced as vehicle was out of warranty.",
+          "The dealership where I get my 2020 Chevy Tahoe service, stated that there is a recall for the water pump for the 2020 Chevy Tahoe, due to a manufactory defect, causing the water pump to leak.  On XXX,",
+          "My transmission failed, yes it is available for inspection.  The failure occurred without warning.  I was driving my truck on the highway,  suddenly it began to hesitate and making a loud winding out "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 12,
+        "share_pct": 21.8,
+        "excerpts": [
+          "The 6.2L L87 V8 engine in my 2020 Chevrolet Tahoe Premier RST suffered a catastrophic internal component failure while operating. The engine experienced a sudden, severe internal mechanical breakdown ",
+          "The dealership where I get my 2020 Chevy Tahoe service, stated that there is a recall for the water pump for the 2020 Chevy Tahoe, due to a manufactory defect, causing the water pump to leak.  On XXX,",
+          "On June 17th, 2025 while driving from [XXX]  back to my home state of [XXX] , I experienced an engine malfunction in Chester, Va where the 6.2 L87 engine was shaking and had severe hesitation. It was "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 11,
+        "share_pct": 20,
+        "excerpts": [
+          "Suddenly lost all power steering, then warning power steering attention, no control for steering, very dangerous, couldn't drive vehicle. Took independent car repair to fix. $5k repair to fix problem.",
+          "On multiple occasions, my car has locked my keys on the INSIDE of the vehicle. I have put things inside my vehicle before leaving and closed all the doors, upon returning, even just a few minutes late",
+          "My 2020 Tahoe stabilitrak has gone off approximately 5 times over the past 2 months April and May of 2025 in one incident my vehicle did turn off all incidents were at low speeds less than 5 MPH.  Fou"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 6,
+        "share_pct": 10.9,
+        "excerpts": [
+          "Tahoe transmission failed with 103,000 miles… took to Chevrolet they confirmed, took to a transmission specialist they confirmed failure but they said the computer was throwing weird codes and they be",
+          "I own a 2020 Tahoe, 160,000 miles. While driving, the vehicle experienced a sudden loss of brake assist due to a failure of the vacuum brake pump. The brake pedal became extremely hard, and the vehicl",
+          "While driving toward intersection, light changed to red. Applied pressure to brake pedal and pedal became extremely difficult to press. Vehicle was not slowing as expected with pedal pressure becoming"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 6,
+        "share_pct": 10.9,
+        "excerpts": [
+          "Suddenly lost all power steering, then warning power steering attention, no control for steering, very dangerous, couldn't drive vehicle. Took independent car repair to fix. $5k repair to fix problem.",
+          "Creaking and groaning from rack and pinion.  60,000 miles on vehicle.  no other issues. Potential steering system failure.  No warning lights.  Happens at all speeds.",
+          "The contact owns a 2020 Chevrolet Tahoe. The contact stated while driving 4 MPH, the steering wheel became firm. No warning light was illuminated. The vehicle was towed to an independent mechanic to b"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 0,
+      "injuries": 8,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 9
+      },
+      {
+        "year": 2025,
+        "count": 16
+      },
+      {
+        "year": 2026,
+        "count": 10
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "21V115000",
+        "component": "TIRES",
+        "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT4, XT5, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, Traverse, GMC Yukon, Yukon XL, 2018-2021 Chevrolet Express, GMC Savana, 2019-2020 Chevrolet Blazer, Silverado 1500, GMC Acadia, Sierra 1500, and certain Continental ",
+        "report_date": "25/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V837000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "General Motors LLC (GM) is recalling certain 2020 Cadillac Escalade, Escalade ESV, Chevrolet Camaro, Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles.  The fuel pump may be missing a pressure regulator, allowing for over-pressurization of the fuel system.",
+        "report_date": "21/11/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V761000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is tra",
+        "report_date": "24/10/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:05:10.827Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

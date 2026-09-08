@@ -1,0 +1,212 @@
+{
+  "slug": "2022-jeep-grand-cherokee",
+  "year": 2022,
+  "make": "Jeep",
+  "model": "Grand Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 366,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 167,
+        "share_pct": 45.6,
+        "excerpts": [
+          "​Vehicle Information: ​Year / Make / Model: 2022 Jeep Grand Cherokee Overland 4xe ​Component(s) Involved: Engine / Hybrid Powertrain / Electrical System / Sudden Loss of Drive Power ​Current Mileage: ",
+          "My vehicle has multiple software and electrical issues that Jeep has been unable to diagnose or repair, and there is currently no recall addressing these problems.  One of the most serious issues is t",
+          "The contact owns a 2022 Jeep Grand Cherokee. The contact stated that while driving approximately 35 MPH, the lights on the instrument panel became dark and the vehicle stalled. The failure had occurre"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 69,
+        "share_pct": 18.9,
+        "excerpts": [
+          "​Vehicle Information: ​Year / Make / Model: 2022 Jeep Grand Cherokee Overland 4xe ​Component(s) Involved: Engine / Hybrid Powertrain / Electrical System / Sudden Loss of Drive Power ​Current Mileage: ",
+          "The contact owns a 2022 Jeep Grand Cherokee. The contact stated that while driving approximately 35 MPH, the lights on the instrument panel became dark and the vehicle stalled. The failure had occurre",
+          "I am submitting this complaint regarding a serious safety-related failure involving my 2022 Jeep Grand Cherokee 4xe. I purchased the vehicle used with approximately 15,000 miles and was informed the p"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 65,
+        "share_pct": 17.8,
+        "excerpts": [
+          "My vehicle has multiple software and electrical issues that Jeep has been unable to diagnose or repair, and there is currently no recall addressing these problems.  One of the most serious issues is t",
+          "Front collison warning icon illuminated on the dash. Settings were changed.  Temperature changed from Fahrenheit to Celsius. Back up camera lines no longer showing up. CarPlay glitches. Mechanic did a",
+          "Hybrid battery system, still don't have heat after 2 years of car ownership. Not to mention the hybrid battery failure rate, I've driven several times and the vehicle will just have no power. I bring "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 54,
+        "share_pct": 14.8,
+        "excerpts": [
+          "I just experienced a 2nd engine stall event.  I was driving thru a neighborhood at 25 mph in 5th gear, lifted off the gas pedal as I approached a 90 degree uphill turn, and in the middle of the turn (",
+          "I am submitting this complaint regarding a serious safety-related failure involving my 2022 Jeep Grand Cherokee 4xe. I purchased the vehicle used with approximately 15,000 miles and was informed the p",
+          "I, [XXX]  was driving home from work on Friday, May 1st on [XXX]  in [XXX]  during heavy traffic when my vehicle suddenly shut off while traveling approximately 65–70 mph.  I initially thought I may n"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 51,
+        "share_pct": 13.9,
+        "excerpts": [
+          "This complaint involves a violation of safety recall obligations for Jeep Recall 68C (NHTSA Campaign 25V741000) concerning a high-voltage hybrid battery fire hazard.   On Friday, May 29, 2026, the veh",
+          "My vehicle will not start so I jumped my battery when my car cut on I had a bunch of lights flashing my engine light my power steering light the miles per hour on my dash was flashing will not let me ",
+          "1st incident: I pulled out from [XXX]  onto [XXX] . As I was accelerating to reach the speed limit the gas pedal became unresponsive around 30-40 mph losing all propulsion. I pushed the gas pedal to t"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 13,
+      "fires": 0,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2005,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 40
+      },
+      {
+        "year": 2023,
+        "count": 51
+      },
+      {
+        "year": 2024,
+        "count": 77
+      },
+      {
+        "year": 2025,
+        "count": 142
+      },
+      {
+        "year": 2026,
+        "count": 54
+      }
+    ]
+  },
+  "recalls": {
+    "count": 13,
+    "recalls": [
+      {
+        "campaign_number": "23V577000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2022-2023 Jeep Grand Cherokee, 2021-2023 Jeep Grand Cherokee L, and 2022-2024 Jeep Wagoneer and Grand Wagoneer vehicles.  The Central Vision Park Assist module (CVPAM) software may prevent the rearview image from displaying when the vehicle is placed in re",
+        "report_date": "14/08/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V111000",
+        "component": "VISIBILITY:DEFROSTER/DEFOGGER/HVAC SYSTEM",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2024 Jeep Wrangler and 2022-2024 Jeep Grand Cherokee vehicles.  A hybrid control processor (HCP) software error may cause the defrosting and defogging system to be inoperative.  As such, these vehicles fail to comply with the requirements of Federal M",
+        "report_date": "15/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V132000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM:UPPER BALL JOINT",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2023 Jeep Grand Cherokee L and 2022-2023 Jeep Grand Cherokee vehicles.  The upper control arm ball joint and steering knuckle may separate and cause the wheel to fall outward, resulting in a loss of vehicle control.",
+        "report_date": "22/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V289000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2022-2023 Jeep Grand Cherokee and 2023-2024 Jeep Grand Cherokee L vehicles.  An improperly connected coaxial cable may prevent the rearview camera image from displaying.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle",
+        "report_date": "25/04/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V436000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2022 Dodge Durango, 2021-2023 Chrysler Pacifica, Jeep Grand Cherokee L, 2022 Ram 1500, 2500, 3500, Chrysler Voyager, 2022-2023 Jeep Compass, Grand Cherokee, Wagoneer, Grand Wagoneer, and Ram Promaster vehicles.  The radio software may prevent the rear",
+        "report_date": "13/06/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V897000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2022-2024 Jeep Grand Cherokee and 2021-2024 Jeep Grand Cherokee L vehicles.  An improperly secured connector for the front seat side air bags (SAB) may prevent the air bags from deploying.  As such, these vehicles fail to comply with the requirements of Fe",
+        "report_date": "27/11/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V083000",
+        "component": "EQUIPMENT:ELECTRICAL:INFOTAINMENT:VIDEO (TOUCH)SCREEN/MONITOR/UNIT",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2022 Jeep Grand Cherokee and 2021-2022 Jeep Grand Cherokee L vehicles.  The center stack upper display (DCSD) contains a transistor that may overheat and prevent the rearview camera image from displaying.  As such, these vehicles fail to comply with the re",
+        "report_date": "13/02/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V576000",
+        "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2022-2026 Jeep Grand Cherokee Plug-In Hybrid Electric (PHEV) vehicles. A software error within the hybrid control processor may result in a loss of drive power.",
+        "report_date": "04/09/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V741000",
+        "component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2025 Jeep Wrangler 4Xe and 2022-2026 Grand Cherokee 4Xe vehicles. The high voltage battery may fail internally and lead to a vehicle fire while parked or driving.",
+        "report_date": "30/10/2025",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "26V051000",
+        "component": "SUSPENSION:REAR:SPRINGS:COIL SPRINGS",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2023 Jeep Grand Cherokee L and 2022-2023 Jeep Grand Cherokee vehicles. The rear coil springs may be incorrectly installed and detach from the vehicle while driving.",
+        "report_date": "29/01/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V328000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE:SOFTWARE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2022-2026 Jeep Grand Cherokee and 2023-2025 Jeep Grand Cherokee L vehicles. A software error in the occupant restraint controller module may cause the delayed deployment of the side air bags during a crash. As such, these vehicles fail to comply with the r",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V413000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2022-2024 Jeep Grand Cherokee, 2023 Jeep Wagoneer, 2024 Jeep Grand Cherokee L, and Jeep Wagoneer L vehicles. A software error may cause the transmission gear selection indicator not to display. As such, these vehicles fail to comply with the requirements o",
+        "report_date": "30/06/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V562000",
+        "component": "SUSPENSION:REAR:SPRINGS:COIL SPRINGS",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2023 Jeep Grand Cherokee L, 2022-2023 Jeep Grand Cherokee, and Jeep Grand Cherokee 4XE vehicles. The rear coil springs may be incorrectly installed and detach from the vehicle while driving.",
+        "report_date": "01/09/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:21.860Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

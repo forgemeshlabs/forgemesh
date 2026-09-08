@@ -1,0 +1,168 @@
+{
+  "slug": "2018-dodge-charger",
+  "year": 2018,
+  "make": "Dodge",
+  "model": "Charger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 122,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 45,
+        "share_pct": 36.9,
+        "excerpts": [
+          "The drivers side headlight fuse melts continuously causing the headlights to go out specifically use 15 and few 16 for the HID headlights.",
+          "The unconnected touch screen spazzes out and I am unable to use it. I can’t even turn it off and the light flashing from it affects my eyes while driving at night.",
+          "The UConnect functions will not work and randomly initiates functions so it changes stations, adjusts heating/cooling, asks if I want to contact 911, etc. This is very distracting and unsafe. Most of "
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 19,
+        "share_pct": 15.6,
+        "excerpts": [
+          "I experienced an issue with the trunk lights on my 2018 Dodge Charger SXT Plus, which would not illuminate when the trunk was open. Additionally, the dashboard display failed to indicate that the trun",
+          "The contact owns a 2018 Dodge Charger. The contact stated that the front driver and front passenger side door panels had started to detach from the door frames. The dealer was contacted about the fail",
+          "The contact owns a 2018 Dodge Charger. The contact stated she notice that the interior driver's side door panel vinyl and the window strip was warped and was separating from the door frame. The vehicl"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 11,
+        "share_pct": 9,
+        "excerpts": [
+          "My safety & the safety of others was at great risk while driving my 2018 dodge charger sxt. While driving my dashboard lights went completely dark and the steering wheel locked. I was unable to move o",
+          "Engine: Timing chain, valve rocker arms and valve lifters. All in sequence once the rocker arms went out with the lifters which is a common problem with dodge 3.6L PenStar engine it made my timing cha",
+          "DURING MY TIME DRIVING THE VEHICLE IT HAS  BEEN RUNNING GREAT BUT RECENTLY AFTER REACHING 23,500 MILES IT STARTED ACTING FUNNY AS IN. SLOWING TO A COMPLETE STOP AND ACCELERATING IT WOULD LOOSE RPM THE"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 10,
+        "share_pct": 8.2,
+        "excerpts": [
+          "The contact owns a 2018 Dodge Charger. The contact stated that while driving at slow speeds, there was an abnormal, repetitive thud sound coming from the vehicle. There was no warning light illuminate",
+          "The contact owns a 2018 Dodge Charger. The contact stated that while driving at an undisclosed speed, the contact noticed an abnormal sound, and the check engine warning light illuminated. The contact",
+          "Unknown . Nothing appeared and there was no warning. Should I have been warned? There was no warnings or anything to prevent me from crashing except to make the best decision possible and crash into a"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 6,
+        "share_pct": 4.9,
+        "excerpts": [
+          "Unknown . Nothing appeared and there was no warning. Should I have been warned? There was no warnings or anything to prevent me from crashing except to make the best decision possible and crash into a",
+          "MY DODGE CHARGER SHAKES WHEN I PUSH THE BRAKES ON A DOWN HILL OR WHEN DRIVING IN SPEED . THERE IS NO AVS LIGHT SYSTEM ON . THE BRAKES HAVE BEEN REPLACED AND SO HAVE THE ROUTERS . HAVE TAKEN MY CAR TO ",
+          "I REAR ENDED ANOTHER VEHICLE BECAUSE MY BRAKES FAILED. I HAD BOTH FEET PUSHING ON THE BRAKE PEDAL AND MY BRAKES FAILED TO STOP MY VEHICLE. THEY DID NOT LOCK UP OR ANYTHING I ROLLED RIGHT INTO ANOTHER "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 1,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 17
+      },
+      {
+        "year": 2019,
+        "count": 19
+      },
+      {
+        "year": 2020,
+        "count": 26
+      },
+      {
+        "year": 2021,
+        "count": 22
+      },
+      {
+        "year": 2022,
+        "count": 14
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 10
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "20V512000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018-2020 Dodge Charger Pursuit vehicles equipped with a \"stealth mode.\"  When stealth mode is selected, the backup camera rearview image will not display when the vehicle is in reverse.  As such, these vehicles fail to comply with the requirements of Feder",
+        "report_date": "27/08/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V280000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Dodge Charger, Durango and Challenger, Jeep Grand Cherokee and Wrangler, Chrysler 300, and RAM 1500 vehicles.  An incorrect transmission park lock rod may have been installed in the transmission.",
+        "report_date": "01/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V281000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2015-2018 Dodge Charger pursuit police vehicles equipped with all-wheel drive and V8 engines. The front driveshaft universal joint may seize or fracture causing the shaft to detach from the vehicle.",
+        "report_date": "01/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V524000",
+        "component": "ELECTRICAL SYSTEM:WIRING:FRONT UNDERHOOD",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Jeep Renegade, Compass and Grand Cherokee, RAM 1500 and Promaster, Fiat 500x, Dodge Journey, Challenger, Charger and Durango and Chrysler 300x vehicles, 2017-2018 Jeep Wrangler, Dodge Grand Caravan and Chrysler Town and Country vehicles and 2018-2019 J",
+        "report_date": "09/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V198000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN:INFLATOR",
+        "summary": "Chrysler (FCA US, LLC) (Stellantis) is recalling certain 2018-2021 Dodge Charger and Chrysler 300 vehicles.  The right and left side curtain air bag inflators may rupture due to a manufacturing defect.",
+        "report_date": "14/03/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:49.587Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

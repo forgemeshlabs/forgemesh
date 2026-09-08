@@ -1,0 +1,160 @@
+{
+  "slug": "2009-chevrolet-colorado",
+  "year": 2009,
+  "make": "Chevrolet",
+  "model": "Colorado",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 67,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 36,
+        "share_pct": 53.7,
+        "excerpts": [
+          "Vehicle caught fire and lost everything",
+          "TL* THE CONTACT OWNS A 2009 CHEVROLET COLORADO. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 80 MPH, THE ANTI-THEFT SECURITY LIGHT ILLUMINATED AND VEHICLE DECELERATED AND LOSS MOTIVE POWER. THE",
+          "HAS SOME KIND OF SECURTY MALFUNCTION THAT WONT LET ME START TRUCK FO 9 MINUTES"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 10,
+        "share_pct": 14.9,
+        "excerpts": [
+          "Vehicle caught fire and lost everything",
+          "RUBBER HOOD WEATHER STRIP AT REAR OF HOOD CLOSURE AREA DETACHED, DROPPED DOWN FROM INSUFFICIENT RETENTION CLIP DESIGN, ATOP OF DRIVER SIDE EXHAUST MANIFOLD CATALYST, AND CAUGHT FIRE.  FIRE GREW QUICKL",
+          "TL* THE CONTACT OWNS A 2009 CHEVROLET COLORADO. THE CONTACT STATED THAT THE VEHICLE DID NOT START AFTER TURNING THE KEY IN THE IGNITION. THE CONTACT STATED THAT THE VEHICLE MUST REMAIN PARKED FOR TEN "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 9,
+        "share_pct": 13.4,
+        "excerpts": [
+          "Vehicle caught fire and lost everything",
+          "TRUCK INTERMITTENTLY LOSES POWER WHEN PRESSING GAS PEDDLE CAUSING BUCKING, STALLING THEN WILL SUDDENLY RUNS FINE AGAIN CAUSING RAPID ACCELERATION CREATING EXTREMELY DANGEROUS AND HAZARDOUS DRIVING. AP",
+          "FUEL PUMP LINE CORROSION ON FUEL PUMP MODULE FAILED CAUSING MAJOR FUEL LEAKAGE AND EXTREME FIRE HAZARD DUE TO FUEL LEAKAGE IN ADDITION TO PERMEATING INSIDE OF VEHICLE WITH TOXIC GAS FUMES.GM REFUSED A"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 6,
+        "share_pct": 9,
+        "excerpts": [
+          "The contact owns a 2009 Chevrolet Colorado. The contact stated that while driving at an undisclosed speed, the air bag warning light illuminated. The vehicle was taken to the dealer; however, the vehi",
+          "TL* THE CONTACT OWNS A 2009 CHEVROLET COLORADO. THE CONTACT STATED THAT THE AIR BAG WARNING INDICATOR ILLUMINATED CONTINUOUSLY. THE CONTACT MENTIONED THAT THE AIR BAG WIRE HARNESS TRAVELED THROUGH THE",
+          "THE WIRING HARNESS THAT PASSES THROUGH THE REAR DRIVERS SIDE DOOR OF MY EXTENDED CAB HAS FAILED TWICE NOW.  THE FIRST TIME OCCURRED AT 45K AND MOST RECENTLY AT 54K MILES.  BOTH INSTANCES CAUSE THE AIR"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 3,
+        "share_pct": 4.5,
+        "excerpts": [
+          "The contact owns a 2009 Chevrolet Colorado. The contact stated while the vehicle was being serviced, the mechanic became aware that the entire subframe was extremely rusted and notified the contact. A",
+          "The contact owns a 2009 Chevrolet Colorado. The contact stated while driving at various speeds, the sun visor fell down obstructing the driver’s view. Additionally, the contact stated that the frame w",
+          "The contact owns a 2009 Chevrolet Colorado. The contact had taken his vehicle for state inspection and was informed by an inspector that there was significant corrosion on the main undercarriage suspe"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 4,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 3
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 3
+      },
+      {
+        "year": 2012,
+        "count": 4
+      },
+      {
+        "year": 2013,
+        "count": 5
+      },
+      {
+        "year": 2014,
+        "count": 12
+      },
+      {
+        "year": 2015,
+        "count": 10
+      },
+      {
+        "year": 2016,
+        "count": 5
+      },
+      {
+        "year": 2017,
+        "count": 7
+      },
+      {
+        "year": 2018,
+        "count": 7
+      },
+      {
+        "year": 2019,
+        "count": 4
+      },
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "09V154000",
+        "component": "FUEL SYSTEM, GASOLINE",
+        "summary": "GM IS RECALLING 27,188 MY 2009 CADILLAC ESCALADE, ESCALADE HYBRID, ESCALADE ESV, AND ESCALADE EXT; CHEVROLET AVALANCHE, SUBURBAN, TAHOE, TAHOE HYBRID, AND COLORADO; AND GMC YUKON, YUKON HYBRID, YUKON XL, AND CANYON VEHICLES.  THE FUEL SYSTEM CONTROL MODULES MAY HAVE A CONDITION IN WHICH AN ADHESIVE ",
+        "report_date": "06/05/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V575000",
+        "component": "CHILD SEAT",
+        "summary": "GM IS RECALLING CERTAIN MODEL YEAR 2004-2011, CHEVROLET COLORADO, GMC CANYON, MODEL YEAR 2006, ISUZU I-280/I-350, AND MODEL YEAR 2007-2008, I-290/I-370, REGULAR CAB VEHICLES AND EXTENDED CAB VEHICLES WITHOUT A REAR SEAT AND EQUIPPED WITH A FRONT 60/40 SPLIT BENCH SEAT.  THESE VEHICLES FAIL TO COMPLY",
+        "report_date": "18/11/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V310000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "GM IS RECALLING 185,903 MODEL YEAR 2004-2009 COLORADO, GMC MODEL YEAR 2009-2004 CANYON, MODEL YEAR 2006 I-280, I-350, MODEL YEAR 2007-2008 I-290, AND I-370, PASSENGER VEHICLES ORIGINALLY SOLD IN OR CURRENTLY REGISTERED IN THE STATES OF ALABAMA, ARIZONA, FLORIDA, GEORGIA, HAWAII, LOUISIANA, MISSISSIP",
+        "report_date": "29/07/2009",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:50:25.985Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

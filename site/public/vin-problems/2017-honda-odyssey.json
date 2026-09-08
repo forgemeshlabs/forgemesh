@@ -1,0 +1,135 @@
+{
+  "slug": "2017-honda-odyssey",
+  "year": 2017,
+  "make": "Honda",
+  "model": "Odyssey",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 39,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 10,
+        "share_pct": 25.6,
+        "excerpts": [
+          "At 60 mph the vehicle began shaking , I pulled over , put it in park while still running, and got out to inspect. I noticed some smoke from under the hood and by the time I got inside to release the h",
+          "While driving, the battery indicator light illuminated. Suddenly, the power turned off. The vehicle could be steered and brakes used, only. Then, as quickly as the power turned off, it restored and mo",
+          "2017 Honda Odyssey Piston ring failure leading to stop spark plug working while driving.  This makes car shake heavily and can’t drive more than 20mph, sound from engine is loud. Had been happening ev"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 7,
+        "share_pct": 17.9,
+        "excerpts": [
+          "-Torque convertor/transmission. We do currently have it and it could be inspected. -A sudden transmission failure could pose a safety risk to us and others. -Yes, see story below. Technician drove and",
+          "I own a 2017 Honda Odyssey that is currently covered under an extended warranty related to the torque converter, specifically addressing Diagnostic Trouble Code (DTC) P0741. I experienced symptoms twi",
+          "Driving one day without warning the van was shifting from 2nd to 3rd gear when there was a hard slam, then the check engine light came on as well as the forward collision sensor failure. The van went "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 6,
+        "share_pct": 15.4,
+        "excerpts": [
+          "The contact owns a 2017 Honda Odyssey. The contact stated that after exiting the vehicle and pressing the buttons to lock the doors, the front driver’s side door locked and immediately unlocked, faili",
+          "On two separate occasions, while unattended and sitting in my garage, the vehicle seemed to be attempting to start by itself. Instrument panel warning lights were all flashing on and off with ignition",
+          "While driving, the battery indicator light illuminated. Suddenly, the power turned off. The vehicle could be steered and brakes used, only. Then, as quickly as the power turned off, it restored and mo"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 3,
+        "share_pct": 7.7,
+        "excerpts": [
+          "While driving, the battery indicator light illuminated. Suddenly, the power turned off. The vehicle could be steered and brakes used, only. Then, as quickly as the power turned off, it restored and mo",
+          "AT 25,000 MILES ON MY HONDA WHEN I APPLIED THE BRAKES THE FRONT END STARTED SHAKING SEVERELY, TOKE THE CAR TO THE HONDA DEALER FOR SERVICE, THEY TOLD ME THAT THE BRAKE PADS GOT HOT THE FIXED THE PADS ",
+          "SOFT AND NON-RESPONSIVE BREAK"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 2,
+        "share_pct": 5.1,
+        "excerpts": [
+          "See attached letter for complaint for potential Defect Petition DP26005",
+          "I was driving on the highway at approximately 65 mph and the passenger side SRS (seatbelt and airbag) deployed.  There was no collision, pothole or any other change in momentum to the vehicle immediat"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 0,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 4
+      },
+      {
+        "year": 2018,
+        "count": 4
+      },
+      {
+        "year": 2019,
+        "count": 6
+      },
+      {
+        "year": 2020,
+        "count": 2
+      },
+      {
+        "year": 2021,
+        "count": 3
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "17V725000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2011-2017 Honda Odyssey vehicles.  The second row outboard seats can slide sideways to one of two positions.  If a seat is placed between either of the two positions when attaching the seat to the vehicle floor, the seat will not latch properly t",
+        "report_date": "17/11/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:42.331Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

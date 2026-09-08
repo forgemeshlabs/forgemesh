@@ -1,0 +1,176 @@
+{
+  "slug": "2013-dodge-challenger",
+  "year": 2013,
+  "make": "Dodge",
+  "model": "Challenger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 179,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 104,
+        "share_pct": 58.1,
+        "excerpts": [
+          "Driver & passenger door windows on many 2010-2017 Dodge Challengers activate repeatedly on their own during driving and after ignition is turned off causing the battery to completely drain overnight &",
+          "On Saturday 1:20am 11/15/25 DRIVING 27 MILES FROM DISTANCE VEHICLE STARTED TO MALFUNCTION ELECTRICALLY WITH INTERNAL LIGHTS QUICKLY POWER OUTAGES ON AND OFF INTERIOR LIGHTIN. dim headlights, or issues",
+          "* The ignition switch failed to release the key fob. I brought the car home after completing some repairs and sending the car through emissions testing to renew the plates. I made numerous attempts tu"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 27,
+        "share_pct": 15.1,
+        "excerpts": [
+          "* The ignition switch failed to release the key fob. I brought the car home after completing some repairs and sending the car through emissions testing to renew the plates. I made numerous attempts tu",
+          "When I start the car, it shuts off if I pushed the button to restart it, sounds like it’s double starting itself the only way that I can make it stop is by continuously hitting the button. The only wa",
+          "When starting my vehicle, I would push the push start button and it will continue to turn over and over and over but not start, it will do it for a minute or more and there is not way to turn it off."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 19,
+        "share_pct": 10.6,
+        "excerpts": [
+          "Airbag light stays on and bells.  I put in for the recall but records show even on here that its repaired  but it never has.  I'm afraid it may explode and metal may come out and and harm me or passen",
+          "ABS light is on airbag light is on traction control won't come back on",
+          "TL* THE CONTACT OWNS A 2013 DODGE CHALLENGER. THE CONTACT STATED THAT WHILE DRIVING AT VARIOUS SPEEDS, THE PASSENGER'S SIDE AIR BAG WARNING LIGHT ILLUMINATED WITH AN AUDIBLE CHIME. THE VEHICLE WAS NOT"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 16,
+        "share_pct": 8.9,
+        "excerpts": [
+          "* The ignition switch failed to release the key fob. I brought the car home after completing some repairs and sending the car through emissions testing to renew the plates. I made numerous attempts tu",
+          "while turning onto another street transmisson went into neutral. car would`nt accelerate, almost reared by another car. Car is at dealership now, they say it needs new transmission. only has 70,000 mi",
+          "I WAS ENTERING THE FREEWAY AND GETTING UP TO SPEED, WHEN I MERGE ONTO THE FREEWAY MY CAR LOSS POWER AND WOULD NOT ACCELERATE AND DOING THE TIME IT WAS HIGH TRAFFIC TIME OF DAY, AND THERE WAS A BIG TRU"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 15,
+        "share_pct": 8.4,
+        "excerpts": [
+          "Last week i face a serious issue with my Dodge Challenger v6 2013 steering, while im taking a U turn (20klm /25klm) without any warning lamp or message the steering becomes hard that I couldn’t turn i",
+          "POWER STEERING JUST RANDOMLY GOES OUT. HAD DEALERSHIP CHECK IT OUT. THEY SAY THAT IT HAS HAPPENING ALL OVER THE COUNTRY ON SEVERAL MOPAR VEHICLES. THEY SAID NOTHING WRONG WITH MY PUMP, MODULE OR RACK.",
+          "STEERING LOCKS UP MAKING LEFT TURN INTERMITTENTLY IN MOTION.  *TR"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 10,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 8
+      },
+      {
+        "year": 2014,
+        "count": 23
+      },
+      {
+        "year": 2015,
+        "count": 34
+      },
+      {
+        "year": 2016,
+        "count": 12
+      },
+      {
+        "year": 2017,
+        "count": 25
+      },
+      {
+        "year": 2018,
+        "count": 20
+      },
+      {
+        "year": 2019,
+        "count": 22
+      },
+      {
+        "year": 2020,
+        "count": 13
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "19V018000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2010 Dodge Ram 3500, Ram 4500/5500, 2010-2011 Dodge Dakota, 2010-2014 Dodge Challenger, 2010-2015 Dodge Challenger, Chrysler 300, and 2010-2016 Jeep Wrangler vehicles.  Upon deployment of the driver's frontal air bag, excessive internal pressure may cause t",
+        "report_date": "15/01/2019",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V435000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2014 Dodge Challenger, Dodge Charger, Chrysler 300, Dodge Durango, and 2012-2014 Jeep Grand Cherokee vehicles.  The affected vehicles have electro-hydraulic power steering (EHPS) and are equipped with a 5.7L or a 3.6L engine and a 160, 180 o",
+        "report_date": "10/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V021000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2009-2013 Jeep Wrangler, Chrysler 300, Dodge Challenger and Dodge Charger vehicles, and 2009-2011 Dodge Dakota vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, ",
+        "report_date": "09/01/2018",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V103000",
+        "component": "ELECTRICAL SYSTEM:WIRING:FRONT UNDERHOOD",
+        "summary": "Chrysler is recalling certain model year 2013 Dodge Challenger vehicles manufactured from December 3, 2012, through January 24, 2013 and equipped with a V6 engine.  The battery positive cable at the starter motor may experience an electrical short circuit to ground.",
+        "report_date": "21/03/2013",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V634000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Chrysler 300, Dodge Charger, Challenger, and Durango; and 2012-2014 Jeep Grand Cherokee vehicles manufactured April 22, 2010, to January 2, 2014, and equipped with a 3.6L engine and a 160 amp alternator.  In the affected vehicle",
+        "report_date": "08/10/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:23.162Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

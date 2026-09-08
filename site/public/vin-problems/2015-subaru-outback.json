@@ -1,0 +1,180 @@
+{
+  "slug": "2015-subaru-outback",
+  "year": 2015,
+  "make": "Subaru",
+  "model": "Outback",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 509,
+    "top_failure_components": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 130,
+        "share_pct": 25.5,
+        "excerpts": [
+          "Cracked windshield out of nowhere, starts from the bottom passenger side.",
+          "Around 8 am on 1/4/2022, driving the car on I85 in Durham County, NC, at a normal highway speed, the sunroof glass shattered suddenly and without warning. The sunroof was fully closed at the time, but",
+          "My sunroof exploded.  Sounded like a gunshot.  On the highway, 12/12 1pm.  50+- degrees partly sunny day."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 127,
+        "share_pct": 25,
+        "excerpts": [
+          "The Subaru's Starlink Radio has completely delaminated on the layer between the display and the digitizer, which does not allow the radio to be controlled in any way, shape, or form. This means that t",
+          "Vehicle Component Affected:  ELECTRICAL SYSTEM / FORWARD COLLISION AVOIDANCE / BACK OVER PREVENTION Description of the Safety Defect: The factory infotainment touchscreen in my 2015 Subaru Outback Lim",
+          "My car horn stopped working. The dealership said the clock spring (steering roll connector) component has failed, confirmed by the resulting complete loss of the horn function. The dealership did not "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 47,
+        "share_pct": 9.2,
+        "excerpts": [
+          "NHTSA issued a notice for a recall on the 2015 Subaru Outback for an exhaust pipe bellows crack which causes exhaust noise and odor which affects emission and engine performance.   I had noticed our S",
+          "I was within the town limits so I was driving slowly.  When I approached the first stop light in town I saw that it was red.  There were of three or four vehicles stopped at that light.  At that point",
+          "The cam carrier has a leak that is causing oil to slowly leak out of the car. The current issue is causing me to have to regularly add oil to the car. My safety is at risk as the car engine could fail"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 37,
+        "share_pct": 7.3,
+        "excerpts": [
+          "After a transmission replacement performed by Bud Clary Chevrolet, Inc. in Longview, WA on September 9, 2025, my vehicle was returned to me with critical components left unsecured.  On November 19, 20",
+          "A transmission that was replaced in July of 2023 went bad un December of 2024 and dealership won't give reasons why transmission went bad or what caused a almost brand new transmission with less than ",
+          "When shifted into drive or reverse, with brakes applied, and after initial start the vehicle will surge forward or reverse with force enough to overcome standard braking."
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 33,
+        "share_pct": 6.5,
+        "excerpts": [
+          "The contact owns a 2015 Subaru Outback. The contact stated while the vehicle was at the dealer for an oil change and snow tire replacement, the contact was informed that the sub frame and the brake li",
+          "The front subframe on my 2015 subaru 3.6r has rapidly rusted in a few years to the point of a safety concern. The vehicle is lightly driven, with 91,000 miles on it after almost 10 years. We live in t",
+          "Driver door interior, de-bonding of the horizontal crash protection from the outer door panel. Online research indicates this is a common issue."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 19,
+      "fires": 5,
+      "injuries": 16,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2000,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 18
+      },
+      {
+        "year": 2015,
+        "count": 140
+      },
+      {
+        "year": 2016,
+        "count": 42
+      },
+      {
+        "year": 2017,
+        "count": 36
+      },
+      {
+        "year": 2018,
+        "count": 37
+      },
+      {
+        "year": 2019,
+        "count": 46
+      },
+      {
+        "year": 2020,
+        "count": 40
+      },
+      {
+        "year": 2021,
+        "count": 52
+      },
+      {
+        "year": 2022,
+        "count": 37
+      },
+      {
+        "year": 2023,
+        "count": 17
+      },
+      {
+        "year": 2024,
+        "count": 14
+      },
+      {
+        "year": 2025,
+        "count": 19
+      },
+      {
+        "year": 2026,
+        "count": 9
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "16V251000",
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2015 Legacy and Outback vehicles manufactured on July 20, 2015.  The brake fluid used in these vehicles may contain excess moisture which may adversely affect the performance of the electronic stability control system.  As such, these ",
+        "report_date": "27/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V577000",
+        "component": "TRAILER HITCHES",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2015 Outback vehicles manufactured January 22, 2014, to August 18, 2014, and equipped with a Subaru accessory trailer hitch assembly.  During installation, the trailer hitch mounting nuts may have been overtightened, potentially result",
+        "report_date": "19/09/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V502000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2015 and 2016 model year Subaru Legacy 4-Door and Outback vehicles manufactured July 3, 2015, to July 27, 2015.  Transmission oil may leak from a deformed seal cap on the propeller shaft yoke.",
+        "report_date": "10/08/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V292000",
+        "component": "STEERING:COLUMN",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2016-2017 Legacy and Outback vehicles manufactured February 29, 2016, to May 6, 2016.  The steering column on the affected vehicles may have been improperly machined, and as a result, turning the steering wheel may have no effect on th",
+        "report_date": "11/05/2016",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V366000",
+        "component": "FORWARD COLLISION AVOIDANCE: CRASH IMMINENT BRAKING",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2015 Legacy vehicles manufactured March 10, 2014, to April 16, 2015, Outback vehicles manufactured February 24, 2014, to April 16, 2015, Impreza vehicles manufactured September 9, 2014, to April 14, 2015, XV Crosstrek vehicles manufact",
+        "report_date": "12/06/2015",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:19.657Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

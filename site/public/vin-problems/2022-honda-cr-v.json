@@ -1,0 +1,136 @@
+{
+  "slug": "2022-honda-cr-v",
+  "year": 2022,
+  "make": "Honda",
+  "model": "CR-V",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 253,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 132,
+        "share_pct": 52.2,
+        "excerpts": [
+          "Steering wheel sticking when I turn left and making ticking noise. Took it to Honda and I have to pay $5k to replace the steering wheel rack. They won’t tell me why this happened and it’s because they",
+          "The Steering appears to be sticky on highway speeds. Honda has the recall for this exact same issue but seems like 2022 CRV was excluded from the recall. This is a major safety issue which can easily ",
+          "What component or system failed or malfunctioned, and is it available for inspection upon request?  When I drive, whether at low or highway speeds, the steering sticks in place and needs to be yanked "
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 43,
+        "share_pct": 17,
+        "excerpts": [
+          "The contact owns a 2022 Honda CR-V. The contact stated that while driving at a very slow speed in heavy traffic, the vehicle suddenly experienced \"Phantom Braking\" causing the vehicle to abruptly stop",
+          "The vehicle automatically and suddenly slammed on the brakes when a deflated mylar balloon floated across my lane. It braked hard for several seconds then released the brakes as the balloon cleared my",
+          "OIL DILUTION, ANIFREEZE DISAPPEARING, LOSS OF POWER WHILE DRIVING ON HIGHWAY THIS PAST SATURDAY, ALL LIGHTS ON DASH CONSTANTLY GOING OFF AT LEAST ONCE A MONTH, VEHICLE RADAR SENSES A CAR IN FRONT WHEN"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 19,
+        "share_pct": 7.5,
+        "excerpts": [
+          "I was driving on hwy when I had to do a hard stop because traffic stopped suddenly in front of my vehicle, no physical contact was made to any cars in front or back of me, suddenly dark smoke started ",
+          "Driving downhill on Ohio Turnpike at high speed the check engine light started flashing and the car lost power.  2nd time this has happened in one month's time this summer.  First time was also on the",
+          "Car went into \"limp mode\" while we were driving on the turnpike on a hill at 70 MPH.  Speed dropped to 30 MPH in an area with a construction zone so there was little room to pull to the side of the ro"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 15,
+        "share_pct": 5.9,
+        "excerpts": [
+          "I was driving on the highway and I wanted to pass someone the car cut power and was not accelerating and the car slowed down. I went to a mechanic shop and they said there was an internal brake sensor",
+          "Emergency Brake activates without warning.",
+          "The vehicle automatically and suddenly slammed on the brakes when a deflated mylar balloon floated across my lane. It braked hard for several seconds then released the brakes as the balloon cleared my"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 14,
+        "share_pct": 5.5,
+        "excerpts": [
+          "I was driving on hwy when I had to do a hard stop because traffic stopped suddenly in front of my vehicle, no physical contact was made to any cars in front or back of me, suddenly dark smoke started ",
+          "Driving downhill on Ohio Turnpike at high speed the check engine light started flashing and the car lost power.  2nd time this has happened in one month's time this summer.  First time was also on the",
+          "Subject: Safety Concern: Electronic System/BCM Failure – 2022 Honda CR-V Hybrid Vehicle Information: Year/Make/Model: 2022 Honda CR-V Hybrid VIN:  [XXX] ] Approximate Mileage: [45,200] Component: Elec"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 1,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 23
+      },
+      {
+        "year": 2023,
+        "count": 30
+      },
+      {
+        "year": 2024,
+        "count": 60
+      },
+      {
+        "year": 2025,
+        "count": 59
+      },
+      {
+        "year": 2026,
+        "count": 77
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "23V524000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017, 2020, and 2022 CR-V vehicles.  The certification label on the driver's side door states incorrect Gross Vehicle Weight Rating (GVWR), Gross Axle Weight Rating (GAWR), and tire size information.  As such, these vehicles fail to comply with t",
+        "report_date": "27/07/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:07:39.096Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

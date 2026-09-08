@@ -1,0 +1,172 @@
+{
+  "slug": "2011-ford-escape",
+  "year": 2011,
+  "make": "Ford",
+  "model": "Escape",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1316,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 409,
+        "share_pct": 31.1,
+        "excerpts": [
+          "I have a 2011 Ford Escape AWD 3.0 engine. I took it for NY state inspection and it fails due the right side front subframe is rusted and unsafe. Ford has a recall on models up to 2004 but this vehicle",
+          "The contact owns a 2011 Ford Escape. The contact stated that while operating the vehicle, the vehicle lost power steering functionality, and the steering wheel became difficult to turn in either direc",
+          "The steering shaft torque sensor unexpectedly malfunctioned while driving resulting in a loss of steering. There was no indication that this would happen, no check engine light was on, and no symptoms"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 268,
+        "share_pct": 20.4,
+        "excerpts": [
+          "While driving, the power steering assist intermittently fails without warning. This makes steering very difficult and creates a serious safety hazard, especially at low speeds or during turns. The iss",
+          "The contact owns a 2011 Ford Escape. The contact stated while driving approximately 35 MPH, the contact attempted to make a right turn however, the power steering failed, and the steering wheel became",
+          "The contact owns a 2011 Ford Escape. The contact stated that while at a complete stop, the vehicle hesitated upon depression of the accelerator pedal. There was no warning light illuminated. The vehic"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 253,
+        "share_pct": 19.2,
+        "excerpts": [
+          "The fuel pump was replaced and a new one was installed and now the engine is misfiring really hard and when the vehicle is placed in drive or reverse the engine tries to stall. The mechanic is saying ",
+          "Leaking gas from gas tank where the fuel delivery pipe enters the tank",
+          "Back in June, I took my vehicle to have it checked out. When I accelerate, the SUV would feel like it was dragging something under the tires and riding very rough and bumpy, actually the vehicle was s"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 248,
+        "share_pct": 18.8,
+        "excerpts": [
+          "I purchased this vehicle on 10/16/25 through Affordable Auto Sales 692 Pleasant St Fall River Ma as it is a buy here pay here. It had 97,626 miles on it day of purchase.  I noticed trouble with power ",
+          "The contact owns a 2011 Ford Escape. The contact stated while driving at an undisclosed speed, the vehicle shuddered and jerked, with the check engine warning light illuminated. The contact also state",
+          "The contact owns a 2011 Ford Escape. The contact stated that while his daughter was driving at an undisclosed speed, the power steering failed to work as needed. No warning lights were illuminated. Th"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 245,
+        "share_pct": 18.6,
+        "excerpts": [
+          "THE INSTRUMENT CLUSTER STARTED BY FLASHING ALL LIGHTS TO STAYING ON. THEN THE SPEED CONTROLS, SPEEDOMETER, RPM GAUGE, AND HEAT SENSOR WOULD NOT WORK. ON TOP OF ALL THIS. THE BRAKES BEGAN TO MAKE A CLI",
+          "IT'S STALLING IN MOTION OR SUDDENLY SURGING FORWARD WHEN ACCELERATING FROM A STOP, POSING A SERIOUS SAFETY RISK TO VEHICLE OCCUPANTS, OTHER MOTORISTS AND PEDESTRIANS. INTERMITTENT VEHICLE STALLS AND S",
+          "TL* THE CONTACT OWNS A 2011 FORD ESCAPE. WHILE DRIVING APPROXIMATELY 62 MPH WITH THE CRUISE CONTROL ENGAGED, THE VEHICLE STALLED. THERE WERE NO WARNING INDICATORS ILLUMINATED. THE CONTACT STOPPED, TUR"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 38,
+      "fires": 7,
+      "injuries": 38,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 4
+      },
+      {
+        "year": 2011,
+        "count": 38
+      },
+      {
+        "year": 2012,
+        "count": 48
+      },
+      {
+        "year": 2013,
+        "count": 388
+      },
+      {
+        "year": 2014,
+        "count": 100
+      },
+      {
+        "year": 2015,
+        "count": 55
+      },
+      {
+        "year": 2016,
+        "count": 114
+      },
+      {
+        "year": 2017,
+        "count": 95
+      },
+      {
+        "year": 2018,
+        "count": 104
+      },
+      {
+        "year": 2019,
+        "count": 69
+      },
+      {
+        "year": 2020,
+        "count": 52
+      },
+      {
+        "year": 2021,
+        "count": 52
+      },
+      {
+        "year": 2022,
+        "count": 62
+      },
+      {
+        "year": 2023,
+        "count": 52
+      },
+      {
+        "year": 2024,
+        "count": 41
+      },
+      {
+        "year": 2025,
+        "count": 29
+      },
+      {
+        "year": 2026,
+        "count": 13
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "16V777000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2010-2012 Ford Escape vehicles manufactured February 26, 2009, to April 29, 2012, and 2010-2011 Mercury Mariner vehicles manufactured February 25, 2009, to December 12, 2010.  On vehicles with a 3.0L engine, the Fuel Delivery Module (FDM) may",
+        "report_date": "26/10/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15E045000",
+        "component": "SUSPENSION:FRONT:WHEEL BEARING",
+        "summary": "The Timken Company (Timken) is recalling certain aftermarket front wheel bearings, part number 510072, sold from January 22, 2015, to May 21, 2015, to be used as service parts on 2001-2012 Ford Escape, 2001-2011 Mazda Tribute, and 2005-2011 Mercury Mariner vehicles.  The affected wheel bearings have",
+        "report_date": "03/06/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V284000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2008-2011 Ford Escape and Mercury Mariner vehicles manufactured August 18, 2006, through September 11, 2010.  The affected vehicles have a steering torque sensor that may not be able to properly detect driver steering input.  As a result, the",
+        "report_date": "29/05/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:53:47.060Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

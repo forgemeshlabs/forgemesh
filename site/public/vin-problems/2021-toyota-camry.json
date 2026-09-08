@@ -1,0 +1,112 @@
+{
+  "slug": "2021-toyota-camry",
+  "year": 2021,
+  "make": "Toyota",
+  "model": "Camry",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 155,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 78,
+        "share_pct": 50.3,
+        "excerpts": [
+          "The contact owns a 2021 Toyota Camry. The contact stated that while driving approximately 40 MPH, a second vehicle T-boned the vehicle while driving approximately 60 MPH and crashed into the driver’s ",
+          "I went to a toyota dealership June 24th to have my car checked for the airbag recall. They told me my car did have the recall on it and that they would have to order the part. I haven't heard anything",
+          "The contact owns a 2021 Toyota Camry. The contact received notification of NHTSA Campaign Number: 23V865000 (Air Bags); however, the part to do the recall repair was not yet available. The contact sta"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 16,
+        "share_pct": 10.3,
+        "excerpts": [
+          "Vehicle Information: • Year/Make/Model: 2021 Toyota Camry • VIN: [XXX]   Incident Date: May 4, [2025] Incident Time: Approximately 9:45 AM Incident Location: [XXX]  toward [XXX]   Description of Incid",
+          "Owner bought new 2021 Camry XLR 4 cylinder all wheel drive. It currently has 39,000 miles on it. No problems until January 25, 2026. It was 11 degrees below zero, my car had the original battery. Car ",
+          "had brake issues a year into getting vehicle went back multiple times and blackstone toyota couldn’t fix issue still can’t and still there at dealer and now there’s airbag safety recall car has been a"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 11,
+        "share_pct": 7.1,
+        "excerpts": [
+          "I bought this car a couple of years ago.  I didnt think much of it because I never owned a Toyota. I noticed that the transmission was doing some weird hesitation when going from 1st to 2nd gear.  The",
+          "My transmission is making a whining noise that starts round 20 mph and gets louder the faster I drive.",
+          "Transmission is staying in a higher gear at lower speeds and making vehicle shutter. You have to push on gas quite a bit to finally get it to downshift."
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 10,
+        "share_pct": 6.5,
+        "excerpts": [
+          "I was involved in a multi-impact collision while driving my 2021 Toyota Camry. Certified crash data from the Airbag Control Module (ACM) confirms five crash events including a frontal collision (delta",
+          "1. Driving on the highway with adaptive cruise control feels like taming a wild horse. Pulls side to side, even after alignment and total check up from Toyota.  2. Engine Maintenace required now warni",
+          "Driving very slowly into my 36 foot deep garage I took my right foot off the accelerator pedal when the 2021 Toyota Camry suddenly unintended accelerated forward 15 feet and crashed through the rear g"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 8,
+        "share_pct": 5.2,
+        "excerpts": [
+          "The contact owns a 2021 Toyota Camry. While the contact’s wife was inside the parked vehicle and attempting to open the sunroof, there was an abnormal sound coming from the sunroof while attempting to",
+          "had brake issues a year into getting vehicle went back multiple times and blackstone toyota couldn’t fix issue still can’t and still there at dealer and now there’s airbag safety recall car has been a",
+          "Driving very slowly into my 36 foot deep garage I took my right foot off the accelerator pedal when the 2021 Toyota Camry suddenly unintended accelerated forward 15 feet and crashed through the rear g"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 21,
+      "fires": 2,
+      "injuries": 16,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 16
+      },
+      {
+        "year": 2022,
+        "count": 17
+      },
+      {
+        "year": 2023,
+        "count": 25
+      },
+      {
+        "year": 2024,
+        "count": 48
+      },
+      {
+        "year": 2025,
+        "count": 35
+      },
+      {
+        "year": 2026,
+        "count": 14
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "23V865000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020-2021 Avalon, Avalon Hybrid, Corolla, Highlander, Highlander Hybrid, RAV4, RAV4 Hybrid, Lexus ES350, Lexus RX350, Lexus RX450H, 2021 Sienna Hybrid, Lexus ES250, 2020-2022 Camry, Camry Hybrid, and ES300H vehicles.  A short cir",
+        "report_date": "20/12/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:05:30.014Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

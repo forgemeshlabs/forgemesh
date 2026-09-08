@@ -1,0 +1,192 @@
+{
+  "slug": "2014-toyota-4runner",
+  "year": 2014,
+  "make": "Toyota",
+  "model": "4Runner",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 77,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 24,
+        "share_pct": 31.2,
+        "excerpts": [
+          "My gear shift became difficult to shift.  As I was driving it, when I physically shifted to the Drive position, the display didn't confirm \"D\", but I could drive.  As I was driving, the car shifted to",
+          "The horn stopped functioning. This is a safety hazard because i am not able to alert other drivers. The vehicle has only been inspected by the Toyota Dealer. No codes and no lights were displayed.Fear",
+          "THE DOOR LOCK ACTUATOR HAS FAILED ON EVERY DOOR IN MY CAR. I'VE HAD THEM FIXED BUT NOW THE WARRANTY IS EXPIRED."
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 8,
+        "share_pct": 10.4,
+        "excerpts": [
+          "White Paint Peeling From Metal Body Panels",
+          "GREATLY REDUCED SAFETY IN FRONTAL IMPACT DURING AN ACCIDENT DUE TO CORRODED FRAME COMPONENTS CAUSED BY FACTORY INSTALLED FOAM PIECES THAT RETAIN RAIN WATER.    THIS PROBLEM HAS BEEN NOTICED, PERSONALL",
+          "VEHICLE HAS EXCESSIVE RUST ON THE FRONT FRAME CROSS MEMBER BELOW THE RADIATOR. THE EXCESSIVE RUST IS ALSO FOUND BY THE FRONT TOW HOOKS WHICH COULD AFFECT THE OVERALL FUNCTIONALITY OF THE FRONT TOW HOO"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 8,
+        "share_pct": 10.4,
+        "excerpts": [
+          "I had a collision and rear ended a truck. My front left bumper was completely damaged. My chest hit the steering wheel. My airbags did not deploy.",
+          "Vehicle was involved in an accident where the driver side airbag did not deploy.",
+          "\"TAKATA RECALL\"  OVER 6 WEEKS WAITING FOR PARTS OR ABILITY FOR DEALER TO REPAIR. COMPLETELY UNACCEPTABLE TIME FOR SAFETY ISSUE ON A CAR I USE DAILY."
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 7,
+        "share_pct": 9.1,
+        "excerpts": [
+          "Intermediate steering shaft u joint Steering is difficult. Vehicle only has 80000 miles Just out of warranty as of 5/23",
+          "The steering became almost unresponsive and I could not turn the steering wheel while driving.  I brought it to a repair shop and they said the intermediate steering shaft and u-joints were rotted out",
+          "WHEN APPLYING THE BRAKES, THE VEHICLE / STEERING WHEEL SHAKES \"VIOLENTLY\". ALMOST TO THE POINT THAT IT IS HARD TO HOLD ON TO THE STEERING WHEEL. AND IF I'M DRIVING AT HIGHWAY SPEEDS THE VEHICLE IS EXT"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 6,
+        "share_pct": 7.8,
+        "excerpts": [
+          "I am reporting what I believe is a design defect involving the Secondary Air Injection (SAI) System on my 2014 Toyota 4Runner.  My vehicle illuminated the Check Engine Light and stored Diagnostic Trou",
+          "My exhaust pipe rusted apart after the muffler causing the hot exhaust to expel upward and melt a rubber grommet on the floor. Then it proceeded to shoot into cargo area, melting the carpet backing an",
+          "My gear shift became difficult to shift.  As I was driving it, when I physically shifted to the Drive position, the display didn't confirm \"D\", but I could drive.  As I was driving, the car shifted to"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 1,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 7
+      },
+      {
+        "year": 2015,
+        "count": 5
+      },
+      {
+        "year": 2016,
+        "count": 7
+      },
+      {
+        "year": 2017,
+        "count": 8
+      },
+      {
+        "year": 2018,
+        "count": 7
+      },
+      {
+        "year": 2019,
+        "count": 8
+      },
+      {
+        "year": 2020,
+        "count": 11
+      },
+      {
+        "year": 2021,
+        "count": 9
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "19V005000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2014-2016 Toyota 4Runner, 2014-2015 Scion xB, Lexus IS350C, IS250C, 2014 Toyota Sienna, Lexus IS-F, and 2014-2017 Lexus GX460 vehicles sold, or ever registered in the states of Alabama, California, Florida, Georgia, Hawaii, Louis",
+        "report_date": "09/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V741000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2010-2016 4Runner, 2003-2006 Tundra, 2003-2013 Corolla, 2009-2010 Corolla Matrix, 2004-2005 RAV4, 2002-2007 Sequoia, 2011-2013 Sienna, 2008-2012 Scion xB, 2008-2009 Lexus IS-F, 2007-2012 Yaris and Lexus ES350, 2010-2017 Lexus GX4",
+        "report_date": "17/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V425000",
+        "component": "STRUCTURE:BODY:HOOD:HINGE AND ATTACHMENTS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2011-2016 Toyota Tacoma and 4Runner vehicles equipped with accessory hood scoops installed by SET or SET dealers.  The adhesive attaching the hood scoop may weaken, allowing the hood scoop to detach from the vehicle.",
+        "report_date": "03/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V577000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:MANIFOLD/HEADER/MUFFLER/TAIL PIPE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2015 Toyota 4Runner vehicles manufactured September 3, 2009, to December 1, 2014.  The affected vehicles may be equipped with accessory exhaust tips installed by SET or SET dealers that may contact people and possibly burn",
+        "report_date": "03/08/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V828000",
+        "component": "EQUIPMENT",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2014-2015 Toyota 4Runner, Tacoma, FJ Cruiser, Land Cruiser, RAV4, Scion FRS, and XB vehicles.  The affected vehicles may have accessories installed by SET, such as running boards or other items, that were incorrectly installed.",
+        "report_date": "30/12/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V515000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:MANIFOLD/HEADER/MUFFLER/TAIL PIPE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2015 Toyota 4Runner vehicles manufactured March 29, 2010, to July 30, 2015. The affected vehicles may be equipped with accessory exhaust tips installed by SET or SET dealers that may contact people and possibly burn them w",
+        "report_date": "13/08/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V012000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) recalled certain 2018-2019 4Runner, Highlander, Camry, Land Cruiser, Sequoia, Sienna, Tacoma and Tundra, and Lexus RC 300, RC 350, GS 350, GX 460, IS 300, LC 500, LS 500, LX 570, RX 350L, and 2019 Toyota Avalon and Corolla, and certain Lexus NX 300, ",
+        "report_date": "13/01/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:58:27.906Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

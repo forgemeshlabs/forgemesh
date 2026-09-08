@@ -1,0 +1,172 @@
+{
+  "slug": "2009-kia-sorento",
+  "year": 2009,
+  "make": "Kia",
+  "model": "Sorento",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 55,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 21,
+        "share_pct": 38.2,
+        "excerpts": [
+          "The contact owns a 2009 Kia Sorento. The contact stated while driving out of the driveway, the warning message \"ASC-OFF\" appeared on the instrument panel and the vehicle inadvertently stalled. The con",
+          "KIA INSTALLED FOUR PASSENGER SEAT SENSOR PADS IN MY 2009 AND A NEW AIR BAG MODULE. WHILE IT WAS ALL COVERED BY WARRANTY WORK, NOW I PAID $133.54 TO HAVE IT CHECKED AGAIN, AND THEY WANT ME TO PAY AN ES",
+          "AIR BAG IS OFF LIGHT COMES ON THE DASH FOR THE PASSENGER SIDE EVEN IF AN ADULT IS IN THE SEAT.  I TOOK IT TO THE DEALER 2 TIMES WHILE UNDER WARRANTY AND THE FIRST TIME THEY SAID THE COMPUTER JUST NEED"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 14,
+        "share_pct": 25.5,
+        "excerpts": [
+          "The contact owns a 2009 Kia Sorento. The contact stated that upon starting the vehicle, the check engine, ESC, and ABS warning lights were illuminated. Upon speaking with other independent mechanics, ",
+          "My check engine light is on. It has been on for over 2 or more years. Nobody knows what the codes mean. My timing chain needs to be replaced. My tires are constantly leaking. My battery has been repla",
+          "The contact owns a 2009 Kia Sorento. The contact stated while her daughter was driving approximately 15 MPH, she activated the windshield wipers and the radio, and the vehicle started to stall. The co"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 9,
+        "share_pct": 16.4,
+        "excerpts": [
+          "SHORTLY AFTER BUYING SUV IN 2009 WE EXPERIENCED \"QUERKY\" STUFF LIKE DOORS RELOCKING, DOME LIGHT  S COMING ON, BACK HATCH UNLOCKING ALL THIS HAPPENING ON THEIR OWN!!  I KEPT TELLING THE DEALERSHIP   AT",
+          "THE CAR WILL  SOMETIMES SHIFT HARD. WHEN IT DOES THIS AND I PUT IT INTO DRIVE, THE TACH WILL GO UP AND THE ENGINE REVS, BUT THE CAR MOVES AT A SNAILS PACE. EVEN IF THE PEDAL IS TO THE FLOOR. IT IS UNS",
+          "WHEN SHIFTING MY 2009 KIA SORENTO FROM P TO R, IT VIOLENTLY JOLTS INTO R AND THEN WHEN SHIFTING INTO D, IT HAS ALMOST NO POWER, AS IF I WERE DRIVING IN FIRST GEAR WITH A MANUAL TRANSMISSION (VEHICLE I"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 8,
+        "share_pct": 14.5,
+        "excerpts": [
+          "The contact owns a 2009 Kia Sorento. The contact stated that upon starting the vehicle, the check engine, ESC, and ABS warning lights were illuminated. Upon speaking with other independent mechanics, ",
+          "The contact owns a 2009 Kia Sorento. The contact stated while her daughter was driving approximately 15 MPH, she activated the windshield wipers and the radio, and the vehicle started to stall. The co",
+          "The contact owns a 2009 Kia Sorento. The contact received notification of NHTSA Campaign Number: 20V088000 (Electrical System, Service Brakes, Hydraulic) however, the part to do the recall repair was "
+        ]
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "complaints": 8,
+        "share_pct": 14.5,
+        "excerpts": [
+          "VEHICLE WAS TRAVELING AT 65 MPH AND THE ESC LIGHT CAME ON SLOWING THE VEHICLE TO 30 MPH ON THE HIGHWAY. WE WERE ALMOST HIT FROM BEHIND. THIS IS HAPPENING 2-3 TIMES A DAY. VEHICLE HAS TO BE TURNED OFF ",
+          "TL* THE CONTACT OWNS A 2009 KIA SORENTO. WHILE REVERSING THE VEHICLE, THE CONTACT DEPRESSED THE BRAKE PEDAL TO SHIFT THE GEAR INTO DRIVE AND THE ESC SENSOR ILLUMINATED. PREVIOUSLY, THE ESC INDICATOR I",
+          "TL* THE CONTACT OWNS A 2009 KIA SORENTO. WHILE THE VEHICLE WAS IDLING AT A TRAFFIC LIGHT, THE BRAKES DISENGAGED AND THE VEHICLE PROCEEDED IN A FORWARD MOTION VOLUNTARILY. THE VEHICLE WAS TAKEN TO AN I"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 1,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 6
+      },
+      {
+        "year": 2010,
+        "count": 10
+      },
+      {
+        "year": 2011,
+        "count": 4
+      },
+      {
+        "year": 2012,
+        "count": 2
+      },
+      {
+        "year": 2013,
+        "count": 6
+      },
+      {
+        "year": 2014,
+        "count": 4
+      },
+      {
+        "year": 2015,
+        "count": 5
+      },
+      {
+        "year": 2016,
+        "count": 3
+      },
+      {
+        "year": 2017,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 3
+      },
+      {
+        "year": 2019,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "20V088000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Kia Motors America (Kia) is recalling certain 2006-2010 Sedona and 2007-2009 Sorento vehicles.  Moisture may enter the Anti-lock Brake (ABS) Module and result in an electrical short.",
+        "report_date": "14/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11E041000",
+        "component": "EQUIPMENT",
+        "summary": "CURT MANUFACTURING IS RECALLING CERTAIN TOW PACKAGE WIRING HARNESSES, PART NUMBER 56024, THAT CONNECT TOW VEHICLE LIGHTING CIRCUITS TO TRAILER LIGHTING CIRCUITS SOLD FOR USE ON CERTAIN MODEL YEAR 2009 THROUGH 2011 HYUNDAI VERACRUZ AND KIA SORENTO VEHICLES.  THE UNITS ARE NOT WATER-TIGHT AND MOISTURE",
+        "report_date": "06/10/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V114000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Kia Motors Corporation (Kia) is recalling certain model year 2007-2010 Rondo, model year 2007-2011 Sedona, Sorento and Sportage, model year 2010-2011 Soul, model year 2008-2011 Optima, model year 2010 Forte, model year 2007-2009 Amanti, and model year 2009 Borrego vehicles.  Originally, in April 201",
+        "report_date": "01/04/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:49:35.153Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

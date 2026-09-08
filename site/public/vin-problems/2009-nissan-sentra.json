@@ -1,0 +1,148 @@
+{
+  "slug": "2009-nissan-sentra",
+  "year": 2009,
+  "make": "Nissan",
+  "model": "Sentra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 55,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 15,
+        "share_pct": 27.3,
+        "excerpts": [
+          "My car is included by year in the current airbag recall. However it comes up negative and the airbag icon started blinking last week. There were no incidents prior to the blinking.",
+          "THE AIR BAG WARNING LIGHT POP ON WHEN I WAS STOPPING FOR RED LIGHT. THE CAR HAS NOT BEEN IN A CRASH ,FIRE , OR FLOOD. THE AIR BAG MODULE MUST BE A MANUFACTURER PROBLEM,  THIS IS NOT NO ROUTINE MAINTEN",
+          "AIR BAG LIGHT FLASHES CONTINUESLY"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 11,
+        "share_pct": 20,
+        "excerpts": [
+          "THE AIRBAG EXPLODED ON DRIVER'S SIDE, KNOCKED BE UNCONSCIOUS FOR A FEW MINUTES, WHEN I CAME TOO THE CAR WAS OUT OF CONTROL. I HIT A IRON POLE IN FRONT OF WAL-GREEN'S. THE VEHICLE WAS IN MOTION AT THE ",
+          "THERE WAS A POLICE REPORT",
+          "BOMBILLA QUE INDICA BOLSAS DE AIRE PARPADEA EN EL PANEL DE CONTROL Y DICE AIR BAG OFF"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 10,
+        "share_pct": 18.2,
+        "excerpts": [
+          "My brake line broke in three pieces while I was driving on the highway visiting my son I almost lost my life the brakes did not work all of the fluid came out thank God I didn’t die there was no sign ",
+          "I was driving on the interstate to go and visit my granddaughter from PA to New York when all of a sudden I press on the break pedal and the brakes stopped working there was no warning sign on the das",
+          "I WAS RECENTLY INVOLVED IN AN ACCIDENT ON 4/15/17 WHEN MY BRAKES ON MY CAR STOP WORKING WE TRIED TO STOP BUT UNFORTUNATELY IT DIDN'T WE EVEN TRIED TO PUT IT IN PARKING GEAR BUT IT STILL KEEP ON GOING."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 6,
+        "share_pct": 10.9,
+        "excerpts": [
+          "TAKATA RECALL   CAR STALLS OUT AND DASH BOARD LIGHTS UP WITH EVERY WARNING SIGNAL,  EVERY TIME I BRAKE TO QUICKLY WHEN HITTING A RED LIGHT BUT CHECK ENGINE LIGHT ISN'T REGULARLY ON.   MY PROBLEM MATCH",
+          "I HAVE A 2009 NISSAN SENTRA I BOUGHT IT A FEW MONTHS AGO AND EVERYTHING IS FINE UNTIL I NEED TO GET OUT OF THE VEHICLE TO DO ANYTHING OUTSIDE IT THE DOOR AUTOMATICALLY LACKS WHEN I'M OUTSIDE AND CLOSE",
+          "I HAVE GONE THROUGH 5 BATTERIES IN 6 YEARS ONE BLEW UP UNDER MY HOOD. I CHANGED THE POSITIVE BATTERY CABLE ASSEMBLY AFTER THAT HAPPENED.  IT HASN'T HELPED IN KEEPING BATTERIES FOR MORE THAN A YEAR IN "
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 6,
+        "share_pct": 10.9,
+        "excerpts": [
+          "THE AIRBAG EXPLODED ON DRIVER'S SIDE, KNOCKED BE UNCONSCIOUS FOR A FEW MINUTES, WHEN I CAME TOO THE CAR WAS OUT OF CONTROL. I HIT A IRON POLE IN FRONT OF WAL-GREEN'S. THE VEHICLE WAS IN MOTION AT THE ",
+          "THERE WAS A POLICE REPORT",
+          "I WAS RECENTLY INVOLVED IN AN ACCIDENT ON 4/15/17 WHEN MY BRAKES ON MY CAR STOP WORKING WE TRIED TO STOP BUT UNFORTUNATELY IT DIDN'T WE EVEN TRIED TO PUT IT IN PARKING GEAR BUT IT STILL KEEP ON GOING."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 0,
+      "injuries": 11,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2008,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 2
+      },
+      {
+        "year": 2010,
+        "count": 7
+      },
+      {
+        "year": 2011,
+        "count": 3
+      },
+      {
+        "year": 2012,
+        "count": 2
+      },
+      {
+        "year": 2013,
+        "count": 6
+      },
+      {
+        "year": 2014,
+        "count": 9
+      },
+      {
+        "year": 2015,
+        "count": 4
+      },
+      {
+        "year": 2016,
+        "count": 5
+      },
+      {
+        "year": 2017,
+        "count": 5
+      },
+      {
+        "year": 2018,
+        "count": 4
+      },
+      {
+        "year": 2019,
+        "count": 2
+      },
+      {
+        "year": 2020,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "10V401000",
+        "component": "EQUIPMENT:ELECTRICAL:NAVIGATIONAL SYSTEM(GLOBAL POSITIONING SYSTEM)",
+        "summary": "NISSAN IS RECALLING CERTAIN VEHICLES THAT WERE EQUIPPED WITH A GARMIN NUVI MODEL 750 NAVIGATION SYSTEM.  THE BATTERIES CONTAINED IN THE AFFECTED GPS UNITS CAN OVERHEAT.",
+        "report_date": "10/09/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:48:59.843Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

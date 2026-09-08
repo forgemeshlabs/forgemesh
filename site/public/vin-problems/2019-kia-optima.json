@@ -1,0 +1,120 @@
+{
+  "slug": "2019-kia-optima",
+  "year": 2019,
+  "make": "Kia",
+  "model": "Optima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 205,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 87,
+        "share_pct": 42.4,
+        "excerpts": [
+          "The contact owns a 2019 Kia Optima. The contact stated that while driving at an undisclosed speed, the vehicle stalled. No warning lights were illuminated. The vehicle was towed to a dealer, where it ",
+          "The contact owns a 2019 Kia Optima. The contact stated that while driving at various speeds on two occasions, the vehicle lost power with the check engine warning light illuminated. The vehicle was dr",
+          "Oil is needing added on a weekly basis to keep up with how much the engine is burning, Spark Plugs and Coils have been changed excessively, the dealership says we may end up being covered by a recall "
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 36,
+        "share_pct": 17.6,
+        "excerpts": [
+          "Blind spot forward collision detection lane departure warning rear cross traffic warning",
+          "Unknown was just driving to go to my husband to work and it came on when I was coming back home and when I went to pick my husband up from work and was stopped at a stop sign the lights came back on",
+          "I was driving down the highway when I kinda noticed speed changed. ABS lights, foreword collision light, and rear end lights, so I turned around went back home. I rarely drive my car and I never had a"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 22,
+        "share_pct": 10.7,
+        "excerpts": [
+          "Drove roughly an hour from Roseville MI to Temperance MI. Car was fine. No issues on the drive. Gauges were all fine. Got to my friend’s house and took my stuff inside. Came back out immediately and s",
+          "The engine of vehicle repeatedly failed, causing the vehicle to stall while driving, which posed a serious risk to my safety and others on the road. The vehicle had approximately 65,000 miles and was ",
+          "Odometer Fraud. The contact purchased a 2019 Kia Optima. The contact stated that it was discovered that there was a mileage discrepancy after the purchase. The vehicle was a dealer sale. At the time o"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 19,
+        "share_pct": 9.3,
+        "excerpts": [
+          "I just recently purchased my 2019 Kia optima sx turbo. After purchase, I immediately began experiencing issues with the braking system and the forward collision warning light coming on. The cruise con",
+          "Lights appeared on the dash and the vehicle locked and would not drive. This happened as I was actively driving. I had the vehicle towed and was told by the Kia dealership that it was my abs/hecu. Bef",
+          "When attempting to stop, my brake petal goes all the way to the floor causing me not being able to stop! No warning lamps or messages and no other symptoms or problems with my brakes It start month ag"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 16,
+        "share_pct": 7.8,
+        "excerpts": [
+          "I am reporting a recurring safety hazard involving my 2019 Kia Optima following a repair for diagnostic code P064A (Fuel Pump Control Module). Despite the dealership attempting to repair the fuel syst",
+          "The engine of vehicle repeatedly failed, causing the vehicle to stall while driving, which posed a serious risk to my safety and others on the road. The vehicle had approximately 65,000 miles and was ",
+          "The vehicle experienced a sudden engine failure one day after undergoing a manufacturer emissions/service campaign at an authorized dealership. Prior to service, the vehicle operated normally with no "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 20,
+      "fires": 6,
+      "injuries": 16,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 13
+      },
+      {
+        "year": 2020,
+        "count": 17
+      },
+      {
+        "year": 2021,
+        "count": 19
+      },
+      {
+        "year": 2022,
+        "count": 19
+      },
+      {
+        "year": 2023,
+        "count": 41
+      },
+      {
+        "year": 2024,
+        "count": 41
+      },
+      {
+        "year": 2025,
+        "count": 40
+      },
+      {
+        "year": 2026,
+        "count": 15
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "19V539000",
+        "component": "FORWARD COLLISION AVOIDANCE: AUTOMATIC EMERGENCY BRAKING",
+        "summary": "Kia Motors America (Kia) is recalling certain 2019 Optima vehicles equipped with Gamma 1.6L Turbo-GDI or Theta II 2.0L Turbo-GDI engines.  A software error in the Forward Collision-Avoidance Assist (FCA) system may cause the braking assist function to not engage when a stationary vehicle is detected",
+        "report_date": "19/07/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:24.253Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "2021-gmc-acadia",
+  "year": 2021,
+  "make": "GMC",
+  "model": "Acadia",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 147,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 37,
+        "share_pct": 25.2,
+        "excerpts": [
+          "Display suddenly says \"Steering assistance reduced, drive with care\"  Temp gauge goes to C and stays there.  Radiator fans speed up and stay on after the car has been turned off.  Dealer unable to fin",
+          "This is a very known issue that has been reoccurring with GMC Acadia. The torque converter slipping.  That cost alone is over $7.000 for the transmission. I am still making monthly payments for my 202",
+          "The camera system has failed. The screen is black and there is an exclamation point and a camera on the screen."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 29,
+        "share_pct": 19.7,
+        "excerpts": [
+          "Display suddenly says \"Steering assistance reduced, drive with care\"  Temp gauge goes to C and stays there.  Radiator fans speed up and stay on after the car has been turned off.  Dealer unable to fin",
+          "I am submitting this complaint regarding ongoing mechanical and electrical issues with my 2021 GMC ACADIA that have been occurring intermittently for approximately the past year and a half. The primar",
+          "Bought the acadia in june of 2021, in december of 2022 had to have the radiator replaced due to it leaking. This was found on routine maintenance and was not having any issues whatsoever. I received n"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 23,
+        "share_pct": 15.6,
+        "excerpts": [
+          "I have seen numerous complaints for this same issue.  My 2021 Acadia with 31,600 miles failed to start when parked in garage.  It turned over just fine but wouldn't fire as if it wasn't getting any fu",
+          "My Acadia, 2021 has just  36011 miles.  Car sputtered a few times like it was running out of gas and stalled as I was driving home in rush hour traffic.  I couldn't even get it off the road.  No warni",
+          "I was driving down a heavy traffic expressway with a lot of semi traffic and the SUV started puttering. All of a sudden it died, the check engine light came on and I started to slow down quickly. I wa"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 18,
+        "share_pct": 12.2,
+        "excerpts": [
+          "While driving the brake vacuum pump exploded leading to catastrophic brake failure. My husband was driving and was able to stand on the brakes to get the car to stop, but had i been driving, I am not ",
+          "My brake pedal got stiff when I was driving. I had zero control of my brakes. I was informed by a GMC dealership that my BRAKE BOOSTER blew up causing my brakes to stop working and metal shrapnel to b",
+          "I was driving and all of a sudden my break pedal was inoperable. It was stiff and unable to be used. Luckily I was only going 40 MPH. I pulled into a parking lot and my car started shaking and apparen"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 17,
+        "share_pct": 11.6,
+        "excerpts": [
+          "This is a very known issue that has been reoccurring with GMC Acadia. The torque converter slipping.  That cost alone is over $7.000 for the transmission. I am still making monthly payments for my 202",
+          "Had vehicles looked at twice and serviced once for the transmission slipping. No issues were found when looked at and light was deleted. Took to another mechanic who drained and refilled transmission.",
+          "Cars is not keeping track of temperature showing engine is cold after 30 minutes of driving, fan runs for extended periods of time after shutting off, check engine light comes on, steering assist aler"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 0,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1981,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 2
+      },
+      {
+        "year": 2021,
+        "count": 18
+      },
+      {
+        "year": 2022,
+        "count": 19
+      },
+      {
+        "year": 2023,
+        "count": 20
+      },
+      {
+        "year": 2024,
+        "count": 22
+      },
+      {
+        "year": 2025,
+        "count": 45
+      },
+      {
+        "year": 2026,
+        "count": 20
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "21V422000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "General Motors, LLC. (GM) is recalling certain 2021 Cadillac XT5, XT6, and GMC Acadia vehicles.  The fuel supply lines may be improperly attached and seated.",
+        "report_date": "03/06/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V709000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2021 Cadillac XT5, XT6, and GMC Acadia vehicles equipped with the optional Surround Vision feature.  The rearview camera coaxial cable connectors may have been crimped improperly, causing the rearview camera to fail or function intermittently.",
+        "report_date": "22/09/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:07:22.825Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

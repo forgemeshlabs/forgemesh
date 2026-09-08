@@ -1,0 +1,169 @@
+{
+  "slug": "2013-gmc-sierra",
+  "year": 2013,
+  "make": "GMC",
+  "model": "Sierra",
+  "matched_as": {
+    "complaints": [
+      "SIERRA 2500",
+      "SIERRA 1500",
+      "SIERRA 1500 HYBRID",
+      "SIERRA 3500"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 469,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 120,
+        "share_pct": 25.6,
+        "excerpts": [
+          "I was traveling east bound on i26 when the Bosch fuel pump exploded and sent metal shavings throughout the fuel system. It's the same pump GM has settled a class action lawsuit when I  spoke to the ad",
+          "I get a recall notice from GM but the dealer won't do the repair without me signing a waiver for any damage they may cause to the dashboard during the recalled airbag removal. Can anyone get GM dealer",
+          "I called my local GMC dealer (Maxwell GMC, Round Rock, TX) in regard to the Takata Air Bag recall to get some details about the repair (e.g. length of time for repair, parts availability, etc.)  In ad"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 69,
+        "share_pct": 14.7,
+        "excerpts": [
+          "DASH CRACKS AROUND AIR BAG ALWAYS BEEN GARAGED. *TR",
+          "TL* THE CONTACT OWNS A 2013 GMC SIERRA 1500. THE CONTACT STATED THAT THE DASHBOARD HAD CRACKS ON THE PASSENGER SIDE BY THE AIR BAG UNIT, IN THE CENTER, AND AROUND THE INSTRUMENT CLUSTER. THERE WERE NO",
+          "TL* THE CONTACT OWNS A 2013 GMC SIERRA 2500. THE CONTACT STATED THAT THE DASHBOARD BEGAN TO CRACK SEVERELY. THE LOCAL DEALER (FRANK KENT COUNTRY, 2000 E. STATE HWY 31, CORSICANA, TX 75110) WAS CONTACT"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 38,
+        "share_pct": 8.1,
+        "excerpts": [
+          "Transmission Control Module I was at an intersection when the TCM malfunctioned halfway through and I lost all power to my motor.  I was pulling a large trailer and cross traffic had to slam on brakes",
+          "I was driving 75 mph in traffic when my steering wheel jerked hard and the truck made a loud noise from underneath. Lights on dash engine light and traction light on. Dash read out said service stabil",
+          "SERVICE STABILITRAK WARNING LIGHT CAME ON WHILE DRIVING ON HIGHWAY AT 60MPH. TRUCK WENT INTO \"LIMP MODE\" . NO TRANS PRIDAL DISPLAY. TRUCK DRIVEN SLOWLY OFF HIGHWAY. AT THE SERVICE DEALER THEY DETERMIN"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 33,
+        "share_pct": 7,
+        "excerpts": [
+          "I was hauling a load and felt a hard jolt near the transmission.  The pickup went into limp mode and would not let me accelerate above 45 mph.  Took it to a dealership and was told the valve body had ",
+          "TCM has failed and no replacement available",
+          "Transmission Control Module I was at an intersection when the TCM malfunctioned halfway through and I lost all power to my motor.  I was pulling a large trailer and cross traffic had to slam on brakes"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 30,
+        "share_pct": 6.4,
+        "excerpts": [
+          "The contact owns a 2013 GMC Sierra. The contact stated that on several occasions while driving at various speeds, the vehicle lost power. The check engine warning light was illuminated. The vehicle ve",
+          "I have a 2013 GMC Sierra, purchased new in 2012, has approximately 35,000 miles.  The check engine light came on while driving and suddenly another light came on. Then a third light came on claiming p",
+          "TL* THE CONTACT OWNS A 2013 GMC SIERRA. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 58 MPH, THE ENGINE STALLED WITHOUT WARNING. THE CONTACT WAITED FIVE MINUTES BEFORE RESTARTING THE VEHICLE AN"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 22,
+      "fires": 6,
+      "injuries": 34,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1922,
+        "count": 2
+      },
+      {
+        "year": 2012,
+        "count": 12
+      },
+      {
+        "year": 2013,
+        "count": 69
+      },
+      {
+        "year": 2014,
+        "count": 49
+      },
+      {
+        "year": 2015,
+        "count": 32
+      },
+      {
+        "year": 2016,
+        "count": 56
+      },
+      {
+        "year": 2017,
+        "count": 58
+      },
+      {
+        "year": 2018,
+        "count": 23
+      },
+      {
+        "year": 2019,
+        "count": 23
+      },
+      {
+        "year": 2020,
+        "count": 27
+      },
+      {
+        "year": 2021,
+        "count": 51
+      },
+      {
+        "year": 2022,
+        "count": 23
+      },
+      {
+        "year": 2023,
+        "count": 25
+      },
+      {
+        "year": 2024,
+        "count": 13
+      },
+      {
+        "year": 2025,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "13V544000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "General Motors (GM) is recalling certain model year 2013-2014 Chevrolet Silverado HD, Chevrolet Express, and GMC Sierra HD vehicles, and model year 2013 GMC Savana compressed natural gas (CNG) vehicles that fail to comply with Federal Motor Vehicle Safety Standard No. 303 \"Fuel System Integrity of C",
+        "report_date": "30/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V001000",
+        "component": "STEERING:COLUMN LOCKING:ANTI-THEFT DEVICE",
+        "summary": "General Motors (GM) is recalling certain model year 2013 Cadillac Escalade, Escalade ESV, and Escalade EXT; Chevrolet Avalanche, Express, Silverado HD, Silverado LD, Suburban, and Tahoe; and GMC Savana, Sierra HD, Sierra LD, Yukon, and Yukon XL vehicles, manufactured between November 7, 2012, throug",
+        "report_date": "02/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V615000",
+        "component": "FUEL SYSTEM, DIESEL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2012-2013 Chevrolet Silverado HD and GMC Sierra HD vehicles, equipped with 6.6L diesel engines and dual fuel tanks.  In the affected vehicles, the transfer pump which moves fuel from the rear tank to the front tank could malfunction and cause t",
+        "report_date": "11/12/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:43.980Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

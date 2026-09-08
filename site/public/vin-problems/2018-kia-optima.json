@@ -1,0 +1,136 @@
+{
+  "slug": "2018-kia-optima",
+  "year": 2018,
+  "make": "Kia",
+  "model": "Optima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 231,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 130,
+        "share_pct": 56.3,
+        "excerpts": [
+          "The contact owns a 2018 Kia Optima. The contact stated that while driving at an undisclosed speed, the vehicle failed to accelerate and failed to exceed 52 MPH. The vehicle shut off. The contact state",
+          "I’ve had my 2018 kia optima for round about two years.I only got this car because they refused to replace my previous engine on my 2015 Kia optima,even though I had a warranty but that’s another story",
+          "The car burns oil within a week of getting an oil change. It was only driven a 200 miles before all of the oil was burned out. This has been a consistent issue with this car that the oil burns at an e"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 33,
+        "share_pct": 14.3,
+        "excerpts": [
+          "I am submitting this complaint regarding ongoing and persistent mechanical issues with my vehicle since the time of purchase. The vehicle has repeatedly shut off unexpectedly, creating a serious safet",
+          "I turned the car off, it had difficulty turning back on and the brake pedal got really hard. I had to wait about 30-45 minutes and then I was able to get the car started and brake pedal back to normal",
+          "I was sold an unsafe vehicle at  J and J Auto house 6446 Wilshire Bl LA,CA 90022. Dealer withheld condition of car . Had car three months and was stranded on highway. Car was towed to Kia dealer and d"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 18,
+        "share_pct": 7.8,
+        "excerpts": [
+          "There is already the theta 2 campaign on my Kia optima but Kia is not upholding their warranty for a new engine. Kia customer care told me that untill my car actually throws a rod then they will not f",
+          "My engine burns oil very bad. Black smoke comes out of my tailpipe and I burn through 5 quarts in less than a thousand miles. I just got my oil changed two weeks again and I just had to add more oil t",
+          "It burns oil constantly. I constantly have to get new filters put on because they become black very quickly same with the oil itself. The engine has a tic and I know other people with optima’s that ha"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 17,
+        "share_pct": 7.4,
+        "excerpts": [
+          "Purchased vehicle from a used car dealership. Had it a few months before brake pedal started losing pressure and going to floor. Had master cylinder replaced. A few months later, brake light started c",
+          "I turned the car off, it had difficulty turning back on and the brake pedal got really hard. I had to wait about 30-45 minutes and then I was able to get the car started and brake pedal back to normal",
+          "Purchased car about 4 months ago,  before warranty ran out, the shop looked at it told me it was fine, it wouldn't accelerate. Few weeks later same issue but all my oil was gone, they found 11 things "
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 14,
+        "share_pct": 6.1,
+        "excerpts": [
+          "See attached document for complaint.",
+          "The contact owns a 2018 Kia Optima. The contact stated that while driving at an undisclosed speed, there was an abnormal odor and a knocking sound coming from the engine. The vehicle was taken to the ",
+          "The contact owns a 2018 Kia Optima. The contact stated that while attempting to accelerate from a standing start the vehicle had experience sever jerking and hesitation. Also, the vehicle has experien"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 10,
+      "injuries": 9,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 8
+      },
+      {
+        "year": 2019,
+        "count": 24
+      },
+      {
+        "year": 2020,
+        "count": 19
+      },
+      {
+        "year": 2021,
+        "count": 21
+      },
+      {
+        "year": 2022,
+        "count": 30
+      },
+      {
+        "year": 2023,
+        "count": 46
+      },
+      {
+        "year": 2024,
+        "count": 30
+      },
+      {
+        "year": 2025,
+        "count": 39
+      },
+      {
+        "year": 2026,
+        "count": 13
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "18V161000",
+        "component": "HYBRID PROPULSION SYSTEM",
+        "summary": "Kia Motors America (Kia) is recalling certain 2017-2018 Kia Optima hybrid vehicles.  These vehicles are equipped with a Voltage Protection Device (VPD), designed to protect the high voltage battery module, that may activate inadvertently.",
+        "report_date": "08/03/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V594000",
+        "component": "LATCHES/LOCKS/LINKAGES:TRUNK LID:LATCH",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2016-2017 Rio, 2016-2018 Optima, 2017-2018 Optima Hybrid and Optima Plug-in Hybrid vehicles.  The trunk latch base may crack, preventing the opening of the trunk from the inside.  As such, these vehicles fail to comply with the requirements of Federal Mot",
+        "report_date": "24/08/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:21.529Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

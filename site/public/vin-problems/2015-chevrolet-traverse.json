@@ -1,0 +1,168 @@
+{
+  "slug": "2015-chevrolet-traverse",
+  "year": 2015,
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 313,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 162,
+        "share_pct": 51.8,
+        "excerpts": [
+          "The contact owns a 2015 Chevrolet Traverse. The contact received notification of NHTSA Campaign Number: 23V334000 (Air Bags); however, the part to do the recall repair was not yet available. The local",
+          "The 2015 Chevy Traverse LTZ that I own is presenting with the same problems as many of its body style and year. The water intrusion has caused wiring to corrode in the side detection system & the driv",
+          "The contact owns a 2015 Chevrolet Traverse. The contact stated that upon starting the vehicle, the air bag warning light unexpectedly illuminated. The vehicle was taken to the dealer, where it was dia"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 37,
+        "share_pct": 11.8,
+        "excerpts": [
+          "Our vehicle has a hole/leak in the pipe before the catalytic converter. This is a known problem in other years of the Traverse, and the warranty was increased substantially to fix an obvious and prove",
+          "My engine light came on. When I get gas the car will not just start there is a fuel leak code and a valve code. Getting looked at next week at the dealer",
+          "Transmission issues"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 28,
+        "share_pct": 8.9,
+        "excerpts": [
+          "The 2015 Chevy Traverse LTZ that I own is presenting with the same problems as many of its body style and year. The water intrusion has caused wiring to corrode in the side detection system & the driv",
+          "wHEN IT RAIN, WATER IS GETTING INTO MY CAR FROM SOMEWHERE. IT HAS KNOCKED OUT MY DASHBOARD AND MY RADIO NO LONGER WORKS.THE WATER GETS IN TO THE FRONT PART OF THE CAR AND END UP IN MY FRONT MIDDLE CON",
+          "The rear lower brake lights stopped working. Only the top center brake light will work. This is the second time in about a month and a half that this has happened. The first time the dealer replaced t"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 27,
+        "share_pct": 8.6,
+        "excerpts": [
+          "While operating the vehicle, the steering column became detached, creating an immediate and severe safety hazard.  Upon inspection, the column appeared to be improperly secured using hose clamps inste",
+          "The 2015 Chevy Traverse had a hard shifting transmission from the first day we purchased it. The Chevy Dealer said that it was a shifting software problem. That did not fix it.  The hard shifting tran",
+          "The contact owns a 2015 Chevrolet Traverse. The contact stated while driving at 5 MPH and turning into a parking spot, the steering wheel inadvertently lost power steering assist functionality. There "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 23,
+        "share_pct": 7.3,
+        "excerpts": [
+          "The contact owns a 2015 Chevrolet Traverse. The contact stated that while driving at an undisclosed speed, there was an odor of rotten eggs inside the vehicle. The odor was discovered to be Hydrogen S",
+          "Transmission shudders at low speeds on incline",
+          "Transmission shudders at low speeds on incline"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 3,
+      "injuries": 11,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2015,
+        "count": 14
+      },
+      {
+        "year": 2016,
+        "count": 12
+      },
+      {
+        "year": 2017,
+        "count": 19
+      },
+      {
+        "year": 2018,
+        "count": 43
+      },
+      {
+        "year": 2019,
+        "count": 33
+      },
+      {
+        "year": 2020,
+        "count": 21
+      },
+      {
+        "year": 2021,
+        "count": 16
+      },
+      {
+        "year": 2022,
+        "count": 14
+      },
+      {
+        "year": 2023,
+        "count": 101
+      },
+      {
+        "year": 2024,
+        "count": 28
+      },
+      {
+        "year": 2025,
+        "count": 9
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "15V044000",
+        "component": "TIRES",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015 Buick Enclave vehicles manufactured December 9, 2014, to January 14, 2015, 2015 Chevrolet Traverse vehicles manufactured December 9, 2014, to January 20, 2015, and 2015 GMC Acadia vehicles manufactured December 9, 2014, to January 16, 2015",
+        "report_date": "28/01/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V782000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors, LLC (GM) is recalling certain 2008-2017 Buick Enclave and 2013-2017 Chevrolet Traverse vehicles.  The driver's air bag inflator may explode during deployment, due to a manufacturing defect.",
+        "report_date": "07/10/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V246000",
+        "component": "AIR BAGS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2015, 2017 Buick Enclave, 2010-2019 Chevrolet Traverse, and 2011-2016 GMC Acadia vehicles.  The side curtain air bags may not be properly attached.",
+        "report_date": "08/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V246000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2015 Buick Enclave, Chevrolet Traverse and GMC Acadia vehicles.  The driver's air bag inflator may explode during deployment, due to a manufacturing defect.",
+        "report_date": "14/04/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V334000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014-2017 Buick Enclave, Chevrolet Traverse, and GMC Acadia vehicles.  The driver's air bag inflator may explode during deployment, due to a manufacturing defect.",
+        "report_date": "10/05/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:53.371Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

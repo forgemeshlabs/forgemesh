@@ -1,0 +1,168 @@
+{
+  "slug": "2016-toyota-prius",
+  "year": 2016,
+  "make": "Toyota",
+  "model": "Prius",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 179,
+    "top_failure_components": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 42,
+        "share_pct": 23.5,
+        "excerpts": [
+          "I reported issues with this car in 2018.  Clicking sounds under the car which is still happening, peeling paint on exterior and inside door areas, substandard windshield that spread in a very unusual ",
+          "The original windshield has a “rippling distortion” where the windshield has ripple/bubble from defective glass or installation mistakes, making seeing traffic signs or streets very hard.   I just bou",
+          "At the beginning of this week, I was checking fluid levels and upon dropping my hood, I watched a crack in the windshield extend up from the base of the windshield. Then, while I was driving, I watche"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 26,
+        "share_pct": 14.5,
+        "excerpts": [
+          "Car was driving fine one day and then while driving down the interstate I had the Pre collision system malfunction error, Brake light came on, Cruise will not operate, ABS light is on.  After much res",
+          "During summer months when temperatures are above 100 degrees when accelerating from a complete stop I can hear the engine rev and the RPMs increase but the vehicle will move at 1-2 mph. Even if the ac",
+          "While driving vehicle on the freeway it stated braking power low, stop in a safe place, antilock brake system malfunction, pre-collision system malfunction, lane departure alert malfunction. I  was al"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 23,
+        "share_pct": 12.8,
+        "excerpts": [
+          "The contact owns a 2016 Toyota Prius. The contact stated that while the vehicle was on and running, the ABS and traction control warning lights illuminated, and the messages \"Braking Power Low - Stop ",
+          "Second time !!!! during ownership of car that brakes fail. Same problem as before  Brake Actuator/Booster Failures: Multiple reports indicate issues with the ABS actuator or brake booster pump, leadin",
+          "Car was driving fine one day and then while driving down the interstate I had the Pre collision system malfunction error, Brake light came on, Cruise will not operate, ABS light is on.  After much res"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 19,
+        "share_pct": 10.6,
+        "excerpts": [
+          "Water pump failed without warning and caused irreparable damage to the engine (\"blown\" engine requiring replacement).  Vehicle began to stall and not respond to attempted acceleration while traveling ",
+          "Refer to TSB 0135-19  dealer denied repairing under the California emissions defect and performance warranty.",
+          "My car suddenly stopped in the middle of the road with message \"Hybrid system stopped steering power low\".  Safety concern to this happen on the middle of road  during rain or cold."
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 17,
+        "share_pct": 9.5,
+        "excerpts": [
+          "Car was driving fine one day and then while driving down the interstate I had the Pre collision system malfunction error, Brake light came on, Cruise will not operate, ABS light is on.  After much res",
+          "On September 2022 (at 46K) Dealer did TSB related fix on my 2016 Prius. PFA for service record. They replaced Exhaust Front Pipe, which is suggested work from Toyota PFA for Toyota Technical Bulletin.",
+          "When the battery cooling fan is running, the car is slow to accelerate or will not accelerate at all.  The incident has happened multiple times over the past year when the temperatures are above 90. I"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 13,
+      "fires": 0,
+      "injuries": 8,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2015,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 36
+      },
+      {
+        "year": 2017,
+        "count": 42
+      },
+      {
+        "year": 2018,
+        "count": 28
+      },
+      {
+        "year": 2019,
+        "count": 10
+      },
+      {
+        "year": 2020,
+        "count": 21
+      },
+      {
+        "year": 2021,
+        "count": 11
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2024,
+        "count": 9
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "17V658000",
+        "component": "HYBRID PROPULSION SYSTEM: INVERTER",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2016 Prius vehicles.  A capacitor within the hybrid system may not have been properly bolted to the inverter housing.",
+        "report_date": "18/10/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V579000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2016-2018 Toyota Prius vehicles.  A portion of the engine wire harness connected to the hybrid Power Control Unit (PCU), could contact the cover at this connection and wear, causing an electrical short circuit.",
+        "report_date": "05/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V672000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering and Manufacturing (Toyota) is recalling certain model year 2016 Toyota Prius vehicles manufactured November 30, 2015, to June 14, 2016.  An air bag inflator manufacturing error may result in the inadvertent partial inflation of the front passenger air bag.",
+        "report_date": "16/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V085000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2016 Toyota Prius and Lexus RX 350, RX 350 F Sport, RX 450h F Sport and RX 450h vehicles and 2015-2016 Lexus NX 200T, NX Turbo and NX 300h vehicles.  The air bag pressure sensors and/or the acceleration sensors may fail causing t",
+        "report_date": "31/01/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V741000",
+        "component": "PARKING BRAKE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2016-2017 Prius vehicles manufactured August 6, 2015, to October 3, 2016.  The affected vehicles are equipped with a foot-operated parking brake system that has a parking brake cable that may disengage.",
+        "report_date": "14/10/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:44.730Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

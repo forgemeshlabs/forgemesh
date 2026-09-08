@@ -1,0 +1,164 @@
+{
+  "slug": "2017-kia-sorento",
+  "year": 2017,
+  "make": "Kia",
+  "model": "Sorento",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 800,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 383,
+        "share_pct": 47.9,
+        "excerpts": [
+          "The contact owns a 2017 Kia Sorento. The contact stated that the vehicle experienced excessive oil consumption. The vehicle was inspected several times; however, no oil leaks were found. The contact s",
+          "My kids and I were driving when my engine started making a loud noise. I pulled over and turned it off for a few minutes then I turned it back on. It worked for another mile or so then started making ",
+          "2017 Kia Sorento 2.4L GDI engine seized due to connecting rod bearing failure confirmed by P1326 diagnostic code multiple times. Vehicle entered limp mode limiting RPMs to 1800-2000 exactly as describ"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 125,
+        "share_pct": 15.6,
+        "excerpts": [
+          "My high beams and low beams are starting to shut off randomly while driving. They are burning out weekly and having to be replaced. 1 of my tail lights is doing the same exact thing. I replace it. It ",
+          "The car gets stuck and will not shift out of park.  I've had to use the manual override.  And when the ambulance came to my house,  I could not move my car out of the way fast enough and this delayed ",
+          "At night when I am driving, the headlight goes off.  The light switch does not work on some settings.  I never know when or where this dangerous situation is going to happen. Therefore, I try to avoid"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 97,
+        "share_pct": 12.1,
+        "excerpts": [
+          "Vehicle steers with more resistance to the left but very loose and easy to the right. Dealership diagnosed that a new steering column is required. Kia also issued a new vehicle limited warranty extens",
+          "I am writing to file a formal complaint against Kia America, Inc. regarding the mishandling of a warranty repair dispute for my 2017 Kia Sorento (VIN [XXX]). This complaint documents a pattern of misi",
+          "My 2017 Sorento has sticky/notchy steering.   When trying to move the steering wheel, it initially sticks and requires extra force to get it to provide a steering input. Once it gets past the initial "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 94,
+        "share_pct": 11.8,
+        "excerpts": [
+          "I am writing to file a formal complaint against Kia America, Inc. regarding the mishandling of a warranty repair dispute for my 2017 Kia Sorento (VIN [XXX]). This complaint documents a pattern of misi",
+          "The contact owns a 2017 Kia Sorento. The contact stated that while seated inside the vehicle with three other occupants and the engine turned off, there was black smoke quickly coming from underneath ",
+          "Following an engine replacement performed at Billion Auto Kia in Rapid City, SD, I began experiencing persistent electrical system failures in my 2017 Kia Sorento. The vehicle alarm would activate ran"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 39,
+        "share_pct": 4.9,
+        "excerpts": [
+          "Fuel injectors become unseated randomly causing gas to be sprayed inside engine compartment.  Issue can be seen upon request.  This issue could cause a fire/explosion as fuel sprays out.  The issue wa",
+          "To Whom It May Concern,  I am writing to formally dispute a repair charge and report unacceptable service at Courtesy Kia (Mesa, AZ) regarding my vehicle.  Timeline of Events:   June 12, 2026: I broug",
+          "Upper fuel pump module, on top of fuel tank, is leaking fuel from a crack in fuel pump port where fuel hose connects. Fuel can be seen on top of upper fuel pump module and can be seen leaking from fue"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 13,
+      "fires": 32,
+      "injuries": 17,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1967,
+        "count": 1
+      },
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 10
+      },
+      {
+        "year": 2017,
+        "count": 31
+      },
+      {
+        "year": 2018,
+        "count": 45
+      },
+      {
+        "year": 2019,
+        "count": 68
+      },
+      {
+        "year": 2020,
+        "count": 61
+      },
+      {
+        "year": 2021,
+        "count": 73
+      },
+      {
+        "year": 2022,
+        "count": 141
+      },
+      {
+        "year": 2023,
+        "count": 136
+      },
+      {
+        "year": 2024,
+        "count": 105
+      },
+      {
+        "year": 2025,
+        "count": 86
+      },
+      {
+        "year": 2026,
+        "count": 42
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "18V907000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2011-2017 Optima, 2012-2017 Sorento and 2011-2018 Sportage vehicles that previously received an engine replacement under recall number 17V-224, warranty, or the Knock Sensor Detection System (KSDS) Product Improvement Campaign.  The high pressure fuel pi",
+        "report_date": "19/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V586000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2017 Sorento vehicles equipped with 3.3L engines.  The engine crankshaft may have been improperly heat treated and may fail.",
+        "report_date": "21/09/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V862000",
+        "component": "TRAILER HITCHES",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2016-2017 Sorento vehicles manufactured October 27, 2014, to August 25, 2016, and 2017 Sportage vehicles manufactured December 10, 2015, to August 26, 2016.  The affected vehicles are equipped with an accessory trailer hitch wiring harness tha",
+        "report_date": "30/11/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V703000",
+        "component": "TRAILER HITCHES",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2016-2022 Sorento, 2021-2022 Sorento Hybrid (HEV), 2022-2023 Sorento Plug-In Hybrid (PHEV), and 2017-2022 Sportage vehicles equipped with a tow hitch harness installed as original equipment, or purchased as an accessory through a Kia dealership.  Debris a",
+        "report_date": "19/09/2022",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:28.023Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "2009-ford-escape",
+  "year": 2009,
+  "make": "Ford",
+  "model": "Escape",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1692,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 827,
+        "share_pct": 48.9,
+        "excerpts": [
+          "Hi! I [XXX] [XXX]  my vehicle streeing wheel struck or lock  when the vehicle slow down  or  stopped.   INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+          "The contact owns a 2009 Ford Escape. The contact stated while driving at an undisclosed speed, the steering wheel failed to turn in the intended direction. In addition, the power steering failure warn",
+          "I was driving down the road about 35 mph and it jerked me clean off the right side of the road. Here the driver side and passenger side subframe/engine cratle is completely rotted out bad . This needs"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 301,
+        "share_pct": 17.8,
+        "excerpts": [
+          "The contact owns a 2009 Ford Escape. The contact stated that on several occasions while driving at various speeds, the power train warning light illuminated randomly but disappeared. Additionally, the",
+          "Power steering assist fault  Torque sensor",
+          "I have had to spend over $5,000 in repairs for this vehicle and I’ve had it for over a year. It was listed at $6,999 at a used car dealership so I got it as is and have had issues ever since. There is"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 279,
+        "share_pct": 16.5,
+        "excerpts": [
+          "I started to hear a grinding and cracking and popping sound I checked the vehicle and the front left ball joint is bad there is an obvious crack in the joint that is easily visible when inspecting the",
+          "AUTO CREDIT NEVER FIXED THE RECALLS.  *TR",
+          "HIGHWAY SPEEDS.  WRENCH LIGHT COMES ON AND VEHICLE LOSES ALL POWER/THROTTLE RESPONSE.  PULL OFF ROAD, PUT VEHICLE IN PARK, RESTART AND COMPUTER SEEMS TO RESET.  HAD BEEN 1-2 TIMES PER YEAR OVER THE LA"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 254,
+        "share_pct": 15,
+        "excerpts": [
+          "On several occasions my 2009 Ford escape xlt completely died as I was driving 1. On the highway at 60mph I had to pull over and restart vehicle. 2. Going through town at 30mph I had to put in neutral ",
+          "I was driving down the road about 35 mph and it jerked me clean off the right side of the road. Here the driver side and passenger side subframe/engine cratle is completely rotted out bad . This needs",
+          "The contact owns a 2009 Ford Escape. The contact stated that upon starting the vehicle, the vehicle lost power steering functionality. The check engine warning light was illuminated. The vehicle was t"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 143,
+        "share_pct": 8.5,
+        "excerpts": [
+          "On several occasions my 2009 Ford escape xlt completely died as I was driving 1. On the highway at 60mph I had to pull over and restart vehicle. 2. Going through town at 30mph I had to put in neutral ",
+          "Me and my [XXX]  old was driving on the highway in my 2009 Ford escape and suddenly my power steering completely went out with no warning. I was driving 60 mph because that's my safe speed. Steering g",
+          "The ford escape is experiencing the exact power steering assist fault, same year model in Safety Recall 14S05, but it’s not showing up for the recall."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 34,
+      "fires": 2,
+      "injuries": 17,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2008,
+        "count": 2
+      },
+      {
+        "year": 2009,
+        "count": 22
+      },
+      {
+        "year": 2010,
+        "count": 48
+      },
+      {
+        "year": 2011,
+        "count": 33
+      },
+      {
+        "year": 2012,
+        "count": 77
+      },
+      {
+        "year": 2013,
+        "count": 405
+      },
+      {
+        "year": 2014,
+        "count": 124
+      },
+      {
+        "year": 2015,
+        "count": 88
+      },
+      {
+        "year": 2016,
+        "count": 114
+      },
+      {
+        "year": 2017,
+        "count": 99
+      },
+      {
+        "year": 2018,
+        "count": 160
+      },
+      {
+        "year": 2019,
+        "count": 137
+      },
+      {
+        "year": 2020,
+        "count": 112
+      },
+      {
+        "year": 2021,
+        "count": 91
+      },
+      {
+        "year": 2022,
+        "count": 73
+      },
+      {
+        "year": 2023,
+        "count": 45
+      },
+      {
+        "year": 2024,
+        "count": 32
+      },
+      {
+        "year": 2025,
+        "count": 18
+      },
+      {
+        "year": 2026,
+        "count": 12
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "15E045000",
+        "component": "SUSPENSION:FRONT:WHEEL BEARING",
+        "summary": "The Timken Company (Timken) is recalling certain aftermarket front wheel bearings, part number 510072, sold from January 22, 2015, to May 21, 2015, to be used as service parts on 2001-2012 Ford Escape, 2001-2011 Mazda Tribute, and 2005-2011 Mercury Mariner vehicles.  The affected wheel bearings have",
+        "report_date": "03/06/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V284000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2008-2011 Ford Escape and Mercury Mariner vehicles manufactured August 18, 2006, through September 11, 2010.  The affected vehicles have a steering torque sensor that may not be able to properly detect driver steering input.  As a result, the",
+        "report_date": "29/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10E043000",
+        "component": "EQUIPMENT",
+        "summary": "MARATHON IS RECALLING CERTAIN SEAT COVERS, BRAND SUPERHIDES WITH PART NUMBERS 593, 594, 578, 960, 228, 228-09, 267-08, 333, 625, AND 630, SOLD FOR USE AS AFTERMARKET EQUIPMENT FOR VARIOUS PASSENGER VEHICLES.  THESE SEAT COVERS ARE MADE OF HEAVIER THREAD AND ARE NOT COMPATIBLE WITH SEATS CONTAINING S",
+        "report_date": "03/09/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:49:03.666Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "2019-toyota-prius",
+  "year": 2019,
+  "make": "Toyota",
+  "model": "Prius",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 30,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 11,
+        "share_pct": 36.7,
+        "excerpts": [
+          "See Attachment",
+          "Since October 2023, my 2019 Toyota Prius has developed severe and unpredictable driving behavior after a regular brake service, which may have triggered or coincided with a software or ECU update. The",
+          "* I was pulling into a parking space at a slow speed. When I applied the brake the car accelerated causing the car to scrape the car next to the space. The car then stopped.  * The acceleration was ou"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 6,
+        "share_pct": 20,
+        "excerpts": [
+          "Coolant is leaking into the catalytic converter.   This seems to be a common issue.   Toyota issued a technical service bulletin on XXX covering this exactly. Some 2016–2019 Prius and 2017–2019 Prius ",
+          "Exhaust heat-exchanger coolant pipe (part of the hybrid cooling loop) on my 2019 Toyota Prius is the system that failed. Safety risk: complete loss of coolant can cause sudden engine overheating and p",
+          "On Saturday [XXX],  while shifting to reverse in a back alley to back up slowly, the car engine suddenly and loudly revved and shot backwards at accelerating speed.  I slammed on brakes which did not "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 4,
+        "share_pct": 13.3,
+        "excerpts": [
+          "Frequency when I start car makes a very loud , painful high pitch noise for anywhere from 5-15 seconds",
+          "I was idling at a parking space and went to turn off my car. The vehicle surged forward and the BRAKE sign came on. I pushed my brake to the floor and nothing happened. I was moving toward a brick wal",
+          "On Saturday [XXX],  while shifting to reverse in a back alley to back up slowly, the car engine suddenly and loudly revved and shot backwards at accelerating speed.  I slammed on brakes which did not "
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 4,
+        "share_pct": 13.3,
+        "excerpts": [
+          "Since October 2023, my 2019 Toyota Prius has developed severe and unpredictable driving behavior after a regular brake service, which may have triggered or coincided with a software or ECU update. The",
+          "I was idling at a parking space and went to turn off my car. The vehicle surged forward and the BRAKE sign came on. I pushed my brake to the floor and nothing happened. I was moving toward a brick wal",
+          "Whenever it rains the warning message clean parking assist sensor comes on while you are driving. Even after you clean the sensors the warning continues to beep contiously. You can press the back butt"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 4,
+        "share_pct": 13.3,
+        "excerpts": [
+          "* I was pulling into a parking space at a slow speed. When I applied the brake the car accelerated causing the car to scrape the car next to the space. The car then stopped.  * The acceleration was ou",
+          "The contact owns a 2019 Toyota Prius. The contact stated while at a complete stop, another vehicle crashed into the rear of the vehicle and the vehicle began to accelerate unintendedly. The air bags f",
+          "I WAS TURNING TO EXIT A FREEWAY AND ALL OF A SUDDEN MY CAR CAME TO A STOP (ABOUT 55MPH TO 0) IN A MATTER OF SECONDS WITH NO WARNING. IT THEN TOOK A FEW SECONDS BEFORE I WAS ABLE TO GET THE GAS TO WORK"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 0,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 4
+      },
+      {
+        "year": 2020,
+        "count": 4
+      },
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "19V876000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2019 Prius vehicles.  An electrical short circuit in the combination meter could occur, causing the speedometer, the odometer, and the fuel gauge to go blank.  As such, these vehicles fail to comply with the requirements of Feder",
+        "report_date": "11/12/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V544000",
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2019 Lexus LS500, LC500, ES300h, UX250h, LS500h, Toyota Prius, RAV4 HV, 2019-2020 Toyota Prius Prime, and 2020 Corolla HV vehicles.  The brake booster pump may fail causing a deactivation of the Vehicle Stability Control system a",
+        "report_date": "24/07/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V244000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Gulf States Toyota (GST) is recalling certain 2019 C-HR, 4Runner, Avalon, Avalon Hybrid, Camry, Camry Hybrid, Highlander, Land Cruiser, Prius, RAV4, Sequoia, Tacoma, Sienna, Tundra and Yaris vehicles.  The text on the load capacity label may become illegible.  As such, these vehicles fail to comply ",
+        "report_date": "27/03/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:49.443Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

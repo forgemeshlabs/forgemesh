@@ -1,0 +1,220 @@
+{
+  "slug": "2009-honda-civic",
+  "year": 2009,
+  "make": "Honda",
+  "model": "Civic",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 395,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 95,
+        "share_pct": 24.1,
+        "excerpts": [
+          "There is a recall for the engines and air bags on theys cars handa said so.",
+          "No codes on the dash, police said the airbags malfunctioned. Car hit an embankment on the front right side then the car flipped over.  The steering wheel did not deploy.  All of the side airbags,  bot",
+          "My husband made a left turn from a center lane and didn't see a vehicle coming at us because of the blind spot. We hit the other vehicle on the front right side. The airbags deployed and the side airb"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 51,
+        "share_pct": 12.9,
+        "excerpts": [
+          "Car accelerated into a garage door unintentionally. The brakes did not work. The problem has not been reproduced. The car was taken to a honda dealer twice before the accident for the same reasons of ",
+          "The contact's mother owned a 2009 Honda Civic. The contact stated that while driving approximately 5 mph, the brake pedal was depressed but the vehicle unintentionally accelerated. The front of the ve",
+          "3 times my fooit has sliped off the brake  pedal  and on to the gas pedal.   In all cases i was able to go back to the break pedal and stop.    it seems the break pedal is slipery.     In all cases th"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 45,
+        "share_pct": 11.4,
+        "excerpts": [
+          "The contact owns a 2009 Honda Civic. The contact stated that the sun visor split over and blocked his driving view. The contact stated that the failure was related to TSB Technical Service Bulletin 11",
+          "See attached document for complaint.",
+          "The contact owns a 2009 Honda Civic. The contact stated that while the vehicle was parked and being inspected, the contact became aware that the driver’s and passenger’s side sun visors were split. No"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 35,
+        "share_pct": 8.9,
+        "excerpts": [
+          "There are hacks to cars that can control the computers remotely, possibly from devices such as programmable thingy remote control devices that can be programmed with different fuctions, or direct open",
+          "While driving, the hood prop rod dislodged from its securing clip and fell onto the positive terminal of the battery. This caused an electrical short, which led to the rod heating up rapidly and ignit",
+          "The vehicle will shut off in traffic without any warning from the cars system.  Unknown if there is any interference being caused by internal or external."
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 31,
+        "share_pct": 7.8,
+        "excerpts": [
+          "The contact owns a 2009 Honda Civic. The contact stated that on several occasions while making left or right turns, there was an abnormal clicking and clacking sound coming from the front of the vehic",
+          "TAKATA RECALL",
+          "REAR WHEEL BEARINGS MAKINGS LOUD NOISE WHILE DRIVING. IF WHEEL BEARING WERE TO GO OUT IT WOULD BE A BIG SAFETY PROBLEMS WHILE DRIVING."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 42,
+      "fires": 6,
+      "injuries": 39,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2008,
+        "count": 8
+      },
+      {
+        "year": 2009,
+        "count": 53
+      },
+      {
+        "year": 2010,
+        "count": 60
+      },
+      {
+        "year": 2011,
+        "count": 40
+      },
+      {
+        "year": 2012,
+        "count": 27
+      },
+      {
+        "year": 2013,
+        "count": 21
+      },
+      {
+        "year": 2014,
+        "count": 30
+      },
+      {
+        "year": 2015,
+        "count": 18
+      },
+      {
+        "year": 2016,
+        "count": 50
+      },
+      {
+        "year": 2017,
+        "count": 28
+      },
+      {
+        "year": 2018,
+        "count": 13
+      },
+      {
+        "year": 2019,
+        "count": 16
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "18V268000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2003-2012 Honda Accord and Pilot, 2010 Accord Crosstour, 2001-2011 Civic, 2002-2011 CR-V, 2003-2004, 2006-2008 and 2011 Element, 2007 and 2009-2013 Fit, 2010-2012 Insight, 2002-2004 Odyssey, and 2012 Ridgeline vehicles.  The front passenger air b",
+        "report_date": "26/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V502000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2014 TSX Sport Wagon, 2010-2013 ZDX, 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic and Civic Hybrid, 2008-2010 Civic GX NGV, 2012-2015 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2014 Fit EV, 2010-201",
+        "report_date": "27/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V378000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2013 TSX Sport Wagon, and 2010-2012 ZDX and 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic, Civic Hybrid and Civic NGV, 2012-2014 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2010-2013 Insight, and 2009",
+        "report_date": "16/05/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V545000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2008-2012 Accord, 2010-2012 Accord Crosstour, 2006-2011 Civic, 2007-2011 CR-V, 2009-2012 Fit and Pilot, 2010-2012 Insight, and 2009-2012 Acura TSX vehicles that received replacement passenger frontal air bag inflators.  One dealership may have in",
+        "report_date": "31/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V042000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2010-2013 Acura TSX, ZDX, Honda Accord Crosstour, Fit, Insight and Pilot vehicles, 2011-13 Acura TSX Sportswagon, 2010-2012 Honda Accord,, 2010-2011 Honda Civic, Civic NGV, Civic Hybrid and CR-V vehicles and 2013 Honda FCX Clarity and Fit EV vehi",
+        "report_date": "09/01/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V030000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2012 Acura TSX, 2011-2012 Acura TSX Wagon, 2010-2012 Acura ZDX, 2008-2012 Honda Accord, 2010-2012 Honda Accord Crosstour and Honda Insight, 2009-2012 Honda Fit, 2009-2012 Pilot, 2007-2011 Honda CR-V, 2012 Honda FCX Clarity and 2006-2011 Hond",
+        "report_date": "10/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V346000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2009-2011 Acura TSX, 2011 TSX Wagon, 2010-2011 Acura ZDX, 2008-2011 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic, Civic Hybrid, and Civic GX, 2007-2011 CR-V, 2010-2011 FCX Clarity and Insight, and 2009-2011 Fit, and Pilot ",
+        "report_date": "24/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V535000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "HONDA IS RECALLING 128 MY 2008-2009 CIVIC SEDANS.  A BRACKET THAT COVERS THE FUEL HOSE CONNECTOR IS SECURED WITH A BOLT AND NUT, BUT DURING ASSEMBLY THE NUT WAS NOT INSTALLED.",
+        "report_date": "14/10/2008",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:48:18.747Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

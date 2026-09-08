@@ -1,0 +1,172 @@
+{
+  "slug": "2016-honda-odyssey",
+  "year": 2016,
+  "make": "Honda",
+  "model": "Odyssey",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 269,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 92,
+        "share_pct": 34.2,
+        "excerpts": [
+          "the problem only happens after driving for more than 30 minutes. when I stop at a light, the engine starts shaking and stalls. the starter seems cranking normally, but it takes about 3 attempts and ab",
+          "I have needed to replace my spark plugs multiple times because of an issue where, apparently when in eco mode, the pistons in the third cylinder flood with oil that causes the spark plugs to misfire. ",
+          "In December 2021 My 2016 Odyssey experienced serious engine breakdown and could not be driven due to deterioration of piston ring functions in cylinders 1-3. That malfunction caused serious engine pro"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 39,
+        "share_pct": 14.5,
+        "excerpts": [
+          "I am reporting a serious electrical shock/electrocution hazard involving the factory-installed 115V AC power inverter outlet in my 2016 Honda Odyssey.  While the vehicle was in motion, my [XXX] son wa",
+          "After the vehicle is off, and after the smart key fob is removed from the vehicle, the dashboard will flicker, the alarm sometimes goes off and the headlights turn on draining the battery and leading ",
+          "Odometer Fraud. The contact purchased a 2016 Honda Odyssey on April 29, 2026. The vehicle was purchased from a dealer. At the time of the purchase, the odometer was recorded at 95,745. The contact lat"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 38,
+        "share_pct": 14.1,
+        "excerpts": [
+          "I am sending you information about how a situation was handled by Honda, so hopefully others do not go through the same problems we did.  Honda customer service and product advisory is what failed us ",
+          "Spark plug fouling, Piston seal leak on 60,000 miles car",
+          "Vehicle shudders on acceleration"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 26,
+        "share_pct": 9.7,
+        "excerpts": [
+          "Left Side Airbag Deployment control circuit - B0020 Right Side Airbag Deployment control circuit - B0028 Driver Seat Belt Sensor - Circuit open B0050 Occupant Classification System- missing message - ",
+          "I was attempting to move the passenger side 2nd row seat forward so that my children could extricate themselves from the third row while we were stopped.  The mechanism locked, and subsequently the se",
+          "The passenger side second row seat will not lock.  It has been diagnosed by a Honda dealer that the seat back frame part number 81326-TK-A22 needs replaced.  A recall has been made for the drivers sid"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 25,
+        "share_pct": 9.3,
+        "excerpts": [
+          "Under 45 degrees, the back door will not open. The latch is faulty and fails in moderate to severe cold weather. In an emergency where we would need to exit the rear of the vehicle, there’s no way to ",
+          "the trunk has been difficult to open in cold weather ever since car was purchased. car was new when purchased and the issue was infrequent over time, issue has become so pervasive that we are unable t",
+          "Consumer complaint: Repeated failed batteries (3), alternators (3), Start button (1) and left stranded multiple times due to no start. Problem: Honda Odyssey keyless entry computer board not fully sea"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 2,
+      "injuries": 10,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 18
+      },
+      {
+        "year": 2017,
+        "count": 28
+      },
+      {
+        "year": 2018,
+        "count": 26
+      },
+      {
+        "year": 2019,
+        "count": 25
+      },
+      {
+        "year": 2020,
+        "count": 16
+      },
+      {
+        "year": 2021,
+        "count": 24
+      },
+      {
+        "year": 2022,
+        "count": 33
+      },
+      {
+        "year": 2023,
+        "count": 23
+      },
+      {
+        "year": 2024,
+        "count": 37
+      },
+      {
+        "year": 2025,
+        "count": 20
+      },
+      {
+        "year": 2026,
+        "count": 19
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "18V170000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2014-2016 Honda Odyssey vehicles.  The second row outboard seats have a lever to fold the seatback and slide the seat forward to access the third row seats.  Due to a manufacturing error, if the walk-in release lever is used to fold a fully recli",
+        "report_date": "13/03/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V725000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2011-2017 Honda Odyssey vehicles.  The second row outboard seats can slide sideways to one of two positions.  If a seat is placed between either of the two positions when attaching the seat to the vehicle floor, the seat will not latch properly t",
+        "report_date": "17/11/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V932000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2016 Odyssey vehicles manufactured September 23, 2016, to October 24, 2016.  The affected vehicles have a second row center seat with a horizontal adjuster bar that may stick in the unlocked position, allowing the seat to unexpectedly ",
+        "report_date": "27/12/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V933000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2011-2016 Odyssey vehicles manufactured August 17, 2010, to October 1, 2015.  The affected vehicles have second row outboard seats that have a release lever that allows the seats to move for easier access to the third row of seats.  Th",
+        "report_date": "27/12/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V417000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2015 Acura MDX 2WD and MDX 4WD vehicles, 2016 Acura MDX 4WD vehicles, 2015-2016 Honda Odyssey vehicles, and 2016 Honda Pilot 2WD and 4WD vehicles.  The affected vehicles have fuel tanks that were manufactured with insufficient welds wh",
+        "report_date": "09/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:36.809Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

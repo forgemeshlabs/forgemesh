@@ -1,0 +1,188 @@
+{
+  "slug": "2013-honda-odyssey",
+  "year": 2013,
+  "make": "Honda",
+  "model": "Odyssey",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 210,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 69,
+        "share_pct": 32.9,
+        "excerpts": [
+          "The contact owns a 2013 Honda Odyssey. While the contact's wife was driving at an undisclosed speed, the vehicle started driving abnormally rough. Additionally, several unknown warning lights were ill",
+          "Honda has a known defect with the engine of these vehicles. Specifically the 2013 that I own. I contacted them years ago when their first warranty extension expired because I was never contacted and m",
+          "My 2013 Honda Odyssey showed a Check Engine Light and came to your Dealership. Initially agent said that it will cover by warranty and later he said that it will not cover by warranty.  He is saying t"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 56,
+        "share_pct": 26.7,
+        "excerpts": [
+          "We have taken our 2013 Honda Odyssey several times to the shop because the brakes don’t feel safe. They seem to work fine but the brakes pedal is spongy. Keeping the brake pedal slightly pressed with ",
+          "FRONT BRAKE ROTORS WARP CAUSING STEERING WHEEL VIBRATION AND BRAKE PEDAL THUMPING. ROTORS HAVE BEEN RESURFACED 3 TIMES ONLY TO HAPPEN AGAIN AFTER A FEW THOUSAND MILES. AT HIGHER SPEEDS ALMOST LOST CON",
+          "I WAS IN A PARKING LOT GOING LESS THAN 5 MILES AN HOUR AND WAS TURNING RIGHT INTO A PARKING SPACE. MY FOOT WAS ON THE BRAKE, BUT THE CAR LURCHED FORWARD AND ACCELERATED OVER THE CEMENT CHOCK BLOCK, HI"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 20,
+        "share_pct": 9.5,
+        "excerpts": [
+          "Paint is failing on roof as notated in service bulletin 19-057.",
+          "Honda Odessey 2013Driving down a highway at 55mph when we heard a loud backfire. Engine light came on, car shook violently. We immediately pulled into a gas station where a mechanic was present. Mecha",
+          "Severe Paint chipping at roof"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 15,
+        "share_pct": 7.1,
+        "excerpts": [
+          "The contact owns a 2013 Honda Odyssey. The contact stated that the front driver's side seat heater was malfunctioning. The contact stated that upon engaging the seat heater, the seat heater was interm",
+          "I’m reporting a repeat engine misfire on my 2013 Honda Odyssey (P0303 – cylinder 3). Honda repaired this issue in 2018 under Service Bulletin 13-081, which followed the Soto v. Honda settlement. Now i",
+          "I drove the car to the spot to park my car , with the normal way as always, lower the speed so I can get into my spot. All of sudden , I felt like something pushed really hard behind my car and it mov"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 14,
+        "share_pct": 6.7,
+        "excerpts": [
+          "The contact's sister owns a 2013 Honda Odyssey. The contact stated that while driving 65 MPH, the contact noticed an unattended trailer hitch on the road and the vehicle drove over the trailer hitch, ",
+          "Dear NHTSA Representative,  I am writing to formally express my concern regarding the failure of Honda to notify me of a safety recall related to my vehicle, as required by 49 U.S.C. § 30119.  As a cu",
+          "There are several recalls associated with this vehicle It is  NHTSA RECALL NUMBER: 23V-858 MFR CAMPAIGN ID: KIZ CAMPAIGN DESCRIPTION: 2013 Odyssey Fuel Pump Module Set/Assy Exp 2  12/28/2023  NHTSA RE"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 17,
+      "fires": 4,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 19
+      },
+      {
+        "year": 2014,
+        "count": 36
+      },
+      {
+        "year": 2015,
+        "count": 18
+      },
+      {
+        "year": 2016,
+        "count": 14
+      },
+      {
+        "year": 2017,
+        "count": 26
+      },
+      {
+        "year": 2018,
+        "count": 20
+      },
+      {
+        "year": 2019,
+        "count": 9
+      },
+      {
+        "year": 2020,
+        "count": 13
+      },
+      {
+        "year": 2021,
+        "count": 9
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 7
+      },
+      {
+        "year": 2024,
+        "count": 21
+      },
+      {
+        "year": 2025,
+        "count": 11
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "17V725000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2011-2017 Honda Odyssey vehicles.  The second row outboard seats can slide sideways to one of two positions.  If a seat is placed between either of the two positions when attaching the seat to the vehicle floor, the seat will not latch properly t",
+        "report_date": "17/11/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V933000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2011-2016 Odyssey vehicles manufactured August 17, 2010, to October 1, 2015.  The affected vehicles have second row outboard seats that have a release lever that allows the seats to move for easier access to the third row of seats.  Th",
+        "report_date": "27/12/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V382000",
+        "component": "ENGINE",
+        "summary": "Honda is recalling certain model year 2013 Pilot 2WD and 4WD vehicles and certain model year 2013 Odyssey vehicles.  During manufacturing of the engine piston, it is possible that the heat treatment process was not properly applied, resulting in the piston having an insufficient hardness level, maki",
+        "report_date": "27/08/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V143000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Honda is recalling certain model year 2012-2013 CR-V, Odyssey, and model year 2013 Acura RDX vehicles.  During sub-freezing temperatures, the brake-shift interlock blocking mechanism may become slow and allow the gear selector to be moved from the Park position without pressing the brake pedal.  As ",
+        "report_date": "15/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V016000",
+        "component": "AIR BAGS",
+        "summary": "Honda is recalling certain model year 2009-2013 Pilot and 2011-2013 Odyssey passenger vehicles manufactured from March 13, 2008, through December 21, 2012.  One or more rivets that attach the airbag module to the airbag cover may be missing.",
+        "report_date": "18/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:12.718Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

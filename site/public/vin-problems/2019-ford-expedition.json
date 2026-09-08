@@ -1,0 +1,204 @@
+{
+  "slug": "2019-ford-expedition",
+  "year": 2019,
+  "make": "Ford",
+  "model": "Expedition",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 488,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 214,
+        "share_pct": 43.9,
+        "excerpts": [
+          "On 8/6/2026, the transmission/powertrain of my 2019 Ford Expedition malfunctioned, causing a complete loss of propulsion. While traveling on a busy mountainous highway with my three children, I stoppe",
+          "I am submitting this complaint regarding an intermittent transmission and loss-of-motive-power issue with my 2019 Ford Expedition equipped with the 10-speed automatic transmission.  When I first start",
+          "The car has recalls since 2024?    Some are serious safety issues if in an accident.  Way too long for a remedy from FORD.  2019 FORD EXPEDITION 2019 FORD EXPEDITION VIN: [XXX] Recall data refreshed o"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 107,
+        "share_pct": 21.9,
+        "excerpts": [
+          "When turning on the truck there is an excessive rattle in the engine and it keeps on prolonging more and more.",
+          "The contact owns a 2019 Ford Expedition. The contact stated that while the contact's husband was driving at an undisclosed speed, the check engine warning light illuminated. In addition, the transmiss",
+          "- The Cam Phasers are failing.  The dealer on my last visit said that the engine makes a rattle, and the Cam Phasers are the issue.  It's apparently a wide spread issue with this year of vehicle.  I w"
+        ]
+      },
+      {
+        "component": "SEAT BELTS",
+        "complaints": 93,
+        "share_pct": 19.1,
+        "excerpts": [
+          "I started by 2019 Ford Expedition and was driving through a parking lot at a low speed when there was an explosion sound (comparable to a gun shot over my left shoulder as the driver).  My seatbelt pu",
+          "While pulling into a parking space, vehicle in drive, the passenger seatbelt exploded. There was no accident and no one was sitting in the passenger seat. It sounded like a gunshot went off inside the",
+          "The contact owns a 2019 Ford Expedition. The contact received notification of NHTSA Campaign Number: 26V344000 (Seat Belt). The contact stated that while driving 5 MPH with his wife seated in the pass"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 31,
+        "share_pct": 6.4,
+        "excerpts": [
+          "The contact owns a 2019 Ford Expedition. The contact stated that while the contact's husband was driving at an undisclosed speed, the check engine warning light illuminated. In addition, the transmiss",
+          "The contact owns a 2019 Ford Expedition. The contact stated that while driving at an undisclosed speed, there was a loud chattering sound coming from the engine before the vehicle stalled. The vehicle",
+          "The contact owns a 2019 Ford Expedition. The contact received notification of NHTSA Campaign Number: 25E070000 (Power Train); however, the part to do the recall repair was unavailable. The contact sta"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 21,
+        "share_pct": 4.3,
+        "excerpts": [
+          "I was in a collision and the whole front end was crushed but the airbags did not deploy",
+          "I started by 2019 Ford Expedition and was driving through a parking lot at a low speed when there was an explosion sound (comparable to a gun shot over my left shoulder as the driver).  My seatbelt pu",
+          "The passenger-side seat-belt retractor pretensioner, which is part of the supplemental restraint/airbag system, malfunctioned. The pretensioner apparently deployed without a collision, and the passeng"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 3,
+      "injuries": 37,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 10
+      },
+      {
+        "year": 2020,
+        "count": 14
+      },
+      {
+        "year": 2021,
+        "count": 14
+      },
+      {
+        "year": 2022,
+        "count": 58
+      },
+      {
+        "year": 2023,
+        "count": 98
+      },
+      {
+        "year": 2024,
+        "count": 121
+      },
+      {
+        "year": 2025,
+        "count": 105
+      },
+      {
+        "year": 2026,
+        "count": 67
+      }
+    ]
+  },
+  "recalls": {
+    "count": 11,
+    "recalls": [
+      {
+        "campaign_number": "20V263000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2019 Expedition and 2019-2020 Mustang vehicles.  The \"Transmission Not In Park\" warning message and associated chime duration are shorter than intended.",
+        "report_date": "08/05/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V633000",
+        "component": "SEATS:FRONT ASSEMBLY:RECLINER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 and 2019-2020 F-250, F-350, F-450, and F-550 Super Duty pickup trucks, and 2018-2019 Ford Explorer, 2019-2020 Expedition, and 2020 Escape vehicles equipped with driver and/or passenger's manual front seat back recliner mechanisms.  Also ",
+        "report_date": "28/08/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V773000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2019 Expedition and Lincoln Navigator vehicles.  The rear suspension toe link fasteners may not have been properly tightened to the frame, possibly allowing separation from the frame.",
+        "report_date": "28/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V420000",
+        "component": "EQUIPMENT:OTHER:OWNERS/SERVICE/OTHER MANUAL",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2023 Expedition and Lincoln Navigator vehicles equipped with third-row seating; and 2019-2023 F-Super Duty F-250, F-350, F-450, and F-550 SuperCab vehicles.  The owner's manual does not include instructions for adjusting or removing certain head re",
+        "report_date": "09/06/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V099000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 Expedition and Lincoln Navigator vehicles.  The seat belt pretensioner in the driver and/or front passenger seat may inadvertently deploy and lock the seat belt, which will not allow the belt to retract or extend.",
+        "report_date": "09/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V852000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2025 Explorer, Lincoln Aviator, 2020-2024 Escape, Lincoln Corsair, 2018-2024 F-150, Expedition and Lincoln Navigator vehicles.  The air bag warning label may be missing from the dashboard.  As such, these vehicles fail to comply with the requiremen",
+        "report_date": "08/11/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V197000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 Expedition and Lincoln Navigator vehicles.  The seat belt pretensioner in the driver and/or front passenger seat may inadvertently lock the seat belt, which will not allow the belt to retract or extend.",
+        "report_date": "23/05/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V886000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2019 Expedition vehicles previously repaired incorrectly under recall number 20V263. The \"Transmission Not In Park\" warning message and associated chime duration are shorter than intended.",
+        "report_date": "18/12/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V344000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2022 Expedition and Lincoln Navigator vehicles. The seat belt pretensioner in the driver and/or front passenger seat may inadvertently lock the seat belt, which will not allow the belt to retract or extend.",
+        "report_date": "27/05/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V368000",
+        "component": "STRUCTURE:INTERIOR PANELS:CENTER CONSOLE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2024 Expedition vehicles. The chrome plating on the center console may bubble and peel, resulting in sharp edges.",
+        "report_date": "09/06/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V402000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2021 Navigator, Expedition, 2020-2021 Explorer, Lincoln Aviator, and 2021 F-150 vehicles. The transmission park pawl may engage while the vehicle is in motion, resulting in park system damage.",
+        "report_date": "24/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:23.021Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

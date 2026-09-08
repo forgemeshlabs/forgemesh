@@ -1,0 +1,156 @@
+{
+  "slug": "2017-honda-pilot",
+  "year": 2017,
+  "make": "Honda",
+  "model": "Pilot",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 915,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 460,
+        "share_pct": 50.3,
+        "excerpts": [
+          "While driving car it lost power and was going only 35 mph then shut off  completely while driving.   Would not crank had car towed to Honda dealer and they said the engine was seized up.  The car is a",
+          "It first started having an engine light on that came back to emmission errors. It was intermittent though and didnt cause mucj issues. The shop said if it kept up to take it somewhere for that . Then ",
+          "The connecting rod on my 2017 Honda Pilot is coming apart and metal is present in the oil. The engine began knocking and progressively got louder. The sound was coming from the bottom of the engine ar"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 264,
+        "share_pct": 28.9,
+        "excerpts": [
+          "Component/system that failed: The audio/infotainment system (radio), rear DVD entertainment system, and backup camera all fail together while driving. The vehicle is available for inspection upon requ",
+          "Component/system that failed: The audio/infotainment system (radio), rear DVD entertainment system, and backup camera all fail together while driving. The vehicle is available for inspection upon requ",
+          "The back up camera every so often will be blank. Other times the dashboard warning lights will go on effecting the cruise control, lane assistance, and break assistance. According to the Honda dealers"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 121,
+        "share_pct": 13.2,
+        "excerpts": [
+          "my connecting rod bearing wore are ruined my engine. this is addressed in 23v-751 for 2016, 2018, and 2019 Honda Pilots, but not 2017 for some reason. could you please see why this year is not include",
+          "My son was driving the car and the engine started knocking and engine shut off.",
+          "We have a 2017 Honda Pilot EXL.  It had approximately 163,000 when the engine seized."
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 120,
+        "share_pct": 13.1,
+        "excerpts": [
+          "Vehicle stalled  twice within a week. All lights on dash showed up. P0087 code. Honda dealer confirmed low fuel pressure  pump needed to be replaced. It was happened on 8/13 and again on 8/22/26. Luck",
+          "DRIVING HOME FROM CHURCH SUNDAY JUNE 28TH DOWNSLOPE OF A SMALL HILL SMELLED HOT METAL; WASN'T SURE IF THE ODOR WAS FROM US, THE LARGE TRUCK THAT JUST PASSED US OR ENVIRONMENTAL; SUDDEN \"POP\" WAS HEARD",
+          "On May 23, 2026 I was driving family and friends around San Francisco, CA in my 2017 Honda Pilot (48K miles). We were driving up multiple steep hills, up to a 20% grade in some places with a full car "
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 30,
+        "share_pct": 3.3,
+        "excerpts": [
+          "Lane keeping assist problem light on, collision mitigation system problem light on, road departure mitigation system problem light on, adaptive cruise control problem light on. brake sy stem light on.",
+          "Digital speedometer stop working. It won’t display. It has happened before, and it’s happening again. This is dangerous to my driving as I have no idea how fast I’m driving when there is no display of",
+          "My 2017 Honda Pilot Touring has experienced ongoing electrical and battery-related issues for several years and has been in and out of authorized Honda dealerships numerous times. The vehicle has been"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 5,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2017,
+        "count": 41
+      },
+      {
+        "year": 2018,
+        "count": 47
+      },
+      {
+        "year": 2019,
+        "count": 44
+      },
+      {
+        "year": 2020,
+        "count": 84
+      },
+      {
+        "year": 2021,
+        "count": 96
+      },
+      {
+        "year": 2022,
+        "count": 207
+      },
+      {
+        "year": 2023,
+        "count": 92
+      },
+      {
+        "year": 2024,
+        "count": 109
+      },
+      {
+        "year": 2025,
+        "count": 111
+      },
+      {
+        "year": 2026,
+        "count": 82
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "21V932000",
+        "component": "STRUCTURE:BODY:HOOD",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019 Passport, 2016-2019 Pilot, and 2017-2020 Ridgeline vehicles.  The hood latch striker may become damaged and separate from the hood, which can result in the hood opening while driving.",
+        "report_date": "29/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V365000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "American Honda Motor Company (Honda) is recalling certain 2016-2022 Honda Pilot, 2017-2023 Ridgeline, 2019-2023 Passport, and 2014-2020 Acura MDX vehicles that were sold in Connecticut, Delaware, District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minne",
+        "report_date": "04/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:45.553Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

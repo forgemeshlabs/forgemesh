@@ -1,0 +1,236 @@
+{
+  "slug": "2013-dodge-durango",
+  "year": 2013,
+  "make": "Dodge",
+  "model": "Durango",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 640,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 290,
+        "share_pct": 45.3,
+        "excerpts": [
+          "The contact owns a 2013 Dodge Durango. The contact stated that while driving at various speeds, the instrument panel and the engine unexpectedly shut off. Occasionally, the vehicle immediately restart",
+          "The vehicle experiences sudden engine shutdown while driving. The engine completely turns off without warning. There are no warning lights, no check engine light, and no prior indication of failure. T",
+          "While driving the vehicle occasionally stalls without a check engine light or codes showing up"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 116,
+        "share_pct": 18.1,
+        "excerpts": [
+          "My vehicle constantly stalls at idle or while stopped at a traffic light or stop sign.  I was so bothersome is that the vehicle rolls back during these endeavors.  It usually happens 3 or 4 times a da",
+          "The vehicle experiences sudden engine shutdown while driving. The engine completely turns off without warning. There are no warning lights, no check engine light, and no prior indication of failure. T",
+          "The contact owns a 2013 Dodge Durango. The contact stated while driving at various speeds, the vehicle stalled. The vehicle was restarted and operated normally. The vehicle was taken to the local deal"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 84,
+        "share_pct": 13.1,
+        "excerpts": [
+          "My vehicle constantly stalls at idle or while stopped at a traffic light or stop sign.  I was so bothersome is that the vehicle rolls back during these endeavors.  It usually happens 3 or 4 times a da",
+          "While driving the vehicle occasionally stalls without a check engine light or codes showing up",
+          "My vehicle just clicks when I try to start it. The engine will not turn-over; it just clicks.  Risk is that there wasn't any engine light warning or anything, and it is 19 degrees Fahrenheit with a -1"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 81,
+        "share_pct": 12.7,
+        "excerpts": [
+          "The SUV has consistent problems with the water pump , thermostat and radiator. They have been changed and replaced more than 3 times in a year.   Also the brakes are acting funny",
+          "Vehicle has been having issues starting, acts like the fob is not in ignition. Vehicle has locked key in ignition and won't release it. Most dangerous concern is vehicle will completely shut down whil",
+          "Air did employ when it hit a deer at 35 mph , inside light go so dim on the radio and the front,  you see the dashboard or the radio"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 76,
+        "share_pct": 11.9,
+        "excerpts": [
+          "Seat headrest popped out while driving. First it was the passanger seat and the driver seat followed. Part is broken and unable to be popped in.",
+          "The passenger seat head rest exploded without any impact to the vehicle.  Fortunately, no one was sitting in the passenger seat at the time it exploded because it could have caused a head injury.  Aft",
+          "The head rest exploded out of no where - sounded like a gunshot while I was driving and pushed my whole head forward ."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 20,
+      "fires": 34,
+      "injuries": 22,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2007,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 25
+      },
+      {
+        "year": 2014,
+        "count": 79
+      },
+      {
+        "year": 2015,
+        "count": 71
+      },
+      {
+        "year": 2016,
+        "count": 30
+      },
+      {
+        "year": 2017,
+        "count": 67
+      },
+      {
+        "year": 2018,
+        "count": 69
+      },
+      {
+        "year": 2019,
+        "count": 99
+      },
+      {
+        "year": 2020,
+        "count": 60
+      },
+      {
+        "year": 2021,
+        "count": 43
+      },
+      {
+        "year": 2022,
+        "count": 29
+      },
+      {
+        "year": 2023,
+        "count": 24
+      },
+      {
+        "year": 2024,
+        "count": 22
+      },
+      {
+        "year": 2025,
+        "count": 14
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 11,
+    "recalls": [
+      {
+        "campaign_number": "17V435000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2014 Dodge Challenger, Dodge Charger, Chrysler 300, Dodge Durango, and 2012-2014 Jeep Grand Cherokee vehicles.  The affected vehicles have electro-hydraulic power steering (EHPS) and are equipped with a 5.7L or a 3.6L engine and a 160, 180 o",
+        "report_date": "10/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V572000",
+        "component": "SERVICE BRAKES",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2014 Dodge Durango and Jeep Grand Cherokee vehicles.  The affected vehicles had brake booster shields installed under a previous campaign to prevent water from entering the brake booster and limiting braking ability.  This recall is to verify that the ",
+        "report_date": "18/09/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V154000",
+        "component": "SERVICE BRAKES",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Jeep Grand Cherokee and Dodge Durango vehicles manufactured from January 5, 2010, through September 8, 2013.  The subject vehicles have a brake booster with a center shell that may corrode and allow water to get inside.",
+        "report_date": "01/04/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V391000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Dodge Durango and Jeep Grand Cherokee vehicles manufactured January 5, 2010, through December 11, 2013.  In the affected vehicles, the wiring for the vanity lamp in the sun visor may short circuit, after a service repair is perf",
+        "report_date": "02/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V879000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2013 Dodge Durango and Jeep Grand Cherokee vehicles manufactured December 3, 2009, to September 1, 2012.  In the affected vehicles, the wiring for the vanity lamp in the sun visor may short circuit, after having been remedied for a prior rec",
+        "report_date": "28/12/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V115000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2012-2013 Jeep Grand Cherokee vehicles manufactured September 17, 2010, to August 19, 2013, and equipped with a 3.6, 5.7 or 6.4 liter engine, and 2012-2013 Dodge Durango vehicles manufactured January 18, 2011, to August 19, 2013, and equipped wit",
+        "report_date": "27/02/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V104000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2012-2013 Dodge Durango and Jeep Grand Cherokee vehicles manufactured October 11, 2011, through October 1, 2012.  Under certain braking events, the Ready Alert Braking System (RAB) may result in the driver experiencing a hard brake pedal ",
+        "report_date": "04/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V560000",
+        "component": "SEATS",
+        "summary": "Chrysler is recalling certain model year 2013 Durango vehicles manufactured April 27, 2012, through September 14, 2012. The vehicles may have been built with incorrect seating capacity information labels.  The label might overstate the seating capacity.  Therefore, these vehicles fail to comply with",
+        "report_date": "04/12/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V391000",
+        "component": "AIR BAGS",
+        "summary": "Chrysler is recalling certain model year 2013 Dodge Durango vehicles manufactured from April 11, 2012, through July 20, 2012.  Some vehicles may have been built with the incorrect airbag occupant restraint control (ORC) module.",
+        "report_date": "08/08/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V634000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Chrysler 300, Dodge Charger, Challenger, and Durango; and 2012-2014 Jeep Grand Cherokee vehicles manufactured April 22, 2010, to January 2, 2014, and equipped with a 3.6L engine and a 160 amp alternator.  In the affected vehicle",
+        "report_date": "08/10/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V813000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2013 Dodge Durango and Jeep Grand Cherokee vehicles equipped with a 3.6, 5.7, or 6.4 liter engine and previously recalled under NHTSA Recall 14V530 or 15V115.  The fuel pump relay inside the Totally Integrated Power Module (TIPM-7) may fail, causing th",
+        "report_date": "14/11/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:24.149Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

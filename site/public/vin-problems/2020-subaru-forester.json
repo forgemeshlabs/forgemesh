@@ -1,0 +1,111 @@
+{
+  "slug": "2020-subaru-forester",
+  "year": 2020,
+  "make": "Subaru",
+  "model": "Forester",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 596,
+    "top_failure_components": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 252,
+        "share_pct": 42.3,
+        "excerpts": [
+          "As I was driving my 2020 Subaru Forester a cracked suddenly appeared across the driver side of the windshield, possibly from a small pebble.   The sunlight reflection off the crack sent blinding sunli",
+          "The head unit suddenly stopped working. It unfortunately isn’t covered Under warranty. The screen consistently turns on and off.",
+          "In a three year period I have had to replace my windshield for cracks causing visibility issues. Each of these cracks have appeared for no apparent reason."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 101,
+        "share_pct": 16.9,
+        "excerpts": [
+          "24th February 2020 - Bought the car from Subaru dealer. Couple of service records prior to May 24, 2022. - May 24, 2022 (9,037 miles) | RO# 806326: The lower oil pan leaked prematurely and had to be c",
+          "This 2020 Subaru Forester has experienced repeated failures involving the Auto Start/Stop system. When stopped in traffic, the system shuts the engine off as designed, but on multiple occasions the en",
+          "My car is violently shaking and completely stalling out in intersections when attempting to restart from an Auto-Stop."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 76,
+        "share_pct": 12.8,
+        "excerpts": [
+          "24th February 2020 - Bought the car from Subaru dealer. Couple of service records prior to May 24, 2022. - May 24, 2022 (9,037 miles) | RO# 806326: The lower oil pan leaked prematurely and had to be c",
+          "This 2020 Subaru Forester has experienced repeated failures involving the Auto Start/Stop system. When stopped in traffic, the system shuts the engine off as designed, but on multiple occasions the en",
+          "My 2020 Subaru Forester Sport suffered catastrophic engine failure on 6/19/2026 at 156,322 miles, 15 days and 1,031 miles after a thermo control valve (TCV) repair performed at an authorized Subaru de"
+        ]
+      },
+      {
+        "component": "VISIBILITY",
+        "complaints": 49,
+        "share_pct": 8.2,
+        "excerpts": [
+          "The contact owns a 2020 Subaru Forester. The contact stated while driving approximately 40 MPH, the contact became aware of a 7-inch crack at the bottom of the windshield near the driver’s side pillar",
+          "The contact owns a 2020 Subaru Forester. The contact stated that while driving 40–45 MPH in the rain, the lower left corner of the front windshield cracked without impact. The local dealer was not con",
+          "The contact owns a 2020 Subaru Forester. The contact stated while at a complete stop, she noticed that there was a crack in the middle of the windshield. The contact stated that there was no external "
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 42,
+        "share_pct": 7,
+        "excerpts": [
+          "**Component or System:** Subaru EyeSight Driver Assist System (specifically the Pre-Collision Throttle Management system). **Incident Description & Warning Messages:** There were no warning lamps, mes",
+          "While driving on public roads, all dash warning lights illuminated simultaneously. The instrument cluster displayed “EyeSight OFF.” At the same time, the electronic parking brake engaged / the vehicle",
+          "I, the owner of a 2020 Subaru Forester am writing to you in regards to an issue with my vehicle’s Eyesight program. Over the past month, there have been several instances where the Eyesight program fa"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 26,
+      "fires": 8,
+      "injuries": 16,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 20
+      },
+      {
+        "year": 2020,
+        "count": 156
+      },
+      {
+        "year": 2021,
+        "count": 148
+      },
+      {
+        "year": 2022,
+        "count": 96
+      },
+      {
+        "year": 2023,
+        "count": 81
+      },
+      {
+        "year": 2024,
+        "count": 62
+      },
+      {
+        "year": 2025,
+        "count": 22
+      },
+      {
+        "year": 2026,
+        "count": 11
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T20:04:46.055Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

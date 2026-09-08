@@ -1,0 +1,144 @@
+{
+  "slug": "2019-toyota-4runner",
+  "year": 2019,
+  "make": "Toyota",
+  "model": "4Runner",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 64,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 10,
+        "share_pct": 15.6,
+        "excerpts": [
+          "I have experienced a persistent steering and suspension-related issue with my 2019 Toyota 4Runner since early ownership, beginning at approximately 6,800 miles. The vehicle repeatedly pulls/drifts to ",
+          "My 2019 Toyota 4Runner has experienced an ongoing steering and suspension issue since early in its life. The vehicle required an alignment at approximately 6,800 miles and has required repeated alignm",
+          "I took my 2019 Toyota 4 Runner Limited Edition for maintenance/repair and it was identified the entire under carriage and frame is rusting out creating safety issues. This vehicle has never has never "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 8,
+        "share_pct": 12.5,
+        "excerpts": [
+          "The contact owns a 2019 Toyota 4Runner. The contact stated that while driving at an undisclosed speed, the instrument cluster displayed a blank screen. The contact stated that the failure also occurre",
+          "My vehicle keeps leaking inside from the AC drip line and it's been cleared multiple times and it still keeps happening and it floods the whole bottom of the passenger side floorboard and becomes soak",
+          "My vehicle is throwing the ABS light and slamming my breaks. I’ve taken it to Toyota, it’s not showing any codes so they can’t diagnosis it to fix the issue. It may go two weeks and drive fine, and th"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 7,
+        "share_pct": 10.9,
+        "excerpts": [
+          "My 2019 Toyota 4Runner was inhabited by a rat that chewed the wiring harness in at least 3 different areas.   The damage occurred between 8pm and 7am.   The vehicle started with lights on the dash ill",
+          "Manufacture defect",
+          "I BOUGHT A NEW 2019 TOYOTA 4 RUNNER SR5 PREMIUM JUNE 2019, I RECEIVED BY MAIL A RECALL NOTICE RE: FUEL PUMP IN FEB 2020, THEN NOTIFIED AGAIN IT WAS NOT A RECALL BETWEEN MARCH-MAY 2020.  THEN, IN OCT 2"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 6,
+        "share_pct": 9.4,
+        "excerpts": [
+          "I have experienced a persistent steering and suspension-related issue with my 2019 Toyota 4Runner since early ownership, beginning at approximately 6,800 miles. The vehicle repeatedly pulls/drifts to ",
+          "My 2019 Toyota 4Runner has experienced an ongoing steering and suspension issue since early in its life. The vehicle required an alignment at approximately 6,800 miles and has required repeated alignm",
+          "The contact owns a 2019 Toyota 4Runner. The vehicle was taken to a local dealer where it was discovered that the undercarriage was rusted. The vehicle was not repaired. The contact stated while drivin"
+        ]
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "complaints": 6,
+        "share_pct": 9.4,
+        "excerpts": [
+          "The contact owns a 2019 Toyota 4Runner. The contact stated while driving 50-55 MPH and attempting to overtake another vehicle, the vehicle failed to respond while depressing the accelerator pedal. The",
+          "The contact owns a 2019 Toyota 4Runner. The contact received notification of NHTSA Campaign Number: 20V682000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. T",
+          "TL* THE CONTACT OWNS A 2019 TOYOTA 4RUNNER. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 20V682000 (FUEL SYSTEM, GASOLINE) HOWEVER, THE PART TO DO THE RECALL REPAIR WAS NOT YET AVAILABL"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 1,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 13
+      },
+      {
+        "year": 2020,
+        "count": 16
+      },
+      {
+        "year": 2021,
+        "count": 13
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 7
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V753000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2017-2019 Toyota 4Runner vehicles that SET modified to be equipped with a TRD wheel package.  The Gross Vehicle Weight Rating (GVWR) on the certification label may be incorrect, possibly resulting in the vehicle being overloaded.  As such",
+        "report_date": "25/10/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V670000",
+        "component": "STEERING",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2018-2019 Toyota 4Runner vehicles.  During installation, certain steering and suspension components may not have been properly tightened.",
+        "report_date": "20/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V244000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Gulf States Toyota (GST) is recalling certain 2019 C-HR, 4Runner, Avalon, Avalon Hybrid, Camry, Camry Hybrid, Highlander, Land Cruiser, Prius, RAV4, Sequoia, Tacoma, Sienna, Tundra and Yaris vehicles.  The text on the load capacity label may become illegible.  As such, these vehicles fail to comply ",
+        "report_date": "27/03/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:50.443Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

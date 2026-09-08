@@ -1,0 +1,148 @@
+{
+  "slug": "2011-nissan-frontier",
+  "year": 2011,
+  "make": "Nissan",
+  "model": "Frontier",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 64,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 16,
+        "share_pct": 25,
+        "excerpts": [
+          "On January 25, 2024 my son was driving this truck and hit a dog on the highway. His driver side airbag deployed, the driver side seatbelt would not retract, and there was some minor body damage. The e",
+          "The contact owns a 2011 Nissan Frontier. The contact received notification of NHTSA Campaign Number: 23E012000 (Air Bags) however, the part to do the recall repair was not yet available. The local dea",
+          "My air bag light kept flashing on my 2011 Nissan Frontier Pro 4x4, I had it looked at when I got my oil changed and was told that it is a malfunction where you click the seat belt into, the light is o"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 13,
+        "share_pct": 20.3,
+        "excerpts": [
+          "The brakes have failed several times, seems to be a known issues and affecting others.   While our Nissan Truck is older, we had our Nissan checked at Midas, and then at the local Continental  Nissan ",
+          "The Actuator Assembly - Anti Skid has failed on my 2011 Frontier. My vehicle has cluster lights illuminated for ABS, brake, VDC, and SLIP. My independent mechanic pulled the codes and stated that they",
+          "ABS module failed.  The repair shop called the local Nissan dealership for parts.  The Nissan dealership said the failure was a known issue.  I called Nissan Customer Service for more info and they sa"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 9,
+        "share_pct": 14.1,
+        "excerpts": [
+          "Transmission fluid mixing with coolant in radiator!",
+          "TRUCK STARTED NOT ENGAGING IN REVERSE AT AROUND 50,100 MILES. TOOK MY TRUCK TO LARRY H MILLER NISSAN WHERE I PAID 157.00 TO HAVE THEM TELL ME THAT MY TRANSMISSION WAS OVER FULL.  THEY PULLED ABOUT 3 L",
+          "AT 27,000 MILES THE CLUTCH STARTED SLIPPING. THE VEHICLE WAS IN MOTION ON I-5 FREEWAY. THE PROBLEM CAUSED ME TO PULL OVER AND GET OFF THE ROAD AS THE VEHICLE COULD NOT GO AT THE SPEED OF THE TRAFFIC C"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 6,
+        "share_pct": 9.4,
+        "excerpts": [
+          "Paint flaking off of front fender in crease above tire on both the passenger and driver side.",
+          "THE HOOD OF MY TRUCK POPPED OPENED AT 67 MPH WHILE DRIVING ON 595 EAST BOUND ON FLORIDA HIGHWAY BETWEEN FLAMINGO AND UNIVERSITY EXITS. DUE TO THE IMPACT IT CRACKED MY WINDSHIELD AND OBVIOUS LOSS OF VI",
+          "TL*THE CONTACT OWNS A 2011 NISSAN FRONTIER. THE CONTACT STATED THAT THE SPARE TIRE HOLDER FAILED CAUSING THE TIRE TO RUB AGAINST THE TRUCK BED. AS A RESULT, THE TIRE LOST TREAD AND EXHIBITED SCRAPES O"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 6,
+        "share_pct": 9.4,
+        "excerpts": [
+          "VEHICLE BLOWER TURNS OFF AFTER GOING THROUGH CAR WASH, OR INTERMITTENTLY WHILE DRIVING. CAN CAUSE ISSUES WITH FOGGING UP WINDOWS AND VISIBILITY WHEN DRIVING WHEN HAPPENING ON FREEWAY. UNSURE AS TO NAT",
+          "IPDM RELAY OR IPDM BOARD ISSUE AT 78K, TOTAL NO CRANK NO START AND VEHICLE DRIVING ISSUES",
+          "DRIVER  DOOR LOCKING  ITSELF INTERMITTENTLY.  HAS HAPPENED 4 TIMES SINCE I PURCHASED THE VEHICLE IN OCT OF 2012.  THE KEY WAS NOT  LEFT IN THE IGNITION AND THERE IS NOT A BUTTON THAT CAN BE PUSHED THA"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 1,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 8
+      },
+      {
+        "year": 2012,
+        "count": 3
+      },
+      {
+        "year": 2013,
+        "count": 6
+      },
+      {
+        "year": 2014,
+        "count": 3
+      },
+      {
+        "year": 2015,
+        "count": 4
+      },
+      {
+        "year": 2016,
+        "count": 4
+      },
+      {
+        "year": 2017,
+        "count": 9
+      },
+      {
+        "year": 2018,
+        "count": 4
+      },
+      {
+        "year": 2019,
+        "count": 8
+      },
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2021,
+        "count": 3
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "23V067000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2008-2011 Titan, Frontier, Xterra, Pathfinder, Armada, and 2008-2009 Quest vehicles.  The resin emblem on the driver's air bag cover may develop cracks and detach during air bag deployment.",
+        "report_date": "10/02/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:55:14.911Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "2014-toyota-sienna",
+  "year": 2014,
+  "make": "Toyota",
+  "model": "Sienna",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 163,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 44,
+        "share_pct": 27,
+        "excerpts": [
+          "The passenger-side power sliding door system failed to stop or reverse when it encountered physical interference with the vehicle’s open fuel door. The door continued opening under power despite clear",
+          "The contact owns a 2014 Toyota Sienna. The contact stated that while driving 70 MPH, there was an audible alarm coming from the vehicle, alerting the contact that the door was ajar. The passenger’s si",
+          "The contact owns a 2014 Toyota Sienna. The contact stated while driving at various speeds, the contact heard abnormal sounds coming from the vehicle. The passenger’s side slide door became inoperable."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 16,
+        "share_pct": 9.8,
+        "excerpts": [
+          "Sluggish start when hot - fuel pump leak into engine when hot, causing starter issues, wears out starter, causes other stress on engine. Common issue in Toyota Siennas. [XXX] INFORMATION REDACTED PURS",
+          "Odometer Fraud. The contact purchased a 2014 Toyota Sienna. The contact discovered a mileage discrepancy after the purchase. The vehicle was a private sale. At the time of the purchase, the mileage wa",
+          "Odometer Fraud. The contact purchased a 2014 Toyota Sienna. The contact stated that upon taking the vehicle to a dealer for an oil change, it was discovered through the Carfax report that there was a "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 13,
+        "share_pct": 8,
+        "excerpts": [
+          "Dear sir/ madam,  I am writing to report an issue with recall status reporting.  All open recalls for my vehicle (VIN: [XXX] ) were completed at an authorized dealership on [01/27/2026]. I have docume",
+          "I have a 2014 Toyota Sienna (as indicated by VIN number) and I currently reside in the United Kingdom on US military orders. After getting notice from the NHTSA about the fact that my vehicle had an o",
+          "NOTHING HAPPENED TO THE VEHICLE, BUT NORTH HOLLYWOOD TOYOTA REFUSED TO REPLACE THE AIRBAGS ( AFTER WAITING IN THEIR SERVICE DEPARTMENT FOR 5 HOURS) BECAUSE THEY SAID WE 'ALTERED' THE VEHICLE. IT IS A "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 11,
+        "share_pct": 6.7,
+        "excerpts": [
+          "The fuel lines that are connected to recall 14V576000 need to be replaced and so that recall needs to be expanded as the parts are present in my vehicle but the connected to my VIN",
+          "Sluggish start when hot - fuel pump leak into engine when hot, causing starter issues, wears out starter, causes other stress on engine. Common issue in Toyota Siennas. [XXX] INFORMATION REDACTED PURS",
+          "The vehicle died while driving and when I try to start again it will crank but can't start."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 11,
+        "share_pct": 6.7,
+        "excerpts": [
+          "Sluggish start when hot - fuel pump leak into engine when hot, causing starter issues, wears out starter, causes other stress on engine. Common issue in Toyota Siennas. [XXX] INFORMATION REDACTED PURS",
+          "The contact owns a 2014 Toyota Sienna. The contact stated that while driving 70 MPH, there was an audible alarm coming from the vehicle, alerting the contact that the door was ajar. The passenger’s si",
+          "Timing chain cover leaking oil. This is known issue on 3.5L V6 model years 2011 -2022"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 2,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 14
+      },
+      {
+        "year": 2015,
+        "count": 13
+      },
+      {
+        "year": 2016,
+        "count": 28
+      },
+      {
+        "year": 2017,
+        "count": 28
+      },
+      {
+        "year": 2018,
+        "count": 25
+      },
+      {
+        "year": 2019,
+        "count": 15
+      },
+      {
+        "year": 2020,
+        "count": 8
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 10
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "19V005000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2014-2016 Toyota 4Runner, 2014-2015 Scion xB, Lexus IS350C, IS250C, 2014 Toyota Sienna, Lexus IS-F, and 2014-2017 Lexus GX460 vehicles sold, or ever registered in the states of Alabama, California, Florida, Georgia, Hawaii, Louis",
+        "report_date": "09/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V410000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Braun Corporation (Braun) is recalling certain 2014-2019 Toyota Sienna mobility van conversions.  The brake lines may have incorrect tube nut fittings installed, which may cause a pressure drop within the braking system.",
+        "report_date": "04/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V553000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Vantage Mobility International, LLC (Vantage) is recalling certain 2012-2018 AMS Genesis wheelchair vans, built on a Toyota Sienna vehicles.  The rubber brake hoses that attach to the rear wheel assembly may be too short, causing them to rub against the rear axle trailing arm.",
+        "report_date": "25/07/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V858000",
+        "component": "STRUCTURE:BODY:DOOR",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2011-2016 Toyota Sienna minivans manufactured January 4, 2010, to August 12, 2016.  If the power sliding door is unable to be opened when commanded, such as if the door is frozen shut, the door may subsequently open un",
+        "report_date": "29/11/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V414000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2014 Sienna vehicles manufactured June 17, 2014, through June 24, 2014.  The affected vehicles have a transmission shift control cable whose protective cable sleeve may have been damaged during assembly.  This could ca",
+        "report_date": "08/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V576000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2014 Toyota Avalon, Camry, Sienna, and Highlander and model year 2015 Lexus RX350 vehicles.  Fuel may leak from the one of the fuel delivery pipes in the engine compartment.",
+        "report_date": "19/09/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:58:18.933Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

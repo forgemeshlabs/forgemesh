@@ -1,0 +1,216 @@
+{
+  "slug": "2009-ford-fusion",
+  "year": 2009,
+  "make": "Ford",
+  "model": "Fusion",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1022,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 537,
+        "share_pct": 52.5,
+        "excerpts": [
+          "Dear NHTSA,     The braking system failed which was covered by Ford Safety Recall 19S54 with NHTSA campaign #19V904000 at 37,750 miles. After research and finding the label of the ABS Hydraulic Contro",
+          "my brakes had went out while i was driving home from work",
+          "The contact owns a 2009 Ford Fusion. The contact stated that the vehicle was taken to an independent mechanic for brake repairs, and after the repairs, the brake pedal felt spongy. The independent mec"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 359,
+        "share_pct": 35.1,
+        "excerpts": [
+          "The contact owns a 2009 Ford Fusion. The contact stated while driving 35-45 MPH, the brake pedal was depressed; however, the vehicle was slow to respond. The check brakes system message was displayed.",
+          "My vehicle failed to stop which resulted to a car crash",
+          "Extended brake travel that caused me to get into a car accident. Also my airbag did not deploy causing me to have a serious headache. I had two people in the vehicle with me. I pushed down on the brak"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 60,
+        "share_pct": 5.9,
+        "excerpts": [
+          "The contact owns a 2009 Ford Fusion. The contact stated that the vehicle was taken to an independent mechanic for brake repairs, and after the repairs, the brake pedal felt spongy. The independent mec",
+          "The contact owns a 2009 Ford Fusion. The vehicle was repaired under NHTSA Campaign Number: 19V904000 (Service Brakes, Hydraulic), but the failure occurred. When the vehicle was retrieved from the deal",
+          "The contact owns a 2009 Ford Fusion. The contact stated while driving 35-45 MPH, the brake pedal was depressed; however, the vehicle was slow to respond. The check brakes system message was displayed."
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 42,
+        "share_pct": 4.1,
+        "excerpts": [
+          "DOOR LATCH REFUSED TO CONNECT ON THE DRIVERS SIDE.  *TR",
+          "TL* THE CONTACT OWNS A 2009 FORD FUSION. THE CONTACT STATED THAT THE DRIVER'S SIDE INTERIOR DOOR HANDLE FRACTURED AND THE DOOR COULD NOT BE OPENED FROM INSIDE THE VEHICLE. THE CAUSE OF THE FAILURE WAS",
+          "TAKATA RECALL.  VEHICLE STATIONARY    ON JANUARY 18, 2019 THE PASSENGER AIR BAG INFLATOR WAS REPLACED UNDER THE 18S01 RECALL, FORD PART NUMBER 8E5Z 54044A74 AD.    ON SEPTEMBER 10, 2019 BROUGHT CAR IN"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 33,
+        "share_pct": 3.2,
+        "excerpts": [
+          "Throttle body failure causes vehicle to randomly die or shall or hard shift constantly while driving in heavy traffic and has almost caused multiple wrecks from vehicle stalling and hard shifting rand",
+          "MY BRAKES HAVE HAD THE ISSUE REGARDING THIS RECALL FOR QUITE SOME TIME NOW:   DEC 18,2019  MANUFACTURER RECALL NUMBER19S54  NHTSA RECALL NUMBER19V904  RECALL STATUSRECALL INCOMPLETE, REMEDY NOT YET AV",
+          "CAR WAS IN MOTION ON HIGHWAY WHEN IT STARTED ACCELERATING ON ITS ON AND EVENTUALLY STARTED LOSING POWER"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 65,
+      "fires": 5,
+      "injuries": 40,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1989,
+        "count": 1
+      },
+      {
+        "year": 2008,
+        "count": 2
+      },
+      {
+        "year": 2009,
+        "count": 13
+      },
+      {
+        "year": 2010,
+        "count": 18
+      },
+      {
+        "year": 2011,
+        "count": 13
+      },
+      {
+        "year": 2012,
+        "count": 18
+      },
+      {
+        "year": 2013,
+        "count": 26
+      },
+      {
+        "year": 2014,
+        "count": 30
+      },
+      {
+        "year": 2015,
+        "count": 43
+      },
+      {
+        "year": 2016,
+        "count": 199
+      },
+      {
+        "year": 2017,
+        "count": 277
+      },
+      {
+        "year": 2018,
+        "count": 159
+      },
+      {
+        "year": 2019,
+        "count": 81
+      },
+      {
+        "year": 2020,
+        "count": 56
+      },
+      {
+        "year": 2021,
+        "count": 48
+      },
+      {
+        "year": 2022,
+        "count": 16
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 7
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "21V158000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2007-2011 Ranger, 2006-2012 Fusion, Lincoln Zephyr, Lincoln MKZ, 2006-2011 Mercury Milan, 2007-2010 Ford Edge, and Lincoln MKX vehicles.  The driver's side air bag inflator may explode due to propellant degradation occurring after long-term exposure to ",
+        "report_date": "10/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V081000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2005-2014 Mustang, 2004-2011 Ranger, 2009-2011 Mercury Milan, 2006 Ford GT, 2008-2012 Fusion, 2007-2010 Edge and Lincoln MKX, and 2009-2010 Lincoln MKZ vehicles.  These vehicles may be equipped with a driver or passenger frontal air bag inflator used as",
+        "report_date": "16/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V904000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2006-2010 Ford Fusion, Mercury Milan, Lincoln Zephyr and MKZ vehicles.  The valves within the ABS Hydraulic Control Units (HCU) may react with brake fluids containing specific corrosion preventative additives.  This reaction may cause the valves to not ",
+        "report_date": "18/12/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V046000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013 Ford Mustang vehicles sold, or ever registered in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, Puerto Rico, American Samoa, Guam, the Northern Mariana Islands (Saipan), and the U.S. Vir",
+        "report_date": "11/01/2018",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V024000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2012 Ford Fusion and Mustang and Lincoln Zephyr and MKZ vehicles originally sold, or ever registered, in Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, Puerto Rico, American Samoa, Guam, the Northern Marian",
+        "report_date": "10/01/2017",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V384000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2007-2011 Ford Ranger vehicles, 2006-2011 Ford Fusion, Mercury Milan and Lincoln Zephyr/MKZ vehicles, 2007-2010 Ford Edge, Lincoln MKX vehicles, 2005-2006 Ford GT vehicles, and 2005-2011 Ford Mustang vehicles originally sold, or ever register",
+        "report_date": "31/05/2016",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14E028000",
+        "component": "EQUIPMENT",
+        "summary": "Ford Motor Company (Ford) is recalling certain all weather driver side accessory floor mats sold for use in model year 2006-2011 Ford Fusion and Mercury Milan, 2006 Lincoln Zephyr, and 2007-2011 Lincoln MKZ vehicles manufactured November 9, 2007, through October 31, 2010.  The affected floor mats ma",
+        "report_date": "29/05/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:49:10.989Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

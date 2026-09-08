@@ -1,0 +1,184 @@
+{
+  "slug": "2010-chevrolet-malibu",
+  "year": 2010,
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1361,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 455,
+        "share_pct": 33.4,
+        "excerpts": [
+          "The contact owns a 2010 Chevrolet Malibu. The contact stated that while driving 30 MPH, the steering wheel was shaking and locked up, and the steering wheel became difficult to turn. The vehicle lost ",
+          "Power steering has gone out.",
+          "1.The ESC system and power steering lights come on and sometimes go off making it extremely unsafe to drive due to not having proper control of the steering wheel. It is available for inspections at a"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 294,
+        "share_pct": 21.6,
+        "excerpts": [
+          "The contact owns a 2010 Chevrolet Malibu. The contact stated that after driving for 5 miles, the vehicle went into LIMP Mode, with the message \"Service Traction\" displayed. The contact stated that the",
+          "Odometer Fraud. The contact purchased a 2010 Chevrolet Malibu. The contact stated that while reviewing O'Reilly diagnostic report, it was discovered that there was a mileage discrepancy. The vehicle w",
+          "The contact owns a 2010 Chevrolet Malibu. The contact stated that under previous vehicle ownership, the vehicle was repaired under NHTSA Campaign Number: 14V252000 (Electrical System, Exterior Lightin"
+        ]
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "complaints": 227,
+        "share_pct": 16.7,
+        "excerpts": [
+          "The contact owns a 2010 Chevrolet Malibu. The contact stated that after driving for 5 miles, the vehicle went into LIMP Mode, with the message \"Service Traction\" displayed. The contact stated that the",
+          "The contact owns a 2010 Chevrolet Malibu. The contact had been informed by other drivers that the brake lights failed to illuminate as intended while driving. Additionally, the contact stated that the",
+          "TL* THE CONTACT OWNS A 2010 CHEVROLET MALIBU. THE CONTACT STATED WHILE DRIVING 35 MPH, THE CHECK ENGINE WARNING LIGHT ILLUMINATED INTERMITTENTLY. THE CONTACT ALSO STATED WHILE DRIVING 40 MPH, THE STEE"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 199,
+        "share_pct": 14.6,
+        "excerpts": [
+          "The issue I'm having is the traction light is on and my rear break lights stay on constantly. I took the car to a shop and had the break light switch replaced. Two days later the lights was back on. I",
+          "This is in reference to GM Recall Number: 13036 - I noticed that from time to time the service traction warning comes on, service esc warning comes on, my cruise control stops working suddenly. I didn",
+          "The July 14, 2014 recall (13036) describes the issue perfectly.   Brake lights come on when gas is pressed, goes off when brake pedal is pressed (very dangerous). Airbag, motor & traction control ligh"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 194,
+        "share_pct": 14.3,
+        "excerpts": [
+          "The contact owns a 2010 Chevrolet Malibu. The contact stated that under previous vehicle ownership, the vehicle was repaired under NHTSA Campaign Number: 14V252000 (Electrical System, Exterior Lightin",
+          "The contact owns a 2010 Chevrolet Malibu. The contact had been informed by other drivers that the brake lights failed to illuminate as intended while driving. Additionally, the contact stated that the",
+          "This is in reference to GM Recall Number: 13036 - I noticed that from time to time the service traction warning comes on, service esc warning comes on, my cruise control stops working suddenly. I didn"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 41,
+      "fires": 14,
+      "injuries": 47,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 2
+      },
+      {
+        "year": 2010,
+        "count": 68
+      },
+      {
+        "year": 2011,
+        "count": 32
+      },
+      {
+        "year": 2012,
+        "count": 56
+      },
+      {
+        "year": 2013,
+        "count": 106
+      },
+      {
+        "year": 2014,
+        "count": 182
+      },
+      {
+        "year": 2015,
+        "count": 157
+      },
+      {
+        "year": 2016,
+        "count": 134
+      },
+      {
+        "year": 2017,
+        "count": 131
+      },
+      {
+        "year": 2018,
+        "count": 145
+      },
+      {
+        "year": 2019,
+        "count": 132
+      },
+      {
+        "year": 2020,
+        "count": 88
+      },
+      {
+        "year": 2021,
+        "count": 36
+      },
+      {
+        "year": 2022,
+        "count": 33
+      },
+      {
+        "year": 2023,
+        "count": 27
+      },
+      {
+        "year": 2024,
+        "count": 12
+      },
+      {
+        "year": 2025,
+        "count": 10
+      },
+      {
+        "year": 2026,
+        "count": 10
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "19V019000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "General Motors LLC (GM) is recalling certain 2010-2011 Chevrolet Malibu vehicles.  In the event of a crash necessitating deployment of the driver frontal air bag, the air bag inflator may explode due to being overpressurized.",
+        "report_date": "16/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V252000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2004-2012 Chevrolet Malibu vehicles manufactured May 16, 2003, through October 11, 2012, 2004-2007 Malibu Maxx vehicles manufactured June 25, 2003, through April 5, 2007, 2005-2010 Pontiac G6 vehicles manufactured May 26, 2004, through January ",
+        "report_date": "14/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14E044000",
+        "component": "STEERING",
+        "summary": "Dorman Products, Inc. (Dorman) is recalling certain replacement intermediate steering shafts sold under the Dorman, OE Solutions, and Solutions brand names, part numbers 425-167, 2425167, and 7-3074, for installation on 2004-2012 Chevrolet Malibu, 2005-2010 Pontiac G6, and 2007-2009 Saturn Aura vehi",
+        "report_date": "21/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V460000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "General Motors (GM) is recalling certain model year 2007-2010 Saturn Aura and model year 2008-2010 Chevrolet Malibu and Pontiac G6 vehicles, equipped with a 4-speed automatic transmission. On these vehicles, the tabs on the transmission shift cable end may fracture and separate.",
+        "report_date": "18/09/2012",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:51:34.353Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "2013-kia-forte",
+  "year": 2013,
+  "make": "Kia",
+  "model": "Forte",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 195,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 107,
+        "share_pct": 54.9,
+        "excerpts": [
+          "The contact owns a 2013 Kia Forte. The contact stated that while driving 45 MPH, the check engine warning light illuminated, and the vehicle went into LIMP Mode. The contact stated the vehicle was una",
+          "The engine has been making humming noise which is getting louder with time",
+          "On 11/20/2024 I spoke to Denise Sanchez , she is the service manager for KIA and the reason of the call was about a complaint from Joel Sambrano one of her associates that was very unprofessional when"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 38,
+        "share_pct": 19.5,
+        "excerpts": [
+          "The system that is failing are the brakes and the tail lights. They used to be an open recall for the brake pedal stopper pad, however I’m not sure if that part is able to break again because in Octob",
+          "The contact owns a 2013 Kia Forte. The contact stated that while driving at 30 MPH, the brake pedal failed to operate as needed and depressed to the floorboard without warning. As a result of the brak",
+          "The contact owns a 2013 Kia Forte. The contact stated while driving 35 MPH, the vehicle unintendedly accelerated to 55-70 MPH. The contact stated that upon depressing the brake pedal slightly, the veh"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 25,
+        "share_pct": 12.8,
+        "excerpts": [
+          "The system that is failing are the brakes and the tail lights. They used to be an open recall for the brake pedal stopper pad, however I’m not sure if that part is able to break again because in Octob",
+          "The electric side mirror/s controls not working correctly. The motor is buzzing and unable to set the mirrors accurately. This could drain the cars battery.  The electric mirror had to be disconnect u",
+          "The contact owns a 2013 Kia Forte EX. The contact stated that while his daughter was driving 55 MPH, she noticed smoke emerging from the vehicle. The driver pulled over and called roadside assistance."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 16,
+        "share_pct": 8.2,
+        "excerpts": [
+          "The contact owned a 2013 Kia Forte. The contact stated that her daughter was occupying the front passenger's side seat while the wife of the contact's daughter was driving 65 MPH. The contact stated t",
+          "The contact owns a 2013 Kia Forte Ex. The contact stated when at a complete stop, the driver in front accelerated with the vehicle in reverse and crashed into the front of the contact's vehicle.  The ",
+          "I RECEIVED AN EMAIL FROM CARFAX NOTIFYING ME OF A RECALL FOR MY CAR PERTAINING TO A POSSIBLE FIRE, I CALLED DEALERSHIP TO SET UP APPOINTMENT AND FOUND OUT THERE WAS 2 RECALLS FOR MY CAR BUT NEVER ONCE"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 14,
+        "share_pct": 7.2,
+        "excerpts": [
+          "The contact owns a 2013 Kia Forte. The contact stated that while driving at 30 MPH, the brake pedal failed to operate as needed and depressed to the floorboard without warning. As a result of the brak",
+          "The contact owns a 2013 Kia Forte. The contact stated while driving 35 MPH, the vehicle unintendedly accelerated to 55-70 MPH. The contact stated that upon depressing the brake pedal slightly, the veh",
+          "The contact owns a 2013 Kia Forte. The contact received notification of NHTSA Campaign Number: 23V652000 (Service Brakes, Hydraulic); however, the part to do the recall repair was not yet available. T"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 16,
+      "fires": 13,
+      "injuries": 17,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 6
+      },
+      {
+        "year": 2013,
+        "count": 4
+      },
+      {
+        "year": 2014,
+        "count": 9
+      },
+      {
+        "year": 2015,
+        "count": 6
+      },
+      {
+        "year": 2016,
+        "count": 13
+      },
+      {
+        "year": 2017,
+        "count": 11
+      },
+      {
+        "year": 2018,
+        "count": 18
+      },
+      {
+        "year": 2019,
+        "count": 27
+      },
+      {
+        "year": 2020,
+        "count": 23
+      },
+      {
+        "year": 2021,
+        "count": 15
+      },
+      {
+        "year": 2022,
+        "count": 14
+      },
+      {
+        "year": 2023,
+        "count": 27
+      },
+      {
+        "year": 2024,
+        "count": 11
+      },
+      {
+        "year": 2025,
+        "count": 9
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "20V750000",
+        "component": "ENGINE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2012-2013 Sorento, 2012-2015 Forte and Forte Koup, 2011-2013 Optima Hybrid, 2014-2015 Soul, and 2012 Sportage vehicles.  An engine compartment fire can occur while driving.",
+        "report_date": "02/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V363000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2010-2013 Kia Forte, Forte Koup, 2011-2013 Kia Optima and 2011-2012 Kia Optima Hybrid and Sedona vehicles.  In the event of a crash, the air bag control unit (ACU) may short circuit, preventing the frontal air bags and seat belt pretensioners from deploy",
+        "report_date": "01/06/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V773000",
+        "component": "SERVICE BRAKES, HYDRAULIC:PEDALS AND LINKAGES",
+        "summary": "Kia Motors America (Kia) is recalling certain 2012-2014 Forte and Forte Koup vehicles.  The brake pedal stopper pad can deteriorate allowing the brake light switch plunger to remain extended when the brake pedal is released.  This will allow the brake lights to remain illuminated continuously.  It c",
+        "report_date": "01/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V312000",
+        "component": "SEAT BELTS:FRONT:RETRACTOR",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2013 Forte vehicles manufactured September 10, 2012, to October 31, 2012.  The screws that hold the front seatbelt retractor retaining plates may not have been properly tightened, and as a result, the seatbelt retractor retaining plates may br",
+        "report_date": "17/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V652000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2010-2019 Borrego, 2014-2016 Cadenza, 2010-2013 Forte, Forte Koup, Sportage, 2015-2018 K900, 2011-2015 Optima, 2011-2013 Optima Hybrid, Soul, 2012-2017 Rio, 2011-2014 Sorento, and 2010-2011 Rondo vehicles.  The Hydraulic Electronic Control Unit (HECU) may",
+        "report_date": "25/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:01.048Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

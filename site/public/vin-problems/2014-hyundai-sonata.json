@@ -1,0 +1,196 @@
+{
+  "slug": "2014-hyundai-sonata",
+  "year": 2014,
+  "make": "Hyundai",
+  "model": "Sonata",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 744,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 301,
+        "share_pct": 40.5,
+        "excerpts": [
+          "The vehicle suffered an abrupt, internal engine seizure while operating in active traffic at highway speeds.   This sudden loss of power created an immediate crash hazard, as the vehicle decelerated r",
+          "The check engine lights blinking, it overheats and it shuts down.",
+          "I was driving my 2014 hyundai sonata that I only had for 3 months when it just quit on me. I pulled over and seen when white smoke was coming from the wires."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 135,
+        "share_pct": 18.1,
+        "excerpts": [
+          "I was driving my 2014 hyundai sonata that I only had for 3 months when it just quit on me. I pulled over and seen when white smoke was coming from the wires.",
+          "Odometer Fraud. The contact owns a 2014 Hyundai Sonata. The contact purchased the vehicle on April 28, 2025, with 28,974 miles from a dealer. On January 20, 2026, while attempting to start the vehicle",
+          "While driving with my family on a busy freeway at approximately 70 mph, our vehicle suddenly displayed a loud, urgent warning: “Hybrid System Warning – Safely Stop and Do Not Drive!” At the same momen"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 119,
+        "share_pct": 16,
+        "excerpts": [
+          "Brake lights not working. Checked fuses and bulbs, neither are the issue.",
+          "Engine light is blinking and put safety of my family in danger. I called the close Huyndai dealer also I have a case number. However, it takes forever for them to answer. I only have this car. I am dr",
+          "The turn signal stem assembly randomly begins failing after several years (approx 5 years). Issues will be noticed while driving in the dark. When turn signal is applied in both directions, occasional"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 65,
+        "share_pct": 8.7,
+        "excerpts": [
+          "I am submitting this complaint because I believe this issue presents a serious safety concern. My 2014 Hyundai Sonata experienced a failure related to the steering angle sensor, causing the ESC, ABS, ",
+          "Updated NHTSA Complaint DraftVehicle Information: 2014 Hyundai SonataVIN: [XXX] Incident Date: XXX Description of Safety Defect:While driving on XXX, the vehicle's engine experienced a catastrophic me",
+          "The contact owns a 2014 Hyundai Sonata. The contact stated that while driving at an undisclosed speed, the steering wheel became inoperable. There was no warning light illuminated. The contact stated "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 60,
+        "share_pct": 8.1,
+        "excerpts": [
+          "ABS module/brakes system goes into limp mode randomly, which causes brake malfunction, throwing codes c1233, c1234 and c1236. There was a recall repair performed by Hyundai about two years ago, howeve",
+          "My vehicle, a 2014 Hyundai Sonata Turbo, is having brake lock-up issues. It seems to be related to the AVS (Automatic Brake System). This happens mostly when the vehicle is parked on a hill and the br",
+          "The contact owns a 2014 Hyundai Sonata. The contact stated that while driving at an undisclosed speed, the Hybrid braking system warning light illuminated. The vehicle was taken to two separate indepe"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 29,
+      "fires": 39,
+      "injuries": 35,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 2
+      },
+      {
+        "year": 2014,
+        "count": 33
+      },
+      {
+        "year": 2015,
+        "count": 25
+      },
+      {
+        "year": 2016,
+        "count": 27
+      },
+      {
+        "year": 2017,
+        "count": 69
+      },
+      {
+        "year": 2018,
+        "count": 65
+      },
+      {
+        "year": 2019,
+        "count": 95
+      },
+      {
+        "year": 2020,
+        "count": 79
+      },
+      {
+        "year": 2021,
+        "count": 77
+      },
+      {
+        "year": 2022,
+        "count": 103
+      },
+      {
+        "year": 2023,
+        "count": 57
+      },
+      {
+        "year": 2024,
+        "count": 48
+      },
+      {
+        "year": 2025,
+        "count": 48
+      },
+      {
+        "year": 2026,
+        "count": 15
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "18V934000",
+        "component": "ENGINE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2014 Sonata and 2013-2014 Santa Fe Sport vehicles previously repaired under recall numbers 15V-568 and 17V-226.  The high pressure fuel pipe that connects to the fuel pump outlet  may have been damaged, misaligned, or improperly torqued durin",
+        "report_date": "28/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V617000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2014 Sonata and 2011-2015 Sonata Hybrid vehicles previously repaired under recall campaign 17V-152.  The seat belt linkages for both front seat belts may detach from the seat belt anchor pretensioners.",
+        "report_date": "04/10/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V226000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2013-2014 Sonata and Santa Fe Sport vehicles.  Machining errors during the engine manufacturing process may cause premature bearing wear within the engine.",
+        "report_date": "31/03/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V152000",
+        "component": "SEAT BELTS:FRONT:ANCHORAGE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2014 Sonata and 2011-2015 Sonata Hybrid vehicles.  In the affected vehicles, the seat belt linkages for both front seat belts may detach from the seat belt anchor pretensioners.",
+        "report_date": "08/03/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V434000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2011-2014 Sonata vehicles manufactured December 11, 2009, through May 29, 2014.  In the affected vehicles, the transmission shift cable may detach from from the shift lever pin.",
+        "report_date": "18/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V121000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2013-2014 Sonata vehicles.  The low pressure fuel hose that connects the low pressure fuel pump to the direct injection fuel pump may crack over time due to heat generated within the engine compartment.",
+        "report_date": "28/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V312000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2013-2014 Sonata vehicles.  The low pressure fuel hose that connects the low pressure fuel pump to the direct injection fuel pump may crack over time, due to heat generated within the engine compartment.",
+        "report_date": "06/05/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:51.010Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

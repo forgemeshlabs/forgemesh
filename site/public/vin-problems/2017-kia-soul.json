@@ -1,0 +1,128 @@
+{
+  "slug": "2017-kia-soul",
+  "year": 2017,
+  "make": "Kia",
+  "model": "Soul",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 270,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 190,
+        "share_pct": 70.4,
+        "excerpts": [
+          "One day I noticed my oil light flashed on and off about three times during a drive down the road, simultaneously a loud knocking started in my engine. Although I had gotten my oil changed just a coupl",
+          "The engine has structural manufacturer defect causing extreme internal engine oil consumption with zero external leaks, creating a severe risk of sudden oil starvation catastrophic mechanical engine f",
+          "The contact owns a 2017 Kia Soul.  The contact stated that while driving approximately 65 MPH, a loud knocking sound was heard, and the vehicle's speed decreased to approximately 25 MPH.  The contact "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 19,
+        "share_pct": 7,
+        "excerpts": [
+          "The engine has structural manufacturer defect causing extreme internal engine oil consumption with zero external leaks, creating a severe risk of sudden oil starvation catastrophic mechanical engine f",
+          "2017 KIA SOUL, at approximately 87,000 miles began to show intermittent oil warning lights under regular G-loads pointing to oil starvation issues.Vehicle was taken to KIA Dealer for oil change. Deale",
+          "While driving under normal conditions, the check engine light began flashing and the vehicle suddenly lost power and entered limp mode. Acceleration was severely limited, making it difficult to mainta"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 19,
+        "share_pct": 7,
+        "excerpts": [
+          "I reported the issue yesterday, but we have additional information.   Here is a timeline of the incident as recorded by the doorbell camera:  2026-05-03            085400  Car parked            101423",
+          "After multiple recent services at the dealership, the car caught fire while idle in the driveway. The fire was under the hood in the front part of the engine compartment, just behind the latch mechani",
+          "I’ve had to get three oil changes in just five months of owning my vehicle. Honda of Brandon sold it to me with a clean Car-Fax report, but I’m now facing a possible manifold and catalytic converter r"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 18,
+        "share_pct": 6.7,
+        "excerpts": [
+          "The engine has structural manufacturer defect causing extreme internal engine oil consumption with zero external leaks, creating a severe risk of sudden oil starvation catastrophic mechanical engine f",
+          "While driving under normal conditions, the check engine light began flashing and the vehicle suddenly lost power and entered limp mode. Acceleration was severely limited, making it difficult to mainta",
+          "I have wasted too much time and my own $ for my local KIA to dismiss their on going re-appointments and months of different service technicians to not have them reacting to an engine light to never re"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 16,
+        "share_pct": 5.9,
+        "excerpts": [
+          "The contact owns a 2017 Kia Soul. The contact received notification of NHTSA Campaign Number: 22V031000 (Air Bags); however, the part to do the recall repair was not yet available. The contact stated ",
+          "Dear Officer,  I'm writing to report the powertrain and engine issue on my Green Kia Soul 2017 with a 1.6L engine.  The engine misfired when I was driving on Interstate 26 with my whole family (includ",
+          "The contact owns a 2017 Kia Soul. The contact received notification of NHTSA Campaign Number: 22V031000 (Air Bags) however, the part to do the recall repair was not yet available. The local dealer was"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 17,
+      "fires": 14,
+      "injuries": 19,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 9
+      },
+      {
+        "year": 2018,
+        "count": 18
+      },
+      {
+        "year": 2019,
+        "count": 12
+      },
+      {
+        "year": 2020,
+        "count": 36
+      },
+      {
+        "year": 2021,
+        "count": 47
+      },
+      {
+        "year": 2022,
+        "count": 42
+      },
+      {
+        "year": 2023,
+        "count": 41
+      },
+      {
+        "year": 2024,
+        "count": 28
+      },
+      {
+        "year": 2025,
+        "count": 25
+      },
+      {
+        "year": 2026,
+        "count": 12
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "22V031000",
+        "component": "AIR BAGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2017-2019 Sedona, Soul, Soul EV, 2017-2018 Forte, and 2017 Forte Koup vehicles.  The Air Bag Control Unit (ACU) cover may contact a memory chip on the printed circuit board and damage the electrical circuit.  Circuit damage may result in deactivated air ",
+        "report_date": "25/01/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:30.001Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

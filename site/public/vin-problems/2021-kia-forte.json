@@ -1,0 +1,124 @@
+{
+  "slug": "2021-kia-forte",
+  "year": 2021,
+  "make": "Kia",
+  "model": "Forte",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 67,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 22,
+        "share_pct": 32.8,
+        "excerpts": [
+          "Driving under normal conditions April 20,2026, on the way to school.  Got off the freeway and the vehicle immediately shut-off and the check engine light came on.  Vehicle was stuck partially in the r",
+          "To Whom It May Concern,  I am submitting a formal complaint regarding a serious safety issue involving my 2021 Kia Forte. Approximately one year ago, I purchased this vehicle used with approximately 5",
+          "Oil is burning out quickly causing the car to stop abruptly without any warning and caused damages to the engine."
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 9,
+        "share_pct": 13.4,
+        "excerpts": [
+          "The contact owned a 2021 Kia Forte. The contact stated that while driving at 45 MPH, the steering wheel locked independently, causing the vehicle to veer off the road into a construction site. The con",
+          "Component/System Involved: Electric Power Steering (EPS) – specifically, a potential malfunction with the assist motor response timing.  Description of Incident: While driving, primarily on the highwa",
+          "There is loud sound associated with the steering column! It has locked on me before and wouldn’t allow me to turn the vehicle. It has been to the dealership several times only for them to not be able "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 8,
+        "share_pct": 11.9,
+        "excerpts": [
+          "HVAC blower motor connector got so hot it has melted the plactic",
+          "The issue I’m having was confirmed by the dealership so when I drive on the highway, there’s a specific patch of highway that zigzags the car will follow that zigzag after getting off of the highway o",
+          "The rental vehicle, a Kia Forte, was provided by a major rental company without addressing the critical anti-theft system vulnerability identified in manufacturer recall CS2305C. This recall was issue"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 7,
+        "share_pct": 10.4,
+        "excerpts": [
+          "Transmission, yes it’s available.  I was driving on the highway and the vehicle began jerking and revving, slowing down and then speeding up.  It is at a service center now.  Now lamps",
+          "The transmission went out while driving, entering the highway.  It was intermittently missing a gear or slipping in about 2nd or 3rd gear.  I first noticed it going about 40 mph and trying to accelera",
+          "The issue I’m having was confirmed by the dealership so when I drive on the highway, there’s a specific patch of highway that zigzags the car will follow that zigzag after getting off of the highway o"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 6,
+        "share_pct": 9,
+        "excerpts": [
+          "On May 13, 2023, I was involved in a severe frontal collision on the passenger side while driving my 2021 Kia Forte. The impact caused significant damage, and my insurance company declared the vehicle",
+          "Passenger air bag/seat belt goes off like someone is sitting in passenger seat but no one is. Have to do seat belt for the alert stops",
+          "The contact owns a 2021 Kia Forte. The contact stated that while his mother was driving at 20 MPH and attempting to complete a left turn. another driver failed to stop at a red light, as a result, the"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 0,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 2
+      },
+      {
+        "year": 2021,
+        "count": 14
+      },
+      {
+        "year": 2022,
+        "count": 19
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 9
+      },
+      {
+        "year": 2025,
+        "count": 10
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "21V164000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2021 Telluride, K5, and Forte vehicles. The Occupant Classification and Detection System (OCS/ODS) unit may not detect the presence of a child restraint system in the front passenger seat.  As such, these vehicles fail to comply with the requirements of ",
+        "report_date": "11/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V304000",
+        "component": "STEERING:COLUMN",
+        "summary": "Kia Motors America (Kia) is recalling certain 2021-2022 Rio and Forte vehicles.  A bolt in the steering column may not be secured properly, which can cause the steering column to detach from the steering rack and result in a loss of steering control.",
+        "report_date": "05/05/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:36.863Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

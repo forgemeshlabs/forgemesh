@@ -1,0 +1,212 @@
+{
+  "slug": "2008-ford-escape",
+  "year": 2008,
+  "make": "Ford",
+  "model": "Escape",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 2417,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 1237,
+        "share_pct": 51.2,
+        "excerpts": [
+          "Electronic power steering went out a couple times on me .",
+          "Was driving on highway at 55 when the wrench warning light came on drove car to residence and turned it off, when car was cranked again it had no power steering. Vin number was not included in recall ",
+          "The contact owns a 2008 Ford Escape.  The contact stated that while driving approximately 60 MPH on the highway, the steering wheel seized. The failure was intermittent. Additionally, the contact stat"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 372,
+        "share_pct": 15.4,
+        "excerpts": [
+          "The contact owns a 2008 Ford Escape. The contact stated that while attempting to start the vehicle and driving from a parking lot at 5 MPH, there was an abnormal sound coming from the vehicle, and the",
+          "The contact owns a 2008 Ford Escape. The contact stated that the powertrain malfunction warning light and the ABS warning light were illuminated. The driver was able to pull over, the battery was disc",
+          "Hazard flashers turn on by themselves any rime night or day even while driving. Transmission  oil cooler leaks. Transmission shift lever bushing in shift cable broke [ Thankfully while not on the road"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 292,
+        "share_pct": 12.1,
+        "excerpts": [
+          "The contact owns a 2008 Ford Escape. The contact stated that the powertrain malfunction warning light and the ABS warning light were illuminated. The driver was able to pull over, the battery was disc",
+          "In  rainy conditions, executed a hard stop activating the ABS. After successfully activating, the brakes go almost to the floor, and ABS function has stopped. No air in brake system, and master cylind",
+          "ABS brake light goes on and off and regen system disabled appeared. Brake pedal goes between being spongy and going to floor. I took it to an independent service center and the mechanic almost lost co"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 200,
+        "share_pct": 8.3,
+        "excerpts": [
+          "Electronic power steering went out a couple times on me .",
+          "Check engine light keeps flashing, car vibration, bad head gasket, oil and fluid leak",
+          "driving down the road and out of nowhere all the dash light come on, the speedometer and rpm all go to zero. I am able to still control the car and drive down, the only thing that won’t work besides t"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 200,
+        "share_pct": 8.3,
+        "excerpts": [
+          "When driving, the gas pedal will get stuck down and you will not be able to apply more pressure to the pedal to accelerate. This often happens when I go to change gear and then go back to the gas peda",
+          "Having issue with throttle body and or controller. Break takes time to respond and is stiff. When on an incline road, the car rolls backwards before accelerating forward. The rolled back at stop signs",
+          "AT TIMES BEFORE ACCELERATION, THE ACCELERATOR GETS STUCK. THE VEHICLE CONTINUES TO GO UNLESS THE BRAKES ARE APPLIED. THERE HAVE BEEN TIMES WHEN I AM IN TRAFFIC AND IT HAS HAPPENED. THE STICKING HAPPEN"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 72,
+      "fires": 7,
+      "injuries": 45,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 1
+      },
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2006,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 14
+      },
+      {
+        "year": 2008,
+        "count": 52
+      },
+      {
+        "year": 2009,
+        "count": 93
+      },
+      {
+        "year": 2010,
+        "count": 115
+      },
+      {
+        "year": 2011,
+        "count": 146
+      },
+      {
+        "year": 2012,
+        "count": 158
+      },
+      {
+        "year": 2013,
+        "count": 248
+      },
+      {
+        "year": 2014,
+        "count": 338
+      },
+      {
+        "year": 2015,
+        "count": 188
+      },
+      {
+        "year": 2016,
+        "count": 224
+      },
+      {
+        "year": 2017,
+        "count": 198
+      },
+      {
+        "year": 2018,
+        "count": 238
+      },
+      {
+        "year": 2019,
+        "count": 133
+      },
+      {
+        "year": 2020,
+        "count": 88
+      },
+      {
+        "year": 2021,
+        "count": 39
+      },
+      {
+        "year": 2022,
+        "count": 50
+      },
+      {
+        "year": 2023,
+        "count": 32
+      },
+      {
+        "year": 2024,
+        "count": 22
+      },
+      {
+        "year": 2025,
+        "count": 26
+      },
+      {
+        "year": 2026,
+        "count": 12
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "15E045000",
+        "component": "SUSPENSION:FRONT:WHEEL BEARING",
+        "summary": "The Timken Company (Timken) is recalling certain aftermarket front wheel bearings, part number 510072, sold from January 22, 2015, to May 21, 2015, to be used as service parts on 2001-2012 Ford Escape, 2001-2011 Mazda Tribute, and 2005-2011 Mercury Mariner vehicles.  The affected wheel bearings have",
+        "report_date": "03/06/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V526000",
+        "component": "HYBRID PROPULSION SYSTEM",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2005-2008 Ford Escape hybrid electric vehicles manufactured October 13, 2003, to June 20, 2008, and 2006-2008 Mercury Mariner hybrid electric vehicles manufactured June 10, 2005, to June 20, 2008. The coolant pump for the hybrid system may fa",
+        "report_date": "03/09/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V606000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:LEVER AND LINKAGE:FLOOR SHIFT",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2001-2008 Ford Escape and Mercury Mariner vehicles manufactured March 31, 2001, to September 1, 2009.  The affected vehicles are equipped with either a 2.3L or 3.0L engine and have had their CD4E transmission replaced with remanufactured one ",
+        "report_date": "29/09/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V284000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2008-2011 Ford Escape and Mercury Mariner vehicles manufactured August 18, 2006, through September 11, 2010.  The affected vehicles have a steering torque sensor that may not be able to properly detect driver steering input.  As a result, the",
+        "report_date": "29/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10E043000",
+        "component": "EQUIPMENT",
+        "summary": "MARATHON IS RECALLING CERTAIN SEAT COVERS, BRAND SUPERHIDES WITH PART NUMBERS 593, 594, 578, 960, 228, 228-09, 267-08, 333, 625, AND 630, SOLD FOR USE AS AFTERMARKET EQUIPMENT FOR VARIOUS PASSENGER VEHICLES.  THESE SEAT COVERS ARE MADE OF HEAVIER THREAD AND ARE NOT COMPATIBLE WITH SEATS CONTAINING S",
+        "report_date": "03/09/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:46:39.536Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

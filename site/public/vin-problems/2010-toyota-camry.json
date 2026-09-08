@@ -1,0 +1,232 @@
+{
+  "slug": "2010-toyota-camry",
+  "year": 2010,
+  "make": "Toyota",
+  "model": "Camry",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 612,
+    "top_failure_components": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 167,
+        "share_pct": 27.3,
+        "excerpts": [
+          "when accelerating the car jerk before riding smooth",
+          "TL* THE CONTACT OWNS A 2010 TOYOTA CAMRY. THE CONTACT STATED THAT WHILE PULLING INTO A PARKING SPACE, THE VEHICLE EXPERIENCED UNINTENDED ACCELERATION CAUSING THE DRIVER TO LOOSE CONTROL OF THE STEERIN",
+          "TOYOTA CAMRY 2010, WAS DRIVEN TO DENTIST OFFICE PARKING LOT.  WHILE PARKING THE BRAKE WAS PRESSED TO BRING IT TO A STANDSTILL.  HOWEVER, IT SUDDENLY ACCELERATED AND LEAPED FORWARD AND SMASHED AGAINST "
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 66,
+        "share_pct": 10.8,
+        "excerpts": [
+          "The contact owns a 2010 Toyota Camry. The contact stated that the dashboard was shiny. The contact was unable to drive due to the reflection from the sun. While driving at night, the headlights from o",
+          "The contact owns a 2010 Toyota Camry. The contact stated that upon taking the vehicle out of the garage and driving the vehicle, the contact later noticed that the dashboard was melting and was sticky",
+          "The contact owns a 2010 Toyota Camry. The contact stated that while the vehicle was parked, the contact became aware that the dashboard had melted due to the high outside temperature. The contact stat"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 59,
+        "share_pct": 9.6,
+        "excerpts": [
+          "I am writing to formally express my dissatisfaction and concern regarding Toyota’s refusal to honor the recall or warranty enhancement program related to a defective melting dashboard in my vehicle. I",
+          "My 2010 Toyota Camry LE dashboard is physically sticky, extremely shiny, & material of dashboard is melting & breaking down. It produces fumes at higher temperatures & seems to add fog to glass.The en",
+          "Subject: camry rear window (defogger),  tint film badly bubbling with poor or zero visibility Dealer: Al Hendrickson Toyota 5201 W Sample Rd Coconut Creek, Florida 33073 Phone: (954) 972-1100 Website:"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 57,
+        "share_pct": 9.3,
+        "excerpts": [
+          "The contact owns a 2010 Toyota Camry. The contact stated that while driving at an undisclosed speed, there was an abnormal sound while depressing the brake pedal, with the TPMS warning light illuminat",
+          "On 2 occasions the car's brakes failed and caused a collision. The brake pedal was pressed all the way down to avoid a collision but instead the car shook and continued moving causing a collision.   t",
+          "IN LATE AUGUST 2019 WHILE RETURNING HOME FROM SHOPPING  ON A FAST SPEED STREET  I NEEDED TO SLOW DOWN TO MAKE A TURN AND  THE BREAK PEDAL WENT ALL THE WAY TO THE FLOOR, MADE A VIBRATING NOISE, THE BRE"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 50,
+        "share_pct": 8.2,
+        "excerpts": [
+          "The contact's daughter owned a 2010 Toyota Camry. The contact stated that after his daughter had approached a stop, she depressed the accelerator pedal and was T-boned on the front driver-side door. I",
+          "The air bag system has a fault and it makes it so the passenger air bag light is always reading as off, as if there isn’t a passenger there. It also has the passenger seatbelt light flashing all the t",
+          "My 2010 Toyota Camry LE dashboard is physically sticky, extremely shiny, & material of dashboard is melting & breaking down. It produces fumes at higher temperatures & seems to add fog to glass.The en"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 101,
+      "fires": 1,
+      "injuries": 60,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 5
+      },
+      {
+        "year": 2007,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 70
+      },
+      {
+        "year": 2010,
+        "count": 161
+      },
+      {
+        "year": 2011,
+        "count": 30
+      },
+      {
+        "year": 2012,
+        "count": 42
+      },
+      {
+        "year": 2013,
+        "count": 50
+      },
+      {
+        "year": 2014,
+        "count": 52
+      },
+      {
+        "year": 2015,
+        "count": 30
+      },
+      {
+        "year": 2016,
+        "count": 32
+      },
+      {
+        "year": 2017,
+        "count": 36
+      },
+      {
+        "year": 2018,
+        "count": 28
+      },
+      {
+        "year": 2019,
+        "count": 27
+      },
+      {
+        "year": 2020,
+        "count": 12
+      },
+      {
+        "year": 2021,
+        "count": 6
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 9
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "14V743000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2011 Prius and Corolla, 2009-2011 Venza, 2006-2010 Avalon, 2007-2010 FJ Cruiser, 2005-2011 Sienna and Sequoia, 2006-2011 Tacoma 4x2 and 4x4, Camry, Highlander, Tundra 4x2 and 4x4, and 2007-2011 Rav4 and 4Runner.  The affec",
+        "report_date": "19/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V396000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2005-2011 4Runner, Highlander, Sequoia, and Sienna, 2005-2010 Avalon and Tundra, 2006-2008 Camry Solara, 2006-2010 Highlander hybrid, 2006-2011 Rav4 and Tacoma, 2007-2010 FJ Cruiser, 2007-2011 Camry hybrid, 2009-2010 Venza, 2010-2012 Priu",
+        "report_date": "02/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V123000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota is recalling certain model year 2008 and 2010-2013 Toyota Tundra, 2010-2012 Rav4, 2012 Toyota Sequoia, 2010-2011 Toyota Corolla, 2010-2011 Toyota Camry and Camry Hybrid, 2010-2013 Toyota Highlander and Highlander Hybrid, 2010-2013 Toyota FJ Cruiser, 2011 Toyota Land Cruiser, 2010-20",
+        "report_date": "09/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V388000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2004-2010 PASSENGER VEHICLES.  THE ACCELERATOR PEDAL CAN GET STUCK IN THE WIDE OPEN POSITION DUE TO ITS BEING TRAPPED BY AN UNSECURED OR INCOMPATIBLE DRIVER'S FLOOR MAT.",
+        "report_date": "05/10/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V035000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "GULF STATES TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2010 VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD BETWEEN SEPTEMBER 1, 2005 AND JUNE 2, 2008 WITHOUT THE REQUISITE LOAD CARRYING CAPA",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V036000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2011 PASSENGER VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD WITHOUT THE REQUISITE LOAD CARRYING CAPACITY MODIFICATION LABELS.",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V017000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2010 AVALON, MODEL YEAR 2007-2010 CAMRY, MODEL YEAR 2009-2010 COROLLA, COROLLA MATRIX, RAV4, MODEL YEAR 2010 HIGHLANDER, MODEL YEAR 2008-2010 SEQUOIA, AND MODEL YEAR 2007-2010 TUNDRA VEHICLES.  DUE TO THE MANNER IN WHICH THE FRICTION LEVER INTERACTS WITH T",
+        "report_date": "21/01/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V040000",
+        "component": "SERVICE BRAKES, HYDRAULIC",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2010 CAMRYS.  THE LENGTH OF THE POWER STEERING PRESSURE HOSE ON VEHICLES EQUIPPED WITH THE 4-CYLINDER (2AR-FE) ENGINE MAY BE INSUFFICIENT, SUCH THAT THE GAP BETWEEN THE CRIMP ON THE PRESSURE HOSE AND THE BRAKE TUBE FOR THE LEFT REAR BRAKE MAY BE INSUFFICIENT.  ",
+        "report_date": "09/02/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:50:34.608Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

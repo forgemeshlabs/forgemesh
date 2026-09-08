@@ -1,0 +1,228 @@
+{
+  "slug": "2011-kia-sorento",
+  "year": 2011,
+  "make": "Kia",
+  "model": "Sorento",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1517,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 284,
+        "share_pct": 18.7,
+        "excerpts": [
+          "Just bought this from a private seller last week and was driving to work. The engine suddenly caught fire and the car essentially exploded and melted.",
+          "Intake manifold. A previously repaired recall that is still causing issue. Rough idle and check engine light.",
+          "I was driving my car, while at a stop light I noticed some smoke coming from under my hood. I thought it might have been the cold I turned off the main road onto my street and noticed the smoke increa"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 268,
+        "share_pct": 17.7,
+        "excerpts": [
+          "Just bought this from a private seller last week and was driving to work. The engine suddenly caught fire and the car essentially exploded and melted.",
+          "Opening car door and whole handle fell off.",
+          "Non working door handles which is a KNOWN issue with Kia! Extremely dangerous obstruction in an event of an emergency where occupants need to get in and out of the vehicle. The ineffective door handle"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 265,
+        "share_pct": 17.5,
+        "excerpts": [
+          "The vehicle is shifting weird out of first, knocking sound. A code of p1326 skds is showing on diagnostic. This was supposedly repaired by kia a few months ago from a recall. I am questioning if they ",
+          "My KIA Sorrento spontaneously engulfed in flames approximately 200 yards from my home. This is not a vehicle crash the car had flames coming from the vents and floor boards. I was the driver my daught",
+          "The contact owns a 2011 Kia Sorento. The contact stated while driving at an undisclosed speed, the vehicle lost automotive power while the accelerator pedal was being depressed. No warning light was i"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 246,
+        "share_pct": 16.2,
+        "excerpts": [
+          "Just bought this from a private seller last week and was driving to work. The engine suddenly caught fire and the car essentially exploded and melted.",
+          "My 2011 Kia Sorrento caught fire while parked in my garage. Kia is saying it's not due to any recall they have and that it was an electrical fire store behind the steering wheel and they're refusing t",
+          "I was driving my car, while at a stop light I noticed some smoke coming from under my hood. I thought it might have been the cold I turned off the main road onto my street and noticed the smoke increa"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 183,
+        "share_pct": 12.1,
+        "excerpts": [
+          "Driver Airbag light is illuminated",
+          "In a letter dated August 14, 2019, KIA advised that the warranty coverage for the driver's front airbag clock spring assembly was extended to 15 years. the clock spring is an electrical connection whi",
+          "My car has been in the Kia shop for engine. We just stopped on the freeway and for the module recall and my safety bag is just constantly on since I’ve gotten it and now I’m noticing electrical issues"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 42,
+      "fires": 61,
+      "injuries": 50,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1917,
+        "count": 1
+      },
+      {
+        "year": 2000,
+        "count": 1
+      },
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 58
+      },
+      {
+        "year": 2011,
+        "count": 125
+      },
+      {
+        "year": 2012,
+        "count": 76
+      },
+      {
+        "year": 2013,
+        "count": 53
+      },
+      {
+        "year": 2014,
+        "count": 74
+      },
+      {
+        "year": 2015,
+        "count": 120
+      },
+      {
+        "year": 2016,
+        "count": 201
+      },
+      {
+        "year": 2017,
+        "count": 128
+      },
+      {
+        "year": 2018,
+        "count": 165
+      },
+      {
+        "year": 2019,
+        "count": 153
+      },
+      {
+        "year": 2020,
+        "count": 82
+      },
+      {
+        "year": 2021,
+        "count": 60
+      },
+      {
+        "year": 2022,
+        "count": 52
+      },
+      {
+        "year": 2023,
+        "count": 71
+      },
+      {
+        "year": 2024,
+        "count": 64
+      },
+      {
+        "year": 2025,
+        "count": 21
+      },
+      {
+        "year": 2026,
+        "count": 10
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "15V626000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2011-2013 Kia Sorento vehicles manufactured October 19, 2009, to January 31, 2013.  In the affected vehicles, if excessive force is applied to the gear shift lever, the brake-shift interlock mechanism may chip or crack allowing the transmissio",
+        "report_date": "06/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11E041000",
+        "component": "EQUIPMENT",
+        "summary": "CURT MANUFACTURING IS RECALLING CERTAIN TOW PACKAGE WIRING HARNESSES, PART NUMBER 56024, THAT CONNECT TOW VEHICLE LIGHTING CIRCUITS TO TRAILER LIGHTING CIRCUITS SOLD FOR USE ON CERTAIN MODEL YEAR 2009 THROUGH 2011 HYUNDAI VERACRUZ AND KIA SORENTO VEHICLES.  THE UNITS ARE NOT WATER-TIGHT AND MOISTURE",
+        "report_date": "06/10/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V114000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Kia Motors Corporation (Kia) is recalling certain model year 2007-2010 Rondo, model year 2007-2011 Sedona, Sorento and Sportage, model year 2010-2011 Soul, model year 2008-2011 Optima, model year 2010 Forte, model year 2007-2009 Amanti, and model year 2009 Borrego vehicles.  Originally, in April 201",
+        "report_date": "01/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V258000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "KIA IS RECALLING CERTAIN MODEL YEAR 2011 SORENTO 2WD VEHICLES EQUIPPED WITH AUTOMATIC TRANSMISSIONS AND 2.4L ENGINES MANUFACTURED FROM THE START OF PRODUCTION THROUGH MAY 22, 2010.   THE INTERMEDIATE SHAFT MAY SUFFER FROM NOISE AND EXCESSIVE WEAR DUE TO A MISALIGNMENT OF THE INTERMEDIATE SHAFT WITH ",
+        "report_date": "25/04/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V388000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "KIA IS RECALLING CERTAIN MODEL YEAR 2010 SOUL AND MODEL YEAR 2011 SORENTO VEHICLES MANUFACTURED FROM SEPTEMBER 7, 2009 THROUGH JULY 30, 2010.  A LIMITED NUMBER OF WIRING HARNESSES SUPPLIED BY JCI AND USED FOR THE LIGHTING IN THE KIA SOUL VEHICLE'S ADVANCED LIGHTING SPEAKERS, LOCATED IN THE FRONT DOO",
+        "report_date": "31/08/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V599000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "KIA IS RECALLING CERTAIN MODEL YEAR 2011 SORENTO VEHICLES MANUFACTURED FROM SEPTEMBER 14, 2010, THROUGH OCTOBER 4, 2010.  SOME OF THE REAR BRAKE CALIPERS MAY NOT HAVE BEEN PROPERLY MACHINED.",
+        "report_date": "24/11/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V652000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2010-2019 Borrego, 2014-2016 Cadenza, 2010-2013 Forte, Forte Koup, Sportage, 2015-2018 K900, 2011-2015 Optima, 2011-2013 Optima Hybrid, Soul, 2012-2017 Rio, 2011-2014 Sorento, and 2010-2011 Rondo vehicles.  The Hydraulic Electronic Control Unit (HECU) may",
+        "report_date": "25/09/2023",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "23V877000",
+        "component": "ENGINE",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2011 Sorento vehicles.  An engine compartment fire can occur while driving.",
+        "report_date": "21/12/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:54:36.882Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

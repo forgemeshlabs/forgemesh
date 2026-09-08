@@ -1,0 +1,152 @@
+{
+  "slug": "2021-hyundai-elantra",
+  "year": 2021,
+  "make": "Hyundai",
+  "model": "Elantra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 129,
+    "top_failure_components": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 32,
+        "share_pct": 24.8,
+        "excerpts": [
+          "The Forward collision warning light comes on randomly at times and disables the system. It’s done this on 3 occasions. No one has inspected the vehicle. I was told everything was normal. No injuries i",
+          "Forward sensors in vehicle have been failing while driving rain or snow since 2021; would go way on its own.   Most recent failure has occurred with no debris or obstruction to sensor on a clear and s",
+          "Front sensor problem. Sensor Check Forward Safety System. ABS, Auto Hold light came up out of no where. No damage to sensor."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 30,
+        "share_pct": 23.3,
+        "excerpts": [
+          "Vehicle was serviced to remediate Recall 271-  backup camera replacement in January, 2025. In June 2026, vehicle is exhibiting the same issue. Rear camera is non functional in the following ways: 1. V",
+          "Door Lock Actuator, the door latch is stuck on unlock and it won’t close or lock when the lock button is pressed on key fob.",
+          "Daytime and night time running lights turn off and on randomly with brights engaging random as well. Turn signals not operating but intermittently and wipers not turning on intermittently. This Starte"
+        ]
+      },
+      {
+        "component": "SEAT BELTS",
+        "complaints": 27,
+        "share_pct": 20.9,
+        "excerpts": [
+          "I bought my car at McGrath Hyundai in chicago in May 2021.  It’s been in their shop 30 plus times for various and repeated issues.  As of late, over the last 6 months, I have reported to them and to H",
+          "My vehicle has been in the shop here at McGrath Hyundai in Chicago, IL 30+ times since I bought it 5/21.   Electrical, (rear), 6 horns, 6 blower motors, multiple warranty and recalls and now my front ",
+          "The horn is not working when I press the horn or on the key fob. I had it checked and the fuses were fine. The seat belt chime also does not work out of nowhere, same time the horn stopped working."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 13,
+        "share_pct": 10.1,
+        "excerpts": [
+          "Subject: Vehicle Safety Complaint – Engine Failure – Hyundai  To Whom It May Concern,  I am submitting a vehicle safety complaint regarding a serious engine failure involving my Hyundai vehicle.  The ",
+          "I owned a 2021 Hyundai Elantra N Line that experienced a recurring transmission issue. In warm weather conditions the transmission would intermittently slip and stutter, causing a jerky engagement whe",
+          "How are you?  The problem with our Hyundai involves the engine and engine control system. My vehicle is equipped with the same 2.0-liter Nu GDI engine that Hyundai recalled in other 2021 and 2022 vehi"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 10,
+        "share_pct": 7.8,
+        "excerpts": [
+          "How are you?  The problem with our Hyundai involves the engine and engine control system. My vehicle is equipped with the same 2.0-liter Nu GDI engine that Hyundai recalled in other 2021 and 2022 vehi",
+          "Unintended acceleration is happening. After about 15-30 minutes of driving, accelerating from a stopped position becomes very difficult in the sense that the vehicle does NOT accelerate when gas pedal",
+          "One day I was on the highway driving and the front collusion safety warning appeared. I thought the warning went off because the sensor was dirty due to dead bugs. However, I pulled over and the senso"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 1,
+      "injuries": 3,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 19
+      },
+      {
+        "year": 2022,
+        "count": 44
+      },
+      {
+        "year": 2023,
+        "count": 26
+      },
+      {
+        "year": 2024,
+        "count": 21
+      },
+      {
+        "year": 2025,
+        "count": 12
+      },
+      {
+        "year": 2026,
+        "count": 7
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "21V796000",
+        "component": "SEAT BELTS:FRONT",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2021 Elantra, Elantra HEV, Venue, Genesis GV80 and 2022 Genesis GV70 vehicles.  In the event of a crash, the front driver-side and/or passenger-side seat belt pretensioner(s) may explode upon deployment.",
+        "report_date": "13/10/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V00M000",
+        "component": "VISIBILITY:WINDSHIELD",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2020-2021 Santa Fe, 2021 Sonata, and Elantra vehicles.  During manufacturing, the windshield may not have been properly bonded to the vehicle, allowing it to detach in a crash.",
+        "report_date": "28/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V302000",
+        "component": "SEATS:FRONT ASSEMBLY:RECLINER",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2021 Elantra vehicles.  The driver and front passenger seat back recliners may have been improperly welded.",
+        "report_date": "28/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V218000",
+        "component": "SEAT BELTS:FRONT",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2021-2022 Elantra and 2020 Accent vehicles.  In the event of a crash, the front driver and passenger-side seat belt pretensioners may explode upon deployment.",
+        "report_date": "01/04/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V354000",
+        "component": "SEAT BELTS:FRONT",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2020-2022 Accent, 2021-2022 Elantra, and 2021-2022 Elantra HEV vehicles.   In the event of a crash, the front driver-side and/or passenger-side seat belt pretensioners may explode upon deployment.",
+        "report_date": "19/05/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V879000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2021-2022 Santa Fe, Santa Fe HEV, Elantra, Elantra HEV and 2022 Elantra N and Santa Fe PHEV vehicles.  Due to a damaged printed circuit board, the rearview camera image may fail to display.  As such, these vehicles fail to comply with the requirem",
+        "report_date": "21/11/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:28.171Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

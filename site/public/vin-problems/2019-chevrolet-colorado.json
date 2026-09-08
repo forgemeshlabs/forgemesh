@@ -1,0 +1,115 @@
+{
+  "slug": "2019-chevrolet-colorado",
+  "year": 2019,
+  "make": "Chevrolet",
+  "model": "Colorado",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 149,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 65,
+        "share_pct": 43.6,
+        "excerpts": [
+          "When driving at a slow speed truck seemed to die down and not want to shift to next gears. Truck appeared to shake when pressing on the gas lightly.",
+          "The vehicle experienced severe transmission hesitation, rough shifting, and shuddering early on, which was brought to a Chevrolet dealership under factory warranty at 16,875 miles (April 2021). The is",
+          "Transmission is shuddering, I had a transmission flush done, and a tune up, and neither helped. I am concerned the transmission is going to go out while driving, especially in a busy intersection and "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 24,
+        "share_pct": 16.1,
+        "excerpts": [
+          "The infotainment system is not functioning.  The screen will come on as I turn on the truck, then it goes blank.  Sometimes it flashes and then goes black.  I cannot use any of my apps or connect to A",
+          "I purchased my truck from Karl Chevrolet in Ankeny, IA around September of 2019. Approximately 1.5 years after purchasing the vehicle, I began having issues with my infotainment system intermittently ",
+          "In and out of the shop for the last 3.5 years (Warranty is expired now) with multiple engin codes (CEL). Most having to do with the fuel delivery systems. Most common P026D, and P1089. It has been in "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 21,
+        "share_pct": 14.1,
+        "excerpts": [
+          "You will be driving down the road and then the power steering goes in and out so stops working and then starts working again. Not safe especially on the highway. No lights go on on the dash.  Chevy is",
+          "The steering wheel would not turn right while driving. The steering rack failed. The truck has only 10000 miles on it. We almost wrecked because of this defect.  No warning messages appeared.  The veh",
+          "Steering binding hard in turns.  Turns over 45 deg of steering wheel rotation cause periodic binding in the turn, regardless of vehicle speed.  Can be reproduced when the truck isn’t moving.  Very nea"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 20,
+        "share_pct": 13.4,
+        "excerpts": [
+          "In and out of the shop for the last 3.5 years (Warranty is expired now) with multiple engin codes (CEL). Most having to do with the fuel delivery systems. Most common P026D, and P1089. It has been in ",
+          "Experience hesitation at a stop and shuddering at certain speed",
+          "The transmission is starting to shutter at high speeds and not shift as intended."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 9,
+        "share_pct": 6,
+        "excerpts": [
+          "VIN: [XXX]. 2019 Chevy Colorado, ~115,000 mi.  FAILED COMPONENT: Vacuum pump failed internally; debris damaged the exhaust camshaft. Pump is cam-driven with no shear pin, so seizure cuts brake assist ",
+          "The contact owns a 2019 Chevrolet Colorado. The contact's husband stated that while driving 20 MPH, while attempting to turn into a parking lot, and another vehicle was attempting to exit the same par",
+          "I was driving around 60mph on a highway with cruise control. Heavy traffic resulted in a major accident in front of me. I slammed my brakes, which prevented me from getting involved in the altercation"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 4,
+      "injuries": 12,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 6
+      },
+      {
+        "year": 2019,
+        "count": 29
+      },
+      {
+        "year": 2020,
+        "count": 15
+      },
+      {
+        "year": 2021,
+        "count": 16
+      },
+      {
+        "year": 2022,
+        "count": 19
+      },
+      {
+        "year": 2023,
+        "count": 17
+      },
+      {
+        "year": 2024,
+        "count": 21
+      },
+      {
+        "year": 2025,
+        "count": 19
+      },
+      {
+        "year": 2026,
+        "count": 7
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T20:04:20.866Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

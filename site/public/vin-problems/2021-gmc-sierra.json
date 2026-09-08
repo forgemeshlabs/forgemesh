@@ -1,0 +1,268 @@
+{
+  "slug": "2021-gmc-sierra",
+  "year": 2021,
+  "make": "GMC",
+  "model": "Sierra",
+  "matched_as": {
+    "complaints": [
+      "SIERRA 2500",
+      "SIERRA 1500",
+      "SIERRA 3500"
+    ],
+    "recalls": [
+      "SIERRA 2500",
+      "SIERRA 1500",
+      "SIERRA 3500"
+    ]
+  },
+  "failures": {
+    "total_complaints": 622,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 301,
+        "share_pct": 48.4,
+        "excerpts": [
+          "I am reporting repeated failures involving both the transmission and diesel emissions (DEF) system on my 2021 GMC Sierra 2500HD Denali equipped with the 6.6L Duramax diesel engine and Allison 10-speed",
+          "The contact owns a 2021 GMC Sierra 2500. The contact stated that while driving at 55 MPH, the vehicle stalled unexpectedly. There were no warning lights illuminated. The vehicle was taken to the local",
+          "80,000 Miles, complete engine break down. 12,000 to repair"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 152,
+        "share_pct": 24.4,
+        "excerpts": [
+          "I am reporting repeated failures involving both the transmission and diesel emissions (DEF) system on my 2021 GMC Sierra 2500HD Denali equipped with the 6.6L Duramax diesel engine and Allison 10-speed",
+          "We keep getting an error message that shows we need to service DEF SYSTEM, it also started to limit my MPH and is now locked at 55 MPH. initial check of the DEF SYSTEM shows a malfunctioning module. i",
+          "While driving on the highway at normal speed, my vehicle was operating completely normally with no warning lights, messages, or prior issues. Without any warning, the vehicle suddenly lost the ability"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 82,
+        "share_pct": 13.2,
+        "excerpts": [
+          "When I’m in reverse the up the cameras turn off. On one incident I was backing up and the camera turned off causing me to back up into the wall of my house",
+          "Headlights and turn signals failed.  Flickering of various lights (Daytime running lamp, low beam, high beam, turn signals) followed by total failure.  3700 dollar repair at dealer to replace both hea",
+          "On 11/21/24 noticed passenger headlight day light running light flickering. On 11/22/24 right turn indicator intermittent fast blink, dash message stated turn indicator failure. Once home, inspected p"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 48,
+        "share_pct": 7.7,
+        "excerpts": [
+          "The contact owns a 2021 GMC Sierra 1500. The contact stated that while driving at 60 MPH, the vehicle began to shake uncontrollably. A knocking sound was heard from the engine, and the vehicle entered",
+          "The contact owns a 2021 GMC Sierra 1500. The contact stated that the vehicle was experiencing excessive oil consumption. The low oil level was observed, and the oil warning light illuminated. The vehi",
+          "The contact owns a 2021 GMC Sierra 1500. The contact stated that while driving approximately 70 MPH, the vehicle suddenly lost motive power, decelerated, and failed to properly accelerate while depres"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 38,
+        "share_pct": 6.1,
+        "excerpts": [
+          "After finishing a long drive south, I shut the engine off and a yellow engine code popped on.  I connected my computer to it and revealed a P129F code (fuel pump control module).  I have noticed that ",
+          "I am reporting repeated failures involving both the transmission and diesel emissions (DEF) system on my 2021 GMC Sierra 2500HD Denali equipped with the 6.6L Duramax diesel engine and Allison 10-speed",
+          "Transmission stopped at 29,000 miles, engine died and was replaced at 32,000 miles"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 7,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2003,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 5
+      },
+      {
+        "year": 2021,
+        "count": 59
+      },
+      {
+        "year": 2022,
+        "count": 39
+      },
+      {
+        "year": 2023,
+        "count": 42
+      },
+      {
+        "year": 2024,
+        "count": 108
+      },
+      {
+        "year": 2025,
+        "count": 243
+      },
+      {
+        "year": 2026,
+        "count": 123
+      }
+    ]
+  },
+  "recalls": {
+    "count": 18,
+    "recalls": [
+      {
+        "campaign_number": "21V578000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "General Motors, LLC. (GM) is recalling certain 2020-2021 Chevrolet Silverado 2500 and GMC Sierra 2500 vehicles equipped with a 17\" spare tire (RPO ZHQ or ZXT) and either the 20\" accessory road tire (RPO REM) or the 18\" accessory road tire (RPO Q2V).  Operating the spare tire with other 20\" or 18\" ti",
+        "report_date": "29/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V758000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021-2022 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500, and Sierra 3500 vehicles with electronic brake control modules (EBCM) replaced during vehicle assembly.  The bolts that attach the brake pressure modulator valve (BPMV) assembly may not",
+        "report_date": "29/09/2021",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "20V792000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2019-2021 Chevrolet Silverado 1500 and GMC Sierra 1500, 2021 Chevrolet Suburban and Tahoe and GMC Yukon XL and 2020-2021 Chevrolet Silverado 2500 and 3500 and GMC Sierra 2500 and 3500 vehicles.   The seat belt brackets may not be secured to the seat fram",
+        "report_date": "17/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V811000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020 Chevrolet Bolt EV and 2021 GMC Canyon and Sierra 1500, 2500 and 3500, Yukon, Yukon XL, Cadillac Escalade and Escalade ESV and Chevrolet Blazer, Camaro, Colorado, Equinox, Silverado 1500, 2500 and 3500, Suburban and Tahoe vehicles.  Incorrect bolts m",
+        "report_date": "23/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V060000",
+        "component": "LATCHES/LOCKS/LINKAGES:TAILGATE:LATCH",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2024 Chevrolet Silverado 2500, 3500, GMC Sierra 2500 and 3500 vehicles equipped with power-unlatching tailgates.  The tailgate's electronic gate-release switch may short circuit due to water intrusion, which can result in the tailgate inadvertently ",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V797000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2022 Chevrolet Silverado 1500, 2500, 3500, GMC Sierra 1500, 2500, 3500, 2021 Cadillac Escalade, Escalade ESV, Chevrolet Tahoe, Suburban, GMC Yukon, and Yukon XL vehicles equipped with diesel engines.  The transmission control valve may fail and caus",
+        "report_date": "24/10/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V792000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2019-2021 Chevrolet Silverado 1500 and GMC Sierra 1500, 2021 Chevrolet Suburban and Tahoe and GMC Yukon XL and 2020-2021 Chevrolet Silverado 2500 and 3500 and GMC Sierra 2500 and 3500 vehicles.   The seat belt brackets may not be secured to the seat fram",
+        "report_date": "17/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V811000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020 Chevrolet Bolt EV and 2021 GMC Canyon and Sierra 1500, 2500 and 3500, Yukon, Yukon XL, Cadillac Escalade and Escalade ESV and Chevrolet Blazer, Camaro, Colorado, Equinox, Silverado 1500, 2500 and 3500, Suburban and Tahoe vehicles.  Incorrect bolts m",
+        "report_date": "23/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V684000",
+        "component": "TIRES",
+        "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT5, GMC Acadia and Chevrolet Traverse vehicles and 2020-2021 Chevrolet Silverado 1500, GMC Sierra 1500 vehicles.  The vehicles may have been manufactured with Continental tires that were overcured.",
+        "report_date": "05/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V985000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "General Motors (GM) is recalling certain 2019-2021 GMC Sierra 1500 and Silverado 1500 vehicles equipped with certain accessory road tires and a 17\" spare tire.  The 17\" spare tire provided with the vehicle is not compatible for use with the accessory wheels, which can cause the anti-lock brake syste",
+        "report_date": "16/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V797000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2022 Chevrolet Silverado 1500, 2500, 3500, GMC Sierra 1500, 2500, 3500, 2021 Cadillac Escalade, Escalade ESV, Chevrolet Tahoe, Suburban, GMC Yukon, and Yukon XL vehicles equipped with diesel engines.  The transmission control valve may fail and caus",
+        "report_date": "24/10/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V274000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "General Motors LLC (GM) is recalling certain 2021-2024 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles equipped with a 6.2L V8 gas engine.  The connecting rod and/or crankshaft engine components may have manufacturing d",
+        "report_date": "24/04/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V083000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC is recalling certain 2020 Chevrolet Silverado 2500, 3500, GMC Sierra 2500, 3500, and 2020-2022 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles that may have been repaired incorrectly under recall 24V797. The transmission control valve may fail and cause the rear wheels to l",
+        "report_date": "12/02/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V758000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021-2022 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500, and Sierra 3500 vehicles with electronic brake control modules (EBCM) replaced during vehicle assembly.  The bolts that attach the brake pressure modulator valve (BPMV) assembly may not",
+        "report_date": "29/09/2021",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "20V792000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2019-2021 Chevrolet Silverado 1500 and GMC Sierra 1500, 2021 Chevrolet Suburban and Tahoe and GMC Yukon XL and 2020-2021 Chevrolet Silverado 2500 and 3500 and GMC Sierra 2500 and 3500 vehicles.   The seat belt brackets may not be secured to the seat fram",
+        "report_date": "17/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V811000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020 Chevrolet Bolt EV and 2021 GMC Canyon and Sierra 1500, 2500 and 3500, Yukon, Yukon XL, Cadillac Escalade and Escalade ESV and Chevrolet Blazer, Camaro, Colorado, Equinox, Silverado 1500, 2500 and 3500, Suburban and Tahoe vehicles.  Incorrect bolts m",
+        "report_date": "23/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V060000",
+        "component": "LATCHES/LOCKS/LINKAGES:TAILGATE:LATCH",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2024 Chevrolet Silverado 2500, 3500, GMC Sierra 2500 and 3500 vehicles equipped with power-unlatching tailgates.  The tailgate's electronic gate-release switch may short circuit due to water intrusion, which can result in the tailgate inadvertently ",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V797000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2022 Chevrolet Silverado 1500, 2500, 3500, GMC Sierra 1500, 2500, 3500, 2021 Cadillac Escalade, Escalade ESV, Chevrolet Tahoe, Suburban, GMC Yukon, and Yukon XL vehicles equipped with diesel engines.  The transmission control valve may fail and caus",
+        "report_date": "24/10/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:07:30.589Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

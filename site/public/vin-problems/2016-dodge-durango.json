@@ -1,0 +1,148 @@
+{
+  "slug": "2016-dodge-durango",
+  "year": 2016,
+  "make": "Dodge",
+  "model": "Durango",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 160,
+    "top_failure_components": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 53,
+        "share_pct": 33.1,
+        "excerpts": [
+          "The Rear License Plate Light bulb (right) was out and I went to have the bulb replaced.  I was quoted over $1100 from the dealer, as the LED racetrack lighting was not properly sealed and is collectin",
+          "Rear racetrack led lighting is failing.  One segment has gone dark.  You can only replace the entire assembly for over &1500.  I found on line there is a class action lawsuit regarding exactly what I ",
+          "The contact owns a 2016 Dodge Durango. The contact stated that upon visual inspection, the contact became aware that the rear exterior lighting was not functioning properly. No warning lights were ill"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 40,
+        "share_pct": 25,
+        "excerpts": [
+          "We had an issue with an error message in the middle of driving that stopped the acceleration of the vehicle, this seems to be common, looking at forums online. The inspection request is acceptable.   ",
+          "The Rear License Plate Light bulb (right) was out and I went to have the bulb replaced.  I was quoted over $1100 from the dealer, as the LED racetrack lighting was not properly sealed and is collectin",
+          "Electrical issues involving specific fuses in the vehicle where the f13 fuse constantly fries and melts into the fuse box. Causing an electrical burning smell. No warning lights come on. Certain aspec"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 30,
+        "share_pct": 18.8,
+        "excerpts": [
+          "Driving in the left lane of an interstate highway at 75mph, in moderate traffic, in daylight hours, clear weather, with my young son. Sudden, unexpected decrease in engine rpm resulted in unannounced,",
+          "WHILE MOVING THE CAR LOSES POWER, SHIFT TO P THEN DESIRED GEAR AND COMES TO A STOP. NOT ABLE TO STEER.",
+          "The contact owns a 2016 Dodge Durango. The contact stated that his daughter was in the passenger seat when she activated the push start button and the vehicle rolled backward while in the park positio"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 16,
+        "share_pct": 10,
+        "excerpts": [
+          "Vehicle is going into park while driving, when it does that I have to come to a stop and restart the vehicle. I almost got into an accident and I’m scared for my life driving this. The dealership char",
+          "Oil leak from top of the engine, Vehicle has being well maintained barely has 61,000 miles, well taken care of, oil leak from top of the engine, theres more people having this issue,  possible cause: ",
+          "VEHICLE TURNS OFF WHILE DRIVING. THE IGNITION BUTTON GOES TO ACC. THE CLUSTER BOARD THEN SAYS TO PRESS BRAKE AND PUT VEHICLE IN PARK. THIS IS HAPPENING EVERY COUPLE TRIPS"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 9,
+        "share_pct": 5.6,
+        "excerpts": [
+          "5TH TIME EVENT HAS OCCURRED.  AFTER EXTENDED DRIVING WHEN PULLING INTO A PARKING  SPOT THE VEHICLE WILL COMMENCE TO ACCELERATE.  ONLY BY AGGRESSIVELY APPLYING THE  BRAKE TO PREVENT THE VEHICLE FROM PL",
+          "TL* THE CONTACT OWNS A 2016 DODGE DURANGO. WHILE DRIVING 70 MPH, THE VEHICLE BEGAN TO LOSE POWER AND THE SERVICE POWER STEERING, SERVICE ELECTRIC STABILITY, AND CONTROL SERVICE AIR BAG WARNING INDICAT",
+          "'TAKATA RECALL' PROBLEM WHEN SHIFTING, THE CHECK ENGINE LIGHT AND IT SAID THAT THERE IS A PROBLEM WITH THE SENSOR. IT ALWAYS HAPPEN WHENEVER IM RUNNING IN FREEWAY. IT'S LIKE SHIFTING AND WHENEVER I PU"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 23,
+      "fires": 1,
+      "injuries": 12,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 22
+      },
+      {
+        "year": 2017,
+        "count": 15
+      },
+      {
+        "year": 2018,
+        "count": 26
+      },
+      {
+        "year": 2019,
+        "count": 41
+      },
+      {
+        "year": 2020,
+        "count": 11
+      },
+      {
+        "year": 2021,
+        "count": 13
+      },
+      {
+        "year": 2022,
+        "count": 12
+      },
+      {
+        "year": 2023,
+        "count": 10
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V814000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2016 Dodge Durango and Jeep Grand Cherokee vehicles manufactured February 10, 2016, to April 28, 2016 and equipped with a 3.6L engine built at the Saltillo engine plant.  During the assembly of the engine, the fuel rail crossover tube may have be",
+        "report_date": "10/11/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V168000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2015-2016 Jeep Grand Cherokee and Dodge Durango vehicles manufactured December 9, 2015, to January 14, 2016.  In the affected vehicles, the left front brake caliper may crack due to being made from an incorrect material.",
+        "report_date": "23/03/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:52.222Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

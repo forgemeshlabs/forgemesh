@@ -1,0 +1,123 @@
+{
+  "slug": "2020-mazda-mazda3",
+  "year": 2020,
+  "make": "Mazda",
+  "model": "Mazda3",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 32,
+    "top_failure_components": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 15,
+        "share_pct": 46.9,
+        "excerpts": [
+          "While driving on a residential street the automatic emergency braking system activated and brought the car to a very abrupt stop but there was nothing in the front of the car to activate the system. T",
+          "My car's automatic emergency brake is deploying without warning, during driving, when there are no other cars in my forward proximity. I took it to the dealership to have it fixed, and on the drive ho",
+          "on 3 occasions may 2023, June 2023 and July 2023 the forward Collison camera activated.  in May and June it showed the vehicle to near stop like radar cruise control in rush hour speed traffic.  in Ju"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 3,
+        "share_pct": 9.4,
+        "excerpts": [
+          "TSB 02-003/24  Car front suspension bolts corroded and making metal on metal sounds during turning and braking",
+          "Lane departure warning activated and attempted to correct during a gentle curve. The location had shifted lanes due to construction, so clear lines were visible but not the actual lane to follow which",
+          "MY NEW 2020 MAZDA 3 PREMIUM WITH 1,177 MILES SUDDENLY TOOK COMPLETE CONTROL OF STEERING MY CAR. DRIVING 65-70 MPH ON A 3 LANE STRAIGHT HIGHWAY ON A CLEAR DAY, WITH LIGHT TRAFFIC, I MOVED ONE LANE TO M"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 3,
+        "share_pct": 9.4,
+        "excerpts": [
+          "Google search shows Mazda has common problem with their front sensing camera, people are reporting the issue for different Mazda models across the board for the last few years including newer models a",
+          "Automatic safety notification censoring system for the brakes engaged when a stop was not applicable or necessary causing the car to brake on its own in traffic. Luckily no one else was on the road.",
+          "EL VEHICULO TIENE PROBLEMAS DE ENCENDIDO, DESPUES DE ESTAR EN REPOSO DOS DIAS NO ENCIENDE SE TIENE QUE PASAR CORRIENTE, INCLUSIVE EN MANEJOS CORTOS AL VOLVER A ENCENDER EL VEHICULO PRESENTA EL MISMO P"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 3,
+        "share_pct": 9.4,
+        "excerpts": [
+          "My car's automatic emergency brake is deploying without warning, during driving, when there are no other cars in my forward proximity. I took it to the dealership to have it fixed, and on the drive ho",
+          "The contact owns a 2020 Mazda Mazda3. The contact stated while driving 35 MPH, the ABS warning light illuminated, and the brakes locked up and caused the vehicle to stall. The contact was able to rest",
+          "I WAS DRIVING MY VEHICLE STRAIGHT AHEAD ON A TWO-WAY CITY STREET WITH NO OTHER VEHICLES IN FRONT OR ON MY SIDES. I WAS TRAVELING AT A SPEED OF 40 MPH. THE TWO-WAY STREET IS SEPARATED BY A CONCRETE DIV"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 2,
+        "share_pct": 6.3,
+        "excerpts": [
+          "Low pressure fuel pump failure with 75,575 miles on odometer.  Fuel pump completely seized.  Car was parked at a retail location and would not start.  Upon troubleshooting, mechanic was able to determ",
+          "Fuel pump, car dying out, can't turn off brake release from when it dies. Shaking when accelerating. Fuel gas issue."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 0,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 7
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "19V907000",
+        "component": "FORWARD COLLISION AVOIDANCE: AUTOMATIC EMERGENCY BRAKING",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2019-2020 Mazda3 vehicles.  The Smart Brake System (SBS) can falsely detect an obstacle while driving, activating the automatic emergency braking system and suddenly stopping the vehicle.",
+        "report_date": "19/12/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V346000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2020 CX-30 and Mazda3 vehicles.  The front brake caliper mounting bolts may not have been tightened properly during assembly, possibly allowing the calipers to loosen.",
+        "report_date": "12/06/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:48.185Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

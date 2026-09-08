@@ -1,0 +1,252 @@
+{
+  "slug": "2011-subaru-impreza",
+  "year": 2011,
+  "make": "Subaru",
+  "model": "Impreza",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 57,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 17,
+        "share_pct": 29.8,
+        "excerpts": [
+          "TAKATA RECALL, BRAKE LAMP SWITCH FAILURE.     WE LIVE IN A SMALL ALASKAN BUSH TOWN CALLED DILLINGHAM THAT'S NOT ON THE ROAD SYSTEM. WE (MYSELF AND AROUND 30+ OTHER RESIDENTS) HAVE BEEN TRYING TO GET S",
+          "TAKATA RECALL: PER THE NOTIFICATION I RECEIVED IN THE MAIL, I ATTEMPTED TO MAKE AN APPOINTMENT AS SOON AS POSSIBLE TO HAVE THE NECESSARY WORK PERFORMED ON MY VEHICLE. THE DEALERSHIP WAS FARRISH SUBARU",
+          "WEARING MY SEAT BELT, I WAS DRIVING UP A HILL GOING 50 MPH AND REAR ENDED AN SUV IN FRONT OF ME AND SIDE SWIPED ANOTHER CAR ON THE DRIVERS SIDE. BOTH FRONT TIRES BUSTED, HOOD SMASHED IN, BOTH HEAD LIG"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 9,
+        "share_pct": 15.8,
+        "excerpts": [
+          "Smoke starting coming from around the ignition.",
+          "The contact owns a 2011 Subaru Impreza. The contact stated while driving at an undisclosed speed, the check engine warning light illuminated. The vehicle was not diagnosed or repaired. The VIN was not",
+          "Battery won’t hold a charge, randomly leaves driver stranded"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 6,
+        "share_pct": 10.5,
+        "excerpts": [
+          "National Highway Traffic Safety Admin March 9, 2026 I am submitted a vehicle safety complaint regarding a 2011 Subaru that I recently purchased on [XXX]. I purchased a used 2011 Subaru Impreza from Cl",
+          "2011 Subaru WRX STI would not start, the fuel pump connector power pin on the fuel pump melted also burned the connector. Gas now is entering the fuel pump connecter. This is a fire hazard.",
+          "THE GAS TANK IS SLOWLY LEAKING NEAR THE SEAM DUE TO  CORROSION FROM SALT AND MOISTURE BEING CAUGHT UP IN THERE FROM THE SAME PLASTIC GAS TANK COVER WITH HOLES IN IT THAT CAUSED THE BRAKE LINE CORROSIO"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 6,
+        "share_pct": 10.5,
+        "excerpts": [
+          "RECEIVED A RECALL REGARDING BRAKE LIGHT SWITCH BUT DEALERSHIP (SUBARU WAKEFIELD) HAS SAID THAT THEY DO NOT HAVE PARTS AND HAVE NO PLANS. I'VE ASKED FOR A REPLACEMENT VEHICLE UNTIL THIS SAFETY ISSUE CA",
+          "I HAD LEASED MY 2011 IMPREZA 2.5I PREMIUM THROUGH METRIC SUBARU IN 2011, I EXTENDED MY 36 MONTH LEASE ANOTHER 5 MONTHS IN JUNE 2014 THROUGH CHASE BANK, AND WAS NOW IN THE PROCESS OF BUYING THE CAR THR",
+          "CLUTCH PEDAL SQUEAKS WHILE BEING DEPRESSED.  CLUTCH PEDAL IS ATTACHED TO THE FIREWALL.  FIREWALL JOINT IS WEAK.  BRAKE PEDAL WILL SLIGHTLY SHIFT WHEN CLUTCH IS DEPRESSED.  THERE IS CURRENTLY ONLY MINO"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 6,
+        "share_pct": 10.5,
+        "excerpts": [
+          "RECENT 90K MILE SERVICE REVEALED THE NEED FOR TRANSMISSION LINE REPLACEMENT BECAUSE IT IS STARTING TO LEAK. WITH TWO PREVIOUS RECALLS ON 2011 SUBARU IMPREZA FOR BRAKE LINE CORROSION (WQK47 AND WQQ52),",
+          "2011 SUBARU IMPREZA.  CONSUMER WRITES IN REGARDS TO A FAULTY TRANSMISSION CLUTCH.  *SMD  THE CONSUMER NOTICED ON COLD STARTS AND ESPECIALLY IF IT WAS COLD AND/OR RAINY THE THROW OUT BEARING WOULD HAVE",
+          "2011 SUBARU IMPREZA WRX HATCH- MASTER CLUTCH CYLINDER FAILURE-PRESSED CLUTCH TO THE FLOOR AND PUT IN FIRST GEAR. CLUTCH DID NOT RETURN AND STAYED TO FLOOR. HYDRAULIC FLUID LEAKED OUT OF THE BOTTOM OF "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 2,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 6
+      },
+      {
+        "year": 2012,
+        "count": 3
+      },
+      {
+        "year": 2013,
+        "count": 7
+      },
+      {
+        "year": 2014,
+        "count": 8
+      },
+      {
+        "year": 2015,
+        "count": 5
+      },
+      {
+        "year": 2016,
+        "count": 9
+      },
+      {
+        "year": 2017,
+        "count": 5
+      },
+      {
+        "year": 2018,
+        "count": 2
+      },
+      {
+        "year": 2019,
+        "count": 4
+      },
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 1
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 14,
+    "recalls": [
+      {
+        "campaign_number": "19V149000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2014-2016 Forester, 2008-2016 Impreza sedans, 2012-2016 Impreza station wagons, 2008-2014 WRX sedans (including STI), and 2013-2017 Crosstrek vehicles.  Exposure to certain contaminants may cause the brake light switch to malfunction, preventing ",
+        "report_date": "28/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V007000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2010-2013 Forester, 2010-2014 Tribeca, WRX, Outback, Legacy, and 2010-2011 Impreza vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, Puerto Rico, Amer",
+        "report_date": "09/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V008000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2010-2014 Tribeca, WRX, Outback, and Legacy vehicles, 2010-2011 Impreza vehicles and 2010-2013 Forester vehicles sold, or ever registered, in the states of Arizona, Arkansas, Delaware, District of Columbia, Illinois, Indiana, Kansas, Kentucky, Ma",
+        "report_date": "09/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V009000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2010-2014 Tribeca, WRX, Legacy and Outback vehicles, 2010-2011 Impreza vehicles and 2010-2013 Forester vehicles sold, or ever registered, in the states of Alaska, Colorado, Connecticut, Idaho, Iowa, Maine, Massachusetts, Michigan, Minnesota, Mont",
+        "report_date": "09/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V003000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester, 2003-2006 Baja, 2004-2011 Impreza, 2004-2014 WRX (including STI), 2003-2014 Legacy and Outback, and 2005-2006 Saab 9-2X vehicles originally sold, or ever registered, in the states of Alaska, Colorado, Connecticut, Idaho, Iowa,",
+        "report_date": "02/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V001000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester, 2003-2006 Baja, 2004-2011 Impreza, 2004-2014 WRX (STI included), 2003-2014 Legacy and Outback, and 2005-2006 Saab 9-2X vehicles originally sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawai",
+        "report_date": "02/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V002000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester, 2003-2006 Baja, 2004-2011 Impreza, 2004-2014 WRX (including STI), 2003-2014 Legacy and Outback, and 2006 Saab 9-2X vehicles originally sold, or ever registered, in the states of Arizona, Arkansas, Delaware, District of Columbi",
+        "report_date": "02/01/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V297000",
+        "component": "ELECTRICAL SYSTEM:IGNITION:SWITCH",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Forester vehicles, 2008-2011 Impreza vehicles, 2008-2014 WRX vehicles, 2005-2014 Legacy vehicles, 2005-2014 Outback vehicles and 2006-2008 Tribeca vehicles equipped with a mechanical key ignition switch installed as a replacement part. ",
+        "report_date": "11/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V012000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2009-2013 Legacy, Forester, Tribeca, WRX and Outback vehicles, and 2009-2011 Impreza vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, Puerto Rico, Am",
+        "report_date": "09/01/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V014000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2005-2006 Subaru Baja, 2006-2011 Impreza (including WRX and STI models), 2006-2012 Tribeca, 2009-2012 Forester, Legacy, Outback, and 2012 WRX vehicles originally sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Ha",
+        "report_date": "10/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V738000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2007-2009 model year Legacy and Outback vehicles, 2008-2014 Impreza vehicles and 2009-2013 Forester vehicles, all equipped with turbo-charged engines.  The relay that controls the secondary air injection pump may fail, causing the pump",
+        "report_date": "13/10/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V311000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2005-2009 Outback and Legacy, 2008-2011 Impreza and 2008-2014 Impreza WRX/STI, and 2009-2013 Forester vehicles, currently, or formerly, registered in Connecticut, Delaware, Illinois, Indiana, Iowa, Maine, Maryland, Massachusetts, Michi",
+        "report_date": "10/06/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V830000",
+        "component": "SERVICE BRAKES, HYDRAULIC",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2008-2011 Impreza, 2008-2014 WRX and STI, and 2009-2013 Forester vehicles, currently, or formerly, registered in Connecticut, Delaware, Illinois, Indiana, Iowa, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshi",
+        "report_date": "31/12/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V358000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2003-2004 Legacy, Outback, 2009-2011 Legacy, Outback, Forester, 2006-2011 Impreza, Tribeca, 2003-2006 Baja, and 2006 Saab 9-2x vehicles originally sold or that have ever been registered in Alabama, California, Florida, Georgia, Hawaii,",
+        "report_date": "25/05/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:54:44.485Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

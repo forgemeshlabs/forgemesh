@@ -1,0 +1,208 @@
+{
+  "slug": "2010-toyota-sienna",
+  "year": 2010,
+  "make": "Toyota",
+  "model": "Sienna",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 172,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 57,
+        "share_pct": 33.1,
+        "excerpts": [
+          "THE DASHBOARD IS DEFECTIVE.  TOYOTA ACKNOWLEDGE THIS DEFECT, AND ISSUES A FREE REPLACEMENT.  HOWEVER, TOYOTA CLAIMS THE WARRANTY PERIOD HAS EXPIRED, AND WILL NOT REPLACE MY DASHBOARD.  DUE TO COVID 19",
+          "TL* THE CONTACT OWNS A 2010 TOYOTA SIENNA. THE CONTACT STATED THAT THE DRIVER'S AND PASSENGER'S SIDE DASHBOARD WAS STICKY AND MELTING. THE CONTACT STATED THAT WHILE DRIVING AT VARIOUS SPEEDS, HIS VIEW",
+          "DASHBOARD CRASH ITSELF AND STICKY. I ALWAYS USE WINDSHIELD SUN SHADE COVER. I ASKED LOCAL TOYOTA DEALER BUT IT IS NOT RECALL.  *TR"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 20,
+        "share_pct": 11.6,
+        "excerpts": [
+          "We recently had a full diagnostic check done on our vehicle (199 point at Parkway Automotive in Little Rock, Arkansas) that listed some components in need of repair. The only part involving the electr",
+          "TL* THE CONTACT OWNS A 2010 TOYOTA SIENNA. WHEN THE VEHICLE WAS STARTED, THE AIR BAG WARNING INDICATOR ILLUMINATED AND REMAINED ILLUMINATED. THE CONTACT ALSO STATED THAT THE HORN AND AIR BAG, ALONG WI",
+          "BOTH BACK SLIDING DOOR CABLES SNAPPED.  HAVE BEEN ADVISED THE MOTORS SIEZED CAUSING THE CABLES TO SNAP.  NEITHER DOOR WORKS.  DRIVER'S SIDE DOOR CAN ONLY OPEN 6 INCHES. THIS IS A SAFETY HAZARD IN EVEN"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 19,
+        "share_pct": 11,
+        "excerpts": [
+          "WHEN ENTERING A SLIGHT CURVE IN THE ROAD AT MODERATE IN TOWN SPEEDS THERE IS A CLICKING SOUND TO THE LEFT OF THE STEERING WHEEL IN THE DASH THEN THE TRACTION CONTROL SENSOR LIGHTT GOES ON. WHILE FREEW",
+          "TL* THE CONTACT OWNS A 2010 TOYOTA SIENNA. WHEN THE CRUISE CONTROL WAS ACTIVATED, IT WOULD DEACTIVATE INDEPENDENTLY. IN ADDITION, THE BUMPER SENSOR DETECTED OBJECTS THAT WERE NOT IN FRONT OF THE VEHIC",
+          "TL* THE CONTACT OWNS A 2010 TOYOTA SIENNA. THE CONTACT STATED THAT THE VEHICLE INDEPENDENTLY ACCELERATED AND CRASHED INTO ANOTHER VEHICLE. THE FAILURE OCCURRED TWO OTHER TIMES. THERE WERE NO INJURIES "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 17,
+        "share_pct": 9.9,
+        "excerpts": [
+          "Massive Oil Leak and Loss of Oil Pressure: Oil line burst while driving on the HWY coming back home from a work. Loss nearly all of the oil, but there were no warning lights.  Pulled over into gas sta",
+          "TL* THE CONTACT OWNS A 2010 TOYOTA SIENNA. THE CONTACT STATED THAT WHILE SLOWING DOWN, A LOUD BOOMING NOISE OCCURRED AND THE VEHICLE SUDDENLY LOSS AUTOMOTIVE POWER AND CAME TO A ROLLING STOP. UPON INS",
+          "TL* THE CONTACT OWNS A 2010 TOYOTA SIENNA. WHILE DRIVING AT AN UNKNOWN SPEED, THE VEHICLE BEGAN TO SHAKE AND THEN STALLED. ALL THE WARNING INDICATORS ILLUMINATED ON THE INSTRUMENT PANEL. THE VEHICLE W"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 11,
+        "share_pct": 6.4,
+        "excerpts": [
+          "The contact owns a 2010 Toyota Sienna. The contact stated while driving approximately 15-20 MPH, the vehicle stalled inadvertently. The check engine warning light, the traction control warning light, ",
+          "WHEN ENTERING A SLIGHT CURVE IN THE ROAD AT MODERATE IN TOWN SPEEDS THERE IS A CLICKING SOUND TO THE LEFT OF THE STEERING WHEEL IN THE DASH THEN THE TRACTION CONTROL SENSOR LIGHTT GOES ON. WHILE FREEW",
+          "THE INTERMEDIATE STEERING SHAFT STARTED MAKING A CLUNKING SOUND WHEN TURNING THE WHEEL AND DRIVING A LOW SPEEDS. ADDITIONALLY, THERE IS NOW PLAY IN THE STEERING WHEEL.  SO MUCH PLAY THAT DRIVING AT HI"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 15,
+      "fires": 2,
+      "injuries": 13,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 5
+      },
+      {
+        "year": 2010,
+        "count": 30
+      },
+      {
+        "year": 2011,
+        "count": 8
+      },
+      {
+        "year": 2012,
+        "count": 9
+      },
+      {
+        "year": 2013,
+        "count": 13
+      },
+      {
+        "year": 2014,
+        "count": 15
+      },
+      {
+        "year": 2015,
+        "count": 20
+      },
+      {
+        "year": 2016,
+        "count": 24
+      },
+      {
+        "year": 2017,
+        "count": 17
+      },
+      {
+        "year": 2018,
+        "count": 10
+      },
+      {
+        "year": 2019,
+        "count": 9
+      },
+      {
+        "year": 2020,
+        "count": 5
+      },
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "17V657000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2005-2007 and 2009-2010 Toyota Sienna vehicles.  In the affected vehicles, due to a problem within the shift lock assembly, the shift lever may be moved out of the 'Park' position without depressing the brake pedal.",
+        "report_date": "18/10/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V743000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2011 Prius and Corolla, 2009-2011 Venza, 2006-2010 Avalon, 2007-2010 FJ Cruiser, 2005-2011 Sienna and Sequoia, 2006-2011 Tacoma 4x2 and 4x4, Camry, Highlander, Tundra 4x2 and 4x4, and 2007-2011 Rav4 and 4Runner.  The affec",
+        "report_date": "19/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V396000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2005-2011 4Runner, Highlander, Sequoia, and Sienna, 2005-2010 Avalon and Tundra, 2006-2008 Camry Solara, 2006-2010 Highlander hybrid, 2006-2011 Rav4 and Tacoma, 2007-2010 FJ Cruiser, 2007-2011 Camry hybrid, 2009-2010 Venza, 2010-2012 Priu",
+        "report_date": "02/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V273000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2004-2011 Sienna vehicles originally sold in, or currently registered in, Connecticut, Delaware, Illinois, Indiana, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, New Hampshire, New Jersey, New York, Oh",
+        "report_date": "22/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V036000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2011 PASSENGER VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD WITHOUT THE REQUISITE LOAD CARRYING CAPACITY MODIFICATION LABELS.",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V035000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "GULF STATES TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2010 VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD BETWEEN SEPTEMBER 1, 2005 AND JUNE 2, 2008 WITHOUT THE REQUISITE LOAD CARRYING CAPA",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V160000",
+        "component": "STRUCTURE",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 1998 THROUGH 2010 SIENNA PASSENGER VEHICLES MANUFACTURED BETWEEN AUGUST 7, 1997 AND JANUARY 4, 2010, CURRENTLY REGISTERED IN OR ORIGINALLY SOLD IN CONNECTICUT, DELAWARE, ILLINOIS, INDIANA, KENTUCKY, MAINE, MARYLAND, MASSACHUSETTS, MICHIGAN, MINNESOTA,  NEW HAMP",
+        "report_date": "20/04/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:52:08.286Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

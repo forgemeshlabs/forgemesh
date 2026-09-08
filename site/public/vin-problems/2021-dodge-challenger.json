@@ -1,0 +1,119 @@
+{
+  "slug": "2021-dodge-challenger",
+  "year": 2021,
+  "make": "Dodge",
+  "model": "Challenger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 19,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 4,
+        "share_pct": 21.1,
+        "excerpts": [
+          "While operating my vehicle at road speed the electric steering rack failed. This rendered the steering inoperative. It was impossible to steer the vehicle. Not only is this situation extremely dangero",
+          "My seatbelt seemed a bit faulty when I purchased the car. It was slow to retract and at some points wouldn’t retract unless I played with the seatbelt. Three years in to owning the car it still won’t ",
+          "The cars light notifications on instrument cluster panel turned on all of them at the same time while accelerating jerking the car on freeway I have video of that happening and can provide it upon req"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 4,
+        "share_pct": 21.1,
+        "excerpts": [
+          "On [XXX] I was involved in car accident on [XXX]  around 4 o’clock in the afternoon. When the impact happened the airbags deployed and cut my wrist (left) and burned my left forearm.  INFORMATION REDA",
+          "The contact was driving a rental vehicle from Enterprise which was  a 2021 Dodge Challenger. The contact stated that while driving at an undisclosed speed, the contact stated there was debris in the h",
+          "Left frontal Collision between drivers side head assembly and center front of car- with white tail deer about 100-120 lbs. , causing extensive damage to car.  $19,000. Payout from progressive for thos"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 3,
+        "share_pct": 15.8,
+        "excerpts": [
+          "mileage 61113 . car moves forward 15 feet an goes into neutral .When pulling into traffic this is a serious safety problem . A major accident which could be loss of life might occur . Enterprise car s",
+          "I purchased this vehicle from Vroom, who is also my lender under United Auto Credit. The car was sold with a washed title and undisclosed prior structural and mechanical damage. I have documentation c",
+          "The transmission/drive shaft thumps and the car \"lurches\" upon start-up. This is somehow related to the push button start. My car is also equipped with a factory remote start and no noise is heard, no"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 3,
+        "share_pct": 15.8,
+        "excerpts": [
+          "The contact owns a 2021 Dodge SXT. The contact stated while the vehicle was at a standstill, it caught on fire without warning. The fire marshals extinguished the flames.  A report was filed. The vehi",
+          "speedometer is messed up and not working properly what should I do?",
+          "Challenger less than a week from the dealership and less than 1,000 miles.  Catastrophic fuel pump failure while driving, unable to recover.   Rear view back up camera freezes and stutters causing saf"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 2,
+        "share_pct": 10.5,
+        "excerpts": [
+          "While operating my vehicle at road speed the electric steering rack failed. This rendered the steering inoperative. It was impossible to steer the vehicle. Not only is this situation extremely dangero",
+          "The contact owns a 2021 Dodge Challenger. The contact stated that while driving approximately 30-35 MPH on a local roadway, the steering suddenly became inoperative, and the steering wheel locked with"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 1,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 6
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 1
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "21V664000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021 Dodge Challenger vehicles.  The affected vehicles do not illuminate their safety  system status indicators sufficiently in both daylight and nighttime driving conditions.  As such, these vehicles fail to comply with the requirements of Federal Motor V",
+        "report_date": "26/08/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V516000",
+        "component": "VISIBILITY:WINDSHIELD",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2021 Dodge Challenger, Dodge Charger, and Chrysler 300 vehicles.  During manufacturing, the windshield may not have been properly bonded to the vehicle, allowing it to detach in a crash.  As such, these vehicles fail to comply with the requirements of",
+        "report_date": "08/07/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:07:10.832Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

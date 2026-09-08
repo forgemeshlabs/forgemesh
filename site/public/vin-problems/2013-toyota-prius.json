@@ -1,0 +1,168 @@
+{
+  "slug": "2013-toyota-prius",
+  "year": 2013,
+  "make": "Toyota",
+  "model": "Prius",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 408,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 238,
+        "share_pct": 58.3,
+        "excerpts": [
+          "The break pump for my 2013 prius is going out and is a known issue with Toyota. I contacted toyota and they have stated because it is past the extended warranty they can not repair it and aren't liabl",
+          "I purchased a 2013 Toyota Prius from a reputable dealership in Omaha (O'Daniel Honda). 5 days after purchase the ABS, BRAKE, and Traction Control lights came on in the evening. When I took it to the d",
+          "Brake actuator failed"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 51,
+        "share_pct": 12.5,
+        "excerpts": [
+          "My vehicle has 105492 miles and ABS light, Trackion and Brake light went on. I could hear a buzzing sound from the brake actuator every 5 seconds. The brake actuator and master cylinder was failing. A",
+          "Year/Make/Model: 2013 Toyota Prius • Component: Brake Booster Assembly with Master Cylinder (Part #47070-47060) Description of the Defect: After approximately 30–40 minutes of driving, my dashboard il",
+          "My 2013 Toyota Prius with only 99,000 miles is experiencing a brake system failure. The brake warning light, ABS light, and traction control light all illuminate. The brake actuator pump runs every 10"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 37,
+        "share_pct": 9.1,
+        "excerpts": [
+          "Crack in the Engine.  I had been following the recommended Maintenance schedule, but I suddenly had issues where the engine would stall/stutter on activation (switching from electric to motor operatio",
+          "The hybrid braking systems on Toyota Prius' manufactured from 2010-2015 had a serious failure of the hybrid braking system that had additional long term warranties to repair, but never recalled in ord",
+          "Pulled out of the driveway drove about a 100 ft heard large clunking sound front end dropped down as if there was a flat tire pulled off the highway drove through the grass 100 ft back to my home the "
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 21,
+        "share_pct": 5.1,
+        "excerpts": [
+          "Entering the highway the car suddenly learched and stopped excelerating, creating an unsafe situation, and went into a slow mode. It limped along. Caused cars issue around having to slow merge and dri",
+          "Took vehicle for state inspection on 2/13/2024, failed inspection because of brake warning lights.   Slip indicator, Electronically controlled brake warning light, Brake warning light, Anti-lock brake",
+          "The 2013 pruis has developed the notorious brake booster  fault triggering the brake light abs light and traction control light to stay illuminated. Toyota has many complaints about this brake booster"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 18,
+        "share_pct": 4.4,
+        "excerpts": [
+          "The contact owns a 2013 Toyota Prius.  The contact stated while driving at an undisclosed speed, the contact's vehicle was involved in a head-on collision.  The air bags did not deploy.  The vehicle w",
+          "Traveling approximately 15mph I collided with a full size truck the front end of my car totaled. I was wearing my seat belt and air bags did not deploy causing me to hit the steering wheel with enough",
+          "Problem 1. Both curtain airbags on the passenger side deployed while no one was sitting in those seats, no injuries sustained to anyone. This happened one time as it happened in a car accident, nothin"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 38,
+      "fires": 3,
+      "injuries": 22,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 2
+      },
+      {
+        "year": 2013,
+        "count": 35
+      },
+      {
+        "year": 2014,
+        "count": 28
+      },
+      {
+        "year": 2015,
+        "count": 9
+      },
+      {
+        "year": 2016,
+        "count": 17
+      },
+      {
+        "year": 2017,
+        "count": 12
+      },
+      {
+        "year": 2018,
+        "count": 27
+      },
+      {
+        "year": 2019,
+        "count": 29
+      },
+      {
+        "year": 2020,
+        "count": 17
+      },
+      {
+        "year": 2021,
+        "count": 21
+      },
+      {
+        "year": 2022,
+        "count": 20
+      },
+      {
+        "year": 2023,
+        "count": 32
+      },
+      {
+        "year": 2024,
+        "count": 57
+      },
+      {
+        "year": 2025,
+        "count": 70
+      },
+      {
+        "year": 2026,
+        "count": 31
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "18V684000",
+        "component": "HYBRID PROPULSION SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2010-2014 Toyota Prius and 2012-2014 Toyota Prius V vehicles.  Excessive voltage in the Intelligent Power Module (IPM) within the inverter may cause the hybrid system to shut down, causing the vehicle to stall while being driven.",
+        "report_date": "04/10/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V053000",
+        "component": "HYBRID PROPULSION SYSTEM: INVERTER",
+        "summary": "Toyota is recalling certain model year 2010 through 2014 Prius vehicles.  In the affected vehicles, the Intelligent Power Module (IPM) inside the inverter module (a component of the hybrid system) contains transistors that may become damaged from high operating temperatures.  If this occurs, various",
+        "report_date": "12/02/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V369000",
+        "component": "HYBRID PROPULSION SYSTEM: INVERTER",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2013-2015 Prius and 2014-2017 Prius V vehicles not included in recall 18V-684.  Excessive voltage in the Intelligent Power Module (IPM) within the inverter may cause the hybrid system to shut down, causing the vehicle to stall wh",
+        "report_date": "24/06/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:15.146Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

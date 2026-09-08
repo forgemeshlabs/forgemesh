@@ -1,0 +1,132 @@
+{
+  "slug": "2022-chevrolet-suburban",
+  "year": 2022,
+  "make": "Chevrolet",
+  "model": "Suburban",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 119,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 60,
+        "share_pct": 50.4,
+        "excerpts": [
+          "This problem isn’t just the 6.2L engine. My 22 Suburban has the 5.3L and had engine failure on the freeway going 70 mph in April 2026. Loud noises and loss of power. Towed to dealership and was confir",
+          "The contact owns a 2022 Chevrolet Suburban. The contact received an unknown recall. The contact stated that the vehicle was taken to the dealer, and while parked at the dealer, it was determined that ",
+          "The engine seized as we were driving 65mph on the highway on a family trip. Had no warning sings or any dashboard lights come on. The vehicle just put itself in neutral and we coasted down the road un"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 30,
+        "share_pct": 25.2,
+        "excerpts": [
+          "Just for information purposes, I have been an ASE certified Master automotive technician for 30 years.  As I was accelerating onto the highway, my transmission downshifted hard, throwing everything fo",
+          "I own a 2022 Chevrolet Suburban with approximately 115,000 miles. While driving, the check engine light illuminated and the vehicle suddenly entered limp mode. The transmission lost normal operation, ",
+          "UNKNOWN TRANSMISSION ISSUES MENTIONED IN OTHER RECALLS FOR SAME PERIOD/MAKE MODEL AS LISTED YET MY VIN was not, as a mother 4 little ones I need my vehicle to perform as it was design to, the cost for"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 22,
+        "share_pct": 18.5,
+        "excerpts": [
+          "This problem isn’t just the 6.2L engine. My 22 Suburban has the 5.3L and had engine failure on the freeway going 70 mph in April 2026. Loud noises and loss of power. Towed to dealership and was confir",
+          "Operating vehicle normally until one day I heard a rattling noise from the engine compartment. Car had limited speed and i had to pull over to check what the issue was and the car wont start. No check",
+          "The telematics control module in this vehicle failed. A dealer diagnostic scan on 03/09/2026 at 67,839 miles documented the following active and history codes: U0198 Lost Communication with Telematics"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 12,
+        "share_pct": 10.1,
+        "excerpts": [
+          "This problem isn’t just the 6.2L engine. My 22 Suburban has the 5.3L and had engine failure on the freeway going 70 mph in April 2026. Loud noises and loss of power. Towed to dealership and was confir",
+          "Vehicle was recalled for loss of propulsion.Pico test was done ,changed oil.6,000 miles later engine locked up on freeway.Engine is in for replacement.2022 suburban 6.2 liter 66,000 miles",
+          "2/24/2026 Sitting at red light, very busy road, vehicle  cut off and said push to start. Vehicle would not start and would not shift out of park to push out of road. Very dangerous to be stranded in m"
+        ]
+      },
+      {
+        "component": "SEAT BELTS",
+        "complaints": 6,
+        "share_pct": 5,
+        "excerpts": [
+          "“Service safety restraint system” light came on. I feel this is a defect and a serious concern. I’ve seen where others are experiencing the same issue. I bought this vehicle specifically because I wan",
+          "Car says \"service safety restraint system\"  and airbag light comes on intermittently. Dealer won't cover under safety restraint warranty. They site TSB about a wire that GM made too short but are not ",
+          "The rear seatbelt in my 2022 Chevrolet Suburban RST became dangerously tight around my daughter's waist while she was lying down in the seat. The belt would not release despite multiple attempts. She "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 1,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 25
+      },
+      {
+        "year": 2025,
+        "count": 39
+      },
+      {
+        "year": 2026,
+        "count": 37
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "22V617000",
+        "component": "SEAT BELTS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (M) is recalling certain 2021-2022 Cadillac Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, GMC Yukon, and Yukon XL vehicles equipped with third-row seats.  The rivet that retains the buckle to the mounting bracket in the left or right side third-row seat belt buckle assembly ",
+        "report_date": "11/08/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V903000",
+        "component": "EXTERIOR LIGHTING:LIGHTING CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2023 Cadillac CT4 and CT5; 2021-2023 Buick Envision; and 2022-2023 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles.  The daytime running lights (DRLs) may not deactivate wh",
+        "report_date": "08/12/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V274000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "General Motors LLC (GM) is recalling certain 2021-2024 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles equipped with a 6.2L V8 gas engine.  The connecting rod and/or crankshaft engine components may have manufacturing d",
+        "report_date": "24/04/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V085000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2022 Chevrolet Tahoe, Chevrolet Suburban, GMC Yukon, GMC Yukon XL, Cadillac Escalade, and Cadillac Escalade ESV vehicles equipped with 10 Speed Transmission with ETRS (Electronic Transmission Range Select). The transmission control valve may fail and loc",
+        "report_date": "13/02/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:09:07.087Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

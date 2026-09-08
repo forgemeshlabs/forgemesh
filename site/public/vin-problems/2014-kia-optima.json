@@ -1,0 +1,204 @@
+{
+  "slug": "2014-kia-optima",
+  "year": 2014,
+  "make": "Kia",
+  "model": "Optima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 583,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 282,
+        "share_pct": 48.4,
+        "excerpts": [
+          "The component was the engine. The engine has since been replaced.  The safety of myself or others was not in immediate danger before the engine seized. Luckily my mechanics employee was test driving f",
+          "XXX engine seized while driving on freeway — lost power, no crank, dash lights work, coasted to shoulder — safety hazard. Towed to Nayo's Auto [XXX] then to Kearny Mesa Kia [XXX].  Dealer confirmed 6 ",
+          "While driving the engine seized In April 2026 on the interstate. The vehicle started to decelerate while cars where flying on the interstate. The problem has not been fixed. The issue has been inspect"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 94,
+        "share_pct": 16.1,
+        "excerpts": [
+          "Steering coupler issue. When turning the steering wheel. It is making a clunking noise even when in park and making it feel not smooth to turn the wheel either way. Very distracting and awkward when d",
+          "Steering violently shakes at 65 mph. Steering wheel makes a clunking noise when moving side to side.",
+          "Rattle in the steering column when turning and over bumps."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 60,
+        "share_pct": 10.3,
+        "excerpts": [
+          "I owe a lady made a complete stop in front of me and I hit her. I wasn’t traveling close behind her. Her car was not damaged at all, but my Kia was totaled from the front. They had to cut the car off ",
+          "On 7/13/26 around 0715 my son was driving our 2014 Kia optima when it caught fire and burned from the engine to the back of the car. Fire dept and law enforcement had to respond and the vehicle along ",
+          "Odometer Fraud. The contact purchased a 2014 Kia Optima. The contact stated that while attempting to register the vehicle, it was discovered that there was a mileage discrepancy. The vehicle was a pri"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 48,
+        "share_pct": 8.2,
+        "excerpts": [
+          "My cars paint is peeling uncontrollably due to delamination of the paint. The issue with the paint has been reported by others also.",
+          "[XXX] , [XXX]   [XXX]  [XXX]  Email: [XXX]  [XXX]  [XXX]   Date: October 5, 2025  Kia America, Inc. Consumer Affairs Department [XXX]   Subject: Request for Goodwill Repair – Defective Paint on 2014 K",
+          "Paint is peeling off in big chunks down to the metal. On the hood, trunk, and over the doors."
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 41,
+        "share_pct": 7,
+        "excerpts": [
+          "On 7/13/26 around 0715 my son was driving our 2014 Kia optima when it caught fire and burned from the engine to the back of the car. Fire dept and law enforcement had to respond and the vehicle along ",
+          "High pressure fuel  This put me at risk because my car could have caught on fire if that gas leaked in a certain spot under the hood.  Independent service center No warning signs. This is the second t",
+          "The car is available upon inspection, the car caught on fire after being driven for about 45 mins. Smoke started to come from under the car hood, fire starting dropping from underneath the vehicle and"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 20,
+      "fires": 42,
+      "injuries": 22,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2007,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 6
+      },
+      {
+        "year": 2014,
+        "count": 40
+      },
+      {
+        "year": 2015,
+        "count": 13
+      },
+      {
+        "year": 2016,
+        "count": 29
+      },
+      {
+        "year": 2017,
+        "count": 32
+      },
+      {
+        "year": 2018,
+        "count": 49
+      },
+      {
+        "year": 2019,
+        "count": 72
+      },
+      {
+        "year": 2020,
+        "count": 61
+      },
+      {
+        "year": 2021,
+        "count": 62
+      },
+      {
+        "year": 2022,
+        "count": 58
+      },
+      {
+        "year": 2023,
+        "count": 48
+      },
+      {
+        "year": 2024,
+        "count": 47
+      },
+      {
+        "year": 2025,
+        "count": 40
+      },
+      {
+        "year": 2026,
+        "count": 23
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "18V907000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2011-2017 Optima, 2012-2017 Sorento and 2011-2018 Sportage vehicles that previously received an engine replacement under recall number 17V-224, warranty, or the Knock Sensor Detection System (KSDS) Product Improvement Campaign.  The high pressure fuel pi",
+        "report_date": "19/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V100000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2013-2014 Optima vehicles equipped with 2.4L Gasoline Direct Injection (GDI) or 2.0L GDI Turbo engines.  The low pressure fuel hose may deteriorate and crack over time due to heat generated within the engine compartment.",
+        "report_date": "21/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V519000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2013-2015 Optima and 2014-2015 Sorento vehicles.  Brake fluid may leak inside the Hydraulic Electronic Control Unit (HECU), possibly resulting in an electrical short.",
+        "report_date": "27/08/2020",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "21V331000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2013-2015 Optima and 2014-2015 Sorento vehicles previously recalled under recall 20V-519.  Brake fluid may leak inside the Hydraulic Electronic Control Unit (HECU), possibly resulting in an electrical short.",
+        "report_date": "10/05/2021",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "17V224000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Kia Motor Company (Kia) is recalling certain 2011-2014 Optima, 2012-2014 Sorento and 2011-2013 Sportage vehicles.  Machining errors during the engine manufacturing process may cause premature bearing wear within the engine.",
+        "report_date": "31/03/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V093000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2013-2014 Optima vehicles that were previously repaired under NHTSA recall number 20V-100.  The low pressure fuel hose may be damaged, or missing heat-protective tape, which can result in a fuel leak.",
+        "report_date": "17/02/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V652000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2010-2019 Borrego, 2014-2016 Cadenza, 2010-2013 Forte, Forte Koup, Sportage, 2015-2018 K900, 2011-2015 Optima, 2011-2013 Optima Hybrid, Soul, 2012-2017 Rio, 2011-2014 Sorento, and 2010-2011 Rondo vehicles.  The Hydraulic Electronic Control Unit (HECU) may",
+        "report_date": "25/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:56.833Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

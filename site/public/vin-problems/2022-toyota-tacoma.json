@@ -1,0 +1,124 @@
+{
+  "slug": "2022-toyota-tacoma",
+  "year": 2022,
+  "make": "Toyota",
+  "model": "Tacoma",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 57,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 10,
+        "share_pct": 17.5,
+        "excerpts": [
+          "Coolant bypass duct leaking at just 52,000 miles.  Part is made of plastic and is a very common problem.",
+          "Transmission blew at 40200 miles under normal driving conditions going approximately 30/35 mph",
+          "G"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 8,
+        "share_pct": 14,
+        "excerpts": [
+          "The contact owns a 2022 Toyota Tacoma. The contact stated that while driving at an undisclosed speed, another vehicle failed to stop at a red light. Consequently, the other vehicle collided with the v",
+          "A txdot road work crew had traffic stopped on the highway. We were last in a row of traffic when a distracted, driver, traveling near full highway speed rear-ended us. The truck automatically connecte",
+          "The contact owns a 2022 Toyota Tacoma. The contact stated that while driving through an intersection at approximately 25 MPH; another vehicle who ran the red light T-boned the contact's vehicle on the"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 7,
+        "share_pct": 12.3,
+        "excerpts": [
+          "My 2022-Toyota Tacoma has a paint peeling issue that is known to Toyota. My particular model was manufactured in Mexico with a paint code of 040. I have paint peeling in my engine compartment and on s",
+          "Known manufacturing defect which results in paint flaking off and exposing bare metal to the body.  This will eventually result in corrosion and structurally compromise the safety of occupants inside ",
+          "The 2016-2022 White double cab Toyota Tacomas have a known paint flaking/peeling issue. On 2/1/2026 while drying my truck after its wash, on the driver’s rear door by the window rubber trim my paint w"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 7,
+        "share_pct": 12.3,
+        "excerpts": [
+          "G",
+          "The contact owns a 2022 Toyota Tacoma. The contact stated that while driving approximately 35 MPH and driving up a steep incline, there was an engine misfire and the vehicle almost stalled. The contac",
+          "I started up my Toyota Tacoma early morning on [XXX] and noticed the engine light came on after it warmed up in the cold climate of Northern Arizona. As such, this occurred at 36,303 miles. The fault "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 6,
+        "share_pct": 10.5,
+        "excerpts": [
+          "In March 2022 brake master cylinder failed and was replaced.  Today March 14, 2024 notified by dealer that brake master cylinder has gone out again.  Toyota certified dealer working with Toyota on fix",
+          "Brakes are soft and mushy feeling. Very long stopping distance. Brakes to one side or the other when you brake hard. Brakes locked up going down hill. Dealership aware and replacing brake booster.  Al",
+          "The contact owns a 2022 Toyota Tacoma. The contact stated that both the front driver's seat and front passenger’s seat were vibrating while depressing the brake pedal. The vehicle was taken to the dea"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 11,
+      "fires": 0,
+      "injuries": 10,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2022,
+        "count": 14
+      },
+      {
+        "year": 2023,
+        "count": 13
+      },
+      {
+        "year": 2024,
+        "count": 13
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 9
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "22V310000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Gulf States Toyota, Inc. (GST) is recalling certain 2022 4Runner, Tacoma, Highlander, and Highlander Hybrid vehicles.  The load carrying capacity modification labels may not be permanent and can fade, becoming illegible.  As such, these vehicles fail to comply with the requirements of Federal Motor ",
+        "report_date": "06/05/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V520000",
+        "component": "CHILD SEAT:VEHICLE LATCH ANCHOR",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022-2023 Tacoma vehicles.  One or more of the individual welds in the upper child seat anchors may be insufficient.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 22",
+        "report_date": "21/07/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V152000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY",
+        "summary": "Toyota Motor Engineering & Manufacturer (Toyota) is recalling certain 2022-2023 Tacoma vehicles.  The axle shaft sub-assembly may separate from the axle housing due to debris causing improperly secured fasteners.",
+        "report_date": "27/02/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:03.473Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

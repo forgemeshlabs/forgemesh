@@ -1,0 +1,156 @@
+{
+  "slug": "2018-toyota-4runner",
+  "year": 2018,
+  "make": "Toyota",
+  "model": "4Runner",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 58,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 11,
+        "share_pct": 19,
+        "excerpts": [
+          "this vehicle was purchased from Don Chalmers Ford in Rio Rancho on 1129, 2025, upon purchasing a 2018 Toyota foreigner Limited I traded in a 2020 Acura RDX with only 50,000 miles. The salesman seemed ",
+          "There was a clunking noise coming from the front end when steering.  Got worse over time. Also had a vibration in the front end at speeds above 45 mph.  Dealer recommended replacement of upper steerin",
+          "Vehicle steering shakes between 60-65 mph. After 4 different sets of tires in 3 weeks, multiple road force balances, tire rotations, an alignment, an alignment checks, brakes checked, a “visual inspec"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 7,
+        "share_pct": 12.1,
+        "excerpts": [
+          "The dealership Direct Motor, located in Manassas, Virginia, sold me this car in poor condition. On Sunday the 22nd, I picked up the car around 10 PM. They didn't show me any information about the car.",
+          "My vehicle was in a collision at 55 miles an hour. Hit 3 grown cows in the highway at nighttime. Totaled my vehicle in the airbags, never deployed period Turn off.",
+          "HUSBAND FELL ASLEEP AT THE WHEEL GOING 80MPH AND HIT A HUGE EXIT SIGN WHICH HIT THE ENTIRE FRONT BUMPER AS WELL AS THE  DRIVER SIDE PASSENGER DOOR AND NO AIRBAGS DEPLOYED."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 6,
+        "share_pct": 10.3,
+        "excerpts": [
+          "The dealership Direct Motor, located in Manassas, Virginia, sold me this car in poor condition. On Sunday the 22nd, I picked up the car around 10 PM. They didn't show me any information about the car.",
+          "this vehicle was purchased from Don Chalmers Ford in Rio Rancho on 1129, 2025, upon purchasing a 2018 Toyota foreigner Limited I traded in a 2020 Acura RDX with only 50,000 miles. The salesman seemed ",
+          "While attempting to stop vehicle for a traffic light brake pedal suddenly goes almost to the floor. This occurrence is random and unpredictable. No dash lights or messages come on indicating any probl"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 5,
+        "share_pct": 8.6,
+        "excerpts": [
+          "The dealership Direct Motor, located in Manassas, Virginia, sold me this car in poor condition. On Sunday the 22nd, I picked up the car around 10 PM. They didn't show me any information about the car.",
+          "Two transfer case seals failed at 64,000 miles. Caused excessive oil to leak out of transfer case and onto the exhaust. Safety was put as risk by potential full failure of transfer case which can caus",
+          "VEHICLE WAS BEING DRIVEN ON BELTWAY AND SUDDENLY LOST ALL POWER, BRAKING, AND STEERING CAPABILITIES.  EMERGENCY BRAKE WAS USED TO STOP VEHICLE.  VEHICLE WAS NOT ABLE TO BE RESTARTED.  PHONE ATTACHED V"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 5,
+        "share_pct": 8.6,
+        "excerpts": [
+          "The contact owns a 2018 Toyota 4Runner. The contact stated that the frame holding the radiator of the vehicle was severely rusted. The vehicle was taken to the dealer where it was diagnosed that the r",
+          "WE PURCHASED A NEW 2018 TOYOTA 4RUNNER WITH VIN [XXX] IN LATE 2017.  IN OCTOBER OF 2019 WE NOTICED THAT THE BUMPER KEPT SEPARATING FROM THE BODY OF THE VEHICLE. AT THAT TIME THE VEHICLE HAD 31K MILES.",
+          "HUSBAND FELL ASLEEP AT THE WHEEL GOING 80MPH AND HIT A HUGE EXIT SIGN WHICH HIT THE ENTIRE FRONT BUMPER AS WELL AS THE  DRIVER SIDE PASSENGER DOOR AND NO AIRBAGS DEPLOYED."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 1,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 11
+      },
+      {
+        "year": 2019,
+        "count": 11
+      },
+      {
+        "year": 2020,
+        "count": 12
+      },
+      {
+        "year": 2021,
+        "count": 7
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 7
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "18V753000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2017-2019 Toyota 4Runner vehicles that SET modified to be equipped with a TRD wheel package.  The Gross Vehicle Weight Rating (GVWR) on the certification label may be incorrect, possibly resulting in the vehicle being overloaded.  As such",
+        "report_date": "25/10/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V670000",
+        "component": "STEERING",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2018-2019 Toyota 4Runner vehicles.  During installation, certain steering and suspension components may not have been properly tightened.",
+        "report_date": "20/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V831000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2017-2018 Toyota 4Runner and Tundra, 2018 Toyota Highlander, RAV4 and Lexus GX460 and 2017 Toyota Sienna and Tacoma vehicles.  These vehicles may have incorrect load carrying capacity modification labels.  As such, these vehicles",
+        "report_date": "20/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V763000",
+        "component": "STRUCTURE:BODY:HOOD",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2015-2018 Toyota 4Runner vehicles equipped with an accessory Billet Grille Overlay installed by SET or provided by SET and installed by SET dealers.  The U-nut that secures the overlay grille may fracture, allowing the Billet Grille Overl",
+        "report_date": "29/11/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, 2019-2020 Tundra, 20",
+        "report_date": "04/11/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:45.353Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,273 @@
+{
+  "slug": "2009-chevrolet-silverado",
+  "year": 2009,
+  "make": "Chevrolet",
+  "model": "Silverado",
+  "matched_as": {
+    "complaints": [
+      "SILVERADO 3500",
+      "SILVERADO 2500",
+      "SILVERADO 1500",
+      "SILVERADO 1500 HYBRID"
+    ],
+    "recalls": [
+      "SILVERADO 3500",
+      "SILVERADO 2500",
+      "SILVERADO 1500"
+    ]
+  },
+  "failures": {
+    "total_complaints": 1263,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 551,
+        "share_pct": 43.6,
+        "excerpts": [
+          "The contact owned a 2009 Chevrolet SIlverado. The contact stated that while driving at 50 MPH, the contact drifted off the highway which caused his vehicle to flip over three times and land right side",
+          "Takata Recall. The contact owns a 2009 Chevrolet Silverado 1500. The contact stated that the air bag warning light was illuminated. The vehicle was taken to the local dealer for NHTSA campaign number ",
+          "Takata recall. The contact owns a 2009 Chevrolet Silverado 3500. The contact received a recall notice for NHTSA Campaign Number 21V050000 (Air Bags) however, upon contacting the dealer, he was informe"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 170,
+        "share_pct": 13.5,
+        "excerpts": [
+          "THE DASHBOARD IS CRACKED ABOVE THE AIRBAG AND ABOVE THE RADIO. THE VEHICLE HAS LESS THAN 60,000 MILES AND ACCORDING TO CHEVROLET IS OUT OF WARRANTY. THIS IS A SAFETY ISSUE DUE TO THE FACT THAT IF I AM",
+          "TL* THE CONTACT OWNS A 2009 CHEVROLET SILVERADO. THE CONTACT STATED THAT THE DASHBOARD ABOVE THE PASSENGER SIDE AIR BAG WAS CRACKED. THE VEHICLE WAS TAKEN TO THE DEALER WHERE IT WAS DIAGNOSED THAT THE",
+          "TL* THE CONTACT OWNS A 2009 CHEVROLET SILVERADO. THE CONTACT STATED THAT THE PASSENGER SIDE DASHBOARD CRACKED WHERE THE AIR BAG WAS LOCATED. THE VEHICLE WAS TAKEN TO A DEALER. THE TECHNICIAN DIAGNOSED"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 164,
+        "share_pct": 13,
+        "excerpts": [
+          "The contact owns a 2009 Chevrolet Silverado 2500. The contact stated while driving 30 mph, when an unknown warning light was illuminated. The contact called an independent mechanic who informed the wi",
+          "TL* THE CONTACT OWNS A 2009 CHEVROLET SILVERADO. THE CONTACT STATED THAT WHILE DRIVING AT 65 MPH, THE DOOR AJAR WARNING CHIMED BEFORE THE POWER DOORS LOCKED AND UNLOCKED INDEPENDENTLY, THE GAUGES FLUC",
+          "WIFE DROVE TRUCK TO THE STORE IT WAS RAINING HARD THIS DAY. CAME OUT AND TRUCK WAS DEAD. JUMPED THE TRUCK AND TOOK IT HOME.LOOKED AT THE BATTERY. STILL HAD FACTORY BATTERY. REPLACED THE BATTERY. NEXT "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 100,
+        "share_pct": 7.9,
+        "excerpts": [
+          "WHILE DRIVING THE VEHICLE, THE ENGINE SUFFERED COMPLETE FAILURE DUE TO A SHEARED CAMSHAFT PIN.  THIS RESULTED IN LOSS OF CONTROL OF THE VEHICLE SINCE IT WOULD NOT RESTART.  I NARROWLY MISSED HAVING AN",
+          "WHILE DRIVING MY 2009 SILVERADO AT 33,000 MILES I NOTICED THE CHECK ENGINE LIGHT WENT ON AND IT WAS RUNNING ROUGH. AFTER TAKING TO THE DEALERSHIP IT WAS DETERMINED THE #7 CYLINDER WAS NOT WORKING. ACC",
+          "THE FIRST INCIDENT OCCURRED WHILE DRIVING THE VEHICLE ON THE HIGHWAY. THE ENGINE LIGHT CAME ON AND THE DASH READOUT GAVE A LOW OIL PRESSURE WARNING. THE TRUCK WAS TOWED TO THE DEALER. THEY SAID IT WAS"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 68,
+        "share_pct": 5.4,
+        "excerpts": [
+          "I HAVE A 2009 CHEVY PICKUP AND EVERY TIME YOU PUT THE BRAKES ON THE TAILLIGHTS COME ON BUT THEY WONT GO OFF WHEN YOU TAKE YOUR FOOT OFF THE PEDEL.NOW I'V CHANGED OUT THE SWITCH UNDER THE DASH 3 TIMES ",
+          "THE BRAKE SYSTEM WENT OUT. THE DEALER REFUSED TO REPAIR UNDER WARRANTY, BECAUSE IT IS OUT OF WARRANTY. THIS IS THE SECOND 2009 WITH BRAKE PROBLEMS. ....UPDATED 04/02/15 *BF",
+          "EXTREME CHATTERING OF THE REAR BRAKES UPON APPLICATION WAS OBSERVED BY THE OWNER/DRIVER, INCLUDING LOCK-UP OF THE REAR WHEELS (EVEN THOUGH ABS EQUIPPED).  THE VEHICLE WAS TAKEN TO THE AUTONATION CHEVR"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 45,
+      "fires": 28,
+      "injuries": 31,
+      "deaths": 4
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2003,
+        "count": 2
+      },
+      {
+        "year": 2009,
+        "count": 51
+      },
+      {
+        "year": 2010,
+        "count": 70
+      },
+      {
+        "year": 2011,
+        "count": 39
+      },
+      {
+        "year": 2012,
+        "count": 60
+      },
+      {
+        "year": 2013,
+        "count": 87
+      },
+      {
+        "year": 2014,
+        "count": 116
+      },
+      {
+        "year": 2015,
+        "count": 116
+      },
+      {
+        "year": 2016,
+        "count": 293
+      },
+      {
+        "year": 2017,
+        "count": 125
+      },
+      {
+        "year": 2018,
+        "count": 70
+      },
+      {
+        "year": 2019,
+        "count": 46
+      },
+      {
+        "year": 2020,
+        "count": 41
+      },
+      {
+        "year": 2021,
+        "count": 72
+      },
+      {
+        "year": 2022,
+        "count": 26
+      },
+      {
+        "year": 2023,
+        "count": 22
+      },
+      {
+        "year": 2024,
+        "count": 19
+      },
+      {
+        "year": 2025,
+        "count": 8
+      }
+    ]
+  },
+  "recalls": {
+    "count": 14,
+    "recalls": [
+      {
+        "campaign_number": "21V053000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2013 Cadillac Escalade, Escalade ESV, and Escalade EXT, Chevrolet Avalanche, Silverado 1500, Silverado 2500/3500, Suburban, Tahoe, GMC Sierra 1500, Sierra 2500/3500, Yukon, and Yukon XL vehicles originally sold, or ever registered, in the states of Alaba",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V052000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2009 Cadillac Escalade, Escalade ESV, Escalade EXT, Chevrolet Avalanche, Silverado 1500, Silverado 2500, Silverado 3500, Suburban, Tahoe, GMC Sierra 1500, Sierra 2500, Sierra 3500, Yukon, and Yukon XL vehicles originally sold, or ever registered, in the ",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V050000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2007-2011 Cadillac Escalade, Escalade ESV, Escalade EXT, Chevrolet Avalanche, Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, Yukon XL, and 2009-2011 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500 and Sierra 3500 vehicles originally s",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V267000",
+        "component": "EQUIPMENT",
+        "summary": "General Motors LLC (GM) is recalling certain 2009-2014 Chevrolet Silverado HD and GMC Sierra HD, 2009 GMC Topkick 5000, 6000, 7000 and 8000 Series and Isuzu F Series, and 2009-2018 Chevrolet Express, and GMC Savana vehicles, equipped with certain Plastic-Handle Fire Extinguishers or Push Button 'Pin",
+        "report_date": "26/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V407000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2007-2011 Chevrolet Silverado HD 2500/3500 trucks manufactured January 18, 2007, to June 22, 2011, and GMC Sierra HD 2500/3500 trucks manufactured January 22, 2007, to June 21, 2011, and equipped with an auxiliary battery.  Owners may unknowing",
+        "report_date": "02/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V240000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "GM IS RECALLING CERTAIN MODEL YEAR 2006-2009 BUICK, LUCERNE; CADILLAC DTS; HUMMER H2; MODEL YEAR 2008-2009 BUICK ENCLAVE; CADILLAC CTS; MODEL YEAR 2007-2009 CADILLAC ESCALADE, ESCALADE ESV, ESCALADE EXT; CHEVROLET AVALANCHE, SILVERADO, SUBURBAN, TAHOE; GMC ACADIA, SIERRA, YUKON, YUKON XL; SATURN OUT",
+        "report_date": "04/06/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V053000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2013 Cadillac Escalade, Escalade ESV, and Escalade EXT, Chevrolet Avalanche, Silverado 1500, Silverado 2500/3500, Suburban, Tahoe, GMC Sierra 1500, Sierra 2500/3500, Yukon, and Yukon XL vehicles originally sold, or ever registered, in the states of Alaba",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V050000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2007-2011 Cadillac Escalade, Escalade ESV, Escalade EXT, Chevrolet Avalanche, Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, Yukon XL, and 2009-2011 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500 and Sierra 3500 vehicles originally s",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V052000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2009 Cadillac Escalade, Escalade ESV, Escalade EXT, Chevrolet Avalanche, Silverado 1500, Silverado 2500, Silverado 3500, Suburban, Tahoe, GMC Sierra 1500, Sierra 2500, Sierra 3500, Yukon, and Yukon XL vehicles originally sold, or ever registered, in the ",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V267000",
+        "component": "EQUIPMENT",
+        "summary": "General Motors LLC (GM) is recalling certain 2009-2014 Chevrolet Silverado HD and GMC Sierra HD, 2009 GMC Topkick 5000, 6000, 7000 and 8000 Series and Isuzu F Series, and 2009-2018 Chevrolet Express, and GMC Savana vehicles, equipped with certain Plastic-Handle Fire Extinguishers or Push Button 'Pin",
+        "report_date": "26/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V407000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2007-2011 Chevrolet Silverado HD 2500/3500 trucks manufactured January 18, 2007, to June 22, 2011, and GMC Sierra HD 2500/3500 trucks manufactured January 22, 2007, to June 21, 2011, and equipped with an auxiliary battery.  Owners may unknowing",
+        "report_date": "02/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V052000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2009 Cadillac Escalade, Escalade ESV, Escalade EXT, Chevrolet Avalanche, Silverado 1500, Silverado 2500, Silverado 3500, Suburban, Tahoe, GMC Sierra 1500, Sierra 2500, Sierra 3500, Yukon, and Yukon XL vehicles originally sold, or ever registered, in the ",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V050000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2007-2011 Cadillac Escalade, Escalade ESV, Escalade EXT, Chevrolet Avalanche, Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, Yukon XL, and 2009-2011 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500 and Sierra 3500 vehicles originally s",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V053000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2013 Cadillac Escalade, Escalade ESV, and Escalade EXT, Chevrolet Avalanche, Silverado 1500, Silverado 2500/3500, Suburban, Tahoe, GMC Sierra 1500, Sierra 2500/3500, Yukon, and Yukon XL vehicles originally sold, or ever registered, in the states of Alaba",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:48:45.806Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

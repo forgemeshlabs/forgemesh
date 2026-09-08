@@ -1,0 +1,256 @@
+{
+  "slug": "2010-honda-accord",
+  "year": 2010,
+  "make": "Honda",
+  "model": "Accord",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 580,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 134,
+        "share_pct": 23.1,
+        "excerpts": [
+          "This August will make two years since my airbags deployed. When closing the passenger door, all of the airbags deployed(with the exception of the dashboard). This normal amount of force caused this to",
+          "On [XXX] at 01:55 PM MT, I was stopped at a red traffic signal at [XXX]   While waiting for the light to turn green to take left, a vehicle insured by GEICO, driven by [XXX] ,  hit my vehicle from lit",
+          "My air bag light went on for unknown reason."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 129,
+        "share_pct": 22.2,
+        "excerpts": [
+          "Electronic Throttle Actuator, Gas Pedal Assembly Failed. As i accelerated the gas pedal failed in the position against the firewall  and could not be pulled up.  The vehicle increased speed on its own",
+          "I bought my car in march of 2023 3 months later my ball joint  broke & knocked out my axle which caused damage to my car my warranties didn’t cover the damage to my car nor the axle or ball  I had to ",
+          "ABS System suddenly failed. Cost of repair exceeds $3,000, largely due to huge cost of the part itself which can only be purchased from Honda."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 116,
+        "share_pct": 20,
+        "excerpts": [
+          "I own a 2010 Honda Accord. While driving at various speeds, the vehicle jerks, and fails to accelerate as intended while depressing the accelerator pedal on the hwy. The check engine warning light VSA",
+          "When driving at a normal speed, like 55mph, I’ll still be pushing on the gas pedal and it will drop down to 15mph on its own, then stall. It’s happened several times. I was sitting at a traffic light,",
+          "1. What component or system failed or malfunctioned, and is it available for inspection upon request? The engine piston rings failed or malfunctioned. These parts were previously replaced under a Hond"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 63,
+        "share_pct": 10.9,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2010 HONDA ACCORD. WHILE DRIVING APPROXIMATELY 30 MPH, THE CONTACT SPED UP TO AVOID A CRASH AND THE ACCELERATOR PEDAL BECAME STUCK AND THE BRAKE PEDAL EXTENDED TO THE FLOOR. THE",
+          "STEERING WHEEL AND FRONT END SHAKES WHEN DRIVING OVER 60MPH.  ISSUE STARTED WHEN CAR HAD A FEW HUNDRED MILES ON IT.  DEALERSHIP REPLACED TIRES, BALANCED TIRES MANY TIMES, PERFORMED ALIGNMENT, REPLACED",
+          "2010 HONDA ACCORD.  CONSUMER WRITES IN REGARDS TO WHEEL VIBRATION ISSUES.  *SMD  THE CONSUMER STATED HER HUSBAND NOTICED A STRONG WHEEL VIBRATION WHILE DRIVING ON THE FREEWAY. WHEN HER HUSBAND APPLIED"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 45,
+        "share_pct": 7.8,
+        "excerpts": [
+          "I am submitting this complaint regarding two separate front drive shaft/axle failures involving my 2010 Honda Accord while living and driving in [XXX], a state specifically identified by American Hond",
+          "See attached document for complaint.",
+          "See attached document for complaint."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 37,
+      "fires": 6,
+      "injuries": 45,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 5
+      },
+      {
+        "year": 2010,
+        "count": 72
+      },
+      {
+        "year": 2011,
+        "count": 66
+      },
+      {
+        "year": 2012,
+        "count": 41
+      },
+      {
+        "year": 2013,
+        "count": 35
+      },
+      {
+        "year": 2014,
+        "count": 45
+      },
+      {
+        "year": 2015,
+        "count": 42
+      },
+      {
+        "year": 2016,
+        "count": 97
+      },
+      {
+        "year": 2017,
+        "count": 57
+      },
+      {
+        "year": 2018,
+        "count": 35
+      },
+      {
+        "year": 2019,
+        "count": 24
+      },
+      {
+        "year": 2020,
+        "count": 11
+      },
+      {
+        "year": 2021,
+        "count": 11
+      },
+      {
+        "year": 2022,
+        "count": 17
+      },
+      {
+        "year": 2023,
+        "count": 7
+      },
+      {
+        "year": 2024,
+        "count": 10
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 13,
+    "recalls": [
+      {
+        "campaign_number": "18V661000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2014 Honda Insight and Acura TSX and TSX Wagon, 2014-2015 Honda Crosstour and Pilot vehicles nationwide, as well as certain 2014 Honda FCX Clarity and Fit EV vehicles in Florida, Hawaii, Puerto Rico, Texas, Alabama, Georgia, Louisiana, Mississipp",
+        "report_date": "27/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V268000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2003-2012 Honda Accord and Pilot, 2010 Accord Crosstour, 2001-2011 Civic, 2002-2011 CR-V, 2003-2004, 2006-2008 and 2011 Element, 2007 and 2009-2013 Fit, 2010-2012 Insight, 2002-2004 Odyssey, and 2012 Ridgeline vehicles.  The front passenger air b",
+        "report_date": "26/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V502000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2014 TSX Sport Wagon, 2010-2013 ZDX, 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic and Civic Hybrid, 2008-2010 Civic GX NGV, 2012-2015 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2014 Fit EV, 2010-201",
+        "report_date": "27/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V378000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2013 TSX Sport Wagon, and 2010-2012 ZDX and 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic, Civic Hybrid and Civic NGV, 2012-2014 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2010-2013 Insight, and 2009",
+        "report_date": "16/05/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V545000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2008-2012 Accord, 2010-2012 Accord Crosstour, 2006-2011 Civic, 2007-2011 CR-V, 2009-2012 Fit and Pilot, 2010-2012 Insight, and 2009-2012 Acura TSX vehicles that received replacement passenger frontal air bag inflators.  One dealership may have in",
+        "report_date": "31/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V030000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2012 Acura TSX, 2011-2012 Acura TSX Wagon, 2010-2012 Acura ZDX, 2008-2012 Honda Accord, 2010-2012 Honda Accord Crosstour and Honda Insight, 2009-2012 Honda Fit, 2009-2012 Pilot, 2007-2011 Honda CR-V, 2012 Honda FCX Clarity and 2006-2011 Hond",
+        "report_date": "10/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V042000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2010-2013 Acura TSX, ZDX, Honda Accord Crosstour, Fit, Insight and Pilot vehicles, 2011-13 Acura TSX Sportswagon, 2010-2012 Honda Accord,, 2010-2011 Honda Civic, Civic NGV, Civic Hybrid and CR-V vehicles and 2013 Honda FCX Clarity and Fit EV vehi",
+        "report_date": "09/01/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V056000",
+        "component": "AIR BAGS",
+        "summary": "American Honda Motor Company, Inc. (Honda) is recalling certain model year 2008-2010 Accord vehicles.  In the affected vehicles, the air bag control units may corrode and fail.",
+        "report_date": "02/02/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V346000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2009-2011 Acura TSX, 2011 TSX Wagon, 2010-2011 Acura ZDX, 2008-2011 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic, Civic Hybrid, and Civic GX, 2007-2011 CR-V, 2010-2011 FCX Clarity and Insight, and 2009-2011 Fit, and Pilot ",
+        "report_date": "24/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V395000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "HONDA IS RECALLING CERTAIN MODEL YEAR 2005-2010 ACCORD, 2007-2010 CR-V, AND 2005-2008 ELEMENT PASSENGER CARS MANUFACTURED FROM JULY 1, 2004, THROUGH SEPTEMBER 3, 2010.  THE OUTER RACE OF THE SECONDARY SHAFT BEARING MAY BE BROKEN DURING CERTAIN DRIVING STYLES.  A BROKEN OUTER RACE MAY CAUSE ABNORMAL ",
+        "report_date": "04/08/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V004000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "HONDA IS RECALLING CERTAIN MODEL YEAR 2010 HONDA ACCORD AND CR-V VEHICLES.  THERE IS A POTENTIAL FAILURE WITH THE ENGINE WIRING HARNESS CONNECTOR WHICH MAY CAUSE INTERMITTENT SPARK FIRING OR THE ENGINE TO STALL.",
+        "report_date": "06/01/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V640000",
+        "component": "SUSPENSION",
+        "summary": "HONDA IS RECALLING CERTAIN MODEL YEAR 2010-2011 HONDA ACCORD V6 AND MODEL YEAR 2011 HONDA PILOT VEHICLES.  THE BOLTS THAT ATTACH THE LOWER LEFT AND RIGHT FRONT DAMPER BRACKET TO THE FRONT SUSPENSION AND THE SPINDLE NUTS ON THE PILOT MAY NOT HAVE BEEN PROPERLY TIGHTENED WHICH MAY RESULT IN LOSS OF ST",
+        "report_date": "16/12/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09E063000",
+        "component": "EQUIPMENT",
+        "summary": "HONDA IS RECALLING AFTERMARKET FULL NOSE MASKS, PART NUMBER 08P35-TA0-100 AND 08P35-TA6-100 MANUFACTURED BETWEEN AUGUST 9, 2007 THROUGH DECEMBER 11, 2007.  THE ACCESSORY WAS DESIGNED SPECIFICALLY FOR MODEL YEAR 2008-2010 HONDA ACCORD 4-DOOR VEHICLES.  IT IS POSSIBLE FOR THE NOSE MASK MATERIAL TO INT",
+        "report_date": "18/11/2009",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:50:32.165Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

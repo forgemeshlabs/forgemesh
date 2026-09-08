@@ -1,0 +1,236 @@
+{
+  "slug": "2011-jeep-wrangler",
+  "year": 2011,
+  "make": "Jeep",
+  "model": "Wrangler",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 485,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 145,
+        "share_pct": 29.9,
+        "excerpts": [
+          "The contact owns a 2011 Jeep Wrangler. The contact stated that while driving at 35 MPH, the air bag warning light illuminated. The vehicle was taken to an independent mechanic, where it was diagnosed ",
+          "Airbag deployed, vehicle collision did not occur",
+          "When braking since these lights are on it will cause issue with the brakes themselves as if they don’t want to brake fully. Now I’m a 32 year old man and am aware of making sure your brakes are good a"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 88,
+        "share_pct": 18.1,
+        "excerpts": [
+          "(1) Since October, I have had airbag failure in my Wrangler Rubicon. The failure is the 2nd time for the same defective parts. Jeep has failed to repair/replace the parts. I've been waiting for two mo",
+          "The check-valve nipple on the gas tank of my 2011 Jeep Wrangler is broken. You can see it and smell the gas vapors leaking from this nipple. The vehicle has 86K miles. The Jeep failed our Delaware sta",
+          "Jeep wranglers have a common problem with the fuel inlet.  It clogs over time then will cause fuel to spill over or click off constantly while fueling the vehicle.  This gets worse in cold months.  I "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 83,
+        "share_pct": 17.1,
+        "excerpts": [
+          "Jeep just quit while driving.  Towed to dealership….dealership told us it was the TIPM and they couldn’t get another one for at least a year.  No other options given.  Had to tow the vehicle to my hou",
+          "I have had my transmission in my jeep Wrangler fixed five times it is still barely working. As well as I am having an extremely bad death wobble when I drive, which is very unsafe for me and my son wh",
+          "When braking since these lights are on it will cause issue with the brakes themselves as if they don’t want to brake fully. Now I’m a 32 year old man and am aware of making sure your brakes are good a"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 58,
+        "share_pct": 12,
+        "excerpts": [
+          "Airbag deployed, vehicle collision did not occur",
+          "My jeep wrangler Abs module has failed and needs to be replaced. But Jeep decided not to  make this part anymore and now me and a LOT of others can’t get a new abs Module. My jeep is way too dangerous",
+          "I have had my transmission in my jeep Wrangler fixed five times it is still barely working. As well as I am having an extremely bad death wobble when I drive, which is very unsafe for me and my son wh"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 40,
+        "share_pct": 8.2,
+        "excerpts": [
+          "1. Battery, then alternator, now powertrain control module. 2. Yes, could have been stuck on one of the busiest roads in town.  3. Driving home from work and noticed my radio went off and the noticed ",
+          "I have been experiencing the \"death Wobble\" for many years, and have gone to various shops to find out the problem but have not been able to fix the \"death wobble\".  The entire car shakes and vibrates",
+          "THE AXEL ASSEMBLY.  JEEP HAS EXTREMELY LOW MILES AND I HAVE NOTHING BUT ISSUES WITH THE AXELS AT THE FRONT OF MY JEEP"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 13,
+      "fires": 20,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 7
+      },
+      {
+        "year": 2011,
+        "count": 44
+      },
+      {
+        "year": 2012,
+        "count": 31
+      },
+      {
+        "year": 2013,
+        "count": 35
+      },
+      {
+        "year": 2014,
+        "count": 44
+      },
+      {
+        "year": 2015,
+        "count": 62
+      },
+      {
+        "year": 2016,
+        "count": 73
+      },
+      {
+        "year": 2017,
+        "count": 37
+      },
+      {
+        "year": 2018,
+        "count": 34
+      },
+      {
+        "year": 2019,
+        "count": 39
+      },
+      {
+        "year": 2020,
+        "count": 17
+      },
+      {
+        "year": 2021,
+        "count": 13
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 17
+      },
+      {
+        "year": 2024,
+        "count": 11
+      },
+      {
+        "year": 2025,
+        "count": 9
+      },
+      {
+        "year": 2026,
+        "count": 8
+      }
+    ]
+  },
+  "recalls": {
+    "count": 11,
+    "recalls": [
+      {
+        "campaign_number": "19V018000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2010 Dodge Ram 3500, Ram 4500/5500, 2010-2011 Dodge Dakota, 2010-2014 Dodge Challenger, 2010-2015 Dodge Challenger, Chrysler 300, and 2010-2016 Jeep Wrangler vehicles.  Upon deployment of the driver's frontal air bag, excessive internal pressure may cause t",
+        "report_date": "15/01/2019",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V680000",
+        "component": "SEAT BELTS:FRONT:ANCHORAGE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2018 Jeep Wrangler right hand drive vehicles.  The driver's seat belt buckle mounting strap may fracture and separate from the seat frame.",
+        "report_date": "26/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V021000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2009-2013 Jeep Wrangler, Chrysler 300, Dodge Challenger and Dodge Charger vehicles, and 2009-2011 Dodge Dakota vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, ",
+        "report_date": "09/01/2018",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V352000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) expanded the affected population to include 73,712 2005-2009 RAM 2500 trucks produced at the St. Louis North Assembly Plant.  With this change, Chrysler is recalling certain model year 2004-2008 RAM 1500, 2005-2009 RAM 2500, 2006-2009 RAM 3500, 2007-2010 RAM 3500 Cab Chassis, 2",
+        "report_date": "24/05/2016",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V288000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2016 Right Hand Drive Jeep Wrangler vehicles manufactured February 16, 2010, to May 2, 2016. The clockspring assembly may become contaminated with dust and cause the air bag circuit to fail.",
+        "report_date": "11/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V315000",
+        "component": "STEERING:COLUMN",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2011DODGE JOURNEY, JEEP WRANGLER, CHRYSLER 200, CHRYSLER 200 CONVERTIBLE, DODGE AVENGER, DODGE NITRO, JEEP LIBERTY, DODGE CALIBER, JEEP COMPASS, JEEP PATRIOT, DODGE GRAND CARAVAN AND CHRYSLER TOWN & COUNTRY VEHICLES.  SOME OF THESE VEHICLES MAY HAVE BEEN BUIL",
+        "report_date": "08/06/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13E010000",
+        "component": "EQUIPMENT",
+        "summary": "Quadratec, Inc. is recalling certain aftermarket accessory, driver-side, Ultimate Floor Liners part numbers 14254.0301 07, 14254.0301 08, 14254.0301Q, 14254.0302 07, 14254.0302 08, 14254.0302Q, 14254.0303 07, 14254.0303 08, 14254.0303Q, 14254.0309 07, 14254.0309 08, and 14254.0309Q sold from May 1, ",
+        "report_date": "25/02/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V631000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2013 Jeep Wrangler vehicles manufactured February 16, 2010, to July 19, 2013.  Corrosion in the exterior heated power mirror electrical connector may result in an electrical short.",
+        "report_date": "08/10/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V528000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2008-2012 RIGHT HAND DRIVE (RHD) JEEP WRANGLER VEHICLES MANUFACTURED FROM FEBRUARY 1, 2007, THROUGH OCTOBER 10, 2011.  SOME VEHICLES MAY BE EQUIPPED WITH DRIVER'S AIRBAG CLOCKSPRING ASSEMBLIES THAT COULD EXPERIENCE A COMPROMISED AIRBAG CIRCUIT RESULTING IN AN",
+        "report_date": "02/11/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V145000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2010-2011 JEEP WRANGLER VEHICLES MANUFACTURED FROM JULY 12, 2010, THROUGH SEPTEMBER 10, 2010.  SOME VEHICLES MAY EXPERIENCE A DEGRADATION OF FASTENER TORQUE FOR VARIOUS FRONT AND REAR AXLE ATTACHMENTS TO THE CHASSIS MODULE.",
+        "report_date": "01/03/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V176000",
+        "component": "AIR BAGS",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2008-2012 Jeep Wrangler right-hand drive vehicles manufactured February 1, 2007, through October 10, 2011.  The affected vehicles have airbag clockspring assemblies that could experience broken airbag circuits.",
+        "report_date": "07/05/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:54:06.829Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

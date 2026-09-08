@@ -1,0 +1,67 @@
+{
+  "slug": "2016-kia-forte",
+  "year": 2016,
+  "make": "Kia",
+  "model": "Forte",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 3,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 2,
+        "share_pct": 66.7,
+        "excerpts": [
+          "Im getting denied dued to engine failure but whoever had the vehicle before didn't follow up with the ksds update, I just purchased the vehicle on June 30th,2026, I need this fixed ASAP because I stil",
+          "My 2016 Kia Forte had a recall that was never performed and I was never told anything about the car fax or any recalls from where I got the car from, it needs a engine repair."
+        ]
+      },
+      {
+        "component": "Insert",
+        "complaints": 1,
+        "share_pct": 33.3,
+        "excerpts": [
+          "When I have the windows down, I can see the headrest flapping in the wind. I took the cover off and discovered that the styrofoam had broken in half. I used foam adhesive to bind it together. Once aga"
+        ]
+      },
+      {
+        "component": "Padding",
+        "complaints": 1,
+        "share_pct": 33.3,
+        "excerpts": [
+          "When I have the windows down, I can see the headrest flapping in the wind. I took the cover off and discovered that the styrofoam had broken in half. I used foam adhesive to bind it together. Once aga"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 0,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "21V622000",
+        "component": "LATCHES/LOCKS/LINKAGES:TRUNK LID:LATCH",
+        "summary": "Kia Motors America (Kia) is recalling certain 2016-2018 Forte 4-door, Forte Koup 2-door, and 2018-2019 Rio 4-door vehicles.  The trunk latch may become damaged, preventing the opening of the trunk from the inside.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle",
+        "report_date": "09/08/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:23.983Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

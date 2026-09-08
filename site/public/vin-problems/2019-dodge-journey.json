@@ -1,0 +1,120 @@
+{
+  "slug": "2019-dodge-journey",
+  "year": 2019,
+  "make": "Dodge",
+  "model": "Journey",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 100,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 23,
+        "share_pct": 23,
+        "excerpts": [
+          "My rear view camera shows a black screen when the vehicle is put in reverse. It is not a fuse problem. That has been checked. I have resorted to “the old fashioned way” of looking behind either side w",
+          "REARVIEW MIRROR CAMERA NOT WORKING",
+          "The backup camera will sometimes show inverted colors, the display will be flipped upside down, the display will flash, or it will be entirely black. This is unsafe because it makes it harder to ident"
+        ]
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "complaints": 19,
+        "share_pct": 19,
+        "excerpts": [
+          "The contact owns a 2019 Dodge Journey. The contact stated that while reversing, the rear-view camera displayed a black screen. The vehicle was taken to the dealer, where it was diagnosed with a failur",
+          "The contact owns a 2019 Dodge Journey. The contact stated that while reversing, the rear-view camera was inoperable. The vehicle was not diagnosed or repaired by an independent mechanic or dealer. The",
+          "The backup camera does not display correctly. When the car is put in reverse we get a picture of a camera with a line through it.  This problem is very similar to what is in recall 59c but does not in"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 9,
+        "share_pct": 9,
+        "excerpts": [
+          "The engine coil packs and spark plus were faulty. After we paid the dealership 700 to fix WHICH WAS NEVER FIXED then we fixed on our own paid a family friend to look at and fixed and then to another d",
+          "I had purchased the vehicle in early April of 2024 from Drive Time in Langhorne PA. I've had mechanical / engine issues since then. On [XXX], my daughter called me and informed me that the vehicle shu",
+          "The contact owns a 2019 Dodge Journey. The contact stated that while operating the vehicle, the ABS and check engine warning lights remained illuminated. The vehicle was taken to the local dealer who "
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 8,
+        "share_pct": 8,
+        "excerpts": [
+          "Horn and all dasbboard controls quit working on my steering wheel. Rear wiper comes on by itself when the vehicle is put in reverse but the toggle no longer works to activate the rear wiper. The washe",
+          "Bought this 2019 dodge journey in Aug 2020. Immediately noticed the headlight condensation. Brought it to the dealership to investigate and they told me it would require a whole new headlight part tha",
+          "Headlight condensation because of improper seal causing damage and blown headlamp"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 8,
+        "share_pct": 8,
+        "excerpts": [
+          "Passenger seatbelt sensor stopped working then while later the cover broke off of the frame with no cause. Not allowing the seatbelt or airbags to work properly. According to Mopar it was not covered ",
+          "The cover for the seat belt and airbag on the front passenger seat have become disconnected without any incident causing such. Possibly not allowing the seat belt or airbag to function properly. Also ",
+          "A few years ago the passenger seatbelt beeper stopped working. Unsure if air bags will deploy in a crash or not since the seat isn't detecting a person. Mentioned to dealership and told it would be a "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 0,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 4
+      },
+      {
+        "year": 2020,
+        "count": 12
+      },
+      {
+        "year": 2021,
+        "count": 6
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 18
+      },
+      {
+        "year": 2025,
+        "count": 24
+      },
+      {
+        "year": 2026,
+        "count": 16
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "25V552000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2019-2021 Ram ProMaster and 2019-2020 Dodge Journey vehicles. Cracks in the microprocessor may cause the vehicle's rearview camera image not to display properly. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety S",
+        "report_date": "26/08/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:59.257Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "2022-chevrolet-malibu",
+  "year": 2022,
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 96,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 32,
+        "share_pct": 33.3,
+        "excerpts": [
+          "I was driving and all of a sudden all the warning lights start going off on my vehicle’s dashboard and the car jerks back and forth while decelerating. This has happened twice on the highway putting m",
+          "I was told the bcm on my vehicle is bad. It cause my car to go all out of wack. Multiple warning lights come on (ESC, ABS, power steering, check engine), the gauge controls flutter, my gear shift clic",
+          "Transmission misfiring."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 29,
+        "share_pct": 30.2,
+        "excerpts": [
+          "The contact owns a 2022 Chevrolet Malibu. The contact stated that while attempting to start the vehicle, the check engine warning light illuminated. An independent mechanic was contacted. No warning l",
+          "The contact owns a 2022 Chevrolet Malibu. The contact stated that while driving approximately 62 MPH, the vehicle lost motive power with the message \"Reduced Engine Power\" displayed, and the check eng",
+          "Component: Air Conditioning – A/C Hose Assembly / Refrigerant Discharge Line  The air conditioning refrigerant discharge line (A/C hose assembly) appears to have been improperly designed and/or instal"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 23,
+        "share_pct": 24,
+        "excerpts": [
+          "CHECK ENGINE LIGHT CAME ON AND VEHICLE WAS SLOW TO ACCELERATE INTERMITTENTLY.  OFTEN SLOW TO TAKE OFF AT A STOP LIGHT. SAFETY CONCERNS OF BEING REAR END DUE TO SLOW TAKE OFF. TOOK VEHICLE TO CHEVY DEA",
+          "My cars check engine light keeps coming on and the first time it came on with an engine under boost failure and I took it to a 3rd party shop to get fixed and they had to replace the turbo charger. I ",
+          "Two months after purchasing my used Chevy 2022 Malibu my engine light came on and also a notification stating Engine Power Reduced and the car was not performing well. I went to advanced auto to get a"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 10,
+        "share_pct": 10.4,
+        "excerpts": [
+          "The contact owns a 2022 Chevrolet Malibu. The contact stated that while attempting to start the vehicle, the check engine warning light illuminated. An independent mechanic was contacted. No warning l",
+          "The contact owns a 2022 Chevrolet Malibu. The contact stated that while driving at an undisclosed speed, the message “Engine Power Reduced” was displayed. The failure was a persistent failure. The veh",
+          "The contact owns a 2022 Chevrolet Malibu. The contact stated that while driving approximately 62 MPH, the vehicle lost motive power with the message \"Reduced Engine Power\" displayed, and the check eng"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 7,
+        "share_pct": 7.3,
+        "excerpts": [
+          "Driving along the highway the CEL light came on followed by reduced engine power warning. Vehicle abruptly slowed down to 35mph (limp mode). Were there to be another vehicle behind me, they would have",
+          "My 2022 Chevrolet Malibu LT repeatedly and unpredictably enters a \"Reduced Engine Power\" state, causing sudden, dangerous drops in speed while driving in traffic. This intermittent loss of power happe",
+          "Purchased the car February 14 2025 with 102,664 miles on it. About 2 weeks ago I was merging on a highway and it went into limp mode and I almost get rear-ended. It felt like it lost all power. The ch"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 0,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 27
+      },
+      {
+        "year": 2025,
+        "count": 27
+      },
+      {
+        "year": 2026,
+        "count": 32
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "22V923000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2022-2023 Chevrolet Malibu vehicles.  The front impact bar, a structural portion of the vehicle frame, may not be properly welded to the front frame rail.",
+        "report_date": "14/12/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:17.771Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

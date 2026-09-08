@@ -1,0 +1,111 @@
+{
+  "slug": "2020-kia-forte",
+  "year": 2020,
+  "make": "Kia",
+  "model": "Forte",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 74,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 17,
+        "share_pct": 23,
+        "excerpts": [
+          "Engine burning excessive oil over a quart in 1000 miles. Catalytic converter code P0420 because of the excessive oil burning. Oil was always changed within the specified dealer milage range.",
+          "I experienced a check engine light and had the vehicle diagnosed with codes P0017 and P0014. The vehicle was taken to a Kia dealership, where the technician found that the exhaust camshaft was free-sp",
+          "2020 Kia Forte, 2.0L 14F engine, 109,000 miles: On July 3.2026 \"check engine\" light came on. Drove to local auto parts store to have code downloaded, P0017 cam position sensor.  Car was performing fin"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 16,
+        "share_pct": 21.6,
+        "excerpts": [
+          "I experienced a check engine light and had the vehicle diagnosed with codes P0017 and P0014. The vehicle was taken to a Kia dealership, where the technician found that the exhaust camshaft was free-sp",
+          "The contact leased a 2014 Kia Forte. The contact stated that while driving, the vehicle began to chug. The vehicle was towed to the local dealer, where it was diagnosed as needing a transmission repla",
+          "I am reporting a transmission failure in my 2020 Kia Forte with approximately 54,000 miles.  The vehicle experienced a sudden and complete transmission failure on March 19, 2026, on the highway from C"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 11,
+        "share_pct": 14.9,
+        "excerpts": [
+          "The crankshaft position sensor keeps going bad and it make the forward collision trigger and it loses power and the dash stops working and causes the car to shut off",
+          "1st problem, catalytic converter code says it's bad, check engine light on ever since, car is only 4 years old. 2nd problem possible electrical or wiring issue. Had to replace front right headlight(2t",
+          "The contact owns a 2020 Kia Forte. The contact stated that while driving at undisclosed speeds, the vehicle stalled. The vehicle failed to restart. The check engine warning light was illuminated. The "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 5,
+        "share_pct": 6.8,
+        "excerpts": [
+          "The contact owns a 2020 Kia Forte. The contact stated that while driving at an undisclosed speed, the air bags warning light illuminated and then went off. The contact stated that while attempting to ",
+          "The contact owns a 2020 Kia Forte. The contact stated that while driving 70 MPH on a bend in the highway, a deer jumped over the barrier and landed on the top of the contact's front windshield. The co",
+          "I was driving a vehicle two cars ahead did and illegal turn the car behind it stopped the truck behind them stopped I stopped behind the truck the car behind me did not stop and slammed me into the ba"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 5,
+        "share_pct": 6.8,
+        "excerpts": [
+          "2020 Kia Forte, 2.0L 14F engine, 109,000 miles: On July 3.2026 \"check engine\" light came on. Drove to local auto parts store to have code downloaded, P0017 cam position sensor.  Car was performing fin",
+          "The crankshaft position sensor keeps going bad and it make the forward collision trigger and it loses power and the dash stops working and causes the car to shut off",
+          "The contact owns a 2020 Kia Forte. The contact stated while driving approximately 30 MPH, the Forward Collision Avoidance camera activated, causing the brakes to stop the vehicle unintendedly. The For"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 2,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 2
+      },
+      {
+        "year": 2020,
+        "count": 10
+      },
+      {
+        "year": 2021,
+        "count": 7
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 14
+      },
+      {
+        "year": 2024,
+        "count": 8
+      },
+      {
+        "year": 2025,
+        "count": 13
+      },
+      {
+        "year": 2026,
+        "count": 15
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T20:04:39.713Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

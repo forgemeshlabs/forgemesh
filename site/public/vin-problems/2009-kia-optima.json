@@ -1,0 +1,144 @@
+{
+  "slug": "2009-kia-optima",
+  "year": 2009,
+  "make": "Kia",
+  "model": "Optima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 116,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 33,
+        "share_pct": 28.4,
+        "excerpts": [
+          "WHILE DRIVING THE CAR WHEN COLD THE CAR DOWNSHIFTS HARD INTO FIRST AT ABOUT 20 MPH. ALMOST AT SOMETIMES FEELING LIKE I HAVE BEEN HIT FROM THE BACK. MY NECK HAS STARTED HURTING FROM WHIPLASH. THIS IS A",
+          "TRANSMISSION DOWNSHIFT VERY HARD FROM 2ND TO 1ST. DEALER RESET MODULE 10 MONTHS AGO. SOLVED PROBLEM. PROBLEM RECURRED. DEALER RESET MODULE BUT PROBLEM CONTINUES. CHECKED INTERNET, PROBLEM SEEMS TO BE ",
+          "WHEN CAR IS SLOWING DOWN AND /OR APPROACHING A STOP SIGN IT GIVES A HARD JERK. EVEN IF TRAFFIC SLOWS DOWN ON THE EXPRESS WAY IT GIVES A HARD JERK. THIS HAS BEEN GOING ON SINCE NOVEMBER 2020."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 28,
+        "share_pct": 24.1,
+        "excerpts": [
+          "The airbags did not deploy while the car was being driven at 65 mph on Interstate 275 S and crashed into a wall barrier. Since the airbags did not deploy, the driver's head was thrown around because t",
+          "TL* THE CONTACT CALLED ON BEHALF OF HIS DECEASED DAUGHTER WHO WAS DRIVING A 2009 KIA OPTIMA. THE DAUGHTER WAS DRIVING AT AN UNKNOWN SPEED AND WENT INTO ONCOMING TRAFFIC, WENT DOWN AN EMBANKMENT AND CR",
+          "THE AIRBAG (SRS) WARNING LIGHT CAME ON AND STAYED ON AT ABOUT 88,200 MILES IN OCTOBER, 2018. I FIRST NOTICED THIS WHILE DRIVING BUT THE LIGHT STAYED ON EVER SINCE THEN.   TOOK THE VEHICLE TO A KIA DEA"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 21,
+        "share_pct": 18.1,
+        "excerpts": [
+          "LAST WEEK, ON AUG 29TH 2020, I TRIED TO MAKE A LEFT U-TURN ON A RESIDENTIAL STREET AND THE STEERING WHEEL LOCKED UP.  I GOT SCARED AND JUST DROVE FORWARD TO THE NEXT STREET AND TURNED RIGHT ONTO THAT ",
+          "TL* THE CONTACT OWNED A 2009 KIA OPTIMA. THE CONTACT STATED THAT THE VEHICLE WAS INCLUDED IN NHTSA CAMPAIGN NUMBER: 13V114000 (SERVICE BRAKES, HYDRAULIC, EXTERIOR LIGHTING). THE MANUFACTURER HAD NOT S",
+          "TL* THE CONTACT OWNS A 2009 KIA OPTIMA. WHILE DRIVING THE VEHICLE AT HIGHER SPEEDS AND ATTEMPTING TO REDUCE THE SPEED BY DEPRESSING THE BRAKE PEDAL, THE VEHICLE WOULD REDUCE SPEED AS NORMAL TIL AROUND"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 16,
+        "share_pct": 13.8,
+        "excerpts": [
+          "HEADLIGHTS REPLACED 6 TIMES.",
+          "TL* THE CONTACT OWNED A 2009 KIA OPTIMA. WHILE DRIVING 35 MPH, ANOTHER MOTORIST NOTIFIED THE CONTACT THAT THE UNDERCARRIAGE OF THE VEHICLE WAS ON FIRE. THE CONTACT COASTED TO THE SIDE OF THE ROAD AND ",
+          "THE LIGHT HAS BEEN ON SINCE THE MIDDLE OF 2013 AND THE DEALERSHIP WHEN ASKED DURING EACH OIL CHANGE IS WE WILL CHECK IT OUT. EVER SINCE I HAVE PURCHASED THIS VEHICLE THERE HAS BEEN PROBLEMS WITH THIS "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 14,
+        "share_pct": 12.1,
+        "excerpts": [
+          "LAST WEEK, ON AUG 29TH 2020, I TRIED TO MAKE A LEFT U-TURN ON A RESIDENTIAL STREET AND THE STEERING WHEEL LOCKED UP.  I GOT SCARED AND JUST DROVE FORWARD TO THE NEXT STREET AND TURNED RIGHT ONTO THAT ",
+          "DRIVING AT 70 MPH, ENGINE DIED AND CAR STARTED SMOKING. PULLED TO SHOULDER, FRONT END OF CAR CAUGHT FIRE. FIRE DEPARTMENT EXTINGUISHED WITH FOAM. CAR A TOTAL LOSS.",
+          "AFTER I BOUGHT MY USED 2009 KIA OPTIMA, I WAS EXPERIENCING A HARD DOWNSHIFT WHEN IT DECELERATED, IT WAS SO ABRUPT IT FELT AS IF THE BRAKES HAD BEEN APPLIED VERY RAPIDLY AND THE CAR WOULD JERK FORWARD."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 4,
+      "injuries": 5,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 5
+      },
+      {
+        "year": 2010,
+        "count": 8
+      },
+      {
+        "year": 2011,
+        "count": 12
+      },
+      {
+        "year": 2012,
+        "count": 8
+      },
+      {
+        "year": 2013,
+        "count": 21
+      },
+      {
+        "year": 2014,
+        "count": 18
+      },
+      {
+        "year": 2015,
+        "count": 10
+      },
+      {
+        "year": 2016,
+        "count": 11
+      },
+      {
+        "year": 2017,
+        "count": 6
+      },
+      {
+        "year": 2018,
+        "count": 5
+      },
+      {
+        "year": 2019,
+        "count": 3
+      },
+      {
+        "year": 2020,
+        "count": 4
+      },
+      {
+        "year": 2021,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "13V114000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Kia Motors Corporation (Kia) is recalling certain model year 2007-2010 Rondo, model year 2007-2011 Sedona, Sorento and Sportage, model year 2010-2011 Soul, model year 2008-2011 Optima, model year 2010 Forte, model year 2007-2009 Amanti, and model year 2009 Borrego vehicles.  Originally, in April 201",
+        "report_date": "01/04/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:49:34.090Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

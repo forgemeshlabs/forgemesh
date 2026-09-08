@@ -1,0 +1,142 @@
+{
+  "slug": "2020-chevrolet-suburban",
+  "year": 2020,
+  "make": "Chevrolet",
+  "model": "Suburban",
+  "matched_as": {
+    "complaints": [
+      "SUBURBAN 1500"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 44,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 17,
+        "share_pct": 38.6,
+        "excerpts": [
+          "In 2025, one if the pistons misfired. It was repaired and the same issue occurred a year later causing the cam shaft to break as well. Not to mention we had an electrical failure where the dashboard d",
+          "Engine had a catastrophic failure and completely shut off while driving down the highway. The engine has completely seized and requires replacement. The vehicle was towed to an independent service sho",
+          "There is a safety recall on GM’s 6.2L V8 L87 engine model years 2021-2024. My vehicle is a 2020 Suburban with a 6.2L V8 L87 engine. My engine recently experienced the same failure as cited in the reca"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 10,
+        "share_pct": 22.7,
+        "excerpts": [
+          "Transmission is not functioning properly at 74,300 miles. Engine kept slipping while driving uphill and the RPMs were not matching vehicle speed. Could not go above 50mph while merging onto freeway wh",
+          "Our engine went at 100,800 miles, costing us $15k in June 2025. Then our transmission went 3 months later, now costing us another $7k. GM is offering very little financial assistance. It's quite incon",
+          "Driving through residential area and noticed loud noise from under hood. Went to pull out onto state highway and wasn’t able to get up to speed almost causing an accident because I could not accelerat"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 8,
+        "share_pct": 18.2,
+        "excerpts": [
+          "The contact owns a 2020 Chevrolet Suburban. The contact stated that while driving at an undisclosed speed, the vehicle failed to accelerate as intended while depressing the accelerator pedal, and the ",
+          "The contact owns a 2020 Chevrolet Suburban. The contact stated that the vehicle experienced electrical failures that caused several safety and powered components to turn off and on. The contact stated",
+          "Odometer Fraud. The contact purchased a 2020 Chevrolet Suburban. The contact stated that while attempting to register the vehicle, it was discovered that there was a mileage discrepancy. The vehicle w"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 4,
+        "share_pct": 9.1,
+        "excerpts": [
+          "The contact owns a 2020 Chevrolet Suburban. The contact stated that while driving at an undisclosed speed, the steering wheel became firm. There was no warning light illuminated. The contact stated th",
+          "My car shut off two times while driving. When you google the issue, it auto populates meaning that this is a very common issue with GM. It starts back to 2015 searches as well. GM needs to recall thei",
+          "While turning at driving speed I feel as if I  loose control of the steering for a split second. The front wheels feel like they begin to turn without me turning the steering wheel. This has happened "
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 3,
+        "share_pct": 6.8,
+        "excerpts": [
+          "Driving on interstate and gradual onset of clicking/knocking. Within 5 minutes complete loss of propulsion and throttle. RPM went to zero. Oil pressure/temperature/engine lights all fine. Dealership s",
+          "On October 27, coming back from a family trip at 10 PM at night on a major highway, the suburban all of a sudden quit. Traveling at 70 miles per hour, all of a sudden, when pressing the gas pedal, the",
+          "WHEN ADAPTIVE CRUISE IS ENGAGED, THE SYSTEM HESITATES WHEN LEAD VEHICLES SLOWS AT A SLOW RATE (NO BRAKE LIGHTS OBSERVED ON LEAD VEHICLE), REQUIRING OPERATOR TO APPLY BRAKES.     WHEN ADAPTIVE CRUISE C"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 1,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 6
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 8
+      },
+      {
+        "year": 2025,
+        "count": 17
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "21V115000",
+        "component": "TIRES",
+        "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT4, XT5, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, Traverse, GMC Yukon, Yukon XL, 2018-2021 Chevrolet Express, GMC Savana, 2019-2020 Chevrolet Blazer, Silverado 1500, GMC Acadia, Sierra 1500, and certain Continental ",
+        "report_date": "25/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V837000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "General Motors LLC (GM) is recalling certain 2020 Cadillac Escalade, Escalade ESV, Chevrolet Camaro, Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles.  The fuel pump may be missing a pressure regulator, allowing for over-pressurization of the fuel system.",
+        "report_date": "21/11/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V761000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is tra",
+        "report_date": "24/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V289000",
+        "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+        "summary": "General Motors, LLC (GM) is recalling certain 2026 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, and GMC Sierra 1500, Yukon, and Yukon XL vehicles with four-wheel (4WD) or all-wheel drive (AWD), and certain 2015-2020 Suburban, Escalade, Escalade ESV, Yukon, Yukon",
+        "report_date": "07/05/2026",
+        "park_it": true,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:05:12.683Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

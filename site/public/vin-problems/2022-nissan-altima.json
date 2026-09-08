@@ -1,0 +1,95 @@
+{
+  "slug": "2022-nissan-altima",
+  "year": 2022,
+  "make": "Nissan",
+  "model": "Altima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 20,
+    "top_failure_components": [
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 7,
+        "share_pct": 35,
+        "excerpts": [
+          "Since purchasing my car in 1-2022, brand new, my car will unpredictably brake. Recently while driving with no cars in front of me, my car again braked and I was almost rear ended. I did experience min",
+          "Forward crash detection AEB system warning light goes on after a short time driving with a beep sound and stays on until the car is shut off. This happens every time I drive. Everything is clean- no o",
+          "My car constantly turns off mid drive and then turns back on , also all the lights on my dash pop up eveytime I start the car so I’m pretty sure it’s an electric issue sometimes it’s doesn’t start I h"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 5,
+        "share_pct": 25,
+        "excerpts": [
+          "My car constantly turns off mid drive and then turns back on , also all the lights on my dash pop up eveytime I start the car so I’m pretty sure it’s an electric issue sometimes it’s doesn’t start I h",
+          "I purchased my 2022 Altima in June 2022. I didn’t encounter any problems until 5/2024. My horn stopped working for no apparent reason, the interior fuse that controls the  light inside my car keeps bl",
+          "On 6/5/2024 I purchased a vehicle from lithia Dodge in Twin Falls Idaho. On July 6th 2024 my wife and I we're driving through Walmart parking lot and the car just up and died. I called the car dealers"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 5,
+        "share_pct": 25,
+        "excerpts": [
+          "Vehicle battery stops working not starting until a jump is given. We had the battery tested at Advance Auto they told us nothing was wrong with the battery. January 24,2025",
+          "On 6/5/2024 I purchased a vehicle from lithia Dodge in Twin Falls Idaho. On July 6th 2024 my wife and I we're driving through Walmart parking lot and the car just up and died. I called the car dealers",
+          "I was driving along I55 at 65-70 mph when my car had multiple lights come on the dash w d started ringing. My car then shot left into the median wall. It spun at least twice hitting the wall and stopp"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 4,
+        "share_pct": 20,
+        "excerpts": [
+          "Since purchasing my car in 1-2022, brand new, my car will unpredictably brake. Recently while driving with no cars in front of me, my car again braked and I was almost rear ended. I did experience min",
+          "The contact owns a 2022 Nissan Altima. The contact stated after the vehicle received brakes services, while depressing the accelerator pedal, the contact smelled smoke. The contact stated that two wee",
+          "I got into 2 accidents with my 2022 Nissan Altima (October 12 & 13). on Oct.12 I backed into a parked vehicle in a parking  lot.I did drive the car home. The next day after getting an estimate at a lo"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 3,
+        "share_pct": 15,
+        "excerpts": [
+          "I was driving along I55 at 65-70 mph when my car had multiple lights come on the dash w d started ringing. My car then shot left into the median wall. It spun at least twice hitting the wall and stopp",
+          "I was driving to work. As I was doing so multiple lights came on my dashboard and it started dinging. At the same time my car immediately shot left so hard into the concrete median barrier at 70 mph. ",
+          "The contact owned a 2022 Nissan Altima. The contact stated while driving 45 mph he was distracted answering his cell phone, he lost control and crashed into the bridge rail. The contact stated no warn"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 1,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 7
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T20:08:08.060Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

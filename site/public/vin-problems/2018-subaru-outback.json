@@ -1,0 +1,152 @@
+{
+  "slug": "2018-subaru-outback",
+  "year": 2018,
+  "make": "Subaru",
+  "model": "Outback",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 807,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 265,
+        "share_pct": 32.8,
+        "excerpts": [
+          "2018 Subaru Outback  Infotainment center glass delamination causing the system to come on by itself start malfunctioning switching between channels or apps and potentially startle / distract the drive",
+          "The car screens are delaminating and bubbling due to fault of the manufacturer. This is a widespread issue and causes safety issues due to the screen moving erratically while driving, messing with vol",
+          "\"I own a 2018 Subaru Outback VIN [XXX] . I have experienced a recurring failure with the TPMS (Tire Pressure Monitoring System) three times within the same year. In January 2026, I brought my vehicle "
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 233,
+        "share_pct": 28.9,
+        "excerpts": [
+          "This is the third time my windshield has cracked in the last three years.",
+          "Sunroof's glass panel exploded/shattered unexpectedly due to unknown cause(s)/reason(s) while driving vehicle. No external item(s) contacted sunroof glass panel.",
+          "Replaced windshield at dealer using factory glass on 8/7/24.  Daughter came out of apartment on approximately the 18th of December and the windshield had a horizontal crack from side to side.  She did"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 43,
+        "share_pct": 5.3,
+        "excerpts": [
+          "Driving slowly in a parking lot, I applied the brakes as I approached a parking space. Instead of slowing down, the car inexplicably accelerated quickly and did not respond to increased pressure on th",
+          "Had my recalls completed and started having jerking on my way home from the dealership.  Didn’t have any issues prior and I drove 2 hours to the closest Subaru dealership.  Had transmission serviced a",
+          "In heavy traffic, we were rolling slowly along, when all of a sudden the engine began revving on its own, against the brake. I quickly moved the shifter into neutral, and the engine revved wildly with"
+        ]
+      },
+      {
+        "component": "VISIBILITY",
+        "complaints": 41,
+        "share_pct": 5.1,
+        "excerpts": [
+          "The contact owns a 2018 Subaru Outback. The contact stated while driving at an undisclosed speed, the windshield cracked without impact. The contact took the vehicle to a dealer to have the windshield",
+          "The contact owns a 2018 Subaru Outback. The contact stated while the vehicle was parked in the garage unattended, the contact noticed that the front windshield was cracked without impact. The vehicle ",
+          "The contact owns a 2018 Subaru Outback. The contact stated that upon entering the vehicle, she observed that the front windshield had a crack from the bottom leading upwards. The contact stated that t"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 36,
+        "share_pct": 4.5,
+        "excerpts": [
+          "Engine cam carrier seals are leaking. Repair cost is $5,700 plus tax. Vehicle is well cared for and well maintained with only 96,000 miles  The Subaru Manufacturer was contacted and will do nothing to",
+          "Acceleration was very sluggish and un-responsive Gears would strangely slip on the highway resulting in engine racing up Rotating sound would come and go",
+          "Arriving at my childhood home, I followed the driveway to the left to park in front of the garage door. With my foot on the brake and slowly rolling to a stop, the car suddenly accelerated and jolted "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 27,
+      "fires": 4,
+      "injuries": 19,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2016,
+        "count": 2
+      },
+      {
+        "year": 2017,
+        "count": 13
+      },
+      {
+        "year": 2018,
+        "count": 133
+      },
+      {
+        "year": 2019,
+        "count": 179
+      },
+      {
+        "year": 2020,
+        "count": 117
+      },
+      {
+        "year": 2021,
+        "count": 147
+      },
+      {
+        "year": 2022,
+        "count": 72
+      },
+      {
+        "year": 2023,
+        "count": 49
+      },
+      {
+        "year": 2024,
+        "count": 43
+      },
+      {
+        "year": 2025,
+        "count": 30
+      },
+      {
+        "year": 2026,
+        "count": 20
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "18V935000",
+        "component": "VISIBILITY:REARVIEW MIRRORS/DEVICES",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2018 Legacy, Outback, and BRZ vehicles.  In the affected vehicles, a software issue may cause the audio display system to not initialize, resulting in the camera display remaining blank.  If this occurs, the rearview image will not display while ",
+        "report_date": "31/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V773000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2018 Subaru Legacy and Outback vehicles.  Due to a software error, the low fuel warning light may not illuminate at the intended remaining fuel level and the miles-to-empty display may incorrectly indicate a positive number despite the tank being",
+        "report_date": "01/11/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V587000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2019-2020 Ascent, 2018 Forester, 2018-2020 Impreza, Legacy, Outback, 2018-2019 BRZ, WRX, and Toyota 86 vehicles.  The low-pressure fuel pump inside the fuel tank may fail.",
+        "report_date": "29/07/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:29.929Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

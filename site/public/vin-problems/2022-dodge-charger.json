@@ -1,0 +1,120 @@
+{
+  "slug": "2022-dodge-charger",
+  "year": 2022,
+  "make": "Dodge",
+  "model": "Charger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 14,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 4,
+        "share_pct": 28.6,
+        "excerpts": [
+          "My climate control system and airbags malfunction. This seems to be related to the UConnect system. My vehicle is available for inspection as needed. It has not been to a dealer for inspection yet, bu",
+          "all air bag not deployed",
+          "Instrument cluster on steering wheel not working could include airbag. All power to instruments on steering wheel no longer work under 40000 miles and no abuse or collisions on vehicle. All services d"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 3,
+        "share_pct": 21.4,
+        "excerpts": [
+          "The car wont move Fwd Until it suddenly Catches its gear Especially when its hot when the  car is running for a long period of time and at a stop , or during a turn. The engine runs fine but the physi",
+          "We purchased this vehicle new.  Over time it started to surge on mild acceleration in all gears and all speeds.  Dealership reset the transmission and engine computers.  It was better but still notice",
+          "Intermittently the vehicle will jerk as if it looses power when driving, it has also happened when at a stop light and acceleration begins it jerks. It happens more often when at a complete stop and v"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 3,
+        "share_pct": 21.4,
+        "excerpts": [
+          "The car is a 2022 with only 17k miles it started by smelling like gas really bad in the car and outside of it and eventually leaking gas badly so i took it into the dealership and it turns out there i",
+          "When braking the engine goes into an uncontrolled fast idle that smokes the tires. Need to shut off engine immediately. This is intermittent. It is the 2nd time I had in to the dealer. Had it towed.",
+          "Intermittently the vehicle will jerk as if it looses power when driving, it has also happened when at a stop light and acceleration begins it jerks. It happens more often when at a complete stop and v"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 3,
+        "share_pct": 21.4,
+        "excerpts": [
+          "I’m getting a indicator that I need to service my shifter and it’s making a strange noise and having problems shifting",
+          "Odometer Fraud. The contact purchased a 2022 Dodge Charger. It was discovered that there was a mileage discrepancy. The vehicle was a private sale. At the time of purchase, the vehicle mileage was 49,",
+          "Instrument cluster on steering wheel not working could include airbag. All power to instruments on steering wheel no longer work under 40000 miles and no abuse or collisions on vehicle. All services d"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 3,
+        "share_pct": 21.4,
+        "excerpts": [
+          "We purchased this vehicle new.  Over time it started to surge on mild acceleration in all gears and all speeds.  Dealership reset the transmission and engine computers.  It was better but still notice",
+          "When braking the engine goes into an uncontrolled fast idle that smokes the tires. Need to shut off engine immediately. This is intermittent. It is the 2nd time I had in to the dealer. Had it towed.",
+          "Intermittently the vehicle will jerk as if it looses power when driving, it has also happened when at a stop light and acceleration begins it jerks. It happens more often when at a complete stop and v"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 0,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "22V504000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2022 Dodge Challenger, Dodge Charger, and Chrysler 300 vehicles.  The Tire Pressure Monitoring System (TPMS) sensor battery may fail prematurely and cause the sensor to become inoperative.  As such, these vehicles fail to comply with the requirements of Fed",
+        "report_date": "14/07/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V808000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2022 Dodge Challenger, Dodge Charger, and Chrysler 300 vehicles.  The Tire Pressure Monitoring System (TPMS) sensor battery may fail prematurely and cause the sensor to become inoperative.  As such, these vehicles fail to comply with the requirements of Fed",
+        "report_date": "27/10/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V866000",
+        "component": "POWER TRAIN:MANUAL TRANSMISSION:COLUMN SHIFT ASSEMBLY",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2022 Dodge Charger and Durango vehicles.  The shifter assembly was not properly heat-treated, which can prevent the shifter from properly engaging in the \"drive\" position.",
+        "report_date": "23/11/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:58.276Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

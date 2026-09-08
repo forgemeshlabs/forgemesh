@@ -1,0 +1,236 @@
+{
+  "slug": "2010-toyota-4runner",
+  "year": 2010,
+  "make": "Toyota",
+  "model": "4Runner",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 145,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 92,
+        "share_pct": 63.4,
+        "excerpts": [
+          "My 4Runner was involved in a collision where the airbags did not deploy, and I was knocked unconscious from hitting the steering wheel. The vehicle now shows an SRS fault code and is subject to an ope",
+          "TL* THE CONTACT OWNS A 2010 TOYOTA 4RUNNER. THE CONTACT STATED THAT WHEN THE VEHICLE WAS STARTED, THE AIR BAG WARNING LIGHT ILLUMINATED AND REMAINED ILLUMINATED. THE FAILURE RECURRED. THE DEALER WAS N",
+          "TL* TAKATA RECALL. THE CONTACT OWNS A 2010 TOYOTA 4RUNNER. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 18V024000 (AIR BAGS); HOWEVER, THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE C"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 12,
+        "share_pct": 8.3,
+        "excerpts": [
+          "Dear NHTSA,  I am writing to formally file a complaint against Toyota regarding their failure to notify me of a recall related to the clear coat peeling from my vehicle’s paint. I was never informed o",
+          "I was told the paint on my 4 runner was recalled, but because it was a salvage title they where very rude and told me sorry but they can't fix it.  I was so upset because when you spend 40,000. on a v",
+          "Frame is starting to rot despite undercoating. Has several soft spots."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 11,
+        "share_pct": 7.6,
+        "excerpts": [
+          "03/04/2019- I WAS DRIVING DOWN A DRY ROAD IN SANTA FE, NEW MEXICO TRAVELING AT APPROXIMATELY 35 TO 40 MPH. A GRADUAL TURN, AND I STRESS GRADUAL, CAME  UP AND UPON TURNING THE WHEEL TO TAKE THE SLIGHT ",
+          "TL* THE CONTACT OWNS A 2010 TOYOTA 4RUNNER. WHEN THE BRAKE PEDAL WAS DEPRESSED, IT TRAVELED TO THE FLOORBOARD. THE VEHICLE WAS NOT DIAGNOSED BY A DEALER. THE CONTACT, AN INDEPENDENT MECHANIC, PLANNED ",
+          "SINCE I BOUGHT THIS TOYOTA 4RUNNER I'VE HAD NOTHING BUT PROBLEMS WITH BRAKES NOT WORKING RIGHT THE FRONT END SHIMMIES AT CERTAIN SPEEDS.. I TOOK IT BACK TO THE DEALER CALLED TRI COUNTY TOYOTA IN LIMER"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 8,
+        "share_pct": 5.5,
+        "excerpts": [
+          "Car keeps running out of gas while driving, due to faulty readings on the gas gauge and electronic readout.    I have been driving this car for 11 years and never ran out of gas until running out 3 ti",
+          "03/04/2019- I WAS DRIVING DOWN A DRY ROAD IN SANTA FE, NEW MEXICO TRAVELING AT APPROXIMATELY 35 TO 40 MPH. A GRADUAL TURN, AND I STRESS GRADUAL, CAME  UP AND UPON TURNING THE WHEEL TO TAKE THE SLIGHT ",
+          "WHILE DRIVING ALONG AT SLOWER SPEEDS THE ENGINE SEEMS TO QUIT FOR ABOUT 5SEC THEN IT COMES ON AGAIN. THIS IS A DANGEROUS CONDITION. THIS COULD HAPPEN ANYTIME."
+        ]
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "complaints": 6,
+        "share_pct": 4.1,
+        "excerpts": [
+          "THE VEHICLE STABILITY CONTROL IS MUCH TOO SENSITIVE.  AS A TURN IS TAKEN AT SPEED THE VEHICLE ELECTRONICS TAKE OVER AND CHANGE THE TRAJECTORY.  FOR EXAMPLE, IF TURNING ON A CURVE TO THE RIGHT, IF IT S",
+          "TL* TAKATA RECALL. THE CONTACT OWNS A 2010 TOYOTA 4RUNNER. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V340000 (AIR BAGS) FOR THE FRONTAL PASSENGER INFLATOR; HOWEVER, THE PARTS TO DO",
+          "VEHICLE RANDOMLY AND SUDDENLY REVS ITSELF BOTH FROM A STOPPED POSITION AND WHILE DRIVING.  WHEN DRIVING DOWNHILL AND I TAKE MY FOOT OFF THE GAS THE VEHICLE WILL CONTINUE TO REV ITSELF AROUND 3000 RPM "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 2,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 17
+      },
+      {
+        "year": 2011,
+        "count": 2
+      },
+      {
+        "year": 2012,
+        "count": 3
+      },
+      {
+        "year": 2013,
+        "count": 2
+      },
+      {
+        "year": 2014,
+        "count": 9
+      },
+      {
+        "year": 2015,
+        "count": 5
+      },
+      {
+        "year": 2016,
+        "count": 67
+      },
+      {
+        "year": 2017,
+        "count": 19
+      },
+      {
+        "year": 2018,
+        "count": 4
+      },
+      {
+        "year": 2019,
+        "count": 4
+      },
+      {
+        "year": 2020,
+        "count": 5
+      },
+      {
+        "year": 2021,
+        "count": 3
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 12,
+    "recalls": [
+      {
+        "campaign_number": "19V741000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2010-2016 4Runner, 2003-2006 Tundra, 2003-2013 Corolla, 2009-2010 Corolla Matrix, 2004-2005 RAV4, 2002-2007 Sequoia, 2011-2013 Sienna, 2008-2012 Scion xB, 2008-2009 Lexus IS-F, 2007-2012 Yaris and Lexus ES350, 2010-2017 Lexus GX4",
+        "report_date": "17/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V005000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2014-2016 Toyota 4Runner, 2014-2015 Scion xB, Lexus IS350C, IS250C, 2014 Toyota Sienna, Lexus IS-F, and 2014-2017 Lexus GX460 vehicles sold, or ever registered in the states of Alabama, California, Florida, Georgia, Hawaii, Louis",
+        "report_date": "09/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V577000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:MANIFOLD/HEADER/MUFFLER/TAIL PIPE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2015 Toyota 4Runner vehicles manufactured September 3, 2009, to December 1, 2014.  The affected vehicles may be equipped with accessory exhaust tips installed by SET or SET dealers that may contact people and possibly burn",
+        "report_date": "03/08/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V024000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2013 Scion xB, Toyota Corolla, Corolla Matrix, Sienna, 4Runner, Lexus IS250, IS350, IS250C, IS350C, IS-F, and GX460 vehicles sold, ever registered, in the states of AL, CA, FL, GA, HI, LA, MS, SC, TX, PR, AS, GU, the MP (Saipan),",
+        "report_date": "09/01/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V743000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2011 Prius and Corolla, 2009-2011 Venza, 2006-2010 Avalon, 2007-2010 FJ Cruiser, 2005-2011 Sienna and Sequoia, 2006-2011 Tacoma 4x2 and 4x4, Camry, Highlander, Tundra 4x2 and 4x4, and 2007-2011 Rav4 and 4Runner.  The affec",
+        "report_date": "19/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V340000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2008-2011 Scion xB and Lexus IS F, 2009-2011 Toyota Corolla and Corolla Matrix, 2006-2011 Toyota Yaris, Lexus IS250 and Lexus IS350, 2010-2011 Toyota 4Runner, Lexus IS250C, Lexus IS350C and Lexus GX460, 2011 Sienna, 20",
+        "report_date": "23/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V515000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:MANIFOLD/HEADER/MUFFLER/TAIL PIPE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2015 Toyota 4Runner vehicles manufactured March 29, 2010, to July 30, 2015. The affected vehicles may be equipped with accessory exhaust tips installed by SET or SET dealers that may contact people and possibly burn them w",
+        "report_date": "13/08/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V396000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2005-2011 4Runner, Highlander, Sequoia, and Sienna, 2005-2010 Avalon and Tundra, 2006-2008 Camry Solara, 2006-2010 Highlander hybrid, 2006-2011 Rav4 and Tacoma, 2007-2010 FJ Cruiser, 2007-2011 Camry hybrid, 2009-2010 Venza, 2010-2012 Priu",
+        "report_date": "02/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V123000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota is recalling certain model year 2008 and 2010-2013 Toyota Tundra, 2010-2012 Rav4, 2012 Toyota Sequoia, 2010-2011 Toyota Corolla, 2010-2011 Toyota Camry and Camry Hybrid, 2010-2013 Toyota Highlander and Highlander Hybrid, 2010-2013 Toyota FJ Cruiser, 2011 Toyota Land Cruiser, 2010-20",
+        "report_date": "09/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V035000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "GULF STATES TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2010 VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD BETWEEN SEPTEMBER 1, 2005 AND JUNE 2, 2008 WITHOUT THE REQUISITE LOAD CARRYING CAPA",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V036000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2011 PASSENGER VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD WITHOUT THE REQUISITE LOAD CARRYING CAPACITY MODIFICATION LABELS.",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:52:14.044Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

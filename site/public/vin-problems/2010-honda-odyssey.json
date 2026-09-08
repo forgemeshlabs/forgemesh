@@ -1,0 +1,172 @@
+{
+  "slug": "2010-honda-odyssey",
+  "year": 2010,
+  "make": "Honda",
+  "model": "Odyssey",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 255,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 54,
+        "share_pct": 21.2,
+        "excerpts": [
+          "A few years ago the driver's side rear sliding door stopped working.  This seemed like a safety  because, if there were ever an incident such as a fire, people would not be able to expeditiously exit ",
+          "Yesterday(7/9/23) when trying to open and close our back sliding door on the drivers side it was making a louder grinding sound and was difficult to open/shut. No warning lights. Today when pushing th",
+          "Power sliding doors stopped working. No access to middle row seats due to having no manual opening features. In an emergency, I would be unable to remove my children from their seats. This should be r"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 46,
+        "share_pct": 18,
+        "excerpts": [
+          "The incidents of sudden acceleration while braking on this model are vast. My van has experienced several sudden un-commanded acceleration incidents while braking starting in 2022. Honda lawyers are i",
+          "Honda service bulletin [XXX] I recently discovered after doing some research on why my 2010 Odyssey is showing cylinder1 misfire code. I replaced the injectors, swapped coil packs, etc. Still cylinder",
+          "We had driven less than half a mile, and we’re sitting in traffic to turn when all of the warning lights came on and the van shut off. We restarted the car and the same thing happened. Then there was "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 43,
+        "share_pct": 16.9,
+        "excerpts": [
+          "I am reporting a recurring and dangerous brake system failure in my 2010 Honda Odyssey.  Intermittently, when the vehicle is first started, the brake pedal becomes completely stiff and cannot be depre",
+          "When having to slow down or stop quickly, the van starts to jerk back and forth and shake a lot and the car becomes very difficult to control.  This is especially noticeable when going down hills such",
+          "My 2010 Honda odyssey is accelerating while breaking. Both times I am trying to slow down and stop at red traffic light, and both times, it initially slowed down but accelerated all of sudden. I had t"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 31,
+        "share_pct": 12.2,
+        "excerpts": [
+          "The contact owns a 2010 Honda Odyssey. The contact stated that while driving at an undisclosed speed, the battery warning light illuminated, and smoke was coming from under the front passenger’s side ",
+          "A few months ago, the battery went dead.  I purchased a new battery and it went dead also.  I had the mechanic check it and he said that some Honda Odyssey's had that problem (usually 2011).  Even if ",
+          "It started with the alarm turning on randomly. DRL not turning off and battery got drained."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 23,
+        "share_pct": 9,
+        "excerpts": [
+          "Unknown",
+          "2010 ODYSSEY W/ ABOUT 159K MILES. ENGINE STARTED MISFIRING. THERE WAS A RECALL ON THIS, BUT HONDA IS SAYING IT EXPIRED, AND I AM NOT ELIGIBLE FOR COST COVERAGE, AND THE REPAIRS ONLY HAVE A 50% CHANCE ",
+          "TRANSMISSION HAS MOTOR LOCK UP ENGINE WON'T TURN OVER AND TRANSMISSION WILL NOT GO INTO ANY GEAR, BOTH ENGINE AND TRANSMISSION NEED REPLACING FREE OF CHARGE HAD IT TOW HOME, WHERE IT HAS BEEN SITTING "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 11,
+      "fires": 8,
+      "injuries": 25,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 30
+      },
+      {
+        "year": 2011,
+        "count": 24
+      },
+      {
+        "year": 2012,
+        "count": 18
+      },
+      {
+        "year": 2013,
+        "count": 18
+      },
+      {
+        "year": 2014,
+        "count": 24
+      },
+      {
+        "year": 2015,
+        "count": 19
+      },
+      {
+        "year": 2016,
+        "count": 14
+      },
+      {
+        "year": 2017,
+        "count": 22
+      },
+      {
+        "year": 2018,
+        "count": 15
+      },
+      {
+        "year": 2019,
+        "count": 25
+      },
+      {
+        "year": 2020,
+        "count": 13
+      },
+      {
+        "year": 2021,
+        "count": 9
+      },
+      {
+        "year": 2022,
+        "count": 10
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "14E049000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Delphi Automotive Systems, LLC (Delphi) is recalling certain replacement fuel pump modules, part number FG1155-11B1, sold for use in 2005-2010 Honda Odyssey vehicles.  The affected fuel pump may send an incorrect fuel reading to the fuel gauge possibly causing the vehicle to run out of fuel.  The fu",
+        "report_date": "28/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V112000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "American Honda Motor Co., Inc. (Honda) is recalling certain 2005-2010 Honda Odyssey vehicles manufactured June 23, 2004, through September 4, 2010.  In the affected vehicles, the fuel pump strainer cover may deteriorate allowing fuel to leak out.",
+        "report_date": "14/03/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:52:10.034Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

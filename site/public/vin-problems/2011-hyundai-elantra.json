@@ -1,0 +1,200 @@
+{
+  "slug": "2011-hyundai-elantra",
+  "year": 2011,
+  "make": "Hyundai",
+  "model": "Elantra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 460,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 96,
+        "share_pct": 20.9,
+        "excerpts": [
+          "I have a Piston/Engine Defect according to the mechanic at the car shop. Any time any acceleration is applied you can hear the knocking.  I believe it should be covered through the class action allege",
+          "Car stop working once I got home I notice while I was driving the car kept back firing and Jurking while driving .had a mechanic look at the car he tried to start it but it started and shut off..he ev",
+          "UnKnown. When financing the vehicle through Adonis Auto Group I was unaware of the unrepaired safety  recall. Also I am under the impression nothing was done to the car before purchasing it, I have ha"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 81,
+        "share_pct": 17.6,
+        "excerpts": [
+          "Vehicle: 2011 Hyundai Elantra Touring Date of Crash: [XXX] Location of Crash: Duluth, MN Description of Incident: I was driving my 2011 Hyundai Elantra Touring straight through an intersection when an",
+          "Air bag fault light is on.",
+          "On October 1, 2023, I started my vehicle in the driveway to having the red airbag warning light appear as a dashboard symbol. No accidents have occurred. I do not see any recalls on this issue. I’ll b"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 77,
+        "share_pct": 16.7,
+        "excerpts": [
+          "My steering wheel began to make clanking sound and lost the tension that allows for smooth turning of the wheel for both left and right.  I looked it up and have found that this is a known issue that ",
+          "When ever I am turning my steering wheel in either direction there is a clicking noise. It started low and now the noise became loud even when I am going over bumps on the road. I went to a reputable ",
+          "Unknown but my car shakes and makes a loud grinding noise"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 67,
+        "share_pct": 14.6,
+        "excerpts": [
+          "Unknown but my car shakes and makes a loud grinding noise",
+          "My car was recalled by Hyundai for a critical safety issue and has been at the dealership since July of 2024 awaiting repairs due to missing parts. Despite repeated follow-ups, Hyundai has been unable",
+          "UnKnown. When financing the vehicle through Adonis Auto Group I was unaware of the unrepaired safety  recall. Also I am under the impression nothing was done to the car before purchasing it, I have ha"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 52,
+        "share_pct": 11.3,
+        "excerpts": [
+          "Car stop working once I got home I notice while I was driving the car kept back firing and Jurking while driving .had a mechanic look at the car he tried to start it but it started and shut off..he ev",
+          "Unknown   Sensors possibly is the issue",
+          "They have failed to address the recall in a timely manner. Sep 22,2023 Manufacturer Recall Number251 NHTSA Recall Number23V651000"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 21,
+      "fires": 9,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1990,
+        "count": 1
+      },
+      {
+        "year": 2004,
+        "count": 1
+      },
+      {
+        "year": 2005,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 2
+      },
+      {
+        "year": 2011,
+        "count": 31
+      },
+      {
+        "year": 2012,
+        "count": 19
+      },
+      {
+        "year": 2013,
+        "count": 27
+      },
+      {
+        "year": 2014,
+        "count": 21
+      },
+      {
+        "year": 2015,
+        "count": 37
+      },
+      {
+        "year": 2016,
+        "count": 53
+      },
+      {
+        "year": 2017,
+        "count": 39
+      },
+      {
+        "year": 2018,
+        "count": 50
+      },
+      {
+        "year": 2019,
+        "count": 62
+      },
+      {
+        "year": 2020,
+        "count": 29
+      },
+      {
+        "year": 2021,
+        "count": 19
+      },
+      {
+        "year": 2022,
+        "count": 16
+      },
+      {
+        "year": 2023,
+        "count": 26
+      },
+      {
+        "year": 2024,
+        "count": 19
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "15V629000",
+        "component": "SUSPENSION:FRONT:SPRINGS:COIL SPRINGS",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain model year 2011 Elantra vehicles manufactured November 12, 2010, to March 31, 2011, and Sonata vehicles manufactured December 11, 2009, to February 28, 2010, originally sold in, or currently registered in, Connecticut, Delaware, Illinois, Indiana,",
+        "report_date": "07/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V871000",
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain model year 2011-2012 Elantra vehicles manufactured October 29, 2010, to October 25, 2011.  Due to an electronic stability control (ESC) sensor malfunction, the brakes for one or more wheels may be applied unexpectedly and the engine power may be r",
+        "report_date": "23/12/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V115000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Hyundai Motor Company is recalling certain model year 2011-2013 Elantra vehicles manufactured from November 12, 2010, through March 5, 2013.  A support bracket attached to the headliner may become displaced during a side curtain airbag deployment.",
+        "report_date": "01/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V393000",
+        "component": "EQUIPMENT:ELECTRICAL",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2012 Hyundai Elantra and Sonata Hybrid, 2012 Accent and Veloster vehicles.  The 12V accessory socket outlet may have been over-tightened during installation, possibly disabling the thermal fuse and allowing the outlet to overheat with prolong",
+        "report_date": "02/07/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V651000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2015 Elantra, Genesis Coupe, Sonata Hybrid, 2012-2015 Accent, Azera, Veloster, 2013-2015 Elantra Coupe, Santa Fe, 2014-2015 Equus, 2010-2012 Veracruz, 2010-2013 Tucson, 2015 Tucson Fuel Cell, and 2013 Santa Fe Sport vehicles.  The Anti-Lock B",
+        "report_date": "22/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:54:20.556Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,184 @@
+{
+  "slug": "2013-kia-sorento",
+  "year": 2013,
+  "make": "Kia",
+  "model": "Sorento",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 981,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 496,
+        "share_pct": 50.6,
+        "excerpts": [
+          "The contact owns a 2013 Kia Sorento. The contact stated that there was a knocking sound coming from the vehicle with the engine warning light illuminated. The contact used a diagnostic machine to retr",
+          "AC stopped, engine began to struggle, engine light came on and engine over heated. Pulled off highway to be towed. Dealer found metal in oil and suggested possible manufacturer defect issue.",
+          "The head gasket blew. This car has been meticulously maintained. All maintenance records with kia dealer. I hear there is secondary engine problems related to the 2013 kia sorento. I have all maintena"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 116,
+        "share_pct": 11.8,
+        "excerpts": [
+          "The contact owns a 2013 Kia Sorento. While the contact's granddaughter was attempting to start the vehicle, the vehicle failed to start. The contact stated that a special device was previously install",
+          "Back up camera on Kia Sorento screens go black out of nowhere. After research online I have seen that this is a very common problem with Kia vehicles, and they haven't issued a recall on them. It isn'",
+          "This vehicle has a oil consumption problem that causes engine damage and Kia will not take responsibility for especially after the car being maintained. On top of it even with substantial evidence tha"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 91,
+        "share_pct": 9.3,
+        "excerpts": [
+          "The paint is peeling really bad .It's been peeling and rusting horribly.",
+          "The paint on the car is peeling off down to the metal of the car.",
+          "My car paint is peeling  very bad the color is snow white pear the hole car"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 89,
+        "share_pct": 9.1,
+        "excerpts": [
+          "The contact owns a 2013 Kia Sorento. While the contact's granddaughter was attempting to start the vehicle, the vehicle failed to start. The contact stated that a special device was previously install",
+          "Car stalled several times including as I was turning through an intersection. I took my car to KIA Ganley if Boardman 7870 Market Street Bdmn Two, Youngstown, Ohio 44512. I met w/Gerry who I explained",
+          "The contact owns a 2013 Kia Sorento. The contact received notifications of NHTSA Campaign Numbers: 17V224000 (ENGINE AND ENGINE COOLING) and 23V652000 (SERVICE BRAKES, HYDRAULIC). The contact stated t"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 70,
+        "share_pct": 7.1,
+        "excerpts": [
+          "Some Unknown  The vechicle wire and cable has shortage/ electrical problems, no accident occur.",
+          "We were told by our auto mechanic that this vehicle needed a new electrical control module.  The part has been on back-order with the local KIA dealership for a couple of months.  My daughter was driv",
+          "Received important safety recall on 14th November 2023, I called Kia dealership and corporate office to resolve and got the answer that the remedy is not available. It’s been more than 45 days since I"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 23,
+      "fires": 44,
+      "injuries": 33,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 27
+      },
+      {
+        "year": 2013,
+        "count": 56
+      },
+      {
+        "year": 2014,
+        "count": 44
+      },
+      {
+        "year": 2015,
+        "count": 35
+      },
+      {
+        "year": 2016,
+        "count": 50
+      },
+      {
+        "year": 2017,
+        "count": 83
+      },
+      {
+        "year": 2018,
+        "count": 125
+      },
+      {
+        "year": 2019,
+        "count": 143
+      },
+      {
+        "year": 2020,
+        "count": 112
+      },
+      {
+        "year": 2021,
+        "count": 85
+      },
+      {
+        "year": 2022,
+        "count": 46
+      },
+      {
+        "year": 2023,
+        "count": 82
+      },
+      {
+        "year": 2024,
+        "count": 51
+      },
+      {
+        "year": 2025,
+        "count": 32
+      },
+      {
+        "year": 2026,
+        "count": 9
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "18V907000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2011-2017 Optima, 2012-2017 Sorento and 2011-2018 Sportage vehicles that previously received an engine replacement under recall number 17V-224, warranty, or the Knock Sensor Detection System (KSDS) Product Improvement Campaign.  The high pressure fuel pi",
+        "report_date": "19/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V750000",
+        "component": "ENGINE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2012-2013 Sorento, 2012-2015 Forte and Forte Koup, 2011-2013 Optima Hybrid, 2014-2015 Soul, and 2012 Sportage vehicles.  An engine compartment fire can occur while driving.",
+        "report_date": "02/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V224000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Kia Motor Company (Kia) is recalling certain 2011-2014 Optima, 2012-2014 Sorento and 2011-2013 Sportage vehicles.  Machining errors during the engine manufacturing process may cause premature bearing wear within the engine.",
+        "report_date": "31/03/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V626000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2011-2013 Kia Sorento vehicles manufactured October 19, 2009, to January 31, 2013.  In the affected vehicles, if excessive force is applied to the gear shift lever, the brake-shift interlock mechanism may chip or crack allowing the transmissio",
+        "report_date": "06/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V652000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2010-2019 Borrego, 2014-2016 Cadenza, 2010-2013 Forte, Forte Koup, Sportage, 2015-2018 K900, 2011-2015 Optima, 2011-2013 Optima Hybrid, Soul, 2012-2017 Rio, 2011-2014 Sorento, and 2010-2011 Rondo vehicles.  The Hydraulic Electronic Control Unit (HECU) may",
+        "report_date": "25/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:56:57.405Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

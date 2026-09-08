@@ -1,0 +1,184 @@
+{
+  "slug": "2015-dodge-journey",
+  "year": 2015,
+  "make": "Dodge",
+  "model": "Journey",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 553,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 135,
+        "share_pct": 24.4,
+        "excerpts": [
+          "Car overheared i was checking on regular basis to maybe sure it haf coolant.warning lights didnt come on.temperature gage was normal. Oil hot came o. 2 times with temperature gage just fine .sone who ",
+          "CAN-BUS  PCM system",
+          "My car is junk. I have actually put tens of thousands of dollars into this car to keep it on the road. I would get rid of it but I owe more than it’s worth. This is insane. I cannot believe that none "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 118,
+        "share_pct": 21.3,
+        "excerpts": [
+          "see attached documetn",
+          "While driving, the electric window and doorlock module started smoking. It was a heavy white smoke. There were no warning lamps or messages. I smelled the smoke and burning of plastic immediately befo",
+          "The review camera stopped working in the early Summer 2026.  Sporadically, the image would display and then cut out to a blank/black screen. The warning beeps also we're not working all the time. No w"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 106,
+        "share_pct": 19.2,
+        "excerpts": [
+          "ABS module was recalled and replaced. The replaced piece is now not working and needs replaced. Every place says part is on backorder. Its a safety issue to continue driving my car",
+          "Im getting the same code (c2200) that has been recalled on other cars with my same year make and model of vehicle but yet my vehicle is not recalled and I have to pay out of pocket after spending thou",
+          "My car is junk. I have actually put tens of thousands of dollars into this car to keep it on the road. I would get rid of it but I owe more than it’s worth. This is insane. I cannot believe that none "
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 89,
+        "share_pct": 16.1,
+        "excerpts": [
+          "[XXX]: Driving down a city street, had not braked or slowed down when I heard a loud bang behind me and something hit me in the back of the head.  My son was in the car with me and said the headrest h",
+          "Driver side headrest deployment while parked without collision",
+          "My daughter sat inside the passenger seat while the car was parked, and the passenger headrest deployed onto the back of her head."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 77,
+        "share_pct": 13.9,
+        "excerpts": [
+          "The contact owns a 2015 Dodge Journey. The contact stated that while driving at an undisclosed speed,  an abnormal whining sound was heard coming from under the vehicle, and the Tachometer would abnor",
+          "CAN-BUS  PCM system",
+          "I was driving down the freeway and my transmission started slipping and eventually lost power, had to pull over on a 80mph freeway with my 4 kids in the car after turning on my hazard lights and wait "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 30,
+      "fires": 9,
+      "injuries": 47,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 2
+      },
+      {
+        "year": 2015,
+        "count": 67
+      },
+      {
+        "year": 2016,
+        "count": 33
+      },
+      {
+        "year": 2017,
+        "count": 43
+      },
+      {
+        "year": 2018,
+        "count": 71
+      },
+      {
+        "year": 2019,
+        "count": 78
+      },
+      {
+        "year": 2020,
+        "count": 82
+      },
+      {
+        "year": 2021,
+        "count": 55
+      },
+      {
+        "year": 2022,
+        "count": 23
+      },
+      {
+        "year": 2023,
+        "count": 36
+      },
+      {
+        "year": 2024,
+        "count": 34
+      },
+      {
+        "year": 2025,
+        "count": 17
+      },
+      {
+        "year": 2026,
+        "count": 11
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V432000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2015 Dodge Journey vehicles.  In the affected vehicles, the driver's frontal air bag may unexpectedly deploy if the air bag wiring harness gets chafed within the steering wheel and short circuits.",
+        "report_date": "07/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V273000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST:HOSE, PIPING, AND CONNECTIONS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2009-2016 Dodge Journey vehicles manufactured July 31, 2007, to November 12, 2016.  After exposure to cold temperatures, the power steering return hose may rupture at engine start-up causing a loss of power steering assist.",
+        "report_date": "06/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V431000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2015 Dodge Journey vehicles manufactured July 19, 2010, to May 26, 2015 and equipped with 2.4L engines.  In the affected vehicles, the engine cover may detach from the engine and contact the exhaust manifold.",
+        "report_date": "07/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V675000",
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2012-2015 Dodge Journey vehicles manufactured April 21, 2012, to April 14, 2015.  In the affected vehicles, water may enter the wiring harness for the Anti-lock Brake System (ABS) module and leak into the module, disabling the ABS and/or the Elec",
+        "report_date": "19/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V711000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2014-2015 Dodge Journey vehicles manufactured October 25, 2013, to August 22, 2014.  The affected vehicles may be equipped with tire placard labels which contain inaccurate seating capacity and occupant/cargo combined weight information. ",
+        "report_date": "07/11/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:43.320Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

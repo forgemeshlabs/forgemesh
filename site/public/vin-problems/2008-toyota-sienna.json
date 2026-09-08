@@ -1,0 +1,240 @@
+{
+  "slug": "2008-toyota-sienna",
+  "year": 2008,
+  "make": "Toyota",
+  "model": "Sienna",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 429,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 117,
+        "share_pct": 27.3,
+        "excerpts": [
+          "MY VEHICLE HAS 138,000 MILES AND WHEN I INQUIRED ABOUT FIXING THE SLIDING DOOR, I WAS TOLD THAT THE RECALL WAS OVER IN 2016; HOWEVER, I KNOW OF A PERSON THAT WAS ABLE TO HAVE HIS VEHICLE FIXED BY TOYO",
+          "LIFT-GATE FRAME CRACKING AROUND LEFT HINGE. SAFETY HAZARD AS THE LIFT-GATE COULD BECOME UNSECURED WHILE DRIVING, OR DURING OPERATION, RESULTING IN INJURY OR CRASH.  *TR",
+          "INSIDE DASHBOARD IS VERY STICKY AND ALWAYS SHOWS A GLARE ONTO THE WINDSHIELD WHILE DRIVING (SAFETY ISSUE); THE DASHBOARD DURING THE SUMMER TIME IS VERY MALLEABLE, IF YOU GENTLY PRESS ON IT, IT MOVES A"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 51,
+        "share_pct": 11.9,
+        "excerpts": [
+          "Throttle stuck while in reverse pulling out of a parking spot and accelerated resulting in backing into the building",
+          "I have had the traction control go on while driving on the highway even when I turn it off. Sometimes the VSC and TRAC OFF lights go on while driving. The roads are dry. Whenever I take it in to the m",
+          "Anti skid/slip  malfunctions, Brakes are automatic applied while turning a corner. When this happen one dry road surfaces it was harder to control the car. This happen multiple times in the pass.  Yes"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 45,
+        "share_pct": 10.5,
+        "excerpts": [
+          "Issues with VSC. The sensor alarm goes off when driving at more than 50 mph and slightly turning the steering wheel. The car brakes itself and this is DANGEROUS. It happens all the time, it has been m",
+          "Driving on dry pavement in mountainous terrain the slip indicator light/sound activates temporarily and the brakes can engage by themselves! Usually happens during right turns. I've been to several au",
+          "Anti skid/slip  malfunctions, Brakes are automatic applied while turning a corner. When this happen one dry road surfaces it was harder to control the car. This happen multiple times in the pass.  Yes"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 43,
+        "share_pct": 10,
+        "excerpts": [
+          "I have had the traction control go on while driving on the highway even when I turn it off. Sometimes the VSC and TRAC OFF lights go on while driving. The roads are dry. Whenever I take it in to the m",
+          "The Vehicle VSC Engaged multiple times even at low speed of 30 mph under the road speed limit. The brake applied and even the vehicle stop to respond to the acceleration. We have 3 little kids and old",
+          "Driving on dry pavement in mountainous terrain the slip indicator light/sound activates temporarily and the brakes can engage by themselves! Usually happens during right turns. I've been to several au"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 39,
+        "share_pct": 9.1,
+        "excerpts": [
+          "The head gasket that was repaired failed and the radiator system also failed. Im not sure if these issues are dealer related or manufacture related as i spoke to the previous owner and they stated the",
+          "The contact owns a 2008 Toyota Sienna. The contact stated while pulling into a grocery store, he heard an abnormal ticking sound. The contact stated upon parking and inspecting the outside of the vehi",
+          "CAR SPEED VARIES WHEN DOING A MODERATE SPEED EXAMPLE 40 MPH SOMETIMES FEELS LIKE ITS ENGINE SLIPS AND SPEED SLOWS CAR JUMPS FORWARD FEELS LIKE ENGINE SLIPS OR GEAR SHIFTS. ENGINE BOGS DOWN OR SOMETIME"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 37,
+      "fires": 4,
+      "injuries": 19,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 1
+      },
+      {
+        "year": 2000,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 5
+      },
+      {
+        "year": 2008,
+        "count": 21
+      },
+      {
+        "year": 2009,
+        "count": 28
+      },
+      {
+        "year": 2010,
+        "count": 45
+      },
+      {
+        "year": 2011,
+        "count": 25
+      },
+      {
+        "year": 2012,
+        "count": 30
+      },
+      {
+        "year": 2013,
+        "count": 41
+      },
+      {
+        "year": 2014,
+        "count": 53
+      },
+      {
+        "year": 2015,
+        "count": 39
+      },
+      {
+        "year": 2016,
+        "count": 34
+      },
+      {
+        "year": 2017,
+        "count": 28
+      },
+      {
+        "year": 2018,
+        "count": 27
+      },
+      {
+        "year": 2019,
+        "count": 17
+      },
+      {
+        "year": 2020,
+        "count": 12
+      },
+      {
+        "year": 2021,
+        "count": 7
+      },
+      {
+        "year": 2022,
+        "count": 7
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "14V743000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2011 Prius and Corolla, 2009-2011 Venza, 2006-2010 Avalon, 2007-2010 FJ Cruiser, 2005-2011 Sienna and Sequoia, 2006-2011 Tacoma 4x2 and 4x4, Camry, Highlander, Tundra 4x2 and 4x4, and 2007-2011 Rav4 and 4Runner.  The affec",
+        "report_date": "19/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V396000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2005-2011 4Runner, Highlander, Sequoia, and Sienna, 2005-2010 Avalon and Tundra, 2006-2008 Camry Solara, 2006-2010 Highlander hybrid, 2006-2011 Rav4 and Tacoma, 2007-2010 FJ Cruiser, 2007-2011 Camry hybrid, 2009-2010 Venza, 2010-2012 Priu",
+        "report_date": "02/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V273000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2004-2011 Sienna vehicles originally sold in, or currently registered in, Connecticut, Delaware, Illinois, Indiana, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, New Hampshire, New Jersey, New York, Oh",
+        "report_date": "22/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V429000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Toyota is recalling certain model year 2004-2005 Sienna vehicles manufactured January 10, 2003, through August 10, 2005; and model year 2007-2009 Sienna vehicles manufactured February 20, 2007, through December 12, 2008.  In the affected vehicles, due to a problem within the shift lock solenoid, the",
+        "report_date": "26/09/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V223000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "TOYOTA IS RECALLING 27,080 MODEL YEAR 2005 THROUGH 2010 PASSENGER CARS BUILT FROM SEPTEMBER 1, 2005 TO MAY 4, 2009.  THESE VEHICLES WERE NOT EQUIPPED WITH LOAD CARRYING CAPACITY MODIFICATION LABELS WHICH FAILS TO CONFORM WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE S",
+        "report_date": "15/06/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V036000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2011 PASSENGER VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD WITHOUT THE REQUISITE LOAD CARRYING CAPACITY MODIFICATION LABELS.",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V234000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2006 THROUGH 2009 SIENNA AND 2009 LEXUS GX PASSENGER VEHICLES.  THE VEHICLE CAPACITY WEIGHT ON THE TIRE AND LOADING INFORMATION LABEL AND THE GVWR ON THE CERTIFICATION LABEL IS INSUFFICIENT FOR CERTAIN VEHICLES.  SOME VEHICLES WERE ACCESSORIZED THROUGH VEHICLE ",
+        "report_date": "25/06/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V035000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "GULF STATES TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2010 VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD BETWEEN SEPTEMBER 1, 2005 AND JUNE 2, 2008 WITHOUT THE REQUISITE LOAD CARRYING CAPA",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V160000",
+        "component": "STRUCTURE",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 1998 THROUGH 2010 SIENNA PASSENGER VEHICLES MANUFACTURED BETWEEN AUGUST 7, 1997 AND JANUARY 4, 2010, CURRENTLY REGISTERED IN OR ORIGINALLY SOLD IN CONNECTICUT, DELAWARE, ILLINOIS, INDIANA, KENTUCKY, MAINE, MARYLAND, MASSACHUSETTS, MICHIGAN, MINNESOTA,  NEW HAMP",
+        "report_date": "20/04/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:47:37.274Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,168 @@
+{
+  "slug": "2012-ford-expedition",
+  "year": 2012,
+  "make": "Ford",
+  "model": "Expedition",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 118,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 64,
+        "share_pct": 54.2,
+        "excerpts": [
+          "The contact owns a 2012 Ford Expedition. The contact stated that while his wife was driving 30 MPH, the transmission unexpectedly downshifted, causing the occupants to lunge forward. The tires squeale",
+          "While exiting the freeway at approximately 45 to 50 mph, the transmission downshifted to 1st gear locking up the tires.",
+          "Over a period of time this problem is occurring more often. The vehicle will downshift into first gear. I pull over check engine light is on. I turn off wait turn back on and no problem for awhile. Wi"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 20,
+        "share_pct": 16.9,
+        "excerpts": [
+          "JULY 2025 MY 2012 FORD EXPEDITION THREW A P0742 CODE FOR A STUCK TORQUE CONVERTER CLUTCH. THE VEHICLE HAD JUST UNDER 150K MILES AND STARTED TO JERK IN AND OUT OF GEAR AND THE WRENCH LIGHT ILLUMINATED ",
+          "I just purchased  (2 months ago) a 2012 Ford Expedition EL 5.4l v8 from a private party. I wish I would have done more research as I am ALREADY EXPERIENCING TRANSMISSION ISSUES THAT I BELIEVE ARE DIRE",
+          "Campaign 19N01 Description Transmission molded leadframe extended coverage Next Steps Contact your dealer for next steps.  Did this and was told that the vehicle was not covered due to it being after "
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 18,
+        "share_pct": 15.3,
+        "excerpts": [
+          "vehicle shifting erratically and shows fuel mileage low and loss of speedometer",
+          "vehicle shifting erratically and shows fuel mileage low and loss of speedometer",
+          "The speedometer will quit working and the vehicle will not shift out of 1st gear, if you can work through it it will start throwing error messages such as zero miles to empty,  tire moniter system fau"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 15,
+        "share_pct": 12.7,
+        "excerpts": [
+          "The transmission jumps in and out of gear, the engine revs on its on. I was on the highway the first time and I going between 60 and 65 mph and it sounded like the whole bottom of the truck was just r",
+          "Metal corrosion on the back liftgate is allowing water to leech into the electrical connections to the back camera, causing it to intermittently not work leading to complete failure eventually.  The s",
+          "PAINT BUBBLING APPEARS ON REAL TAILGATE AND EDGE OF HOOD. RUST PIN SPOTS NOTICEABLE ON DOOR PANELS UNDER CLEAR COAT."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 12,
+        "share_pct": 10.2,
+        "excerpts": [
+          "The contact owns a 2012 Ford Expedition. The contact stated that while his wife was driving 30 MPH, the transmission unexpectedly downshifted, causing the occupants to lunge forward. The tires squeale",
+          "Campaign 19N01 Description Transmission molded leadframe extended coverage Next Steps Contact your dealer for next steps.  Did this and was told that the vehicle was not covered due to it being after ",
+          "I was driving regularly down the road when I noticed the smell of electrical fire.  Smoke started coming from the undercarriage of the truck.  I pulled into a gas station, and the engine died,  and I "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 2,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 4
+      },
+      {
+        "year": 2013,
+        "count": 6
+      },
+      {
+        "year": 2014,
+        "count": 8
+      },
+      {
+        "year": 2015,
+        "count": 7
+      },
+      {
+        "year": 2016,
+        "count": 13
+      },
+      {
+        "year": 2017,
+        "count": 13
+      },
+      {
+        "year": 2018,
+        "count": 22
+      },
+      {
+        "year": 2019,
+        "count": 4
+      },
+      {
+        "year": 2020,
+        "count": 5
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "16V248000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2011-2012 Ford F-150 trucks, 2012 Ford Expedition, Lincoln Navigator, and Ford Mustang vehicles.  The affected vehicles are equipped with an automatic transmission that may unexpectedly downshift to first gear, regardless of vehicle speed.",
+        "report_date": "27/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V190000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "FORD IS RECALLING CERTAIN MODEL YEAR 2011-2012 FORD F-150, 2012 EXPEDITION AND LINCOLN NAVIGATOR, AND 2012-2013 MUSTANG VEHICLES, FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NOS. 102, \"TRANSMISSION SHIFT LEVER SEQUENCE, STARTER INTERLOCK, AND TRANSMISSION BRA",
+        "report_date": "03/05/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V034000",
+        "component": "SEATS:MID/REAR ASSEMBLY",
+        "summary": "FORD IS RECALLING CERTAIN MODEL YEAR 2012 EXPEDITION AND LINCOLN NAVIGATOR VEHICLES, MANUFACTURED FROM \r\nNOVEMBER 19, 2011, THROUGH DECEMBER 2, 2011, FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 202, \"HEAD RESTRAINTS.\"  THESE VEHICLES MAY HAVE INADEQUATE W",
+        "report_date": "02/02/2012",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:56:41.371Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

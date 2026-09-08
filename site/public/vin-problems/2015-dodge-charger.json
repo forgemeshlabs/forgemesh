@@ -1,0 +1,196 @@
+{
+  "slug": "2015-dodge-charger",
+  "year": 2015,
+  "make": "Dodge",
+  "model": "Charger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 135,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 32,
+        "share_pct": 23.7,
+        "excerpts": [
+          "The contact owns a 2015 Dodge Charger. The contact stated that while driving at various speeds, an abnormal sound was heard coming from under the engine. No warning light was illuminated. The vehicle ",
+          "The contact owns a 2015 Dodge Charger. The contact stated while driving 20 MPH, the vehicle stalled. The contact was able to pull over to the side of the road. The contact stated that the vehicle fail",
+          "I also have a drive shaft bearing that is completely destroyed. I have seen similar complaints on nhtsa. I took my car into a local shop for both front CV boots ripped and leaking. Upon inspection I w"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 23,
+        "share_pct": 17,
+        "excerpts": [
+          "The contact owns a 2015 Dodge Charger. The contact stated that while driving at an undisclosed speed, the vehicle was idling roughly, and there was a ticking sound coming from the vehicle. There was n",
+          "The contact owns a 2015 Dodge Charger. The contact stated that while driving at various speeds, an abnormal sound was heard coming from under the engine. No warning light was illuminated. The vehicle ",
+          "The gear shift, camshaft. Have to keep taking it back for repairs after having repairs done on car."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 22,
+        "share_pct": 16.3,
+        "excerpts": [
+          "I have had this car since 2018 when I purchased it the radio was shutting itself off and turning back on every 30 seconds I replaced it with a new one same radio and since then I have had issues with ",
+          "Odometer Fraud. The contact purchased a 2015 Dodge Charger. The contact stated that upon taking the vehicle to an independent mechanic for service, the mechanic plugged the computer to the ECU and dis",
+          "My radio screen went bad and it’s killing my battery when the car is off but the screen still works. Also it won’t play music on my speakers due to the screen messing. The screen is also affecting my "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 15,
+        "share_pct": 11.1,
+        "excerpts": [
+          "The contact owns a 2015 Dodge Charger. The contact stated that while driving from a complete stop, the brake pedal was depressed, and he heard abnormal sounds coming from the rear end of the vehicle. ",
+          "CHECK ENGINE LIGHT CONTINUE TO REMAIN ON CHECK FOR DIAGNOSTIC SAYING THAT IT'S A TRANSMISSION PROBLEM TIRES GO OUT TO FAST ONLY HAVE THE CAR FOR A FEW MONTHS.",
+          "TL* THE CONTACT OWNS A 2015 DODGE CHARGER. THE CONTACT STATED WHILE HIS WIFE WAS DRIVING 35 MPH, THE BRAKE PEDAL WAS DEPRESSED TO THE FLOORBOARD TO STOP THE VEHICLE. THE CONTACT STATED THAT THE BRAKE "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 13,
+        "share_pct": 9.6,
+        "excerpts": [
+          "Steering wheel is hard to turn.",
+          "At aproximately 39000 miles, whie driving down the road the electric power steering / rack and pinion died. The wheel froze up and was very hard to turn. I was lucky i was not going fast. It cost me 3",
+          "Oct. 2021 drove car from california to montana. No problem!  Nov. 2021 Car started and power steering light came on. I had no power steering and was unable to drive car. Had car towed to dealership an"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 1,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1996,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 3
+      },
+      {
+        "year": 2016,
+        "count": 12
+      },
+      {
+        "year": 2017,
+        "count": 21
+      },
+      {
+        "year": 2018,
+        "count": 22
+      },
+      {
+        "year": 2019,
+        "count": 26
+      },
+      {
+        "year": 2020,
+        "count": 14
+      },
+      {
+        "year": 2021,
+        "count": 9
+      },
+      {
+        "year": 2022,
+        "count": 7
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2024,
+        "count": 10
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "19V018000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2010 Dodge Ram 3500, Ram 4500/5500, 2010-2011 Dodge Dakota, 2010-2014 Dodge Challenger, 2010-2015 Dodge Challenger, Chrysler 300, and 2010-2016 Jeep Wrangler vehicles.  Upon deployment of the driver's frontal air bag, excessive internal pressure may cause t",
+        "report_date": "15/01/2019",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18E053000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain Mopar Stage 1 Kit Performance Packages Powertrain Control Modules (PCM) Part Numbers P5160023, P5160025, and Demon Crate PCM Part Number 68412287AA.  The PCMs are being recalled to address a defect that could prevent the cruise control system from disengagi",
+        "report_date": "12/07/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V281000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2015-2018 Dodge Charger pursuit police vehicles equipped with all-wheel drive and V8 engines. The front driveshaft universal joint may seize or fracture causing the shaft to detach from the vehicle.",
+        "report_date": "01/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V097000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2017 Dodge Charger and Chrysler 300 vehicles equipped with all-wheel drive (AWD).  The front driveshaft bolts may loosen and allow the front driveshaft to disconnect, potentially causing a loss of motive power.",
+        "report_date": "14/02/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V114000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:GASOLINE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2015 Dodge Challenger SRT and Dodge Charger SRT vehicles manufactured September 18, 2014, to February 5, 2015, and equipped with a 6.2L supercharged engine. O-ring seal and fuel rail crossover hose damage may result in the fuel rail hose connecti",
+        "report_date": "27/02/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V461000",
+        "component": "EQUIPMENT:ELECTRICAL:RADIO/TAPE DECK/CD ETC.",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2013-2015 Ram 1500, 2500, 3500, 4500, and 5500, 2015 Chrysler 200, Chrysler 300, Dodge Charger, and Dodge Challenger, 2014-2015 Jeep Grand Cherokee, Cherokee, and Dodge Durango, and 2013-2015 Dodge Viper vehicles.  The affected vehicles are equip",
+        "report_date": "23/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V043000",
+        "component": "STRUCTURE",
+        "summary": "FCA US LLC (Chrysler) is recalling certain model year 2011-2016 Dodge Charger vehicles manufactured August 23, 2010, to January 7, 2016.  When an affected vehicle is lifted using the supplied tire jack without chocking the wheels, the vehicle's body-side sill may give causing the tire jack to fail a",
+        "report_date": "28/01/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:38.331Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

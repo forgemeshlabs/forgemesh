@@ -1,0 +1,176 @@
+{
+  "slug": "2010-kia-soul",
+  "year": 2010,
+  "make": "Kia",
+  "model": "Soul",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 135,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 24,
+        "share_pct": 17.8,
+        "excerpts": [
+          "Hello,  I would like to report that someone attempted to steal my 2010 Kia Soul. The incident occurred on [XXX], in San Jose, CA 95111. As a result of the attempted theft, there is damage to the car’s",
+          "I was driving down the interstate on my way to work when my check engine light turned on and began flashing rapidly. I then began to get over to the shoulder and into safety when I heard what sounded ",
+          "The airbag light is on, and the passenger airbag light is off.  Kia dealership performed the electronic scan, and is obtaining message with defect in OCS sensor defect and electrical voltage.  Kia sai"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 21,
+        "share_pct": 15.6,
+        "excerpts": [
+          "The air bags did not deploy and the seat belt didn't lock and at the moment it is available to be inspected. My seat belt didn't lock so it is probably why my back fractured. I don't know if the probl",
+          "The contact owns a 2010 Kia Soul. The contact stated that on several occasions when the vehicle was started, the air bag warning light illuminated and remained illuminated. The vehicle was not diagnos",
+          "The airbag light is on, and the passenger airbag light is off.  Kia dealership performed the electronic scan, and is obtaining message with defect in OCS sensor defect and electrical voltage.  Kia sai"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 21,
+        "share_pct": 15.6,
+        "excerpts": [
+          "TAKATA RECALL : SOMOS PROPIETARIOS DESDE MAYO DEL 2012 HASTA LA FECHA VAN 3 OCACIONES QUE LE REPARAMOS LOS FRENOS Y CONSTANTEMENTE HUELE A QUEMADO Y SE LE PRENDE LUZ DE CHECK ENGINE POR LO MENOS UNA V",
+          "SUN ROOF FALLS OUT OF TRACKS",
+          "PASSENGER SIDE FRONT DOOR LOCK WOULD UNLOCK INTERMITTENTLY INITIALLY FOR THE FIRST FEW YEARS AND NOW DOES NOT UNLOCK AT ALL WHEN USING THE KEY FOB AND SINCE THERE IS NO MANUAL KEY-LOCK CYLINDER ANYWHE"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 15,
+        "share_pct": 11.1,
+        "excerpts": [
+          "I bought car being financed in sac,ca. August 8, 2023. Took back referred to mechanic round corner. Brake rotor issues fixed front this was August 14 noise still exist took back turned back rotors scr",
+          "I EXPORTED MY KIA SOUL 2010 TO GERMANY DUE TO MILITARY MOVEMENT ORDER. AS THE CAR IS NOW REGISTERED IN GERMANY; I DID NOT GET ANY NOTIFICATIONS FROM KIA US ABOUT THE RECALL SC098AM REGARDING A PROBLEM",
+          "THE BRAKES ARE NOT BRAKING THE WAY THEY SHOULD MAKE A GRINDING NOISE AND THEN STALLED TO STOP I WAS ON I-285 GOING HOME TO JASPER GA ALSO I'VE NOTICED THAT THE GEAR SHIFTER CAN GO INTO ANOTHER GEAR W "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 12,
+        "share_pct": 8.9,
+        "excerpts": [
+          "Hello,  I would like to report that someone attempted to steal my 2010 Kia Soul. The incident occurred on [XXX], in San Jose, CA 95111. As a result of the attempted theft, there is damage to the car’s",
+          "I WAS DRIVING MY TYPICAL ROUTE TO WORK AND MID TURN, WITH MY CAR ON, ON A CITY ROAD, MY STEERING WHEEL LOCKED. I HAD TO STOP MY CAR IN THE MIDDLE OF THE ROAD AND RESTART IT TO GET IT TO UNLOCK. VERY S",
+          "I NEED TO REPLACE THE DRIVER SIDE CONTROL ARM BECAUSE IT'S LOOSE, AND WARRANTY JUST EXPIRED 1,000 MILES AGO."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 23,
+      "fires": 15,
+      "injuries": 19,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 20
+      },
+      {
+        "year": 2010,
+        "count": 33
+      },
+      {
+        "year": 2011,
+        "count": 13
+      },
+      {
+        "year": 2012,
+        "count": 10
+      },
+      {
+        "year": 2013,
+        "count": 6
+      },
+      {
+        "year": 2014,
+        "count": 2
+      },
+      {
+        "year": 2015,
+        "count": 6
+      },
+      {
+        "year": 2016,
+        "count": 8
+      },
+      {
+        "year": 2017,
+        "count": 4
+      },
+      {
+        "year": 2018,
+        "count": 4
+      },
+      {
+        "year": 2019,
+        "count": 10
+      },
+      {
+        "year": 2020,
+        "count": 4
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 1
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "14V822000",
+        "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2010-2013 Kia Soul vehicles manufactured January 8, 2009, to October 2, 2013, equipped with a sun roof.  A headliner plate may detach during deployment of the curtain air bag.",
+        "report_date": "29/12/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V114000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Kia Motors Corporation (Kia) is recalling certain model year 2007-2010 Rondo, model year 2007-2011 Sedona, Sorento and Sportage, model year 2010-2011 Soul, model year 2008-2011 Optima, model year 2010 Forte, model year 2007-2009 Amanti, and model year 2009 Borrego vehicles.  Originally, in April 201",
+        "report_date": "01/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V388000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "KIA IS RECALLING CERTAIN MODEL YEAR 2010 SOUL AND MODEL YEAR 2011 SORENTO VEHICLES MANUFACTURED FROM SEPTEMBER 7, 2009 THROUGH JULY 30, 2010.  A LIMITED NUMBER OF WIRING HARNESSES SUPPLIED BY JCI AND USED FOR THE LIGHTING IN THE KIA SOUL VEHICLE'S ADVANCED LIGHTING SPEAKERS, LOCATED IN THE FRONT DOO",
+        "report_date": "31/08/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:51:53.076Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

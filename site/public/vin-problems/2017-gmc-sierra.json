@@ -1,0 +1,276 @@
+{
+  "slug": "2017-gmc-sierra",
+  "year": 2017,
+  "make": "GMC",
+  "model": "Sierra",
+  "matched_as": {
+    "complaints": [
+      "SIERRA 1500",
+      "SIERRA 2500",
+      "SIERRA 3500"
+    ],
+    "recalls": [
+      "SIERRA 1500",
+      "SIERRA 2500",
+      "SIERRA 3500"
+    ]
+  },
+  "failures": {
+    "total_complaints": 599,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 197,
+        "share_pct": 32.9,
+        "excerpts": [
+          "The contact owns a 2017 GMC Sierra Denali. The contact stated that while driving on the highway at an undisclosed speed, the vehicle jerked, failed to accelerate, and stalled. The vehicle was unable t",
+          "check engine light and traction control light on. vehicle undriveable. took to dealer code P0304 lifters need to be replaced",
+          "After 38,000 miles and 8 years of normal service (mix of city, highway, and 10% towing), my 8L90 transmission began to shudder occasionally.  The problem first became apparent when driving slightly up"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 180,
+        "share_pct": 30.1,
+        "excerpts": [
+          "I loose brake pedal at low speeds seen gm has recall for vacuum pump but shows mine not in recall",
+          "The contact owns a 2017 GMC Sierra 1500. The contact stated that while driving approximately 55 MPH, the vehicle started losing motive power. The accelerator pedal was depressed and the engine revved;",
+          "I was test driving this 2017 Sierra 1500 SLT and experienced issues while braking. Issues with brakes as the vacuum level drops the brake assist decreases which meant I had to use excessive force to g"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 81,
+        "share_pct": 13.5,
+        "excerpts": [
+          "Truck was started using auto start and I drove roughly a mile down the road smelt burning and looked in the back seat, I saw smoke and promptly pulled to the side of the road shut the vehicle off then",
+          "The rear window on my 2017 GMC Sierra shattered unexpectedly without any impact. The vehicle had been remote started in very cold weather and the rear window glass suddenly shattered while the truck w",
+          "While the 2017 GMC Sierra was warming up via remote start, I noticed a smell of smoke as I walked by the passenger side of the truck. Then I heard a loud bang as I was walking around the rear of the t"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 79,
+        "share_pct": 13.2,
+        "excerpts": [
+          "I had an engine rebuilt completed on my L86 2017 GMC 6.2.  After the repair, the engine failed due to the crank shaft on the engine being oversized which is the same problem that GM is having with the",
+          "I drive this vehicle on higher speed roads to work everyday. Roads also used by large tractor trailers and like larger vehicles. I was told by dealer that I had broken exhaust manifold studs at a prev",
+          "The contact owns a 2017 GMC Sierra 1500. The contact stated that while driving at an undisclosed speed, there was an abnormal tapping sound coming from the vehicle. The check engine warning light and "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 35,
+        "share_pct": 5.8,
+        "excerpts": [
+          "Driving in town going 20mph and the truck shut down not allowing for braking or gas and the steering locked up. Placed the vehicle in neutral, shut the truck off and turned it back. Was able to contin",
+          "The contact owns a 2017 GMC Sierra 1500. The contact stated that while driving at an undisclosed speed and coming to a stop, the steering wheel seized. There was no warning light illuminated. The cont",
+          "The vehicle consistently shuts off unexpectedly when trying to park or slow down, making it difficult to steer or control.The electric power steering stops working, especially when turning at low spee"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 33,
+      "fires": 9,
+      "injuries": 9,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 4
+      },
+      {
+        "year": 2017,
+        "count": 68
+      },
+      {
+        "year": 2018,
+        "count": 63
+      },
+      {
+        "year": 2019,
+        "count": 103
+      },
+      {
+        "year": 2020,
+        "count": 78
+      },
+      {
+        "year": 2021,
+        "count": 48
+      },
+      {
+        "year": 2022,
+        "count": 76
+      },
+      {
+        "year": 2023,
+        "count": 50
+      },
+      {
+        "year": 2024,
+        "count": 50
+      },
+      {
+        "year": 2025,
+        "count": 46
+      },
+      {
+        "year": 2026,
+        "count": 13
+      }
+    ]
+  },
+  "recalls": {
+    "count": 18,
+    "recalls": [
+      {
+        "campaign_number": "19V645000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2017 Cadillac Escalade, 2014-2018 Chevrolet Silverado, GMC Sierra, 2015-2018 Chevrolet Suburban, Tahoe, GMC Yukon vehicles.  The amount of vacuum created by the vacuum pump may decrease over time.",
+        "report_date": "06/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V761000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is tra",
+        "report_date": "24/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V651000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015-2017 Chevrolet Silverado 2500 HD, 3500 HD, Tahoe, Suburban,  GMC Sierra 2500 HD and 3500 HD, GMC Yukon, GMC Yukon XL, Cadillac Escalade and Cadillac Escalade ESV vehicles and 2014-2017 Chevrolet Corvette, Silverado 1500, Trax, Caprice Poli",
+        "report_date": "08/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V487000",
+        "component": "CHILD SEAT:TETHER: CONNECTOR/CLIP",
+        "summary": "General Motors LLC (GM) is recalling certain 2017 Chevrolet Silverado 1500, and GMC Sierra 1500 trucks.  The owner's manual for the affected vehicles may be missing instructions on how to use the tether anchorage and child restraint anchorage systems.  As such, these vehicles fail to comply with the",
+        "report_date": "03/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V437000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2016 Buick Lacrosse and Chevrolet Spark EV, Caprice PPV and SS vehicles, 2014-2017 Buick Encore and Chevrolet Corvette, Silverado 1500 and GMC Sierra 1500 vehicles, 2015-2016 Cadillac Escalade and Escalade ESV, Chevrolet Tahoe, Trax, Subur",
+        "report_date": "10/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V567000",
+        "component": "SEAT BELTS:FRONT:RETRACTOR",
+        "summary": "General Motors (GM) is recalling certain 2017-2018 Chevrolet Silverado 2500 and 3500 and GMC Sierra 2500 and 3500 trucks.  The front seat belt retractor assemblies were built with the incorrect torsion bar.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety",
+        "report_date": "14/09/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V328000",
+        "component": "ENGINE",
+        "summary": "General Motors LLC (GM) is recalling certain 2019 Chevrolet Silverado 4500, 5500 and 6500 vehicles and 2017-2019 Chevrolet Silverado 2500 and 3500 vehicles and GMC Sierra 2500 and 3500 vehicles equipped with Duramax 6.6 liter diesel engines and an optional engine-block heater.  The engine block heat",
+        "report_date": "25/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V651000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015-2017 Chevrolet Silverado 2500 HD, 3500 HD, Tahoe, Suburban,  GMC Sierra 2500 HD and 3500 HD, GMC Yukon, GMC Yukon XL, Cadillac Escalade and Cadillac Escalade ESV vehicles and 2014-2017 Chevrolet Corvette, Silverado 1500, Trax, Caprice Poli",
+        "report_date": "08/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V437000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2016 Buick Lacrosse and Chevrolet Spark EV, Caprice PPV and SS vehicles, 2014-2017 Buick Encore and Chevrolet Corvette, Silverado 1500 and GMC Sierra 1500 vehicles, 2015-2016 Cadillac Escalade and Escalade ESV, Chevrolet Tahoe, Trax, Subur",
+        "report_date": "10/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V496000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "General Motors, LLC (GM) is recalling certain 2017-2019 Chevrolet Silverado 2500, 3500 and 2017-2019 GMC Sierra 2500 and 3500 vehicles equipped with a Duramax diesel 6.6 liter engine and an optional engine-block heater cord.  An electrical short-circuit may occur in the engine-block heater cable or ",
+        "report_date": "01/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V047000",
+        "component": "FUEL SYSTEM, DIESEL:STORAGE:TANK ASSEMBLY",
+        "summary": "General Motors, LLC (GM) is recalling certain 2017-2019 Chevrolet Silverado 2500, 3500, and GMC Sierra 2500, 3500 vehicles equipped with a dual fuel tank option.  The rear fuel tank may collapse and prevent the fuel pump from transferring fuel to the front tank, resulting in an engine stall.",
+        "report_date": "02/02/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V567000",
+        "component": "SEAT BELTS:FRONT:RETRACTOR",
+        "summary": "General Motors (GM) is recalling certain 2017-2018 Chevrolet Silverado 2500 and 3500 and GMC Sierra 2500 and 3500 trucks.  The front seat belt retractor assemblies were built with the incorrect torsion bar.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety",
+        "report_date": "14/09/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V328000",
+        "component": "ENGINE",
+        "summary": "General Motors LLC (GM) is recalling certain 2019 Chevrolet Silverado 4500, 5500 and 6500 vehicles and 2017-2019 Chevrolet Silverado 2500 and 3500 vehicles and GMC Sierra 2500 and 3500 vehicles equipped with Duramax 6.6 liter diesel engines and an optional engine-block heater.  The engine block heat",
+        "report_date": "25/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V088000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "General Motors, LLC (GM) is recalling certain 2016-2018 GMC Sierra 3500 and Chevrolet Silverado 3500 trucks equipped with gasoline engines and dual fuel tanks.  The fuel-level sensor in the front tank may stick in a low-level position, allowing the rear tank to overfill the front tank.",
+        "report_date": "07/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V651000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015-2017 Chevrolet Silverado 2500 HD, 3500 HD, Tahoe, Suburban,  GMC Sierra 2500 HD and 3500 HD, GMC Yukon, GMC Yukon XL, Cadillac Escalade and Cadillac Escalade ESV vehicles and 2014-2017 Chevrolet Corvette, Silverado 1500, Trax, Caprice Poli",
+        "report_date": "08/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V437000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2016 Buick Lacrosse and Chevrolet Spark EV, Caprice PPV and SS vehicles, 2014-2017 Buick Encore and Chevrolet Corvette, Silverado 1500 and GMC Sierra 1500 vehicles, 2015-2016 Cadillac Escalade and Escalade ESV, Chevrolet Tahoe, Trax, Subur",
+        "report_date": "10/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V496000",
+        "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+        "summary": "General Motors, LLC (GM) is recalling certain 2017-2019 Chevrolet Silverado 2500, 3500 and 2017-2019 GMC Sierra 2500 and 3500 vehicles equipped with a Duramax diesel 6.6 liter engine and an optional engine-block heater cord.  An electrical short-circuit may occur in the engine-block heater cable or ",
+        "report_date": "01/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V047000",
+        "component": "FUEL SYSTEM, DIESEL:STORAGE:TANK ASSEMBLY",
+        "summary": "General Motors, LLC (GM) is recalling certain 2017-2019 Chevrolet Silverado 2500, 3500, and GMC Sierra 2500, 3500 vehicles equipped with a dual fuel tank option.  The rear fuel tank may collapse and prevent the fuel pump from transferring fuel to the front tank, resulting in an engine stall.",
+        "report_date": "02/02/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:14.713Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

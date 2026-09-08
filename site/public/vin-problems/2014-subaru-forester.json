@@ -1,0 +1,152 @@
+{
+  "slug": "2014-subaru-forester",
+  "year": 2014,
+  "make": "Subaru",
+  "model": "Forester",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 403,
+    "top_failure_components": [
+      {
+        "component": "SUSPENSION",
+        "complaints": 94,
+        "share_pct": 23.3,
+        "excerpts": [
+          "LOW CONTRL ARM BUSHINGS DISTROYED,LOUD NOISE AND VIBRATION UNDER THE CAR.",
+          "Basically, as I was driving on the freeway with my son and his brother, I got 5 lights flashing on dashboard. Abs at temp check engine cruise control hill assist vss etc.. the code were for cut but be",
+          "During driving on the highway control arm failure causing wheel bearing failure and loss of control of the vehicle putting my safety and others at risk of collision at high speeds.   Thankfully no maj"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 69,
+        "share_pct": 17.1,
+        "excerpts": [
+          "On 5/15/2024 and 5/21/2024 I had sudden uninteded acceleration. I had a auto shop try to solve the problem by replacing the air fuel ratio sensor and the mass air flow sensor. This seem to fix the iss",
+          "I have a 2014 Subaru Forester that I purchase in 2023 from a dealership in Yonkers N.Y. I been noticing oil consumption at 1qt. a week at 300 miles. I investigated it on the internet and found out tha",
+          "I just found out that there was a problem with oil consumption in a 2014 subaru forester.I purchase it two years ago.Is there anything they can do to fix it."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 57,
+        "share_pct": 14.1,
+        "excerpts": [
+          "Airbag warning light came on 1/25, took to Subaru dealership for diagnostic service.  Was told the Passenger Front Seat Occupant Detection Sensor Assembly needs to be replaced, airbag system is not fu",
+          "The contact owned a 2014 Subaru Forester. The contact stated that while driving at 35 MPH, a vehicle coming from oncoming traffic was attempting to make a left, causing the contact to crash into that ",
+          "While I was driving to work, with Cruise control set at 65, I hit a deer head on. All airbags deployed and engine ceased and I was able to brake car to a stop on the shoulder of the road. Within minut"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 42,
+        "share_pct": 10.4,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2014 Subaru Forester on March 5, 2026. The contact stated that while attempting to register the vehicle, it was discovered that there was a mileage discrepancy.",
+          "On 5/15/2024 and 5/21/2024 I had sudden uninteded acceleration. I had a auto shop try to solve the problem by replacing the air fuel ratio sensor and the mass air flow sensor. This seem to fix the iss",
+          "While I was driving to work, with Cruise control set at 65, I hit a deer head on. All airbags deployed and engine ceased and I was able to brake car to a stop on the shoulder of the road. Within minut"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 42,
+        "share_pct": 10.4,
+        "excerpts": [
+          "I was driving my 2014 Subaru Forester (about 148,000 miles) behind a minivan at a safe distance and speed. Without warning, my vehicle accelerated uncontrollably. Despite applying the brakes, shifting",
+          "The contact owns a 2014 Subaru Forester. The contact stated that while she had the brake pedal depressed, the vehicle suddenly accelerated unintendedly. The vehicle crashed into the garage in front of",
+          "The contact owns a 2014 Subaru Forester. The contact stated while pulling into a parking space, the vehicle accelerated unintendedly, went over a cement post, onto a sidewalk pavement, and crashed int"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 48,
+      "fires": 3,
+      "injuries": 28,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 22
+      },
+      {
+        "year": 2014,
+        "count": 24
+      },
+      {
+        "year": 2015,
+        "count": 22
+      },
+      {
+        "year": 2016,
+        "count": 24
+      },
+      {
+        "year": 2017,
+        "count": 32
+      },
+      {
+        "year": 2018,
+        "count": 32
+      },
+      {
+        "year": 2019,
+        "count": 112
+      },
+      {
+        "year": 2020,
+        "count": 51
+      },
+      {
+        "year": 2021,
+        "count": 30
+      },
+      {
+        "year": 2022,
+        "count": 12
+      },
+      {
+        "year": 2023,
+        "count": 15
+      },
+      {
+        "year": 2024,
+        "count": 15
+      },
+      {
+        "year": 2025,
+        "count": 10
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "19V149000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2014-2016 Forester, 2008-2016 Impreza sedans, 2012-2016 Impreza station wagons, 2008-2014 WRX sedans (including STI), and 2013-2017 Crosstrek vehicles.  Exposure to certain contaminants may cause the brake light switch to malfunction, preventing ",
+        "report_date": "28/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V159000",
+        "component": "EQUIPMENT",
+        "summary": "Subaru is recalling certain model year 2014 Forester vehicles manufactured from January 2013 through March 2013. The backing for the carpeted floor mats was not manufactured to specification.  As a result, the floor mats may curl when exposed to heat.",
+        "report_date": "24/04/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:58:08.256Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

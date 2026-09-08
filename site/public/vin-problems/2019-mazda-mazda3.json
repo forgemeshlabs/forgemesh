@@ -1,0 +1,160 @@
+{
+  "slug": "2019-mazda-mazda3",
+  "year": 2019,
+  "make": "Mazda",
+  "model": "Mazda3",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 74,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 15,
+        "share_pct": 20.3,
+        "excerpts": [
+          "To whom it may concern,   I was on a back road late in the evening not far from home [XXX] and a small deer ran into the road. I needed to brake to avoid hitting the deer. After breaking, a Brake Syst",
+          "I WAS ACCELERATING AFTER A TRAFFIC LIGHT TURNED GREEN AND THERE WERE NO CARS IN FRONT OF ME WHEN THE CAR STARTED BRAKING AUTOMATICALLY AND CAME TO A FULL STOP. LUCKILY THE CAR BEHIND ME WAS ABLE TO ST",
+          "WITHOUT CAUSE: THE VEHICLE WILL SUDDENLY DETECT THE PRESENCE OF ANOTHER VEHICLE AND/OR SENSE AN IMMINENT COLLISION AND SUBSEQUENTLY APPLIES THE AUTOMATIC BRAKING SYSTEM, CAUSING THE VEHICLE SPEED TO S"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 11,
+        "share_pct": 14.9,
+        "excerpts": [
+          "This began on 10.19.24 and as of 11.03.24 is ongoing and not repaired. On 10/19/24, while I was at a red light, the RPMs on my vehicle went up and down repeatedly. After I arrived at my destination, w",
+          "I had an oil change back in April of 2024. I have been driving the last couple of days and after about 15 minutes my low oil light comes. this car has 58.800 miles on it. I stopped at a oil express to",
+          "Cylinder head is leaking oil due to known defect by Mazda.  The rocker arm rubs the cylinder and causes the wall the thin and oil to leak through.  Oil sprays on exhaust and other moving parts causing"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 11,
+        "share_pct": 14.9,
+        "excerpts": [
+          "I noticed oil was leaking and my engine was steaming after driving. My mechanic found a crack in a cylinder after watching YouTube and finding out Mazda has this issue.",
+          "The contact owns a 2019 Mazda Mazda3. The contact stated while driving 40 MPH, the vehicle lost motive power with the vehicle network malfunction, vehicle inspection”, the check engine warning light a",
+          "the vehicle started surging at low soeeds and accelarating and control module issues for the transmission"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 11,
+        "share_pct": 14.9,
+        "excerpts": [
+          "The vehicle's battery has gone dead on several occasions since replacing the OEM battery. The OEM battery which was approximately 3 years old, also had gone dead, prompting its replacement. The batter",
+          "The contact owns a 2019 Mazda Mazda3. The contact stated while driving approximately 30 MPH, the vehicle lost motive power and stalled. The contact stated that after pulling over to the shoulder the v",
+          "the vehicle started surging at low soeeds and accelarating and control module issues for the transmission"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 9,
+        "share_pct": 12.2,
+        "excerpts": [
+          "To whom it may concern,   I was on a back road late in the evening not far from home [XXX] and a small deer ran into the road. I needed to brake to avoid hitting the deer. After breaking, a Brake Syst",
+          "The contact owns a 2019 Mazda Mazda3. The contact stated while driving 35 MPH, the brake warning light illuminated and the vehicle would brake suddenly without the driver depressing the brake pedal. T",
+          "the vehicle started surging at low soeeds and accelarating and control module issues for the transmission"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 0,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 22
+      },
+      {
+        "year": 2020,
+        "count": 19
+      },
+      {
+        "year": 2021,
+        "count": 8
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 7
+      },
+      {
+        "year": 2024,
+        "count": 7
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "19V907000",
+        "component": "FORWARD COLLISION AVOIDANCE: AUTOMATIC EMERGENCY BRAKING",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2019-2020 Mazda3 vehicles.  The Smart Brake System (SBS) can falsely detect an obstacle while driving, activating the automatic emergency braking system and suddenly stopping the vehicle.",
+        "report_date": "19/12/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V497000",
+        "component": "ENGINE",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2018-2019 CX-5, Mazda6, and 2019 Mazda3 vehicles.  A software error in the powertrain control module (PCM) may cause the engine to stall.",
+        "report_date": "27/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V514000",
+        "component": "SEATS:FRONT ASSEMBLY:HEAD RESTRAINT",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2019 Mazda3 vehicles.  The seat cover material on both front seats may interfere with the head restraint lock release button, causing it to stick in the release position and not allow the head restraint to lock into place.",
+        "report_date": "05/07/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V558000",
+        "component": "VISIBILITY:GLASS, SIDE/REAR",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2019 Mazda3 vehicles equipped with manual dimming mirrors. The adhesive between the interior rearview mirror and the housing may not be properly bonded, allowing the mirror to detach from the housing.  Note: Vehicles equipped with auto dim",
+        "report_date": "29/07/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V363000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2019 Mazda3 vehicles.  Due to incorrect programing, the passenger air bag deactivation indicator light may erroneously turn off although the passenger air bag is deactivated.  In addition, the seat belt status indicators for both the front",
+        "report_date": "14/05/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V425000",
+        "component": "WHEELS:LUGS/NUTS/BOLTS/STUDS",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2019 Mazda3 vehicles.  The lug nuts on all four wheels may loosen, potentially resulting in a wheel detaching from the vehicle.",
+        "report_date": "07/06/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:36.169Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

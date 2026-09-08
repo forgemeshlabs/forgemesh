@@ -1,0 +1,164 @@
+{
+  "slug": "2013-gmc-terrain",
+  "year": 2013,
+  "make": "GMC",
+  "model": "Terrain",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 369,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 197,
+        "share_pct": 53.4,
+        "excerpts": [
+          "The exhaust and emissions system appears to have failed or is malfunctioning, including the catalytic converter and potentially the exhaust manifold or upstream exhaust components. The engine and fuel",
+          "Was driving my terrain and suddenly it started to shake and then check engine  Light came on. Upon getting out I checked the dipstick and no oil was on dipstick. Start to put oil in and it's running o",
+          "The contact owns a 2013 GMC Terrain. The contact stated that while coming to a complete stop or shifting into reverse, the vehicle lost automotive power. The check engine warning light was illuminated"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 50,
+        "share_pct": 13.6,
+        "excerpts": [
+          "UNKNOWN",
+          "My 2013 engine blew out, I did an oil change around February and a month later took my vehicle to aamco and they found a gallon of coolant in the engine. None of the warning lights came on prior to th",
+          "1. Engine burning oil, had to be replaced at 100,000 miles. In repair shop again, oil coming out of exhaust??  2. Car would stall out while driving, try to accelerate at a red light, almost crashed a "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 44,
+        "share_pct": 11.9,
+        "excerpts": [
+          "The exhaust and emissions system appears to have failed or is malfunctioning, including the catalytic converter and potentially the exhaust manifold or upstream exhaust components. The engine and fuel",
+          "The contact owns a 2013 GMC Terrain. The contact stated that while driving 40 MPH, the transmission failed to shift as needed. The contact stated that while driving at an undisclosed speed, the vehicl",
+          "I hit a pot hole and a stabilitrack error popped up. Also reduced engine power I was miles from home and could have easily caused a major accident on the road."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 23,
+        "share_pct": 6.2,
+        "excerpts": [
+          "I hit a pot hole and a stabilitrack error popped up. Also reduced engine power I was miles from home and could have easily caused a major accident on the road.",
+          "Sudden Excessive Oil Consumption, Engine Seized, Oil Pressure Alert Warning Failed to alert driver that the car was bone dry with no oil, and the Information Screen indicated that 25% Oil Life was Rem",
+          "The key can be removed from the ignition in P, R, N, D, and M after the vehicle has been shut off. The vehicle does not provide any warning that the vehicle is not in park prior to allowing you to rem"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 22,
+        "share_pct": 6,
+        "excerpts": [
+          "My airbag indicator lit up and I was not involved in any accident or even a fender bender. After this the engine indicator lit up as well, I had to replace the battery, change spark plugs at the local",
+          "My car is stating that I need to service my air bag.",
+          "WHILE TRAVELING APPROXIMATELY 45-50 MILES PER HOUR ON A TWO-LANE COUNTRY ROAD, A DEER STRUCK MY VEHICLE.  THE FRONT GRILLE, RADIATOR, AND FIBERGLASS WERE DAMAGED.  A STRONG BURNING SMELL BECAME APPARE"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 14,
+      "fires": 2,
+      "injuries": 25,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 16
+      },
+      {
+        "year": 2014,
+        "count": 17
+      },
+      {
+        "year": 2015,
+        "count": 8
+      },
+      {
+        "year": 2016,
+        "count": 51
+      },
+      {
+        "year": 2017,
+        "count": 33
+      },
+      {
+        "year": 2018,
+        "count": 46
+      },
+      {
+        "year": 2019,
+        "count": 61
+      },
+      {
+        "year": 2020,
+        "count": 32
+      },
+      {
+        "year": 2021,
+        "count": 33
+      },
+      {
+        "year": 2022,
+        "count": 32
+      },
+      {
+        "year": 2023,
+        "count": 17
+      },
+      {
+        "year": 2024,
+        "count": 14
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "16V582000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2013 Chevrolet Equinox and GMC Terrain vehicles.  In the affected vehicles, the ball joints in the windshield wiper module may corrode and wear over time, possibly resulting in one or both of the windshield wipers becoming inoperative.",
+        "report_date": "04/08/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V502000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016-2017 Buick Verano and 2016 Chevrolet Malibu as the electronic park lock lever may allow the ignition key to be removed without the transmission being in PARK.  Also, certain 2013 Buick Encore,  2011 Buick Regal, 2013-2014 Buick Verano, 201",
+        "report_date": "05/07/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V137000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2017 GMC Terrain vehicles.  A reflection caused by the headlight housings may illuminate areas above the vehicle and outside of the driver's view with excessively bright light.  As such, these vehicles fail to comply with the requirements of Federal",
+        "report_date": "08/03/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:39.330Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

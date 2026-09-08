@@ -1,0 +1,232 @@
+{
+  "slug": "2008-honda-pilot",
+  "year": 2008,
+  "make": "Honda",
+  "model": "Pilot",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 133,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 32,
+        "share_pct": 24.1,
+        "excerpts": [
+          "NEW CAR, PROBLEMS JUST UNCOVERED.",
+          "WAS IN A FRONT END ACCIDENT GOING 30 MPH AND NO AIR BAGS DEPLOYED. THE PERAON I TBONED ALL OF HIS DEPLOYED. NONE OF MINE WENT OFF.",
+          "2008 HONDA PILOT. CONSUMER WRITES IN REGARDS TO AIRBAG SAFETY RECALL. *LD    THE CONSUMER STATED AFTER THE REPAIR WAS COMPLETED THE AIRBAG WARNING LIGHT ILLUMINATED. PRIOR TO THE REPAIR IT WAS NOT. TH"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 16,
+        "share_pct": 12,
+        "excerpts": [
+          "When in the service garage for a noise, our independent service mechanic confirmed that the body of the Pilot has rusted from the frame.",
+          "2008 Honda pilot Rear subframe on both sides rotted out! horrible design! Lots of Honda pilots with this issue!! you could've killed my family due to this!!  This is a known issue now take care of you",
+          "WHILE DRIVING AT HIGHWAY SPEED, THE REAR OF THE CAR STARTED SWAYING SLIGHTLY.  SEVERAL PASSING MOTORISTS MOTIONED ME TO PULL OVER.  UPON INSPECTION, WE NOTICED THE REAR CHASSIS ON BOTH SIDES HAD PULLE"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 11,
+        "share_pct": 8.3,
+        "excerpts": [
+          "MY ENGINE LIGHT WENT ON AND WENT I CHECKED THE CODE P0741 STATED TORQUE CONVERTER STUCK  OFF.",
+          "WHILE DRIVING MY 2008 HONDA PILOT AT APPROXIMATELY 35 MILES AN HOUR THERE WAS A TERRIBLE SHUDDER IN THE TRANSMISSION AND IT LASTED FOR ABOUT 3 SECONDS . AT THAT TIME I LOST POWER AND LUCKILY I WASN'T ",
+          "HAD MY PILOT IN PARK WITH THE ENGINE RUNNING AND I COULD NOT SHIFT OUT OF PARK. I HAD TO PUSH ON THE RELEASE BUTTON ON TOP OF THE STEERING COLUMN TO GO INTO DRIVE. IT WON'T RESET AND MY HORN DOESN'T W"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 10,
+        "share_pct": 7.5,
+        "excerpts": [
+          "My car accelerated on its own and when I applied the brakes, they didn’t work. I hit a tree on my property and damaged my property and my car.",
+          "STATE INSPECTION FAILD, check engine light, bank 1 Catalytic Converter Internal Failure and bank 2 Catalytic converter Internal Failure, passenger side axle to be leaking, power steering pump to be le",
+          "TL* THE CONTACT OWNS A 2008 HONDA PILOT. THE CONTACT STATED WHILE APPROACHING A STOP SIGN AND DEPRESSING THE BRAKE PEDAL, THE VEHICLE INADVERTENTLY ACCELERATED. THE CONTACT STATED NO WARNING LIGHT WAS"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 9,
+        "share_pct": 6.8,
+        "excerpts": [
+          "Left headlight went out in July 2023 while traveling in Oklahoma. I had it replaced at a NAPA shop in Kansas shortly after. The headlight went out again while home in Charleston, SC in November 2023. ",
+          "TL* THE CONTACT OWNS A 2008 HONDA PILOT. THE CONTACT STATED THAT THE HORN DID NOT OPERATE. THE FAILURE OCCURRED SPORADICALLY FOR APPROXIMATELY ONE YEAR, BUT CURRENTLY DOES NOT SOUND AT ALL. THE VEHICL",
+          "THE KEY WILL NOT TURN IN THE IGNITION. I WAS HAVING TROUBLE GETTING THE KEY TO GO INTO THE IGNITION ABOUT 2 DAYS AGO, NOW I CAN GET THE KEY IN, BUT IT WILL NOT TURN. I CAN TAKE THE KEY IN AND OUT, BUT"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 11,
+      "fires": 3,
+      "injuries": 15,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2007,
+        "count": 4
+      },
+      {
+        "year": 2008,
+        "count": 6
+      },
+      {
+        "year": 2009,
+        "count": 5
+      },
+      {
+        "year": 2010,
+        "count": 10
+      },
+      {
+        "year": 2011,
+        "count": 3
+      },
+      {
+        "year": 2012,
+        "count": 9
+      },
+      {
+        "year": 2013,
+        "count": 5
+      },
+      {
+        "year": 2014,
+        "count": 12
+      },
+      {
+        "year": 2015,
+        "count": 15
+      },
+      {
+        "year": 2016,
+        "count": 20
+      },
+      {
+        "year": 2017,
+        "count": 5
+      },
+      {
+        "year": 2018,
+        "count": 9
+      },
+      {
+        "year": 2019,
+        "count": 6
+      },
+      {
+        "year": 2020,
+        "count": 4
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "19V182000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling specific 2003 Acura 3.2CL, 2013-2016 ILX, 2013-2014 ILX Hybrid, 2003-2006 MDX, 2007-2016 RDX, 2002-2003 3.2TL, 2004-2006, and 2009-2014 TL, 2010-2013 ZDX and 2001-2007 and 2009 Honda Accord, 2001-2005 Civic, 2003-2005 Civic Hybrid, 2001-2005 Civic GX NGV",
+        "report_date": "06/03/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19E068000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "Dorman Products, Inc.  (Dorman) is recalling certain Accelerator Pedal Assemblies part numbers 699-114 and 825-5029-1, sold as replacement parts for 2003-2006 Acura MDX, 2004-2008 Acura TL and TSX, 2003-2007 Honda Accord, 2005-2006 Honda CR-V, 2007-2011 Honda Element, 2005-2008 Honda Pilot and 2006-",
+        "report_date": "10/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V499000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2003 Acura 3.2CL, 2002-2003 3.2TL, 2003-2006 MDX, 2001-2007 Honda Accord, 2001-2005 Civic, 2003-2005 Civic Hybrid, 2001-2005 Civic GX NGV, 2002-2006 CR-V, 2003-2011 Element, 2002-2004 Odyssey, 2003-2008 Pilot and 2006 Ridgeline vehicles.  \r\n\r\nThe",
+        "report_date": "27/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V501000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2003-2006 Acura MDX, 2005-2012 RL, 2003-2007 Honda Accord, 2001-2005 Civic, 2003-2005 Civic Hybrid, 2001-2005 Civic GX NGV, 2002-2006 CR-V, 2003-2011 Element, 2007-2008 Fit, 2002-2004 Odyssey, 2003-2008 Pilot, and 2006-2014 Ridgeline vehicles. \r\n",
+        "report_date": "27/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V268000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2003-2012 Honda Accord and Pilot, 2010 Accord Crosstour, 2001-2011 Civic, 2002-2011 CR-V, 2003-2004, 2006-2008 and 2011 Element, 2007 and 2009-2013 Fit, 2010-2012 Insight, 2002-2004 Odyssey, and 2012 Ridgeline vehicles.  The front passenger air b",
+        "report_date": "26/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V029000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2005-2006 Acura MDX and Honda CR-V vehicles, 2005-2011 Honda Element vehicles, 2005-2012 Acura RL vehicles, 2006-2012 Honda Ridgeline vehicles, 2007-2008 Honda Fit vehicles and 2005-2008 Honda Pilot vehicles originally sold, or ever registered, i",
+        "report_date": "10/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V320000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2001-2007 Accord, 2001-2005 Civic, 2001-2004 Honda Civic GX, 2003-2005 Honda Civic Hybrid, 2002-2006 CR-V, 2003-2011 Element, 2002-2004 Odyssey, 2003-2008 Pilot, 2006 Ridgeline, 2003 Acura 3.2CL, 2003-2006 Acura MDX, and 2002-2003 Acur",
+        "report_date": "28/05/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V344000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2003-2006 Acura MDX, 2005-2011 Acura RL, 2005-2006 Honda CR-V, 2003-2011 Element, 2007-2008 Fit, 2003-2008 Pilot, 2002-2004 Odyssey, and 2006-2011 Ridgeline vehicles originally sold, or that have ever been registered, in Alabama, Calif",
+        "report_date": "23/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08E013000",
+        "component": "EQUIPMENT:MECHANICAL:CARRIER/RACK",
+        "summary": "HONDA IS RECALLING 2,032 HITCH STYLE BIKE RACKS SOLD AS AFTERMARKET FOR USE ON MY 2003-2007 AND SOME MY 2008 HONDA PILOT, RIDGELINE, AND ACURA MDX VEHICLES.  A PINCH BOLT EXISTS BETWEEN THE BIKE ARM BRACKET AND THE UPRIGHT ASSEMBLY OF THE \"HITCH\" STYLE BICYCLE RACK.",
+        "report_date": "05/02/2008",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:47:40.325Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "2012-hyundai-santa-fe",
+  "year": 2012,
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 353,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 228,
+        "share_pct": 64.6,
+        "excerpts": [
+          "On June 16, 2025, I dropped my 2012 Hyundai Santa Fe GLS (VIN: [XXX]) off at Larry H. Miller Southwest in Albuquerque, NM for NHTSA safety recall #20V746000 (Theta II engine connecting rod bearing fai",
+          "The engine rod broke creating a big whole in the engine which caused the engine and underneath of car to start on fire. There was a massive recall for this same issue in 2021-2023 for the year car! It",
+          "My 2012 Hyundai Santa Fe caught fire on October 29, 2025. Prior to this, the dealership completed one recall but left another open. Hyundai denied my claim and refused to provide the inspection report"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 43,
+        "share_pct": 12.2,
+        "excerpts": [
+          "The contact purchased a 2012 Hyundai Santa Fe. The contact stated that while attempting to register the vehicle, it was discovered that there was a mileage discrepancy. The vehicle was a private sale.",
+          "In November 2024, my car engine failed. I came out of a store, turned key, all the dash lights lit up, and loud clanging but unable to drive. Car towed several times and told by 2-3 places the engine ",
+          "Windows issues multiple times.  The first time the driver side front window would occasionally go up then automatically down when I tried to raise the window.  Likewise when I tried to open the window"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 40,
+        "share_pct": 11.3,
+        "excerpts": [
+          "STOPPED AT A RED LIGHT. STEPPED ON GAS TO MOVE AND THE ENGINE REVVED UP AND IT JUST TOOK OFF.  HAD TO USE BOTH FEET ON BRAKE PEDAL TO STOP THE CAR. GOING ABOUT 1 MPH AFTER THE LIGHT TURNED GREEN.  THE",
+          "MY CAR IS SHAKING WHEN THE VEHICLE GETS UP TO AROUND 60 MILES AN HOUR.",
+          "MY VEHICLE IS A 2012 HYUNDAI SANTA FE WITH 131,000 MILES.  I WAS DRIVING ON THE HIGHWAY TRAVELING ABOUT 65 MPH AND LOST POWER STEERING, POWER BREAKS, AND SPEED CONTROL.  MY CAR BEGAN TO SLOW AND WOULD"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 28,
+        "share_pct": 7.9,
+        "excerpts": [
+          "ALL THREE LIGHTS ABS, ESC, AND DBC ON DASH CAME ON SAME TIME AFTER REPLACING DRIVERS SIDE HEAD LIGHT BULB. WHEEL SPEED SENSOR AND TRACTION CONTROL IMPACTING THE DRIVEABILITY.",
+          "MY ESC, DBC, AND ABS WARNING LIGHTS ALL ILLUMINATED AT THE SAME TIME THIS MORNING.   THERE ARE MANY COMPLAINTS OF THIS HAPPENING ON NUMEROUS HYUNDAI FORMS.  FOLKS HAVE BEEN TOLD TO REPLACE HUBS, SENSO",
+          "WHILE DRIVING ON A BUSY STREET, I SLOWLY TURNED A CORNER AND SUDDENLY LOST MY POWER STEERING AND BRAKES AND THE ENGINE STALLED OUT. I IMMEDIATELY TURNED OFF THE ENGINE, SAT BRIEFLY BLOCKING THE HEAVY "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 24,
+        "share_pct": 6.8,
+        "excerpts": [
+          "MY 2012 HYUNDI SANTA FE STALLED ON ME AS I WAS APPROACHING A TRAFFIC LIGHT 3 WEEKS AGO.. LAST WEEK MY CHECK ENGINE OIL LIGHT CAME ON MY DASHBOARD.  I TOOK IT TO A CERTIFIED MECHANIC AND HE SAID THE PR",
+          "BOTH CV AXLE BOOTS TORN DUE TO FAILED LOWER CONTROL ARMS.",
+          "CAR WITH LESS THAN 39,000 MILES AND PROPER OIL CHECKS AND CHANGES: OIL LEAKING FROM THE OIL PRESSURE SENSING UNIT. PER AUTO BODY SHOP- MULTIPLE HOURS OF LABOR FOR FIX WITH HEFTY COST. HOW IS IT THAT A"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 25,
+      "fires": 17,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 4
+      },
+      {
+        "year": 2012,
+        "count": 36
+      },
+      {
+        "year": 2013,
+        "count": 39
+      },
+      {
+        "year": 2014,
+        "count": 26
+      },
+      {
+        "year": 2015,
+        "count": 11
+      },
+      {
+        "year": 2016,
+        "count": 9
+      },
+      {
+        "year": 2017,
+        "count": 33
+      },
+      {
+        "year": 2018,
+        "count": 33
+      },
+      {
+        "year": 2019,
+        "count": 40
+      },
+      {
+        "year": 2020,
+        "count": 43
+      },
+      {
+        "year": 2021,
+        "count": 31
+      },
+      {
+        "year": 2022,
+        "count": 14
+      },
+      {
+        "year": 2023,
+        "count": 15
+      },
+      {
+        "year": 2024,
+        "count": 9
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "20V746000",
+        "component": "ENGINE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2015-2016 Veloster, 2012 Santa Fe, 2011-2013 Sonata Hybrid, and 2016 Sonata Hybrid vehicles.  The connecting rod bearings inside the engine may wear prematurely, which over time can result in engine damage.",
+        "report_date": "01/12/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:55:45.702Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

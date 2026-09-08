@@ -1,0 +1,176 @@
+{
+  "slug": "2021-dodge-durango",
+  "year": 2021,
+  "make": "Dodge",
+  "model": "Durango",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 199,
+    "top_failure_components": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 90,
+        "share_pct": 45.2,
+        "excerpts": [
+          "The driver side daytime running lamp no longer works after 55000 miles.  The daytime running lamp  (DRL) is an led light strip that requires the entire headlamp to be replaced.   Anyone can inspect th",
+          "Drivers side running light went out at 65k miles.  Hundreds of complaints on same issue online. Not covered after bumper to bumper",
+          "My vehicle is 5 years old with 54,000 miles on its and my driver's side headlight has failed. The headlamps are LED and in order to repair them, the entire housing needs a replacement, not just a bulb"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 40,
+        "share_pct": 20.1,
+        "excerpts": [
+          "There is a daytime running light (DRL) malfunction with both headlights, it started with the drivers side slowly going out and now the passenger side is slowly going out. This is happening to several ",
+          "Rear racetrack style taillight assembly had faulty gaskets when purchased, allowing for water intrusion of the taillight assembly, causing water damage to the electrical components in the light assemb",
+          "Left headlight assembly running lights failed. The light fixture. is one unit.so the whole light being replaced instead of one lightbulb."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 22,
+        "share_pct": 11.1,
+        "excerpts": [
+          "Started having problems with the engine losing power and sputtering was told by a repair shop that the engine needs replaced it has been sitting since",
+          "I'm having issues with my 2021 Dodge Durango I have a recall on a rear view camera a recall on a rear spoiler a recall on the steering assembly a recall on the ESC light mail function ABS system loose",
+          "Cooling systems failed caused the engine to blow without warning"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 14,
+        "share_pct": 7,
+        "excerpts": [
+          "Rear Spoiler Recall in 2022 on Dodge Durango GT.  Recall was not fixed due to part not available.  I opened my rear hatch on Monday August the 18th and the rear spoiler detached on the left side.  I t",
+          "I was driving at around 45 MPH when my rear spoiler suddenly detached from my 2022 vehicle. It was only held on by one latch and the wire for the rear camera. This could have caused a serious accident",
+          "Rear spoiler flew off on highway as I was on my way to my son‘s [XXX]  birthday party with a vehicle full of children. This is a major concern because it could have endanger the people in the vehicle "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 10,
+        "share_pct": 5,
+        "excerpts": [
+          "My fuel pump went out without codes. My car stalled out on a highway while I was going 65 miles an hour with my baby in my car , and would not crank back up or go into neutral . No , it has not been t",
+          "My durango been having issues starting after seating over night also there has been a couple times when the durango  loses power and is very sluggish  it has to be a fuel pump issues",
+          "On the morning of July 8th our carbon monoxide detector went off. It woke us up at 4:00 a.m., I went down to check what was beeping open my garage door to see where the smell is coming from and my gar"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 4,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1992,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 16
+      },
+      {
+        "year": 2022,
+        "count": 20
+      },
+      {
+        "year": 2023,
+        "count": 21
+      },
+      {
+        "year": 2024,
+        "count": 47
+      },
+      {
+        "year": 2025,
+        "count": 55
+      },
+      {
+        "year": 2026,
+        "count": 38
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "21V842000",
+        "component": "STRUCTURE:BODY",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021 Dodge Durango vehicles.  The rear spoiler may not be aligned properly with the roof, resulting in damage to the spoiler during liftgate use.",
+        "report_date": "28/10/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V280000",
+        "component": "AIR BAGS:CRITICAL FASTENERS",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2021 Dodge Durango vehicles.  The Side Air Bag Inflatable Curtain (SABIC) fastener may be loose or missing.",
+        "report_date": "22/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V140000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2019-2022 Ram 2500 and 2021-2022 Dodge Durango vehicles, and 2019-2022 3500 cab chassis with GVWR less than 10,000 lbs.  The ABS control module software may prevent the electronic stability control (ESC) malfunction indicator light from illuminating during",
+        "report_date": "10/03/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V154000",
+        "component": "STEERING:RACK AND PINION",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2022 Dodge Durango and 2022 Jeep Grand Cherokee vehicles.  The steering gear rack bar may have been insufficiently hardened during manufacturing, possibly allowing it to bind within the steering rack, and resulting in difficulty steering or a loss of ",
+        "report_date": "14/03/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V284000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:EMISSION CONTROL:GAS RECIRCULATION VALVE (EGR VALVE)",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021 Dodge Durango, Jeep Grand Cherokee WK, 2022 Jeep Grand Cherokee, and 2021-2022 Jeep Grand Cherokee L vehicles equipped with 3.6L engines.  The exhaust gas recirculation (EGR) valve may stick open, resulting in an unexpected loss of drive power.",
+        "report_date": "28/04/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V115000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2023 Dodge Durango vehicles.  The rear spoiler may not be aligned properly with the roof, resulting in damage to the spoiler during liftgate use.",
+        "report_date": "23/02/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V436000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2022 Dodge Durango, 2021-2023 Chrysler Pacifica, Jeep Grand Cherokee L, 2022 Ram 1500, 2500, 3500, Chrysler Voyager, 2022-2023 Jeep Compass, Grand Cherokee, Wagoneer, Grand Wagoneer, and Ram Promaster vehicles.  The radio software may prevent the rear",
+        "report_date": "13/06/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V528000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2023 Dodge Durango vehicles. The rear spoiler may not be aligned properly with the roof, possibly resulting in damage to the spoiler during liftgate use.",
+        "report_date": "13/08/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:07:12.158Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

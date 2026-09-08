@@ -1,0 +1,240 @@
+{
+  "slug": "2014-gmc-sierra",
+  "year": 2014,
+  "make": "GMC",
+  "model": "Sierra",
+  "matched_as": {
+    "complaints": [
+      "SIERRA 2500",
+      "SIERRA 1500",
+      "SIERRA 3500"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1097,
+    "top_failure_components": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 340,
+        "share_pct": 31,
+        "excerpts": [
+          "I AM WRITING REGARDING AN ISSUE WITH MY 2014 GMC SIERRA. I PURCHASED THE TRUCK IN 2014 AND HAVE NOTICED AN ISSUE WITH THE HEADLIGHTS WHILE DRIVING AT NIGHT AND IN THE RAIN. THE HEADLIGHTS DO NOT PROVI",
+          "THE VEHICLE LIGHTS ARE VERY DIM EVEN WITH THE HIGH BEAMS ON. WHILE DRIVING AT NIGHT CAN BARELY SEE IN FRONT OF ME. THESE ARE A HAZARD TO ME AND OTHERS, SINCE NOT BEING ABLE TO SEE A GOOD DISTANCE IN F",
+          "CAN NOT SEE THE ROAD WITH THE LIGHT OUTPUT WITH THESE FACTORY HEADLIGHT"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 182,
+        "share_pct": 16.6,
+        "excerpts": [
+          "The contact owns a 2014 GMC Sierra 1500. The contact stated while exiting his garage and making a right turn, the steering wheel became difficult to turn. The contact stated no warning light was illum",
+          "The contact owns a 2014 GMC Sierra. The contact stated while driving on a dirt road at 3 mph and making a left turn but the vehicle made a right turn and crashed into a tree. The contact stated no war",
+          "2014 Sierra 2500HD SN ([XXX])  Leaving on vacation towing camper with family Bosch CP4 fuel pump issue left me stranded on a HWY 9 just outside Clinton, AR which is a 2 lane HWY with no shoulder. The "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 161,
+        "share_pct": 14.7,
+        "excerpts": [
+          "Backing out of driveway, suddenly lost the transmission. I was stranded at about a 45-degree angle into the traffic lane. I had no gear position indication (an automatic) and couldn't move the truck u",
+          "THE REAR SLIDING WINDOW STOPPED WORKING AFTER I TRIED TO OPEN IT USING THE SWITCH LOCATED NEAR THE REARVIEW MIRROR. IT HAD ONLY BEEN OPENED LESS THAN 12 TIMES.",
+          "I WENT TO OPEN THE ELECTRIC REAR SLIDING WINDOW, AND IT STARTED TO OPEN, THEN IT STOPPED HALFWAY OPEN, WITH A BLACK CABLE HANGING DOWN. MY TRUCK ONLY HAS ABOUT 23,000 MILES ON IT, AND HAVE ONLY OPEN I"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 151,
+        "share_pct": 13.8,
+        "excerpts": [
+          "2014 Sierra 2500HD SN ([XXX])  Leaving on vacation towing camper with family Bosch CP4 fuel pump issue left me stranded on a HWY 9 just outside Clinton, AR which is a 2 lane HWY with no shoulder. The ",
+          "The vacuum pump has been recalled on same year, make and model vehicle, yet my particular VIN is falling to the wayside.  IT HAS A VACUUM PUMP issue, causing the brakes to malfunction at slower rates ",
+          "The contact owns a 2014 GMC Sierra 1500. The contact stated that while driving at an undisclosed speed, the brake pedal was depressed; however, the vehicle failed to stop as intended. No warning light"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 104,
+        "share_pct": 9.5,
+        "excerpts": [
+          "The contact owns a 2014 GMC Sierra. The contact stated that while making a right turn into the driveway, the steering wheel had become stiff. No warning light had illuminated. The vehicle was no longe",
+          "THE GEAR SHIFT WENT LOOSE WHEN I STOPPED AND WENT TO PUT IT IN PARK. THEN NO ABILITY TO SHIFT OR RE-START THE TRUCK.  THE CABLE BROKE AND I WAS TOLD THIS IS A KNOWN ISSUE. MY REPORT SAYS THAT THERE AR",
+          "THE BIGGEST PROBLEM (OUT OF MANY) THAT MAKES THIS  VEHICLE UNSAFE, STRESSFUL, AND DISCOMFORTING TO DRIVE IS HOW IT WILL RANDOMLY DECIDES TO RAISE THE IDLE TO 900+ RPM (IN GEAR) AND BASICALLY DRIVES IT"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 42,
+      "fires": 14,
+      "injuries": 43,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2005,
+        "count": 3
+      },
+      {
+        "year": 2013,
+        "count": 44
+      },
+      {
+        "year": 2014,
+        "count": 274
+      },
+      {
+        "year": 2015,
+        "count": 94
+      },
+      {
+        "year": 2016,
+        "count": 79
+      },
+      {
+        "year": 2017,
+        "count": 116
+      },
+      {
+        "year": 2018,
+        "count": 98
+      },
+      {
+        "year": 2019,
+        "count": 116
+      },
+      {
+        "year": 2020,
+        "count": 66
+      },
+      {
+        "year": 2021,
+        "count": 39
+      },
+      {
+        "year": 2022,
+        "count": 51
+      },
+      {
+        "year": 2023,
+        "count": 43
+      },
+      {
+        "year": 2024,
+        "count": 41
+      },
+      {
+        "year": 2025,
+        "count": 24
+      },
+      {
+        "year": 2026,
+        "count": 9
+      }
+    ]
+  },
+  "recalls": {
+    "count": 12,
+    "recalls": [
+      {
+        "campaign_number": "14V301000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2015 Chevrolet Silverado and GMC Sierra, and 2015 Chevrolet Tahoe and Suburban vehicles equipped with a base radio and an internal amplifier. The radios in the affected vehicles may become inoperative, and as a result, there would be no au",
+        "report_date": "06/06/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V152000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:COOLING UNIT AND LINES",
+        "summary": "General Motors LLC (GM ) is recalling certain model year 2014 Chevrolet Silverado Light Duty Regular Cab, Double Cab, and Crew Cab 1500 series and model year 2015 Suburban and Tahoe; GMC model year 2014 Sierra Regular Cab, Double Cab, and Crew Cab 1500 Series and model year 2015 Yukon and Yukon XL v",
+        "report_date": "31/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V640000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2015 Chevrolet Silverado and GMC Sierra trucks manufactured January 24, 2014, to February 26, 2014, 2015 Chevrolet Suburban vehicles manufactured February 12, 2014 and Chevrolet Tahoe vehicles manufactured February 6, 2014, to February 13,",
+        "report_date": "09/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V544000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "General Motors (GM) is recalling certain model year 2013-2014 Chevrolet Silverado HD, Chevrolet Express, and GMC Sierra HD vehicles, and model year 2013 GMC Savana compressed natural gas (CNG) vehicles that fail to comply with Federal Motor Vehicle Safety Standard No. 303 \"Fuel System Integrity of C",
+        "report_date": "30/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V446000",
+        "component": "SEATS",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2013-2014 Buick Encore and Cadillac ATS; 2014 Cadillac CTS, ELR, Chevrolet Caprice and SS vehicles; and 2014-2015 Chevrolet Silverado and GMC Sierra Trucks.  Due to an incomplete weld on the seat hook bracket assembly, the front seats in the af",
+        "report_date": "23/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V345000",
+        "component": "EQUIPMENT",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014 Chevrolet Silverado vehicles manufactured May 15, 2013, to January 29, 2014, and GMC Sierra vehicles manufactured September 19, 2013, to February 8, 2014, and  equipped with both optional accessory all-weather floor mats (option RPO VAV) a",
+        "report_date": "18/06/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V374000",
+        "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2015 Chevrolet Silverado and GMC Sierra vehicles, and model year 2015 GMC Yukon and Chevrolet Suburban and Tahoe vehicles.  In the affected vehicles, an electrical signal short may cause the transfer case to shift to neutral without the dr",
+        "report_date": "27/06/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V246000",
+        "component": "STEERING:LINKAGES:TIE ROD ASSEMBLY",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014 Chevrolet Silverado vehicles manufactured May 23, 2013, through March 25, 2014, 2014 GMC Sierra vehicles manufactured May 25, 2013, through March 31, 2014, and 2015 Chevrolet Tahoe vehicles manufactured January 29, 2014, through March 27, ",
+        "report_date": "14/05/2014",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V488000",
+        "component": "SEATS:FRONT ASSEMBLY:HEAD RESTRAINT",
+        "summary": "General Motors (GM) is recalling certain model year 2014 Chevrolet Silverado and GMC Sierra 1500 vehicles manufactured August 1, 2013, through September 10, 2013, and equipped with manual reclining seatbacks.  In the affected vehicles, either of the front seatbacks may have play. Thus, these vehicle",
+        "report_date": "17/10/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V614000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2013-2014 Cadillac CTS, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, GMC Yukon, and Yukon XL, and 2014 Buick Enclave, Chevrolet Express, Impala, Silverado HD, Traverse, GMC Acadia, Savana, and Sierra HD vehicles.  In the affected vehicles",
+        "report_date": "01/10/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V315000",
+        "component": "AIR BAGS",
+        "summary": "General Motors is recalling certain model year 2014 Chevrolet Silverado trucks manufactured June 1, 2013, through June 30, 2013; and model year 2014 GMC Sierra trucks manufactured June 4, 2013, through June 30, 2013.  Welding on the passenger airbag inflator may fracture when the airbag is deployed,",
+        "report_date": "19/07/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13E073000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "General Motors LLC (GM) is recalling certain software intended for 2015 vehicles that was installed by service centers into model year 2014 Chevrolet Silverados and GMC Sierras equipped with Allison A1000 transmissions.  The incorrect software may cause the transmission indicator not to display that",
+        "report_date": "20/12/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:58:57.253Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

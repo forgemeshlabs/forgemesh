@@ -1,0 +1,144 @@
+{
+  "slug": "2018-chevrolet-tahoe",
+  "year": 2018,
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 103,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 20,
+        "share_pct": 19.4,
+        "excerpts": [
+          "05/15/23 - AFM Lifter failure - Complete Top End Rebuild under extended warranty purchased when i bought the Tahoe - Preowned certified. Cost $2,000.00 Out Of Pocket ( Days Chevrolet Repaired 86,350 m",
+          "Out of nowhere without any warning light all of a sudden couldn’t back up when geared into reverse to reverse. Turned the vehicle off and back on, then was able to reverse. Left parking lot and was on",
+          "Unexpected acceleration"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 20,
+        "share_pct": 19.4,
+        "excerpts": [
+          "05/15/23 - AFM Lifter failure - Complete Top End Rebuild under extended warranty purchased when i bought the Tahoe - Preowned certified. Cost $2,000.00 Out Of Pocket ( Days Chevrolet Repaired 86,350 m",
+          "Out of nowhere without any warning light all of a sudden couldn’t back up when geared into reverse to reverse. Turned the vehicle off and back on, then was able to reverse. Left parking lot and was on",
+          "During a road trip, we came to a stop and upon stepping on gas to proceed on the road and it wouldn't go. The engine revved and \"pulled\" until we were able to move. We took it to a dealership as well "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 19,
+        "share_pct": 18.4,
+        "excerpts": [
+          "The contact owns a 2018 Chevrolet Tahoe. The contact stated that while attempting to start the vehicle, the brake pedal had to be depressed very hard to start the vehicle. The contact stated that whil",
+          "The Body Control Module does not work. A new BCM was installed in my car in April 2025. Since then I am having multiple issues, but the safety related issue is with the trailer braking system.   It is",
+          "The contact owns a 2018 Chevrolet Tahoe. The contact stated while driving at an undisclosed speed, the brake pedal was depressed with the brake warning light illuminated. The vehicle was able to resta"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 13,
+        "share_pct": 12.6,
+        "excerpts": [
+          "Vehicle was driven the day before the incident occurred. The morning of the incident, the vehicle was parked, off and not running.  A notification sent to my phone indicating a critical battery low 11",
+          "The Body Control Module does not work. A new BCM was installed in my car in April 2025. Since then I am having multiple issues, but the safety related issue is with the trailer braking system.   It is",
+          "My vehicle started announcing service trailer brake system when i purchased my vehicle about 5k miles in i took it to the dealer they couldn't find anything wrong now that message started to get worse"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 11,
+        "share_pct": 10.7,
+        "excerpts": [
+          "The contact owns a 2018 Chevrolet Tahoe. The contact stated that after parking the vehicle in a parking lot and returning to start the vehicle, the “Power Steering Assist Fault” message was displayed,",
+          "First occasion the car drove fine with no indication of an issue. Then once the car was turned off then on, the dash showed no lights or gauges and indicated that the steering assist is not working an",
+          "Power steering went out with kids in the car when vehicle only had 76000 miles. There was a special coverage for 2018 models that my vin was not a part of. Had it been this wouldn't have happened to m"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 0,
+      "injuries": 5,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 9
+      },
+      {
+        "year": 2019,
+        "count": 8
+      },
+      {
+        "year": 2020,
+        "count": 12
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 15
+      },
+      {
+        "year": 2023,
+        "count": 15
+      },
+      {
+        "year": 2024,
+        "count": 11
+      },
+      {
+        "year": 2025,
+        "count": 14
+      },
+      {
+        "year": 2026,
+        "count": 14
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "20V603000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+        "summary": "General Motors LLC (GM) is recalling certain 2018 Cadillac Escalade, Chevrolet Silverado 1500 and Tahoe, GMC Sierra 1500 and Yukon vehicles equipped with either a 5.3L or 6.2L V8 engine.  The output of the mechanical vacuum pump can decrease over time, decreasing the amount of vacuum/power brake ass",
+        "report_date": "01/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V645000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2017 Cadillac Escalade, 2014-2018 Chevrolet Silverado, GMC Sierra, 2015-2018 Chevrolet Suburban, Tahoe, GMC Yukon vehicles.  The amount of vacuum created by the vacuum pump may decrease over time.",
+        "report_date": "06/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V761000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is tra",
+        "report_date": "24/10/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:57.227Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

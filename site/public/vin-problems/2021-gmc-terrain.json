@@ -1,0 +1,120 @@
+{
+  "slug": "2021-gmc-terrain",
+  "year": 2021,
+  "make": "GMC",
+  "model": "Terrain",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 34,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 8,
+        "share_pct": 23.5,
+        "excerpts": [
+          "Vacuum pump failure caused my brakes to lock up and almost caused me to wreck into another vehicle",
+          "Driving on the Garden state parkway on Sunday night June 28, 2026 I proceed to cross over the ratitan bridge. There was traffic as I was going down the bridge at 70 miles an hour. When I applied the b",
+          "Formal Safety Complaint – 2021 GMC Terrain Brake Failure Vehicle: 2021 GMC Terrain Incident Location: Garden State Parkway (NJ) Speed: Approximately 65 mph Incident Description While driving northboun"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 8,
+        "share_pct": 23.5,
+        "excerpts": [
+          "Automatic transmission solenoid control valve body got stuck open and ruined the whole transmission. This has been a reoccurring problem with these vehicles. Image is from a code read. Issue was confi",
+          "The contact owns a 2021 GMC Terrain. The contact stated that the transmission was previously replaced. The contact stated that upon starting the vehicle, the check engine warning light illuminated. Th",
+          "First time I had problems with my 2021 Terrain I took it to victory GMC on 9/20/24. At the it had 45,000 miles. Every time I would drive and accelerate it would shake extremely bad in the floorboard. "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 8,
+        "share_pct": 23.5,
+        "excerpts": [
+          "The contact owns a 2021 GMC Terrain. The contact stated that while driving at various speeds, the vehicle hesitated while depressing the accelerator pedal, with a misfire coming from the engine. Durin",
+          "Vehicle went into reduce engine power mode and check engine light came on. Vehicle has just over 60,000 miles. Code is telling me I need a new turbo and being quoted 1,500-3,000. I have read so many p",
+          "The engine light came on while driving, saying “engine power reduced”. It barely accelerates, RPMs go over 5, it chugs when driving. Taken to an independent service center."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 7,
+        "share_pct": 20.6,
+        "excerpts": [
+          "Driving my vehicle with no warnings, messages, or symptoms on adaptive cruise control Sunday [XXX] on [XXX] in Michigan. I changed lanes into the right lane when the vehicle abruptly, without notifica",
+          "I purchased the car August 2024, I have had it for 4 months and while driving down the road a large fuel tank pops up stating low fuel and the car comes to an abrupt stop.The 3x the gas tank was never",
+          "The car has revved high rpm's since purchase, with multiple attempts to get it resolved . Since then, the steering wheel has jerked out of my hand's multiple times, unexpecting, causing the car to jer"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 3,
+        "share_pct": 8.8,
+        "excerpts": [
+          "Driving my vehicle with no warnings, messages, or symptoms on adaptive cruise control Sunday [XXX] on [XXX] in Michigan. I changed lanes into the right lane when the vehicle abruptly, without notifica",
+          "Automatic Emergency brakes have unnecessarily or prematurely activated on 2 separate occasions causing my car to stop very abruptly which has resulted in Neck,  Shoulder and back pain. I have been ver",
+          "I was backing out of a parking spot when I came in contact with a vehicle going east bound in the parking lot the contact was on the rear right side of my vehicle before I could do anything my vehicle"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 0,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "21V612000",
+        "component": "TIRES",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021-2022 Chevrolet Equinox and GMC Terrain vehicles equipped with certain Hankook tires.  The tires may have been manufactured with an insufficient amount of curative agent, which could cause tread separation.",
+        "report_date": "05/08/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V339000",
+        "component": "CHILD SEAT:VEHICLE LATCH ANCHOR",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2023 Chevrolet Equinox and GMC Terrain vehicles.  The four rear-seat lower child seat LATCH anchorage bars may have excessive powder coating, which could prevent a child seat from being installed with the anchorage bars.  As such, these vehicles fai",
+        "report_date": "11/05/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:07:23.698Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "2022-nissan-pathfinder",
+  "year": 2022,
+  "make": "Nissan",
+  "model": "Pathfinder",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 135,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 34,
+        "share_pct": 25.2,
+        "excerpts": [
+          "The rear brakes on my 2022 Nissan pathfinder are having unusual fast deterioration. I purchased the car at 13,000 miles and had to replace the rear brakes at 25,000 miles and now once again I am havin",
+          "First Incident- volume kept rising on its own. Would turn it down, it would go right back up. Would turn the radio off, it would turn on by itself and would keep rising until full blast. Vehicle was p",
+          "My 2022 Nissan Pathfinder was purchased new and now has 27150 miles. On April 9 2026, I was having my summer tires installed and was told by the tire shop that the rear brakes were worn out and needed"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 20,
+        "share_pct": 14.8,
+        "excerpts": [
+          "A/C and electrical board",
+          "Components Affected: STRUCTURE:SUNROOF | ELECTRICAL SYSTEM | VISIBILITY/WIPER  Description of Safety Hazard: My 2022 Nissan Pathfinder suffers from a severe, chronic manufacturing defect causing subst",
+          "First Incident- volume kept rising on its own. Would turn it down, it would go right back up. Would turn the radio off, it would turn on by itself and would keep rising until full blast. Vehicle was p"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 18,
+        "share_pct": 13.3,
+        "excerpts": [
+          "⸻  My 2022 Nissan Pathfinder experienced a catastrophic engine failure at approximately 70,000 miles. The vehicle suddenly developed severe engine knocking and required a complete engine replacement. ",
+          "While driving at normal speed, the vehicle unexpectedly shifted itself into neutral twice without any driver input. During both incidents, the vehicle suddenly lost propulsion in traffic, creating a s",
+          "The contact owns a 2022 Nissan Pathfinder. The contact stated that after stopping at a gas station, the vehicle was restarted but stalled. There several unknown warning lights flashing on the instrume"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 17,
+        "share_pct": 12.6,
+        "excerpts": [
+          "While driving at normal speed, the vehicle unexpectedly shifted itself into neutral twice without any driver input. During both incidents, the vehicle suddenly lost propulsion in traffic, creating a s",
+          "While driving the vehicle under normal conditions the transmission will shift itself into 'Neutral'.  The unloaded engine will rev-up and the vehicle speed will decrease.  'Drive' must be re-selected ",
+          "The contact owns a 2022 Nissan Pathfinder. The contact stated that after stopping at a gas station, the vehicle was restarted but stalled. There several unknown warning lights flashing on the instrume"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 16,
+        "share_pct": 11.9,
+        "excerpts": [
+          "The front passenger seat in my 2022 Nissan Pathfinder is too low making the seat uncomfortable to sit in. Nissan told me to call the safety board to start a recall.",
+          "Heated seats appear to be on, but do not heat up.  The door lock sensors on the exterior door handles do not work consistently.",
+          "My Toddler was seated (in the car seat that was buckled into ) the second row bucket seat. While driving the vehicle we hit a bump in the road which then launched the back passenger seat up and forwar"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 1,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 11
+      },
+      {
+        "year": 2022,
+        "count": 30
+      },
+      {
+        "year": 2023,
+        "count": 30
+      },
+      {
+        "year": 2024,
+        "count": 24
+      },
+      {
+        "year": 2025,
+        "count": 26
+      },
+      {
+        "year": 2026,
+        "count": 14
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "21V742000",
+        "component": "SEATS:MID/REAR ASSEMBLY:HEAD RESTRAINT",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2022 Pathfinder vehicles.  The third-row headrests may have an improper weld or misaligned internal components, which can allow the headrest to move or detach.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehi",
+        "report_date": "23/09/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V743000",
+        "component": "SEATS:CRITICAL FASTENERS",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2022 Pathfinder vehicles.  The second-row seat back frames may have insufficient welds that could separate.",
+        "report_date": "23/09/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V706000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2022 Pathfinder vehicles.  Insufficient welds may allow the secondary hood latch retainer bracket to detach from the front bumper assembly.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard ",
+        "report_date": "10/09/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V111000",
+        "component": "SEATS:CRITICAL FASTENERS",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2022 INFINITI QX60 and Nissan Pathfinder vehicles.  The second-row seat track may be missing a mounting bolt.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 210, \"Seat Belt Assembl",
+        "report_date": "24/02/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V527000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2021-2022 Rogue, 2022 Frontier, Pathfinder, and Titan rental vehicles.  When the Sirius XM subscription is set to \"Not Subscribed,\" it may cause the infotainment head unit to reboot, resulting in an inoperative rearview camera.  As such, these",
+        "report_date": "21/07/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:09:03.366Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

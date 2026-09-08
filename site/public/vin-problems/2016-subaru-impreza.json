@@ -1,0 +1,128 @@
+{
+  "slug": "2016-subaru-impreza",
+  "year": 2016,
+  "make": "Subaru",
+  "model": "Impreza",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 75,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 14,
+        "share_pct": 18.7,
+        "excerpts": [
+          "The variable fan speed control for the cabin air melted.  The dial could no longer be moved and the assembly, once removed, had parts that were melted.  Subaru was not interested.  Cost me $1200 to ge",
+          "Intermittently unable to remove the keys from ignition after placing the car into Park and shutting off the engine. (Instances where keys remain stuck/locked in the ignition requiring someone to 'musc",
+          "The key will not come out of the ignition when the engine has stopped. It has to be restarted (often multiple times) before the key will come out. Does not happen every time but is frequent. This coul"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 13,
+        "share_pct": 17.3,
+        "excerpts": [
+          "Hello, I just purchase this vehicle from a dealership, 615 auto sales. After purchasing the vehicle I decided to go and get the recall done that was never done to the vehicle at the repair shop they d",
+          "Engine light came on. Checked it, the failure was the transmission solenoid. It reported that a failure was about to occur. Brought it into the Subaru dealership because the will not sell any transmis",
+          "This is the third time that this has happened on the highway. I was driving about 70 miles per hour when my acceleration cut out. My dashboard lights, head lights, and other electronics were still on,"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 8,
+        "share_pct": 10.7,
+        "excerpts": [
+          "The contact owns a 2016 Subaru Impreza. The contact stated that while driving approximately 15 MPH and while attempting to avoid a collision with a second vehicle, the contact lost control of the stee",
+          "WHEN DRIVING WITH A FRONT SEAT PASSENGER THE PASSENGER BECOMES UNRECOGNIZED AND AIR BAG LIGHTS COME ON. THIS HAPPENS INTERMITTENTLY. THIS HAPPENS WILL DRIVING",
+          "WHILE CAR WAS SLOWING IN A PARKING LOT AREA, TURNING AND BRAKING (HAVE WITNESS TO ATTEST TO THIS), IT HAD SUA (SUDDEN UNINTENDED ACCELERATION) AS I WAS ABOUT TO PARK AND THE VEHICLE WENT OVER A CURB A"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 8,
+        "share_pct": 10.7,
+        "excerpts": [
+          "In November of 2018 and again January 31, 2022.  In November 2018, I was backing up in small parking lot tap the gas pedal.  and my car speed up going backwards, even when I was pushing the brake. Wha",
+          "The contact owns a 2016 Subaru Impreza. The contact stated while driving at a low rate of speed and making a right turn, the vehicle suddenly experienced unintended acceleration causing the driver to ",
+          "WHILE CAR WAS SLOWING IN A PARKING LOT AREA, TURNING AND BRAKING (HAVE WITNESS TO ATTEST TO THIS), IT HAD SUA (SUDDEN UNINTENDED ACCELERATION) AS I WAS ABOUT TO PARK AND THE VEHICLE WENT OVER A CURB A"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 7,
+        "share_pct": 9.3,
+        "excerpts": [
+          "WHILE CAR WAS SLOWING IN A PARKING LOT AREA, TURNING AND BRAKING (HAVE WITNESS TO ATTEST TO THIS), IT HAD SUA (SUDDEN UNINTENDED ACCELERATION) AS I WAS ABOUT TO PARK AND THE VEHICLE WENT OVER A CURB A",
+          "AFTER RECEIVING A RECALL NOTICE BY EMAIL FOR NHTSA RECALL ID 19V-149, I CALLED FOX SUBARU OF GRAND RAPIDS, MI ([phone]) FOR RECALL REPAIR. THE SERVICE DEPARTMENT TOLD ME THAT I WOULD NOT BE ABLE TO GE",
+          "I RECEIVED A RECALL NOTICE FOR BRAKE LIGHTS SUBARU SAFETY RECALL WUE-90; NHSTA RECALL ID 19V-149; APRIL 2019. I CALLED OUR LOCAL DEALER TO ARRANGE REPAIR AND WAS TOLD THAT IT WOULDN'T OCCUR UNTIL 8 JU"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 0,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 9
+      },
+      {
+        "year": 2017,
+        "count": 4
+      },
+      {
+        "year": 2018,
+        "count": 8
+      },
+      {
+        "year": 2019,
+        "count": 18
+      },
+      {
+        "year": 2020,
+        "count": 10
+      },
+      {
+        "year": 2021,
+        "count": 8
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "19V149000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2014-2016 Forester, 2008-2016 Impreza sedans, 2012-2016 Impreza station wagons, 2008-2014 WRX sedans (including STI), and 2013-2017 Crosstrek vehicles.  Exposure to certain contaminants may cause the brake light switch to malfunction, preventing ",
+        "report_date": "28/02/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:29.670Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

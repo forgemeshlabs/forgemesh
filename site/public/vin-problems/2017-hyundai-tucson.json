@@ -1,0 +1,156 @@
+{
+  "slug": "2017-hyundai-tucson",
+  "year": 2017,
+  "make": "Hyundai",
+  "model": "Tucson",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1083,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 593,
+        "share_pct": 54.8,
+        "excerpts": [
+          "Franchise dealer Preson Hyundai is actively obstructing a court-ordered settlement tracking test for an engine burning 2.0 qts internally, forcing a young driver with child to operate an oil starving ",
+          "I have a 2017 Hyundai Tucson with a 1.6 turbo engine, and I have been experiencing massive oil consumption. Oil is coming out of the tail pipe with occasional big puff of smoke out of the tailpipe. Sk",
+          "I keep having to add oil but there is no puddle from a leak on the ground. There is also no smoke coming out of the exhaust. It is using an excessive amount of oil."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 289,
+        "share_pct": 26.7,
+        "excerpts": [
+          "What component or system failed or malfunctioned, and is it available for inspection upon request?  **Transmission  How was your safety or the safety of others put at risk?  **Car stalled, no warming.",
+          "The Core Symptoms: \"The high-pressure fuel pump is leaking internally. Raw gasoline is flooding into the engine oil crankcase, causing severe fuel dilution. The engine air filter is physically soaked ",
+          "The vehicle has experienced life-threatening safety defects during operation; shaking, hesitation, and stalling in high-speed traffic. The vehicle unexpectedly stalled/lost power while driving, puttin"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 87,
+        "share_pct": 8,
+        "excerpts": [
+          "While traveling on the highway the car began to lose speed rapidly until coming to a complete stop, no warning lights were present prior.",
+          "The vehicle has experienced life-threatening safety defects during operation; shaking, hesitation, and stalling in high-speed traffic. The vehicle unexpectedly stalled/lost power while driving, puttin",
+          "My 2017 Hyundai Tucson is experiencing dangerous, sudden engine stalling, which are symptoms directly matching Service Campaign T1B.   These critical safety issues surfaced following a total engine re"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 83,
+        "share_pct": 7.7,
+        "excerpts": [
+          "The vehicle has a difficult time turning over when cranking, the RPMs are sticking and the car periodically shuts off at red lights. Several warning lights pop up when it won't crank and then other wa",
+          "Following the knock sensor detection system update, this car has a P1326 code that forces it into limp mode. Occurs during moderate-hard acceleration, e.g. getting on a highway. The car is limited to ",
+          "I am writing regarding a serious incident involving negligent automotive service performed by Jiffy Lube Store #687.  On October 24, 2025, I took my 2017 Hyundai Tucson to this location for a standard"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 75,
+        "share_pct": 6.9,
+        "excerpts": [
+          "The Core Symptoms: \"The high-pressure fuel pump is leaking internally. Raw gasoline is flooding into the engine oil crankcase, causing severe fuel dilution. The engine air filter is physically soaked ",
+          "#1. This vehicle uses a lot of oil !!! It burns through it like crazy I have to check the oil every other day.  #2. When I come to a stop while driving and give it gas to take off IT WONT GO !!!!! It ",
+          "My 2017 Hyundai Tucson is experiencing dangerous, sudden engine stalling, which are symptoms directly matching Service Campaign T1B.   These critical safety issues surfaced following a total engine re"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 13,
+      "fires": 26,
+      "injuries": 14,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2008,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 6
+      },
+      {
+        "year": 2017,
+        "count": 101
+      },
+      {
+        "year": 2018,
+        "count": 98
+      },
+      {
+        "year": 2019,
+        "count": 77
+      },
+      {
+        "year": 2020,
+        "count": 52
+      },
+      {
+        "year": 2021,
+        "count": 159
+      },
+      {
+        "year": 2022,
+        "count": 156
+      },
+      {
+        "year": 2023,
+        "count": 171
+      },
+      {
+        "year": 2024,
+        "count": 119
+      },
+      {
+        "year": 2025,
+        "count": 106
+      },
+      {
+        "year": 2026,
+        "count": 35
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "16V842000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain model year 2016-2017 Tucson vehicles manufactured May 19, 2015, to November 14, 2016, and 2017 Santa Fe vehicles manufactured November 28, 2015, to November 14, 2016.  The affected vehicles may be equipped with an accessory trailer hitch wiring ha",
+        "report_date": "21/11/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V727000",
+        "component": "ENGINE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2017 Tucson and Sonata Hybrid vehicles.  The connecting rod bearings inside the engine may wear prematurely, which can result in engine damage.",
+        "report_date": "17/09/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V543000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) recalled certain 2019-2021 Tucson vehicles on September 4, 2020.  On December 30, 2020, Hyundai expanded the recall population, and added certain 2016-2018 Tucson vehicles.  The Anti-lock Brake Hydraulic Electronic Control Unit (HECU) could corrode internally and caus",
+        "report_date": "04/09/2020",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:24.430Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

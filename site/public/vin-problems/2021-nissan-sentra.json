@@ -1,0 +1,132 @@
+{
+  "slug": "2021-nissan-sentra",
+  "year": 2021,
+  "make": "Nissan",
+  "model": "Sentra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 130,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 40,
+        "share_pct": 30.8,
+        "excerpts": [
+          "The scope of repair required fixing a recalled tie rod that suffered a catastrophic failure, which directly caused the vehicle’s ADAS, Advanced Emergency Braking (AEB), and collision detection systems",
+          "Hello, I am reporting a steering-related issue involving the inner tie rods on my 2021 Nissan Sentra. Nissan previously issued safety recall campaign PM985 for bent inner tie rods on certain Sentra ve",
+          "Electric steering rack has play and causes violent shaking. Huge safety risk as this could have complete failure and cause accidents. Vehicle started showing symptoms at 68,000 miles and after reading"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 38,
+        "share_pct": 29.2,
+        "excerpts": [
+          "My 2021 Nissan Sentra has experienced multiple false Automatic Emergency Braking (phantom braking) events where the vehicle suddenly applies the brakes despite there being no vehicle, pedestrian, or o",
+          "The scope of repair required fixing a recalled tie rod that suffered a catastrophic failure, which directly caused the vehicle’s ADAS, Advanced Emergency Braking (AEB), and collision detection systems",
+          "Alternator needed replacement  Front windshield needed replacement  Unfortunately this kicked off the malfunction warning.  All Nissan can say is it’s the ADAS 2 controller. They are unable to determi"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 38,
+        "share_pct": 29.2,
+        "excerpts": [
+          "The infotainment/radio system in my 2021 Nissan Sentra intermittently reboots and produces static. When this happens, the backup camera freezes or shuts off completely. This has occurred while I was a",
+          "The passenger front, and both back windows no longer function. This appears to be a common issue when searching the internet. There is also an issue with the keyless start, as it often does not recogn",
+          "Purchased brand new with 0 miles. The system malfunction popped up and engine would not turn over after running perfectly fine a hour prior.Had to get towed to dealership and found a faulty battery lu"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 23,
+        "share_pct": 17.7,
+        "excerpts": [
+          "AEB system is initiating emergency braking at random times.  Both on surface street, and the freeway on ramp.  With and without weather, and without any obstacles or cars in the way. The vehicle comes",
+          "Since having my Nissan 2021 Sentra I have for one, had to replace the battery in it twice. On a more serious note, it is now stopping the car at random and unnecessary times stating an object is in fr",
+          "The competent that continues to fail is the emergency response breaks. They continue to stop at random times creating a very unsafe environment while I drive daily. I do have this on video and my car "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 7,
+        "share_pct": 5.4,
+        "excerpts": [
+          "Rattling noise coming from the belt assembly. Tensioner pulley is shaky and alternator had a piece brake off causing metal shavings to fly around.",
+          "While driving down the highway along with other traffic the car went into limp mode and lost power instantly almost causing an accident. Come to find out the engine bearings caused the engine to go on",
+          "The contact owns a 2021 Nissan Sentra. The contact stated that while the vehicle was parked, his aunt entered the vehicle and attempted to start the vehicle; however, the vehicle failed to respond as "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 14,
+      "fires": 1,
+      "injuries": 8,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 16
+      },
+      {
+        "year": 2022,
+        "count": 22
+      },
+      {
+        "year": 2023,
+        "count": 45
+      },
+      {
+        "year": 2024,
+        "count": 19
+      },
+      {
+        "year": 2025,
+        "count": 14
+      },
+      {
+        "year": 2026,
+        "count": 13
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "21V461000",
+        "component": "STEERING:LINKAGES:TIE ROD ASSEMBLY",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2020-2021 Sentra vehicles.  The left and/or right tie rod may be bent.",
+        "report_date": "17/06/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V581000",
+        "component": "STEERING:LINKAGES:TIE ROD ASSEMBLY",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2020-2022 Sentra vehicles.  The left and/or right tie rod may bend.",
+        "report_date": "15/08/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V628000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2019-2021 Altima and 2020-2021 Sentra vehicles.  Damage to the camera harness can cause distortion or loss of the rearview camera display image.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Stan",
+        "report_date": "08/09/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:09.824Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "2019-chevrolet-traverse",
+  "year": 2019,
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 403,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 165,
+        "share_pct": 40.9,
+        "excerpts": [
+          "When driving at about 50 mph on a highway, there was a loud noise from the rear of the vehicle  (something breaking) and the vehicle immediately veered into the oncoming lane (thankfully there was no ",
+          "When driving at about 50 mph on a highway, there was a loud noise from the rear of the vehicle  (something breaking) and the vehicle immediately veered into the oncoming lane (thankfully there was no ",
+          "My transmission is said to be failing. I plan to get it looked at again this week.  Safety of me and my two children are at risk when driving. The car shakes and could lose control.   An independent  "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 110,
+        "share_pct": 27.3,
+        "excerpts": [
+          "My car WILL not register that it is in park even though the dash says it’s in P and my gear shift is pushed all the way up in the park gear. It has taken hours some days for it to finally acknowledge ",
+          "The car will be placed in park but keeps saying shift to park. Then I have to turn the car on and off clicking the shift button till it will finally shut off. One time it took ten minutes. This needs ",
+          "The shift to park sensor is broken. It will keep my vehicle on and beeping for hours saying “shift to park” although my vehicle is in park and shut off."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 62,
+        "share_pct": 15.4,
+        "excerpts": [
+          "My 2019 Chevy Traverse prior to \"The Storm\" when I left work and approached my vehicle someone left a not in my windshield wipers stating that my horn was honking every 15 seconds it was a long shift ",
+          "Exhaust bracket broke, created a hole in pipe, which then resulted in cracked catalytic converter. Dealership and GM denied repairs due to the hole being on the \"wrong pipe\" but the same bracket that ",
+          "The contact owns a 2019 Chevrolet Traverse. The contact stated that the bracket was making an abnormal rattling noise. There was a hole on the outside of the muffler. The engine light was illuminated."
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 25,
+        "share_pct": 6.2,
+        "excerpts": [
+          "Infotainment electrical issues, purge valve failure regardless of replacement, transmission failure regardless of replacement, exhaust bracket break regardless of replacement.",
+          "I keep having emission problems. The first time I took it to the dealership they fixed then it messed up again had that fixed about three months later check engine light was on again same thing had it",
+          "After fueling car the starting continue turning over after you release button. Now while drivering it hesitate sometime loose power steering. And when stopped and the car dies when it does it’s stop /"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 21,
+        "share_pct": 5.2,
+        "excerpts": [
+          "The car will be placed in park but keeps saying shift to park. Then I have to turn the car on and off clicking the shift button till it will finally shut off. One time it took ten minutes. This needs ",
+          "My 2019 Chevy Traverse prior to \"The Storm\" when I left work and approached my vehicle someone left a not in my windshield wipers stating that my horn was honking every 15 seconds it was a long shift ",
+          "The car started locking up my steering wheel. I took it to the mechanic and they ran the codes and said it is the ABS control system module. I called the dealer to get the part and they said it is on "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 14,
+      "fires": 2,
+      "injuries": 16,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1954,
+        "count": 1
+      },
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2019,
+        "count": 25
+      },
+      {
+        "year": 2020,
+        "count": 29
+      },
+      {
+        "year": 2021,
+        "count": 39
+      },
+      {
+        "year": 2022,
+        "count": 63
+      },
+      {
+        "year": 2023,
+        "count": 61
+      },
+      {
+        "year": 2024,
+        "count": 71
+      },
+      {
+        "year": 2025,
+        "count": 78
+      },
+      {
+        "year": 2026,
+        "count": 34
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "20V668000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Cruze and Buick LaCrosse, 2018-2020 Chevrolet Equinox, Chevrolet Traverse and GMC Terrain, 2018 Chevrolet Malibu, 2019-2020 Buick Encore, Buick Enclave, Cadillac XT4, Chevrolet Blazer and GMC Acadia, and 2020 Cadillac XT6 vehicles.  Th",
+        "report_date": "29/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V246000",
+        "component": "AIR BAGS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2015, 2017 Buick Enclave, 2010-2019 Chevrolet Traverse, and 2011-2016 GMC Acadia vehicles.  The side curtain air bags may not be properly attached.",
+        "report_date": "08/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V774000",
+        "component": "AIR BAGS",
+        "summary": "General Motors LLC (GM) is recalling certain 2019 Buick Encore, Chevrolet Spark, Traverse, and Trax vehicles.  The Sensing Diagnostic Module (SDM) on these vehicle may not have been turned off of \"manufacturing mode,\" preventing the air bags from deploying in the event of a crash.",
+        "report_date": "01/11/2018",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:07.688Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

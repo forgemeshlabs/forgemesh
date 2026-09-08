@@ -1,0 +1,132 @@
+{
+  "slug": "2019-kia-sorento",
+  "year": 2019,
+  "make": "Kia",
+  "model": "Sorento",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 423,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 153,
+        "share_pct": 36.2,
+        "excerpts": [
+          "Engine, a Lambda 3.3 v6 started knocking periodically and consuming oil at about a half a quart a week. It is a know problem with this motor and well documented in its existence in all Hyundai and Kia",
+          "Engine burning oil Failed oil consumption test done by dealership - had to get engine replaced Still noticing stuttering and fluctuating power at times.  Failure of Snow White Pearl paint delamination",
+          "Spontaneous fire under hood. Nothing was malfunctuoing, no warning lights. All fluids were good, no temp issues. Parked to to run inside to use rr,  was paged and came out car is on fire"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 67,
+        "share_pct": 15.8,
+        "excerpts": [
+          "There is a recall for the HAVOC system foe the years 2021-2023,  25V649 recall. My car is a 2019 kia sorento and I m having the same issues, I have already replaced blower motor, resistor, air filter ",
+          "On December 16, 2025 at approximately 0830 hrs. EST my wife attempted to start the above vehicle. There was an \"odd\" odor in the garage by the vehicle at the time. She was unable to start the vehicle,",
+          "Adding to NHTSA Safety Issue ID # 11685509. The car was taken back to the dealership on 9/8/2025 and the maintenance department was showed were the Junction box that controls a lot of safety features "
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 54,
+        "share_pct": 12.8,
+        "excerpts": [
+          "About 1 month ago, i noticed on the hood, several areas (10-12) of bubbling and peeling of the paint. On the Side upright panel next to the windshield on the passenger side, there is a big area of pee",
+          "after purchasing from carmax 6 months later the paint above the windshield is peeling off in huge chunks. the color is snow pearl white. having large chunks of solid paint flying around can decrease v",
+          "The paint is peeling off the roof and front of vehicle. The car is (2019) out of the 3\\36 warranty and the dealer says there is nothing they can do to help me. I asked the service writer if this is a "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 50,
+        "share_pct": 11.8,
+        "excerpts": [
+          "Had to replace transmission at 133k miles. It was jolting sometimes providing a hard jolt at times will driving. There are also times of what feels like a cylinder misfire. Oil is constantly leaking a",
+          "This vehicle has theta 2 engine.. which is part of class lawsuit kia settled. My vehicle  had high oil consumption  and the defect was due to rod bearing  would cause engine to fail and cause hi oil c",
+          "The vehicle just had an oil change.  It was driven after that approximately 25 miles when there was a loud noise and the wheels locked up.   The vehicle was shifted into neutral and coasted to the end"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 23,
+        "share_pct": 5.4,
+        "excerpts": [
+          "The vehicle involved is a 2019 Kia Sorento with approximately 111,000 miles. Over the course of ownership, the vehicle has experienced numerous unresolved mechanical and safety-related issues, includi",
+          "Car would randomly stall and jerk while accelerating. Unsafe to drive. May cause accident. Having to constantly set hazard lights to prevent accident.",
+          "2019 with 56,000 miles and the oil pressure sensor AND the fuel pump need replacing.  Both items should be considered part of the powertrain but of course they’re not.  Called corporate but got the “t"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 19,
+      "injuries": 16,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 7
+      },
+      {
+        "year": 2019,
+        "count": 46
+      },
+      {
+        "year": 2020,
+        "count": 40
+      },
+      {
+        "year": 2021,
+        "count": 26
+      },
+      {
+        "year": 2022,
+        "count": 40
+      },
+      {
+        "year": 2023,
+        "count": 69
+      },
+      {
+        "year": 2024,
+        "count": 83
+      },
+      {
+        "year": 2025,
+        "count": 74
+      },
+      {
+        "year": 2026,
+        "count": 38
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "22V703000",
+        "component": "TRAILER HITCHES",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2016-2022 Sorento, 2021-2022 Sorento Hybrid (HEV), 2022-2023 Sorento Plug-In Hybrid (PHEV), and 2017-2022 Sportage vehicles equipped with a tow hitch harness installed as original equipment, or purchased as an accessory through a Kia dealership.  Debris a",
+        "report_date": "19/09/2022",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "23V639000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2019 Sorento vehicles.  Due to a manufacturing error, water may leak into the rearview camera, which can cause the rearview camera image not to appear on the display.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle S",
+        "report_date": "15/09/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:25.884Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

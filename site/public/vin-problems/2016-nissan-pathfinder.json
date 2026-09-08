@@ -1,0 +1,140 @@
+{
+  "slug": "2016-nissan-pathfinder",
+  "year": 2016,
+  "make": "Nissan",
+  "model": "Pathfinder",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 107,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 27,
+        "share_pct": 25.2,
+        "excerpts": [
+          "My 2024 Nissan Frontier has experienced repeated complete power loss more than three times. The vehicle shuts off unexpectedly while on the street and cannot be restarted. During some incidents, even ",
+          "Around 160,000 miles my CVT transmission went out. I almost got into a wreck no warning lights just stopped on me. When I took it to my local dealership in waco, Texas they told me I'll be good to wai",
+          "The engine in this vehicle has shut off two times while we were driving it. We were forced to make emergency exits off of the roadway in order to prevent injury to ourselves and others. This is a life"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 19,
+        "share_pct": 17.8,
+        "excerpts": [
+          "Occupant Air bag sensor is on constantly and Air bag light on dashboard. My vehicle has never been in an accident. There was a recall issued for my vehicle in 2016. I purchased my car in 2017 new and ",
+          "Passenger Airbag sensor not showing that airbag is on for front passenger seat even though passenger sitting there. Recall issued in 2016 and Nissan still does not have a fix for this yet.",
+          "The passenger airbag doesn’t activate at all. The OCS sensor is faulty. When someone sits in the front passenger seat, the airbag remains off. This is a known defect with Nissan Pathfinders. We were t"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 14,
+        "share_pct": 13.1,
+        "excerpts": [
+          "Every year when it warms up, the brakes fade. I've had new pads, rotors, new fluid. Still have brake fade. Took it to mechanic, he tried a new master cylinder. Still have brake fade. This is a known i",
+          "The contact owns a 2016 Nissan Pathfinder. The contact stated that while her husband was driving approximately 45 MPH and coming to a stop light, the brake pedal was depressed; however, the vehicle fa",
+          "The contact owns a 2016 Nissan Pathfinder. The contact stated while driving 5 MPH, the brake pedal was depressed and went to the floorboard. The contact stated that the failure had since been consiste"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 11,
+        "share_pct": 10.3,
+        "excerpts": [
+          "My 2024 Nissan Frontier has experienced repeated complete power loss more than three times. The vehicle shuts off unexpectedly while on the street and cannot be restarted. During some incidents, even ",
+          "Car was functioning fine and then suddenly stopped one day as I was entering expressway, car just stopped and had to tow to Nissan dealer. I was told alternator is not functioning and when doing syste",
+          "The engine in this vehicle has shut off two times while we were driving it. We were forced to make emergency exits off of the roadway in order to prevent injury to ourselves and others. This is a life"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 8,
+        "share_pct": 7.5,
+        "excerpts": [
+          "Driving along and it felt as if I were driving over a rumble strip.  It stopped after a while, but later that evening I felt it again, but this time the shudder was stronger and it sounded almost like",
+          "The contact owns a 2016 Nissan Pathfinder. The contact stated while driving at various speeds, the vehicle hesitated and sputtered while depressing the accelerator pedal. There was no warning light il",
+          "Around 160,000 miles my CVT transmission went out. I almost got into a wreck no warning lights just stopped on me. When I took it to my local dealership in waco, Texas they told me I'll be good to wai"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 0,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 6
+      },
+      {
+        "year": 2017,
+        "count": 6
+      },
+      {
+        "year": 2018,
+        "count": 24
+      },
+      {
+        "year": 2019,
+        "count": 21
+      },
+      {
+        "year": 2020,
+        "count": 15
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "16V244000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2016-2017 Nissan Maxima, 2013-2016 Nissan Altima, NV200, LEAF, Sentra, and Pathfinder, 2014-2016 Nissan NV200 Taxi, Infiniti QX60, QX60 Hybrid, and Q50 Hybrid, 2014-2017 Nissan Rogue and Infiniti Q50, 2015-2016 Nissan Murano, Murano",
+        "report_date": "26/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V420000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2013-2016 Pathfinder vehicles.  On certain Pathfinder vehicles, the secondary hood latch may malfunction and remain in the unlatched, unsecured, position when the hood is closed.",
+        "report_date": "13/06/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:55.542Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

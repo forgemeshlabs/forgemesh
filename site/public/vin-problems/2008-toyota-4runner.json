@@ -1,0 +1,192 @@
+{
+  "slug": "2008-toyota-4runner",
+  "year": 2008,
+  "make": "Toyota",
+  "model": "4Runner",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 96,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 27,
+        "share_pct": 28.1,
+        "excerpts": [
+          "DIAGNOSIS FOUND TRANS FLUID WICKING UP HARNESS TO ENGINE ECM CONTAMINATING HARNESS AND ECU GIVEN FALSE/ABNORMAL READINGS AT ECM. EXTENSIVE REPAIRS NECESSARY W/ INTERNAL TRANS WIRE REPLACEMENT, ENGINE ",
+          "The actuator in the transfer case went bad in such a way as to not allow the vehicle either move (under its own power) or to be in a parked state; though the shifter and indicator lights indicated PAR",
+          "VEHICLE DISPLAYED A CHECK ENGINE LIGHT DUE TO A NON SEALING GAS CAP.  THIS CONDITION ALSO DISABLES THE STABILITY CONTROL SYSTEM.  VEHICLE LOST CONTROL ON WET CONDITIONS AND WAS UNABLE TO RECOVER DUE T"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 16,
+        "share_pct": 16.7,
+        "excerpts": [
+          "The contact owns a 2008 Toyota 4Runner. The contact stated while pulling out of a parking spot and depressing the brake pedal, the vehicle accelerated unintendedly. The contact stated that she might h",
+          "TAKATA RECALL    WHEN CRUISE CONTROL IS ON AND GOING UP A HILL, ENGINE JOLTS AND ACCELERATES.  HAS BEEN DOING THIS SINCE WE BOUGHT IT IN 2012.",
+          "TL* THE CONTACT OWNS A 2008 TOYOTA 4RUNNER. THE CONTACT STATED THAT WHILE ATTEMPTING TO PARK WITH THE BRAKE PEDAL DEPRESSED, THE VEHICLE SUDDENLY ACCELERATED AND THE CONTACT CRASHED INTO A CONCRETE BA"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 16,
+        "share_pct": 16.7,
+        "excerpts": [
+          "The contact owns a 2008 Toyota 4Runner. The contact stated that upon taking the vehicle for the State Inspection, he was informed that the vehicle could not be inspected due to severe subframe corrosi",
+          "I'm experiencing major frame rust mainly at the crossbeams and all over the frame. Metal is literally crumbling away if I touch if. I don't even want to remove the rust to prepare for anti-rust coatin",
+          "Lots of rust on frame and body. This is certainly an excessive amount. Many other owners of the 4runner between 2003-2009 are experiencing the same problem."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 15,
+        "share_pct": 15.6,
+        "excerpts": [
+          "The actuator in the transfer case went bad in such a way as to not allow the vehicle either move (under its own power) or to be in a parked state; though the shifter and indicator lights indicated PAR",
+          "VEHICLE DISPLAYED A CHECK ENGINE LIGHT DUE TO A NON SEALING GAS CAP.  THIS CONDITION ALSO DISABLES THE STABILITY CONTROL SYSTEM.  VEHICLE LOST CONTROL ON WET CONDITIONS AND WAS UNABLE TO RECOVER DUE T",
+          "ENTIRE UNDERBODY OF CAR IS RUSTING OUT, TAIL GATE ALREADY HAD 2 BODY REPAIRS BUT KEEPS RUSTING OUT. MANY PARTS AT JUST 150K WERE ALREADY REPLACED DUE TO SEVERE RUST- MOST SUSPENSION PARTS, TRANSMISSIO"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 11,
+        "share_pct": 11.5,
+        "excerpts": [
+          "The contact owns a 2008 Toyota 4Runner. The contact stated that upon taking the vehicle for the State Inspection, he was informed that the vehicle could not be inspected due to severe subframe corrosi",
+          "EXCESSIVE FRAME RUST IS RENDERING THE VEHICLE UNSAFE TO OPERATE. *TR",
+          "TAMARA RECALL  PREV OWNED VEH, BOUGHT FROM DEALERSHIP AS \"SAFE\" TO OPERATE,110,000 MI ON 11072016.  PREV OWNER AND CURRENT OWNER HAD VE HAD VEH SERVICED REGULARLY. UNDERCARRIAGE AND BRAKING NOISE WHIL"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 2,
+      "injuries": 9,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2008,
+        "count": 6
+      },
+      {
+        "year": 2009,
+        "count": 11
+      },
+      {
+        "year": 2010,
+        "count": 18
+      },
+      {
+        "year": 2011,
+        "count": 2
+      },
+      {
+        "year": 2012,
+        "count": 6
+      },
+      {
+        "year": 2013,
+        "count": 7
+      },
+      {
+        "year": 2014,
+        "count": 4
+      },
+      {
+        "year": 2015,
+        "count": 6
+      },
+      {
+        "year": 2016,
+        "count": 2
+      },
+      {
+        "year": 2017,
+        "count": 8
+      },
+      {
+        "year": 2018,
+        "count": 8
+      },
+      {
+        "year": 2019,
+        "count": 6
+      },
+      {
+        "year": 2020,
+        "count": 5
+      },
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "14V743000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2011 Prius and Corolla, 2009-2011 Venza, 2006-2010 Avalon, 2007-2010 FJ Cruiser, 2005-2011 Sienna and Sequoia, 2006-2011 Tacoma 4x2 and 4x4, Camry, Highlander, Tundra 4x2 and 4x4, and 2007-2011 Rav4 and 4Runner.  The affec",
+        "report_date": "19/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V396000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2005-2011 4Runner, Highlander, Sequoia, and Sienna, 2005-2010 Avalon and Tundra, 2006-2008 Camry Solara, 2006-2010 Highlander hybrid, 2006-2011 Rav4 and Tacoma, 2007-2010 FJ Cruiser, 2007-2011 Camry hybrid, 2009-2010 Venza, 2010-2012 Priu",
+        "report_date": "02/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V113000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2008 THROUGH 2011 LEXUS LX570, 2003 THROUGH 2009 TOYOTA 4RUNNER, AND 2006 THROUGH 2010 RAV4 VEHICLES.  THE ACCELERATOR PEDAL CAN GET STUCK IN THE WIDE OPEN POSITION DUE TO ITS BEING TRAPPED BY AN UNSECURED OR INCOMPATIBLE DRIVER'S FLOOR MAT.",
+        "report_date": "24/02/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V035000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "GULF STATES TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2010 VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD BETWEEN SEPTEMBER 1, 2005 AND JUNE 2, 2008 WITHOUT THE REQUISITE LOAD CARRYING CAPA",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V036000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2011 PASSENGER VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD WITHOUT THE REQUISITE LOAD CARRYING CAPACITY MODIFICATION LABELS.",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:47:45.616Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

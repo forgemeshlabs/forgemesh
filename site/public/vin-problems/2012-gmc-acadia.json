@@ -1,0 +1,184 @@
+{
+  "slug": "2012-gmc-acadia",
+  "year": 2012,
+  "make": "GMC",
+  "model": "Acadia",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 302,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 46,
+        "share_pct": 15.2,
+        "excerpts": [
+          "The contact owns a 2012 GMC Acadia. The contact stated that shortly after purchasing the vehicle, the check engine warning light illuminated. The vehicle was taken to the local mechanic who discovered",
+          "About 1 month ago While making a slow speed turn from a parking lot to a street the steering seemed to lock for no reason. After a brief moment the steering resumed normal function. I inspected the ig",
+          "No warning light when transmission went out. Traction control/stabiltrac service light came on, doors locking and unlocking, not stating what gear acadia was in. Check engine light eventually came on,"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 44,
+        "share_pct": 14.6,
+        "excerpts": [
+          "The contact owns a 2012 GMC Acadia. The contact stated that while the vehicle was parked, after pressing the liftgate button the liftgate raised and crashed down independently after several seconds. N",
+          "The contact owns a 2012 GMC Acadia. The contact stated that while reversing, the liftgate unexpectedly opened, even though the liftgate was properly closed. There was no warning light illuminated. The",
+          "The contact owns a 2012 GMC Acadia. The contact stated that while the vehicle was parked, the liftgate independently unlatched and fell midway down, and then independently closed and latched. The vehi"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 43,
+        "share_pct": 14.2,
+        "excerpts": [
+          "The contact owns a 2012 GMC Acadia. The contact stated that the vehicle failed to release from low gear while at a stop. The transmission was backed up. The engine light was illuminated. The local dea",
+          "The transmission has all the symptoms of a broken wave plate and/or torque convertor as reported in the first generation T75 transmission service bulletin. This started occurring at 120K. I know the s",
+          "Ratle sound in the engine thinking it may be the timing chain. Code p0430 came on stating catalytic converter bank 2 needs replaced. We replaced o2 sensor downstream on bank 2 code was cleared by shop"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 42,
+        "share_pct": 13.9,
+        "excerpts": [
+          "Hello so I notice 3 weeks ago my headlights keep cutting off and on then a week later my radio stopped working, The floor of the driver side is always wet after it rains. I noticed one day the rain st",
+          "service battery charging station error code keeps popping up",
+          "This 2012 GMC Acadia denali with close to 160k has been in the shop several times due to it randomly stalling out It kept basically locking me out from starting the car a \"service anti-theft system\" w"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 36,
+        "share_pct": 11.9,
+        "excerpts": [
+          "The contact owns a 2012 GMC Acadia. The contact stated that the vehicle failed to release from low gear while at a stop. The transmission was backed up. The engine light was illuminated. The local dea",
+          "The contact owns a 2012 GMC Acadia. The contact’s wife stated that while driving at an undisclosed speed, the vehicle lost motive power with the check engine warning light illuminated. The vehicle was",
+          "Ratle sound in the engine thinking it may be the timing chain. Code p0430 came on stating catalytic converter bank 2 needs replaced. We replaced o2 sensor downstream on bank 2 code was cleared by shop"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 2,
+      "injuries": 17,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 2
+      },
+      {
+        "year": 2012,
+        "count": 13
+      },
+      {
+        "year": 2013,
+        "count": 10
+      },
+      {
+        "year": 2014,
+        "count": 20
+      },
+      {
+        "year": 2015,
+        "count": 36
+      },
+      {
+        "year": 2016,
+        "count": 29
+      },
+      {
+        "year": 2017,
+        "count": 38
+      },
+      {
+        "year": 2018,
+        "count": 42
+      },
+      {
+        "year": 2019,
+        "count": 33
+      },
+      {
+        "year": 2020,
+        "count": 20
+      },
+      {
+        "year": 2021,
+        "count": 16
+      },
+      {
+        "year": 2022,
+        "count": 9
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 11
+      },
+      {
+        "year": 2025,
+        "count": 10
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "14V266000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors is recalling certain model year 2009-2014 Buick Enclave vehicles manufactured April 14, 2008, through May 14, 2014, Chevrolet Traverse vehicles manufactured June 6, 2008, through May 14, 2014, and GMC Acadia vehicles manufactured April 9, 2008, through May 14, 2014, and 2009-2010 Satu",
+        "report_date": "20/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V415000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2008-2012 Buick Enclave vehicles manufactured January 3, 2007, to February 29, 2012, 2009-2012 Chevrolet Traverse vehicles manufactured July 6, 2008, to March 9, 2012, 2007-2012 GMC Acadia vehicles manufactured September 15, 2006, to February 2",
+        "report_date": "30/06/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V118000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2008-2013 Buick Enclave and GMC Acadia and 2009-2013 Chevrolet Traverse and 2008-2010 Saturn Outlook vehicles.  In the affected vehicles, increased resistance in the driver and passenger seat mounted side impact air bag (SIAB) wiring harnesses ",
+        "report_date": "17/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V151000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:LINKAGES",
+        "summary": "GENERAL MOTORS (GM) IS RECALLING CERTAIN MODEL YEAR 2011-2012 CHEVROLET TRAVERSE, BUICK ENCLAVE, AND GMC ACADIA VEHICLES CURRENTLY REGISTERED IN ALASKA, COLORADO, CONNECTICUT, DELAWARE, IDAHO, ILLINOIS, INDIANA, IOWA, MAINE, MARYLAND, MASSACHUSETTS, MICHIGAN, MINNESOTA, MONTANA, NEBRASKA, NEW HAMPSH",
+        "report_date": "09/04/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V246000",
+        "component": "AIR BAGS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2015, 2017 Buick Enclave, 2010-2019 Chevrolet Traverse, and 2011-2016 GMC Acadia vehicles.  The side curtain air bags may not be properly attached.",
+        "report_date": "08/04/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:56:34.415Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

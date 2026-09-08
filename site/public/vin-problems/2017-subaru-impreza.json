@@ -1,0 +1,180 @@
+{
+  "slug": "2017-subaru-impreza",
+  "year": 2017,
+  "make": "Subaru",
+  "model": "Impreza",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 125,
+    "top_failure_components": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 32,
+        "share_pct": 25.6,
+        "excerpts": [
+          "I noticed that visibility at night was poor. I was pulled over by the police and give a warning that my headlight was out and told to get it fixed. I thought it may be as simple as a bulb but was told",
+          "The contact owns a 2017 Subaru Impreza. The contact stated that the \"Check Headlight Assembly\" message was displayed, and the front passenger’s side headlight occasionally turned off or on, while atte",
+          "Parked at a store. Car caught on fire while in store. Car had been parked approximately 10 minutes.  Left side headlight spontaneously ignited."
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 25,
+        "share_pct": 20,
+        "excerpts": [
+          "I noticed that visibility at night was poor. I was pulled over by the police and give a warning that my headlight was out and told to get it fixed. I thought it may be as simple as a bulb but was told",
+          "I hit the guard rail going 35 mph on an exit ramp because of the low visibility because of the safety recall. I went to get the recall fixed when I found out and they refused to fix the recall because",
+          "I am logging a complaint regarding my Subaru Impreza 2017 windshield. I bought new in 2017, and it currently has only about 55k miles. The windshield is completely covered (literally thousands) of tin"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 21,
+        "share_pct": 16.8,
+        "excerpts": [
+          "I am filing a safety complaint regarding an Engine Control Module (ECM) failure in my 2017 Subaru Impreza and the handling of a prior recall repair.  Dealership records show that a recall repair (WRE2",
+          "I noticed that visibility at night was poor. I was pulled over by the police and give a warning that my headlight was out and told to get it fixed. I thought it may be as simple as a bulb but was told",
+          "[XXX]  2017 Subaru Impreza  VIN   [XXX]  Cruze control error. Will it make brake lights fail if not repaired?  go look in your database and see if Impreza has more than normal rear end collisions?  Wh"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 14,
+        "share_pct": 11.2,
+        "excerpts": [
+          "I hit the guard rail going 35 mph on an exit ramp because of the low visibility because of the safety recall. I went to get the recall fixed when I found out and they refused to fix the recall because",
+          "This is not a safety complaint. However I wish to share this information for your records kindly .   Oil usage for 2017 Impreza per 2000 miles : 1.5Quarts (1419ml) ;  Odometer approx 32 000 miles ; 5M",
+          "Loss of power, hesitation,  bucking ( jerky)  with hints of stalling between 2000 and 3000 RPM in 2nd grear at appropriate speed and momentum . This is a 2017 manual Impreza sport sedan ."
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 11,
+        "share_pct": 8.8,
+        "excerpts": [
+          "1. Any and all airbags failed to deploy. The car is currently parked in my garage and is available for inspection. The insurance company has declared the car a \"total loss,\" and would like to tow it a",
+          "The contact owned a 2017 Subaru Impreza. The contact stated that while driving 10 MPH, she crashed into the rear of another vehicle on the front passenger side of her vehicle. The contact mentioned th",
+          "I was driving on the freeway and the all the airbags in my vehicle deployed, sides, front and under the steering wheel.  I did not have an accident or hit anything in the road.  The airbags blocked my"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 3,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 20
+      },
+      {
+        "year": 2018,
+        "count": 14
+      },
+      {
+        "year": 2019,
+        "count": 14
+      },
+      {
+        "year": 2020,
+        "count": 15
+      },
+      {
+        "year": 2021,
+        "count": 11
+      },
+      {
+        "year": 2022,
+        "count": 17
+      },
+      {
+        "year": 2023,
+        "count": 20
+      },
+      {
+        "year": 2024,
+        "count": 8
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "21V264000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2017-2019 Subaru Impreza and 2018-2019 Crosstrek vehicles.  The Engine Control Module (ECM) may continue to power the ignition coil after the engine is shut off, causing a short circuit.",
+        "report_date": "15/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V744000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:EMISSION CONTROL:CRANKCASE (PCV)",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2017-2018 Impreza and 2018 Crosstrek vehicles equipped with an aluminum Positive Crankcase Ventilation (PCV) valve.  The PCV valve may come apart, allowing the separated components to enter the engine, possibly resulting in a loss of power while ",
+        "report_date": "17/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V745000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:EMISSION CONTROL:CRANKCASE (PCV)",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2017 Impreza vehicles equipped with an aluminum Positive Crankcase Ventilation (PCV) valve.  The PCV valve may come apart, allowing the separated components to enter the engine, possibly resulting in a loss of power while driving.",
+        "report_date": "17/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V743000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2017-2019 Impreza and 2018-2019 Crosstrek vehicles.  The Engine Control Module (ECM) may continue to power the ignition coil after the engine is shut off, which could result in a short circuit and blown fuse.",
+        "report_date": "18/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V216000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2017 Impreza vehicles.  Winter fuels may vaporize prematurely in the fuel line, resulting in a reduction in fuel pressure, possibly causing the engine to stall.",
+        "report_date": "29/03/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V132000",
+        "component": "BACK OVER PREVENTION: CAMERA SYSTEM",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2017 Impreza vehicles.  Due to a software problem, the rearview camera display may not work properly.",
+        "report_date": "02/03/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V624000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2017-2019 Impreza vehicles.  The left and right side reflex reflector and left side low beam reflector may inadequately reflect light.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 1",
+        "report_date": "12/08/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:36.094Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

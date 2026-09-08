@@ -1,0 +1,156 @@
+{
+  "slug": "2017-toyota-prius",
+  "year": 2017,
+  "make": "Toyota",
+  "model": "Prius",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 91,
+    "top_failure_components": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 17,
+        "share_pct": 18.7,
+        "excerpts": [
+          "Windshield cracked from bottom to top and across while sitting and there was no evidence of a rock or chip that would cause that. Air temp was about 95 degrees. No rain, no impact, car was sitting par",
+          "MY WINDSHIELD CRACKED FOR NO REASON, WHILE IT WAS PARKED. THIS IS THE SECOND CRACK I GOTTEN ON MY WINDSHIELD FROM OWNING IT FOR 2 YEARS. THIS IS HIGHLY UNUSUAL, I DON'T DRIVE MY CAR VERY FAR, AND IT H",
+          "TL* THE CONTACT OWNS A 2017 TOYOTA PRIUS. WHILE DRIVING ON THE HIGHWAY, THE WIPER BLADE ON THE DRIVER'S SIDE DETACHED FROM THE VEHICLE IN THE MIDDLE OF A RAIN STORM. THE CONTACT PULLED OVER, EXITED TH"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 14,
+        "share_pct": 15.4,
+        "excerpts": [
+          "On 9/14/22 I was almost a hundred miles from my home in Sherrill, NY on Rte 81 south, approaching the bridge in Binghamton, NY when I heard a loud ringing noise. At first I thought it was my phone; th",
+          "MY 2 YEAR CHECK UP W/14,932 MILES I WAS ADVISED MY FRONT ROTORS NEED TO BE REPLACED DUE TO POOR PAD CONTACT AND REAR ROTORS ARE GROOVED HEAVILY AND NEED TO BE REPLACED AS WELL.  I WAS SHOCKED. I DID N",
+          "TL* THE CONTACT OWNS A 2017 TOYOTA PRIUS. THE CONTACT STATED THAT WHILE HIS DAUGHTER WAS DRIVING AT APPROXIMATELY 19 MPH AND APPROACHING A TRAFFIC LIGHT, THE BRAKE PEDAL WAS DEPRESSED AND THE TRACTION"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 13,
+        "share_pct": 14.3,
+        "excerpts": [
+          "On 10/16/23 I was turning slowly into a parking spot and my car suddenly accelerated without my pressing the accelerator. I slammed on the break and the car stopped. It was frightening because I could",
+          "I had just changed from the right-hand lane to the center lane of a six-lane expressway when my vehicle lost power and i was able to move over to the right hand shoulder of the road.  The accelerator ",
+          "For the second time (first in 2019) I was seconds and maybe two feet from stopping the car to park when, with my foot on the brake, the car suddenly and without warning lunged forward at what seemed l"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 12,
+        "share_pct": 13.2,
+        "excerpts": [
+          "The catalytic converter heat exchanger failed internally, causing coolant to leak into the exhaust system. Symptoms included white smoke from exhaust and coolant loss with no visible ground leak. This",
+          "Dear NHTSA, I am seeking assistance and compensation for ongoing warranty and repair issues with my Toyota Prius. Key Incident Timeline: •March 21, 2024: Dashboard message “Grille Shutter Inoperable” ",
+          "Coolant leaking into exhaust And engine also vehicle suddenly stops for no reason now engine is completely broken due to the coolant going into the motor oil"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 12,
+        "share_pct": 13.2,
+        "excerpts": [
+          "The catalytic converter heat exchanger failed internally, causing coolant to leak into the exhaust system. Symptoms included white smoke from exhaust and coolant loss with no visible ground leak. This",
+          "During hot temperatures and after coming to a full stop, the car stalls/hesitates significantly (5-6seconds) when pushing the gas pedal. The car eventually proceeds but the issue reoccurs. It can only",
+          "Dear NHTSA, I am seeking assistance and compensation for ongoing warranty and repair issues with my Toyota Prius. Key Incident Timeline: •March 21, 2024: Dashboard message “Grille Shutter Inoperable” "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 12,
+      "fires": 2,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 24
+      },
+      {
+        "year": 2018,
+        "count": 22
+      },
+      {
+        "year": 2019,
+        "count": 18
+      },
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "18V579000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2016-2018 Toyota Prius vehicles.  A portion of the engine wire harness connected to the hybrid Power Control Unit (PCU), could contact the cover at this connection and wear, causing an electrical short circuit.",
+        "report_date": "05/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V295000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "Gulf States Toyota, Inc. (Gulf States) is recalling certain 2017 4Runner , 86, Avalon, Camry, Camry Hybrid, Corolla, Corolla iM, Highlander, Highlander Hybrid, Prius, Prius C, RAV4, RAV4 Hybrid, Sienna  and Yaris vehicles.  The spare tire air pressure was not adjusted to the proper pressure as state",
+        "report_date": "02/05/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V741000",
+        "component": "PARKING BRAKE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2016-2017 Prius vehicles manufactured August 6, 2015, to October 3, 2016.  The affected vehicles are equipped with a foot-operated parking brake system that has a parking brake cable that may disengage.",
+        "report_date": "14/10/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:46.809Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

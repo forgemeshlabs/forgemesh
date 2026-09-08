@@ -1,0 +1,136 @@
+{
+  "slug": "2019-chevrolet-tahoe",
+  "year": 2019,
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 105,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 38,
+        "share_pct": 36.2,
+        "excerpts": [
+          "My transmission completely went out at  130,000 miles. We had to buy a whole new transmission. It has had regular maintenance on it. Rpm would skyrocket the car wouldn’t move.   Then it would finally ",
+          "I recieved this message after bringing my 2019 Chevy Tahoe to the dealership today for regular maintenanceand to check out a slight noise coming from under my hood: Rotational noise in your engine com",
+          "While driving, the engine started to shutter and run rough. Pulled over to check and see if everything was ok. When restarting engine it developed a ticking noise which got worse and worse. We then ma"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 29,
+        "share_pct": 27.6,
+        "excerpts": [
+          "The contact owns a 2019 Chevrolet Tahoe. The contact stated that while driving at an undisclosed speed, there was a misfire coming from the engine and the vehicle lost motive power and was violently s",
+          "Engine lifter failure and bent push rod",
+          "While driving, the engine started to shutter and run rough. Pulled over to check and see if everything was ok. When restarting engine it developed a ticking noise which got worse and worse. We then ma"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 25,
+        "share_pct": 23.8,
+        "excerpts": [
+          "While driving, the engine started to shutter and run rough. Pulled over to check and see if everything was ok. When restarting engine it developed a ticking noise which got worse and worse. We then ma",
+          "What component or system failed or malfunctioned, and is it available for inspection upon request?  Complete engine failure. 2nd time this engine failed cylinder 4 bent rod. Cylinder 7 and camshaft.  ",
+          "Active Fuel Management for the automobile variable displacement technology was the issue.   6.2L V8 L87 engine has created the following issues- Cylinder deactivation issues transmission issues Multip"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 16,
+        "share_pct": 15.2,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2019 Chevrolet Tahoe. The contact discovered that there was a mileage discrepancy after the purchase of the vehicle. The vehicle was an independent dealer sale.",
+          "This is the date I first took the vehicle to a dealership. The Transmission has performed poorly and the wiper would not work at all and it was not a fuse problem. Transmission finally failed and had ",
+          "The contact owns a 2019 Chevrolet Tahoe. The contact stated that the infotainment center lighting and instrument panel lighting was flickering. The instrument panel display switched from the mileage a"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 8,
+        "share_pct": 7.6,
+        "excerpts": [
+          "When driving, the vehicle will randomly pull to one side cause the vehicle to severely swerve and almost cause a collision.",
+          "Vehicle lost power steering while driving. Steering became difficult and unsafe while family was in vehicle.",
+          "The power steering failed while driving and we had our baby in the car. We had to make quick adjustment to our driving. We made it home bit very difficultly. I believe there is a problem with the cont"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 0,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 1
+      },
+      {
+        "year": 2019,
+        "count": 11
+      },
+      {
+        "year": 2020,
+        "count": 7
+      },
+      {
+        "year": 2021,
+        "count": 8
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 19
+      },
+      {
+        "year": 2024,
+        "count": 21
+      },
+      {
+        "year": 2025,
+        "count": 22
+      },
+      {
+        "year": 2026,
+        "count": 10
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "19V761000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is tra",
+        "report_date": "24/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V289000",
+        "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+        "summary": "General Motors, LLC (GM) is recalling certain 2026 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, and GMC Sierra 1500, Yukon, and Yukon XL vehicles with four-wheel (4WD) or all-wheel drive (AWD), and certain 2015-2020 Suburban, Escalade, Escalade ESV, Yukon, Yukon",
+        "report_date": "07/05/2026",
+        "park_it": true,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:03.089Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

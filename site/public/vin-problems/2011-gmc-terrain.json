@@ -1,0 +1,180 @@
+{
+  "slug": "2011-gmc-terrain",
+  "year": 2011,
+  "make": "GMC",
+  "model": "Terrain",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 397,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 178,
+        "share_pct": 44.8,
+        "excerpts": [
+          "We have  2011 GMC Terrain. We bought it used so we have only had it a couple years. We noticed it seemed to be using a little more oil but then we were told to keep watch on it. My husband did. Then o",
+          "The contact owns a 2011 GMC Terrain. The contact stated while driving 25 MPH and depressing the accelerator pedal, the vehicle failed to respond as intended. The contact pulled over to the right side ",
+          "SUV gets a slow down warning and it stops shuts off , it’s happened several times now I’m scared!!you wait few minutes it turns back on , mechanic said this a complain about this vehicle all the time "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 76,
+        "share_pct": 19.1,
+        "excerpts": [
+          "Transmission",
+          "Transmission and control arms",
+          "Transmission failure"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 31,
+        "share_pct": 7.8,
+        "excerpts": [
+          "SUV gets a slow down warning and it stops shuts off , it’s happened several times now I’m scared!!you wait few minutes it turns back on , mechanic said this a complain about this vehicle all the time ",
+          "Engine Failure: Timing chain had excessive slack causing guide to be sheared off. Timing chain guide bolt was completely stripped requiring both the timing chain and cylinder head to be replaced.  Saf",
+          "My car wouldn’t start, later found out it was due to timing chain issue which ended up blowing up my engine. I live 40 minutes from work and am consistently driving on the interstate for at least an h"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 30,
+        "share_pct": 7.6,
+        "excerpts": [
+          "The service airbag warning light came on in the vehicle last week. I took the car to be serviced. Per service advisor, the passenger  side seat air bag was out of spec. Air bag wire had to be repaired",
+          "TL* THE CONTACT OWNS A 2011 GMC TERRAIN. THE CONTACT STATED THAT THE AIR BAG WARNING LIGHT ILLUMINATED INTERMITTENTLY WHILE DRIVING AT VARIOUS SPEEDS. THE CONTACT TOOK THE VEHICLE TO HENDRICK SOUTHPOI",
+          "TL* THE CONTACT OWNED A 2011 GMC TERRAIN. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 35 MPH, A SECOND VEHICLE CRASHED INTO THE FRONT DRIVERS SIDE OF THE VEHICLE. MOMENTS LATER FLAMES WERE PRE"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 29,
+        "share_pct": 7.3,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2011 GMC Terrain. The contact discovered that there was a mileage discrepancy after the purchase. The vehicle was a private sale. At the time of purchase, the v",
+          "Ok so my 2011 GMC terrain just went over 150,000 miles I bought this vehicle used from a dealership not knowing that there was a big lawsuit or that GMC continuted making this make and model knowing t",
+          "2011 GMC Terrain SLT The engine blew do to timing Chain breaking and it tore up the injectors as i was looking it up there where lots of people with the same problem and when it blew i was on the High"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 11,
+      "fires": 8,
+      "injuries": 24,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 4
+      },
+      {
+        "year": 2011,
+        "count": 43
+      },
+      {
+        "year": 2012,
+        "count": 13
+      },
+      {
+        "year": 2013,
+        "count": 13
+      },
+      {
+        "year": 2014,
+        "count": 21
+      },
+      {
+        "year": 2015,
+        "count": 35
+      },
+      {
+        "year": 2016,
+        "count": 33
+      },
+      {
+        "year": 2017,
+        "count": 45
+      },
+      {
+        "year": 2018,
+        "count": 42
+      },
+      {
+        "year": 2019,
+        "count": 55
+      },
+      {
+        "year": 2020,
+        "count": 34
+      },
+      {
+        "year": 2021,
+        "count": 19
+      },
+      {
+        "year": 2022,
+        "count": 21
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "16V502000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016-2017 Buick Verano and 2016 Chevrolet Malibu as the electronic park lock lever may allow the ignition key to be removed without the transmission being in PARK.  Also, certain 2013 Buick Encore,  2011 Buick Regal, 2013-2014 Buick Verano, 201",
+        "report_date": "05/07/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V447000",
+        "component": "SEATS:FRONT ASSEMBLY:POWER ADJUST",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2011-2012 Buick LaCrosse, Regal and Chevrolet Camaro, as well as certain 2010-2012 Cadillac SRX, Chevrolet Equinox and GMC Terrain vehicles, equipped with power height adjustable driver and passenger seats.  In the affected vehicles, the bolt t",
+        "report_date": "23/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V623000",
+        "component": "SEAT BELTS:FRONT:BUCKLE ASSEMBLY",
+        "summary": "GENERAL MOTORS IS RECALLING CERTAIN MODEL YEAR 2011 CADILLAC SRX, CHEVROLET EQUINOX AND GMC TERRAIN VEHICLES.  THE DRIVER AND /OR FRONT PASSENGER SAFETY BELT BUCKLE ANCHOR MAY FRACTURE AND SEPARATE NEAR THE SEAT ATTACHMENT IN A VEHICLE CRASH.",
+        "report_date": "15/12/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V137000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2017 GMC Terrain vehicles.  A reflection caused by the headlight housings may illuminate areas above the vehicle and outside of the driver's view with excessively bright light.  As such, these vehicles fail to comply with the requirements of Federal",
+        "report_date": "08/03/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:55:28.437Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

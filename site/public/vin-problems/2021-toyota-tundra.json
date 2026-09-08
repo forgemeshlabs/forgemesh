@@ -1,0 +1,126 @@
+{
+  "slug": "2021-toyota-tundra",
+  "year": 2021,
+  "make": "Toyota",
+  "model": "Tundra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 24,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 4,
+        "share_pct": 16.7,
+        "excerpts": [
+          "When I turn the key to crank my radio doesn’t come on , A/C won’t blow and I have to jiggle the keys or restart it to end the issue. My husband has witnessed thi happen many times. Scared I might have",
+          "The software in the combination meter's electronic control Instrument Panel LCD display frequently goes blank I have taken my vehicle at least 5 times since I bought it 18 months ago as a new vehicle ",
+          "LED lights are loose and rattle and flash all over the place. While driving over 40+mph or going over any bumps on the road .  This only affects TRD PRO tundra’s with factory Ridgid lights . Toyota do"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 4,
+        "share_pct": 16.7,
+        "excerpts": [
+          "Drivers seat has lateral movement in it associated when vehicle is engaged in a slow speed descending right turn.     Dealer claims nothing is wrong.",
+          "I've taken my truck in 3 times for a problem with the driver seat having excessive play.  Whenever I stop at a light or pull off the seat rocks back and forth.  Each time I've taken it in to the deale",
+          "The seats shifts back and forth  when brakes applied or hit the accelerator pedal. I’ve taken to two different dealers n made complaints but not results or repairs have been made."
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 3,
+        "share_pct": 12.5,
+        "excerpts": [
+          "When I was driving and snow accumulating on the windshield put stress on the windshield wiper arm. The arm stopped working and I later found that the arm stripped out. I contacted three different deal",
+          "Vehicle is now 6 months old from original & new purchase.  Within 30-days of ownership, (1) approx 1.5mm in size chip was fully repaired half way up from the front of the windshield.  Eight hours ago ",
+          "Driver side wiper does not work while passenger side works. Has not been into dealer yet, due for state inspection now, June 2022. No warning, would not work when attempting to leave home."
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 2,
+        "share_pct": 8.3,
+        "excerpts": [
+          "The power steering failed at around 38,000 miles.  The dealership indicated the entire assembly needs to be replaced which cost more than $6,000.  This is apparently a known manufacturing issue as the",
+          "The contact owns a 2021 Toyota Tundra.  The contact received notification of NHTSA Campaign Number: 21V920000 (Steering) however, the part to do the recall repair was not yet available. The local deal"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 2,
+        "share_pct": 8.3,
+        "excerpts": [
+          "My sunroof exploded due to weather conditions while i was driving with my family on highway during heavy rain storm",
+          "LED lights are loose and rattle and flash all over the place. While driving over 40+mph or going over any bumps on the road .  This only affects TRD PRO tundra’s with factory Ridgid lights . Toyota do"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 1,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "21V688000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2021 Tundra vehicles.  The headlight electrical circuits may power the high and low beams simultaneously, which could overheat the electrical connector.",
+        "report_date": "02/09/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V920000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2008-2022 Sequoia and 2007-2021 Tundra vehicles.  The power steering gear assembly may have been manufactured incorrectly, which can result in an oil leak.",
+        "report_date": "23/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21E103000",
+        "component": "STEERING:HYDRAULIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain JTEKT power steering gear assembly service parts for 2007-2021 Tundra and 2008-2022 Sequoia, part numbers 44250-0C160, 44250-0C131, 44250-0C170, and 11250-0C121.  The power steering gear assembly may have been manufactured incorr",
+        "report_date": "23/12/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:06.526Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

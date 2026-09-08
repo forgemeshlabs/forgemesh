@@ -1,0 +1,154 @@
+{
+  "slug": "2017-toyota-4runner",
+  "year": 2017,
+  "make": "Toyota",
+  "model": "4Runner",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 36,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 9,
+        "share_pct": 25,
+        "excerpts": [
+          "Failed brake master cylinder, this is still a rather new vehicle and the mechanics said this is unlikely in a new low mileage vehicle. I did research and this has only happened a few times, seems like",
+          "While driving at full speed on the freeway, another vehicle stopped suddenly in front of me. My brake pedal was soft and went down almost to the floor. Rapid pulsing of brakes, as would be expected wi",
+          "IN MOTION, FROM STREET TURNING INTO STORE PARKING LOT, BRAKES FADED COMPLETELY TO THE FLOOR. LIFTED OFF AND APPLIED PEDAL TO STOP. NO LEAKS, PLENTY OF FLUID. I WILL CHECK WITH ANOTHER DEALER. THERE AR"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 5,
+        "share_pct": 13.9,
+        "excerpts": [
+          "For the 2nd time in 5 weeks, the main wiring harness and knock sensor have been eaten and destroyed by rodents. This has caused thousands of dollars worth of damage, and it's due to the soy based wiri",
+          "TOYOTA ENTUNE (IPHONE APP) WILL NOT PAIR WITH YOUR PHONE OR DISCONNECTS DURING USE BECAUSE APP DOES NOT MAINTAIN THE USER'S LOGIN CREDENTIALS. THE BEHAVIOR OF THE CONNECTIVITY BETWEEN THE VEHICLE'S EN",
+          "CAR STALLED ON THE FREE WAY WHILE DRIVING .  THE DASH BOARD  HAD A WARNING TO CHECK ENGINE AT DEALER.  THE CAR WAS TOWED TO THE DEALERSHIP (TANSKY SAWMILL, DUBLIN OH).  THEY RESET THE CAR AND IT WAS R"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 3,
+        "share_pct": 8.3,
+        "excerpts": [
+          "A DEER RAN OUT IN FRONT OF ME, DRIVING 50 MPH.  PASSENGER SIDE HIT, ALL 8 AIRBAGS DEPLOYED.  PASSENGER SIDE AIRBAG UNDER STEERING WHEEL, CUT UP MY LEGS HORRIBLY, VERY SWOLLEN, REFUSED HOSPITAL DUE TO ",
+          "ON 7/22/2019, OUR 4RUNNER REAR-ENDED ANOTHER VEHICLE ON THE FREEWAY. SPEED AT THE TIME OF IMPACT WAS APPROXIMATELY 55MPG AFTER HARD BRAKING FROM APPROXIMATELY 65MPH. NONE OF THE 4RUNNER'S AIRBAGS DEPL",
+          "TL* THE CONTACT OWNS A 2017 TOYOTA 4RUNNER. WHILE DRIVING APPROXIMATELY 35 MPH, THE CURTAIN AIR BAGS LOCATED AT THE FRONT DRIVER AND PASSENGER DOORS, THE REAR CURTAIN AIR BAGS LOCATED AT THE REAR DRIV"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 2,
+        "share_pct": 5.6,
+        "excerpts": [
+          "2017 Toyota 4 runner SR5 While driving on the highway the vehicle stopped apparently the fuel pump stopped working and could not get going anymore. I had a mechanic come to the house with a PC and tes",
+          "Throttle has a lag when depressing gas pedal (occasionally a dead petal symptom)   research indicates a TSB T-SB-0166-10 exist that relates to this issue. Lack of Toyota dealer assistance with this is"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 2,
+        "share_pct": 5.6,
+        "excerpts": [
+          "Throttle has a lag when depressing gas pedal (occasionally a dead petal symptom)   research indicates a TSB T-SB-0166-10 exist that relates to this issue. Lack of Toyota dealer assistance with this is",
+          "CAR STALLED ON THE FREE WAY WHILE DRIVING .  THE DASH BOARD  HAD A WARNING TO CHECK ENGINE AT DEALER.  THE CAR WAS TOWED TO THE DEALERSHIP (TANSKY SAWMILL, DUBLIN OH).  THEY RESET THE CAR AND IT WAS R"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 1,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 8
+      },
+      {
+        "year": 2018,
+        "count": 11
+      },
+      {
+        "year": 2019,
+        "count": 4
+      },
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "18V753000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2017-2019 Toyota 4Runner vehicles that SET modified to be equipped with a TRD wheel package.  The Gross Vehicle Weight Rating (GVWR) on the certification label may be incorrect, possibly resulting in the vehicle being overloaded.  As such",
+        "report_date": "25/10/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V831000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2017-2018 Toyota 4Runner and Tundra, 2018 Toyota Highlander, RAV4 and Lexus GX460 and 2017 Toyota Sienna and Tacoma vehicles.  These vehicles may have incorrect load carrying capacity modification labels.  As such, these vehicles",
+        "report_date": "20/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V763000",
+        "component": "STRUCTURE:BODY:HOOD",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2015-2018 Toyota 4Runner vehicles equipped with an accessory Billet Grille Overlay installed by SET or provided by SET and installed by SET dealers.  The U-nut that secures the overlay grille may fracture, allowing the Billet Grille Overl",
+        "report_date": "29/11/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V295000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "Gulf States Toyota, Inc. (Gulf States) is recalling certain 2017 4Runner , 86, Avalon, Camry, Camry Hybrid, Corolla, Corolla iM, Highlander, Highlander Hybrid, Prius, Prius C, RAV4, RAV4 Hybrid, Sienna  and Yaris vehicles.  The spare tire air pressure was not adjusted to the proper pressure as state",
+        "report_date": "02/05/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V291000",
+        "component": "EQUIPMENT",
+        "summary": "Gulf States Toyota, Inc (Gulf States) is recalling certain 2016-2017 4Runner vehicles equipped with the TFORCE accessory package.  The fasteners for the aftermarket roof rack may have been improperly tightened.",
+        "report_date": "01/05/2017",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:48.136Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

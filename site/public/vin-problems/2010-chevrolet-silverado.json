@@ -1,0 +1,151 @@
+{
+  "slug": "2010-chevrolet-silverado",
+  "year": 2010,
+  "make": "Chevrolet",
+  "model": "Silverado",
+  "matched_as": {
+    "complaints": [
+      "SILVERADO 2500 CREW CAB",
+      "SILVERADO 3500 EXTENDED CAB",
+      "SILVERADO 3500 CREW CAB",
+      "SILVERADO 2500 EXTENDED CAB",
+      "SILVERADO 2500 REGULAR CAB",
+      "SILVERADO 3500 REGULAR CAB"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 441,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 84,
+        "share_pct": 19,
+        "excerpts": [
+          "I HAVE A PROBLEM WITH THE TRUCKS BRAKES APPLING THEMSELVES WHILE DRIVING. TOOK THE VEHICLE TO THE DEALER LAST YEAR AND THE REPLACED THE FRONT BRAKES, BRAKES, ROTORS. CALIPERS, LNES . SEEMED TO HELP BU",
+          "TL* THE CONTACT OWNS A 2010 CHEVROLET SILVERADO 2500. THE CONTACT STATED THAT THE INTERIOR PASSENGER AND DRIVER SIDE DOOR HANDLES WERE FRACTURED. THE VEHICLE WAS TAKEN TO JAKE SWEENEY CHEVROLET (33 W ",
+          "TL* THE CONTACT OWNS A 2010 CHEVROLET SILVERADO. WHILE ATTEMPTING TO REMOVE THE SPARE TIRE FROM UNDERNEATH THE VEHICLE, THE SPARE TIRE FAILED TO MOVE. AS A RESULT, THE CONTACT HAD TO FRACTURE THE WIRE"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 72,
+        "share_pct": 16.3,
+        "excerpts": [
+          "The contact owns a 2010 Chevrolet Silverado. The contact received notification of NHTSA Campaign Number: 21V054000 (Air Bags). However, the part to do the recall repair was not yet available. The loca",
+          "2010 CHEVROLET SILVERADO. CONSUMER WRITES IN REGARD TO TAKATA AIRBAG SAFETY RECALL.  THE CONSUMER STATED THAT A RECALL WAS PERFORMED ON THE VEHICLE IN OCTOBER 2021, AND IN JULY 2022 WHILE DRIVING THE ",
+          "Takata Recall. The contact owns a 2010 Chevrolet Silverado 2500. The contact received notification of NHTSA Campaign Number: 21V054000 (Air Bags) however, the part to do the recall repair was not avai"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 69,
+        "share_pct": 15.6,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2010 CHEVROLET SILVERADO 2500. THE CONTACT STATED THAT THE LIFTERS ON THE CAMSHAFT WAS MAKING A KNOCKING SOUND WHILE THE VEHICLE WAS IDLING. THE CONTACT STATED THAT JIM WERNIG, ",
+          "MY OIL PRESSURE SENDING UNIT HAS BEEN REPLACED TWICE IN TWO MONTHS.  THE OIL PRESSURE WILL BE FINE WHEN STARTING THE ENGINE COLD THEN GRADUALLY AS THE ENGINE WARMS UP IT DROPS AND DROPS UNTIL THE \"LOW",
+          "WINTER OF 2014, SILVERADO WOULD ENGAGE IT'S STABILITRACK CONTROL. WHEN THIS HAPPENS IT SLOWS THE SPEED AT WHICH THE TRUCK COULD GO IF IT SENSED THE ROADS MAY BE ICY. THE TRUCK WOULD MOVE BUT VERY SLOW"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 57,
+        "share_pct": 12.9,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2010 CHEVROLET SILVERADO. THE CONTACT STATED THAT WHILE PARKED, SHE OBSERVED MULTIPLE CRACKS ON THE DASHBOARD NEAR THE STEERING COLUMN AND THE PASSENGER AIR BAG AREA. THE VEHICL",
+          "CHECK ENGINE WARNING LIGHT CAME ON THEN IMMEDIATELY LOST ALL ENGINE POWER COMPLETELY STALLED), ELECTRICAL (EXCEPT HEADLIGHTS), POWER STEERING, POWER BRAKES.  ENGINE WOULD NOT RESTART AFTER VEHICLE STO",
+          "WHILE DRIVING TO WORK IN HEAVY TRAFFIC, MY 2010 CHEVROLET SILVERADO WITH 27,000 MILE SUDDENLY LOST POWER AND SLOWED FROM 50MPH TO 25MPH IN A MATTER OF SECONDS. DUE TO THE EXTREME REDUCTION IN SPEED WI"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 48,
+        "share_pct": 10.9,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2010 CHEVROLET SILVERADO 2500. WHILE DRIVING VARIOUS SPEEDS, THE TRANSMISSION COOLANT LINES LEAKED OIL ONTO THE EXHAUST. THE CONTACT SMELLED SMOKE UNDER THE VEHICLE ALONG THE PA",
+          "THIS TRUCK IS LESS THAN 4 YEARS IN MY OWNERSHIP (BOUGHT NEW). THIS WINTER I SAW RED DOTS IN THE SNOW AND LOW AND BEHOLD THE TRANSMISSION LINES ARE LEAKING.  A $300 BILL NOT COVERED UNDER WARRANTEE.  S",
+          "TL* THE CONTACT OWNS A 2010 CHEVROLET SILVERADO. WHILE DRIVING 55 MPH ON THE HIGHWAY, THE CONTACT SMELLED AN ABNORMAL ODOR COMING FROM UNDER THE VEHICLE. THE CONTACT PULLED OVER TO THE SIDE OF THE ROA"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 15,
+      "fires": 15,
+      "injuries": 9,
+      "deaths": 3
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 12
+      },
+      {
+        "year": 2010,
+        "count": 51
+      },
+      {
+        "year": 2011,
+        "count": 27
+      },
+      {
+        "year": 2012,
+        "count": 30
+      },
+      {
+        "year": 2013,
+        "count": 45
+      },
+      {
+        "year": 2014,
+        "count": 102
+      },
+      {
+        "year": 2015,
+        "count": 96
+      },
+      {
+        "year": 2016,
+        "count": 30
+      },
+      {
+        "year": 2017,
+        "count": 9
+      },
+      {
+        "year": 2018,
+        "count": 6
+      },
+      {
+        "year": 2020,
+        "count": 6
+      },
+      {
+        "year": 2021,
+        "count": 12
+      },
+      {
+        "year": 2022,
+        "count": 9
+      },
+      {
+        "year": 2023,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "10E043000",
+        "component": "EQUIPMENT",
+        "summary": "MARATHON IS RECALLING CERTAIN SEAT COVERS, BRAND SUPERHIDES WITH PART NUMBERS 593, 594, 578, 960, 228, 228-09, 267-08, 333, 625, AND 630, SOLD FOR USE AS AFTERMARKET EQUIPMENT FOR VARIOUS PASSENGER VEHICLES.  THESE SEAT COVERS ARE MADE OF HEAVIER THREAD AND ARE NOT COMPATIBLE WITH SEATS CONTAINING S",
+        "report_date": "03/09/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:50:57.221Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

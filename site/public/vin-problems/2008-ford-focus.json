@@ -1,0 +1,184 @@
+{
+  "slug": "2008-ford-focus",
+  "year": 2008,
+  "make": "Ford",
+  "model": "Focus",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 250,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 57,
+        "share_pct": 22.8,
+        "excerpts": [
+          "Ignition cylinder fails, leaving drivers stranded. Ford Focus online forums are plastered with numerous complaints about the focus ignition lock cylinder failure, and there are youtube videos showing ",
+          "MY IGNITION SWITCH IS GETTING STUCK AND IT IS NOT ALLOWING ME TO TURN ON THE CAR. IT IS HARD TO TURN ON MY VEHICLE. THE CATALYTIC CONVERTER IS MARKING ON MY CHECK ENGINE LIGHT, IT ISN'T ALLOWING MY VE",
+          "CONSTITUENT WRITES IN REGARDS TO SWITCH ASY IGNITION FAILURE ON 2008 FORD FOCUS. *LD    THE CONSUMER REQUESTED TO BE REIMBURSED FOR THE COST OF THE REPAIRS FOR THE IGNITION ASSEMBLY. *JS"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 41,
+        "share_pct": 16.4,
+        "excerpts": [
+          "Both Front Door latches have failed and will not open from the outside",
+          "ENTERED VEHICLE AS USUAL CLOSED DOOR AND BEGAN DRIVING (VEHICLE WAS IN MOTION). WHILE IN OPERATION DRIVING DOWN A CITY STREET THE DRIVER SIDE DOOR SWUNG OPEN. I ATTEMPTED TO CLOSE DOOR IMMEDIATELY BUT",
+          "ES UNA EXCELENTE HERRAMIENTA DONDE SE PUEDE SACAR INFORMACION"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 26,
+        "share_pct": 10.4,
+        "excerpts": [
+          "N/a",
+          "I purchased a 2008 Ford Focus from my father (now deceased).  The airbag warning light has been on.  When I had the OBD read, it came back with code # B2294 indicating a fault in a control module.  My",
+          "Airbag light came on.  The vehicle has 123,000 on it.  It just recently came on the dash while driving.  I see there is no recall for airbag light indicator."
+        ]
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "complaints": 25,
+        "share_pct": 10,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2008 FORD FOCUS. WHILE THE VEHICLE WAS IN PARK OR IN DRIVE, THE FRONT DRIVER, REAR DRIVER, AND REAR PASSENGER DOORS WOULD NOT LOCK. THERE WERE NO WARNING INDICATORS ILLUMINATED.",
+          "TL* THE CONTACT OWNS A 2008 FORD FOCUS. WHILE ATTEMPTING TO CLOSE THE FRONT DRIVER SIDE DOOR, THE DOOR FAILED TO LATCH. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC WHERE IT WAS DIAGNOSED THAT THE",
+          "I WENT SHOPPING WITH MY NIECE LAST YEAR AROUND THIS TIME AND I LOCKED MY CAR THE 2008 2 DOOR FORD FOCUS SES, I HAD COME OUT WITH IT POURING RAIN AND I GOT LOCKED OUT OF THE CAR ONLY INSTEAD OF THE KEY"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 23,
+        "share_pct": 9.2,
+        "excerpts": [
+          "The contact owns a 2008 Ford Focus.  The contact stated that while driving at an undisclosed speed, the vehicle overheated. The coolant temperature warning light was illuminated. The vehicle was towed",
+          "CAR TRIES TO DRIVE ITSELF WHEN MY FOOT IS ON THE BRAKE ( STATIONARY) & THE MALFUNCTION ALMOST CAUSED A ACCIDENT IN THE CITY.LIGHTS HAVE MALFUNCTIONED SINCE PURCHASE. NO BACKSEAT LIGHTS WORKING.CAR ISL",
+          "I HAVE REPLACED THE TIRES ON THIS VEHICLE 5 TIMES IN 6 YEARS.  THE CAR WAS PURCHASED IN 2010, ONLY 2 YEARS OLD, AND THE FIRST SET OF TIRES WAS REPLACED IN 2011.  EACH TIME THE TIRES ARE REPLACED IT'S "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 21,
+      "fires": 0,
+      "injuries": 20,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 1
+      },
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 2
+      },
+      {
+        "year": 2008,
+        "count": 16
+      },
+      {
+        "year": 2009,
+        "count": 21
+      },
+      {
+        "year": 2010,
+        "count": 31
+      },
+      {
+        "year": 2011,
+        "count": 22
+      },
+      {
+        "year": 2012,
+        "count": 17
+      },
+      {
+        "year": 2013,
+        "count": 21
+      },
+      {
+        "year": 2014,
+        "count": 28
+      },
+      {
+        "year": 2015,
+        "count": 12
+      },
+      {
+        "year": 2016,
+        "count": 28
+      },
+      {
+        "year": 2017,
+        "count": 17
+      },
+      {
+        "year": 2018,
+        "count": 5
+      },
+      {
+        "year": 2019,
+        "count": 9
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "08E050000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "K2 MOTOR IS RECALLING 1,921 AFTERMARKET HEADLAMPS OF VARIOUS MODELS SOLD FOR USE ON THE ABOVE LISTED VEHICLES.  THESE HEADLAMPS ARE MISSING THE AMBER SIDE REFLEX REFLECTOR WHICH FAILS TO CONFORM WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 108, \"LAMPS, REFLECTIVE DEVICES, AND A",
+        "report_date": "11/08/2008",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "07V541000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "CERTAIN VEHICLES FAIL TO CONFORM TO THE REQUIREMENTS SPECIFIED IN FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 208, 'OCCUPANT CRASH PROTECTION.'  THE DRIVER AIR BAG MODULE MAY NOT HAVE BEEN PROPERLY ASSEMBLED.",
+        "report_date": "21/11/2007",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:46:43.273Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

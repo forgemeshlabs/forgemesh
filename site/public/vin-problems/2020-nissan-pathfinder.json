@@ -1,0 +1,107 @@
+{
+  "slug": "2020-nissan-pathfinder",
+  "year": 2020,
+  "make": "Nissan",
+  "model": "Pathfinder",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 52,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 16,
+        "share_pct": 30.8,
+        "excerpts": [
+          "The car stalled three times and died in active traffic. The breakdown was so hazardous that the police department had to intervene and push the car out of the road and had to tow the car more than 3 t",
+          "After only 110,000 miles, my local Nissan service center (Advantage Nissan, 5101 Auto Center Blvd, Bremerton, WA 98312) states that the timing chain is loose.  The repair estimate is in excess of $600",
+          "The vehicle has developed a persistent and progressively worsening rattling noise from the engine during cold starts, along with intermittent rough operation. The symptoms are consistent with a malfun"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 12,
+        "share_pct": 23.1,
+        "excerpts": [
+          "The car stalled three times and died in active traffic. The breakdown was so hazardous that the police department had to intervene and push the car out of the road and had to tow the car more than 3 t",
+          "A few months after purchase, the power cut off on me. Then it happened again the following year. Then the screen for backing up started going on and off. Then I started feeling like the car was loosin",
+          "Passenger door unlock/lock does not work at all unless done manually by hand and the driver door is beginning to do the same as well. This has begun a year ago.   The lift gate button broke off over a"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 9,
+        "share_pct": 17.3,
+        "excerpts": [
+          "The car stalled three times and died in active traffic. The breakdown was so hazardous that the police department had to intervene and push the car out of the road and had to tow the car more than 3 t",
+          "A few months after purchase, the power cut off on me. Then it happened again the following year. Then the screen for backing up started going on and off. Then I started feeling like the car was loosin",
+          "While driving, the vehicle experienced sudden and complete loss of throttle response, resulting in little to no acceleration. This occurred in active traffic and created a dangerous situation where th"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 8,
+        "share_pct": 15.4,
+        "excerpts": [
+          "The contact owns a 2020 Nissan Pathfinder. The contact stated that while the vehicle was stationary, the ABS, traction control, and the Forward Collision Avoidance warning lights illuminated. The cont",
+          "My 2020 Nissan Pathfinder SL has once again developed problems with the Emergency forward Brake  System. The ABS AEB was replaced in January 2024 at Southwest Nissan in Weatherford Tx . Today, [XXX] t",
+          "I have a 2020 Nissan Pathfinder SL with under 70k miles. I had an awful squeal start, upon stopping. I had a private shop say I needed brakes, pads and rotors. And this began the issue. This was in 22"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 4,
+        "share_pct": 7.7,
+        "excerpts": [
+          "Unknown",
+          "The contact owns a 2020 Nissan Pathfinder. The contact stated that while the vehicle was stationary, the ABS, traction control, and the Forward Collision Avoidance warning lights illuminated. The cont",
+          "My 2020 Nissan Pathfinder SL has once again developed problems with the Emergency forward Brake  System. The ABS AEB was replaced in January 2024 at Southwest Nissan in Weatherford Tx . Today, [XXX] t"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 0,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 6
+      },
+      {
+        "year": 2021,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 11
+      },
+      {
+        "year": 2023,
+        "count": 11
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 9
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T20:05:07.263Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,162 @@
+{
+  "slug": "2017-chevrolet-suburban",
+  "year": 2017,
+  "make": "Chevrolet",
+  "model": "Suburban",
+  "matched_as": {
+    "complaints": [
+      "SUBURBAN 1500"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 141,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 44,
+        "share_pct": 31.2,
+        "excerpts": [
+          "when applying the brakes and come to a complete stop and when you try to apply the brakes you have no power assist and when backing up if you apply the brakes more then once you have no power assist.",
+          "The contact owns a 2017 Chevrolet Suburban. The contact stated while driving 70 MPH, the vehicle was smoking from the rear, and the ABS failed to operate as designed, causing the wheels to lock-up. Th",
+          "The brakes fail on a regular basis!! If when backing out of a parking space you lightly press the brake, slightly release and try to depress the brakes again, power braking appears to be completely go"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 39,
+        "share_pct": 27.7,
+        "excerpts": [
+          "The contact owns a 2017 Chevrolet Suburban. The contact stated that while driving at an undisclosed speed, the transmission overheating warning light illuminated. The vehicle was driven to the shoulde",
+          "The contact owns a 2017 Chevrolet Suburban. The contact stated that while driving at an undisclosed speed, the vehicle suddenly came to a complete stop. There was no warning light illuminated. The con",
+          "I am writing to formally report a critical safety defect in the vehicle’s transmission system. While driving, the vehicle began experiencing severe vibrations, accompanied by an abnormal increase in e"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 25,
+        "share_pct": 17.7,
+        "excerpts": [
+          "I was driving in [XXX]  on 1604 and the car was driving fine and out of nowhere. The car started shaking while on the highway for about seven8 seconds and then I heard an explosion smoke and fire. I p",
+          "Component or System Failure  The vehicle experienced two major mechanical failures. First, the transmission failed and required full replacement shortly after the expiration of the 60,000-mile powertr",
+          "Had to have all lifters replaced even after its a known issue with the manufacturer i had to pay out of pocket with no recall"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 21,
+        "share_pct": 14.9,
+        "excerpts": [
+          "The infotainment system started taking ghost inputs. We replaced the screen and the ghost inputs are still there. The Human interface module has gone bad. There are many reports of this happening to c",
+          "On [XXX], our car was parked for 5 hours at a public marina. [XXX], Miami, Fl 33138. At 316 pm the MIami Dade Fire Rescue arrived promptly to  put out the car fire. There is a fire station on scene. I",
+          "While driving, the vehicle has repeatedly experienced sudden loss of power and electrical failures without warning. During these events, the dashboard flickers, warning messages appear, and the vehicl"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 6,
+        "share_pct": 4.3,
+        "excerpts": [
+          "While driving, the vehicle has repeatedly experienced sudden loss of power and electrical failures without warning. During these events, the dashboard flickers, warning messages appear, and the vehicl",
+          "The contact owns a 2017 Chevrolet Suburban. The contact stated that while driving 65 MPH, the vehicle started shuddering violently, prompting the contact to discontinue driving over 60 MPH. Additional",
+          "While driving the cars loses all power and you can’t steer. It used to only happen when turn at a slow speed. And now when you’re driving it matter what speed it shuts off and you lose all power.  Not"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 3,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 6
+      },
+      {
+        "year": 2018,
+        "count": 10
+      },
+      {
+        "year": 2019,
+        "count": 24
+      },
+      {
+        "year": 2020,
+        "count": 16
+      },
+      {
+        "year": 2021,
+        "count": 17
+      },
+      {
+        "year": 2022,
+        "count": 18
+      },
+      {
+        "year": 2023,
+        "count": 19
+      },
+      {
+        "year": 2024,
+        "count": 17
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 8
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "19V645000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2017 Cadillac Escalade, 2014-2018 Chevrolet Silverado, GMC Sierra, 2015-2018 Chevrolet Suburban, Tahoe, GMC Yukon vehicles.  The amount of vacuum created by the vacuum pump may decrease over time.",
+        "report_date": "06/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V761000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is tra",
+        "report_date": "24/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V033000",
+        "component": "VISIBILITY:REARVIEW MIRRORS/DEVICES:EXTERIOR",
+        "summary": "General Motors LLC (GM) is recalling certain 2016-2017 Chevrolet Suburban HD vehicles.   These vehicles were assembled with a convex right-hand outside mirror, instead of with a non-convex (flat) right-hand outside mirror.  As such, these vehicles fail to comply with the requirements of Federal Moto",
+        "report_date": "12/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V651000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015-2017 Chevrolet Silverado 2500 HD, 3500 HD, Tahoe, Suburban,  GMC Sierra 2500 HD and 3500 HD, GMC Yukon, GMC Yukon XL, Cadillac Escalade and Cadillac Escalade ESV vehicles and 2014-2017 Chevrolet Corvette, Silverado 1500, Trax, Caprice Poli",
+        "report_date": "08/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V289000",
+        "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+        "summary": "General Motors, LLC (GM) is recalling certain 2026 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, and GMC Sierra 1500, Yukon, and Yukon XL vehicles with four-wheel (4WD) or all-wheel drive (AWD), and certain 2015-2020 Suburban, Escalade, Escalade ESV, Yukon, Yukon",
+        "report_date": "07/05/2026",
+        "park_it": true,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:03.079Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

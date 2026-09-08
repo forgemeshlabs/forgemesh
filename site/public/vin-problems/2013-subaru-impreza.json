@@ -1,0 +1,172 @@
+{
+  "slug": "2013-subaru-impreza",
+  "year": 2013,
+  "make": "Subaru",
+  "model": "Impreza",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 249,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 79,
+        "share_pct": 31.7,
+        "excerpts": [
+          "Air bags did not go off after a car accident with a commercial box truck, car seems to be totaled. Insurance is going to inspect vehicle to confirm it being totaled. No warning lights were on at the t",
+          "The airbag indicator light on the driver’s dash is illuminated most times that I drive my car. The passenger airbag indicator shows that airbags are OFF, even when someone is seated in the passenger s",
+          "During humid days, when a passenger sits in the passenger seat for more than a minute, the airbags will turn off for both the driver and passenger seat. With some further research, this is a somewhat "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 74,
+        "share_pct": 29.7,
+        "excerpts": [
+          "Subaru stutters stalls, torque converter malfunction",
+          "Vehicle Fire Summary – Arvada, CO  On [XXX] at approximately [XXX], the Arvada Fire Department responded to a report of a vehicle fire on [XXX] . The vehicle involved was a 2013 gray Subaru Impreza WR",
+          "engine failed while driving in 2020. Engine replaced. Engine unable to be repaired without another replacement Aug 2022-Jan 2023. Sold car back to dealer at a loss."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 33,
+        "share_pct": 13.3,
+        "excerpts": [
+          "In the morning of 7-11-2024, I started the engine to go to work as usual. I found the engine light on and noticed strange symptoms from the hood, such as unusual loud noise. Thereafter, I lifted the h",
+          "During humid days, when a passenger sits in the passenger seat for more than a minute, the airbags will turn off for both the driver and passenger seat. With some further research, this is a somewhat ",
+          "The wires that connect to the climate control have started an electrical fire and burned out my climate control twice. Upon reporting this to Subaru they advised the climate control randomly not worki"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 25,
+        "share_pct": 10,
+        "excerpts": [
+          "The brakes failed due to a leak in the brake lines (pedal to the floor).  Location of the leak is just after a union on the passenger side rear (just in front of the rear tire).  Location is not well ",
+          "Vehicle Fire Summary – Arvada, CO  On [XXX] at approximately [XXX], the Arvada Fire Department responded to a report of a vehicle fire on [XXX] . The vehicle involved was a 2013 gray Subaru Impreza WR",
+          "The contact owns a 2013 Subaru Impreza. The contact stated that upon entering the vehicle, he noticed small, yellow-colored drops of liquid on the ground around the vehicle. Upon starting the vehicle,"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 23,
+        "share_pct": 9.2,
+        "excerpts": [
+          "The contact owns a 2013 Subaru Impreza. The contact stated while driving at an undisclosed speed, the accelerator pedal was depressed; however, the vehicle failed to accelerate as intended. The contac",
+          "Last month, my 2013 Subaru Impreza Sport with only 67k that I bought brand new had a blinking AT (Automatic Transmission) Oil Temp light and three other lights were lit on the panel. I contacted Groov",
+          "We own a 2013 Subaru impreza. The transmission valve body part has been determined to be defective from the factory, therefore rendering our vehicle unusable, stopping in front of other vehicles on th"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 13,
+      "fires": 7,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 2
+      },
+      {
+        "year": 2013,
+        "count": 14
+      },
+      {
+        "year": 2014,
+        "count": 9
+      },
+      {
+        "year": 2015,
+        "count": 13
+      },
+      {
+        "year": 2016,
+        "count": 12
+      },
+      {
+        "year": 2017,
+        "count": 24
+      },
+      {
+        "year": 2018,
+        "count": 39
+      },
+      {
+        "year": 2019,
+        "count": 52
+      },
+      {
+        "year": 2020,
+        "count": 29
+      },
+      {
+        "year": 2021,
+        "count": 24
+      },
+      {
+        "year": 2022,
+        "count": 10
+      },
+      {
+        "year": 2023,
+        "count": 11
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "19V149000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2014-2016 Forester, 2008-2016 Impreza sedans, 2012-2016 Impreza station wagons, 2008-2014 WRX sedans (including STI), and 2013-2017 Crosstrek vehicles.  Exposure to certain contaminants may cause the brake light switch to malfunction, preventing ",
+        "report_date": "28/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V738000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2007-2009 model year Legacy and Outback vehicles, 2008-2014 Impreza vehicles and 2009-2013 Forester vehicles, all equipped with turbo-charged engines.  The relay that controls the secondary air injection pump may fail, causing the pump",
+        "report_date": "13/10/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V061000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Subaru is recalling certain model year 2010-2012 Legacy and Outback vehicles equipped with an automatic or CVT transmission and an Audiovox remote engine starter (RES) accessory, certain model year 2012-2013 Impreza vehicles equipped with a CVT transmission and an Audiovox remote engine starter (RES",
+        "report_date": "25/02/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V772000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2012-2014 Subaru Impreza, 2012-2013 Impreza Stationwagon, 2013 Subaru BRZ, XV Crosstrek and Toyota Scion FR-S vehicles.  The engine valve springs in these vehicles may fracture causing an engine malfunction or a possible engine stall.",
+        "report_date": "01/11/2018",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:05.417Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

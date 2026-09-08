@@ -1,0 +1,128 @@
+{
+  "slug": "2009-hyundai-tucson",
+  "year": 2009,
+  "make": "Hyundai",
+  "model": "Tucson",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 18,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 6,
+        "share_pct": 33.3,
+        "excerpts": [
+          "my air bag light came on and I took it to a dealer and they said they repaired it by replacing a seat belt , a couple months later my car was in a hit and run and my front end was badly damaged and my",
+          "my air bag light is on again , my front end was hit bad and they air bags didn't deploy and after the car was fixed the light is always on again, Hyundia can't fix it or find parts to replace it",
+          "AIR BAG LIGHT STAYS ON. HYUNDAI DEALERSHIP SAYS THAT THE LIGHT ON MEANS THE AIR BAGS ARE DISABLED AND THE AIR BAGS WOULD NOT DEPLOY IF THE LIGHT IS ON. THE DEALERSHIP SAYS I MUST HAVE THE DIAGNOSTIC T"
+        ]
+      },
+      {
+        "component": "SEAT BELTS",
+        "complaints": 2,
+        "share_pct": 11.1,
+        "excerpts": [
+          "my air bag light is on again , my front end was hit bad and they air bags didn't deploy and after the car was fixed the light is always on again, Hyundia can't fix it or find parts to replace it",
+          "TL* THE CONTACT OWNS A 2006 HYUNDAI TUSCAN. THE CONTACT STATED THAT WHILE DRIVING AT AN UNKNOWN SPEED, THE SEAT BELT ASSEMBLY FAILED AND INTERFERED WITH THE AIR BAGS. THE AIR BAG LIGHT REMAINED ILLUMI"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 2,
+        "share_pct": 11.1,
+        "excerpts": [
+          "I had taken my car in to the dealership for oil change  i was told by the mechanic not to drive my car unless it was absolulute necessary my whole undercarriage has rusted out  i am unable to find out",
+          "THERE IS A LEAK IN THE FILLER NECKS OF THE HYUNDAI TUCSON SE MODEL I JUST PURCHASED.  THE DEALER SAID THIS WAS HOW THE WINDSHIELD WASHER PLASTIC CONTAINER WAS MADE.  THE WINDSHIELD WASHER FLUID LEAKS "
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 2,
+        "share_pct": 11.1,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2009 HYUNDAI TUCSON. THE CONTACT STATED THAT WHILE DRIVING AT AN UNKNOWN SPEED, THE CRUISE CONTROL MALFUNCTIONED. THE VEHICLE WAS TAKEN TO THE DEALER. THE TECHNICIAN DIAGNOSED T",
+          "TL*THE CONTACT OWNS A 2009 HYUNDAI TUCSON. THE CONTACT WAS DRIVING APPROXIMATELY 15 MPH. WHILE DEPRESSING THE BRAKE AN UNINTENDED ACCELERATION OCCURRED WITHOUT WARNING. IMMEDIATELY, EXTREME BODILY FOR"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 2,
+        "share_pct": 11.1,
+        "excerpts": [
+          "I WAS DRIVING AT NIGHT AND THE DASH BOARD LIGHTS FLASHED OFF AND ABOUT A MINUTE LATER THEY CAME BACK ON. I DON'T DRIVE AT NIGHT THAT MUCH. ABOUT 6 MONTHS LATER IT DID IT AGAIN. ABOUT 1 YEAR LATER IT D",
+          "I HAVE A 2009 HYUNDAI TUCSON. THE HORN OPERATES MOST OF THE TIME, BUT NOT ALWAYS. IT MAY BE TEMPERATURE RELATED. I HAVE TAKEN IT TO THE DEALER FIVE TIMES, BUT THEY SAY THEY CAN'T FIND ANYTHING WRONG. "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 0,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 2
+      },
+      {
+        "year": 2010,
+        "count": 3
+      },
+      {
+        "year": 2011,
+        "count": 2
+      },
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 2
+      },
+      {
+        "year": 2019,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "13V113000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2006-2009 Accent, model year 2007-2011 Azera, Sonata and Sante Fe,2006-2011 Tucson, 2009-2011 Elantra Touring, 2007-2010 Elantra, 2008-2011 Veracruz, 2009-2011 Genesis, 2010-2011 Genesis Coupe, 2007-2008 Entourage, and  2006-2008 Tiburo",
+        "report_date": "01/04/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:49:32.599Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

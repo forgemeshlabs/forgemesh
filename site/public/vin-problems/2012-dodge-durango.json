@@ -1,0 +1,228 @@
+{
+  "slug": "2012-dodge-durango",
+  "year": 2012,
+  "make": "Dodge",
+  "model": "Durango",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 639,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 346,
+        "share_pct": 54.1,
+        "excerpts": [
+          "Vehicle was unable to start upon attempts in the morning. Was able to get it jumped and started. Less than 5 minutes later the dash lights along with radio lights began to flicker, the front windshiel",
+          "We were driving on the interstate in northern Kentucky when the battery alert LED appeared on the dash. We exited the highway while looking up info on possible car repair shops to go to when the vehic",
+          "Odometer Fraud. The contact purchased a 2012 Dodge Durango. The contact discovered a mileage discrepancy after the purchase. The vehicle was a dealer sale. At the time of purchase, the mileage was 96,"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 141,
+        "share_pct": 22.1,
+        "excerpts": [
+          "My vehicle has had recalls performed multiple times since 1st purchased in 2012. The issue was vehicle stalling. At 1st Chrysler / Dodge addressed it as issues upon start up where the vehicle sounded ",
+          "Electric problem",
+          "The 2014 through 2018 3.6L Pentastar motors are covered under a tech service bulletin for their Drivers side valve train being manufactured incorrectly.  This can lead to a misfire and hesitation to a"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 89,
+        "share_pct": 13.9,
+        "excerpts": [
+          "There have been several times where I am stopped at a light or stop sign and the car stalls. It happens when I try to start going from the stop, not while I'm stopped. I believe this an issue that has",
+          "My vehicle has had recalls performed multiple times since 1st purchased in 2012. The issue was vehicle stalling. At 1st Chrysler / Dodge addressed it as issues upon start up where the vehicle sounded ",
+          "The 2014 through 2018 3.6L Pentastar motors are covered under a tech service bulletin for their Drivers side valve train being manufactured incorrectly.  This can lead to a misfire and hesitation to a"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 76,
+        "share_pct": 11.9,
+        "excerpts": [
+          "I took my Durango to Albany ga to dodge dealership for recall on brake booster water shield repair plus the other recall they fixed one recall and say they can't fix brake booster recall cause they sa",
+          "I just got a 2012 dodge durango 08/13/2022 I looked up the recalls on it and just trying to get it ixed if possible",
+          "There is something definitely wrong with my car. I have just now seen a recall but it occurred before the car was sold to me and it had electric issues with break fail, electrical accessories were sti"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 41,
+        "share_pct": 6.4,
+        "excerpts": [
+          "I’ll be driving down the road and my car just shuts off. Steering becomes tight, no engine lights come on radio is still playing no warning except driving down the road and all of a sudden you can’t s",
+          "The contact owns a 2012 Dodge Durango. The contact stated that while driving at various speeds, the vehicle lost motive power. The contact stated that the power steering became inoperable. There was n",
+          "Unknown"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 16,
+      "fires": 32,
+      "injuries": 16,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 14
+      },
+      {
+        "year": 2013,
+        "count": 21
+      },
+      {
+        "year": 2014,
+        "count": 128
+      },
+      {
+        "year": 2015,
+        "count": 96
+      },
+      {
+        "year": 2016,
+        "count": 51
+      },
+      {
+        "year": 2017,
+        "count": 89
+      },
+      {
+        "year": 2018,
+        "count": 58
+      },
+      {
+        "year": 2019,
+        "count": 51
+      },
+      {
+        "year": 2020,
+        "count": 51
+      },
+      {
+        "year": 2021,
+        "count": 36
+      },
+      {
+        "year": 2022,
+        "count": 19
+      },
+      {
+        "year": 2023,
+        "count": 10
+      },
+      {
+        "year": 2024,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 10,
+    "recalls": [
+      {
+        "campaign_number": "17V435000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2014 Dodge Challenger, Dodge Charger, Chrysler 300, Dodge Durango, and 2012-2014 Jeep Grand Cherokee vehicles.  The affected vehicles have electro-hydraulic power steering (EHPS) and are equipped with a 5.7L or a 3.6L engine and a 160, 180 o",
+        "report_date": "10/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V879000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2013 Dodge Durango and Jeep Grand Cherokee vehicles manufactured December 3, 2009, to September 1, 2012.  In the affected vehicles, the wiring for the vanity lamp in the sun visor may short circuit, after having been remedied for a prior rec",
+        "report_date": "28/12/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V572000",
+        "component": "SERVICE BRAKES",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2014 Dodge Durango and Jeep Grand Cherokee vehicles.  The affected vehicles had brake booster shields installed under a previous campaign to prevent water from entering the brake booster and limiting braking ability.  This recall is to verify that the ",
+        "report_date": "18/09/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V154000",
+        "component": "SERVICE BRAKES",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Jeep Grand Cherokee and Dodge Durango vehicles manufactured from January 5, 2010, through September 8, 2013.  The subject vehicles have a brake booster with a center shell that may corrode and allow water to get inside.",
+        "report_date": "01/04/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V391000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Dodge Durango and Jeep Grand Cherokee vehicles manufactured January 5, 2010, through December 11, 2013.  In the affected vehicles, the wiring for the vanity lamp in the sun visor may short circuit, after a service repair is perf",
+        "report_date": "02/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V115000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2012-2013 Jeep Grand Cherokee vehicles manufactured September 17, 2010, to August 19, 2013, and equipped with a 3.6, 5.7 or 6.4 liter engine, and 2012-2013 Dodge Durango vehicles manufactured January 18, 2011, to August 19, 2013, and equipped wit",
+        "report_date": "27/02/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V104000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2012-2013 Dodge Durango and Jeep Grand Cherokee vehicles manufactured October 11, 2011, through October 1, 2012.  Under certain braking events, the Ready Alert Braking System (RAB) may result in the driver experiencing a hard brake pedal ",
+        "report_date": "04/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V487000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2012 CHRYSLER VEHICLES, INCLUDING 200 AND TOWN AND COUNTRY MODELS, DODGE VEHICLES, INCLUDING CHARGER, DURANGO, GRAND CARAVAN AND JOURNEY MODELS AND JEEP GRAND CHEROKEE VEHICLES MANUFACTURED FROM AUGUST 31, 2011, THROUGH SEPTEMBER 13, 2011, THAT ARE EQUIPPED W",
+        "report_date": "29/09/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V634000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Chrysler 300, Dodge Charger, Challenger, and Durango; and 2012-2014 Jeep Grand Cherokee vehicles manufactured April 22, 2010, to January 2, 2014, and equipped with a 3.6L engine and a 160 amp alternator.  In the affected vehicle",
+        "report_date": "08/10/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V813000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2013 Dodge Durango and Jeep Grand Cherokee vehicles equipped with a 3.6, 5.7, or 6.4 liter engine and previously recalled under NHTSA Recall 14V530 or 15V115.  The fuel pump relay inside the Totally Integrated Power Module (TIPM-7) may fail, causing th",
+        "report_date": "14/11/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:56:22.569Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

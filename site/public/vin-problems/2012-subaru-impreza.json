@@ -1,0 +1,192 @@
+{
+  "slug": "2012-subaru-impreza",
+  "year": 2012,
+  "make": "Subaru",
+  "model": "Impreza",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 242,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 105,
+        "share_pct": 43.4,
+        "excerpts": [
+          "The Airbag warning light has been lit within the dashboard. The front passenger seat airbag is faulty and is not able to correctly sense when a passenger is within the seat or not, which disables the ",
+          "The contact owns a 2012 Subaru Impreza. The contact stated that there was an abnormal whining sound coming from the vehicle. There was no warning light illuminated. The vehicle was taken to several in",
+          "Over the past three months, the front driver and passenger airbag lights have been on in my 2012 Subaru Impreza while driving. Documented videos attached were on 01/11/23, 01/20/23, and 04/04/23. It h"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 55,
+        "share_pct": 22.7,
+        "excerpts": [
+          "The contact owns a 2012 Subaru Impreza. The contact stated that while driving at various speeds, the check engine warning light illuminated. The contact took the vehicle to a dealer where the gas cap ",
+          "The contact owns a 2012 Subaru Impreza. The contact stated while driving 65 MPH, the vehicle started smoking from the engine compartment. There was no warning light illuminated. The vehicle was taken ",
+          "Took 2012 Subaru Impreza to dealer on 2/07/22 for oil change and PA state inspections (60,130 mi). Maintenance and inspections performed without issues. Started car and noticed slight change in sound "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 30,
+        "share_pct": 12.4,
+        "excerpts": [
+          "The fan controls in the center of the dash failed. Fan speed 1&2 work, but 3&4 do not. After pulling the center dash controls out, I found that the plug connecting the fan speed controls to the wiring",
+          "HVAC plug pigtail  Blower motor resistor  Heater control harness  Is available for inspection  HVAC electrical plugin was badly burned and melted causing risk of fire  Summer months created dangerous ",
+          "The contact owns a 2012 Subaru Impreza. The contact stated that while driving approximately 30-40 MPH, the vehicle lost power steering functionality and was driven with manual steering. The failure oc"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 26,
+        "share_pct": 10.7,
+        "excerpts": [
+          "Hello car just stopped on the Fla turnpike because bad valve body on transmission seem subaru knows about this problem and offered a extended warranty 10 yr or 100k but they did this during covid with",
+          "I was on the highway in mixed traffic for a couple hours. There was a burning smell in the cabin and then the warning lights came on including a check engine light and transmission light. The car star",
+          "Transmission valve body failure causing dangerous erratic shifting while driving."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 15,
+        "share_pct": 6.2,
+        "excerpts": [
+          "The contact owns a 2012 Subaru Impreza. The contact stated while driving at an undisclosed speed, the brake pedal was depressed and went to the floorboard. The vehicle failed to stop immediately. The ",
+          "The contact owns a 2012 Subaru Impreza. The contact stated that while driving approximately 30-40 MPH, the vehicle lost power steering functionality and was driven with manual steering. The failure oc",
+          "Brake Lamp Switch failed in 2018 - we diagnosed  the issue, based partly on information from other Subaru owners who had the same problem, and replaced the switch. Since that time, the brake lights ha"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 4,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 30
+      },
+      {
+        "year": 2013,
+        "count": 20
+      },
+      {
+        "year": 2014,
+        "count": 32
+      },
+      {
+        "year": 2015,
+        "count": 21
+      },
+      {
+        "year": 2016,
+        "count": 20
+      },
+      {
+        "year": 2017,
+        "count": 17
+      },
+      {
+        "year": 2018,
+        "count": 21
+      },
+      {
+        "year": 2019,
+        "count": 33
+      },
+      {
+        "year": 2020,
+        "count": 21
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 9
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "19V149000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2014-2016 Forester, 2008-2016 Impreza sedans, 2012-2016 Impreza station wagons, 2008-2014 WRX sedans (including STI), and 2013-2017 Crosstrek vehicles.  Exposure to certain contaminants may cause the brake light switch to malfunction, preventing ",
+        "report_date": "28/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V738000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2007-2009 model year Legacy and Outback vehicles, 2008-2014 Impreza vehicles and 2009-2013 Forester vehicles, all equipped with turbo-charged engines.  The relay that controls the secondary air injection pump may fail, causing the pump",
+        "report_date": "13/10/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V419000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2012 model year Subaru Impreza 4-Door and Station Wagon vehicles (except WRX/STI models) manufactured April 21, 2011, to February 16, 2012.  In the affected vehicles, the Occupant Detection System (ODS) may deactivate if a front seat passenger op",
+        "report_date": "01/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V061000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Subaru is recalling certain model year 2010-2012 Legacy and Outback vehicles equipped with an automatic or CVT transmission and an Audiovox remote engine starter (RES) accessory, certain model year 2012-2013 Impreza vehicles equipped with a CVT transmission and an Audiovox remote engine starter (RES",
+        "report_date": "25/02/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V562000",
+        "component": "SERVICE BRAKES, HYDRAULIC:PEDALS AND LINKAGES",
+        "summary": "SUBARU IS RECALLING CERTAIN MODEL YEAR 2012 IMPREZA SEDANS AND WAGONS (EXCEPT WRX/STI MODELS), MANUFACTURED FROM APRIL 21, 2011, THROUGH NOVEMBER 15, 2011, AND LEGACY AND OUTBACK VEHICLES MANUFACTURED FROM OCTOBER 17, 2011, THROUGH NOVEMBER 23, 2011.  THESE VEHICLES MAY BE EQUIPPED WITH A BRAKE MAST",
+        "report_date": "29/11/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V772000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2012-2014 Subaru Impreza, 2012-2013 Impreza Stationwagon, 2013 Subaru BRZ, XV Crosstrek and Toyota Scion FR-S vehicles.  The engine valve springs in these vehicles may fracture causing an engine malfunction or a possible engine stall.",
+        "report_date": "01/11/2018",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:56:01.804Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

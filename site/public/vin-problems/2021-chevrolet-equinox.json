@@ -1,0 +1,136 @@
+{
+  "slug": "2021-chevrolet-equinox",
+  "year": 2021,
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 91,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 17,
+        "share_pct": 18.7,
+        "excerpts": [
+          "While driving on the interstate, the moonroof glass began opening without any input from the moonroof controls. The power sunshade was still closed at the time. I opened the sunshade manually so it wo",
+          "The electronic brake control module  causes the car to no start and goes into limp mode.  Cuts off the power to every system in the entire dashboard including the transmission making the car very dang",
+          "I have no sound at all no turn signals, no seat belt no nothing, had Chevy in leesburg tell me I need an update did that and being told to replace radio and amplifier"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 17,
+        "share_pct": 18.7,
+        "excerpts": [
+          "The high pressure fuel pump seized, shattering the camshaft, dropping metal fragments into the cylinders causing total engine failure. GM issued a safety recall for certain 2021-2022 Chevy equinox due",
+          "The electronic brake control module  causes the car to no start and goes into limp mode.  Cuts off the power to every system in the entire dashboard including the transmission making the car very dang",
+          "My car only has 60,000 miles and it shifts hard.  Also my drivers seat belt has issues latching"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 15,
+        "share_pct": 16.5,
+        "excerpts": [
+          "The high pressure fuel pump seized, shattering the camshaft, dropping metal fragments into the cylinders causing total engine failure. GM issued a safety recall for certain 2021-2022 Chevy equinox due",
+          "I was driving in GA and my low engine power light came on and I lost complete ability to brake.  The brake pedal was hard and would not go down.  I towed my car to Jim Ellis Chevrolet in Atlanta.  The",
+          "The check engine light came on and the engine lowered performance because the intercooler froze and cracked. Despite there being a service update to stop that from happening, we were never informed of"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 14,
+        "share_pct": 15.4,
+        "excerpts": [
+          "The fuel pump of my Chevy equinox failed while I was driving in the middle of a busy highway causing my engine to lose power putting myself and my passengers in danger along with everybody else on the",
+          "I am reporting a severe mechanical failure involving the fuel pump module on my 2021 Chevrolet Equinox. My vehicle exhibits symptoms that match NHTSA Recall Campaign 23V-013 / GM Campaign N222372310 (",
+          "The high pressure fuel pump seized, shattering the camshaft, dropping metal fragments into the cylinders causing total engine failure. GM issued a safety recall for certain 2021-2022 Chevy equinox due"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 7,
+        "share_pct": 7.7,
+        "excerpts": [
+          "I was driving in GA and my low engine power light came on and I lost complete ability to brake.  The brake pedal was hard and would not go down.  I towed my car to Jim Ellis Chevrolet in Atlanta.  The",
+          "Vehicle vibrated when applying the brakes.  It started being noticeable when braking at high speeds around January of 2023 and progressively became worse over time.  Took it to dealership in January o",
+          "The contact owned a 2021 Chevrolet Equinox. The contact stated that while driving at 40 MPH, the front driver's wheel detached from the vehicle. The brake pedal was depressed; however, the vehicle fai"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 0,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 15
+      },
+      {
+        "year": 2023,
+        "count": 14
+      },
+      {
+        "year": 2024,
+        "count": 13
+      },
+      {
+        "year": 2025,
+        "count": 20
+      },
+      {
+        "year": 2026,
+        "count": 19
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "20V811000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020 Chevrolet Bolt EV and 2021 GMC Canyon and Sierra 1500, 2500 and 3500, Yukon, Yukon XL, Cadillac Escalade and Escalade ESV and Chevrolet Blazer, Camaro, Colorado, Equinox, Silverado 1500, 2500 and 3500, Suburban and Tahoe vehicles.  Incorrect bolts m",
+        "report_date": "23/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V612000",
+        "component": "TIRES",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021-2022 Chevrolet Equinox and GMC Terrain vehicles equipped with certain Hankook tires.  The tires may have been manufactured with an insufficient amount of curative agent, which could cause tread separation.",
+        "report_date": "05/08/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V013000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP:CONTROL/DRIVE MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021-2022 Chevrolet Equinox and 2022 GMC Terrain vehicles.  The fuel pump module may not consistently provide sufficient fuel to the engine, resulting in an engine stall.",
+        "report_date": "19/01/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V339000",
+        "component": "CHILD SEAT:VEHICLE LATCH ANCHOR",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2023 Chevrolet Equinox and GMC Terrain vehicles.  The four rear-seat lower child seat LATCH anchorage bars may have excessive powder coating, which could prevent a child seat from being installed with the anchorage bars.  As such, these vehicles fai",
+        "report_date": "11/05/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:18.943Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "2016-toyota-highlander",
+  "year": 2016,
+  "make": "Toyota",
+  "model": "Highlander",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 109,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 19,
+        "share_pct": 17.4,
+        "excerpts": [
+          "The contact owned a 2016 Toyota Highlander. The contact stated that while driving at an undisclosed low speeds on a decline, the brake pedal depressed all the way to the floorboard. As a result, the v",
+          "I have had problems with the brakes since I bought the vehicle new in 2016.  I have the brakes checked every year and when I had problems but they never found the problem why the brakes do not work.  ",
+          "brakes did not work in January 13, 2023 when backing out of driveway.  Have had numerous dealership look at it multiple times in last 4 years."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 14,
+        "share_pct": 12.8,
+        "excerpts": [
+          "The contact owns a 2016 Toyota Highlander. The contact stated that while the vehicle was parked, the trunk power switch failed to function as intended. The contact stated that the trunk power switch w",
+          "2016 toyota highlander le model v-6 cylinder.   The   FUEL PUMP runs after engine has been turned off  for several  hours, even up to as many as 8 hours.  This situation can be heard in a closed in ga",
+          "Description of Problem (electrical issue affecting multiple systems): Engine shuts off while driving. All instrument/electronic displays shut off or flicker while driving. Steering wheel locks and vib"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 10,
+        "share_pct": 9.2,
+        "excerpts": [
+          "I was traveling on an interstate going home from work. My speed was approximately 65mph. I noticed traffic slowing up ahead. I began to drop my speed (cost down), as I was approaching the traffic the ",
+          "I have had problems with the brakes since I bought the vehicle new in 2016.  I have the brakes checked every year and when I had problems but they never found the problem why the brakes do not work.  ",
+          "brakes did not work in January 13, 2023 when backing out of driveway.  Have had numerous dealership look at it multiple times in last 4 years."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 9,
+        "share_pct": 8.3,
+        "excerpts": [
+          "The water pump on my 2016 Toyota Highlander XLE disintegrated while I was driving in heavy traffic.  The pulley came loose from the water pump shaft. I have the water pump. Our safety was at risk beca",
+          "2016 toyota highlander le model v-6 cylinder.   The   FUEL PUMP runs after engine has been turned off  for several  hours, even up to as many as 8 hours.  This situation can be heard in a closed in ga",
+          "The contact owns a 2016 Toyota Highlander. The contact stated that while driving at various speeds, the vehicle would shut-off without warning. The contact would be able to restart the vehicle a few m"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 8,
+        "share_pct": 7.3,
+        "excerpts": [
+          "The tail lights on the back tailgate hatch are leaking and have been leaking. The leaks are getting progressively worse and the lights are filling up with water. The vehicle has been garage kept, has ",
+          "Rear passenger tail light lift gate has water inside tail light housing, if this continues it will cause brake light to be burned off or malfunction and cause vehicle behind these cars unable to see t",
+          "WATER INSIDE LEFT TAILLIGHT ASSEMBLY AS PURCHASED USED FROM DAVE EDWARDS TOYOTA, AS CERTIFIED PRE-OWNED"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 14,
+      "fires": 1,
+      "injuries": 10,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1954,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 1
+      },
+      {
+        "year": 2016,
+        "count": 15
+      },
+      {
+        "year": 2017,
+        "count": 18
+      },
+      {
+        "year": 2018,
+        "count": 16
+      },
+      {
+        "year": 2019,
+        "count": 22
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "18E107000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Fujian Wanda Automobile Glass Industry (Wanda) is recalling certain aftermarket Replacement Windshields sold for use in 2014-2018 Toyota Highlander vehicles.  The windshields have an attached wire harness that water may leak into, possibly causing damage to the vehicle's Engine Control Module (ECM).",
+        "report_date": "27/11/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V775000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2016 Highlander vehicles manufactured May 26, 2016, to September 16, 2016.  The brake fluid level sensor may not be connected to the wire harness, preventing the sensor from detecting the brake fluid level.  As such, t",
+        "report_date": "24/10/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V420000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2016 Toyota Camry and Highlander, 2015-2016 Toyota Tundra, Scion FR-S, and tC vehicles.  The Load Carrying Capacity Modification Label may not reflect the correct added weight of the installed accessories.  As a result, these v",
+        "report_date": "09/06/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:33.484Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

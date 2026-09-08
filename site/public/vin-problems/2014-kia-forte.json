@@ -1,0 +1,160 @@
+{
+  "slug": "2014-kia-forte",
+  "year": 2014,
+  "make": "Kia",
+  "model": "Forte",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 440,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 214,
+        "share_pct": 48.6,
+        "excerpts": [
+          "The systems affected appear to be engine, powertrain, and vehicle speed control. My 2014 Kia Forte, VIN [XXX]  has approximately 118,000 miles. Since purchase in November2025 from Wondries Toyota, the",
+          "Engine smoking when started up engine has oil in it scared to move vehicle because I have no idea if it’s going to catch fire or anything",
+          "I received the recall paper in the mail I did everything I was asked to do I. Received a final determination letter stating they was going to fix it and reimburse me for the incidental repairs the veh"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 63,
+        "share_pct": 14.3,
+        "excerpts": [
+          "There is a bad flexible steering coupler. Caused steering wheel to click and lose responsiveness, shakes going over bumps. The problem was diagnosed and confirmed by the dealer Vehicle was inspected b",
+          "The contact owns a 2014 Kia Forte. The contact stated that there was a ticking sound coming from the steering column while turning the steering wheel in either direction while driving at slow speeds. ",
+          "Steering column, steering coupler piece"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 62,
+        "share_pct": 14.1,
+        "excerpts": [
+          "Large Buck deer hit car with force, did not loose control, did not  slam brakes attempted to pull to side of road.  The hood flew up and had to use the emergency brake to come to full stop, put in par",
+          "The air bad light is on and horn dose not working currently there is a open recall on the clutch spring for the air bag but my vin say no repair",
+          "The air bag light comes on and off. Rubber Weather stripping leaking. Runs hot."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 56,
+        "share_pct": 12.7,
+        "excerpts": [
+          "I have currently been avoiding driving my car because it goes in limp mode when I’m stopped at red lights I smell oil burning sometimes ive seen small amounts of smoke coming from the engine as well a",
+          "Steering column is broken and keeps falling. Hard to replace entire steering column. While driving the entire steering wheel will fall into lap, makes the car nearly un-drivable.  I have fixed before ",
+          "The car will randomly cut off while driving, to restart the car must be put into neutral to restart and the lights go off during that time. If you are on the interstate going over 50, it will jerk and"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 28,
+        "share_pct": 6.4,
+        "excerpts": [
+          "The contact owns a 2014 Kia Forte. The contact stated that while depressing the brake pedal, the vehicle failed to respond. The brake pedal was depressed to the floorboard to stop the vehicle. An inde",
+          "My vehicle was leaking fluid, so I took it in and discovered that my vehicle’s ABS module failed in what was described to me as an “unusual way” at both the initial garage where I took it and, later, ",
+          "I had a brake system failure of some sort happen today.  My life and the lives of many others were put in extreme danger. I was driving at about 40 MPH and was approaching a red light. I pressed down "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 32,
+      "fires": 36,
+      "injuries": 29,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 5
+      },
+      {
+        "year": 2014,
+        "count": 28
+      },
+      {
+        "year": 2015,
+        "count": 16
+      },
+      {
+        "year": 2016,
+        "count": 17
+      },
+      {
+        "year": 2017,
+        "count": 14
+      },
+      {
+        "year": 2018,
+        "count": 48
+      },
+      {
+        "year": 2019,
+        "count": 60
+      },
+      {
+        "year": 2020,
+        "count": 55
+      },
+      {
+        "year": 2021,
+        "count": 64
+      },
+      {
+        "year": 2022,
+        "count": 42
+      },
+      {
+        "year": 2023,
+        "count": 34
+      },
+      {
+        "year": 2024,
+        "count": 21
+      },
+      {
+        "year": 2025,
+        "count": 28
+      },
+      {
+        "year": 2026,
+        "count": 8
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "20V750000",
+        "component": "ENGINE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2012-2013 Sorento, 2012-2015 Forte and Forte Koup, 2011-2013 Optima Hybrid, 2014-2015 Soul, and 2012 Sportage vehicles.  An engine compartment fire can occur while driving.",
+        "report_date": "02/12/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V773000",
+        "component": "SERVICE BRAKES, HYDRAULIC:PEDALS AND LINKAGES",
+        "summary": "Kia Motors America (Kia) is recalling certain 2012-2014 Forte and Forte Koup vehicles.  The brake pedal stopper pad can deteriorate allowing the brake light switch plunger to remain extended when the brake pedal is released.  This will allow the brake lights to remain illuminated continuously.  It c",
+        "report_date": "01/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V015000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2014 Kia Forte vehicles manufactured December 5, 2012, to April 17, 2014.  In the affected vehicles, the cooling fan resistor may overheat and melt.",
+        "report_date": "16/01/2015",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:58:05.046Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

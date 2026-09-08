@@ -1,0 +1,97 @@
+{
+  "slug": "2020-toyota-prius",
+  "year": 2020,
+  "make": "Toyota",
+  "model": "Prius",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 14,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 4,
+        "share_pct": 28.6,
+        "excerpts": [
+          "I TURNED LEFT INTO A PARKING SPACE IN MY 2020 PRIUS. I STEPPED ON THE BRAKE, AND MY CAR SHOT FORWARD. I COULDN'T STOP IT, AND IT HIT A CONCRETE POLE.  IT ONLY TOOK 1 SECOND. IT SEEMS TOYOTA HYBRIDS AR",
+          "Attempted to park in my garage and overshot the turn. The brake then failed to stop and I dented my garage outer wall. I reversed my car and tried to reposition it to go inside the garage, putting it ",
+          "The contact owns a 2020 Toyota Prius. The contact stated that while, driving approximately 5 mph, making a right turn, the vehicle suddenly accelerated, jumped the curb, and crashed into the bushes. T"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 2,
+        "share_pct": 14.3,
+        "excerpts": [
+          "On May 16, 2023 I was slowly driving out of a market parking lot when the car suddenly accelerated, full throttle, and speeded across the street (Colusa Avenue, Berkeley, CA), crashing head on into a ",
+          "THE MULTI INFORMATION DISPLAY THAT SHOWS THE SPEED, FUEL, AND OTHER DRIVING METRICS STOPPED WORKING, I AM NOT ABLE TO SEE HOW FAST I AM GOING, HOW MUCH FUEL IS LEFT, ODOMETER OR OTHER ITEMS THAT IS DI"
+        ]
+      },
+      {
+        "component": "TIRES",
+        "complaints": 2,
+        "share_pct": 14.3,
+        "excerpts": [
+          "Ballooning on side wall of tire. When brought to dealer, they indicated that three other tires had same problem but not as obvious. Car had only 24k miles, with half these on these tires (rest on snow",
+          "I was making a left turn into my subdivision after a full stop.  My speed was no more than 5 MPH.  The Toyota dealer informed me that the sidewall had blown and was not repairable.  They had no defini"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 1,
+        "share_pct": 7.1,
+        "excerpts": [
+          "I was the victim of an accident on [XXX]. The person of the other vehicle that collided with my vehicle after crossing at high speed and without stopping in the red light. The sensors of the anti-coll"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 1,
+        "share_pct": 7.1,
+        "excerpts": [
+          "I was the victim of an accident on [XXX]. The person of the other vehicle that collided with my vehicle after crossing at high speed and without stopping in the red light. The sensors of the anti-coll"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 0,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 5
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 1
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T20:04:57.660Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

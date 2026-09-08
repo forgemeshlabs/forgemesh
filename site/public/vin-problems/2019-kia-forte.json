@@ -1,0 +1,132 @@
+{
+  "slug": "2019-kia-forte",
+  "year": 2019,
+  "make": "Kia",
+  "model": "Forte",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 147,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 47,
+        "share_pct": 32,
+        "excerpts": [
+          "The transmission had a recall 2 years ago and they gave me a new one (KIA).  I am having issues with my transmission again",
+          "Transmission was getting stuck in gear and slipping intermittently would cause the car to not accelerate over 20mph especially in the cold unless you switched it to the manual mode and manually shifte",
+          "When turning on the car the check engine light comes on. Then when accelerating there is a clicking noise and smoke coming from the engine."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 36,
+        "share_pct": 24.5,
+        "excerpts": [
+          "recommended engine replacement at 111,000 miles",
+          "Power loss, engine failure. Will not start",
+          "My car has cut off on me going down the road and it cut back on I have had where the car is slow at acceleration and trying to stall out on me and causing a car to almost hit me in the bumper cause of"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 22,
+        "share_pct": 15,
+        "excerpts": [
+          "Power loss, engine failure. Will not start",
+          "While driving, the Forward Collision Warning system activated unexpectedly without any apparent hazard or obstruction in front of my vehicle. Immediately after the warning appeared, the vehicle sudden",
+          "I am writing to report a recurring and potentially dangerous issue with my Kia Forte. My vehicle has randomly failed to start on multiple occasions, requiring a jump start. More concerning, it has als"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 17,
+        "share_pct": 11.6,
+        "excerpts": [
+          "While driving, the Forward Collision Warning system activated unexpectedly without any apparent hazard or obstruction in front of my vehicle. Immediately after the warning appeared, the vehicle sudden",
+          "February 1st 2026, I done my oil change. My car was running fine. No check engine light was on or anything, my forward collision warning started disabling itself when I always kept it on. When I try t",
+          "the safety of others are put at risk due to system on and off due to shortage and wire triggering.  The vehicle listed above collision system wire harness have a shortage and causes the vehicle not to"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 15,
+        "share_pct": 10.2,
+        "excerpts": [
+          "Power loss, engine failure. Will not start",
+          "The contact owns a 2019 Kia Forte. The contact was notified by her son that the third brake light was burned and was melting. There were no warning lights illuminated. The local dealer was contacted a",
+          "The contact owns a 2019 Kia Forte. The contact stated that while driving at an undisclosed speed at night, there was smoke coming from the front driver’s side headlamp, prompting the contact to have h"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 11,
+      "fires": 4,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 4
+      },
+      {
+        "year": 2019,
+        "count": 33
+      },
+      {
+        "year": 2020,
+        "count": 22
+      },
+      {
+        "year": 2021,
+        "count": 20
+      },
+      {
+        "year": 2022,
+        "count": 10
+      },
+      {
+        "year": 2023,
+        "count": 14
+      },
+      {
+        "year": 2024,
+        "count": 16
+      },
+      {
+        "year": 2025,
+        "count": 14
+      },
+      {
+        "year": 2026,
+        "count": 14
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "18V771000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2019 Kia Forte vehicles equipped with LED headlights.  The headlights may not have been manufactured with the correct low beam aiming.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 1",
+        "report_date": "31/10/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V459000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+        "summary": "Kia Motors America (Kia) is recalling certain 2019 Forte vehicles.  The left front axle driveshaft may not have been heat-treated, which can cause it to break.",
+        "report_date": "05/08/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:28.680Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

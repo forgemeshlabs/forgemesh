@@ -1,0 +1,140 @@
+{
+  "slug": "2022-honda-civic",
+  "year": 2022,
+  "make": "Honda",
+  "model": "Civic",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 881,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 731,
+        "share_pct": 83,
+        "excerpts": [
+          "There is a recall on the power steering box, Honda attempted repairing, but the issue was not resolved. Honda is now requesting I purchase a new power steering rack and will not replace the faulty one",
+          "The contact owns a 2022 Honda Civic. The contact stated that while driving at higher speeds and turning the steering wheel, the steering wheel was sticky and failed to return to the center. The contac",
+          "My 2022 Honda Civic has developed an intermittent sticky steering condition. The steering wheel becomes difficult to turn around the center position and requires additional force before it moves norma"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 71,
+        "share_pct": 8.1,
+        "excerpts": [
+          "Ever since I purchased my brand new vehicle in 2021, I have had a recurring issue where the cruise control will randomly turn off, with no warnings or alerts showing on the dash, and will not allow th",
+          "Issue happens whenever I use adaptive Cruise control for any extended period of time.  Typically occurs in less than an hour. The vehicle will be in active cruise mode and then the cruise control will",
+          "Recall repair completed 6/13/2025 (steering related recall) A steering recall repair was completed on 6/13/20025 on my vehicle. The steering felt normal for approximately one week then began sticking "
+        ]
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "complaints": 66,
+        "share_pct": 7.5,
+        "excerpts": [
+          "I am reporting a severe steering safety defect on my 2022 Honda Civic that matches the symptoms of NHTSA Campaign Number 24V-744 and Honda TSB 23-037.At highway speeds (40–70 mph), the steering wheel ",
+          "Cruise control suddenly stopped working along with 5 warnings on dash which indicated to take vehicle to Dealer.  This occured out of the blue, at 80,000 miles, with no prior indication of a problem a",
+          "On Sunday, December 14, 2025, I was driving a 2022 Honda Civic Sport with my wife in the passenger seat when the vehicle’s driver-assist/steering system unexpectedly intervened and caused the vehicle "
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 42,
+        "share_pct": 4.8,
+        "excerpts": [
+          "Ever since I purchased my brand new vehicle in 2021, I have had a recurring issue where the cruise control will randomly turn off, with no warnings or alerts showing on the dash, and will not allow th",
+          "Issue happens whenever I use adaptive Cruise control for any extended period of time.  Typically occurs in less than an hour. The vehicle will be in active cruise mode and then the cruise control will",
+          "Cruise control suddenly stopped working along with 5 warnings on dash which indicated to take vehicle to Dealer.  This occured out of the blue, at 80,000 miles, with no prior indication of a problem a"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 38,
+        "share_pct": 4.3,
+        "excerpts": [
+          "The rearview camera automatically projects onto the center display when applying the brake.  On the morning of 2/16, the center display was showing the rearview camera view my entire morning commute t",
+          "The vehicle experiences an intermittent engine and/or electrical system failure causing the car to losing acceleration while driving. The exact component has not been identified because the failure is",
+          "I was driving on a very busy road and the car completely died and would not go into park. It was like the battery was not even there. The steering wheel locked up, hazards would not come on and all th"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 34,
+      "fires": 3,
+      "injuries": 19,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 21
+      },
+      {
+        "year": 2022,
+        "count": 205
+      },
+      {
+        "year": 2023,
+        "count": 383
+      },
+      {
+        "year": 2024,
+        "count": 215
+      },
+      {
+        "year": 2025,
+        "count": 40
+      },
+      {
+        "year": 2026,
+        "count": 16
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "23V704000",
+        "component": "STEERING:RACK AND PINION",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2022-2024 Civic 4-door and Civic 5-door vehicles that received a replacement power steering rack as part of a service repair.  The steering rack may have been incorrectly assembled, which can allow the tire to chafe against the lower suspension o",
+        "report_date": "19/10/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V064000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020-2022 Pilot, Accord, Civic sedan, HR-V, Odyssey, 2020 Civic coupe, Fit, 2021-2022 Civic hatchback, 2021 Civic Type R, Insight, 2020-2021 CR-V, CR-V Hybrid, Passport, Ridgeline, Accord Hybrid, 2020 Acura MDX, 2022 Acura MDX, 2020-2022 Acura RD",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V744000",
+        "component": "STEERING",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2023-2025 Acura Integra, Civic Type R, CR-V Hybrid, CR-V, HR-V, 2022-2025 Civic, Civic Hatchback, 2024-2025 Acura Integra Type S, 2025 CR-V Fuel Cell EV, Civic Hybrid, and Civic Hatchback Hybrid vehicles.  The steering gearbox assembly may have b",
+        "report_date": "03/10/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:07:32.955Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

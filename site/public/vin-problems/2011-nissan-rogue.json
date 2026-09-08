@@ -1,0 +1,164 @@
+{
+  "slug": "2011-nissan-rogue",
+  "year": 2011,
+  "make": "Nissan",
+  "model": "Rogue",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 362,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 189,
+        "share_pct": 52.2,
+        "excerpts": [
+          "The CVT transmission started to fail. 1 day it started jerking some. 2 or 3 times.  The next time was more jerking and harder. The last day the jerking was longer in length of time.  Then the transmis",
+          "No idea why. My transmission has went up again. After about 55k ish since it was replaced the last time. Done at the Nissan dealer and everything.",
+          "The contact owns a 2011 Nissan Rogue. The contact stated while driving approximately 75 MPH, the contact smelled an abnormal odor after which the check engine warning light illuminated. The contact wa"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 62,
+        "share_pct": 17.1,
+        "excerpts": [
+          "Me and my partner were giving a car for her birthday  I use it more for work they gave us title but lately I been experiencing hits in car that we haven’t done or crash anyone or anything and also air",
+          "I have no back tail lights , mechanic says it's an electrical issue yrans module needs fixed right front hub bearing and head light switch,  my air bag system is constantly on my car cruise control sy",
+          "I have had this 2011 Rogue in a repair shop 6 times for the same issue and each time the technician replaced the air flow sensor because of “ code reading “ the rogue lost power without warning and st"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 52,
+        "share_pct": 14.4,
+        "excerpts": [
+          "The contact owned a 2011 Nissan Rogue. The contact stated that while the vehicle was parked outside, unoccupied on the driveway, the front hood caught on fire. No warning lights were illuminated. The ",
+          "The power steering failed while driving",
+          "I am the 2nd owner of a 2011 Nissan Rogue purchased in 2016. I have had four problems with the vehicle, the major one being the transmission that will not cool and overheats as soon as the temperature"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 45,
+        "share_pct": 12.4,
+        "excerpts": [
+          "Me and my partner were giving a car for her birthday  I use it more for work they gave us title but lately I been experiencing hits in car that we haven’t done or crash anyone or anything and also air",
+          "Airbag indicator is flashing.  Dealer says it is showing B1054 Error.  Says it is a Drivers airbag module open.  Cost of repair will be several 100 dollars.",
+          "I purchased the vehicle from seventy 7 auto on mahoning avenue in Youngstown Ohio I was never told that the car didn’t have airbags it has a oil leak and bad catalytic converter after I took it back t"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 45,
+        "share_pct": 12.4,
+        "excerpts": [
+          "The car will not go when she come to stop at shakes and jerks, so hard you cannot accelerate once you come from a stop if you do the car dies the car dies when trying to merge onto the highway due to ",
+          "The contact owns a 2011 Nissan Rogue. The contact stated that while her daughter was driving approximately 35 MPH, the vehicle stalled without warning. The contact noticed that the vehicle was jerking",
+          "Im having issues accelerating since i purchased the car, the transmission is bad , there is cut electric wires by the brake and gas pedal. When breaking there's knocking, pinging, the brakes shakes. I"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 13,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 8
+      },
+      {
+        "year": 2012,
+        "count": 12
+      },
+      {
+        "year": 2013,
+        "count": 19
+      },
+      {
+        "year": 2014,
+        "count": 35
+      },
+      {
+        "year": 2015,
+        "count": 33
+      },
+      {
+        "year": 2016,
+        "count": 42
+      },
+      {
+        "year": 2017,
+        "count": 47
+      },
+      {
+        "year": 2018,
+        "count": 55
+      },
+      {
+        "year": 2019,
+        "count": 37
+      },
+      {
+        "year": 2020,
+        "count": 23
+      },
+      {
+        "year": 2021,
+        "count": 22
+      },
+      {
+        "year": 2022,
+        "count": 9
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "15V032000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2008-2013 Nissan Rogue vehicles manufactured March 7, 2007, to November 26, 2013, and 2014 Nissan Rogue Select vehicles manufactured September 23, 2013, to July 2, 2014.  The affected vehicles may experience an electrical short in t",
+        "report_date": "26/01/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V565000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "NISSAN IS RECALLING CERTAIN MODEL YEAR 2011 ROGUE VEHICLES MANUFACTURED FROM AUGUST 17, 2010, THROUGH OCTOBER 30, 2010.  THE CIRCUIT BOARD MAY NOT HAVE BEEN INSTALLED IN THE CORRECT POSITION ON CERTAIN ELECTRIC POWER STEERING (EPS) ASSIST CONTROL UNITS.  THIS MAY CAUSE ADDITIONAL STRESS ON THE SOLDE",
+        "report_date": "23/11/2011",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:53:41.591Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

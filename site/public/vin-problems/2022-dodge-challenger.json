@@ -1,0 +1,103 @@
+{
+  "slug": "2022-dodge-challenger",
+  "year": 2022,
+  "make": "Dodge",
+  "model": "Challenger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 9,
+    "top_failure_components": [
+      {
+        "component": "SEAT BELTS",
+        "complaints": 2,
+        "share_pct": 22.2,
+        "excerpts": [
+          "The contact owned a 2022 Dodge Challenger. The contact stated that while her son was driving approximately 65 MPH on I-85 in the left lane, the driver noticed a BMW quickly approaching. The driver att",
+          "The driver's seat belt does not retract quickly on exit. It often flops outside the car and gets closed in the door."
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 1,
+        "share_pct": 11.1,
+        "excerpts": [
+          "Fuel leak from gas tank to engine"
+        ]
+      },
+      {
+        "component": "WHEELS",
+        "complaints": 1,
+        "share_pct": 11.1,
+        "excerpts": [
+          "Left Back Wheel , Unknown risk factor. They have checked vehicle @Darcars Dealer  and says they can’t find an issue, and every 2-3 days I have to put air in tire.this particular tire also have been pa"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 1,
+        "share_pct": 11.1,
+        "excerpts": [
+          "Unknown"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 1,
+        "share_pct": 11.1,
+        "excerpts": [
+          "Unknown"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 0,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "22V504000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2022 Dodge Challenger, Dodge Charger, and Chrysler 300 vehicles.  The Tire Pressure Monitoring System (TPMS) sensor battery may fail prematurely and cause the sensor to become inoperative.  As such, these vehicles fail to comply with the requirements of Fed",
+        "report_date": "14/07/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V808000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2022 Dodge Challenger, Dodge Charger, and Chrysler 300 vehicles.  The Tire Pressure Monitoring System (TPMS) sensor battery may fail prematurely and cause the sensor to become inoperative.  As such, these vehicles fail to comply with the requirements of Fed",
+        "report_date": "27/10/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:59.133Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

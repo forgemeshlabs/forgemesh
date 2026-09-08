@@ -1,0 +1,124 @@
+{
+  "slug": "2022-jeep-cherokee",
+  "year": 2022,
+  "make": "Jeep",
+  "model": "Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 48,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 25,
+        "share_pct": 52.1,
+        "excerpts": [
+          "Previously reported that my vehicle was throwing the code for the 40D. I returned today, vehicle vehicle start to slam, jerk. Jeep Cares escalated after dealership tech confirmed active failure. Fuse ",
+          "My 4wd service light is on and apparently there is a recall on jeep for this. I should have recall I have less than 32000 miles on my vehicle",
+          "My 2022 Jeep Cherokee Lux is currently at the dealership after they diagnosed a failed PTU. This came to my attention due to the messages the vehicle gave me, warning if Loss of 4WD capability and a S"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 7,
+        "share_pct": 14.6,
+        "excerpts": [
+          "Battery went dead after 4 days of being parked. Preceded by car not charging fully after driving.  Dealer had to replace battery at 60,000 miles with no other fault detected. After market battery did ",
+          "The vehicle makes a \"pumping\" noise when starting to acquire cruising speed. The noise started after the front brakes had to be replaced a  few months after the purchase. Before the installation of th",
+          "Today May 20, 2024 we called the NHTS to inform that we did received the notification from the manufacturer indicating that there is indeed an important safety recall which can cause a vehicle crash w"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 7,
+        "share_pct": 14.6,
+        "excerpts": [
+          "Smell antifreeze occasionally and have had to add occasionally. Car only has 18,085 miles. 2022. Spoke to my mechanic and he said it could potentially be a bad oil cooler gasket or a cracked manifold.",
+          "The contact owns a 2022 Jeep Cherokee. The contact stated that while driving at 35 MPH and taking an exit ramp, the parking brake engaged without driver input. The vehicle stopped and stalled. The veh",
+          "On [XXX], we were traveling from Seattle to Portland on [XXX] in my 2022 Jeep Cherokee Trailhawk with the cruise control set at around 75 mph. Suddenly the emergency collision braking system applied a"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 4,
+        "share_pct": 8.3,
+        "excerpts": [
+          "My 2022 Jeep Cherokee Trailhawk  is experiencing an active failure related to open Safety Recall 40D (NHTSA ID 26V290). The dashboard is displaying a persistent \"Service 4WD\" warning light, and the ve",
+          "The vehicle stalled at a busy intersection during heavy traffic hours. No watnings or signs that could've prevented the incident were indicated by the vehicle.  911 was called in to aid in the traffic",
+          "Your website has some trouble & won't accept my jpg files. First time to see this. I use cruise control all the time on 3 vehicles I own. But, this JEEP has a strange problem that is not safe. Almost "
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 4,
+        "share_pct": 8.3,
+        "excerpts": [
+          "The contact owns a 2022 Jeep Cherokee. The contact stated that the right turn signal fails to remain engaged intermittently. The failure had become more frequent as time progressed. The vehicle was ta",
+          "When activating the left turn signal both the left and right turn signal indicators began blinking.  I had to cycle the turn signal switch both right and left and then to off to stop both indicators f",
+          "The contact owns a 2022 Jeep Cherokee. The contact stated that while the vehicle was parked in humid weather, the headlights were foggy, preventing adequate illumination. The dealer was made aware of "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 0,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 9
+      },
+      {
+        "year": 2024,
+        "count": 9
+      },
+      {
+        "year": 2025,
+        "count": 10
+      },
+      {
+        "year": 2026,
+        "count": 15
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "24V239000",
+        "component": "EXTERIOR LIGHTING:TURN SIGNAL",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2022 Jeep Cherokee vehicles.  The turn signal self-canceling feature may not function properly.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 108, \"Lamps, Reflective Devices, and Associated Eq",
+        "report_date": "28/03/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V516000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2022 Jeep Cherokee vehicles.  An improperly secured connector for the right-side curtain air bag may prevent the air bag from deploying as intended.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard",
+        "report_date": "08/07/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V290000",
+        "component": "POWER TRAIN",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019-2023 Jeep Cherokee vehicles. The power transfer unit (PTU) may fail.",
+        "report_date": "07/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:22.272Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

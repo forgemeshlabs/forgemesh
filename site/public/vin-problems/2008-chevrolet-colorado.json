@@ -1,0 +1,156 @@
+{
+  "slug": "2008-chevrolet-colorado",
+  "year": 2008,
+  "make": "Chevrolet",
+  "model": "Colorado",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 81,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 32,
+        "share_pct": 39.5,
+        "excerpts": [
+          "THE ELECTRIC INGNITION SYSTEM IS NOT WORKING ON THIS AND A MILLION TRUCKS IN THE COUNTRY PLEASE FIX THIS 10 MINUTE WAITING TIME TO START",
+          "THE PASS LOCK SYSTEM WILL NOT LET THE TRUCK START HAS LEFT ME STRANDED MANY TIMES.  HEATER BLOWER MOTOR STOPPED WORKING ON 1, 2, & 3 SETTINGS. BLOWER MOTOR RESISTOR AND PLUG WERE BURNT, STARTED A MINO",
+          "THE PASS LOCK SYSTEM WILL NOT LET THE TRUCK START, I HAVE HAD THIS SAME COMPLAINT/PROBLEM FOR MANY YEARS, HAVE HAD IN MANY SHOPS FOR SAME ISSUE, YES EACH ONE REPLACED SOMETHING/FIXED IT FOR A SUM OF M"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 16,
+        "share_pct": 19.8,
+        "excerpts": [
+          "A FEW YEARS AGO, NOTICED MY CRUISE CONTROL WASN'T WORKING. I TOOK IT TO A CERTIFIED REPAIR SHOP AND FOUND OUT THE PART WAS UNDER RECALL, AND THAT MY BRAKE LIGHTS WEREN'T WORKING EITHER.  THE PROBLEM W",
+          "BRAKE LIGHTS DON'T WORK. DISTRIBUTION BOX PERHAPS. DEALERS ARE U SURE.",
+          "BRAKE LIGHTS ON MY 2008 CHEVY COLORADO ARE NOT WORKING ,A FEW YEARS AGO I HAD THE SAME PROBLEM AND  TOOK IT TO THE DEALER FOR REPAIRS , THE PROBLEM CAME UP AGAIN BUT THIS TIME I SEE THERE IS A RECALL "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 14,
+        "share_pct": 17.3,
+        "excerpts": [
+          "THE ELECTRIC INGNITION SYSTEM IS NOT WORKING ON THIS AND A MILLION TRUCKS IN THE COUNTRY PLEASE FIX THIS 10 MINUTE WAITING TIME TO START",
+          "SITTING IN A PARKING LOT NONE WITHIN 100 FEET OF ME MY KEYS WERE ON PASSENGER SEAT WHEN THE AIR BAG EXPLOIDED THEN ON JANUARY 2019 BATTERY WENT DEAD PUT NEW BATTERY IN IT THEN ON FEBRUARY 13 LOST ALL ",
+          "RECEIVED A SAFETY LETTER SEVERAL YEAR AGO (TOLD NUMBER WAS 14609), I CALLED THE DEALER WHEN I GOT THE LETTER (APPROXIMATELY 2014) AND WAS TOLD SINCE MY AIRBAG LIGHT WAS ON EVEN THOUGH MY SEAT BELT DID"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 8,
+        "share_pct": 9.9,
+        "excerpts": [
+          "THE ELECTRIC INGNITION SYSTEM IS NOT WORKING ON THIS AND A MILLION TRUCKS IN THE COUNTRY PLEASE FIX THIS 10 MINUTE WAITING TIME TO START",
+          "SITTING IN A PARKING LOT NONE WITHIN 100 FEET OF ME MY KEYS WERE ON PASSENGER SEAT WHEN THE AIR BAG EXPLOIDED THEN ON JANUARY 2019 BATTERY WENT DEAD PUT NEW BATTERY IN IT THEN ON FEBRUARY 13 LOST ALL ",
+          "TL* THE CONTACT OWNS A 2008 CHEVROLET COLORADO. WHILE THE VEHICLE WAS IDLING, IT SHOOK VIOLENTLY. THE CONTACT STATED THAT THE RPMS INCREASED TO 2000 AND THEN DROPPED TO 500. THE CONTACT STATED THAT TH"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 8,
+        "share_pct": 9.9,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2008 CHEVROLET COLORADO. WHILE DRIVING 35 MPH, THE BRAKE PEDAL REQUIRED EXCESSIVE FORCE IN ORDER TO STOP THE VEHICLE. THE FAILURE OCCURRED ON NUMEROUS OCCASIONS. THE VEHICLE WAS",
+          "MY VEHICLE ALMOST COMPLETELY LOST ALL OF IT'S BRAKES.  UPON SHORT INSPECTION UNDER THE HOOD, I FOUND THE GROMMET THAT SEALS THE BRAKE SYSTEM CHECK VALVE TO THE POWER BOOSTER ALMOST COMPLETELY RIPPED I",
+          "THE BRAKES DRAG AND SQUEAL ALL OF THE TIME.  THEY GRAB SOME OF THE TIME, AND HAVE TEMPORARILY LOCKED UP ON 6 OCCASIONS.  BEING ABS; THEY DON'T ACTUALLY LOCK UP BUT DO GRAB HARD ENOUGH AND LONG ENOUGH "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 7,
+      "injuries": 4,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2008,
+        "count": 9
+      },
+      {
+        "year": 2009,
+        "count": 4
+      },
+      {
+        "year": 2010,
+        "count": 11
+      },
+      {
+        "year": 2011,
+        "count": 6
+      },
+      {
+        "year": 2012,
+        "count": 6
+      },
+      {
+        "year": 2013,
+        "count": 6
+      },
+      {
+        "year": 2014,
+        "count": 10
+      },
+      {
+        "year": 2015,
+        "count": 4
+      },
+      {
+        "year": 2016,
+        "count": 4
+      },
+      {
+        "year": 2017,
+        "count": 4
+      },
+      {
+        "year": 2018,
+        "count": 5
+      },
+      {
+        "year": 2019,
+        "count": 6
+      },
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "10V575000",
+        "component": "CHILD SEAT",
+        "summary": "GM IS RECALLING CERTAIN MODEL YEAR 2004-2011, CHEVROLET COLORADO, GMC CANYON, MODEL YEAR 2006, ISUZU I-280/I-350, AND MODEL YEAR 2007-2008, I-290/I-370, REGULAR CAB VEHICLES AND EXTENDED CAB VEHICLES WITHOUT A REAR SEAT AND EQUIPPED WITH A FRONT 60/40 SPLIT BENCH SEAT.  THESE VEHICLES FAIL TO COMPLY",
+        "report_date": "18/11/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V310000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "GM IS RECALLING 185,903 MODEL YEAR 2004-2009 COLORADO, GMC MODEL YEAR 2009-2004 CANYON, MODEL YEAR 2006 I-280, I-350, MODEL YEAR 2007-2008 I-290, AND I-370, PASSENGER VEHICLES ORIGINALLY SOLD IN OR CURRENTLY REGISTERED IN THE STATES OF ALABAMA, ARIZONA, FLORIDA, GEORGIA, HAWAII, LOUISIANA, MISSISSIP",
+        "report_date": "29/07/2009",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:48:15.564Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

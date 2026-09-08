@@ -1,0 +1,152 @@
+{
+  "slug": "2017-kia-optima",
+  "year": 2017,
+  "make": "Kia",
+  "model": "Optima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 255,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 164,
+        "share_pct": 64.3,
+        "excerpts": [
+          "While driving at highway speed, my engine began to produce a loud knocking noise without prior warning. Within few seconds, the engine seized completely causing sudden loss of motive power.This caused",
+          "Loosing oil putting oil in every 3 to 4 days no leaks on ground or oil pan or drain plug.oil don't smell or looks burnt happened around did 2 oil changes in a week still the same. Car will sputer hesi",
+          "I am requesting urgent assistance regarding my 2017 Kia Optima EX, which is experiencing a serious oil consumption/burning issue. The vehicle is burning oil into the engine, causing the oil level to c"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 25,
+        "share_pct": 9.8,
+        "excerpts": [
+          "The electrical wiring harness connecting to the hybrid system electric fuel pump(s) was found to have significant corrosion and a missing factory-installed protective covering. This is a manufacturing",
+          "On March 23, 2026, I took my 2017 Kia Optima Plug-In Hybrid (VIN: [XXX] ) to Mark Kia  [XXX] ) solely for two open safety recalls: SC218 (Engine Inspection/Replacement and KSDS software installation) ",
+          "unknown"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 21,
+        "share_pct": 8.2,
+        "excerpts": [
+          "Loosing oil putting oil in every 3 to 4 days no leaks on ground or oil pan or drain plug.oil don't smell or looks burnt happened around did 2 oil changes in a week still the same. Car will sputer hesi",
+          "Loosing oil putting oil in every 3 to 4 days no leaks on ground or oil pan or drain plug.oil don't smell or looks burnt happened around did 2 oil changes in a week still the same. Car will sputer hesi",
+          "My fiancée and I just recently bought this car with the 1.6T-GDi engine I immediately replaced the oil even though the dealership said that he just replaced it. I put 7 quarts of oil topping off from "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 20,
+        "share_pct": 7.8,
+        "excerpts": [
+          "Loosing oil putting oil in every 3 to 4 days no leaks on ground or oil pan or drain plug.oil don't smell or looks burnt happened around did 2 oil changes in a week still the same. Car will sputer hesi",
+          "Constant Mis-firing, must put oil in car every 3 to 4 weeks. Hesitation when driving and sputtering.",
+          "The electrical wiring harness connecting to the hybrid system electric fuel pump(s) was found to have significant corrosion and a missing factory-installed protective covering. This is a manufacturing"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 15,
+        "share_pct": 5.9,
+        "excerpts": [
+          "I own a 2017 Kia Optima. My vehicle was brought in for the tail light recall at Lupient Kia, but the dealership only replaced a bulb and refused to replace the harnesses. I was told by the service adv",
+          "I drive with my lights on auto.  Occasionally the lights go out for no apparent reason. Both inside and headlights.  I then have to hold the high beam switch on until I can turn lights on and off or u",
+          "I have my headlights on auto so they turn on but they turn on during the day and then off at night they turn on they have turn off when I'm diving at night on freeway and turn back on"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 9,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 8
+      },
+      {
+        "year": 2018,
+        "count": 9
+      },
+      {
+        "year": 2019,
+        "count": 19
+      },
+      {
+        "year": 2020,
+        "count": 21
+      },
+      {
+        "year": 2021,
+        "count": 19
+      },
+      {
+        "year": 2022,
+        "count": 50
+      },
+      {
+        "year": 2023,
+        "count": 51
+      },
+      {
+        "year": 2024,
+        "count": 33
+      },
+      {
+        "year": 2025,
+        "count": 32
+      },
+      {
+        "year": 2026,
+        "count": 11
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "18V907000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2011-2017 Optima, 2012-2017 Sorento and 2011-2018 Sportage vehicles that previously received an engine replacement under recall number 17V-224, warranty, or the Knock Sensor Detection System (KSDS) Product Improvement Campaign.  The high pressure fuel pi",
+        "report_date": "19/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V161000",
+        "component": "HYBRID PROPULSION SYSTEM",
+        "summary": "Kia Motors America (Kia) is recalling certain 2017-2018 Kia Optima hybrid vehicles.  These vehicles are equipped with a Voltage Protection Device (VPD), designed to protect the high voltage battery module, that may activate inadvertently.",
+        "report_date": "08/03/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V594000",
+        "component": "LATCHES/LOCKS/LINKAGES:TRUNK LID:LATCH",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2016-2017 Rio, 2016-2018 Optima, 2017-2018 Optima Hybrid and Optima Plug-in Hybrid vehicles.  The trunk latch base may crack, preventing the opening of the trunk from the inside.  As such, these vehicles fail to comply with the requirements of Federal Mot",
+        "report_date": "24/08/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:24.834Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

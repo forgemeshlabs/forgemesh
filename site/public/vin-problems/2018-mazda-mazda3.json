@@ -1,0 +1,152 @@
+{
+  "slug": "2018-mazda-mazda3",
+  "year": 2018,
+  "make": "Mazda",
+  "model": "Mazda3",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 108,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 30,
+        "share_pct": 27.8,
+        "excerpts": [
+          "The center dashboard information screen developed \"spider cracks\" and got opaque in the corners of the screen.  The screen would change functions / jump around commands without being touched while dri",
+          "My 2018 Mazda 3 has an intermittent electrical failure on the high-speed CAN network that causes multiple safety-critical systems to fail while driving. When the fault occurs, the dash lights up with ",
+          "There is a infotainment display that sits on the center part of the dash that has touch screen capability that over time starts to fail and results in what is known as \"ghost touch\", where random scre"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 16,
+        "share_pct": 14.8,
+        "excerpts": [
+          "The contact called on behalf of a customer who owns a 2018 Mazda Mazda3. The contact stated that the windshield wipers had become inoperable. The vehicle was taken to the contact's auto repair shop, T",
+          "While I was driving on the highway, I went to use my front wipers and there was no response when trying to active them. The rear wiper, front and rear washer fluid sprayers all worked. No warning ligh",
+          "Wiper stopped functioning, in the rain. Started with the wipers making 2 wipes rapidly, then not functioning. Next day, wipers partially functioned erratically before being stuck in the up position."
+        ]
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "complaints": 15,
+        "share_pct": 13.9,
+        "excerpts": [
+          "I got into my car and the infotainment screen was cracked. It had been parked in moderate weather (no extreme heat or cold) and just randomly had multiple small cracks across the screen. This makes th",
+          "The Infotainment system is cracking uncontrollably and will make the rear view camera unusable and a safety issue. Mazda corporation wont pay for the repair that they are charging close to 2k to do.",
+          "The contact owns a 2018 Mazda Mazda3. The contact stated while reversing, the rearview camera image was flickering and occasionally failed to display an image. The vehicle was taken to the dealer seve"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 12,
+        "share_pct": 11.1,
+        "excerpts": [
+          "My 2018 Mazda 3 has an intermittent electrical failure on the high-speed CAN network that causes multiple safety-critical systems to fail while driving. When the fault occurs, the dash lights up with ",
+          "What component or system failed or malfunctioned, and is it available for inspection upon request? The high-pressure fuel pump failed. This component failure prevents the car from starting or staying ",
+          "I was parked in a downtown garage, and the vehicle would not start after many attempts, after about 45 minutes of trying (waiting 5 minutes between tries).  The engine would turn normally and sounded "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 7,
+        "share_pct": 6.5,
+        "excerpts": [
+          "I was parked in a downtown garage, and the vehicle would not start after many attempts, after about 45 minutes of trying (waiting 5 minutes between tries).  The engine would turn normally and sounded ",
+          "The car just didn't want to turn on with the key and completely stopped",
+          "Fuel smell after a fill-up, fuel pump is cracked/deformed EXACTLY as described in Mazda bulletin 5321K  (THIS BULLETIN EXCLUDES THIS MODEL).  Strong fuel smell in the cabin, liquid fuel leaking from t"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 0,
+      "injuries": 5,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 7
+      },
+      {
+        "year": 2019,
+        "count": 8
+      },
+      {
+        "year": 2020,
+        "count": 5
+      },
+      {
+        "year": 2021,
+        "count": 7
+      },
+      {
+        "year": 2022,
+        "count": 9
+      },
+      {
+        "year": 2023,
+        "count": 27
+      },
+      {
+        "year": 2024,
+        "count": 29
+      },
+      {
+        "year": 2025,
+        "count": 11
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "19V272000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2016-2018 Mazda3 vehicles.  A defective windshield wiper relay may cause the windshield wipers to become inoperative, reducing the driver's visibility.",
+        "report_date": "04/04/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V745000",
+        "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2018 Mazda3 vehicles, equipped with an incorrect exhaust valve spring.  The incorrect exhaust valve spring may fail while driving, potentially causing an engine stall.",
+        "report_date": "21/11/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V875000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2018 Mazda3, Mazda6, 2019 CX-3, 2018-2019 MX-5, CX-5, CX-9, and 2019-2020 Mazda2 vehicles.  The impeller inside the low-pressure fuel pump may crack and deform, potentially causing the fuel pump to fail.",
+        "report_date": "12/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V487000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain 2014-2018 Mazda3 and 2016-2021 CX-3 vehicles.  The rearview camera image may not display properly by showing a flickering or distorted image.",
+        "report_date": "14/07/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:34.376Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,200 @@
+{
+  "slug": "2009-dodge-challenger",
+  "year": 2009,
+  "make": "Dodge",
+  "model": "Challenger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 133,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 41,
+        "share_pct": 30.8,
+        "excerpts": [
+          "The contact owns a 2009 Dodge Challenger. The contact stated while driving at approximately 30 MPH, the \"check air bag\" warning light illuminated. The contact had taken the vehicle to a local parts st",
+          "During an auto accident the ram emblem on my steering wheel shot off of the steering wheel when the air bags deployed and becoming a projectile and hitting me in the neck leaving a deep bruise and abr",
+          "I took my car to the dealer for recalls they didn’t fix anything they left my car out in the rain the hood up and Choppa had my car for a whole month did any nothing they were very courteous no custom"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 27,
+        "share_pct": 20.3,
+        "excerpts": [
+          "Faulty TCM After purchasing my car it would hard shift in the 3rd and 4th gear  And I realize that shortly after purchasing it chant and then one night I was on the freeway and between 2 semi trucks w",
+          "I took my car to the dealer for recalls they didn’t fix anything they left my car out in the rain the hood up and Choppa had my car for a whole month did any nothing they were very courteous no custom",
+          "CAR GETS STUCK IN GEAR WHEN PARKED AND IS DIFFICULT TO SHIFT WHEN DRIVING.  THE CAR WHEN PARKED IS ON A FLAT SURFACE AND YOU NEED TO YANK IT OUT OF GEAR WHEN THE CAR IS RUNNING. IF YOU BACK UP THE CAR"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 26,
+        "share_pct": 19.5,
+        "excerpts": [
+          "THREE TIMES NOW THE THROTTLE HAS GONE TO WIDE OPEN AND STICKS FOR ABOUT 5 SECONDS. SCARES THE LIVING CRAP OUT OF YOU.",
+          "Recall issues and manufacturers dont want to fix it.",
+          "I took my car to the dealer for recalls they didn’t fix anything they left my car out in the rain the hood up and Choppa had my car for a whole month did any nothing they were very courteous no custom"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 21,
+        "share_pct": 15.8,
+        "excerpts": [
+          "I am currently waiting for a new Instrument Cluster, which is the cause of all of my problems, and which is why I failed the emissions test.",
+          "THREE TIMES NOW THE THROTTLE HAS GONE TO WIDE OPEN AND STICKS FOR ABOUT 5 SECONDS. SCARES THE LIVING CRAP OUT OF YOU.",
+          "HAD A MESSAGE POP UP ON MY RADIO THAT THE WIRELESS MODULE IS BAD...CANNOT UNLOCK, LOCK, OPEN THE TRUNK OR REMOTE START THE CAR WITH THE KEY FOB."
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 13,
+        "share_pct": 9.8,
+        "excerpts": [
+          "OVERVIEW: MY 2009 DODGE CHALLENGER R/T, WITH THE 5.7L HEMI ENGINE AND MANUAL 6-SPEED TRANSMISSION, HAS AN EXCESSIVE DELAY BETWEEN PRESSING THE THROTTLE AND ACHIEVING ENGINE RESPONSE. THIS OCCURS ONLY ",
+          "VEHICLE HAS A SEVERE THROTTLE LAD WHEN IN 4 TO 6 GEAR WHEN LETTING OFF PEDAL THEN RETURNING BACK INTO THROTTLE.  *TT",
+          "TOOK MY CAR INTO DEALERSHIP FOR WARRANTY WORK ON TRIM AND WINDOW SWITCH. CAR WAS FINE. HAD OWNED IT FOR 2.5 YEARS. DEALER PERFORMED FLASH ON PCM PER CHRYLSERS INFORMATION. WHEN I LEFT THE DEALER, I NO"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 4,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 14
+      },
+      {
+        "year": 2010,
+        "count": 8
+      },
+      {
+        "year": 2011,
+        "count": 19
+      },
+      {
+        "year": 2012,
+        "count": 4
+      },
+      {
+        "year": 2013,
+        "count": 6
+      },
+      {
+        "year": 2014,
+        "count": 7
+      },
+      {
+        "year": 2015,
+        "count": 26
+      },
+      {
+        "year": 2016,
+        "count": 23
+      },
+      {
+        "year": 2017,
+        "count": 4
+      },
+      {
+        "year": 2018,
+        "count": 4
+      },
+      {
+        "year": 2019,
+        "count": 4
+      },
+      {
+        "year": 2020,
+        "count": 5
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "17V824000",
+        "component": "EQUIPMENT",
+        "summary": "Chrysler (FCA US LLC) is recalling various Dodge, Chrysler, and RAM vehicles equipped with Kidde Plastic-Handle or Push Button 'Pindicator' Fire Extinguishers.  A list of the affected trailer models is available at: https://static.nhtsa.gov/odi/rcl/2017/RMISC-17V824-0103.pdf.  These extinguishers ma",
+        "report_date": "21/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V021000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2009-2013 Jeep Wrangler, Chrysler 300, Dodge Challenger and Dodge Charger vehicles, and 2009-2011 Dodge Dakota vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, ",
+        "report_date": "09/01/2018",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V444000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2008-2010 Dodge Challenger vehicles manufactured September 19, 2007, to October 29, 2010.  The affected vehicles are equipped with a dual-stage driver frontal air bag that may be susceptible to moisture intrusion which, over time, could cause the",
+        "report_date": "10/07/2015",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V352000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) expanded the affected population to include 73,712 2005-2009 RAM 2500 trucks produced at the St. Louis North Assembly Plant.  With this change, Chrysler is recalling certain model year 2004-2008 RAM 1500, 2005-2009 RAM 2500, 2006-2009 RAM 3500, 2007-2010 RAM 3500 Cab Chassis, 2",
+        "report_date": "24/05/2016",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V642000",
+        "component": "TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS",
+        "summary": "CHRYSLER IS RECALLING 175 MY 2009 DODGE CHARGER, CHALLENGER, AND CHRYSLER 300 VEHICLES.  THE TIRE PRESSURE MONITOR (TPM) SENSORS MAY NOT TRANSMIT THE ACTUAL TIRE PRESSURE.  THIS COULD RESULT IN THE DRIVER NOT BEING AWARE OF LOW TIRE PRESSURE.",
+        "report_date": "05/12/2008",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V458000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:PARK/NEUTRAL START INTERLOCK SWITCH",
+        "summary": "CHRYSLER IS RECALLING 6,636 MY 2008-2009 DODGE CHALLENGER VEHICLES EQUIPPED WITH AUTOMATIC TRANSMISSIONS AND \"KEYLESS GO\" OPTION.  THESE VEHICLES FAIL TO CONFORM TO THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 114, \"THEFT PREVENTION.\"  IF THE STOP/START BUTTON IS PRESSED AND HELD AN",
+        "report_date": "10/09/2008",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V420000",
+        "component": "WHEELS:LUGS/NUTS/BOLTS/STUDS",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2009 THROUGH 2010 PASSENGER VEHICLES EQUIPPED WITH REAR WHEEL DRIVE.  THESE VEHICLES MAY HAVE BEEN BUILT WITHOUT A FRONT WHEEL SPINDLE NUT.",
+        "report_date": "29/10/2009",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:50:01.066Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,295 @@
+{
+  "slug": "2022-ford-f-150",
+  "year": 2022,
+  "make": "Ford",
+  "model": "F-150",
+  "matched_as": {
+    "complaints": [
+      "F-150  REGULAR CAB",
+      "F-150  SUPER CAB",
+      "F-150 SUPER CAB DIESEL",
+      "F-150 SUPER CREW",
+      "F-150 SUPER CREW DIESEL",
+      "F-150 (Super Crew) Lightning BEV"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 3221,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 871,
+        "share_pct": 27,
+        "excerpts": [
+          "My 2022 Ford F-150 has experienced intermittent delayed starting, uneven idle, and hesitation during acceleration. At times, the engine sounds and feels as though it may shut off. I began noticing the",
+          "On two occasions vehicle failed 3-4 upshift and abruptly shifted into first instead.   Transmission harshness/flaring. I am experiencing intermittent flaring/slippage and harshness with the 3-4 upshif",
+          "Transmission shifts hard, shifts down intermittently, blown seals twice and gear shifter gets stuck."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 717,
+        "share_pct": 22.3,
+        "excerpts": [
+          "There is an issue with my cowl which has 1 drain hole, on passenger side which if gets clogged with debris, causes water to build up and water to intrude from cowl into interior truck causing water in",
+          "The contact owns a 2022 Ford F-150. The contact stated that while driving approximately 55-65 MPH, the vehicle stalled. The check engine and battery warning lights were illuminated. The contact associ",
+          "Immediately after starting the truck, I hear a loud popping noise coming from the radio. It sounds like an alarm noise for several seconds. I always turn the volume to 0, but I don't know if that's wh"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 341,
+        "share_pct": 10.6,
+        "excerpts": [
+          "Daytime running lights (LED) in headlights burn out/quit working. Currently it is only the pasenger side of my vehilce but its a common issue and eventually both passenger and driver side DRL's quit w",
+          "LED strip for the headlight assembly burned out. No known repair other than to replace the whole headlight assembly for $2500. This is a common issue with a poor design from ford and can cause visibil",
+          "I am submitting this complaint regarding the premature failure of the LED Daytime Running Lights (DRLs) on my 2022 Ford F-150.  The vehicle's LED daytime running light on one side has completely faile"
+        ]
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "complaints": 258,
+        "share_pct": 8,
+        "excerpts": [
+          "The contact owns a 2022 Ford F-150. The contact stated that while driving approximately 55-65 MPH, the vehicle stalled. The check engine and battery warning lights were illuminated. The contact associ",
+          "The contact owns a 2022 Ford F-150. The contact received notification of NHTSA Campaign Number: 25V455000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The ",
+          "The contact owns a 2022 Ford F-150. The contact stated that while the vehicle was parked on an incline with a full tank of fuel, the engine sputtered and the vehicle was difficult to start. Additional"
+        ]
+      },
+      {
+        "component": "GASOLINE",
+        "complaints": 258,
+        "share_pct": 8,
+        "excerpts": [
+          "The contact owns a 2022 Ford F-150. The contact stated that while driving approximately 55-65 MPH, the vehicle stalled. The check engine and battery warning lights were illuminated. The contact associ",
+          "The contact owns a 2022 Ford F-150. The contact received notification of NHTSA Campaign Number: 25V455000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The ",
+          "The contact owns a 2022 Ford F-150. The contact stated that while the vehicle was parked on an incline with a full tank of fuel, the engine sputtered and the vehicle was difficult to start. Additional"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 108,
+      "fires": 38,
+      "injuries": 156,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 455
+      },
+      {
+        "year": 2023,
+        "count": 813
+      },
+      {
+        "year": 2024,
+        "count": 520
+      },
+      {
+        "year": 2025,
+        "count": 944
+      },
+      {
+        "year": 2026,
+        "count": 488
+      }
+    ]
+  },
+  "recalls": {
+    "count": 23,
+    "recalls": [
+      {
+        "campaign_number": "21V986000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2022 F-150 vehicles.  Underbody heat and noise insulators may loosen and contact the aluminum driveshaft, which could damage the driveshaft and cause it to fracture.",
+        "report_date": "16/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V193000",
+        "component": "ELECTRICAL SYSTEM: INTEGRATED TRAILER BRAKE CONTROL",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2022 F-150, 2022 Maverick, Expedition, Lincoln Navigator, F-250, F-350, F-450, and F-550 vehicles.  Due to a software error, a towed trailer equipped with an electric or electric-over hydraulic brake system may not brake.",
+        "report_date": "25/03/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V253000",
+        "component": "STEERING:COLUMN",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2022 F-150 vehicles.  The power-adjustable telescoping steering column connector wiring may be too short.  Wiring that is too short can become damaged or separate if the adjustable steering column is extended all the way.",
+        "report_date": "14/04/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V623000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2022 F-150 vehicles.  Underbody heat and noise insulators may loosen and contact the aluminum driveshaft, which could damage the driveshaft and cause it to fracture.",
+        "report_date": "12/08/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V675000",
+        "component": "WHEELS:LUGS/NUTS/BOLTS/STUDS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2022 F-150 Raptor Series vehicles equipped with 37-inch tires.  The lug nuts on the wheels may have been incorrectly tightened.",
+        "report_date": "08/09/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V686000",
+        "component": "EXTERIOR LIGHTING:LIGHTING CONTROL MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2022-2023 Bronco Sport and 2022 F-150 vehicles.  The parking lights may flicker when the headlights are activated.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 108, \"Lamps, Reflective Devi",
+        "report_date": "14/09/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V684000",
+        "component": "AIR BAGS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2022 F-150 vehicles.  The right-side instrument panel cover may have been manufactured incorrectly, which can cause the air bag to not deploy as intended.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Stan",
+        "report_date": "14/09/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V842000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2022 F-150 vehicles.  The front windshield wiper motor may become inoperative, causing the wipers to fail.",
+        "report_date": "15/11/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V070000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2022-2023 F-150, Mustang, Explorer, Bronco, and 2023 Lincoln Aviator vehicles equipped with automatic transmissions.  The transmission may contain a loose bolt which could prevent the transmission from engaging the park gear, although the gear shifter p",
+        "report_date": "10/02/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V509000",
+        "component": "PARKING BRAKE:ELECTRICAL",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2023 F-150 vehicles equipped with a single exhaust system.  Contact with the rear axle housing may damage the wiring harness, causing the electric parking brake to activate unexpectedly.",
+        "report_date": "21/07/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V802000",
+        "component": "EXTERIOR LIGHTING:LIGHTING CONTROL MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2022 F-150 vehicles.  The parking lights may flicker when the headlights are activated.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 108, \"Lamps, Reflective Devices, and Associated Equipme",
+        "report_date": "28/11/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V896000",
+        "component": "POWER TRAIN:AXLE HUBS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2023 F-150 vehicles equipped with the Trailer Tow Max Duty package and a 9.75-inch heavy duty axle with a 3/4 float axle design.  The rear axle hub bolt may fatigue and break, which can result in damage to the axle hub splines.",
+        "report_date": "22/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V635000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2022 Bronco, F-150, Edge, Explorer, Lincoln Nautilus, and Lincoln Aviator vehicles equipped with either a 2.7L or 3.0L Nano EcoBoost engine.  The engine intake valves may break while driving, which can result in engine failure and a loss of drive p",
+        "report_date": "23/08/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V682000",
+        "component": "EXTERIOR LIGHTING:LIGHTING CONTROL MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2022 F-150 vehicles.  The parking lights may flicker when the headlights are activated.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 108, \"Lamps, Reflective Devices, and Associated Equipme",
+        "report_date": "13/09/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V852000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2025 Explorer, Lincoln Aviator, 2020-2024 Escape, Lincoln Corsair, 2018-2024 F-150, Expedition and Lincoln Navigator vehicles.  The air bag warning label may be missing from the dashboard.  As such, these vehicles fail to comply with the requiremen",
+        "report_date": "08/11/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V132000",
+        "component": "ELECTRICAL SYSTEM: INTEGRATED TRAILER BRAKE CONTROL",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2022 F-150, 2022 Maverick, Expedition, Lincoln Navigator, F-250, F-350, F-450, and F-550 vehicles previously repaired incorrectly under recall number 22V-193.  Due to a software error, a towed trailer equipped with an electric or electric-over hydr",
+        "report_date": "28/02/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V315000",
+        "component": "BACK OVER PREVENTION:SOFTWARE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2024 Bronco, F-150, 2021-2024 Edge, 2022-2025 Escape, F-250, F-350, F-450, F-550, F-600, 2022-2024 Expedition, 2022-2025 Transit, 2021-2023 Mach-E, 2024 Ranger, Mustang, 2021-2023 Lincoln Nautilus, 2022-2024 Navigator, and 2023-2024 Corsair vehicle",
+        "report_date": "09/05/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V455000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2023 Bronco, Explorer, Lincoln Aviator, F-250 SD, F-350 SD, F-450 SD,  F-550 SD, 2021-2022 Lincoln Navigator, Mustang, F-150, and 2022 Expedition vehicles. The low-pressure fuel pump may fail, which can result in an engine stall while driving.",
+        "report_date": "07/07/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V515000",
+        "component": "EXTERIOR LIGHTING:LIGHTING CONTROL MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2022 F-150 vehicles that were repaired incorrectly under recalls 22V686 and 23V802. The parking lights may flicker when the headlights are activated. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard n",
+        "report_date": "08/08/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V517000",
+        "component": "EXTERIOR LIGHTING:LIGHTING CONTROL MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2022 F-150 vehicles that were repaired incorrectly under recall 22V686. The parking lights may flicker when the headlights are activated.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 108, ",
+        "report_date": "08/08/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V729000",
+        "component": "VISIBILITY:SUN/MOON ROOF ASSEMBLY",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2022 Expedition, Lincoln Navigator, 2021-2023 F-150, 2022 F-250 SD, F-350 SD, and F-450 SD vehicles. The moonroof wind deflector clips may be inadequately attached to the moonroof frame, which can result in the wind deflector detaching from the veh",
+        "report_date": "24/10/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V104000",
+        "component": "ELECTRICAL SYSTEM: INTEGRATED TRAILER BRAKE CONTROL",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2026 F-150, 2022-2026 F-250 SD, F-350 SD, F-450 SD, F-550 SD, Maverick, 2024-2026 Ranger, 2023-2026 F-600 SD, 2022-2027 Lincoln Navigator, Expedition, and 2026 E-Transit vehicles. When towing a trailer, the integrated trailer module (ITRM) may lose",
+        "report_date": "20/02/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V489000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2021-2023 F-150 and 2023-2026 F-250 SD vehicles equipped with 8-inch SYNC infotainment screens. A software error may cause the rearview camera image to be obstructed by the infotainment home screen menu when the vehicle is placed in reverse. As such, th",
+        "report_date": "28/07/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:07:51.596Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "2015-mazda-cx-5",
+  "year": 2015,
+  "make": "Mazda",
+  "model": "CX-5",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 133,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 27,
+        "share_pct": 20.3,
+        "excerpts": [
+          "The contact owned a 2015 Mazda CX-5. The contact received notification of NHTSA Campaign Number: 16V064000 (Fuel System, Gasoline) and 16V644000 (Structure) and requested to be removed from the recall",
+          "The contact called on behalf of his daughter who owns a 2015 Mazda CX5. The contact stated that while his daughter was loading groceries in the trunk, the liftgate dropped unexpectedly and the corner ",
+          "WAS TURNING RIGHT ONTO SIDE CITY STREET TO PARK, WAS GOING MAYBE 2 MILES AN HOUR BECAUSE I WAS GOING TO PARK. THE CAR ENGINE SELF ACCELERATED AND I COULD NOT CONTROL IT,  HIT A CHAIN LINK FENCE AND SH"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 19,
+        "share_pct": 14.3,
+        "excerpts": [
+          "The contact owns a 2015 Mazda CX-5. The contact stated that while pressing the brake pedal the engine had experienced very high revving and the vehicle would lurch forward. The vehicle was taken to th",
+          "2015 Mazda CX-5 with 91,000 miles on it.  Automatic transmission has failed.  When I attempted to pull out into traffic the vehicle would not shift into 2nd gear and instead jerked hard and the engine",
+          "Transmission failed, and vehicle is available for inspection. The incident occurred after exiting a highway and coming to halt at stop light. Vehicle wouldn't exceed above 5 mph after moving forward, "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 14,
+        "share_pct": 10.5,
+        "excerpts": [
+          "I was near a red light and applied the brakes, but the car accelerated and ran into the truck stopped in front of me. This happened around May of 2024. I took the car to the Elk Grove Mazda dealer. Th",
+          "I was on my way home going down a windy back road going about 45 mph. there was a jeep in front of me and the mail truck was in front of them. the mail truck went to slow down and take a right onto a ",
+          "On Feb. 9, 2023, I started my vehicle and lots of warning indicators lit up the dash of my well-maintained vehicle.  Check Engine, ABS, TPMS, SBCS to name some of the warning lights.  When I took my c"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 14,
+        "share_pct": 10.5,
+        "excerpts": [
+          "While driving on the freeway the check engine light came on. I was able to drive the car home the remaining 20 minutes but there was some noticeable difficulty accelerating. When I went to turn on the",
+          "The contact owns a 2015 Mazda CX-5. The contact stated that while pressing the brake pedal the engine had experienced very high revving and the vehicle would lurch forward. The vehicle was taken to th",
+          "2015 Mazda CX-5 with 91,000 miles on it.  Automatic transmission has failed.  When I attempted to pull out into traffic the vehicle would not shift into 2nd gear and instead jerked hard and the engine"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 12,
+        "share_pct": 9,
+        "excerpts": [
+          "2015 Mazda CX-5 with 91,000 miles on it.  Automatic transmission has failed.  When I attempted to pull out into traffic the vehicle would not shift into 2nd gear and instead jerked hard and the engine",
+          "DRIVING NORMALLY, SUDDENLY AT AN ON-RAMP, CAR WOULD NO LONGER ACCELERATE.  I HIT THE GAS A COUPLE TIMES AND ENGINE JUST REVVED, AND THE CAR WAS JERKY AS IF STRUGGLING TO CHANGE GEAR.  ANYTHING OVER 3,",
+          "REDUCES SPEED WHILE DRIVING, UNEXPECTEDLY. CAUSING THE CAR TO STOP IMMEDIATELY WHILE BEING DRIVEN. IT'S BEEN HAPPENING CONSTANTLY FOR  MONTHS AND I HAVE SEEN MYSELF IN SERIOUS TROUBLE SITUATIONS"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 11,
+      "fires": 0,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 12
+      },
+      {
+        "year": 2015,
+        "count": 20
+      },
+      {
+        "year": 2016,
+        "count": 31
+      },
+      {
+        "year": 2017,
+        "count": 15
+      },
+      {
+        "year": 2018,
+        "count": 10
+      },
+      {
+        "year": 2019,
+        "count": 8
+      },
+      {
+        "year": 2020,
+        "count": 12
+      },
+      {
+        "year": 2021,
+        "count": 6
+      },
+      {
+        "year": 2022,
+        "count": 7
+      },
+      {
+        "year": 2023,
+        "count": 7
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "16V064000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY:FILLER PIPE AND CAP",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain model year 2014-2016 Mazda CX-5 vehicles manufactured June 27, 2013, to February 2, 2016.  The affected vehicles have a fuel filler pipe that may rupture in the event of a crash.  As such, these vehicles fail to comply with the requirement",
+        "report_date": "03/02/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V644000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain model year 2010-2013 Mazda3 and Mazdaspeed3 vehicles manufactured November 18, 2008, to June 8, 2013, 2012-2015 Mazda5 vehicles manufactured October 26, 2010, to June 22, 2015, 2016 CX-3 vehicles manufactured June 1, 2015, to December 26, ",
+        "report_date": "06/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16E002000",
+        "component": "VISIBILITY:WINDSHIELD",
+        "summary": "Pilkington North America, Inc. (Pilkington) is recalling certain replacement windshields, model FW04026 GTY, manufactured November 23, 2015, to December 16, 2015 for use in Mazda CX-5 vehicles that are equipped with the Smart City Brake Support system.  The affected windshields have a bracket mounte",
+        "report_date": "19/01/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V203000",
+        "component": "STEERING",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain model year 2016 CX-3 vehicles manufactured June 1, 2015, to December 2, 2015, 2013-2014 Mazda2 vehicles manufactured July 3, 2013, to August 8, 2014, 2014-2016 CX-5 vehicles manufactured January 19, 2013, to December 2, 2015, and 2013-2015",
+        "report_date": "11/04/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:25.534Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

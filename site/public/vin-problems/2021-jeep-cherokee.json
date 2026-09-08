@@ -1,0 +1,140 @@
+{
+  "slug": "2021-jeep-cherokee",
+  "year": 2021,
+  "make": "Jeep",
+  "model": "Cherokee",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 155,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 87,
+        "share_pct": 56.1,
+        "excerpts": [
+          "The PTU is bad the vehicle can roll when in park.",
+          "While driving i lost power and heard whining and grinding. Loss of power. Had to get it to towed to the dealership where it remains as their no remedy.",
+          "The contact owns a 2021 Jeep Cherokee. The contact received notification of NHTSA Campaign Number: 26V290000 (Power Train); however, the part to do the recall repair was not yet available. The contact"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 25,
+        "share_pct": 16.1,
+        "excerpts": [
+          "I have filed a reimbursement twice now for recall 26V290000 (FCA Recall 40D).  I had this repaired in August of 2025.  Both times I have submitted the claim it has been denied because of no remedy ava",
+          "Twice in the past year, the vehicle stalled after coming to a stop at a red light.  The morning after the most recent incident, the car would not start.  I had it towed to the dealership.  That was Lu",
+          "I own a 2021 Jeep Cherokee Trailhawk that is included in the PTU safety recall involving sudden loss of motive power and/or loss of the PARK function. My vehicle began exhibiting the exact symptoms of"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 22,
+        "share_pct": 14.2,
+        "excerpts": [
+          "I bought my 2021 jeep in 2023 at Matthew's in Pa and from day 1 my antifreeze has been leaking, I Bought the extended Warranty and they told me I didnt buy it and wouldn't fix nothing, so I took it ba",
+          "I purchased this 2021 Jeep Cherokee, and it has developed a life-threatening defect where it performs an uncommanded braking while driving at speed. Without any warning the car slams on the brakes cre",
+          "The contact owns a 2021 Jeep Cherokee. The contact stated that while driving at an undisclosed speed, the radio went black, with the message \"Re-insert USB\" displayed. The contact was unable to use th"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 14,
+        "share_pct": 9,
+        "excerpts": [
+          "The 2021 Jeep Cherokee sporadically and infrequently engages the parking brake and hazard flashers.  In order to disengage it, the car must be put in park and turned off then on, sometimes repeatedly.",
+          "Their was no incident",
+          "Driving a 2021 Jeep Cherokee Trailhawk on the interstate with cruise control engaged.  All of a sudden the vehicle decelerates/downshifts and the display screen flashes \"4WD System Unavailable Service"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 10,
+        "share_pct": 6.5,
+        "excerpts": [
+          "I purchased this 2021 Jeep Cherokee, and it has developed a life-threatening defect where it performs an uncommanded braking while driving at speed. Without any warning the car slams on the brakes cre",
+          "The car is reporting service 4WD, they are saying the PTU is bad. Took it into the dealership today.",
+          "Our Jeep has had multiple accounts of shifting hard, hesitation while shifting, making a hard sound when putting in reverse and now it is having trouble starting up. When we charged the recently purch"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 4,
+      "injuries": 8,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2005,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 14
+      },
+      {
+        "year": 2022,
+        "count": 18
+      },
+      {
+        "year": 2023,
+        "count": 24
+      },
+      {
+        "year": 2024,
+        "count": 13
+      },
+      {
+        "year": 2025,
+        "count": 45
+      },
+      {
+        "year": 2026,
+        "count": 40
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "21V310000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:COOLER/RADIATOR:HOSES AND FITTINGS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2021 Jeep Cherokee vehicles.  The transmission oil cooler hose may have been incorrectly cured, allowing transmission fluid to leak.",
+        "report_date": "04/05/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V657000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM:LOWER ARM",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2021 Jeep Cherokee Latitude and Jeep Cherokee Limited vehicles.  One or both of the front lower control arms may fracture while driving.",
+        "report_date": "27/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V516000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2022 Jeep Cherokee vehicles.  An improperly secured connector for the right-side curtain air bag may prevent the air bag from deploying as intended.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard",
+        "report_date": "08/07/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V290000",
+        "component": "POWER TRAIN",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019-2023 Jeep Cherokee vehicles. The power transfer unit (PTU) may fail.",
+        "report_date": "07/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:27.147Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "2020-toyota-4runner",
+  "year": 2020,
+  "make": "Toyota",
+  "model": "4Runner",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 33,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 5,
+        "share_pct": 15.2,
+        "excerpts": [
+          "Break problem after letting car sit overnight and coming up to a stop sign or anything slowly pedal goes to the floor If you pump tge pedal the brakes will come back and seem to work fine except  when",
+          "UNKNOWN but not really a \"Safety Issue\" in the true sense of the meaning.  Front Brakes. Loud squeal from brakes under cold climate conditions.  Dealership has inspected but nothing found.  Mentioned ",
+          "WHILE SLOWLY SLOWING THE VEHICLE DOWN, THE BRAKE PEDAL WENT COMPLETELY TO THE FLOOR AND LOST ALL BRAKING. AS SOON AS PEDAL IS BROUGHT BACK UP AND PUMPED ONCE OR TWICE, BRAKES REGAINED FUNCTION. NO WAR"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 5,
+        "share_pct": 15.2,
+        "excerpts": [
+          "The contact owned a 2020 Toyota 4runner. The contact stated that while the driver who was her father crashed into another vehicle, the air bags failed to deploy.  In addition, the contact stated that ",
+          "TL* THE CONTACT OWNS A 2020 TOYOTA 4RUNNER. THE CONTACT STATED WHILE DRIVING AT 40 MPH, WHEN SHE SLID OFF THE ROAD AND CRASHED INTO A TREE. THE CONTACT STATED NO WARNING LIGHT WAS ILLUMINATED. THE CON",
+          "I WAS IN A TRAFFIC ACCIDENT AND MY AIR BAG DID NOT DEPLOY"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 4,
+        "share_pct": 12.1,
+        "excerpts": [
+          "The contact owns a 2020 Toyota 4Runner. The contact stated while driving 60 MPH, she became aware that the electronic power steering was not functioning properly, requiring increased effort to maneuve",
+          "The car shakes when going at speeds as low as 48 mph and as high as 68 mph that I know of. Typically, it shakes heaviest from the mid-50 mph range to the mid-60 mph range. I rarely Drive the full spee",
+          "Steering wheel shakes at highway speeds (58-64mph). Steering wheel has shaken as much as 1.5 inches back and forth, causing vehicle to shake while driving at high speeds. The problem has been confirme"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 4,
+        "share_pct": 12.1,
+        "excerpts": [
+          "I am writing to express my deep concern and frustration regarding the X-REAS suspension system in the Limited Edition 4Runner manufactured by Toyota. Specifically, I am addressing the alarming issue o",
+          "The contact owns a 2020 Toyota 4Runner. The contact stated upon taking the vehicle to the dealer for a routine inspection, he was informed that the front coil spring was fractured and needed to be rep",
+          "The car shakes when going at speeds as low as 48 mph and as high as 68 mph that I know of. Typically, it shakes heaviest from the mid-50 mph range to the mid-60 mph range. I rarely Drive the full spee"
+        ]
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "complaints": 3,
+        "share_pct": 9.1,
+        "excerpts": [
+          "The contact owns a 2020 Toyota 4Runner. The contact stated that after starting the vehicle and reversing, the rearview camera intermittently displayed a blank image. No warning light was illuminated. ",
+          "The contact owns a 2020 Toyota 4Runner. The contact stated that while reversing, he became aware that the rear-view camera failed to display an image. The vehicle returned to normal functionality, but",
+          "ON DECEMBER 8 , 2020, THE ABOVE REFERENCED VEHICLES ENGINE STALLED THREE TIMES WHILE IN DRIVING MODE. ON ALL THREE OCCASIONS, THE VEHICLE WAS MOVING AT A SPEED LESS THAN 40 MPH. THE VEHICLE RESTARTED "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 0,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 13
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "22V480000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2020-2022 4Runner vehicles equipped with 20-inch Black Gunner Wheels.  The load carrying capacity modification labels are incorrect.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard nu",
+        "report_date": "06/07/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:58.740Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

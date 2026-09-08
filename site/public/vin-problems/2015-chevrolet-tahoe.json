@@ -1,0 +1,244 @@
+{
+  "slug": "2015-chevrolet-tahoe",
+  "year": 2015,
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 661,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 200,
+        "share_pct": 30.3,
+        "excerpts": [
+          "The contact owns a 2015 Chevrolet Tahoe. The contact stated that the brake pedal would harden upon depression of the brake pedal as the \"Service Brake System\" warning light would appear on the instrum",
+          "The park assist enabled flashed and when I brake it studders or I have to slam on my brakes because my car won’t stop. I see this is a recall on other tahoes but not mine!",
+          "The contact owns a 2015 Chevrolet Tahoe. The contact stated that while driving approximately 60 MPH, the braking system's failure message was displayed. The contact stated that the vehicle had stopped"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 135,
+        "share_pct": 20.4,
+        "excerpts": [
+          "The contact owned a 2015 Chevrolet Tahoe and stated that while driving, the vehicle's doors locked and unlocked randomly, the cabin lights flickered, and the doors failed to unlock properly during ent",
+          "While driving, the vehicle experienced a total loss of power steering, accompanied by a 'Power Steering: Drive with Care' dashboard alert. The steering wheel became extremely heavy and difficult to ma",
+          "The vehicle information system, Radio, Maps, Phone goes uncontrolled, Changes volume, radio station changes randomly and sometimes won't allow the driver to even turn off the radio; makes calls from p"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 70,
+        "share_pct": 10.6,
+        "excerpts": [
+          "The contact owns a 2015 Chevrolet Tahoe. The contact stated that while driving at an undisclosed speed, the steering power seized. The contact had to use force to pull to the side of the road. The pow",
+          "While driving, the vehicle experienced a total loss of power steering, accompanied by a 'Power Steering: Drive with Care' dashboard alert. The steering wheel became extremely heavy and difficult to ma",
+          "I am having power steering issues. I reached out to Chevrolet and they said in their system the recall was performed in 2019 prior to me purchasing the vehicle in 2021. I should not have to pay for an"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 55,
+        "share_pct": 8.3,
+        "excerpts": [
+          "Either the transmission or torque converter went out, one or both completely failed.",
+          "My transmission just randomly went out. I had my car evaluated in December of 2025 and nothing was reported on the transmission at all and as Jan 2026 my transmission went out.",
+          "Steering wheel locked driving hazard lights on dashboard on power steering light on stranded on road with my kids took it to riverside chevrolet almost 2 months in dealership 2 technician could not gi"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 52,
+        "share_pct": 7.9,
+        "excerpts": [
+          "The failure is believed to have originated in the fuel delivery system, specifically the check valve in the low-pressure fuel feed jumper line at the engine. This valve failed to seat properly, allowi",
+          "Vehicle cranked longer than usual, noticed slight smell of fuel. After arriving home noticed fuel smell was very strong and a puddle of raw fuel under vehicle. Fuel line appears to have rubbed/vibrate",
+          "I am leaking fuel from the fuel lines connected to the fuel tank. I can smell the fumes inside of the cab. I also can see the fuel leaking under the driver seat."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 30,
+      "fires": 2,
+      "injuries": 18,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 19
+      },
+      {
+        "year": 2015,
+        "count": 29
+      },
+      {
+        "year": 2016,
+        "count": 48
+      },
+      {
+        "year": 2017,
+        "count": 81
+      },
+      {
+        "year": 2018,
+        "count": 96
+      },
+      {
+        "year": 2019,
+        "count": 116
+      },
+      {
+        "year": 2020,
+        "count": 55
+      },
+      {
+        "year": 2021,
+        "count": 57
+      },
+      {
+        "year": 2022,
+        "count": 58
+      },
+      {
+        "year": 2023,
+        "count": 37
+      },
+      {
+        "year": 2024,
+        "count": 28
+      },
+      {
+        "year": 2025,
+        "count": 27
+      },
+      {
+        "year": 2026,
+        "count": 10
+      }
+    ]
+  },
+  "recalls": {
+    "count": 14,
+    "recalls": [
+      {
+        "campaign_number": "18V586000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "General Motors LLC (GM) is recalling certain 2015 Chevrolet Silverado 1500, Tahoe and Suburban, GMC Sierra 1500 and Yukon, and Cadillac Escalade vehicles.  Electric power steering (EPS) assist may be lost momentarily, followed by a sudden return of EPS assist.",
+        "report_date": "07/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V291000",
+        "component": "SEAT BELTS:FRONT",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2016 Chevrolet Silverado 1500 and Tahoe Police Pursuit and Special-Service vehicles.  The flexible steel cable connecting the driver's seat belt to the outboard side of the seat may be repeatedly bent over the seat side shield as the driver enters an",
+        "report_date": "03/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V645000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2017 Cadillac Escalade, 2014-2018 Chevrolet Silverado, GMC Sierra, 2015-2018 Chevrolet Suburban, Tahoe, GMC Yukon vehicles.  The amount of vacuum created by the vacuum pump may decrease over time.",
+        "report_date": "06/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V761000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is tra",
+        "report_date": "24/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V651000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015-2017 Chevrolet Silverado 2500 HD, 3500 HD, Tahoe, Suburban,  GMC Sierra 2500 HD and 3500 HD, GMC Yukon, GMC Yukon XL, Cadillac Escalade and Cadillac Escalade ESV vehicles and 2014-2017 Chevrolet Corvette, Silverado 1500, Trax, Caprice Poli",
+        "report_date": "08/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V640000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2015 Chevrolet Silverado and GMC Sierra trucks manufactured January 24, 2014, to February 26, 2014, 2015 Chevrolet Suburban vehicles manufactured February 12, 2014 and Chevrolet Tahoe vehicles manufactured February 6, 2014, to February 13,",
+        "report_date": "09/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V437000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2016 Buick Lacrosse and Chevrolet Spark EV, Caprice PPV and SS vehicles, 2014-2017 Buick Encore and Chevrolet Corvette, Silverado 1500 and GMC Sierra 1500 vehicles, 2015-2016 Cadillac Escalade and Escalade ESV, Chevrolet Tahoe, Trax, Subur",
+        "report_date": "10/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V301000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2015 Chevrolet Silverado and GMC Sierra, and 2015 Chevrolet Tahoe and Suburban vehicles equipped with a base radio and an internal amplifier. The radios in the affected vehicles may become inoperative, and as a result, there would be no au",
+        "report_date": "06/06/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V719000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015 Chevrolet Silverado, Suburban, Tahoe, GMC Sierra, and Yukon XL vehicles, equipped with electric power steering (EPS).  Due to a problem with the EPS module, the affected vehicles may experience a sudden loss of power steering assist during",
+        "report_date": "10/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V152000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:COOLING UNIT AND LINES",
+        "summary": "General Motors LLC (GM ) is recalling certain model year 2014 Chevrolet Silverado Light Duty Regular Cab, Double Cab, and Crew Cab 1500 series and model year 2015 Suburban and Tahoe; GMC model year 2014 Sierra Regular Cab, Double Cab, and Crew Cab 1500 Series and model year 2015 Yukon and Yukon XL v",
+        "report_date": "31/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V451000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015 Chevrolet Suburban, Suburban LTZ, Tahoe, Tahoe LTZ, GMC Yukon, and Yukon XL Denali vehicles manufactured on May 13, 2014.  The affected vehicles were assembled with a roof rail air bags (RRAB) that were not reinforced at the points were th",
+        "report_date": "23/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V374000",
+        "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2015 Chevrolet Silverado and GMC Sierra vehicles, and model year 2015 GMC Yukon and Chevrolet Suburban and Tahoe vehicles.  In the affected vehicles, an electrical signal short may cause the transfer case to shift to neutral without the dr",
+        "report_date": "27/06/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V246000",
+        "component": "STEERING:LINKAGES:TIE ROD ASSEMBLY",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014 Chevrolet Silverado vehicles manufactured May 23, 2013, through March 25, 2014, 2014 GMC Sierra vehicles manufactured May 25, 2013, through March 31, 2014, and 2015 Chevrolet Tahoe vehicles manufactured January 29, 2014, through March 27, ",
+        "report_date": "14/05/2014",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V245000",
+        "component": "SEAT BELTS:FRONT",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014-2016 Chevrolet Silverado 1500, 2015-2016 Chevrolet Tahoe, and 2014-2015 GMC Sierra 1500 vehicles that may have received an incorrect replacement tensioner cable assembly as part of a previous recall remedy or a subsequent repair.  The flexible steel",
+        "report_date": "08/04/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:49.003Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "2009-honda-odyssey",
+  "year": 2009,
+  "make": "Honda",
+  "model": "Odyssey",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 198,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 63,
+        "share_pct": 31.8,
+        "excerpts": [
+          "Passenger side slider won’t shut, Driver’s side slider won’t latch.  Driver side door suddenly opens when driving!!!! Honda dealer Tech found worn bushing on passenger side center rollers, faulty, dri",
+          "The contact owns a 2009 Honda Odyssey. The contact stated that the front passenger’s side door failed to open. The contact’s handicapped wife was trapped in the vehicle. The contact had to remove the ",
+          "SLIDING DOOR ISSUES.  FIRST INCIDENT HAPPENED WHILE DRIVING ON THE FREEWAY AND MY PASSENGER SLIDING DOOR OPENED.  TOOK TO DEALERSHIP AND GOT FIXED AT A COST.  CONTINUED TO HAVE PROBLEMS WITH BOTH MY S"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 34,
+        "share_pct": 17.2,
+        "excerpts": [
+          "Twice during the last year, the bolt securing the drive belt tensioner has broken while driving the vehicle.  This results in loss of steering, electrical, and cooling of the engine.  The first time t",
+          "Van was driven at approximately 7:50pm a short distance.  After parking vehicle, 10 minutes later the alarm went off.  Upon disarming the alarm, the entire engine was engulfed in flames.  Van is maint",
+          "A miss fire in the engine which is causing slow speed when going up a hill or using the Air Conditioner. If it was to fail while driving it would be not good, could cause an accident. Also need to bri"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 21,
+        "share_pct": 10.6,
+        "excerpts": [
+          "FRONT BRAKES AND ROTORS WERE CHANGED SEVERAL TIMES. LAST WITH DRILLED/SLOTTED ROTORS. VIBRATION IS LESS WITH THOSE, BUT STILL THERE. THIS SEEMS TO BE A PROBLEM WITH OTHER PEOPLE AS WELL. SO SPEED LITT",
+          "WE WERE COMING DOWN A MOUNTAIN AND EVEN THOUGH I WAS USING THE ENGINE TO SLOW DOWN THE BRAKES STARTED PULSING AND THE STEERING WHEEL STARTED SHAKING.  SINCE THAT TIME THE PROBLEM HAS GOTTEN WORSE AND ",
+          "BRAKE ROTORS SHOWED ABNORMAL WEAR WITH LITTLE NOTICE. IN PREVIOUS TWO WEEKS, THE BRAKES APPEARED \"SOFT\" AND HAVE REQUIRED FIRMER BRAKING. WHEN I TOOK THE VEHICLE IN FOR NEW BRAKE PADS, THE MECHANIC SH"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 20,
+        "share_pct": 10.1,
+        "excerpts": [
+          "Windshield wipers and also the key fob and the sliding doors as well as the blinkers do not work all at the same time first time it’s ever happened. It was December 8, 2023 and now it happened again i",
+          "my drivers side door started making a grinding noise and when we attempted to close the door it it fell off the track, it almost closed my child in the door, now there is significant body damage and m",
+          "I PURCHASED A 2009 HONDA ODYSSEY FROM WEST AUTO SALES LOCATED AT 6145 E. LANCASTER RD. FORT WORTH, TX 76112 ON 03/27/2021. I HAVE HAD NOTHING BUT PROBLEMS WITH IT. THE FIRST TWO DAYS OF DRIVING IT THE"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 18,
+        "share_pct": 9.1,
+        "excerpts": [
+          "Honda installed a VCM (Variable Cylinder Management) in this engine which shuts down the back three cylinders to save fuel when the car warms up. You’ll know when it kicks in when you see ECO on your ",
+          "Transmission gears, while driving gears don't engage properly. It struggles to change gears specifically between 3rd to 4th gear. Also when parked and change to Drive makes a stump noise.",
+          "2009 HONDA ODYSSEY. ISSUES ON THE AUTOMATIC TRANSMISSION. ON 4TH GEAR JUST SHUDDERS EITHER DOWNSHIFTING OR UP SHIFTING WHILE DRIVING. AND BESIDES ALL THIS ALSO MAKES A KNOCKING SOUND EITHER BACKING UP"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 6,
+      "injuries": 14,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 23
+      },
+      {
+        "year": 2010,
+        "count": 16
+      },
+      {
+        "year": 2011,
+        "count": 21
+      },
+      {
+        "year": 2012,
+        "count": 23
+      },
+      {
+        "year": 2013,
+        "count": 12
+      },
+      {
+        "year": 2014,
+        "count": 15
+      },
+      {
+        "year": 2015,
+        "count": 8
+      },
+      {
+        "year": 2016,
+        "count": 12
+      },
+      {
+        "year": 2017,
+        "count": 16
+      },
+      {
+        "year": 2018,
+        "count": 18
+      },
+      {
+        "year": 2019,
+        "count": 14
+      },
+      {
+        "year": 2020,
+        "count": 5
+      },
+      {
+        "year": 2021,
+        "count": 3
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "14E049000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Delphi Automotive Systems, LLC (Delphi) is recalling certain replacement fuel pump modules, part number FG1155-11B1, sold for use in 2005-2010 Honda Odyssey vehicles.  The affected fuel pump may send an incorrect fuel reading to the fuel gauge possibly causing the vehicle to run out of fuel.  The fu",
+        "report_date": "28/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V112000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "American Honda Motor Co., Inc. (Honda) is recalling certain 2005-2010 Honda Odyssey vehicles manufactured June 23, 2004, through September 4, 2010.  In the affected vehicles, the fuel pump strainer cover may deteriorate allowing fuel to leak out.",
+        "report_date": "14/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V062000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "HONDA IS RECALLING CERTAIN MODEL YEAR 2008-2009 ODYSSEY VEHICLES, THE GAS-FILLED STRUTS THAT HELP TO RAISE AND SUPPORT THE LIFTGATE OF VEHICLES EQUIPPED WITH A POWER LIFTGATE SYSTEM MAY BE PRONE TO EARLY LIFE FAILURES DUE TO A MANUFACTURING FLAW.  THE FLAW CAN RESULT IN A LEAK OF THE PRESSURIZED GAS",
+        "report_date": "16/02/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V057000",
+        "component": "PARKING BRAKE:DRIVELINE:HYDRAULIC:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "HONDA IS RECALLING 421 MY 2009 ODYSSEY VEHICLES.  DURING ASSEMBLY, INCORRECT FRONT BRAKE HOSES WERE INSTALLED.  THE BRAKE HOSE CAN CONTACT THE CALIPER BOLT AND OVER TIME A HOLE MAY DEVELOP WHICH WILL ALLOW BRAKE FLUID TO LEAK.  THIS WOULD EVENTUALLY RESULT IN REDUCED BRAKE SYSTEM PERFORMANCE.",
+        "report_date": "18/02/2009",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:49:49.477Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

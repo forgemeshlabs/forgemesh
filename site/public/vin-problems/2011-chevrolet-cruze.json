@@ -1,0 +1,204 @@
+{
+  "slug": "2011-chevrolet-cruze",
+  "year": 2011,
+  "make": "Chevrolet",
+  "model": "Cruze",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 731,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 257,
+        "share_pct": 35.2,
+        "excerpts": [
+          "i’m unsure if the person i bought this vehicle from had the codes wiped before selling to me, but there were NO lights on dash for 3 days after minimal driving only to work and back, then all of a sud",
+          "I purchased my car in 2020 and have had this issue recently come up. I have coolant that is vanishing from my car but not dripping to the floor. I've learned since then that there was a recall on my c",
+          "The contact owns a 2011 Chevrolet Cruze. The contact stated that while driving at an undisclosed speed, the accelerator pedal was depressed; however, the vehicle failed to accelerate as intended. The "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 193,
+        "share_pct": 26.4,
+        "excerpts": [
+          "i’m unsure if the person i bought this vehicle from had the codes wiped before selling to me, but there were NO lights on dash for 3 days after minimal driving only to work and back, then all of a sud",
+          "The primary failure is a total loss of engine power and electrical systems while the vehicle is in motion. The dealership (Ray Skillman Southside Mitsubishi) has diagnosed this as a failed engine/body",
+          "The contact owns a 2011 Chevrolet Cruze. The contact stated that while driving 25-35 MPH, the vehicle failed to shift into the intended gear and then stalled. The contact was able to pull over to the "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 96,
+        "share_pct": 13.1,
+        "excerpts": [
+          "i’m unsure if the person i bought this vehicle from had the codes wiped before selling to me, but there were NO lights on dash for 3 days after minimal driving only to work and back, then all of a sud",
+          "Odometer Fraud. The contact purchased a 2011 Chevrolet Cruze. It was discovered that there was a mileage discrepancy. The vehicle was a private in April  12th 2026. At the time of purchase, the vehicl",
+          "The primary failure is a total loss of engine power and electrical systems while the vehicle is in motion. The dealership (Ray Skillman Southside Mitsubishi) has diagnosed this as a failed engine/body"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 76,
+        "share_pct": 10.4,
+        "excerpts": [
+          "I bought my car used.  I have replaced the Brake Pedal Position Sensor 3 times on my own and 1 time by Anderson General Tire. Sometimes when I go to brake, there is no brake and I have to push real ha",
+          "The contact owns a 2011 Chevrolet Cruze. The contact stated while driving 55 MPH, extra effort was needed to depress the brake pedal while stopping the vehicle. There was no warning light illuminated.",
+          "Last month the car started ti show me this errors Stabili Trak Control and Traction Service Control, I keep getting them driving on the highway, every road I drive, the steering wheal just becomes sti"
+        ]
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "complaints": 75,
+        "share_pct": 10.3,
+        "excerpts": [
+          "THE TRANSMISSION LEAKS SO MUCH WE PUT NEW FLUIDS IN ALMOST ON THE DAILY AND THERE'S ALWAYS SENSOR LIGHTS ON ON THE DASHBOARD",
+          "THE 2011 CHEVY CRUZE ECO HAS BEEN HAVING A COUPLE ISSUES FROM THERE BEING A SMALL OIL LEAK COMING FROM THE ENGINE IT DRIPS MORE AFTER DRIVING AND ALSO ANOTHER LITTLE LEAK TOWARD THE BACK OF THE CAR TH",
+          "TO WHOM THIS MAY CONCERN, THIS VEHICLE HAS ISSUES WITH STABILTRAK/TRACTION CONTROL. THIS VEHICLE HAS BEEN SERVICED ROUTINELY THROUGHOUT THE TIME I HAVE HAD IT. THIS VEHICLE WAS BROUGHT IN AT THE DEALE"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 38,
+      "fires": 20,
+      "injuries": 39,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 8
+      },
+      {
+        "year": 2011,
+        "count": 93
+      },
+      {
+        "year": 2012,
+        "count": 69
+      },
+      {
+        "year": 2013,
+        "count": 71
+      },
+      {
+        "year": 2014,
+        "count": 98
+      },
+      {
+        "year": 2015,
+        "count": 69
+      },
+      {
+        "year": 2016,
+        "count": 77
+      },
+      {
+        "year": 2017,
+        "count": 56
+      },
+      {
+        "year": 2018,
+        "count": 57
+      },
+      {
+        "year": 2019,
+        "count": 49
+      },
+      {
+        "year": 2020,
+        "count": 27
+      },
+      {
+        "year": 2021,
+        "count": 18
+      },
+      {
+        "year": 2022,
+        "count": 12
+      },
+      {
+        "year": 2023,
+        "count": 7
+      },
+      {
+        "year": 2024,
+        "count": 9
+      },
+      {
+        "year": 2025,
+        "count": 7
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "16V502000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016-2017 Buick Verano and 2016 Chevrolet Malibu as the electronic park lock lever may allow the ignition key to be removed without the transmission being in PARK.  Also, certain 2013 Buick Encore,  2011 Buick Regal, 2013-2014 Buick Verano, 201",
+        "report_date": "05/07/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V273000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "GENERAL MOTORS IS RECALLING CERTAIN MODEL YEAR 2011 CHEVROLET CRUZE VEHICLES MANUFACTURED FROM OCTOBER 6, 2009, THROUGH APRIL 27, 2011 AND EQUIPPED WITH AN AUTOMATIC TRANSMISSION FOR FAILING TO COMPLY WITH FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 102, 'TRANSMISSION SHIFT LEVER SEQUENCE, STARTER INT",
+        "report_date": "06/05/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V289000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY:MOUNTING",
+        "summary": "GENERAL MOTORS (GM) IS RECALLING CERTAIN MODEL YEAR 2011 AND 2012 CHEVROLET CRUZE VEHICLES MANUFACTURED FROM OCTOBER 2, 2009, THROUGH MAY 14, 2012.  ATTACHMENT WELDS FOR THE FUEL TANK STRAP SECONDARY BRACKETS MAY HAVE BEEN OMITTED.",
+        "report_date": "22/06/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V221000",
+        "component": "STEERING",
+        "summary": "GENERAL MOTORS IS RECALLING CERTAIN MODEL YEAR 2011 CHEVROLET CRUZE VEHICLES.  DURING MANUFACTURING THE STEERING WHEEL COULD HAVE BEEN IMPROPERLY FASTENED AND MAY DETACH FROM THE STEERING COLUMN.",
+        "report_date": "06/04/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V288000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "GENERAL MOTORS (GM) IS RECALLING CERTAIN MODEL YEAR 2011 AND 2012 CHEVROLET CRUZE VEHICLES MANUFACTURED FROM OCTOBER 2, 2009, THROUGH MAY 31, 2012.  SPILLED OR DRIPPING OIL (SUCH AS AFTER AN OIL CHANGE) MAY COLLECT IN THE ENGINE SHIELD (BELLYPAN) NEAR HOT ENGINE OR EXHAUST SYSTEM SURFACES.  AS A RES",
+        "report_date": "22/06/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V270000",
+        "component": "STEERING:GEAR BOX:SHAFT SECTOR",
+        "summary": "GENERAL MOTORS IS RECALLING CERTAIN MODEL YEAR 2011 CHEVROLET CRUZE VEHICLES MANUFACTURED FROM OCTOBER 2, 2009, THROUGH APRIL 21, 2011.  THE BOLT ATTACHING THE INTERMEDIATE STEERING SHAFT TO THE STEERING GEAR INPUT SHAFT MAY NOT HAVE BEEN PROPERLY INSTALLED.",
+        "report_date": "06/05/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V360000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST",
+        "summary": "General Motors (GM) is recalling certain model year 2011-2012 Chevrolet Cruze vehicles equipped with 1.4L DOHC gasoline turbo engines and 6T40 front wheel drive automatic transmissions and equipped with an electric vacuum pump to provide supplemental vacuum for brake assist, when needed.  In the aff",
+        "report_date": "15/08/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:54:04.881Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

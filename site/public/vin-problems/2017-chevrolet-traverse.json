@@ -1,0 +1,144 @@
+{
+  "slug": "2017-chevrolet-traverse",
+  "year": 2017,
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 361,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 263,
+        "share_pct": 72.9,
+        "excerpts": [
+          "A scheduled airbag recall repair could not be completed because the dealership did not verify that the recall part was in stock before my appointment. I arrived for the recall service after confirming",
+          "THERE is a recall for the year, make and model for driver side airbag, also to do with transmission slipping and both of those I'm currently having issues with on my vehicle but with my vin its not co",
+          "Dealership Lead car GMC Utica, verified code B0074 passenger presence sensor/module, found module internally faulty verified power and ground. This puts safety at risk because the passenger side air b"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 25,
+        "share_pct": 6.9,
+        "excerpts": [
+          "THERE is a recall for the year, make and model for driver side airbag, also to do with transmission slipping and both of those I'm currently having issues with on my vehicle but with my vin its not co",
+          "Sometimes my backup camera will not show a screen. I have considerable amount of trouble trying to connect my phone to the car. Hands down can I use the GPS on the car. Lights do not come on my dashbo",
+          "There is a transmission recall for 2009 to 2017 Chevrolet traverses. My traverse has the exact same transmission and engine as the recall but for some reason GM decided not to add my Vin to the recall"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 22,
+        "share_pct": 6.1,
+        "excerpts": [
+          "The driver door main window control panel and steering wheel, where the airbags seem to deploy from, have both had to be repaired/recalled parts installed on multiple occasions however the main window",
+          "While driving my entire dashboard goes dark and once I shut my car off it did not start again. Brought it to the mechanic who is rated as 5 stars, to have no codes come up. He has been looking for the",
+          "Sometimes my backup camera will not show a screen. I have considerable amount of trouble trying to connect my phone to the car. Hands down can I use the GPS on the car. Lights do not come on my dashbo"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 18,
+        "share_pct": 5,
+        "excerpts": [
+          "Transmission body throttle and TCM had to be replaced a year after purchase because of failing shifts, reverse failed to work completely.",
+          "THERE is a recall for the year, make and model for driver side airbag, also to do with transmission slipping and both of those I'm currently having issues with on my vehicle but with my vin its not co",
+          "The transmission is going out at 107K miles and needs to be completely replaced for around $8500 (see attached quote). It has a shudder and has a hard time shifting into third gear. This is a known is"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 12,
+        "share_pct": 3.3,
+        "excerpts": [
+          "The driver door main window control panel and steering wheel, where the airbags seem to deploy from, have both had to be repaired/recalled parts installed on multiple occasions however the main window",
+          "I have owned GM vehicles approximately 50 years and have never had brake issues on a vehicle in any of those years. I have always purchased new vehicles and the vehicle was/is a one person ownership. ",
+          "The electrical in the car is bad. I know others with Chevrolets and are having the same issue. The power windows nor  doors work on my passenger side with the key or door controls.  Also their is a sq"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 13,
+      "fires": 2,
+      "injuries": 11,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 13
+      },
+      {
+        "year": 2018,
+        "count": 21
+      },
+      {
+        "year": 2019,
+        "count": 14
+      },
+      {
+        "year": 2020,
+        "count": 15
+      },
+      {
+        "year": 2021,
+        "count": 8
+      },
+      {
+        "year": 2022,
+        "count": 11
+      },
+      {
+        "year": 2023,
+        "count": 159
+      },
+      {
+        "year": 2024,
+        "count": 92
+      },
+      {
+        "year": 2025,
+        "count": 16
+      },
+      {
+        "year": 2026,
+        "count": 12
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "21V782000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors, LLC (GM) is recalling certain 2008-2017 Buick Enclave and 2013-2017 Chevrolet Traverse vehicles.  The driver's air bag inflator may explode during deployment, due to a manufacturing defect.",
+        "report_date": "07/10/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V246000",
+        "component": "AIR BAGS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2015, 2017 Buick Enclave, 2010-2019 Chevrolet Traverse, and 2011-2016 GMC Acadia vehicles.  The side curtain air bags may not be properly attached.",
+        "report_date": "08/04/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V334000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014-2017 Buick Enclave, Chevrolet Traverse, and GMC Acadia vehicles.  The driver's air bag inflator may explode during deployment, due to a manufacturing defect.",
+        "report_date": "10/05/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:04.952Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

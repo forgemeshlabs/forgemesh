@@ -1,0 +1,232 @@
+{
+  "slug": "2009-honda-pilot",
+  "year": 2009,
+  "make": "Honda",
+  "model": "Pilot",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 134,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 35,
+        "share_pct": 26.1,
+        "excerpts": [
+          "Serpentine belt tensioner bolt keeps snapping and or breaking has been replaced 3 times now. Research shows at least 10 years of part being defective.",
+          "See attached document for complaint",
+          "My 2009 Honda Pilot has 188,793 miles, I barely drive the vehicle and it need Piston Rings.  I'm aware that this is a common problem with the 2009 Honda Pilots.  I do not have $3,000.  to just give to"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 29,
+        "share_pct": 21.6,
+        "excerpts": [
+          "DTC code 12-51 passenger air bag is on OBD. have not gone to dealership. been on for several years.",
+          "I bought this car from Nalley Honda. After that I drove back to Birmingham. On my way airbag alarm pops up. Now they says I have to pay for this. But why should I pay for an safety issue as they shoul",
+          "STARTED NOTICING THAT SOMETIMES THE PASSENGER SIDE AIRBAG SAYS IT'S OFF ALTHOUGH SOMEONE IS SITTING THERE. NOW, THE AIRBAG WARNING LIGHT IS ON. I'VE ATTACHED A PHOTO."
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 19,
+        "share_pct": 14.2,
+        "excerpts": [
+          "ON JULY 29, 2020 I PURCHASED A VEHICLE FROM CROWN NISSAN OF GREENVILLE. THEY STATED THAT THE VEHICLE HAD A SAFETY INSPECTION AND THAT THERE WAS NOTHING WRONG WITH THE VEHICLE AND ALL THAT NEEDED WAS A",
+          "I WAS INFORMED BY DEALER THAT MY COMPLIANCE BUSHINGS WERE LEAKING AND NEEDED REPAIR.  FOUND THERE'S WAS A BULLETIN PUT OUT BY HONDA, BUT I WAS NEVER CONTACTED.  SPOKE TO A HONDA REP THAT SAID THEY ARE",
+          "AT 72,563 MILES I EXPERIENCED VIBRATION AND A GROWLING NOISE FROM THE RIGHT FRONT OF THE VEHICLE AT ALL SPEEDS. THE RIGHT FRONT WHEEL BEARING WAS REPLACED TO FIX THE PROBLEM."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 15,
+        "share_pct": 11.2,
+        "excerpts": [
+          "The contact owns a 2009 Honda Pilot. The contact stated that while his wife was driving at 45 MPH, the brake pedal failed to operate as needed upon depression as his wife crashed a vehicle that stoppe",
+          "The contact owns a 2009 Honda Pilot. The contact stated that while his wife was driving at 45 MPH, the brake pedal failed to operate as needed upon depression as his wife crashed a vehicle that stoppe",
+          "ON JULY 29, 2020 I PURCHASED A VEHICLE FROM CROWN NISSAN OF GREENVILLE. THEY STATED THAT THE VEHICLE HAD A SAFETY INSPECTION AND THAT THERE WAS NOTHING WRONG WITH THE VEHICLE AND ALL THAT NEEDED WAS A"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 13,
+        "share_pct": 9.7,
+        "excerpts": [
+          "THE STEERING WHEEL ON MY 2009 HONDA PILOT VIBRATES EXCESSIVELY AT ANY SPEED OVER 50MPH.  I HAVE COMPLETELY REPLACED THE BRAKE ROTOR AND PADS WITH BRAND NEW PARTS.  IT IMPROVED SOMEWHAT, BUT DIDN'T ELI",
+          "THERE WAS A VEHICLE SAFETY LETTER SENT TO ME ABOUT MY CV JOINTS I TOOK THE CAR TO CULVER CITY HONDA IN SEPTEMBER YET HAVE THEY OR ANY HONDA REPAIRED MY CAR. WITH THE LETTER AND NOISE THE CAR IS MAKING",
+          "COMPLETE LOSS OF POWER STEERING WHILE STOPPED OR AT LOW SPEEDS (TRYING TO PULL INTO A PARKING SPACE) AND FRONT END/STEERING COLUMN SHAKING WHILE BREAKING AT 60 MPH. I WAS TOLD BY THE SERVICE REP AT TH"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 4,
+      "injuries": 12,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 1
+      },
+      {
+        "year": 2008,
+        "count": 2
+      },
+      {
+        "year": 2009,
+        "count": 11
+      },
+      {
+        "year": 2010,
+        "count": 5
+      },
+      {
+        "year": 2011,
+        "count": 8
+      },
+      {
+        "year": 2012,
+        "count": 5
+      },
+      {
+        "year": 2013,
+        "count": 14
+      },
+      {
+        "year": 2014,
+        "count": 13
+      },
+      {
+        "year": 2015,
+        "count": 16
+      },
+      {
+        "year": 2016,
+        "count": 26
+      },
+      {
+        "year": 2017,
+        "count": 6
+      },
+      {
+        "year": 2018,
+        "count": 6
+      },
+      {
+        "year": 2019,
+        "count": 5
+      },
+      {
+        "year": 2020,
+        "count": 5
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 1
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "18V268000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2003-2012 Honda Accord and Pilot, 2010 Accord Crosstour, 2001-2011 Civic, 2002-2011 CR-V, 2003-2004, 2006-2008 and 2011 Element, 2007 and 2009-2013 Fit, 2010-2012 Insight, 2002-2004 Odyssey, and 2012 Ridgeline vehicles.  The front passenger air b",
+        "report_date": "26/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V502000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2014 TSX Sport Wagon, 2010-2013 ZDX, 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic and Civic Hybrid, 2008-2010 Civic GX NGV, 2012-2015 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2014 Fit EV, 2010-201",
+        "report_date": "27/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V378000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2013 TSX Sport Wagon, and 2010-2012 ZDX and 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic, Civic Hybrid and Civic NGV, 2012-2014 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2010-2013 Insight, and 2009",
+        "report_date": "16/05/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V545000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2008-2012 Accord, 2010-2012 Accord Crosstour, 2006-2011 Civic, 2007-2011 CR-V, 2009-2012 Fit and Pilot, 2010-2012 Insight, and 2009-2012 Acura TSX vehicles that received replacement passenger frontal air bag inflators.  One dealership may have in",
+        "report_date": "31/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V042000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2010-2013 Acura TSX, ZDX, Honda Accord Crosstour, Fit, Insight and Pilot vehicles, 2011-13 Acura TSX Sportswagon, 2010-2012 Honda Accord,, 2010-2011 Honda Civic, Civic NGV, Civic Hybrid and CR-V vehicles and 2013 Honda FCX Clarity and Fit EV vehi",
+        "report_date": "09/01/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V030000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2012 Acura TSX, 2011-2012 Acura TSX Wagon, 2010-2012 Acura ZDX, 2008-2012 Honda Accord, 2010-2012 Honda Accord Crosstour and Honda Insight, 2009-2012 Honda Fit, 2009-2012 Pilot, 2007-2011 Honda CR-V, 2012 Honda FCX Clarity and 2006-2011 Hond",
+        "report_date": "10/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V346000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2009-2011 Acura TSX, 2011 TSX Wagon, 2010-2011 Acura ZDX, 2008-2011 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic, Civic Hybrid, and Civic GX, 2007-2011 CR-V, 2010-2011 FCX Clarity and Insight, and 2009-2011 Fit, and Pilot ",
+        "report_date": "24/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V468000",
+        "component": "SEAT BELTS:FRONT:WEBBING",
+        "summary": "HONDA IS RECALLING CERTAIN MODEL YEAR 2009-2011 PILOT VEHICLES MANUFACTURED FROM MARCH 13, 2008, THROUGH AUGUST 30, 2011.  THERE IS A POSSIBILITY THAT THE STITCHING THAT SECURES THE END OF THE DRIVER AND FRONT PASSENGER LAP SECTION OF THE SEATBELT MAY BE INCOMPLETE OR MISSING.",
+        "report_date": "09/09/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V016000",
+        "component": "AIR BAGS",
+        "summary": "Honda is recalling certain model year 2009-2013 Pilot and 2011-2013 Odyssey passenger vehicles manufactured from March 13, 2008, through December 21, 2012.  One or more rivets that attach the airbag module to the airbag cover may be missing.",
+        "report_date": "18/01/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:49:50.720Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

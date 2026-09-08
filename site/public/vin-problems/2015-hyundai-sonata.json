@@ -1,0 +1,220 @@
+{
+  "slug": "2015-hyundai-sonata",
+  "year": 2015,
+  "make": "Hyundai",
+  "model": "Sonata",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1142,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 621,
+        "share_pct": 54.4,
+        "excerpts": [
+          "The engine failed due to the known recall defect, dealer confirmed loss of compression in cylinders 2 & 4. I am a federal employee stationed overseas on official duty orders, and Hyundai Motor America",
+          "Engine locked up, crank bearing failure, found out there is known failures with this problem and Hyundai had a class action suit against them in the past and issued lifetime warranty for this engine d",
+          "I bought this car new in 2015, when I was at 97000 miles they had to replace the motor and turbo, I am now at 155844 and they are telling me that basically all 4 cylinders have low compression, cylind"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 167,
+        "share_pct": 14.6,
+        "excerpts": [
+          "1.) Following Hyundai's 9C2 Campaign update for the ECU that was completed back on May 27th, 2026, my 2015 Sonata went into limp mode [solid check engine light present] while I was accelerating up an ",
+          "This vehicle had a recall, 201, for the smart junction box.   This was due to the blinkers not working properly.   The software update was performed, however, the problem still exists.   This was due ",
+          "Odometer Fraud. The contact purchased a 2015 Hyundai Sonata. The vehicle was a private sale. The vehicle was purchased on March 1, 2026. The mileage at the time of the purchase was 41,486. The vehicle"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 133,
+        "share_pct": 11.6,
+        "excerpts": [
+          "VEHICLE: 2015 Hyundai Sonata, 2.4L Theta II GDI engine Mileage at time of incident: [ 93k Date update performed: June 2026 Dealer/location where update was performed: Fitzgerald Hyundai Gaithersburg, ",
+          "The incident began following a routine maintenance visit on March 16, 2026, and has been a continuous, ongoing safety hazard every single day since. While the vehicle was in for routine brake service ",
+          "Car stopped in the middle of the road , with warning beeps and warning messages on the dashboard saying \"Check Charging System\" .Engine was still running but even though I did accelerate - car did not"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 76,
+        "share_pct": 6.7,
+        "excerpts": [
+          "Brake lights not working properly.",
+          "I have the 2015 Hyundai sonata with the 2.5 GDI engine that eventually will seize due to internal damaged caused by manufacture design flaws. My Hyundai threw a P0010 code which causes my car to idle ",
+          "I was turning into a parking spot and the car accelerated unexpectedly. I slammed into a snow bank and my front bumper was damaged."
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 74,
+        "share_pct": 6.5,
+        "excerpts": [
+          "Issue- fuel pump/supply line causing fuel to leak and fuel smell around the outside of the car.  This can cause a major fire, explosion, death for myself and others around me.  Problem has been confir",
+          "1.) Following Hyundai's 9C2 Campaign update for the ECU that was completed back on May 27th, 2026, my 2015 Sonata went into limp mode [solid check engine light present] while I was accelerating up an ",
+          "I have the 2015 Hyundai sonata with the 2.5 GDI engine that eventually will seize due to internal damaged caused by manufacture design flaws. My Hyundai threw a P0010 code which causes my car to idle "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 34,
+      "fires": 48,
+      "injuries": 32,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2006,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 6
+      },
+      {
+        "year": 2015,
+        "count": 58
+      },
+      {
+        "year": 2016,
+        "count": 72
+      },
+      {
+        "year": 2017,
+        "count": 74
+      },
+      {
+        "year": 2018,
+        "count": 85
+      },
+      {
+        "year": 2019,
+        "count": 125
+      },
+      {
+        "year": 2020,
+        "count": 93
+      },
+      {
+        "year": 2021,
+        "count": 120
+      },
+      {
+        "year": 2022,
+        "count": 171
+      },
+      {
+        "year": 2023,
+        "count": 115
+      },
+      {
+        "year": 2024,
+        "count": 80
+      },
+      {
+        "year": 2025,
+        "count": 82
+      },
+      {
+        "year": 2026,
+        "count": 57
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "16V726000",
+        "component": "VISIBILITY:SUN/MOON ROOF ASSEMBLY",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain model year 2015-2016 Sonata Hybrid vehicles manufactured December 8, 2014, to August 18, 2015, and Hyundai Sonata vehicles manufactured May 28, 2014, to March 18, 2016, equipped with the panoramic sunroof option.  Due to a bonding issue with the s",
+        "report_date": "11/10/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V359000",
+        "component": "PARKING BRAKE:INDICATOR LIGHT",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2015-2016 Sonata and Genesis vehicles.  In the affected vehicles, the warning light to indicate that the parking brake is applied may intermittently not illuminate in the dash due to corrosion in the switch.",
+        "report_date": "05/06/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V232000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2015-2016 Sonata vehicles manufactured May 29, 2014 to February 11, 2016, 2017 Elantra vehicles manufactured January 12, 2016 to February 22, 2016, and one 2016 Sonata Hybrid vehicle manufactured October 15, 2015.  In these vehicles, th",
+        "report_date": "21/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V678000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain model year 2015-2016 Sonata vehicles manufactured May 28, 2014, to August 21, 2015. The affected vehicles are equipped with an Antilock Braking System (ABS) warning light intended to warn the driver if there is an ABS malfunction. In the event of ",
+        "report_date": "20/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V414000",
+        "component": "SEAT BELTS:FRONT:BUCKLE ASSEMBLY",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain model year 2015 Sonata vehicles manufactured April 25, 2014, to December 4, 2014. The affected vehicles have a front passenger seat belt whose buckle latch assembly may prevent the front passenger from fastening the seat belt.",
+        "report_date": "30/06/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V368000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2015 Sonata vehicles manufactured April 25, 2014, through June 16, 2014.  Due to a manufacturing error, one or both of the front brake calipers may fracture.",
+        "report_date": "24/06/2014",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V325000",
+        "component": "STEERING",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2015 Sonata vehicles manufactured May 2, 2014, through May 23, 2014.  A poor connection within the vehicle's wiring harness may result in a reduction of steering assist from the vehicle's motor driven power steering system or the inabil",
+        "report_date": "12/06/2014",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V784000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 1.6 liter model year 2015 Sonata vehicles manufactured August 29, 2014, to October 28, 2014.  The affected vehicles may have been assembled with an incorrect left axle shaft which may result in the shaft separating from the transaxle differential.",
+        "report_date": "09/12/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V749000",
+        "component": "EXTERIOR LIGHTING:TURN SIGNAL",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2015-2017 Sonata, 2016-2017 Sonata Hybrid, and Sonata Plug-In Hybrid vehicles.  The Smart Junction Box (SJB) software logic may not properly interpret the signals received from the multifunction switch, which could cause the turn signal to activat",
+        "report_date": "24/09/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:05.733Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

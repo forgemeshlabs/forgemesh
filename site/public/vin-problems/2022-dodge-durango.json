@@ -1,0 +1,156 @@
+{
+  "slug": "2022-dodge-durango",
+  "year": 2022,
+  "make": "Dodge",
+  "model": "Durango",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 56,
+    "top_failure_components": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 25,
+        "share_pct": 44.6,
+        "excerpts": [
+          "Taillight is retaining water and causing my taillights to go out. This is a very well known issue as the dealer was aware of this issue with a lot of Durangos. The dealer offered no repair as there’s ",
+          "Vehicle Headlight with built in DRL and Ambiant Turn signal with only 7779 miles on the dashboard, purchased brand new in 2023",
+          "I own a 2022 Dodge Durango. During normal loading and unloading of cargo with the liftgate open, I have sustained three separate lacerations to my forearm and wrist from the exposed, sharp inside corn"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 11,
+        "share_pct": 19.6,
+        "excerpts": [
+          "Replaced batteries, and power steering went out, it put my vehicle out of alignment... I tried getting an alignment at local Firestone. Told me they could not connect to the angle sensors and that I n",
+          "Radio screens keep going bad causing the backup camera to not work until after a power cycle of the screen takes place. Sometimes a power cycle is not possible and the screen take a minute or two to t",
+          "My driver side front LED turn signal has failed after 42,890 miles. My safety and others safety is affected as my drivers side front LED turn signal is no longer functioning which makes it hard for ot"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 10,
+        "share_pct": 17.9,
+        "excerpts": [
+          "Vehicle engine shut off while driving approximately 50mph.  No prior issues or warning lamps.  The failure happened without any warning.  I had over half a tank of fuel at the time of the stall.  Loss",
+          "While enroute to a priority call our officer experienced a catastrophic engine failure.  Said vehicle was in the day before for brakes, and our mechanic always does PM to include a check of coolant fl",
+          "Car having trouble starting, turns over with a long crank then doesn’t start. Cranks on the second time"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 9,
+        "share_pct": 16.1,
+        "excerpts": [
+          "Vehicle will not shift into drive. This issue is similar to the ZB3 problem. Improperly heat treated shifter parts failed and will not allow the transmission to shift into drive.",
+          "Vehicle engine shut off while driving approximately 50mph.  No prior issues or warning lamps.  The failure happened without any warning.  I had over half a tank of fuel at the time of the stall.  Loss",
+          "While enroute to a priority call our officer experienced a catastrophic engine failure.  Said vehicle was in the day before for brakes, and our mechanic always does PM to include a check of coolant fl"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 8,
+        "share_pct": 14.3,
+        "excerpts": [
+          "Vehicle engine shut off while driving approximately 50mph.  No prior issues or warning lamps.  The failure happened without any warning.  I had over half a tank of fuel at the time of the stall.  Loss",
+          "My Durango has been in and out the shop since May. It was the fuel pump and everything connected to it which is a pain in the rear. Also the design of the taillight should be assessed as well. It’s ve",
+          "Car having trouble starting, turns over with a long crank then doesn’t start. Cranks on the second time"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 1,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 7
+      },
+      {
+        "year": 2024,
+        "count": 10
+      },
+      {
+        "year": 2025,
+        "count": 24
+      },
+      {
+        "year": 2026,
+        "count": 9
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "22V140000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2019-2022 Ram 2500 and 2021-2022 Dodge Durango vehicles, and 2019-2022 3500 cab chassis with GVWR less than 10,000 lbs.  The ABS control module software may prevent the electronic stability control (ESC) malfunction indicator light from illuminating during",
+        "report_date": "10/03/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V154000",
+        "component": "STEERING:RACK AND PINION",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2022 Dodge Durango and 2022 Jeep Grand Cherokee vehicles.  The steering gear rack bar may have been insufficiently hardened during manufacturing, possibly allowing it to bind within the steering rack, and resulting in difficulty steering or a loss of ",
+        "report_date": "14/03/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V866000",
+        "component": "POWER TRAIN:MANUAL TRANSMISSION:COLUMN SHIFT ASSEMBLY",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2022 Dodge Charger and Durango vehicles.  The shifter assembly was not properly heat-treated, which can prevent the shifter from properly engaging in the \"drive\" position.",
+        "report_date": "23/11/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V115000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2023 Dodge Durango vehicles.  The rear spoiler may not be aligned properly with the roof, resulting in damage to the spoiler during liftgate use.",
+        "report_date": "23/02/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V415000",
+        "component": "ELECTRONIC STABILITY CONTROL (ESC):CONTROL MODULE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2022 Dodge Durango and Ram 2500 and 3500 vehicles.  Due to a software malfunction, the ABS control module may disable the electronic stability control system.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Sta",
+        "report_date": "06/06/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V436000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2022 Dodge Durango, 2021-2023 Chrysler Pacifica, Jeep Grand Cherokee L, 2022 Ram 1500, 2500, 3500, Chrysler Voyager, 2022-2023 Jeep Compass, Grand Cherokee, Wagoneer, Grand Wagoneer, and Ram Promaster vehicles.  The radio software may prevent the rear",
+        "report_date": "13/06/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V528000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2023 Dodge Durango vehicles. The rear spoiler may not be aligned properly with the roof, possibly resulting in damage to the spoiler during liftgate use.",
+        "report_date": "13/08/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:09:00.302Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

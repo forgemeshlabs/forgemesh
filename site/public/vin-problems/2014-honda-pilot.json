@@ -1,0 +1,168 @@
+{
+  "slug": "2014-honda-pilot",
+  "year": 2014,
+  "make": "Honda",
+  "model": "Pilot",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 116,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 31,
+        "share_pct": 26.7,
+        "excerpts": [
+          "The contact owns a 2014 Honda Pilot. The contact stated that while driving approximately 70 MPH, there was a loud pop coming from the engine department. The contact became aware of a severe drop in th",
+          "I own a 2014 Honda Pilot that experienced an engine misfire related to piston ring deterioration. An authorized Honda dealership diagnosed and documented qualifying engine misfire codes (P030X).  Afte",
+          "2014 Honda pilot touring--ENGINE-is running through oil faster than it should. The spark plugs/coil packs have all been replaced now. Starting with 1 an 3.I was driving down the road and it started st"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 20,
+        "share_pct": 17.2,
+        "excerpts": [
+          "My paint is peeling. I never had a vehicle with the paint peeling like this. Its color is white. What can be done about this? I have bought touch up paint to help stop the peeling but that didnt do so",
+          "Clear coat failing on roof and paint chipping bubbling away from body on tailgate without evidence of rust.  Reported to dealer and was told to contact American Honda Corp directly.",
+          "THE EXTERIOR PAINT STARTED PEELING BY THE SUNROOF THEN THE HOOD AND NOW BY THE BACK WINDOW. I HAVE SEEN A LOT OF 2014 HONDA PILOTS TOURING SAME AS MINE ALSO PEELING THE SAME SO THAT MEANS THERE IS SOM"
+        ]
+      },
+      {
+        "component": "WHEELS",
+        "complaints": 16,
+        "share_pct": 13.8,
+        "excerpts": [
+          "LEAKS IN TWO OF 4 PIRELLI SCORPION VERDE TIRES WERE DIAGNOSED BY MECHANIC AS PLY DELAMINATIONS CAUSING MULTIPLE PINHOLE LEAKS AND INDICATING A NEED FOR IMMEDIATE REPLACEMENT. I FOUND MULTIPLE REPORTS ",
+          "BOTH FRONT TIRE RIMS ON MY 2014 HONDA PILOT HAVE HAD TO BE REPLACED DUE TO CRACKED RIMS. THE LEFT FRONT RIM HAS BEEN REPLACED TWICE. THE RIGHT FRONT IS NOW CRACKED. THIS CAR IS DRIVEN UNDER NORMAL CON",
+          "WE HAVE HAD 3 CRACKS IN THE WHEEL OF THIS 2014 HONDA PILOT VEHICLE. OUR CAR IS GARAGED AT NIGHT AND IS DRIVEN TO WORK (PART TIME). THE FIRST WHEEL WENT BAD WITH A LEAKING CRACK ON 8/5/17, THE SECOND W"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 9,
+        "share_pct": 7.8,
+        "excerpts": [
+          "Component Involved: Engine Lubrication / Cylinder Head / Variable Valve Timing (VVT) Spool Valve (Solenoid Assembly) and Electrical Charging System (Alternator). Vehicle Affected Example: Honda vehicl",
+          "Odometer Fraud. The contact owns a 2014 Honda Pilot. The contact discovered a mileage discrepancy. The vehicle was a dealer sale. At the time of purchase, the mileage was 176,362. The vehicle became d",
+          "On [XXX], the Pilot auto-braked without cause while driving on the highway in Maryland.  All dash lights were illuminated so [XXX] pulled over.  The car seemed to be functioning including the brake sy"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 9,
+        "share_pct": 7.8,
+        "excerpts": [
+          "A little over 100K miles in my Honda and the ABS module has gone out. This part is over $2200 from Honda and on backorder. This is a known issue from Honda and yet, no recall. This unit is incredibly ",
+          "The ABS, brake, and traction control lights come on when the slightest bump in the road is hit. I am being told by the Honda dealership technician that the issue is a $2000.00 sensor that must be repl",
+          "THIS CAR HAS A SERIOUS SHAKING ISSUE WHEN BRAKING. THIS IS WELL DOCUMENTED AND HONDA HAS NOT RELEASED ANY RECALLS FOR THIS.     THIS CAR HAS A WELL KNOWN ISSUE WITH CONSUMING TOO MUCH OIL. MY CAR CONS"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 0,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 2
+      },
+      {
+        "year": 2014,
+        "count": 17
+      },
+      {
+        "year": 2015,
+        "count": 9
+      },
+      {
+        "year": 2016,
+        "count": 14
+      },
+      {
+        "year": 2017,
+        "count": 9
+      },
+      {
+        "year": 2018,
+        "count": 10
+      },
+      {
+        "year": 2019,
+        "count": 12
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 3
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 9
+      },
+      {
+        "year": 2024,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "18V661000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2014 Honda Insight and Acura TSX and TSX Wagon, 2014-2015 Honda Crosstour and Pilot vehicles nationwide, as well as certain 2014 Honda FCX Clarity and Fit EV vehicles in Florida, Hawaii, Puerto Rico, Texas, Alabama, Georgia, Louisiana, Mississipp",
+        "report_date": "27/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V502000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2014 TSX Sport Wagon, 2010-2013 ZDX, 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic and Civic Hybrid, 2008-2010 Civic GX NGV, 2012-2015 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2014 Fit EV, 2010-201",
+        "report_date": "27/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V378000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2013 TSX Sport Wagon, and 2010-2012 ZDX and 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic, Civic Hybrid and Civic NGV, 2012-2014 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2010-2013 Insight, and 2009",
+        "report_date": "16/05/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:58:24.310Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

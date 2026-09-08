@@ -1,0 +1,152 @@
+{
+  "slug": "2016-subaru-forester",
+  "year": 2016,
+  "make": "Subaru",
+  "model": "Forester",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 411,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 98,
+        "share_pct": 23.8,
+        "excerpts": [
+          "Vehicle reported an SRS Passenger problem intermittently, as displayed on the dashboard, the car's information system, and a diagnostic trouble code (the car's aftermarket radio is connected to the OB",
+          "Airbag light is now consistently lit, Has come on & off for some time. when it first happened, I went straight to the dealership & a technician placed a device under the dashboard on the driver's side",
+          "SRS airbag error warning appears randomly when driving. It turns off passenger side airbags with a passenger in the seat and makes it unsafe to drive. Narrowing it down to the wiring harness seems to "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 93,
+        "share_pct": 22.6,
+        "excerpts": [
+          "Problem: Recall for passenger side airbag malfunction in heated seats for my model year. Manufacturer has said they addressed the recall but they have not. My car and thousands of others are unsafe fo",
+          "Passenger Occupant Detection System is malfunctioning. It is not registering a passenger in the seat, and in turn not turning the passenger airbag on when the seat is occupied.   This puts any passnge",
+          "I had my foot on the brake, opened the garage door with my garage door opener, and before I took my foot off the brake the car surged, jumped, and smashed into the brick wall next to the garage. I did"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 60,
+        "share_pct": 14.6,
+        "excerpts": [
+          "Subaru Forrester was misfiring and sputtering as if it was going to stop running.  The car was shaking. Had car towed to Subaru dealer for Service. At first we thought Spark Plugs and Ignition Coils b",
+          "My car has required multiple jumps and batteries, since I bought it new. I have records of the services for jumps, and new batteries. The car continues to have a parasitic battery drain, that has caus",
+          "While driving my 2016 Subaru Forester about 70mph on [XXX] , the engine suddenly stalled and I was stranded on the freeway. The fuel tank was about 3/4 full and no warning light flashed in the dashboa"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 49,
+        "share_pct": 11.9,
+        "excerpts": [
+          "When I drove the car, All most all light on the dashboard are on onthe road, and when I stop and tried to go, the car is somewhat not controled. I immidieatly went to dealership and dignosed P2764 CVT",
+          "I bought the car between 82-90K miles. Not long after I noticed when I was at an intersection and went from a stopped position to accelerating it would barely go. Spent over a lot to fix it and the gu",
+          "THIS VEHICLE IS NOT SAFE TO DRIVE SINCE SUBARU COULD NOT REPLICATE THE ORIGINAL OVERHEATING PROBLEM IN THE TRANSMISSION. THEY MADE AN EDUCATED GUESS REPAIR  TO SEE IF IT FIXES THE OVERHEATING PROBLEMS"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 37,
+        "share_pct": 9,
+        "excerpts": [
+          "Vehicle self-accelerated abruptly while parked and crashed into another vehicle causing damage to both vehicles",
+          "When the car accelerates to around 70 mph, the right front side starts to shake and vibrate, giving the impression of driving on a bumpy road. The issue becomes noticeably worse when changing lanes to",
+          "Acceleration issues, this is the 3rd time it has happened since we've owned our forester in 2018. Yesterday morning my wife was pulling out of our driveway and while she put it in reverse and started "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 39,
+      "fires": 3,
+      "injuries": 16,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2015,
+        "count": 8
+      },
+      {
+        "year": 2016,
+        "count": 38
+      },
+      {
+        "year": 2017,
+        "count": 25
+      },
+      {
+        "year": 2018,
+        "count": 43
+      },
+      {
+        "year": 2019,
+        "count": 75
+      },
+      {
+        "year": 2020,
+        "count": 62
+      },
+      {
+        "year": 2021,
+        "count": 32
+      },
+      {
+        "year": 2022,
+        "count": 35
+      },
+      {
+        "year": 2023,
+        "count": 42
+      },
+      {
+        "year": 2024,
+        "count": 24
+      },
+      {
+        "year": 2025,
+        "count": 18
+      },
+      {
+        "year": 2026,
+        "count": 9
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "19V149000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2014-2016 Forester, 2008-2016 Impreza sedans, 2012-2016 Impreza station wagons, 2008-2014 WRX sedans (including STI), and 2013-2017 Crosstrek vehicles.  Exposure to certain contaminants may cause the brake light switch to malfunction, preventing ",
+        "report_date": "28/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V701000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2015-2018 Forester vehicles equipped with heated seats.  An electrical connection in the front passenger seat for the Occupant Detection System (ODS) may loosen.",
+        "report_date": "03/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V162000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:GASOLINE:TURBO/SUPERCHARGER",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain model year 2015-2016 WRX vehicles manufactured April 10, 2015, to October 21, 2015, and Forester 2.0XT vehicles manufactured April 10, 2015, to October 20, 2015.  The turbocharger air intake duct may crack and possibly result in an engine stall.",
+        "report_date": "21/03/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:28.745Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

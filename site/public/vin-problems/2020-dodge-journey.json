@@ -1,0 +1,116 @@
+{
+  "slug": "2020-dodge-journey",
+  "year": 2020,
+  "make": "Dodge",
+  "model": "Journey",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 64,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 19,
+        "share_pct": 29.7,
+        "excerpts": [
+          "When starting my car and turning on my air or heat component the front will turn on but the components in the middle won’t! You have to hit the panel to make it turn on and when your driving the middl",
+          "The wiring harness for back hatch the coating of the wire are all cracking . The passenger side rear back up light wasn’t working and the harness is cracking the wiring when opening and closing the ha",
+          "Backup camera has been recalled several months ago but no remedy has been made yet. I’ve also noticed when I turn on the wipers my screens including the dash and entertainment go dark and barely visib"
+        ]
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "complaints": 13,
+        "share_pct": 20.3,
+        "excerpts": [
+          "The contact owns a 2020 Dodge Journey. The contact stated that while reversing the vehicle, the rear-view camera was inverted. The contact received notification of NHTSA Campaign Number: 25V552000 (Ba",
+          "The contact owns a 2020 Dodge Journey. The contact stated that while reversing at an undisclosed speed, the rearview camera image was intermittently flipped, distorted, and inoperative. No warning lig",
+          "The contact owns a 2020 Dodge Journey. The contact received notification of NHTSA Campaign Number: 25V552000 (Back Over Prevention); however, the part for the repair was unavailable. The contact state"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 8,
+        "share_pct": 12.5,
+        "excerpts": [
+          "I am filing this complaint to report a repeated safety-related defect involving the engine thermostat in my 2020 Dodge Journey and to formally request an investigation by the NHTSA Office of Defects I",
+          "Driving on highway 26 at 70 miles in Newberry, SC, the truck hesitated and cut of stalled, was able to get it of the road before it died, push the button to try to start, Engine light came on and dash",
+          "The contact owns a 2020 Dodge Journey. The contact stated that while driving at an undisclosed speed, the vehicle hesitated and then lost motive power, with the check engine warning light illuminated "
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 5,
+        "share_pct": 7.8,
+        "excerpts": [
+          "If you turn the air or heat off it turns itself back on. Sometimes none of the botton on the dash responds to any command including turning the radio air or anything off or on.",
+          "Passenger side headlight which is a sealed headlight has moisture creating dimmed visibility a night -how does a sealed headlight get moisture in it unless it’s defective - the car only had 23,000 mil",
+          "My 2020 Dodge Journey has a persistent issue with the passenger-side headlight. Despite multiple bulb replacements, the problem continues, leading to failure of vehicle inspections. Three independent "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 4,
+        "share_pct": 6.3,
+        "excerpts": [
+          "The car has 40k miles on it with the extended power train warranty. On [XXX], I drove into Phoenix, AZ 35 minute drive from my home in Buckeye, AZ. As I turned down a road, I heard a \"klink\" and the e",
+          "The contact owns a 2020 Dodge Journey. The contact stated that while his wife was driving 50 MPH, the check engine, Service Park Assist, and the TPMS warning lights were illuminated. The contact’s wif",
+          "In July of 2024 I had to brake to avoid striking a deer.  My ABS and Traction Control light came on in the dash, and my cruise control stopped working.  I took the vehicle to the dealership and they s"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 1,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 8
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 10
+      },
+      {
+        "year": 2024,
+        "count": 17
+      },
+      {
+        "year": 2025,
+        "count": 20
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "25V552000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2019-2021 Ram ProMaster and 2019-2020 Dodge Journey vehicles. Cracks in the microprocessor may cause the vehicle's rearview camera image not to display properly. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety S",
+        "report_date": "26/08/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:05:05.273Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

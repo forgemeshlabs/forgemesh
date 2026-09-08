@@ -1,0 +1,118 @@
+{
+  "slug": "2021-nissan-frontier",
+  "year": 2021,
+  "make": "Nissan",
+  "model": "Frontier",
+  "matched_as": {
+    "complaints": [
+      "FRONTIER KING CAB",
+      "FRONTIER CREW CAB"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 34,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 8,
+        "share_pct": 23.5,
+        "excerpts": [
+          "I [XXX]  PURCHASED THE VEHICLE FROM DAYTONA, NISSAN ON [XXX] ON THE MORNING OF [XXX], THE AIRBAG LIGHT CAME ON. AND WAS FLASHING. I TOOK VIDEOS OF ALL THE DIFFERENT OCCURRENCES.I WENT BACK TO THE DEAL",
+          "The contact owns a 2021 Nissan Frontier. The contact stated while attempting to start the vehicle with the brake pedal depressed all the way to the floorboard, the contact heard an abnormal sound comi",
+          "The contact owns a 2021 Nissan Frontier. The contact stated while attempting to start the vehicle, the vehicle failed to start as intended. After several attempts, the contact was able to start the ve"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 8,
+        "share_pct": 23.5,
+        "excerpts": [
+          "The contact owns a 2021 Nissan Frontier. The contact stated while driving 35 MPH, several unknown warning lights illuminated. The contact stated that an independent mechanic was contacted. The vehicle",
+          "The Vehicle hesitates when taking of from a stand still of from switching lanes from a stop. The Transmission is trying to switch from a stop causing the Vehicle to have no power of RPM's on the Torqu",
+          "The contact owns a 2021 Nissan Frontier. The contact received notification of NHTSA Campaign Number: 22V457000 (Power Train) however, the part to do the recall repair was not yet available. The local "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 6,
+        "share_pct": 17.6,
+        "excerpts": [
+          "I [XXX]  PURCHASED THE VEHICLE FROM DAYTONA, NISSAN ON [XXX] ON THE MORNING OF [XXX], THE AIRBAG LIGHT CAME ON. AND WAS FLASHING. I TOOK VIDEOS OF ALL THE DIFFERENT OCCURRENCES.I WENT BACK TO THE DEAL",
+          "When someone is sitting in passenger seat the light for their airbag blinks, is on or off. So we are unsure if the airbag would in fact deploy if we were to be in a collision.",
+          "The contact owns a 2021 Nissan Frontier. The contact stated while driving 75 MPH, the air bag warning light illuminated and was flashing. The contact continued driving to his residence. The following "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 6,
+        "share_pct": 17.6,
+        "excerpts": [
+          "I [XXX]  PURCHASED THE VEHICLE FROM DAYTONA, NISSAN ON [XXX] ON THE MORNING OF [XXX], THE AIRBAG LIGHT CAME ON. AND WAS FLASHING. I TOOK VIDEOS OF ALL THE DIFFERENT OCCURRENCES.I WENT BACK TO THE DEAL",
+          "Transmission in Park Nissan sent notice truck could roll away.  Radio turns self on and off 2-3 times after starting vehicle no lights or messages show up Cell phone bluetooth won't work",
+          "Descending my driveway which is an approximately 15 degree slope with the transmission selected to remain in 1st gear, and approximately one third of a tank of fuel or less remaining in the fuel tank "
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 2,
+        "share_pct": 5.9,
+        "excerpts": [
+          "The contact owns a 2021 Nissan Frontier. The contact stated while attempting to start the vehicle, the vehicle failed to start as intended. After several attempts, the contact was able to start the ve",
+          "The contact owns a 2021 Nissan Frontier. The contact stated while attempting to start the vehicle, the vehicle failed to start as intended. After several attempts, the contact was able to start the ve"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 0,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 8
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 10
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "22V457000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2020-2022 Frontier and Titan vehicles.  The transmission parking pawl may not engage when the vehicle is shifted into park, which can result in a vehicle rollaway.",
+        "report_date": "24/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V671000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2020-2023 Titan, 2020-2022 Frontier, and 2023 Z vehicles.  The transmission parking pawl may not engage when the vehicle is shifted into park, which can result in a vehicle rollaway.",
+        "report_date": "07/09/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:07:17.812Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

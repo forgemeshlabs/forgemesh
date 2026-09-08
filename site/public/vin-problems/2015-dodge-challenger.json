@@ -1,0 +1,180 @@
+{
+  "slug": "2015-dodge-challenger",
+  "year": 2015,
+  "make": "Dodge",
+  "model": "Challenger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 126,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 29,
+        "share_pct": 23,
+        "excerpts": [
+          "The vehicle's engine has suffered a catastrophic internal failure at approximately 56,000 miles. The engine is the 6.4-liter HEMI V8.  The issue began with a loud ticking noise from the engine. I brou",
+          "42,000 miles drive shaft failure. Dealer stated drive shaft is ready to fall off. Completely stock vehicle,  1 owner.",
+          "One day after driving home from work there was a message that says low battery voltage on the instrument panel, then it went away. No other warning lights or problems. Ten more miles down the road the"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 26,
+        "share_pct": 20.6,
+        "excerpts": [
+          "The vehicle's engine has suffered a catastrophic internal failure at approximately 56,000 miles. The engine is the 6.4-liter HEMI V8.  The issue began with a loud ticking noise from the engine. I brou",
+          "My SHIFTER is messing up again recall U4 i believe and my its a recall on my vehicle ive had this vehicle for 2 years they stated the previous owner already had repaired but im imforming them i am sti",
+          "One day after driving home from work there was a message that says low battery voltage on the instrument panel, then it went away. No other warning lights or problems. Ten more miles down the road the"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 26,
+        "share_pct": 20.6,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2015 Dodge Challenger. The contact then discovered that there was a mileage discrepancy. The vehicle was a dealer sale. At the time of purchase, the vehicle mil",
+          "My SHIFTER is messing up again recall U4 i believe and my its a recall on my vehicle ive had this vehicle for 2 years they stated the previous owner already had repaired but im imforming them i am sti",
+          "One day after driving home from work there was a message that says low battery voltage on the instrument panel, then it went away. No other warning lights or problems. Ten more miles down the road the"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 12,
+        "share_pct": 9.5,
+        "excerpts": [
+          "The back up camera cuts on and off and doesn’t work most of the time and then my abs and traction control light comes on and off",
+          "2015 challenger, wheel speed sensor failures starting at year two. Have replaced wheel speed sensors on 5 separate occasions. It has affected all wheel speed sensors and fron passenger replaced twice.",
+          "My car started giving warning signal on dashboard and would not function properly my car speed wouldn't stop and wouldn't break I ran off road and wrecked  no other vehicles were involved and my airba"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 10,
+        "share_pct": 7.9,
+        "excerpts": [
+          "On [XXX], I was involved in a serious motor vehicle collision in Arkansas while driving my Dodge Challenger. The crash was severe enough that the vehicle was declared a total loss. Despite the severit",
+          "My car started giving warning signal on dashboard and would not function properly my car speed wouldn't stop and wouldn't break I ran off road and wrecked  no other vehicles were involved and my airba",
+          "I WAS TRAVELING DOWN BEAR VALLEY ROAD AT ABOUT 50MPH AND I STRUCK ANOTHER VEHICLE AND NONE OF MY AIR BAGS DEPLOYED I SUFFERED A CONCUSSION"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 16,
+      "fires": 3,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 24
+      },
+      {
+        "year": 2016,
+        "count": 10
+      },
+      {
+        "year": 2017,
+        "count": 13
+      },
+      {
+        "year": 2018,
+        "count": 13
+      },
+      {
+        "year": 2019,
+        "count": 23
+      },
+      {
+        "year": 2020,
+        "count": 16
+      },
+      {
+        "year": 2021,
+        "count": 6
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 7
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "18E053000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain Mopar Stage 1 Kit Performance Packages Powertrain Control Modules (PCM) Part Numbers P5160023, P5160025, and Demon Crate PCM Part Number 68412287AA.  The PCMs are being recalled to address a defect that could prevent the cruise control system from disengagi",
+        "report_date": "12/07/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V749000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2015 Dodge Challenger vehicles manufactured June 30, 2014, to October 8, 2014.  In the affected vehicles, the instrument cluster may become inoperative.  This could cause the gauges to oscillate at zero and the Vehicle Theft Alarm could r",
+        "report_date": "24/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V114000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:GASOLINE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2015 Dodge Challenger SRT and Dodge Charger SRT vehicles manufactured September 18, 2014, to February 5, 2015, and equipped with a 6.2L supercharged engine. O-ring seal and fuel rail crossover hose damage may result in the fuel rail hose connecti",
+        "report_date": "27/02/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V282000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2015 Dodge Challenger vehicles manufactured March 28, 2015, to April 1, 2015.  In the affected vehicles, the driver's side air bag inflated curtain (SABIC) may have a loose or missing rear mounting bolt.",
+        "report_date": "13/05/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V461000",
+        "component": "EQUIPMENT:ELECTRICAL:RADIO/TAPE DECK/CD ETC.",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2013-2015 Ram 1500, 2500, 3500, 4500, and 5500, 2015 Chrysler 200, Chrysler 300, Dodge Charger, and Dodge Challenger, 2014-2015 Jeep Grand Cherokee, Cherokee, and Dodge Durango, and 2013-2015 Dodge Viper vehicles.  The affected vehicles are equip",
+        "report_date": "23/07/2015",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:39.473Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

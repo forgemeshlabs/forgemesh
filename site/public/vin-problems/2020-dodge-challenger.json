@@ -1,0 +1,116 @@
+{
+  "slug": "2020-dodge-challenger",
+  "year": 2020,
+  "make": "Dodge",
+  "model": "Challenger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 20,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 7,
+        "share_pct": 35,
+        "excerpts": [
+          "Air conditioning system failed. Stopped blowing cool air. Leak developed in system and it was traced to the evaporator core",
+          "Trunk is opening automatically while driving",
+          "While driving the air conditioning control’s stopped working. It required restarting the vehicle, to get it to work again . The air also started blowing out the defrost vents without being changed to "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 4,
+        "share_pct": 20,
+        "excerpts": [
+          "Cooling fans exploded an went through radiator, making the car inoperable!",
+          "The contact owns a 2020 Dodge Challenger. The contact stated that while driving approximately 30 MPH, the vehicle momentarily powered off; while coasting to the side of the road, the vehicle suddenly ",
+          "Car completely shut off while driving on the freeway at 75mph. Car completely shut off another incident on the street and another incident in a parking lot."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 3,
+        "share_pct": 15,
+        "excerpts": [
+          "I have an urgent and safety issue with my 2020 Dodge Challenger Hellcat. I was driving on road from work. When I was approaching a red light coming to a complete stop. I pressed the clutch to engage t",
+          "In your own words, tell us what happened. Cro I have an urgent and safety issue with my 2020 Dodge Challenger Hellcat. I was driving on road from work. When I was approaching a red light coming to a c",
+          "Car completely shut off while driving on the freeway at 75mph. Car completely shut off another incident on the street and another incident in a parking lot."
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 3,
+        "share_pct": 15,
+        "excerpts": [
+          "I have an urgent and safety issue with my 2020 Dodge Challenger Hellcat. I was driving on road from work. When I was approaching a red light coming to a complete stop. I pressed the clutch to engage t",
+          "In your own words, tell us what happened. Cro I have an urgent and safety issue with my 2020 Dodge Challenger Hellcat. I was driving on road from work. When I was approaching a red light coming to a c",
+          "VEHICLE CAUGHT ON FIRE WHILE OPERATIONAL, IN SECOND THE VEHICLE BECAME ENGULFED IN FLAMES WITH NO WARNINGS.*DT*DT*JB*DT*JB*DT*JB"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 3,
+        "share_pct": 15,
+        "excerpts": [
+          "Seat belt starting to unlock on its own-Driver  Airbag malfunction-Passenger seat  Reverse gear malfunction -code. Tsb 21-039-24",
+          "I BOUGHT A DODGE CHALLENGER. THE PLACE I BOUGHT IT IS HUNTINGTON BEACH DODGE RAM JEEP DEALER. I GOT OUT OF THE DEALER AND THE SHAFT OF THE CAR WAS OUT OF THE WAY, I WAS ALMOST HAVING AN ACCIDENT.I WEN",
+          "I BOUGHT A DODGE CHALLENGER. THE PLACE I BOUGHT IT IS HUNTINGTON BEACH DODGE RAM JEEP DEALER. I GOT OUT OF THE DEALER AND THE SHAFT OF THE CAR WAS OUT OF THE WAY, I WAS ALMOST HAVING AN ACCIDENT.I WEN"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 1,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "21V516000",
+        "component": "VISIBILITY:WINDSHIELD",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2021 Dodge Challenger, Dodge Charger, and Chrysler 300 vehicles.  During manufacturing, the windshield may not have been properly bonded to the vehicle, allowing it to detach in a crash.  As such, these vehicles fail to comply with the requirements of",
+        "report_date": "08/07/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:05:02.762Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

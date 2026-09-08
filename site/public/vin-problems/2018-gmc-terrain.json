@@ -1,0 +1,160 @@
+{
+  "slug": "2018-gmc-terrain",
+  "year": 2018,
+  "make": "GMC",
+  "model": "Terrain",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 219,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 81,
+        "share_pct": 37,
+        "excerpts": [
+          "Approximately 3 miles from my residence my car display flashed \"Reduced Engine Power\" and slowed down. When I reached a stop sign and tried to stop, my brakes were stiff and I was unable to stop. I we",
+          "The contact owns a 2018 GMC Terrain. The contact stated that while her son was driving 45 MPH, the brake pedal was firm while depressed. There was no warning light illuminated. Due to the failure, exc",
+          "While driving my 2018 GMC Terrain, the vehicle suddenly displayed an “Engine Power Reduced” warning and the brakes became extremely hard to press. The vehicle experienced a sudden loss of normal power"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 53,
+        "share_pct": 24.2,
+        "excerpts": [
+          "Approximately 3 miles from my residence my car display flashed \"Reduced Engine Power\" and slowed down. When I reached a stop sign and tried to stop, my brakes were stiff and I was unable to stop. I we",
+          "While driving my 2018 GMC Terrain, the vehicle suddenly displayed an “Engine Power Reduced” warning and the brakes became extremely hard to press. The vehicle experienced a sudden loss of normal power",
+          "The vehicle has had regular maintenance, oil change, and inspection including the brakes. My boyfriend is visiting me in [XXX] from the [XXX]. OnXXX while driving the vehicle the engine started. Makin"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 41,
+        "share_pct": 18.7,
+        "excerpts": [
+          "The contact owns a 2018 GMC Terrain. While attempting to shift to reverse(R) out of a parking spot, the message “Transmission Unable to Shift” was displayed on the instrument panel, and the transmissi",
+          "The contact owns a 2018 GMC Terrain. The contact stated that while driving at various speeds, there was an abnormal grinding sound coming from the vehicle while transitioning to 4WD. The contact conti",
+          "The contact owns a 2018 GMC Terrain. The contact stated that the transmission was shifting gear erratically. The contact stated that the doors were locking and unlocking independently, and the instrum"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 35,
+        "share_pct": 16,
+        "excerpts": [
+          "The infotainment system will just randomly start going haywire and when it happens, you cannot use the touchscreen. It will try to randomly delete app icons such as the camera, it will try to delete c",
+          "The contact owns a 2018 GMC Terrain. The contact stated that the transmission was shifting gear erratically. The contact stated that the doors were locking and unlocking independently, and the instrum",
+          "The contact owns a 2018 GMC Terrain. The contact stated that on several occasions while driving at various speeds, the infotainment system screen and radio inadvertently switched stations from AM to F"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 14,
+        "share_pct": 6.4,
+        "excerpts": [
+          "My car was t-boned on the driver side and no airbags deployed. The outer door and window exploded with the force. We were also hit from behind",
+          "My car said to me this not that there is something wrong with the Service Safety Restraint system! It was fine last night when I got home! I just bought this car a month ago and everything was fine an",
+          "The contact owns a 2018 GMC Terrain. The contact stated while driving at an undisclosed speed, the air bag and ABS warning lights illuminated. The vehicle was taken to Auto Zone to be diagnosed. The v"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 14,
+      "fires": 1,
+      "injuries": 12,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 2
+      },
+      {
+        "year": 2018,
+        "count": 30
+      },
+      {
+        "year": 2019,
+        "count": 27
+      },
+      {
+        "year": 2020,
+        "count": 14
+      },
+      {
+        "year": 2021,
+        "count": 17
+      },
+      {
+        "year": 2022,
+        "count": 26
+      },
+      {
+        "year": 2023,
+        "count": 25
+      },
+      {
+        "year": 2024,
+        "count": 35
+      },
+      {
+        "year": 2025,
+        "count": 23
+      },
+      {
+        "year": 2026,
+        "count": 20
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "18V340000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
+        "summary": "General Motors LLC (GM) is recalling certain 2018 GMC Terrain vehicles.  The sensing diagnostic module (SDM) that senses a crash and deploys the necessary air bags may not power down correctly when the vehicle is shut off, causing it to be inoperative when the vehicle is restarted.",
+        "report_date": "24/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V576000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Equinox, Impala, Cruze, Volt and Bolt EV vehicles, GMC Terrain vehicles, Buick Lacrosse and Regal vehicles, Cadillac XTS and XTS Professional vehicles and 2018 Chevrolet Malibu vehicles. The rear brake caliper pistons may have an insuf",
+        "report_date": "30/08/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V358000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2018 GMC Canyon, 2016-2017 Buick Envision, 2016-2018 Chevrolet Colorado and Malibu, 2017-2018 GMC Acadia, 2018 Buick LaCrosse, Cadillac ATS, Chevrolet Equinox, and GMC Terrain vehicles.  The high pressure fuel pump may detach from its mounting flange",
+        "report_date": "31/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V668000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Cruze and Buick LaCrosse, 2018-2020 Chevrolet Equinox, Chevrolet Traverse and GMC Terrain, 2018 Chevrolet Malibu, 2019-2020 Buick Encore, Buick Enclave, Cadillac XT4, Chevrolet Blazer and GMC Acadia, and 2020 Cadillac XT6 vehicles.  Th",
+        "report_date": "29/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V516000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "General Motors LLC (GM) is recalling certain 2018 Chevrolet Equinox and GMC Terrain vehicles and 2017-2018 GMC Acadia  vehicles.  The right front intermediate driveshaft may fracture and separate while driving.",
+        "report_date": "22/08/2017",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:06.241Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

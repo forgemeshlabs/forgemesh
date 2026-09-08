@@ -1,0 +1,160 @@
+{
+  "slug": "2015-ford-expedition",
+  "year": 2015,
+  "make": "Ford",
+  "model": "Expedition",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 164,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 45,
+        "share_pct": 27.4,
+        "excerpts": [
+          "There is a loud sound coming from behind the glove box when the heater is going. This issue was recalled in 2023 but it has returned.",
+          "The contact owns a 2015 Ford Expedition. The contact received notification of NHTSA Campaign Number: 25V572000 (BACK OVER PREVENTION). However, the part to do the recall repair was not yet available. ",
+          "Purchased 12/2023 2015 Ford Expedition  April of 2024 we began to have issues with the Sync System and Climate Control. We took it back to the original dealer and a second Ford dealer and neither was "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 31,
+        "share_pct": 18.9,
+        "excerpts": [
+          "Driving at 58 mph with cruise on, using the cruise - button to reduce speed to 50 the vehicle drastically downshifted causing the engine to over-rev and ultimately caused catastrophic engine failure, ",
+          "My 2015 Ford Expedition needs to added to the recall 22S56. I just paid $1,200 to have that part fixed cause it burnt up. Replaced the front blower motor assembly. My husband burnt his hand on the wir",
+          "The contact owns a 2015 Ford Expedition. The contact stated while attempting to drive from being stationary, the vehicle hesitated and stalled. The vehicle was towed to an independent mechanic, where "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 29,
+        "share_pct": 17.7,
+        "excerpts": [
+          "I am driving a 2015 Ford Expedition that utilizes the 6R80 transmission. I am actively experiencing the severe, dangerous highway downshifting failure described in Ford's F-150 safety recall. The truc",
+          "Issue I’m having with my 2015 Ford expedition Limited, is on multiple occasions when I’m at highway speeds my vehicle downshifts and decelerates. While im driving through the city streets, my vehicle ",
+          "Driving at 58 mph with cruise on, using the cruise - button to reduce speed to 50 the vehicle drastically downshifted causing the engine to over-rev and ultimately caused catastrophic engine failure, "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 19,
+        "share_pct": 11.6,
+        "excerpts": [
+          "transmission cooler lines snapped at 60mph. no crash able to get suv on side of road. transmission is totaled needs replaced. repairs are underway at ford dealership in groveport ohio. milage of failu",
+          "CAR IN MOTION, HESITATES AND SOMETIME GOES TO LOW POWER MODE WHERE YOU HAVE TO PULL OVER, TURN CAR OFF WAIT AND RESTART TO BE ABLE TO CONTINUE    THIS HAS HAPPENED 3 TIMES IN 2 YEARS, DEALERSHIP DECOD",
+          "VEHICLE ENGINE SHUTS DOWN WHLIE DRIVEING AT ANY GIVEN TIME, GEAR AND SPEEDS.   ALL ELECTRICAL PARTS REMAINS WORKING. STOP AND RESTART THE CAR AND IT'S WORKING AGAIN FOR A FEW MINUTES AND THE ENGINE SH"
+        ]
+      },
+      {
+        "component": "BACK OVER PREVENTION",
+        "complaints": 17,
+        "share_pct": 10.4,
+        "excerpts": [
+          "The contact owns a 2015 Ford Expedition. The contact stated that while reversing, the rearview camera displayed the message \"Camera Unavailable - Please Contact Dealer\" was displayed. No warning light",
+          "The contact owns a 2015 Ford Expedition. The contact received notification of NHTSA Campaign Number: 25V572000 (Back Over Prevention); however, the part to do the recall repair was not yet available. ",
+          "The contact owns a 2015 Ford Expedition. The contact received notification of NHTSA Campaign Number: 25V270000 (BACK OVER PREVENTION); however, the part to do the recall repair was unavailable. The co"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 6,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 9
+      },
+      {
+        "year": 2016,
+        "count": 9
+      },
+      {
+        "year": 2017,
+        "count": 20
+      },
+      {
+        "year": 2018,
+        "count": 14
+      },
+      {
+        "year": 2019,
+        "count": 14
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 16
+      },
+      {
+        "year": 2023,
+        "count": 21
+      },
+      {
+        "year": 2024,
+        "count": 21
+      },
+      {
+        "year": 2025,
+        "count": 16
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "22V648000",
+        "component": "VISIBILITY:DEFROSTER/DEFOGGER/HVAC SYSTEM:FAN/MOTOR",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2017 Ford Expedition and Lincoln Navigator vehicles.  The front blower motor located behind the glove box may fail.",
+        "report_date": "26/08/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V270000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015 F-250, F-350, F-450, Expedition, Lincoln Navigator, and MKC vehicles.  The rearview camera printed circuit board terminal header connector may be loose or damaged, which can result in a blank or distorted image.",
+        "report_date": "23/04/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V572000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2019 Lincoln MKC, Mustang, F-350 SD, F-250 SD, F-450 SD, 2015-2017 Lincoln Navigator, Expedition, 2015-2018 Edge, Transit Connect, 2016-2019 F-550 SD, Transit, 2017-2019 Econoline, and 2019 Ranger vehicles. The rearview camera may display a distort",
+        "report_date": "04/09/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:04.121Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

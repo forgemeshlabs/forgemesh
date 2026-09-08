@@ -1,0 +1,183 @@
+{
+  "slug": "2009-nissan-frontier",
+  "year": 2009,
+  "make": "Nissan",
+  "model": "Frontier",
+  "matched_as": {
+    "complaints": [
+      "FRONTIER KING CAB",
+      "FRONTIER CREW CAB"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 74,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 18,
+        "share_pct": 24.3,
+        "excerpts": [
+          "The contact owns a 2009 Nissan Frontier. The contact received notification of NHTSA Campaign Number: 23V067000 (Air Bags) however, the part to do the recall repair was not yet available. The contact s",
+          "Airbag warning light blinking and won't go off. Was not able to reset. Diagnostic Code 12.",
+          "MY AIRBAG WARNING LIGHT IS ON. MY MECHANIC NOTICED A RECALL, CAMPAIGN ID R0807, BUT THE RECALL ONLY AFFECTS VEHICLES REGISTERED IN 'SALT' STATES. I LIVE IN VA BUT TRAVELED EXTENSIVELY IN PA, MARYLAND,"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 16,
+        "share_pct": 21.6,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2009 NISSAN FRONTIER. WHILE DRIVING 55 MPH, THE CONTACT DETECTED SMOKE UNDERNEATH THE HOOD. THE VEHICLE WAS TOWED TO KING WINDWARD NISSAN (45-568 KAMEHAMEHA HWY, KANEOHE, HI 967",
+          "2009 NISAN FRONTIER 114K MILES SAME SINGS AS MANY OTHERS VIBRATION WHEN SHIFTING FROM 3RD TO 4TH GEAR START HAPPENING IN THE MORNING SPECIAL WINTER PROGRESSIVELY GETTING WORSE AND NOW HAPPENS ALL THE ",
+          "MY 09 NISSAN FRONTIER SE (AUTOMATIC TRANSMISSION) GRINDED A BIT WHEN CHANGING GEARS. I NOTICED IT WAS BETWEEN 3RD AND 4TH GEARS. SOMETIMES IT WAS LOUDER AND LONGER THAN OTHER TIMES. SOMETIMES IT DIDN'"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 10,
+        "share_pct": 13.5,
+        "excerpts": [
+          "THE BRAKE PEDALS TRAVELS FURTHER DOWN THAN TOP OF ACCELERATOR PEDAL. IN WINTER WHEN WEARING WINTER BOOTS I HAD TO MAKE AN QUICK STOP TO AVOID A PEDESTRIAN CROSSING THE STREET ON A CROSSWALK. I FOUND M",
+          "WEAK CLUTCH 2009 NISSAN FRONTIER SE 4X4 4.0 LITRE, 6 SPEED MAN TRANSMISSION. 10,331 MILES AND CLUTCH SLIPS IN 3RD, 4TH, 5TH, 6TH AND LITTLE NO ENGAGEMENT IN REVERSE. SLIPS ON SUDDEN ACCELERATION. MANU",
+          "TL* THE CONTACT OWNS A 2009 NISSAN FRONTIER. THE CONTACT WAS DRIVING 55 MPH WHEN THE FAILURE OCCURRED. THE CONTACT STATED THAT THE BRAKE PEDAL WOULD FALL ONTO THE FLOORBOARD WHEN DEPRESSING EITHER THE"
+        ]
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "complaints": 8,
+        "share_pct": 10.8,
+        "excerpts": [
+          "WHILE DRIVING, SERVICE ENGINE SOON LIGHT APPEARED WITH CODE P0448.  AFTER CODE APPEARED, CANNOT FILL UP GAS TANK WITHOUT GAS SPILLING OUT.  CALLED DEALER AND THEY SAID THIS IS UNRELATED.  *TR",
+          "TL* THE CONTACT OWNS A 2006 NISSAN FRONTIER. THE CONTACT STATED THE FUEL LEVEL INDICATOR FAILED IN OCTOBER 2008 AND A LOCAL INDEPENDENT MECHANIC REPLACED THE FUEL GAUGE TANK. THE MANUFACTURER WAS CONT",
+          "MR.        , PRESIDENT & CEO  NISSAN MOTOR CO., LTD.  P.O. BOX 685003  FRANKLIN TN 37064       DEAR SIR;    I AM WRITING TO YOU TODAY TO COMPLAIN ABOUT A PROBLEM WITH MY 2006 NISSAN FRONTIER CLUB CAB."
+        ]
+      },
+      {
+        "component": "GASOLINE",
+        "complaints": 8,
+        "share_pct": 10.8,
+        "excerpts": [
+          "WHILE DRIVING, SERVICE ENGINE SOON LIGHT APPEARED WITH CODE P0448.  AFTER CODE APPEARED, CANNOT FILL UP GAS TANK WITHOUT GAS SPILLING OUT.  CALLED DEALER AND THEY SAID THIS IS UNRELATED.  *TR",
+          "TL* THE CONTACT OWNS A 2006 NISSAN FRONTIER. THE CONTACT STATED THE FUEL LEVEL INDICATOR FAILED IN OCTOBER 2008 AND A LOCAL INDEPENDENT MECHANIC REPLACED THE FUEL GAUGE TANK. THE MANUFACTURER WAS CONT",
+          "MR.        , PRESIDENT & CEO  NISSAN MOTOR CO., LTD.  P.O. BOX 685003  FRANKLIN TN 37064       DEAR SIR;    I AM WRITING TO YOU TODAY TO COMPLAIN ABOUT A PROBLEM WITH MY 2006 NISSAN FRONTIER CLUB CAB."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 2,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2008,
+        "count": 4
+      },
+      {
+        "year": 2009,
+        "count": 8
+      },
+      {
+        "year": 2010,
+        "count": 12
+      },
+      {
+        "year": 2011,
+        "count": 4
+      },
+      {
+        "year": 2012,
+        "count": 2
+      },
+      {
+        "year": 2013,
+        "count": 2
+      },
+      {
+        "year": 2014,
+        "count": 6
+      },
+      {
+        "year": 2015,
+        "count": 4
+      },
+      {
+        "year": 2016,
+        "count": 2
+      },
+      {
+        "year": 2017,
+        "count": 8
+      },
+      {
+        "year": 2018,
+        "count": 4
+      },
+      {
+        "year": 2019,
+        "count": 2
+      },
+      {
+        "year": 2020,
+        "count": 10
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "10E019000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM:LOWER ARM",
+        "summary": "NISSAN IS RECALLING CERTAIN FRONT AND REAR LOWER LINKS, P/NOS. 54501ZQ00A, 54500ZQ00A, 551A1ZQ00A, 551A0ZQ00A , 54501EA00A, 54500EA00A, 551A1EA500, 551A0EA500, 54501ZR00A, AND 54500ZR00A, SOLD BETWEEN NOVEMBER 25, 2009 AND MAY 14, 2010 AS REPLACEMENT PARTS FOR MODEL YEAR 2004 THROUGH 2010 TITAN, ARM",
+        "report_date": "20/05/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10E043000",
+        "component": "EQUIPMENT",
+        "summary": "MARATHON IS RECALLING CERTAIN SEAT COVERS, BRAND SUPERHIDES WITH PART NUMBERS 593, 594, 578, 960, 228, 228-09, 267-08, 333, 625, AND 630, SOLD FOR USE AS AFTERMARKET EQUIPMENT FOR VARIOUS PASSENGER VEHICLES.  THESE SEAT COVERS ARE MADE OF HEAVIER THREAD AND ARE NOT COMPATIBLE WITH SEATS CONTAINING S",
+        "report_date": "03/09/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V690000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "NISSAN IS RECALLING 242,720 MY 2005-2009 PATHFINDER, FRONTIER AND XTERRA VEHICLES ORIGINALLY SOLD IN OR CURRENTLY REGISTERED IN THE STATES OF CONNECTICUT, DELAWARE, ILLINOIS, INDIANA,  IOWA, MAINE, MARYLAND, MASSACHUSETTS, MICHIGAN, MINNESOTA, MISSOURI, NEW HAMPSHIRE, NEW JERSEY, NEW YORK, OHIO, PEN",
+        "report_date": "29/12/2008",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V401000",
+        "component": "EQUIPMENT:ELECTRICAL:NAVIGATIONAL SYSTEM(GLOBAL POSITIONING SYSTEM)",
+        "summary": "NISSAN IS RECALLING CERTAIN VEHICLES THAT WERE EQUIPPED WITH A GARMIN NUVI MODEL 750 NAVIGATION SYSTEM.  THE BATTERIES CONTAINED IN THE AFFECTED GPS UNITS CAN OVERHEAT.",
+        "report_date": "10/09/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V067000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2008-2011 Titan, Frontier, Xterra, Pathfinder, Armada, and 2008-2009 Quest vehicles.  The resin emblem on the driver's air bag cover may develop cracks and detach during air bag deployment.",
+        "report_date": "10/02/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:50:11.008Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

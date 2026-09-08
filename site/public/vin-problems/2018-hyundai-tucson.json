@@ -1,0 +1,128 @@
+{
+  "slug": "2018-hyundai-tucson",
+  "year": 2018,
+  "make": "Hyundai",
+  "model": "Tucson",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 393,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 241,
+        "share_pct": 61.3,
+        "excerpts": [
+          "I took my Tucson to my local Hyundai dealership on Friday, August 28, 2026.  It was there for a standard oil change and tire rotation.  When I scheduled the appointment online the system also said the",
+          "2018 Hyundai Tucson catastrophic engine failure consistent with known Hyundai Nu engine defect pattern documented across 141 prior owner-filed NHTSA complaints for this same vehicle. OBD codes P0326, ",
+          "I own a Hyundai Tucson 2018 SEL Plus. My problem is my vehicle is coming to the end of it's 100,000 mile warranty. This vehicle started burning oil about 30,000 miles and it got worse. I checked on re"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 100,
+        "share_pct": 25.4,
+        "excerpts": [
+          "While driving my 2018 Hyundai Tucson Limited 1.6L Turbo with the 7-speed EcoShift dual clutch transmission (DCT), the vehicle has repeatedly failed to engage and hold gears, resulting in loss of motiv",
+          "January 9, 2026, driver was on I25, when driver heard a loud thud and the RPMs kept rising but the vehicle would not accelerate. Was very dangerous and barely avoided a collision with other drivers on",
+          "While operating the vehicle on the highway at speeds around 55 to 60 mph, without warning, the engine suffered a sudden, catastrophic internal mechanical engine failure that resulted in an immediate a"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 41,
+        "share_pct": 10.4,
+        "excerpts": [
+          "I purchased this car [XXX] as a CPO vehicle from a Ford dealership.  By [XXX] the oil pressure light would flicker and it was clear the car was burning a lot of oil between changes.  On 8/22 an oil ch",
+          "The contact owns a 2018 Hyundai Tucson. The contact stated while driving 70 MPH and depressing accelerator pedal, the vehicle started to decelerate. The contact pulled over to the right side of the ro",
+          "My daughter‘s car was in park and still running and she got out of the car and went to the back of the car opened up the hatch cleaned her window went to the side of the car passenger side went to go "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 27,
+        "share_pct": 6.9,
+        "excerpts": [
+          "While driving my 2018 Hyundai Tucson Limited 1.6L Turbo with the 7-speed EcoShift dual clutch transmission (DCT), the vehicle has repeatedly failed to engage and hold gears, resulting in loss of motiv",
+          "While idling at a standstill (in a drive-thru queue), my 2018 Hyundai Tucson suddenly experienced a severe engine overheat, causing the vehicle's air conditioning system to immediately blow hot air an",
+          "While driving on a public road, the vehicle experienced multiple simultaneous, dangerous malfunctions:  Dashboard Warnings: All lights illuminated, including engine (flashing), ABS, traction control, "
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 22,
+        "share_pct": 5.6,
+        "excerpts": [
+          "Car shaking, oil is burning , and drive hard. Engine and, oil light is now appearing.",
+          "This vehicle had a engine replaced by the dealership Nov 2024.Has not run the same since.Getting worse and seems like transmission issues.I was told The first and the 2nd owner which I'm the 2nd owner",
+          "UNKNOWN -A catalytic converter clogged after being installed - only 14 months following installation, causing rough and unsafe acceleration, inability to shift gears properly, and need to drive with h"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 13,
+      "fires": 9,
+      "injuries": 10,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 21
+      },
+      {
+        "year": 2019,
+        "count": 30
+      },
+      {
+        "year": 2020,
+        "count": 30
+      },
+      {
+        "year": 2021,
+        "count": 67
+      },
+      {
+        "year": 2022,
+        "count": 49
+      },
+      {
+        "year": 2023,
+        "count": 51
+      },
+      {
+        "year": 2024,
+        "count": 57
+      },
+      {
+        "year": 2025,
+        "count": 55
+      },
+      {
+        "year": 2026,
+        "count": 32
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "20V543000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) recalled certain 2019-2021 Tucson vehicles on September 4, 2020.  On December 30, 2020, Hyundai expanded the recall population, and added certain 2016-2018 Tucson vehicles.  The Anti-lock Brake Hydraulic Electronic Control Unit (HECU) could corrode internally and caus",
+        "report_date": "04/09/2020",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:21.154Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "2015-toyota-sienna",
+  "year": 2015,
+  "make": "Toyota",
+  "model": "Sienna",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 230,
+    "top_failure_components": [
+      {
+        "component": "STRUCTURE",
+        "complaints": 60,
+        "share_pct": 26.1,
+        "excerpts": [
+          "In August 2025, AutoNation Toyota on Sahara, checked the VIN of my Toyota Sienna and contacted Toyota while I was present. Toyota confirmed a broken fuel-door hinge was covered under a Customer Suppor",
+          "See attached document for complaint.",
+          "Fuel filler door upper hinge failed so that door would not seat properly when closed.  Because the door was not seated properly, the left side power sliding door interlock did not release, preventing "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 44,
+        "share_pct": 19.1,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2015 Toyota Sienna. The vehicle was a private sale. The contact stated that at the time of purchase, the mileage was 92,862. The contact later purchased a Carfa",
+          "In August 2025, AutoNation Toyota on Sahara, checked the VIN of my Toyota Sienna and contacted Toyota while I was present. Toyota confirmed a broken fuel-door hinge was covered under a Customer Suppor",
+          "Odometer Fraud. The contact purchased a 2015 Toyota Sienna. The vehicle was purchased from a private seller. The contact stated that while registering the vehicle at the local Department of Motor Vehi"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 18,
+        "share_pct": 7.8,
+        "excerpts": [
+          "I have had this car for 7 years. Started having issues a year ago and despite bringing it to Toyota 2x, they cannot tell me what the issue is. I will be driving on a regular flat paved road when the c",
+          "The contact called on behalf of his mother who owns a 2015 Toyota Sienna. The contact stated while his mother was driving 15 MPH, the brake pedal was depressed but failed to respond, causing the vehic",
+          "When vehicle is in reverse the rear breaks on passenger side start squealing and making a loud noise when applied specially when vehicle has been stopped for while however on occasion it does it every"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 16,
+        "share_pct": 7,
+        "excerpts": [
+          "Component Failed & Availability: The engine on my 2015 Toyota Sienna (99,000 miles) catastrophically failed and is completely seized. The vehicle and engine are in my possession and are fully availabl",
+          "I am submitting this complaint to request that the National Highway Traffic Safety Administration (NHTSA) document and evaluate what may be a broader defect affecting certain Toyota Sienna vehicles an",
+          "i am having repeated issue with Toyota sienna engine 1. Engine oil leaks through timing chain cover 2. Engine coolant leak  Engine oil leak keep repating even I fixed earlier and leaks again due poor "
+        ]
+      },
+      {
+        "component": "WHEELS",
+        "complaints": 14,
+        "share_pct": 6.1,
+        "excerpts": [
+          "The front tires are wearing out to an unsafe tread in under 15000 miles due to the suspension in the front of this vehicle. If people are not vigilant the tires become unsafe quickly due to poor engin",
+          "I have a 2015 Toyota Sienna LE that I purchased new from the dealer. The original Michelin  tires had excessive wear after less than 2yrs and ~28K miles.  I replaced these with Continental tires(rated",
+          "THE VAN IS TOO HEAVY FOR THE RATED TIRES, AND WEARS THE TOES OUT SO DANGEROUSLY THAT RISK OF PREMATURE BLOWOUT IS IMMINENT. JUST HIT 100K MILES ON MY 2015 AWD SIENNA. 1ST SET OF TIRES LASTED 35K MILES"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 17,
+      "fires": 7,
+      "injuries": 28,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2015,
+        "count": 19
+      },
+      {
+        "year": 2016,
+        "count": 44
+      },
+      {
+        "year": 2017,
+        "count": 49
+      },
+      {
+        "year": 2018,
+        "count": 27
+      },
+      {
+        "year": 2019,
+        "count": 30
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 12
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 7
+      },
+      {
+        "year": 2025,
+        "count": 10
+      },
+      {
+        "year": 2026,
+        "count": 13
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "19V410000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Braun Corporation (Braun) is recalling certain 2014-2019 Toyota Sienna mobility van conversions.  The brake lines may have incorrect tube nut fittings installed, which may cause a pressure drop within the braking system.",
+        "report_date": "04/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V553000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Vantage Mobility International, LLC (Vantage) is recalling certain 2012-2018 AMS Genesis wheelchair vans, built on a Toyota Sienna vehicles.  The rubber brake hoses that attach to the rear wheel assembly may be too short, causing them to rub against the rear axle trailing arm.",
+        "report_date": "25/07/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V858000",
+        "component": "STRUCTURE:BODY:DOOR",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2011-2016 Toyota Sienna minivans manufactured January 4, 2010, to August 12, 2016.  If the power sliding door is unable to be opened when commanded, such as if the door is frozen shut, the door may subsequently open un",
+        "report_date": "29/11/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V757000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2015 Sienna vehicles manufactured September 2, 2014, to November 25, 2014.  In the event of a crash that necessitates the deployment of the curtain shield airbag (CSA), the second row overhead assist grips may detach.",
+        "report_date": "26/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V236000",
+        "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2015 Sienna vehicles manufactured September 1, 2014, to April 13, 2015 and equipped with overhead entertainment accessories installed by SET.  During reassembly of the interior after the overhead entertainment system installati",
+        "report_date": "21/04/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V240000",
+        "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+        "summary": "Gulf States Toyota, Inc. (GST) is recalling certain model year 2015 Toyota Sienna vehicles manufactured January 23, 2015, to April 13, 2015, and equipped with non-Toyota-brand overhead entertainment accessories installed by GST.  During reassembly of the interior after the overhead entertainment sys",
+        "report_date": "22/04/2015",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:28.035Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

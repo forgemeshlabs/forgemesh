@@ -1,0 +1,171 @@
+{
+  "slug": "2011-chevrolet-suburban",
+  "year": 2011,
+  "make": "Chevrolet",
+  "model": "Suburban",
+  "matched_as": {
+    "complaints": [
+      "SUBURBAN 1500",
+      "SUBURBAN 2500"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 383,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 168,
+        "share_pct": 43.9,
+        "excerpts": [
+          "This is not connected with a specific crash in this vehicle. It is a defect with all vehicles with this seat. There is known common defect with the stitching on the side of the front seats covering th",
+          "The contact owns a 2011 Chevrolet Suburban. The contact stated that the air bag warning light was illuminated on the instrument panel. The contact later received a recall notification for NHTSA Campai",
+          "Takata Recall. The contact owns a 2011 Chevrolet Suburban. The contact received notification of NHTSA Campaign Number: 21V054000 (Air Bags) however, the dealer informed the contact that the part to do"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 72,
+        "share_pct": 18.8,
+        "excerpts": [
+          "THE DASHBOARD IS CRACKED AND WAS ALREADY CRACKED WHEN WE BOUGHT THE CAR.  *TR",
+          "MY NAME IS [XXX]  I'M THE OWNER OF A 2011 CHEVY SUBURBAN AND ONE DAY I TOOK MY WIFE TO THE HOSPITAL FOR SURGERY AND WHEN I CAME OUT AFTER 4 HOURS MY SUBURBAN HAD 2 CRACKS ON THE DASHBOARD ONE NEXT TO ",
+          "INTERIOR DASH BOARD IS CRACKING NEAR AIR BAG, SEVERAL PLACES ON VEHICLE"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 25,
+        "share_pct": 6.5,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2011 Chevrolet Suburban. It was discovered that there was a mileage discrepancy. The vehicle was a private sale. At the time of purchase, the mileage was 133,00",
+          "TL* THE CONTACT OWNS A 2011 CHEVROLET SUBURBAN. WHILE DRIVING APPROXIMATELY 65 MPH, THE RPMS REDUCED TO 0 AND THE INSTRUMENT PANEL INDICATORS ILLUMINATED. ADDITIONALLY, ALL THE DOORS UNLOCKED AND LOCK",
+          "VEHICLE SHUTS DOWN WHILE DRIVING AND WHILE PARKED.  ALL ELECTRONICS SHUT DOWN, UNABLE TO ACTIVATE HAZARD LIGHTS.  PREVIOUSLY PAYED TO FIX ABS LIGHT/SENSOR.  DASH CRACKED DRIVER SIDE AND PASSENGER SIDE"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 22,
+        "share_pct": 5.7,
+        "excerpts": [
+          "EXCESSIVE OIL CONSUMPTION. I SEE THIS IS A COMMON PROBLEM ON GM VEHICLES AND IT AFFECTS BOTH MY 2011 SUBURBAN AND 2012 SILVERADO WITH 5.3 FLEX FUEL ENGINES. THE SUBURBAN IS MORE NOTICEABLE SINCE WE US",
+          "UNSAFE TO DRIVE SPECIALLY DRIVING OVER 40 MILES",
+          "TL* THE CONTACT OWNS A 2011 CHEVROLET SUBURBAN. WHILE DRIVING APPROXIMATELY 65 MPH, THE RPMS REDUCED TO 0 AND THE INSTRUMENT PANEL INDICATORS ILLUMINATED. ADDITIONALLY, ALL THE DOORS UNLOCKED AND LOCK"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 13,
+        "share_pct": 3.4,
+        "excerpts": [
+          "UNSAFE TO DRIVE SPECIALLY DRIVING OVER 40 MILES",
+          "TL* THE CONTACT OWNS A 2001 CHEVROLET SUBURBAN. WHILE DRIVING DOWN A MOUNTAIN AT AN UNKNOWN SPEED, THE BRAKE LINES FRACTURED. THE CONTACT HAD TO APPLY FORCE TO THE BRAKE PEDAL BECAUSE THE VEHICLE DROV",
+          "TL* THE CONTACT OWNS A 2011 CHEVROLET SUBURBAN. WHILE DRIVING APPROXIMATELY 45 MPH, THE BRAKES FAILED TO STOP THE VEHICLE WHEN THE BRAKE PEDAL WAS DEPRESSED. IN ADDITION, THE TRACTION CONTROL WARNING "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 1,
+      "injuries": 21,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 9
+      },
+      {
+        "year": 2012,
+        "count": 12
+      },
+      {
+        "year": 2013,
+        "count": 15
+      },
+      {
+        "year": 2014,
+        "count": 24
+      },
+      {
+        "year": 2015,
+        "count": 78
+      },
+      {
+        "year": 2016,
+        "count": 99
+      },
+      {
+        "year": 2017,
+        "count": 51
+      },
+      {
+        "year": 2018,
+        "count": 38
+      },
+      {
+        "year": 2019,
+        "count": 25
+      },
+      {
+        "year": 2020,
+        "count": 8
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "21V050000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2007-2011 Cadillac Escalade, Escalade ESV, Escalade EXT, Chevrolet Avalanche, Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, Yukon XL, and 2009-2011 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500 and Sierra 3500 vehicles originally s",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V054000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014 Cadillac Escalade, Escalade ESV, Chevrolet Silverado 2500, Silverado 3500, Suburban, Tahoe, GMC Sierra 2500, Sierra 3500, Yukon, and Yukon XL vehicles originally sold, or ever registered, in the states of AL, CA, FL, GA, HI, LA, MS, SC, TX, PR, AS, ",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V827000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2011-2012 Cadillac Escalade, Escalade ESV, Escalade EXT, Chevrolet Avalanche, Silverado HD, Silverado LD, Suburban, Tahoe, GMC Sierra LD, Sierra HD, Yukon, and Yukon XL vehicles.  In the affected vehicles, the ignition lock actuator may bind, m",
+        "report_date": "30/12/2014",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:55:21.588Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

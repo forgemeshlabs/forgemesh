@@ -1,0 +1,169 @@
+{
+  "slug": "2009-gmc-sierra",
+  "year": 2009,
+  "make": "GMC",
+  "model": "Sierra",
+  "matched_as": {
+    "complaints": [
+      "SIERRA 3500",
+      "SIERRA 2500",
+      "SIERRA 1500",
+      "SIERRA HYBRID"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 661,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 289,
+        "share_pct": 43.7,
+        "excerpts": [
+          "I keep going back to get the recall done and they keep telling me they don't have parts .This has gone on for years",
+          "The contact owns a 2009 GMC Sierra. The contact stated that while driving at an undisclosed speed, the air bag warning light was illuminated. The contact related the failure to Technical Service Bulle",
+          "2009 GMC SIERRA. CONSUMER WRITES SEEKING REIMBURSEMENT FOR REPAIRS RELATED TO TAKATA AIRBAG SAFETY RECALL.  THE CONSUMER STATED THE AIRBAG LIGHT ILLUMINATED. THE DEALER STATED THE AIRBAG RECALL HAD AL"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 84,
+        "share_pct": 12.7,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2009 GMC SIERRA. WHEN THE VEHICLE WAS STARTED, THE DOORS AUTOMATICALLY LOCKED AS DESIGNED. WHEN THE VEHICLE WAS PLACED IN THE PARK POSITION, THE DOORS FAILED TO UNLOCK. THE CONT",
+          "I GOT OUT OF MY TRUCK, HAD LEFT THE KEYS IN THE IGNITION, WALKED OVER TO GET SOMETHING OFF THE GROUND AND HEARD THE HORN BLOW. I WALKED BACK OVER TO THE TRUCK TO GET BACK IN AND IT WAS LOCKED. I CALLE",
+          "IN COLD WEATHER THE INSTRUMENT CLUSTER DOES NOT WORK, THE ONLY THING THAT DOES WORK IS THE BACK LIGHTING.  *TR"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 70,
+        "share_pct": 10.6,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2009 GMC SIERRA. WHEN THE VEHICLE WAS STARTED, THE DOORS AUTOMATICALLY LOCKED AS DESIGNED. WHEN THE VEHICLE WAS PLACED IN THE PARK POSITION, THE DOORS FAILED TO UNLOCK. THE CONT",
+          "DASHBOARD CRACKING",
+          "TL* THE CONTACT OWNS A 2009 GMC SIERRA. THE CONTACT STATED THAT THE FRONT DRIVER SIDE DOOR HANDLE FRACTURED. THE CONTACT STATED THAT THE DOOR HAD TO BE OPENED FROM THE OUTSIDE OF THE VEHICLE. THE VEHI"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 40,
+        "share_pct": 6.1,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2009 GMC SIERRA. THE CONTACT STATED THAT WHILE DRIVING AT ANY SPEED, THE SERVICE TRACTION CONTROL AND THE STABILIZER TRACK CONTROL WARNING LIGHTS ILLUMINATED. IN ADDITION WHEN D",
+          "TL* THE CONTACT OWNS A 2009 GMC SIERRA. WHILE DRIVING 60 MPH, THE ENGINE POWER SUDDENLY REDUCED TO 40 MPH AND THE ENGINE COMPLETELY SHUT OFF. THE ENGINE RESTARTED WITH SLOW ACCELERATION AND UNKNOWN WA",
+          "ABOUT 2 MONTHS AFTER WE PURCHASED OUR PRE-OWNED 2009 GMC SIERRA DENALI WE STARTED HAVING PROBLEMS WITH THE ENGINE POWER AND ALL SENSORS GOING OFF. THE SENSORS START GOING OFF THE STABILITY CONTROL CUT"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 34,
+        "share_pct": 5.1,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2009 GMC SIERRA. WHILE DRIVING 60 MPH, THE ENGINE POWER SUDDENLY REDUCED TO 40 MPH AND THE ENGINE COMPLETELY SHUT OFF. THE ENGINE RESTARTED WITH SLOW ACCELERATION AND UNKNOWN WA",
+          "I DROVE MY WIFE TO THE PHARMACY AND AFTER PULLING OUT OF THE PARKING LOT ONTO PALMDALE ROAD IN VICTORVILLE THE TRUCK WENT INTO TO LIMP MODE. THE TRANSMISSION LOCKED UP INTO PARK AT 25MPH ALMOST CAUSIN",
+          "TL* THE CONTACT OWNS A 2009 GMC SIERRA.  THE CONTACT STATED THAT THERE WAS A DELAY WHENEVER HE ATTEMPTED TO ACCELERATE, ONCE IT ENGAGED THE VEHICLE ACCELERATED UNEXPECTEDLY. AS A RESULT HE HAD TO USE "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 21,
+      "fires": 8,
+      "injuries": 14,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2007,
+        "count": 2
+      },
+      {
+        "year": 2009,
+        "count": 35
+      },
+      {
+        "year": 2010,
+        "count": 12
+      },
+      {
+        "year": 2011,
+        "count": 37
+      },
+      {
+        "year": 2012,
+        "count": 13
+      },
+      {
+        "year": 2013,
+        "count": 37
+      },
+      {
+        "year": 2014,
+        "count": 83
+      },
+      {
+        "year": 2015,
+        "count": 58
+      },
+      {
+        "year": 2016,
+        "count": 159
+      },
+      {
+        "year": 2017,
+        "count": 78
+      },
+      {
+        "year": 2018,
+        "count": 32
+      },
+      {
+        "year": 2019,
+        "count": 23
+      },
+      {
+        "year": 2020,
+        "count": 22
+      },
+      {
+        "year": 2021,
+        "count": 38
+      },
+      {
+        "year": 2022,
+        "count": 18
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "10V240000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "GM IS RECALLING CERTAIN MODEL YEAR 2006-2009 BUICK, LUCERNE; CADILLAC DTS; HUMMER H2; MODEL YEAR 2008-2009 BUICK ENCLAVE; CADILLAC CTS; MODEL YEAR 2007-2009 CADILLAC ESCALADE, ESCALADE ESV, ESCALADE EXT; CHEVROLET AVALANCHE, SILVERADO, SUBURBAN, TAHOE; GMC ACADIA, SIERRA, YUKON, YUKON XL; SATURN OUT",
+        "report_date": "04/06/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:50:24.720Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

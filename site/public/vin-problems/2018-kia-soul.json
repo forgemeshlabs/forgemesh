@@ -1,0 +1,128 @@
+{
+  "slug": "2018-kia-soul",
+  "year": 2018,
+  "make": "Kia",
+  "model": "Soul",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 213,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 135,
+        "share_pct": 63.4,
+        "excerpts": [
+          "My car has very high oil consumption. I regularly take it for oil changes and have never missed an oil change. In between oil changes I need to put anywhere between 2-3 bottles of oil in. I have taken",
+          "The vehicle is suffering from an extreme internal engine oil consumption defect, burning approximately 3 quarts of engine oil every 500 to 600 miles with no external leaks. The internal oil burning he",
+          "My 2018 Kia Soul has failed on oil consumption test and needs and engine replacement. Kia knows of these issues with these cars but will not cover the engine replacement cost bc the class action suit "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 31,
+        "share_pct": 14.6,
+        "excerpts": [
+          "The contact owns a 2018 Kia Soul. The contact stated that while driving at 45 MPH, the vehicle stalled and jerked while accelerating and experienced severe jerking while decelerating. The failure had ",
+          "On [XXX], my 2018 Kia Soul (VIN [XXX] ) displayed DTC P1326 with a blinking check engine light and went into limp mode. Ray’s Automotive documented P1326 in writing, added oil, and cleared the light o",
+          "Description of the Problem: My 2018 Kia Soul has a recurring and unresolved safety issue involving sudden loss of power while driving. The check-engine light repeatedly comes on, and at times the vehi"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 19,
+        "share_pct": 8.9,
+        "excerpts": [
+          "The vehicle is suffering from an extreme internal engine oil consumption defect, burning approximately 3 quarts of engine oil every 500 to 600 miles with no external leaks. The internal oil burning he",
+          "I am writing to report safety concerns regarding my 2018 Kia Soul Plus. I have been experiencing several engine issues, including knocking noises, hesitation during acceleration, excessive oil consump",
+          "Unknown...the car goes into limp mode suddenly...my battery was boiling an shot liquid out of it, prior to this my other battery leaked an the alternator was bad ....when this happens suddenly you hav"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 11,
+        "share_pct": 5.2,
+        "excerpts": [
+          "Engine control system is STILL faulty.  The engine light will not go off, even after the so called recall Software fix and the brand new engine put in my car in 2025 among other MULTIPLE brand new par",
+          "I am writing to report safety concerns regarding my 2018 Kia Soul Plus. I have been experiencing several engine issues, including knocking noises, hesitation during acceleration, excessive oil consump",
+          "Going through oil so fast excessive oil use"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 11,
+        "share_pct": 5.2,
+        "excerpts": [
+          "I am submitting this complaint regarding failure to complete a federally mandated safety recall and the subsequent release of my vehicle in an unsafe condition after prolonged dealer custody. Vehicle ",
+          "A Kia franchise dealership demanded payment for diagnostics in order to perform a federal airbag safety recall, which I refused. After the dealer’s involvement, the vehicle’s diagnostic/OBD port becam",
+          "I was involved in a high speed car accident last week where the impact made me hit my head on the steering wheel. My air bags never deployed even though the other driver was going at least 70mph. My v"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 14,
+      "fires": 14,
+      "injuries": 12,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2018,
+        "count": 15
+      },
+      {
+        "year": 2019,
+        "count": 19
+      },
+      {
+        "year": 2020,
+        "count": 19
+      },
+      {
+        "year": 2021,
+        "count": 32
+      },
+      {
+        "year": 2022,
+        "count": 36
+      },
+      {
+        "year": 2023,
+        "count": 19
+      },
+      {
+        "year": 2024,
+        "count": 26
+      },
+      {
+        "year": 2025,
+        "count": 32
+      },
+      {
+        "year": 2026,
+        "count": 13
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "22V031000",
+        "component": "AIR BAGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2017-2019 Sedona, Soul, Soul EV, 2017-2018 Forte, and 2017 Forte Koup vehicles.  The Air Bag Control Unit (ACU) cover may contact a memory chip on the printed circuit board and damage the electrical circuit.  Circuit damage may result in deactivated air ",
+        "report_date": "25/01/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:25.294Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

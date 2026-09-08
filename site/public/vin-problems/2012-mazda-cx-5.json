@@ -1,0 +1,41 @@
+{
+  "slug": "2012-mazda-cx-5",
+  "year": 2012,
+  "make": "Mazda",
+  "model": "CX-5",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1,
+    "top_failure_components": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 1,
+        "share_pct": 100,
+        "excerpts": [
+          "I WAS IN AN INTERSECTION WHEN THE LIGHT CHANGED, I TRIED TO ACCELERATE TO CLEAR THE INTERSECTION BUT MY VEHICLE WOULD NOT ACCELERATE. I SLOWLY DROVE THROUGH THE INTERSECTION,WITH HORNS BLOWING AROUND "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 0,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2012,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T19:56:05.700Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

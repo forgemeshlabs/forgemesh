@@ -1,0 +1,200 @@
+{
+  "slug": "2020-honda-pilot",
+  "year": 2020,
+  "make": "Honda",
+  "model": "Pilot",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 483,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 210,
+        "share_pct": 43.5,
+        "excerpts": [
+          "While driving on my way home from work (24 mile drive) I received on my dashboard faults that flashed briefly for my steering, lane keeping assistance, lane departure, forward collision, automatic eme",
+          "There's an old recall called FAKRA Service Cable Safety, Recall Number #23V-431, The recall issue was fixed, but it is now recurring. The cracking windshield sound, along with the screen shutting off ",
+          "The contact owns a 2020 Honda Pilot. The contact stated that the radio made an abnormal crackling and popping sound, and the instrument cluster flickered with the Collision Mitigation Braking System ("
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 100,
+        "share_pct": 20.7,
+        "excerpts": [
+          "Tachometer is starting to surging idle. Getting a wave of errors lights and messages. It’s also a known problem on the 2019 of the same model and it has a recall. I received the same code from an auto",
+          "The contact owns a 2020 Honda Pilot. The contact stated that after starting the vehicle, there was an abnormal ticking sound coming from the engine. The vehicle was taken to the local dealer, who exam",
+          "Engine start/stop function fails to restart after automatically shutting off at a light or in traffic. It falters and fails to start, then the dashboard lights up with errors, and I have to put it int"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 83,
+        "share_pct": 17.2,
+        "excerpts": [
+          "I got in the car one morning and had 5 error codes come on and they have not gone off. None of the driver assist controls are working.  The cruise control does not work either.  All of the dash lights",
+          "All safety alerts started showing as the forward camera has an internal failure as diagnosed by the dealer",
+          "While driving the vehicle on a family trip all of the driver assist functions shut off.  Cruise Control, Lane Assist, etc.  Numerous warning lights were triggered including brake system.  Most noted t"
+        ]
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "complaints": 42,
+        "share_pct": 8.7,
+        "excerpts": [
+          "While driving on my way home from work (24 mile drive) I received on my dashboard faults that flashed briefly for my steering, lane keeping assistance, lane departure, forward collision, automatic eme",
+          "All safety alerts started showing as the forward camera has an internal failure as diagnosed by the dealer",
+          "While driving the vehicle on a family trip all of the driver assist functions shut off.  Cruise Control, Lane Assist, etc.  Numerous warning lights were triggered including brake system.  Most noted t"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 35,
+        "share_pct": 7.2,
+        "excerpts": [
+          "The contact owns a 2020 Honda Pilot. The contact stated while driving at an undisclosed speed, the vehicle hesitated while accelerating and was shaking violently. The contact associated the failure wi",
+          "I am reporting a severe safety defect regarding the automatic transmission on my 2020 Honda Pilot AWD (VIN: [XXX]). The vehicle experiences a violent and constant transmission vibration/judder under l",
+          "MOST Network problems continue to persist even after MOST FAKRA Service Cables Safety Recall work was performed. Typical progression: Radio goes silent, Infotainment Screen displays error message, \"Ne"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 5,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 11
+      },
+      {
+        "year": 2020,
+        "count": 108
+      },
+      {
+        "year": 2021,
+        "count": 52
+      },
+      {
+        "year": 2022,
+        "count": 55
+      },
+      {
+        "year": 2023,
+        "count": 67
+      },
+      {
+        "year": 2024,
+        "count": 71
+      },
+      {
+        "year": 2025,
+        "count": 70
+      },
+      {
+        "year": 2026,
+        "count": 49
+      }
+    ]
+  },
+  "recalls": {
+    "count": 11,
+    "recalls": [
+      {
+        "campaign_number": "20V439000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2020 Odyssey, 2019-2020 Passport, and 2019-2021 Pilot vehicles.   Incorrect instrument panel control module software can cause the instrument panel to not display critical information, such as engine oil pressure, speedometer, and gear selec",
+        "report_date": "28/07/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V440000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2021 Pilot, 2019-2020 Odyssey and 2019-2020 Passport vehicles.  Incorrect central network software programming may cause several errors to occur that can delay or prevent the rearview camera image from displaying.  As such, these vehicles fa",
+        "report_date": "28/07/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V067000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020 Passport and Pilot vehicles.  The certification label may have been printed with ink that can be wiped away with a solvent, removing the Gross Axle Weight Rating (GAWR) and Gross Vehicle Weight Rating (GVWR) information.",
+        "report_date": "06/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V165000",
+        "component": "TIRES",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2020 Passport and Pilot vehicles equipped with Continental tires.  On the affected vehicles, it is possible that one or more tires were cured for too long during tire production.",
+        "report_date": "11/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V784000",
+        "component": "STRUCTURE:BODY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2020 Pilot and 2019 Passport vehicles.  The front frame left and right side upper members may not have been welded completely to the unibody.  As such, these vehicles may fail to comply with the requirements of Federal Motor Vehicle Safety S",
+        "report_date": "31/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V174000",
+        "component": "VISIBILITY:REARVIEW MIRRORS/DEVICES:EXTERIOR",
+        "summary": "Honda (American Honda Motor Co) is recalling certain 2020-2021 Pilot and Ridgeline, and 2020-2022 Passport and Odyssey vehicles.  The heating pads behind both side-view mirrors may not be bonded properly, allowing the mirror glass to detach.  As such, these vehicles fail to comply with the requireme",
+        "report_date": "16/03/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V431000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2023 Odyssey, 2019-2022 Pilot, and 2019-2023 Passport vehicles.  Due to a faulty Media Oriented Systems Transport (MOST) communication coaxial cable connector, the rearview camera image may not appear on the display.  As such, these vehicles",
+        "report_date": "15/06/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V064000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020-2022 Pilot, Accord, Civic sedan, HR-V, Odyssey, 2020 Civic coupe, Fit, 2021-2022 Civic hatchback, 2021 Civic Type R, Insight, 2020-2021 CR-V, CR-V Hybrid, Passport, Ridgeline, Accord Hybrid, 2020 Acura MDX, 2022 Acura MDX, 2020-2022 Acura RD",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V365000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "American Honda Motor Company (Honda) is recalling certain 2016-2022 Honda Pilot, 2017-2023 Ridgeline, 2019-2023 Passport, and 2014-2020 Acura MDX vehicles that were sold in Connecticut, Delaware, District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minne",
+        "report_date": "04/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:55.796Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

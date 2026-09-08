@@ -1,0 +1,152 @@
+{
+  "slug": "2014-gmc-terrain",
+  "year": 2014,
+  "make": "GMC",
+  "model": "Terrain",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 301,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 124,
+        "share_pct": 41.2,
+        "excerpts": [
+          "My husband just did an at home oil change on the car not long before the incident. Unfortunately my car was barely under 3,000 miles since the oil change and we were going to change the oil again when",
+          "I purchased this in March of 2025. 2 or 3 weeks after I  bought this I took it to an oil lube shop and they said there was not any oil on the.dip stick. Also I started noticing the car being jerky whi",
+          "The contact owns a  2014 GMC Terrain. The contact stated that while driving 50 MPH, the vehicle started jerking and hesitating abnormally. A dealer was contacted. The vehicle was towed to a dealer, wh"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 74,
+        "share_pct": 24.6,
+        "excerpts": [
+          "The contact owns a 2014 GMC Terrain. The contact stated while driving 15 MPH in a snowstorm, the windshield wipers became inoperable. The contact was able to drive to the residence. The contact had re",
+          "Wipers stop working In snow storm",
+          "I was driving my suv while it was raining heavily and my driver side wipers just stop working out of no where the passenger side still operates. I have not been to see if a dealer can fix it because I"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 33,
+        "share_pct": 11,
+        "excerpts": [
+          "Tensioner issues keeps breaking the timing chain. . Replaced twice at own cost.  Fuel pump/ loss of power while driving. Back up camera doesn't work sometimes. Screen goes black. If key is left in the",
+          "Vehicle is consuming excessive amount of oil in short drive time up to 3qt in less than 1000 miles. With no oil leaks. Vehicle only has 139840 miles. Has regular oil changes and services done.",
+          "I have a 2014 GMC Terrain with less than 70k miles on the vehicle.  I took the truck to the mechanic and was advised the power belts were no good.   Why is this?  The truck has no mileage on it basica"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 32,
+        "share_pct": 10.6,
+        "excerpts": [
+          "ABS Brake problem and have tried to get it repaired for over 3 months and cannot seem to be able to get the part and call GM with no help. Can not tell me when or where to buy the part. Nobody seems t",
+          "Tensioner issues keeps breaking the timing chain. . Replaced twice at own cost.  Fuel pump/ loss of power while driving. Back up camera doesn't work sometimes. Screen goes black. If key is left in the",
+          "The contact owns a 2014 GMC Terrain. The contact stated that the vehicle failed to start, and the steering wheel was locked. A tow truck driver was able to start the vehicle after several attempts. Th"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 17,
+        "share_pct": 5.6,
+        "excerpts": [
+          "The contact owns a 2014 GMC Terrain. The contact stated that while driving at various speeds at night, the headlight illumination was inadequate. The contact used the high-beam headlights while drivin",
+          "I haven’t had a call back from the dealership it has been over a year since I’ve heard anything from them to get the recall fixed.",
+          "The contact owns a 2014 GMC Terrain. The contact received notification of NHTSA Campaign Numbers: 22V165000 (Visibility) and 22V137000 (Exterior Lighting) however, the parts to do the recall repairs w"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 2,
+      "injuries": 8,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2013,
+        "count": 2
+      },
+      {
+        "year": 2014,
+        "count": 15
+      },
+      {
+        "year": 2015,
+        "count": 8
+      },
+      {
+        "year": 2016,
+        "count": 13
+      },
+      {
+        "year": 2017,
+        "count": 20
+      },
+      {
+        "year": 2018,
+        "count": 26
+      },
+      {
+        "year": 2019,
+        "count": 47
+      },
+      {
+        "year": 2020,
+        "count": 45
+      },
+      {
+        "year": 2021,
+        "count": 37
+      },
+      {
+        "year": 2022,
+        "count": 42
+      },
+      {
+        "year": 2023,
+        "count": 19
+      },
+      {
+        "year": 2024,
+        "count": 18
+      },
+      {
+        "year": 2025,
+        "count": 8
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "22V137000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2010-2017 GMC Terrain vehicles.  A reflection caused by the headlight housings may illuminate areas above the vehicle and outside of the driver's view with excessively bright light.  As such, these vehicles fail to comply with the requirements of Federal",
+        "report_date": "08/03/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V165000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014-2015 Chevrolet Equinox and GMC Terrain vehicles.  The ball joints in the windshield wiper module may corrode, causing one or both windshield wipers to fail.",
+        "report_date": "17/03/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:58:51.676Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "2013-kia-optima",
+  "year": 2013,
+  "make": "Kia",
+  "model": "Optima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1381,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 612,
+        "share_pct": 44.3,
+        "excerpts": [
+          "The contact owns a 2013 Kia Optima. The contact stated that while driving or while the vehicle was parked, there was an abnormal fuel odor inside the vehicle. The vehicle was leaking fuel from the hig",
+          "On July 14, 2026, the vehicle's engine was replaced by an authorized dealership under an official Kia recall.  On August 16, 2026, while driving on the highway, heavy smoke suddenly began emitting fro",
+          "the engine revs high and transmission wont shift  and when you turn the steering wheel ya get a loud click and the steering wheels jumps"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 213,
+        "share_pct": 15.4,
+        "excerpts": [
+          "The contact owns a 2013 Kia Optima. The contact stated that while driving 30 MPH, the steering wheel was difficult to turn. There was an abnormal clicking sound coming from the vehicle and the vehicle",
+          "the engine revs high and transmission wont shift  and when you turn the steering wheel ya get a loud click and the steering wheels jumps",
+          "The steering column From the car has diminished causing dangerous shaking on highway at high speeds"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 146,
+        "share_pct": 10.6,
+        "excerpts": [
+          "Module 1 7.5 amp fuse continues to short and blow over and over again. Known issues with auto headlamp leveling sensor. Problem continues to happen.  Lose my highbeams, shift lock, rear defrost, rearv",
+          "Code : P1777 Transmission- oil pump  A issue with the Valve cover gasket leaking into the engine causing a misfire. Making the car suddenly stop while driving which is very unsafe. I took the car to t",
+          "My car started shutting down while driving. After the engine started seizing the key wouldn't turn in my ignition. Took car to dealership immediately on 10, 2026. Took again in 2024 for recall and oth"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 127,
+        "share_pct": 9.2,
+        "excerpts": [
+          "Paint began chipping/flaking off little by little everytime I washed the car. It’s a common occurrence with snowy white Kia paint in this year",
+          "Paint on car is coming off from hood and doors  headlights are not bright had to change to aftermarket to make it brighter",
+          "The vehicle paint is bubbling and peeling"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 114,
+        "share_pct": 8.3,
+        "excerpts": [
+          "On July 14, 2026, the vehicle's engine was replaced by an authorized dealership under an official Kia recall.  On August 16, 2026, while driving on the highway, heavy smoke suddenly began emitting fro",
+          "I am writing to formally report a dangerous safety defect involving the braking system and the Hydraulic Electronic Control Unit (HECU) on my 2013 Kia Optima Hybrid. While operating the vehicle, sever",
+          "Brake pedal loses pressure and disengages with brakes. Traction light, maintenance light, hybrid system warning message, check brakes message and parking brake intermittently turns on and off. I calle"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 48,
+      "fires": 114,
+      "injuries": 36,
+      "deaths": 4
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 1989,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 16
+      },
+      {
+        "year": 2013,
+        "count": 52
+      },
+      {
+        "year": 2014,
+        "count": 42
+      },
+      {
+        "year": 2015,
+        "count": 53
+      },
+      {
+        "year": 2016,
+        "count": 61
+      },
+      {
+        "year": 2017,
+        "count": 105
+      },
+      {
+        "year": 2018,
+        "count": 105
+      },
+      {
+        "year": 2019,
+        "count": 170
+      },
+      {
+        "year": 2020,
+        "count": 172
+      },
+      {
+        "year": 2021,
+        "count": 145
+      },
+      {
+        "year": 2022,
+        "count": 115
+      },
+      {
+        "year": 2023,
+        "count": 131
+      },
+      {
+        "year": 2024,
+        "count": 107
+      },
+      {
+        "year": 2025,
+        "count": 68
+      },
+      {
+        "year": 2026,
+        "count": 36
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "18V907000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2011-2017 Optima, 2012-2017 Sorento and 2011-2018 Sportage vehicles that previously received an engine replacement under recall number 17V-224, warranty, or the Knock Sensor Detection System (KSDS) Product Improvement Campaign.  The high pressure fuel pi",
+        "report_date": "19/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V363000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2010-2013 Kia Forte, Forte Koup, 2011-2013 Kia Optima and 2011-2012 Kia Optima Hybrid and Sedona vehicles.  In the event of a crash, the air bag control unit (ACU) may short circuit, preventing the frontal air bags and seat belt pretensioners from deploy",
+        "report_date": "01/06/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V100000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2013-2014 Optima vehicles equipped with 2.4L Gasoline Direct Injection (GDI) or 2.0L GDI Turbo engines.  The low pressure fuel hose may deteriorate and crack over time due to heat generated within the engine compartment.",
+        "report_date": "21/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V519000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2013-2015 Optima and 2014-2015 Sorento vehicles.  Brake fluid may leak inside the Hydraulic Electronic Control Unit (HECU), possibly resulting in an electrical short.",
+        "report_date": "27/08/2020",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "21V331000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2013-2015 Optima and 2014-2015 Sorento vehicles previously recalled under recall 20V-519.  Brake fluid may leak inside the Hydraulic Electronic Control Unit (HECU), possibly resulting in an electrical short.",
+        "report_date": "10/05/2021",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "17V224000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Kia Motor Company (Kia) is recalling certain 2011-2014 Optima, 2012-2014 Sorento and 2011-2013 Sportage vehicles.  Machining errors during the engine manufacturing process may cause premature bearing wear within the engine.",
+        "report_date": "31/03/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V093000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2013-2014 Optima vehicles that were previously repaired under NHTSA recall number 20V-100.  The low pressure fuel hose may be damaged, or missing heat-protective tape, which can result in a fuel leak.",
+        "report_date": "17/02/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V560000",
+        "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2012-2013 Optima vehicles.  The right and left headliner plates may not be secured properly, which can result in the plates detaching in the event of a side curtain air bag deployment.",
+        "report_date": "01/08/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V652000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2010-2019 Borrego, 2014-2016 Cadenza, 2010-2013 Forte, Forte Koup, Sportage, 2015-2018 K900, 2011-2015 Optima, 2011-2013 Optima Hybrid, Soul, 2012-2017 Rio, 2011-2014 Sorento, and 2010-2011 Rondo vehicles.  The Hydraulic Electronic Control Unit (HECU) may",
+        "report_date": "25/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:56:54.153Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,200 @@
+{
+  "slug": "2011-toyota-prius",
+  "year": 2011,
+  "make": "Toyota",
+  "model": "Prius",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 518,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 273,
+        "share_pct": 52.7,
+        "excerpts": [
+          "Vehicle Information: 2011 Toyota Prius, 144,000 miles. Component: Hydraulic Service Brakes, Electronic Stability Control, Anti-lock Braking System.  Description of Incident: While driving at normal sp",
+          "Every time I'd press the brakes there'd be an audible \"click\" noise and then when taking my foot off the brake it'd sound like a manual tire pump being pressed... kind of like air filling / hydraulic ",
+          "Vehicle Information: Year: 2011 Make: Toyota Model: Prius Mileage at Failure: 58,769 miles Date of First Use: February 20, 2012 Complaint Description:  As I was driving on the freeway, my 2011 Toyota "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 68,
+        "share_pct": 13.1,
+        "excerpts": [
+          "I was driving my car at over 70 mph on a highway, no check engine, no issues, just had oil changed when check hybrid system alert came on with check engine light. I started to change lanes to get to s",
+          "Odometer Fraud. The contact purchased a 2011 Toyota Prius. The contact stated that while attempting to register the vehicle, it was discovered that there was a mileage discrepancy. The vehicle was a d",
+          "Around 14 months ago (march 2024) I purcheded a replacment battery pack for our 2011 Toyota Prius form NexPower Energy (also going by, project lithium, sodiumhybrid) based out of CA. The battery pack "
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 49,
+        "share_pct": 9.5,
+        "excerpts": [
+          "Attached is a report from the Florida Attorney General's project office.  Vehicle front headlight bulbs burn out prematurely and frequently and without warning causing reduced visibility at night on d",
+          "The low-beam headlamps on thousands of 2011 Toyota Priuses were burning out very prematurely (a matter of weeks, not months). Toyota Corporate said they created a customer support program to replace t",
+          "The contact owns a 2011 Toyota Prius. The contact stated while driving at an undisclosed speed on dark roads, the contact became aware that the headlights were extremely dim. The illumination was inad"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 46,
+        "share_pct": 8.9,
+        "excerpts": [
+          "I was driving my car at over 70 mph on a highway, no check engine, no issues, just had oil changed when check hybrid system alert came on with check engine light. I started to change lanes to get to s",
+          "The contact owns a 2011 Toyota Prius. The contact stated that while operating the vehicle, the check engine warning light remained illuminated, the vehicle had unexpectedly shut off. Additionally, the",
+          "In 11/2024, I started experiencing intermittent noises coming from the engine compartment of my 2011 Toyota Prius. The initial sound resembled the buzzing noise generated when first  starting the vehi"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 46,
+        "share_pct": 8.9,
+        "excerpts": [
+          "The contact owned a 2011 Toyota Prius. The contact stated while driving at an undisclosed speed in an intersection, a Ford F-150 vehicle crashed into the front driver's side of the vehicle. The contac",
+          "On Friday June 9, 2023 we drove the 2011 Prius on our daily travels. This was uneventful. Parked the vehicle around 10pm that same night. We drove it on the following Saturday around noon on a very sh",
+          "ON Sept 9th, 2022, I was involved in a collision, traveling approximately 30 - 40 MPH and struck a vehicle that pulled into my path.  I struck the other vehicle perpendicularly (T-Boned).  My vehicle "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 36,
+      "fires": 7,
+      "injuries": 17,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 28
+      },
+      {
+        "year": 2012,
+        "count": 40
+      },
+      {
+        "year": 2013,
+        "count": 27
+      },
+      {
+        "year": 2014,
+        "count": 31
+      },
+      {
+        "year": 2015,
+        "count": 30
+      },
+      {
+        "year": 2016,
+        "count": 51
+      },
+      {
+        "year": 2017,
+        "count": 28
+      },
+      {
+        "year": 2018,
+        "count": 57
+      },
+      {
+        "year": 2019,
+        "count": 45
+      },
+      {
+        "year": 2020,
+        "count": 23
+      },
+      {
+        "year": 2021,
+        "count": 21
+      },
+      {
+        "year": 2022,
+        "count": 37
+      },
+      {
+        "year": 2023,
+        "count": 36
+      },
+      {
+        "year": 2024,
+        "count": 34
+      },
+      {
+        "year": 2025,
+        "count": 18
+      },
+      {
+        "year": 2026,
+        "count": 10
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "18V684000",
+        "component": "HYBRID PROPULSION SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2010-2014 Toyota Prius and 2012-2014 Toyota Prius V vehicles.  Excessive voltage in the Intelligent Power Module (IPM) within the inverter may cause the hybrid system to shut down, causing the vehicle to stall while being driven.",
+        "report_date": "04/10/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V487000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2010-2012 Toyota Prius, 2010 and 2012 Toyota Prius Plug-in Hybrid, and 2011-2012 Lexus CT200h vehicles.  A weld in the curtain shield air bag inflator may crack causing one or both portions of the inflator to eject int",
+        "report_date": "30/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V743000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2011 Prius and Corolla, 2009-2011 Venza, 2006-2010 Avalon, 2007-2010 FJ Cruiser, 2005-2011 Sienna and Sequoia, 2006-2011 Tacoma 4x2 and 4x4, Camry, Highlander, Tundra 4x2 and 4x4, and 2007-2011 Rav4 and 4Runner.  The affec",
+        "report_date": "19/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V053000",
+        "component": "HYBRID PROPULSION SYSTEM: INVERTER",
+        "summary": "Toyota is recalling certain model year 2010 through 2014 Prius vehicles.  In the affected vehicles, the Intelligent Power Module (IPM) inside the inverter module (a component of the hybrid system) contains transistors that may become damaged from high operating temperatures.  If this occurs, various",
+        "report_date": "12/02/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V396000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2005-2011 4Runner, Highlander, Sequoia, and Sienna, 2005-2010 Avalon and Tundra, 2006-2008 Camry Solara, 2006-2010 Highlander hybrid, 2006-2011 Rav4 and Tacoma, 2007-2010 FJ Cruiser, 2007-2011 Camry hybrid, 2009-2010 Venza, 2010-2012 Priu",
+        "report_date": "02/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:54:56.990Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

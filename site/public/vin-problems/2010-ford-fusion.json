@@ -1,0 +1,264 @@
+{
+  "slug": "2010-ford-fusion",
+  "year": 2010,
+  "make": "Ford",
+  "model": "Fusion",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 5125,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 1658,
+        "share_pct": 32.4,
+        "excerpts": [
+          "The contact owns a 2010 Ford Fusion. The contact stated that while driving 70 MPH, the vehicle experienced a loss of power steering assist. The traction control warning light was illuminated. The cont",
+          "The 2010 Ford fusion has 2584 complaints the second highest from 2010 to 2014; mine has been giving me intermittent issues for 3 years now and some times there is no error code and inspection cannot f",
+          "Steering wheel will not turn. Tried to reset but that did not work. Mechanic diagnosed it as a power steering rack failure. Steering rack needs to be replaced."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 894,
+        "share_pct": 17.4,
+        "excerpts": [
+          "I was driving my car down the road and all the sudden I couldn't steer my car It caused me to go off the road and hit a ditch",
+          "Unintended acceleration event.  Entered vehicle, put my foot on the brake, cranked it, held in that position while seatbelting.  Engine had a VERY loud revving sound.  Within seconds vehicle moving ba",
+          "Driver side CV AXLE  broke."
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 793,
+        "share_pct": 15.5,
+        "excerpts": [
+          "Electronic Throttle Body  Car lost power on busy, construction road  Manufacturer issued secret warranty to owners and did not send out notice  Multiple certified mechanics have inspected the vehicle ",
+          "Electronic throttle body failure  My car  lost power going 50 mph in road construction  The car had a recall and extended warranty on it from 2014-2024, i was not notified  Check engine light, drive s",
+          "The Anti-Lock Brake System (ABS) malfunctioned causing the brakes to give out while I was driving the vehicle. Luckily I was on a residential street and I was able to safely pull over, but it could ha"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 700,
+        "share_pct": 13.7,
+        "excerpts": [
+          "I was driving my car down the road and all the sudden I couldn't steer my car It caused me to go off the road and hit a ditch",
+          "The throttle body failed.  It is not available for inspection because it was replaced.  While driving on a high-speed road, the engine felt like it shuddered, and the car lost engine power and would n",
+          "Electronic Throttle Body  Car lost power on busy, construction road  Manufacturer issued secret warranty to owners and did not send out notice  Multiple certified mechanics have inspected the vehicle "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 590,
+        "share_pct": 11.5,
+        "excerpts": [
+          "my car was rear ended in an accident somebody ran into the back of my car while i was stopped/parked at a stop light.. the impact was so hard that i crashed into another vehicle that was in front of m",
+          "Was driving down parkway when came up on my exit it was hard to make the turn to even go up. The exit ramp the power steering light and the advanced track light and brake system. Light all came on fla",
+          "There is a recall date on this car dating back 2021. I bought this car in 2024. The recall problems was never addressed or fixed. This had created an electrical error in the car, given no airbags, and"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 122,
+      "fires": 9,
+      "injuries": 74,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 1
+      },
+      {
+        "year": 2006,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 26
+      },
+      {
+        "year": 2010,
+        "count": 162
+      },
+      {
+        "year": 2011,
+        "count": 160
+      },
+      {
+        "year": 2012,
+        "count": 395
+      },
+      {
+        "year": 2013,
+        "count": 1102
+      },
+      {
+        "year": 2014,
+        "count": 331
+      },
+      {
+        "year": 2015,
+        "count": 337
+      },
+      {
+        "year": 2016,
+        "count": 511
+      },
+      {
+        "year": 2017,
+        "count": 385
+      },
+      {
+        "year": 2018,
+        "count": 510
+      },
+      {
+        "year": 2019,
+        "count": 371
+      },
+      {
+        "year": 2020,
+        "count": 250
+      },
+      {
+        "year": 2021,
+        "count": 172
+      },
+      {
+        "year": 2022,
+        "count": 154
+      },
+      {
+        "year": 2023,
+        "count": 128
+      },
+      {
+        "year": 2024,
+        "count": 76
+      },
+      {
+        "year": 2025,
+        "count": 38
+      },
+      {
+        "year": 2026,
+        "count": 15
+      }
+    ]
+  },
+  "recalls": {
+    "count": 13,
+    "recalls": [
+      {
+        "campaign_number": "19V001000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2014 Ford Mustang vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, Puerto Rico, American Samoa, Guam, the Northern Mariana Islands (Saipan), and the U.S. Vi",
+        "report_date": "07/01/2019",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V158000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2007-2011 Ranger, 2006-2012 Fusion, Lincoln Zephyr, Lincoln MKZ, 2006-2011 Mercury Milan, 2007-2010 Ford Edge, and Lincoln MKX vehicles.  The driver's side air bag inflator may explode due to propellant degradation occurring after long-term exposure to ",
+        "report_date": "10/03/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V081000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2005-2014 Mustang, 2004-2011 Ranger, 2009-2011 Mercury Milan, 2006 Ford GT, 2008-2012 Fusion, 2007-2010 Edge and Lincoln MKX, and 2009-2010 Lincoln MKZ vehicles.  These vehicles may be equipped with a driver or passenger frontal air bag inflator used as",
+        "report_date": "16/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21E013000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain air bag inflator and/or module replacement service parts that may have been used as part of a collision repair.  The parts include certain driver-side air bag inflators and/or modules, designed to fit 2005-2014 Ford Mustang and Mustang GT500.  It also i",
+        "report_date": "16/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V775000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2010 Ford Fusion, Mercury Milan and 2010-2012 Lincoln MKZ vehicles that previously received a replacement passenger air bag under recall 16V-384, 17V-024 or 18V-046.  In the event of a crash requiring deployment of the passenger air bag, the bracket tha",
+        "report_date": "01/11/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V904000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2006-2010 Ford Fusion, Mercury Milan, Lincoln Zephyr and MKZ vehicles.  The valves within the ABS Hydraulic Control Units (HCU) may react with brake fluids containing specific corrosion preventative additives.  This reaction may cause the valves to not ",
+        "report_date": "18/12/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V046000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2013 Ford Mustang vehicles sold, or ever registered in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, Puerto Rico, American Samoa, Guam, the Northern Mariana Islands (Saipan), and the U.S. Vir",
+        "report_date": "11/01/2018",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V793000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:AUXILLARY TANK",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2010-2011 Ford Fusion vehicles manufactured July 21, 2008, to March 4, 2011, and 2010-2011 Mercury Milan vehicles manufactured July 23, 2008, to December 10, 2010.  The affected vehicles have fuel vapor canisters whose purge valves may not op",
+        "report_date": "24/11/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14E028000",
+        "component": "EQUIPMENT",
+        "summary": "Ford Motor Company (Ford) is recalling certain all weather driver side accessory floor mats sold for use in model year 2006-2011 Ford Fusion and Mercury Milan, 2006 Lincoln Zephyr, and 2007-2011 Lincoln MKZ vehicles manufactured November 9, 2007, through October 31, 2010.  The affected floor mats ma",
+        "report_date": "29/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V384000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2007-2011 Ford Ranger vehicles, 2006-2011 Ford Fusion, Mercury Milan and Lincoln Zephyr/MKZ vehicles, 2007-2010 Ford Edge, Lincoln MKX vehicles, 2005-2006 Ford GT vehicles, and 2005-2011 Ford Mustang vehicles originally sold, or ever register",
+        "report_date": "31/05/2016",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V574000",
+        "component": "WHEELS:LUGS/NUTS/BOLTS/STUDS",
+        "summary": "FORD IS RECALLING CERTAIN MODEL YEAR 2010-2011 FORD FUSION AND MERCURY MILAN VEHICLES EQUIPPED WITH 17 INCH STEEL WHEELS AND BUILT FROM APRIL 1, 2009, THROUGH APRIL 30, 2009, AND FROM DECEMBER 1, 2009, THROUGH NOVEMBER 13, 2010.  THE WHEEL STUDS MAY FRACTURE, POTENTIALLY CAUSING A WHEEL TO SEPARATE.",
+        "report_date": "07/12/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V161000",
+        "component": "SEATS:FRONT ASSEMBLY:RECLINER",
+        "summary": "FORD IS RECALLING CERTAIN MODEL YEAR 2010 FUSION, EXPLORER, EXPLORER SPORT TRAC, AND MERCURY MILAN AND MOUNTAINEER VEHICLES MANUFACTURED BETWEEN DECEMBER 15, 2009 THROUGH FEBRUARY 3, 2010 EQUIPPED WITH FRONT SEAT MANUAL RECLINERS.  THESE VEHICLES FAIL TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR",
+        "report_date": "20/04/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V222000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "FORD IS RECALLING CERTAIN MODEL YEAR 2010 FUSION, MILAN, AND ESCAPE VEHICLES MANUFACTURED FROM FEBRUARY 27, THROUGH MARCH 26, 2010.  THE PARK ROD GUIDE RETENTION PIN MAY NOT HAVE BEEN PROPERLY INSTALLED WHICH FAILS TO CONFORM TO THE REQUIREMENT OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 114, \"THEF",
+        "report_date": "24/05/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:51:31.538Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

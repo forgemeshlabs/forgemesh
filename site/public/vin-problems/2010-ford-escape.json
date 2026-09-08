@@ -1,0 +1,200 @@
+{
+  "slug": "2010-ford-escape",
+  "year": 2010,
+  "make": "Ford",
+  "model": "Escape",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 2127,
+    "top_failure_components": [
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 566,
+        "share_pct": 26.6,
+        "excerpts": [
+          "The contact owns a 2010 Ford Escape. The contact stated while driving at an undisclosed speed, and then stopped at a traffic light, the vehicle independently accelerated. The contact stated that the f",
+          "THIS VECHICAL IS BEING FINANCED THROUGH CENTRAL AUTO SALES OF HOT SPRINGS, ARKANSAS. THIS VECHICAL HAS SERIOUS ISSUES, I CONTACTED CENTRAL AUTO ABOUT MY CAR NOT FUNCTIONING PROPERLY. IT KEPT STALLING ",
+          "WHILE DRIVING AROUND 70 MPH ON THE FREEWAY MY 2010 FORD ESCAPE STARTED TO HESITATE WITH THE ENGINE RUNNING ROUGH, AND LEFT ME WITHOUT THE ABILITY TO ACCELERATE... I WAS A SITTING DUCK, LUCKILY I WAS A"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 513,
+        "share_pct": 24.1,
+        "excerpts": [
+          "Transmission axle was leaking 2020 and it was repaired two times that I paid for. It started leaking again a few months ago we took it in and discovered that it's a bearing or bushing which was a know",
+          "The transmission slips and looses power when in trafic.",
+          "putting the car on a lift noticed the rust on frame the inspecting further notice the rear axle rusted away from body"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 505,
+        "share_pct": 23.7,
+        "excerpts": [
+          "Bout the vehicle from a used car dealership in Victorville and in 22 days the truck valve body gave out in the middle of me driving almost causing a car accident on freeway. The solenoid D is stuck in",
+          "There is oil leak that cannot be found. I have taken that truck to 3 different mechanics, conducted 3 different diagnostics using the dye and everything and the source of this leak cannot be found and",
+          "concerns regarding my 2010 Ford Escape. Within thirty (30) days of purchase, the transmission completely failed, rendering the vehicle inoperable. Additionally, upon further inspection, it was discove"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 445,
+        "share_pct": 20.9,
+        "excerpts": [
+          "I recently bought this vehicle, I think about three months ago, used obviously. I will be going down the road, and for no apparent reason the vehicle will lose power steering. Not often but about once",
+          "There is oil leak that cannot be found. I have taken that truck to 3 different mechanics, conducted 3 different diagnostics using the dye and everything and the source of this leak cannot be found and",
+          "My vehicle is not able to pass the inspection and I have had a brand new gas tank put in and the engine lights are always on. I can’t get a new tag for the car and I have been pulled over by police 5 "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 440,
+        "share_pct": 20.7,
+        "excerpts": [
+          "Front subframe on the right side prematurely rusts, causing the vehicle to loose steering and pull to the right.",
+          "I went out to start my car and the power steering assist fault came on and wouldn't let me turn the wheel easily. When I looked up the problem the code came back to one of the recalls Ford has on thos",
+          "The complaint is regarding a 2010 Ford Escape, original owner and maintained mostly at dealer shop. Vehicle only has 79k miles on it, and has been garage stored. It has rust in the rear wheel wells an"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 32,
+      "fires": 3,
+      "injuries": 23,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 4
+      },
+      {
+        "year": 1999,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 6
+      },
+      {
+        "year": 2010,
+        "count": 65
+      },
+      {
+        "year": 2011,
+        "count": 46
+      },
+      {
+        "year": 2012,
+        "count": 150
+      },
+      {
+        "year": 2013,
+        "count": 863
+      },
+      {
+        "year": 2014,
+        "count": 153
+      },
+      {
+        "year": 2015,
+        "count": 90
+      },
+      {
+        "year": 2016,
+        "count": 138
+      },
+      {
+        "year": 2017,
+        "count": 121
+      },
+      {
+        "year": 2018,
+        "count": 139
+      },
+      {
+        "year": 2019,
+        "count": 78
+      },
+      {
+        "year": 2020,
+        "count": 71
+      },
+      {
+        "year": 2021,
+        "count": 45
+      },
+      {
+        "year": 2022,
+        "count": 48
+      },
+      {
+        "year": 2023,
+        "count": 38
+      },
+      {
+        "year": 2024,
+        "count": 33
+      },
+      {
+        "year": 2025,
+        "count": 29
+      },
+      {
+        "year": 2026,
+        "count": 9
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "16V777000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2010-2012 Ford Escape vehicles manufactured February 26, 2009, to April 29, 2012, and 2010-2011 Mercury Mariner vehicles manufactured February 25, 2009, to December 12, 2010.  On vehicles with a 3.0L engine, the Fuel Delivery Module (FDM) may",
+        "report_date": "26/10/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15E045000",
+        "component": "SUSPENSION:FRONT:WHEEL BEARING",
+        "summary": "The Timken Company (Timken) is recalling certain aftermarket front wheel bearings, part number 510072, sold from January 22, 2015, to May 21, 2015, to be used as service parts on 2001-2012 Ford Escape, 2001-2011 Mazda Tribute, and 2005-2011 Mercury Mariner vehicles.  The affected wheel bearings have",
+        "report_date": "03/06/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V284000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2008-2011 Ford Escape and Mercury Mariner vehicles manufactured August 18, 2006, through September 11, 2010.  The affected vehicles have a steering torque sensor that may not be able to properly detect driver steering input.  As a result, the",
+        "report_date": "29/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10E043000",
+        "component": "EQUIPMENT",
+        "summary": "MARATHON IS RECALLING CERTAIN SEAT COVERS, BRAND SUPERHIDES WITH PART NUMBERS 593, 594, 578, 960, 228, 228-09, 267-08, 333, 625, AND 630, SOLD FOR USE AS AFTERMARKET EQUIPMENT FOR VARIOUS PASSENGER VEHICLES.  THESE SEAT COVERS ARE MADE OF HEAVIER THREAD AND ARE NOT COMPATIBLE WITH SEATS CONTAINING S",
+        "report_date": "03/09/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V222000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "FORD IS RECALLING CERTAIN MODEL YEAR 2010 FUSION, MILAN, AND ESCAPE VEHICLES MANUFACTURED FROM FEBRUARY 27, THROUGH MARCH 26, 2010.  THE PARK ROD GUIDE RETENTION PIN MAY NOT HAVE BEEN PROPERLY INSTALLED WHICH FAILS TO CONFORM TO THE REQUIREMENT OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 114, \"THEF",
+        "report_date": "24/05/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:51:17.821Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

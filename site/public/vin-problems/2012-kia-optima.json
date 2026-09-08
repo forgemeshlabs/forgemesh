@@ -1,0 +1,184 @@
+{
+  "slug": "2012-kia-optima",
+  "year": 2012,
+  "make": "Kia",
+  "model": "Optima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 919,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 398,
+        "share_pct": 43.3,
+        "excerpts": [
+          "The dealer is refusing to replace the engine under the previously completed Safety Recall Campaign SC147 (NHTSA Campaign 17V224000). The engine is currently exhibiting clear signs of connecting rod be",
+          "Engine faílúre on June 26, 2026.Dies while moving. Engine died while turning from my side street onto busy street and traffic.I could've been struck in the rear had I not pulled out far enough in adva",
+          "A issue with the Valve cover gasket leaking into the engine causing a misfire. Making the car suddenly stop while driving which is very unsafe. I took the car to the dealership and they want to charge"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 188,
+        "share_pct": 20.5,
+        "excerpts": [
+          "Steering flexible coupling was a recall over 10 years ago, it was replaced. The steering wheel “sticks” and it’s catching again and they will not do anything. I’m not happy that this is an ongoing pro",
+          "I had a engine replaced 1600 miles ago delarsship advised it was ok to drive gave me a vechicle back with abs light tracation control light on along with a exuast leak",
+          "I bought this car February 2026 when I drove it on the freeway they car felt wiggly not the axle is broke and the wheel bearings stop the car from going"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 122,
+        "share_pct": 13.3,
+        "excerpts": [
+          "The horn stops working, steering heat stop working, control functions and air bag warning. I changed the clock spring and it fixed all those issues the first time but within 6 months all those issues ",
+          "A issue with the Valve cover gasket leaking into the engine causing a misfire. Making the car suddenly stop while driving which is very unsafe. I took the car to the dealership and they want to charge",
+          "Unknown but We were driving home from friant in motion when the car died and started smoking, no indication light were on before until after the incident all warning lights were on dash. Our lives wer"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 88,
+        "share_pct": 9.6,
+        "excerpts": [
+          "I bought this car February 2026 when I drove it on the freeway they car felt wiggly not the axle is broke and the wheel bearings stop the car from going",
+          "When the brake pedal is pressed on the brakes will grab. It snatches the car kinda hard. Also when you give the car gas it will hesitate and will not accelerate. Another with the gas is that you can b",
+          "•I’m not sure what failed, the car was parked. And yes it’s available for inspection.  •I had just parked the car coming from work and at the time. If I was in the car any longer than 5 more minutes i"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 54,
+        "share_pct": 5.9,
+        "excerpts": [
+          "Sudden engine failure while driving with no warning. Vehicle began jerking, shaking, and losing power. RPMs dropped unexpectedly and the engine stalled intermittently. Multiple misfire codes were pres",
+          "The contact owns a 2012 Kia Optima. The contact stated that while parking the vehicle, the gear shifter was shifted into park; however, the message to shift to park was displayed. In addition, the con",
+          "The failure involves the component covered under the active safety recall campaign. The affected part/system is still installed on the vehicle and is available for inspection upon request by the manuf"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 25,
+      "fires": 77,
+      "injuries": 34,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 10
+      },
+      {
+        "year": 2012,
+        "count": 60
+      },
+      {
+        "year": 2013,
+        "count": 14
+      },
+      {
+        "year": 2014,
+        "count": 38
+      },
+      {
+        "year": 2015,
+        "count": 38
+      },
+      {
+        "year": 2016,
+        "count": 94
+      },
+      {
+        "year": 2017,
+        "count": 89
+      },
+      {
+        "year": 2018,
+        "count": 84
+      },
+      {
+        "year": 2019,
+        "count": 128
+      },
+      {
+        "year": 2020,
+        "count": 103
+      },
+      {
+        "year": 2021,
+        "count": 64
+      },
+      {
+        "year": 2022,
+        "count": 51
+      },
+      {
+        "year": 2023,
+        "count": 69
+      },
+      {
+        "year": 2024,
+        "count": 30
+      },
+      {
+        "year": 2025,
+        "count": 35
+      },
+      {
+        "year": 2026,
+        "count": 12
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "18V907000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2011-2017 Optima, 2012-2017 Sorento and 2011-2018 Sportage vehicles that previously received an engine replacement under recall number 17V-224, warranty, or the Knock Sensor Detection System (KSDS) Product Improvement Campaign.  The high pressure fuel pi",
+        "report_date": "19/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V363000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2010-2013 Kia Forte, Forte Koup, 2011-2013 Kia Optima and 2011-2012 Kia Optima Hybrid and Sedona vehicles.  In the event of a crash, the air bag control unit (ACU) may short circuit, preventing the frontal air bags and seat belt pretensioners from deploy",
+        "report_date": "01/06/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V224000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Kia Motor Company (Kia) is recalling certain 2011-2014 Optima, 2012-2014 Sorento and 2011-2013 Sportage vehicles.  Machining errors during the engine manufacturing process may cause premature bearing wear within the engine.",
+        "report_date": "31/03/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V560000",
+        "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2012-2013 Optima vehicles.  The right and left headliner plates may not be secured properly, which can result in the plates detaching in the event of a side curtain air bag deployment.",
+        "report_date": "01/08/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V652000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2010-2019 Borrego, 2014-2016 Cadenza, 2010-2013 Forte, Forte Koup, Sportage, 2015-2018 K900, 2011-2015 Optima, 2011-2013 Optima Hybrid, Soul, 2012-2017 Rio, 2011-2014 Sorento, and 2010-2011 Rondo vehicles.  The Hydraulic Electronic Control Unit (HECU) may",
+        "report_date": "25/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:55:50.635Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

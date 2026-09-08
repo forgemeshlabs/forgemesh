@@ -1,0 +1,116 @@
+{
+  "slug": "2020-hyundai-tucson",
+  "year": 2020,
+  "make": "Hyundai",
+  "model": "Tucson",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 176,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 71,
+        "share_pct": 40.3,
+        "excerpts": [
+          "The contact owns a 2020 Hyundai Tucson. The contact stated that while the vehicle was receiving a routine oil change, the contact was informed that the oil pan was empty. The contact was advised to ta",
+          "The engine lost power while driving, and the vehicle entered a reduced-power mode. The check engine light began flashing, and the engine made a loud knocking noise during acceleration. A diagnostic sc",
+          "High excessive oil consumption and premature piston ring failure leading to excessive oil consumption"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 44,
+        "share_pct": 25,
+        "excerpts": [
+          "In August/September 2025 my mother's Tucson would randomly shut down on her (completely stall while driving) and she would not be able to turn it back on.  If she waited a little while, then she would",
+          "Component: Engine / Electrical System / Fuel System Incident Date: February 9th, 2026 Vehicle Speed: 45-50 MPH  Description: While traveling at highway speeds on a major roadway, the vehicle experienc",
+          "I have experienced 4 repeated issues within 4 months with my vehicle. Starting in September 2025 and the 4th and current issue today 1/12/26. Driving when all of a sudden all of my brake components la"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 19,
+        "share_pct": 10.8,
+        "excerpts": [
+          "While driving on the expressway my car hit a bump and all the power from the vehicle was lost. I’ve been having issues with my car and have taking it to Hyundai dealership. Everytime I take it they ar",
+          "On December 27, 2025, while driving, the engine suddenly lost power and the vehicle entered limp mode and became undriveable. A warning light appeared and diagnostic code P1326 was later confirmed, in",
+          "I have experienced 4 repeated issues within 4 months with my vehicle. Starting in September 2025 and the 4th and current issue today 1/12/26. Driving when all of a sudden all of my brake components la"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 17,
+        "share_pct": 9.7,
+        "excerpts": [
+          "The contact owns a 2020 Hyundai Tucson. The contact stated while driving at various speeds, the vehicle stalled and failed to accelerate while the accelerator pedal was depressed. No warning light was",
+          "The contact owns a 2020 Hyundai Tucson. The contact stated that while driving at an undisclosed speed, the contact smelled an abnormal odor and heard an abnormal sound coming from the vehicle. Additio",
+          "The contact owns a 2020 Hyundai Tucson. The contact received a recall notification for NHTSA Campaign Number: 20V543000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not ye"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 12,
+        "share_pct": 6.8,
+        "excerpts": [
+          "In August/September 2025 my mother's Tucson would randomly shut down on her (completely stall while driving) and she would not be able to turn it back on.  If she waited a little while, then she would",
+          "I have experienced 4 repeated issues within 4 months with my vehicle. Starting in September 2025 and the 4th and current issue today 1/12/26. Driving when all of a sudden all of my brake components la",
+          "Was told by dealership that forward camera assist is not functioning, but could not tell me why it failed all of a sudden. No accidents. $1586 to repair because no longer under warranty. Vehicle is on"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 2,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 36
+      },
+      {
+        "year": 2021,
+        "count": 23
+      },
+      {
+        "year": 2022,
+        "count": 20
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 25
+      },
+      {
+        "year": 2025,
+        "count": 42
+      },
+      {
+        "year": 2026,
+        "count": 18
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "20V543000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) recalled certain 2019-2021 Tucson vehicles on September 4, 2020.  On December 30, 2020, Hyundai expanded the recall population, and added certain 2016-2018 Tucson vehicles.  The Anti-lock Brake Hydraulic Electronic Control Unit (HECU) could corrode internally and caus",
+        "report_date": "04/09/2020",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:30.597Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

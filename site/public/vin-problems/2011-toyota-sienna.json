@@ -1,0 +1,260 @@
+{
+  "slug": "2011-toyota-sienna",
+  "year": 2011,
+  "make": "Toyota",
+  "model": "Sienna",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 612,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 211,
+        "share_pct": 34.5,
+        "excerpts": [
+          "The contact owns a 2011 Toyota Sienna. The contact stated that the air bag warning light was intermittently illuminated while driving. The contact stated that the warning light turned off while restar",
+          "TL* THE CONTACT OWNS A 2011 TOYOTA SIENNA. THE CONTACT STATED THAT WHILE DRIVING AT AN UNKNOWN SPEED, SEVERAL UNKNOWN WARNINGS LIGHT ILLUMINATED WITH A BEEPING SOUND. THE VEHICLE WAS TAKEN TO THE VOSS",
+          "CHECK AIR BAGS"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 154,
+        "share_pct": 25.2,
+        "excerpts": [
+          "Leaking water into passenger side during rain. Many have reported the same issue. Seems to be some loose seals on the roof.",
+          "The contact owns a 2011 Toyota Sienna. The contact stated that while driving 55 MPH, the rear driver's and passenger's power sliding doors failed to latch securely and opened while driving. The contac",
+          "The contact owns a 2011 Toyota Sienna. The contact stated that the rear driver's side sliding door had failed to close or latch securely while closing the door manually or while using the power door s"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 67,
+        "share_pct": 10.9,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2011 Toyota Sienna. The contact discovered that there was a mileage discrepancy. The vehicle was a dealer sale. At the time of purchase in 2025, the mileage was",
+          "The catalyst, the Evap and the EGR/VVT",
+          "The contact owns a 2011 Toyota Sienna. The contact stated that the air bag warning light was intermittently illuminated while driving. The contact stated that the warning light turned off while restar"
+        ]
+      },
+      {
+        "component": "WHEELS",
+        "complaints": 37,
+        "share_pct": 6,
+        "excerpts": [
+          "Vehicle: 2011 Toyota Sienna XLE VIN: [XXX]  Mileage: ~204,800 Incident Date: [XXX] Recent Service: Oil change, tire rotation, brake inspection, and multipoint inspection performed on November 10, 2025",
+          "THIS IS THE THIRD TIME THAT THE THERE IS AN EXCESSIVE WEAR ON THE INNER SIDE OF THE REAR DRIVER SIDE  OF THE WHEEL..I REGULARLY HAVE TIRE BALANCE AND WHEEL ALIGNMENT BUT THE PROBLEM HAS BEEN GOING ON ",
+          "THE VAN HAS EXTREME OUTER TIRE WEAR ON THE FRONT OF THE VEHICLE.  DRIVER'S SIDE FRONT SEEMS TO BE TO WORST.  TIRES ARE BEING ROTATED AT RECOMMENDED INTERVALS (5000-6000MI) AND AN ALIGNMENT CHECK AND A"
+        ]
+      },
+      {
+        "component": "TIRES",
+        "complaints": 33,
+        "share_pct": 5.4,
+        "excerpts": [
+          "The contact owns a 2011 Toyota Sienna. The contact stated that the rear driver's side sliding door had failed to close or latch securely while closing the door manually or while using the power door s",
+          "About two weeks after getting all new tires installed at Costco, the driver side rear tire blew out. I was driving about 50 MPH on a dry road with no debris in sight. The blowout gash was in the middl",
+          "TL* THE CONTACT OWNS A 2011 TOYOTA SIENNA. THE CONTACT STATED THAT WHILE ATTEMPTING TO REPLACE A TIRE ON THE VEHICLE WITH THE SPARE TIRE, THE CONTACT NOTICED THAT THE SPARE TIRE ASSEMBLY HAD CORRODED "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 34,
+      "fires": 7,
+      "injuries": 36,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 36
+      },
+      {
+        "year": 2011,
+        "count": 62
+      },
+      {
+        "year": 2012,
+        "count": 29
+      },
+      {
+        "year": 2013,
+        "count": 36
+      },
+      {
+        "year": 2014,
+        "count": 48
+      },
+      {
+        "year": 2015,
+        "count": 29
+      },
+      {
+        "year": 2016,
+        "count": 185
+      },
+      {
+        "year": 2017,
+        "count": 76
+      },
+      {
+        "year": 2018,
+        "count": 28
+      },
+      {
+        "year": 2019,
+        "count": 33
+      },
+      {
+        "year": 2020,
+        "count": 16
+      },
+      {
+        "year": 2021,
+        "count": 9
+      },
+      {
+        "year": 2022,
+        "count": 6
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2024,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 6
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 14,
+    "recalls": [
+      {
+        "campaign_number": "19V005000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2014-2016 Toyota 4Runner, 2014-2015 Scion xB, Lexus IS350C, IS250C, 2014 Toyota Sienna, Lexus IS-F, and 2014-2017 Lexus GX460 vehicles sold, or ever registered in the states of Alabama, California, Florida, Georgia, Hawaii, Louis",
+        "report_date": "09/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V741000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2010-2016 4Runner, 2003-2006 Tundra, 2003-2013 Corolla, 2009-2010 Corolla Matrix, 2004-2005 RAV4, 2002-2007 Sequoia, 2011-2013 Sienna, 2008-2012 Scion xB, 2008-2009 Lexus IS-F, 2007-2012 Yaris and Lexus ES350, 2010-2017 Lexus GX4",
+        "report_date": "17/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V858000",
+        "component": "STRUCTURE:BODY:DOOR",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2011-2016 Toyota Sienna minivans manufactured January 4, 2010, to August 12, 2016.  If the power sliding door is unable to be opened when commanded, such as if the door is frozen shut, the door may subsequently open un",
+        "report_date": "29/11/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V743000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2011 Prius and Corolla, 2009-2011 Venza, 2006-2010 Avalon, 2007-2010 FJ Cruiser, 2005-2011 Sienna and Sequoia, 2006-2011 Tacoma 4x2 and 4x4, Camry, Highlander, Tundra 4x2 and 4x4, and 2007-2011 Rav4 and 4Runner.  The affec",
+        "report_date": "19/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V340000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2008-2011 Scion xB and Lexus IS F, 2009-2011 Toyota Corolla and Corolla Matrix, 2006-2011 Toyota Yaris, Lexus IS250 and Lexus IS350, 2010-2011 Toyota 4Runner, Lexus IS250C, Lexus IS350C and Lexus GX460, 2011 Sienna, 20",
+        "report_date": "23/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V396000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2005-2011 4Runner, Highlander, Sequoia, and Sienna, 2005-2010 Avalon and Tundra, 2006-2008 Camry Solara, 2006-2010 Highlander hybrid, 2006-2011 Rav4 and Tacoma, 2007-2010 FJ Cruiser, 2007-2011 Camry hybrid, 2009-2010 Venza, 2010-2012 Priu",
+        "report_date": "02/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V273000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2004-2011 Sienna vehicles originally sold in, or currently registered in, Connecticut, Delaware, Illinois, Indiana, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, New Hampshire, New Jersey, New York, Oh",
+        "report_date": "22/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V560000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2011 THROUGH 2012 SIENNA VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NUMBER 110, \"TIRE SELECTIONS AND RIMS.\"  THESE VEHICLES DO NOT MEET THE REQUIREMENT FOR DISPLAYING THE CORRECT VEHICLE CAPACITY WEIGHT AS THE ",
+        "report_date": "30/11/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V566000",
+        "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2010-2011  COROLLA VEHICLES EQUIPPED WITH A NON-TOYOTA, BLUE TOOTH HANDS FREE DEVICE OR NAVIGATION UNIT AND CERTAIN MODEL YEAR 2011 TOYOTA SIENNA VEHICLES EQUIPPED WITH A NON-TOYOTA, OVERHEAD ENTERTAINMENT SYSTEM AND/OR BLUETOOTH HANDS FREE DEVICE.  T",
+        "report_date": "22/11/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V123000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota is recalling certain model year 2008 and 2010-2013 Toyota Tundra, 2010-2012 Rav4, 2012 Toyota Sequoia, 2010-2011 Toyota Corolla, 2010-2011 Toyota Camry and Camry Hybrid, 2010-2013 Toyota Highlander and Highlander Hybrid, 2010-2013 Toyota FJ Cruiser, 2011 Toyota Land Cruiser, 2010-20",
+        "report_date": "09/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V306000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2011 VENZA AND SIENNA PASSENGER CARS MANUFACTURED FROM MARCH 7, THROUGH MARCH 10, 2011.  THERE IS A POSSIBILITY THAT THE FRONT, RIGHT, DRIVE SHAFT MAY BREAK DUE TO INSUFFICIENT HEAT TREATMENT.",
+        "report_date": "01/06/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V036000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2011 PASSENGER VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD WITHOUT THE REQUISITE LOAD CARRYING CAPACITY MODIFICATION LABELS.",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V620000",
+        "component": "SERVICE BRAKES, HYDRAULIC:PEDALS AND LINKAGES",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2011 SIENNA VEHICLES.  THE BRAKE STOP LAMP SWITCH IS MOUNTED ON A SMALL BRACKET WELDED ON THE LEFT SIDE OF THE SERVICE BRAKE PEDAL SUPPORT ASSEMBLY.  DUE TO ITS PROXIMITY TO THE PARKING BRAKE PEDAL, IN LIMITED CIRCUMSTANCES THE STOP LAMP SWITCH BRACKET COULD BE",
+        "report_date": "13/12/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:54:52.928Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

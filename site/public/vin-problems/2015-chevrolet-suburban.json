@@ -1,0 +1,230 @@
+{
+  "slug": "2015-chevrolet-suburban",
+  "year": 2015,
+  "make": "Chevrolet",
+  "model": "Suburban",
+  "matched_as": {
+    "complaints": [
+      "SUBURBAN 1500"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 428,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 152,
+        "share_pct": 35.5,
+        "excerpts": [
+          "When coming to a stop or backing from my inclined driveway the foot brake requires a hard push because it seems to lock up. I couldn't stop when braking. The problem is recurring. It has not been insp",
+          "When our new mechanic was checking over the car, he and his other mechanic both noticed that there was an increased brake pedal effort even though the brakes were in ok condition.   Every time I’ve ha",
+          "The braking system on my 2015 Chevy Suburban LTZ failed at slow speeds in a parking lot.  I have replicated the issue in both forward and reverse.  My family's safety was put at risk in that while bac"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 59,
+        "share_pct": 13.8,
+        "excerpts": [
+          "The contact owns a 2015 Chevrolet Suburban. The contact stated that while driving and taking a curve, the vehicle failed to turn as needed. The contact stated that the steering wheel was extremely dif",
+          "While driving at highway speeds my vehicle lost steering the radio and the hvac turned off. I had abs and brake lights on the dash as well as a service stabilitrac message. The vehicle completely shut",
+          "On at or about November 1, 2025, I experienced a sudden loss of power steering. I was backing up in a parking and experienced a complete power steering failure. Since that date, it has failed multiple"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 58,
+        "share_pct": 13.6,
+        "excerpts": [
+          "While driving at highway speeds my vehicle lost steering the radio and the hvac turned off. I had abs and brake lights on the dash as well as a service stabilitrac message. The vehicle completely shut",
+          "When driving down the road, all gauges drop to 0, car continues to drive. When I pull over and try to turn the car off it turns everything off except the engine. I can’t put it into gear or restart th",
+          "Odometer Fraud. The contact purchased a 2015 Chevrolet Suburban. The contact stated that while attempting to have the vehicle inspected, it was discovered that the catalytic converter was missing, the"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 47,
+        "share_pct": 11,
+        "excerpts": [
+          "Pulling off from a stop sign on a hill, the car wouldn't accelerate and rolled back hitting a pedestrian and then jerked forward aggressively burning rubber on the tires. I smell the transmission burn",
+          "The contact owns a 2015 Chevrolet Suburban. The contact stated that while driving at an undisclosed speed, the vehicle lost motive power. No warning light was illuminated. The contact veered to the si",
+          "The contact owns a 2015 Chevrolet Suburban. The contact stated that while driving at an undisclosed speed and hauling a boat, the transmission unexpectedly downshifted into second gear. The contact st"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 39,
+        "share_pct": 9.1,
+        "excerpts": [
+          "While driving at highway speeds my vehicle lost steering the radio and the hvac turned off. I had abs and brake lights on the dash as well as a service stabilitrac message. The vehicle completely shut",
+          "Replaced lifters 1,3,5,7 and added automatic fuel mgmt system bypass chip after the vehicle went into limp mode ON THE HIGHWAY. Ran for less than 2000 miles and those same lifters failed a second time",
+          "The contact owns a 2015 Chevrolet Suburban. The contact stated while driving at various speeds, the steering wheel became stiff, and the vehicle lost automotive power. The check engine, seat belt, sta"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 21,
+      "fires": 8,
+      "injuries": 34,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1998,
+        "count": 1
+      },
+      {
+        "year": 2013,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 11
+      },
+      {
+        "year": 2015,
+        "count": 26
+      },
+      {
+        "year": 2016,
+        "count": 31
+      },
+      {
+        "year": 2017,
+        "count": 50
+      },
+      {
+        "year": 2018,
+        "count": 86
+      },
+      {
+        "year": 2019,
+        "count": 75
+      },
+      {
+        "year": 2020,
+        "count": 31
+      },
+      {
+        "year": 2021,
+        "count": 29
+      },
+      {
+        "year": 2022,
+        "count": 32
+      },
+      {
+        "year": 2023,
+        "count": 18
+      },
+      {
+        "year": 2024,
+        "count": 16
+      },
+      {
+        "year": 2025,
+        "count": 14
+      },
+      {
+        "year": 2026,
+        "count": 7
+      }
+    ]
+  },
+  "recalls": {
+    "count": 11,
+    "recalls": [
+      {
+        "campaign_number": "18V586000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "General Motors LLC (GM) is recalling certain 2015 Chevrolet Silverado 1500, Tahoe and Suburban, GMC Sierra 1500 and Yukon, and Cadillac Escalade vehicles.  Electric power steering (EPS) assist may be lost momentarily, followed by a sudden return of EPS assist.",
+        "report_date": "07/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V645000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2017 Cadillac Escalade, 2014-2018 Chevrolet Silverado, GMC Sierra, 2015-2018 Chevrolet Suburban, Tahoe, GMC Yukon vehicles.  The amount of vacuum created by the vacuum pump may decrease over time.",
+        "report_date": "06/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V761000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+        "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is tra",
+        "report_date": "24/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V651000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015-2017 Chevrolet Silverado 2500 HD, 3500 HD, Tahoe, Suburban,  GMC Sierra 2500 HD and 3500 HD, GMC Yukon, GMC Yukon XL, Cadillac Escalade and Cadillac Escalade ESV vehicles and 2014-2017 Chevrolet Corvette, Silverado 1500, Trax, Caprice Poli",
+        "report_date": "08/09/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V437000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2016 Buick Lacrosse and Chevrolet Spark EV, Caprice PPV and SS vehicles, 2014-2017 Buick Encore and Chevrolet Corvette, Silverado 1500 and GMC Sierra 1500 vehicles, 2015-2016 Cadillac Escalade and Escalade ESV, Chevrolet Tahoe, Trax, Subur",
+        "report_date": "10/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V640000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2015 Chevrolet Silverado and GMC Sierra trucks manufactured January 24, 2014, to February 26, 2014, 2015 Chevrolet Suburban vehicles manufactured February 12, 2014 and Chevrolet Tahoe vehicles manufactured February 6, 2014, to February 13,",
+        "report_date": "09/10/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V719000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015 Chevrolet Silverado, Suburban, Tahoe, GMC Sierra, and Yukon XL vehicles, equipped with electric power steering (EPS).  Due to a problem with the EPS module, the affected vehicles may experience a sudden loss of power steering assist during",
+        "report_date": "10/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V152000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:COOLING UNIT AND LINES",
+        "summary": "General Motors LLC (GM ) is recalling certain model year 2014 Chevrolet Silverado Light Duty Regular Cab, Double Cab, and Crew Cab 1500 series and model year 2015 Suburban and Tahoe; GMC model year 2014 Sierra Regular Cab, Double Cab, and Crew Cab 1500 Series and model year 2015 Yukon and Yukon XL v",
+        "report_date": "31/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V451000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2015 Chevrolet Suburban, Suburban LTZ, Tahoe, Tahoe LTZ, GMC Yukon, and Yukon XL Denali vehicles manufactured on May 13, 2014.  The affected vehicles were assembled with a roof rail air bags (RRAB) that were not reinforced at the points were th",
+        "report_date": "23/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V374000",
+        "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2014-2015 Chevrolet Silverado and GMC Sierra vehicles, and model year 2015 GMC Yukon and Chevrolet Suburban and Tahoe vehicles.  In the affected vehicles, an electrical signal short may cause the transfer case to shift to neutral without the dr",
+        "report_date": "27/06/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V289000",
+        "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+        "summary": "General Motors, LLC (GM) is recalling certain 2026 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, and GMC Sierra 1500, Yukon, and Yukon XL vehicles with four-wheel (4WD) or all-wheel drive (AWD), and certain 2015-2020 Suburban, Escalade, Escalade ESV, Yukon, Yukon",
+        "report_date": "07/05/2026",
+        "park_it": true,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:51.677Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

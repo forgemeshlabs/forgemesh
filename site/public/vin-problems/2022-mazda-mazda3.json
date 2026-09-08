@@ -1,0 +1,96 @@
+{
+  "slug": "2022-mazda-mazda3",
+  "year": 2022,
+  "make": "Mazda",
+  "model": "Mazda3",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 24,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 12,
+        "share_pct": 50,
+        "excerpts": [
+          "I recently received a warning on the dashboard that there is an airbag malfunction and needs to be taken in to get serviced. The warning continues to appear. This appears similar to a recent recall of",
+          "The passenger-side \"airbag off\" light does not go off, even with an adult in the passenger seat. This is a US car without an ability to disable the airbag, so this should never happen. We assume this ",
+          "For a few weeks in November 2023, I had my dash alarm/notify me when I would turn on my car and it would state \"Airbag System Malfunction\" then disappear. Potential risk with this issue is that the ai"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 5,
+        "share_pct": 20.8,
+        "excerpts": [
+          "The vehicle's Connectivity Master Unit (CMU) / infotainment system has experienced a complete, permanent internal electronic failure, logged by Diagnostic Trouble Code DTC U3000:49 (Control Module Int",
+          "“My 2022 Mazda 3 is experiencing an ‘in-network malfunction’ related to the vehicle’s internal communication system. Multiple technicians have told me this is an internal vehicle network/communication",
+          "Car doesn't start if sitting more than 4 days untouched. When i went to the dealer, they informed me they know about the issue but nothing can be done about it. They even told me what the issue was, t"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 2,
+        "share_pct": 8.3,
+        "excerpts": [
+          "Driver door does not open from inside the vehicle.  Door opens when opened from outside the vehicle.",
+          "Constant rattling after only 2,000 miles. Sounds like it’s coming from behind the glove box. Another constant rattle from the head up display."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 2,
+        "share_pct": 8.3,
+        "excerpts": [
+          "The coolant control valve stays open.",
+          "I purchased the car on 02/05/2022, the car mileage is close to 15, 500 miles, on 03/03/2023 the car displayed a vehicle issue message stating low oil level. I checked the oil level dipstick and it was"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 2,
+        "share_pct": 8.3,
+        "excerpts": [
+          "Humming or wining noise coming from back of vehicle when driving in highways around 75 mph.",
+          "with less than 7000 miles on a new Mazda3, the transfer and transfer housing went out. This meant the all wheel drive did not operate properly, which could have caused an accident in the right conditi"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 0,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2022,
+        "count": 9
+      },
+      {
+        "year": 2023,
+        "count": 7
+      },
+      {
+        "year": 2024,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T20:08:36.617Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

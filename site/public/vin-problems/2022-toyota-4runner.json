@@ -1,0 +1,128 @@
+{
+  "slug": "2022-toyota-4runner",
+  "year": 2022,
+  "make": "Toyota",
+  "model": "4Runner",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 39,
+    "top_failure_components": [
+      {
+        "component": "SUSPENSION",
+        "complaints": 6,
+        "share_pct": 15.4,
+        "excerpts": [
+          "I felt an unnatural vibration and roll to one side of the vehicle when slowing around a curve on the highway which affected my ability to control the vehicle as expected, so I took it to a mechanic sp",
+          "70k mile tires only lasted 45k miles. Tires were worn on the insides after rotations every 5k miles. After changing tires, an alignment and inspection demonstrated the front struts were sagging. 4Runn",
+          "The right CV joint traverses up and down. Once warmed up it loses concentricity and the steering wheel begins to shake. It does not stop until I pull off the highway The shake is completely gone when "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 6,
+        "share_pct": 15.4,
+        "excerpts": [
+          "Neither the curtain airbags or steering wheel Air bags deployed after a very bad car accident. Super upset because this is the reason parents spend so much money to keep their kid safe. She banged her",
+          "The contact owns a 2022 Toyota 4Runner.  The contact stated while driving at an undisclosed speed, the contact's vehicle was involved in a head-on collision.  The contact stated that the air bags did ",
+          "The contact owns a 2022 Toyota 4 Runner. The contact stated that while driving at an undisclosed speed, the contact was in a single-car head-on collision. The contact stated during the collision there"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 5,
+        "share_pct": 12.8,
+        "excerpts": [
+          "This had happened a year ago. I was driving and my anti collision brake just started to make a beeping noise and was telling me to call a toyota dealer. And before that the anti collision brake would ",
+          "When raining or snowing it deactivated several times causing dangerous situations at high speed",
+          "On numerous occasions, while driving in a straight line with our adaptive cruise control on, our 2022 Toyota 4Runner will automatically actuate the vehicle's brakes when approaching a slower or statio"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 5,
+        "share_pct": 12.8,
+        "excerpts": [
+          "Brake failure. Unable to stop vehicle. Dealer found internal brake failure",
+          "Vehicle brakes normally initially at stop lights but then the brakes are unable to hold the vehicle stationary. Brake pedal slowly goes to the floor and vehicle creeps forward into traffic. No warning",
+          "Suddenly had difficult time stopping the vehicle without \"pumping\" the brakes.  Brake pedal went to the floor, and car would not hold stopped.  There were no warning lamps during the 400 miles of driv"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 4,
+        "share_pct": 10.3,
+        "excerpts": [
+          "Steering shake at 55mph, seems to go away after tires have warmed up. Tried road force balance with no help.",
+          "Around 50-55mph, shake can be felt in the steering wheel. Possible needle bearing? Common complaint yet Toyota states it is operating \"normal\". Steering wheel shake is not normal. This has occurred si",
+          "Aggressive steering wheel vibration from 55-70 mph from the day I drove the vehicle off the lot.  Ignoring the vibration, Toyota claims this 4runner is operating as it is manufactured to do so.  This "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 1,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 3
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 9
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "21V963000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2022 Toyota 4Runner vehicles.  The driver's side high beam may be inoperable after the installation of accessory fog lights.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 108",
+        "report_date": "13/12/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V310000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Gulf States Toyota, Inc. (GST) is recalling certain 2022 4Runner, Tacoma, Highlander, and Highlander Hybrid vehicles.  The load carrying capacity modification labels may not be permanent and can fade, becoming illegible.  As such, these vehicles fail to comply with the requirements of Federal Motor ",
+        "report_date": "06/05/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V480000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2020-2022 4Runner vehicles equipped with 20-inch Black Gunner Wheels.  The load carrying capacity modification labels are incorrect.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard nu",
+        "report_date": "06/07/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:47.490Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

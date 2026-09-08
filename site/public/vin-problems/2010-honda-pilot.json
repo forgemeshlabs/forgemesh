@@ -1,0 +1,224 @@
+{
+  "slug": "2010-honda-pilot",
+  "year": 2010,
+  "make": "Honda",
+  "model": "Pilot",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 111,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 32,
+        "share_pct": 28.8,
+        "excerpts": [
+          "I recently bought this car used and the car and the airbag icon was on and the dealer from where I bought the car. He said that it was a honda air bag recall passenger side and I went to Honda to go a",
+          "MY BOYFRIEND HIT A DEER AT A HIGH RATE OF SPEED",
+          "THE AIR BAG DEPLOYED WHEN SOMETHING HIT MY WINDSHIELD CAUSING ME TO LOSE CONTROL OF THE VEHICLE AND ENDING WITH THE VEHICLE BEING ON ITS SIDE AND THE JAWS OF LIFE BEING USED TO REMOVE MY BODY. I LITER"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 28,
+        "share_pct": 25.2,
+        "excerpts": [
+          "oil burning",
+          "The contact owns a 2010 Honda Pilot. The contact stated while driving at various speeds and making right turns, the steering wheel lost power steering. The contact stated that the failure also occurre",
+          "The contact owns a 2010 Hondo Pilot. The contact stated while driving 65 MPH, the vehicle was vibrating. The contact pulled over safely to the side of the road. The contact stated that an unknown warn"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 17,
+        "share_pct": 15.3,
+        "excerpts": [
+          "the brakes and system isn't stablest shakes ,wobble left to right going over bumps.i fixed things over and over",
+          "FRONT CONTROL ARM BUSHING IS TORN AND LEAKING FLUID. THIS WAS DISCOVERED DURING AN OIL CHANGE AT 168K MILEAGE.",
+          "HONDA IS FULLY AWARE OF THEIR FAULTY SUSPENSION COMPLIANCE BUSHINGS. FROM NEW CARS TO OLDER CARS THEY ARE CRACKING AND LEAKING FLUID. THIS CARS WAS JUST SOLD TO ME IN FEB OF THIS YEAR AND FROM HONDA D"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 9,
+        "share_pct": 8.1,
+        "excerpts": [
+          "the brakes and system isn't stablest shakes ,wobble left to right going over bumps.i fixed things over and over",
+          "BRAKES SUDDENLY AND HARD TRYING TO AVOID A CRASH. BRAKES (OR ABS) DID NOT WORK. P BRAKE PEDAL WENT TO FLOOR AND NOTHING HAPPENED NO BRAKING OCCURRED AND RAN FULL FORCE INTO CAR IN FRONT OF ME. BRAKES ",
+          "2010 HONDA PILOT, I HAVE HAD IT SINCE BRAND NEW.  THIS IS THE 4TH OR 5TH WINTER I HAVE NO BRAKES WHEN THE TEMPS ARE BELOW FREEZING. THE PEDAL IS BASICALLY FROZEN IN PLACE. I HAVE TO CONTINUALLY PRESS "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 9,
+        "share_pct": 8.1,
+        "excerpts": [
+          "My battery light was on and after charging the battery overnight my wife drove to her workplace, parked the Pilot and then a coworker stated there was a car on fire in the parking lot and it turned ou",
+          "MY BOYFRIEND HIT A DEER AT A HIGH RATE OF SPEED",
+          "AT 7:15AM IN A PUBLIC PARKING LOT OF A STRIP MALL SETUP, I APPROACHED A PARKING PLACE BUT FIRST LETTING AN EMPLOYEE OF PANERA BREAD CROSS IN FRONT OF ME BEFORE I APPROACHED THE SPACE.  UPON APPROACHIN"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 11,
+      "fires": 1,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 2
+      },
+      {
+        "year": 2010,
+        "count": 6
+      },
+      {
+        "year": 2011,
+        "count": 4
+      },
+      {
+        "year": 2012,
+        "count": 7
+      },
+      {
+        "year": 2013,
+        "count": 7
+      },
+      {
+        "year": 2014,
+        "count": 9
+      },
+      {
+        "year": 2015,
+        "count": 9
+      },
+      {
+        "year": 2016,
+        "count": 32
+      },
+      {
+        "year": 2017,
+        "count": 10
+      },
+      {
+        "year": 2018,
+        "count": 10
+      },
+      {
+        "year": 2019,
+        "count": 3
+      },
+      {
+        "year": 2020,
+        "count": 2
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2025,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 10,
+    "recalls": [
+      {
+        "campaign_number": "18V661000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2014 Honda Insight and Acura TSX and TSX Wagon, 2014-2015 Honda Crosstour and Pilot vehicles nationwide, as well as certain 2014 Honda FCX Clarity and Fit EV vehicles in Florida, Hawaii, Puerto Rico, Texas, Alabama, Georgia, Louisiana, Mississipp",
+        "report_date": "27/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V268000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2003-2012 Honda Accord and Pilot, 2010 Accord Crosstour, 2001-2011 Civic, 2002-2011 CR-V, 2003-2004, 2006-2008 and 2011 Element, 2007 and 2009-2013 Fit, 2010-2012 Insight, 2002-2004 Odyssey, and 2012 Ridgeline vehicles.  The front passenger air b",
+        "report_date": "26/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V502000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2014 TSX Sport Wagon, 2010-2013 ZDX, 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic and Civic Hybrid, 2008-2010 Civic GX NGV, 2012-2015 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2014 Fit EV, 2010-201",
+        "report_date": "27/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V378000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2013 TSX Sport Wagon, and 2010-2012 ZDX and 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic, Civic Hybrid and Civic NGV, 2012-2014 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2010-2013 Insight, and 2009",
+        "report_date": "16/05/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V545000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2008-2012 Accord, 2010-2012 Accord Crosstour, 2006-2011 Civic, 2007-2011 CR-V, 2009-2012 Fit and Pilot, 2010-2012 Insight, and 2009-2012 Acura TSX vehicles that received replacement passenger frontal air bag inflators.  One dealership may have in",
+        "report_date": "31/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V042000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2010-2013 Acura TSX, ZDX, Honda Accord Crosstour, Fit, Insight and Pilot vehicles, 2011-13 Acura TSX Sportswagon, 2010-2012 Honda Accord,, 2010-2011 Honda Civic, Civic NGV, Civic Hybrid and CR-V vehicles and 2013 Honda FCX Clarity and Fit EV vehi",
+        "report_date": "09/01/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V030000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2012 Acura TSX, 2011-2012 Acura TSX Wagon, 2010-2012 Acura ZDX, 2008-2012 Honda Accord, 2010-2012 Honda Accord Crosstour and Honda Insight, 2009-2012 Honda Fit, 2009-2012 Pilot, 2007-2011 Honda CR-V, 2012 Honda FCX Clarity and 2006-2011 Hond",
+        "report_date": "10/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V346000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2009-2011 Acura TSX, 2011 TSX Wagon, 2010-2011 Acura ZDX, 2008-2011 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic, Civic Hybrid, and Civic GX, 2007-2011 CR-V, 2010-2011 FCX Clarity and Insight, and 2009-2011 Fit, and Pilot ",
+        "report_date": "24/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V468000",
+        "component": "SEAT BELTS:FRONT:WEBBING",
+        "summary": "HONDA IS RECALLING CERTAIN MODEL YEAR 2009-2011 PILOT VEHICLES MANUFACTURED FROM MARCH 13, 2008, THROUGH AUGUST 30, 2011.  THERE IS A POSSIBILITY THAT THE STITCHING THAT SECURES THE END OF THE DRIVER AND FRONT PASSENGER LAP SECTION OF THE SEATBELT MAY BE INCOMPLETE OR MISSING.",
+        "report_date": "09/09/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V016000",
+        "component": "AIR BAGS",
+        "summary": "Honda is recalling certain model year 2009-2013 Pilot and 2011-2013 Odyssey passenger vehicles manufactured from March 13, 2008, through December 21, 2012.  One or more rivets that attach the airbag module to the airbag cover may be missing.",
+        "report_date": "18/01/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:52:11.275Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

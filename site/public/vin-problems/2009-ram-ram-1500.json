@@ -1,0 +1,144 @@
+{
+  "slug": "2009-ram-ram-1500",
+  "year": 2009,
+  "make": "Ram",
+  "model": "Ram 1500",
+  "matched_as": {
+    "complaints": [
+      "1500"
+    ],
+    "recalls": [
+      "1500"
+    ]
+  },
+  "failures": {
+    "total_complaints": 37,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 9,
+        "share_pct": 24.3,
+        "excerpts": [
+          "The contact owns a 2009 Ram 1500. The contact stated that upon purchasing the vehicle, it was discovered that there were two open recalls on the VIN, NHTSA Campaign Number: 13V038000 (Power Train) and",
+          "I purchased this vehicle from a private party and insured it and my insurance offers free carfax after checking through its history i see that it has 2 pending recalls and one of them has a buyback pr",
+          "Driving home from the store the rear end locked up, sheared off my drive shaft. Caused a slight skid.  There was a low hum when I let off the gas. I thought it was road noise. It got louder as I got c"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 6,
+        "share_pct": 16.2,
+        "excerpts": [
+          "When driving the vehicle at lower speeds, usually between 25 to 38 mph, the engine will surge for about 1 to 2 seconds then back to normal as long as I remain in that speed range. It happens each time",
+          "Tipm causing horn to work not work goes off by itself. Locks don’t work windshield wipers stop working or don’t work at all. Airbags not working. Caused battery to overcharge and begin to smoke. Repla",
+          "DOOR LOCKS DO NOT WORK"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 5,
+        "share_pct": 13.5,
+        "excerpts": [
+          "When driving the vehicle at lower speeds, usually between 25 to 38 mph, the engine will surge for about 1 to 2 seconds then back to normal as long as I remain in that speed range. It happens each time",
+          "The exhaust manifold cracked.  This allows toxic pre-catalitic converter fumes to be released under the vehicle and potentially enter the vehicle.  I have been informed that this is a common issue on ",
+          "THE TRUCK LOST POWER AND THE STEERING LOCKED UP.IT WAS IN MOTION GOING AROUND A TURN AND WENT OFF THE ROAD. THIS IS THE SECOND TIME THE VEHICLE LOST POWER THE FIRST WAS ON THE FREEWAY AND THE DEALER S"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 4,
+        "share_pct": 10.8,
+        "excerpts": [
+          "I bought this 2009 Dodge ram Laramie about a year ago been riding like new but 4 days ago starting to hear a bad whining noise from the rear end and I see this truck had a recall on the pinion nut I t",
+          "Took the truck in for tire rotation and was told they couldn't do it due to the rear frame being severely rusted out I have noticed this is a very common problem with this year truck in the same area ",
+          "TL* THE CONTACT OWNS A 2009 RAM 1500. WHILE REVERSING OUT OF A PARKING LOT AND TURNING TO THE RIGHT, THE FRONT DRIVER'S SIDE HUB DETACHED FROM THE WHEEL WITHOUT WARNING. THE VEHICLE WAS TOWED TO AN IN"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 4,
+        "share_pct": 10.8,
+        "excerpts": [
+          "Frame rail has rusted out causing this vehicle unsafe to drive. A quick google search showed this a common problem. I know Mercedes Benz have recalled rusting brake boosters and provided extended warr",
+          "RUSTED FRAME, REPORTED TO FCA  2/19/19 , PRESENTED TO DEALERSHIP 2/25/19, I WAS TOLD THEY COULD NOT LIFT TRUCK FOR SAFETY REASONS, THERE IS A HOLE ROTTED THROUGH THE FRAME RAIL FORWARD OF REAR TIRE. T",
+          "DRIVER AND PASSENGER SIDE ROCKER PANELS ARE DISINTEGRATING FROM RUST."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 0,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2014,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 2
+      },
+      {
+        "year": 2018,
+        "count": 11
+      },
+      {
+        "year": 2019,
+        "count": 4
+      },
+      {
+        "year": 2021,
+        "count": 6
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 6
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "17V821000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:LEVER AND LINKAGE:COLUMN SHIFT",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2016-2017 Ram 3500 Cab Chassis with a Gross Vehicle Weight Rating (GVWR) of less than 10,000 lbs, 2011-2017 Ram 3500, 4500 and 5500 Cab Chassis vehicles, 2009-2017 Ram 1500 and 2010-2017 Ram 2500 and 3500 pickup trucks, all equipped with a column shifter.  ",
+        "report_date": "20/12/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V160000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY:MOUNTING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2009-2012 Dodge Ram 1500 trucks currently, or ever registered, in Connecticut, Delaware, Illinois, Indiana, Iowa, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshire, New Jersey, New York, Ohio, Pennsylvania, Rhode Island, Vermont, ",
+        "report_date": "08/03/2018",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:48:49.856Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "2022-mazda-cx-5",
+  "year": 2022,
+  "make": "Mazda",
+  "model": "CX-5",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 63,
+    "top_failure_components": [
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 23,
+        "share_pct": 36.5,
+        "excerpts": [
+          "Humming sound coming from driver’s side headlight as soon as unlock bottom pressed in key fob. This sound comes from a faulty cooling fan inside the headlight and is a known defect. Humming sound prog",
+          "The mechanical motor assembly inside the adaptive front-lighting headlamp unit has failed on my 2022 Mazda CX-5. This mechanical malfunction severely compromises nighttime driving illumination, creati",
+          "My 2022 Mazda CX-5 Signature began producing a loud whirring/rattling noise from the driver-side front headlight assembly. After investigation, the noise was identified as coming from the internal coo"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 13,
+        "share_pct": 20.6,
+        "excerpts": [
+          "Timing chain cover ended up leaking oil everywhere. Was told this was a known issue with Mazda CX-5 and there was even a service bulletin out.",
+          "The timing chain cover gasket failed and is leaking oil at 66,000 miles. It is currently being addressed at Borgman Mazda in Grand Rapids. No crash or safety risk.  There were no warning lamps, it was",
+          "While driving down highway the car suddenly will stop accelerating. Once this occurs the check engine light will turn on and shortly after the battery light will turn on. The car will not move and the"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 6,
+        "share_pct": 9.5,
+        "excerpts": [
+          "Odometer Fraud. The contact purchased a 2022 Mazda CX-5. The contact discovered a mileage discrepancy after purchasing the vehicle. The vehicle was a dealer sale. At the time of purchase, the vehicle ",
+          "While driving down highway the car suddenly will stop accelerating. Once this occurs the check engine light will turn on and shortly after the battery light will turn on. The car will not move and the",
+          "The vehicle unexpectedly caught fire and the results could have been catastrophic. Almost new car under warranty. All details are in the uploaded PDF letter and photos. I have contacted Mazda and they"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 5,
+        "share_pct": 7.9,
+        "excerpts": [
+          "Transmission failure, currently reproducible but car is at dealer to be evaluated/repaired. I was safe as I was still in my driveway, however if I was in traffic I would be at risk of an accident, by ",
+          "The timing chain cover gasket failed and is leaking oil at 66,000 miles. It is currently being addressed at Borgman Mazda in Grand Rapids. No crash or safety risk.  There were no warning lamps, it was",
+          "Cracked cylinder head, August 2023. I'm not sure if it's a safety hazard, but it seems that oil being sprayed around a hot engine could be a fire hazard. Also, since the oil light comes on with no war"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 4,
+        "share_pct": 6.3,
+        "excerpts": [
+          "Brake rotors on all four wheels measured below minimum thickness specification at only 17,000 miles, requiring complete replacement of all rotors and pads. Rotors replaced at Koch Mazda (Easton, PA) o",
+          "When coming to a stop, car accelerated and went over curb. From a search of the internet I found examples with this and other cars where people with larger shoes had the same problem of pressing the b",
+          "On July 22, my sister and I were traveling on I-95 going south. We stopped at the Maryland House near Aberdeen, MD.  I was looking for a parking place and was driving very slowly.  I slowed further to"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 2,
+      "injuries": 1,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2022,
+        "count": 11
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 12
+      },
+      {
+        "year": 2025,
+        "count": 17
+      },
+      {
+        "year": 2026,
+        "count": 15
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T20:08:38.221Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

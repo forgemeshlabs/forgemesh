@@ -1,0 +1,144 @@
+{
+  "slug": "2010-chevrolet-colorado",
+  "year": 2010,
+  "make": "Chevrolet",
+  "model": "Colorado",
+  "matched_as": {
+    "complaints": [
+      "COLORADO REGULAR CAB",
+      "COLORADO EXTENDED CAB",
+      "COLORADO CREW CAB"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 84,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 36,
+        "share_pct": 42.9,
+        "excerpts": [
+          "I bought this chevy colorado a few months ago, vehicle with 65k, and unfortunately, for safety reasons, I could not drive it for more than 10” miles so far, because every time I drove it, I ran seriou",
+          "TRUCK WON'T START FOR 10 MINUTES OR SO WHILE IN A PARKED POSITION, AND AT TIMES JUST AFTER TURNING THE VEHICLE OFF, IT WOULD NOT START. INTERMITTENT STARTING ISSUE. HAS HAPPENED SEVERAL TIMES RECENTLY",
+          "IGNITION SWITCH CAUSED MOTOR TO SHUT DOWN WHILE DRIVING DOWN THE HIGHWAY."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 15,
+        "share_pct": 17.9,
+        "excerpts": [
+          "I bought this chevy colorado a few months ago, vehicle with 65k, and unfortunately, for safety reasons, I could not drive it for more than 10” miles so far, because every time I drove it, I ran seriou",
+          "TL* THE CONTACT OWNS A 2010 CHEVROLET COLORADO. WHILE DRIVING 40 MPH, THE ENGINE STALLED AND THE VEHICLE LOST POWER. THE CHECK ENGINE INDICATOR ILLUMINATED. THE CONTACT PULLED THE VEHICLE OVER TO THE ",
+          "I AM NOT ABLE TO START THE TRUCK MOST OF THE TIME. IT GOES INTO A SAFETY MODE AND I HAVE TO WAIT 10 MINUTES. THANKFULLY MY FAMILY HAS NOT BEEN INJURED YET DUE TO THIS BUT I DON'T THINK IT SHOULD COME "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 12,
+        "share_pct": 14.3,
+        "excerpts": [
+          "I DISCOVERED I HAD NO BRAKE LIGHTS WHEN DRIVING. I HAD THIS FIXED AT THE DEALER AND IT WAS THE STOP LAMP SWITCH MALFUNCTIONING. IT TURNS OUT THERE IS A RECALL ON THIS PART FOR 2004-2009 COLORADO'S BUT",
+          "BRAKE LIGHTS AND CRUISE CONTROL DO NOT WORK. CHECKED FUSES AND THEY WERE GOOD. BRAKE SWITCH AND ELECTRICAL CONTROLLER FAULTED REQUIRED REPLACEMENT.  *TR",
+          "BRAKE LIGHTS AND CRUISE CONTROL DO NOT WORK. CHECKED FUSES AND THEY WERE GOOD. LIKELY DUE TO FAULTY BRAKE SWITCH. THERE IS A RECALL OUT FOR THIS ISSUE BUT IT DOES NOT COVER THE 2010 MODEL.   *TR"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 12,
+        "share_pct": 14.3,
+        "excerpts": [
+          "AIRBAG WARNING LIGHT STAYS ON WHEN ENGINE IS RUNNING. GOOGLE SEARCHED AND FOUND DOZENS OF REPEATED EXPLANATIONS OF THE CAUSE ON VEHICLE & MODEL YEARS ON EACH SIDE OF MINE. THE WIRING FROM THE BODY TO ",
+          "THE AIRBAG CAME ON I FOUND BROKEN WIRES IN DOOR HING STILL CAN T GET LIGHT TO GO OFF.",
+          "THE AIR BAG WARNING LIGHT ILLUMINATED. THIS FAILURE HAS OCCURRED ON MULTIPLE PREVIOUS OCCASIONS. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOT NOTIFIED OF THE FAILURE.  *TR"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 9,
+        "share_pct": 10.7,
+        "excerpts": [
+          "I AM NOT ABLE TO START THE TRUCK MOST OF THE TIME. IT GOES INTO A SAFETY MODE AND I HAVE TO WAIT 10 MINUTES. THANKFULLY MY FAMILY HAS NOT BEEN INJURED YET DUE TO THIS BUT I DON'T THINK IT SHOULD COME ",
+          "2010 CHEVROLET COLORADO. CONFIRM YOUR PORTABLE FORM REQUEST FOR ENGINE MALFUNCTION.   *SMD  THE CONSUMER STATED ON A SECONDARY ROAD, WITH NO ASPHALT OR PAVEMENT, HE TURNED OFF THE ENGINE. HOWEVER, WHE",
+          "2010 CHEVROLET COLORADO 1LT. CONSUMER STATES VEHICLE LEAKS FLUID *TGW  THREE DAYS AFTER THE CONSUMER PICKED UP THE VEHICLE HE NOTICED IT WAS LEAKING FLUID. HE RETURNED TO THE DEALER TO HAVE THE VEHICL"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 0,
+      "fires": 3,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 6
+      },
+      {
+        "year": 2011,
+        "count": 6
+      },
+      {
+        "year": 2012,
+        "count": 3
+      },
+      {
+        "year": 2013,
+        "count": 6
+      },
+      {
+        "year": 2014,
+        "count": 9
+      },
+      {
+        "year": 2015,
+        "count": 21
+      },
+      {
+        "year": 2016,
+        "count": 12
+      },
+      {
+        "year": 2017,
+        "count": 9
+      },
+      {
+        "year": 2018,
+        "count": 6
+      },
+      {
+        "year": 2019,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "12V594000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "General Motors is recalling certain model year 2010-2012 Chevrolet Colorado and GMC Canyon vehicles manufactured from November 9, 2009, through August 28, 2012, for failing to comply with the requirements of Federal Motor Vehicle Safety Standard No. 113, \"Hood Latch System.\"   The hood may be missin",
+        "report_date": "19/12/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V575000",
+        "component": "CHILD SEAT",
+        "summary": "GM IS RECALLING CERTAIN MODEL YEAR 2004-2011, CHEVROLET COLORADO, GMC CANYON, MODEL YEAR 2006, ISUZU I-280/I-350, AND MODEL YEAR 2007-2008, I-290/I-370, REGULAR CAB VEHICLES AND EXTENDED CAB VEHICLES WITHOUT A REAR SEAT AND EQUIPPED WITH A FRONT 60/40 SPLIT BENCH SEAT.  THESE VEHICLES FAIL TO COMPLY",
+        "report_date": "18/11/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:52:51.785Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

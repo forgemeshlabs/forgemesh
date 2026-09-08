@@ -1,0 +1,136 @@
+{
+  "slug": "2022-chevrolet-tahoe",
+  "year": 2022,
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 184,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 70,
+        "share_pct": 38,
+        "excerpts": [
+          "Had a engine failure at 93,000 miles and upon doing a vin report found out it also had a engine put it at 7,800 miles so it now has its third engine in it and also had the high pressure pump fail and ",
+          "This vehicle is subject to Safety Recall N252494000 / NHTSA Campaign 25V274 for a known L87 6.2L V8 engine defect. Prior to the June 2025 recall notice, I incurred repair costs for the same defect at ",
+          "2022 Chevy Tahoe went into limp mode at 62,500 miles out of the blue and check engine light came on.  At the certified Chevy dealership I was told it was the transmission control valve, Code P2732, wh"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 37,
+        "share_pct": 20.1,
+        "excerpts": [
+          "Car has a parasitic draw and is on its second battery in 3 years. The dealer can’t seem to fix the issue and shows little concern to find the issue. Dangerous to get stranded somewhere or in the cold.",
+          "Had a engine failure at 93,000 miles and upon doing a vin report found out it also had a engine put it at 7,800 miles so it now has its third engine in it and also had the high pressure pump fail and ",
+          "I am writing to formally report a critical safety defect regarding the OnStar Telematics Control Module in my 2022 Chevrolet Tahoe High Country VIN: [XXX] . My vehicle was recently diagnosed by SERRA "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 36,
+        "share_pct": 19.6,
+        "excerpts": [
+          "Had a engine failure at 93,000 miles and upon doing a vin report found out it also had a engine put it at 7,800 miles so it now has its third engine in it and also had the high pressure pump fail and ",
+          "The transmission began slipping at 20, 25, 35, and 45 mph by the time we hit 80k miles. The vehicle was out of warranty. We were told it was unaffected by the recalls and not related to the issues aff",
+          "2022 Chevy Tahoe went into limp mode at 62,500 miles out of the blue and check engine light came on.  At the certified Chevy dealership I was told it was the transmission control valve, Code P2732, wh"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 18,
+        "share_pct": 9.8,
+        "excerpts": [
+          "Driving 55mph on highway with cars behind me and vehicle stalls. Almost rear ended. Fuel pump control module failed.",
+          "Tahoe failed mid driving in a public roadway, computer system said press to restart and car made a whirling noise. I was unable to restart or put into neutral to move. This was a safety concern due to",
+          "Vehicle lost all power while driving on interstate, there were no warning messages displayed.  The initial recall was performed on vehicle."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 12,
+        "share_pct": 6.5,
+        "excerpts": [
+          "was moving vehicles around in driveway and vehicle was running and in parked position in the driveway on slight hill and after 4-5 mins of sitting there idle vehicle rolled down the hill towards kids ",
+          "To Whom It May Concern,  I am writing to express my absolute shock, extreme frustration, and profound distress regarding the catastrophic and recurring failures of the BRAND NEW $86,626.50 2022 Chevro",
+          "driving on highway at 65MPH truck suddenly locks up (brakes or shifts into park) and does not release.vehicle swerves while coming to stop. Occurred 2 times sent to dealership and could not duplicate "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 3,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 3
+      },
+      {
+        "year": 2022,
+        "count": 24
+      },
+      {
+        "year": 2023,
+        "count": 26
+      },
+      {
+        "year": 2024,
+        "count": 31
+      },
+      {
+        "year": 2025,
+        "count": 69
+      },
+      {
+        "year": 2026,
+        "count": 31
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "22V617000",
+        "component": "SEAT BELTS:CRITICAL FASTENERS",
+        "summary": "General Motors, LLC (M) is recalling certain 2021-2022 Cadillac Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, GMC Yukon, and Yukon XL vehicles equipped with third-row seats.  The rivet that retains the buckle to the mounting bracket in the left or right side third-row seat belt buckle assembly ",
+        "report_date": "11/08/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V903000",
+        "component": "EXTERIOR LIGHTING:LIGHTING CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2023 Cadillac CT4 and CT5; 2021-2023 Buick Envision; and 2022-2023 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles.  The daytime running lights (DRLs) may not deactivate wh",
+        "report_date": "08/12/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V274000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "General Motors LLC (GM) is recalling certain 2021-2024 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles equipped with a 6.2L V8 gas engine.  The connecting rod and/or crankshaft engine components may have manufacturing d",
+        "report_date": "24/04/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V085000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2022 Chevrolet Tahoe, Chevrolet Suburban, GMC Yukon, GMC Yukon XL, Cadillac Escalade, and Cadillac Escalade ESV vehicles equipped with 10 Speed Transmission with ETRS (Electronic Transmission Range Select). The transmission control valve may fail and loc",
+        "report_date": "13/02/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:09:05.923Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

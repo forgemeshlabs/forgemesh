@@ -1,0 +1,160 @@
+{
+  "slug": "2008-subaru-forester",
+  "year": 2008,
+  "make": "Subaru",
+  "model": "Forester",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 50,
+    "top_failure_components": [
+      {
+        "component": "SUSPENSION",
+        "complaints": 11,
+        "share_pct": 22,
+        "excerpts": [
+          "The contact owns a 2008 Subaru Forester. The contact stated while driving at approximately 5 MPH, the transmission control valve detached. No warning light was illuminated. The contact did research an",
+          "The contact owns a 2008 Subaru Forester. The contact stated that while driving at various speeds, there was a clanking and knocking sound coming from the front end of the vehicle. The vehicle was exam",
+          "The contact owns a 2008 Subaru Forester. The contact stated that while driving at 35 MPH, there was an abnormal clanking noise coming from the steering wheel. Additionally, the steering wheel became l"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 7,
+        "share_pct": 14,
+        "excerpts": [
+          "Engine overheating and causing multiple problems",
+          "MY ENGINE STARTED FAILING. THE COMPRESSION STARTED RAPIDLY DECLINING THESE LAST FEW WEEKS.  MY ENGINE WAS SLUGGISH AND JERKY.  I PREVIOUSLY HAD THE CAR SERVICED WITH A NEW ALTERNATOR AND HAD MY EMISSI",
+          "TL* THE CONTACT OWNS A 2008 SUBARU FORESTER. WHILE THE VEHICLE WAS UNDERGOING ROUTINE MAINTENANCE AT GOLICK MOTOR COMPANY (600 7TH ST, PITCAIRN, PA 15140, (412) 372-7420), THE CONTACT WAS INFORMED THA"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 6,
+        "share_pct": 12,
+        "excerpts": [
+          "Engine overheating and causing multiple problems",
+          "The airbag on driver’s side deployed (malfunctioned)without incident while parked in my garage. It is currently at local Subaru dealer.  Mechanics cannot determine what caused the malfunction.  An eng",
+          "I OWN A 2008 SUBARU FORESTER 2.5X, VIN. [XXX], WHICH WAS PURCHASED NEW AT BROWN'S SUBARU, 960 HILTON HEIGHTS ROAD, CHARLOTTESVILLE, VA. ALL FACTORY RECOMMENDED MAINTENANCE SCHEDULES WERE METICULOUSLY "
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 6,
+        "share_pct": 12,
+        "excerpts": [
+          "I OWN A 2008 SUBARU FORESTER 2.5X, VIN. [XXX], WHICH WAS PURCHASED NEW AT BROWN'S SUBARU, 960 HILTON HEIGHTS ROAD, CHARLOTTESVILLE, VA. ALL FACTORY RECOMMENDED MAINTENANCE SCHEDULES WERE METICULOUSLY ",
+          "I BOUGHT THE CAR IN MAY OF 2008. ON FEB. 29, THE CHECK ENGINE LIGHT AND THE TRACTION CONTROL LIGHT CAME ON, AS WELL AS THE CRUISE CONTROL LIGHT STARTED FLASHING.  I THOUGHT, WHY? I'VE ONLY HAD IT FOR ",
+          "TL*THE CONTACT OWNS A 2008 SUBARU FORESTER. WHILE DRIVING 7 MPH, THE VEHICLE SUDDENLY ACCELERATED. THE CONTACT ENGAGED THE BRAKES BUT THE VEHICLE WOULD NOT SLOW DOWN. HE SHIFTED INTO NEUTRAL AND ALTHO"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 5,
+        "share_pct": 10,
+        "excerpts": [
+          "Engine overheating and causing multiple problems",
+          "TL* THE CONTACT OWNS A 2008 SUBARU FORESTER. WHILE ATTEMPTING TO HAVE THE VEHICLE INSPECTED, IT WOULD NOT PASS THE SMOG TEST DUE TO A SECONDARY AIR INJECTION PUMP BEING STUCK OPEN. WHILE DRIVING VARIO",
+          "DRIVING 2008 SUBARU FORESTER LL BEAN PULLING INTO PARKING PARK. VEHICLE STARTED RUNNING ROUGH, PARKED, ENGINE STOPPED RUNNING. ATTEMPTED TO RESTART SOUNDED LIKE A LOW BATTERY TURNED OFF ALL ELECTRICAL"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 3,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2007,
+        "count": 1
+      },
+      {
+        "year": 2008,
+        "count": 2
+      },
+      {
+        "year": 2009,
+        "count": 5
+      },
+      {
+        "year": 2010,
+        "count": 3
+      },
+      {
+        "year": 2012,
+        "count": 4
+      },
+      {
+        "year": 2013,
+        "count": 4
+      },
+      {
+        "year": 2014,
+        "count": 3
+      },
+      {
+        "year": 2015,
+        "count": 2
+      },
+      {
+        "year": 2016,
+        "count": 4
+      },
+      {
+        "year": 2017,
+        "count": 3
+      },
+      {
+        "year": 2018,
+        "count": 4
+      },
+      {
+        "year": 2019,
+        "count": 3
+      },
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 1
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "11V464000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM:LOWER ARM",
+        "summary": "SUBARU IS RECALLING CERTAIN MODEL YEAR 2002-2007 IMPREZA, MODEL YEAR 2003-2008 FORESTER, AND MODEL YEAR 2005-2006 SAAB 9-2X VEHICLES MANUFACTURED FROM SEPTEMBER 5, 2000 THROUGH NOVEMBER 26, 2007 ORIGINALLY SOLD, OR CURRENTLY REGISTERED IN,  MASSACHUSETTS, MARYLAND, MICHIGAN, NEW HAMPSHIRE, NEW YORK,",
+        "report_date": "06/09/2011",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:47:27.233Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

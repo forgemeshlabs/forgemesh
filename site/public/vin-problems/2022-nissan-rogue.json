@@ -1,0 +1,148 @@
+{
+  "slug": "2022-nissan-rogue",
+  "year": 2022,
+  "make": "Nissan",
+  "model": "Rogue",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 256,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 135,
+        "share_pct": 52.7,
+        "excerpts": [
+          "My 2022 Nissan Rogue 1.5L VC-Turbo is experiencing repeated limp-mode/reduced-power events, severe hesitation, poor acceleration, rough/shaking idle, and recurring DTC U0652 after Nissan marked recall",
+          "My 2022 Nissan Rogue has entered reduced-power/limp mode approximately nine times. The specific component causing the malfunction has not been identified. The vehicle is available for inspection upon ",
+          "The contact owns a 2022 Nissan Rogue. The contact stated that while driving at various speeds, the transmission unexpectedly downshifted with the messages \"Engine Malfunction Power Reduced Service Now"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 44,
+        "share_pct": 17.2,
+        "excerpts": [
+          "I purchased the vehicle about 4 months ago and I've only driven it maybe 1 month out of 4 due to being in the shop for multiple egr and throttle issues. I am currently sitting with it broke down once ",
+          "My Nissan rogue had a PCV valve recall and I'm still getting sick from the car. I've had it at the dealerships and they can't find anything wrong but the car is causing severe migraine headaches, seve",
+          "While driving an alert appeared on the dash stating engine malfunction. Speed was reduced instantly which was dangerous as I was driving at high speeds on the freeway with traffic behind me. The accel"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 42,
+        "share_pct": 16.4,
+        "excerpts": [
+          "The contact owns a 2022 Nissan Rogue. The contact received notification of NHTSA Campaign Number: 25V437000(Engine and Engine Cooling). The vehicle was taken to the dealer where the contact was inform",
+          "The contact owns2022 Nissan Rogue.  The contact stated that the vehicle was taken to the dealer for a recall repair and approximately 2 weeks after the repair was done  while driving on the roadway,  ",
+          "The contact owns a 2022 Nissan Rogue. The contact stated that while driving at an undisclosed speed, the check engine warning light illuminated. The vehicle lost automotive power, failed to accelerate"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 38,
+        "share_pct": 14.8,
+        "excerpts": [
+          "My 2022 Nissan Rogue 1.5L VC-Turbo is experiencing repeated limp-mode/reduced-power events, severe hesitation, poor acceleration, rough/shaking idle, and recurring DTC U0652 after Nissan marked recall",
+          "My 2022 Nissan Rogue has entered reduced-power/limp mode approximately nine times. The specific component causing the malfunction has not been identified. The vehicle is available for inspection upon ",
+          "The contact owns a 2022 Nissan Rogue. The contact stated that while driving at various speeds, the transmission unexpectedly downshifted with the messages \"Engine Malfunction Power Reduced Service Now"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 21,
+        "share_pct": 8.2,
+        "excerpts": [
+          "My 2022 Nissan Rogue 1.5L VC-Turbo is experiencing repeated limp-mode/reduced-power events, severe hesitation, poor acceleration, rough/shaking idle, and recurring DTC U0652 after Nissan marked recall",
+          "On June 12, 2026, while driving my 2022 Nissan Rogue on the Grand Central Expressway in New York, the engine suddenly shut down and the vehicle lost motive power in active highway traffic. The vehicle",
+          "I was driving when I was pulled over by a police officer for speeding I was going 5 over the speed limit (Speed limit was 65). As the officer approached my vehicle, he noticed flames coming from the e"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 5,
+      "fires": 1,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2022,
+        "count": 29
+      },
+      {
+        "year": 2023,
+        "count": 34
+      },
+      {
+        "year": 2024,
+        "count": 45
+      },
+      {
+        "year": 2025,
+        "count": 95
+      },
+      {
+        "year": 2026,
+        "count": 53
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "22V259000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2022 Rogue vehicles.  Due to a manufacturing error, an area on the bottom wall of the fuel tank may be too thin.",
+        "report_date": "14/04/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V527000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2021-2022 Rogue, 2022 Frontier, Pathfinder, and Titan rental vehicles.  When the Sirius XM subscription is set to \"Not Subscribed,\" it may cause the infotainment head unit to reboot, resulting in an inoperative rearview camera.  As such, these",
+        "report_date": "21/07/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V660000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2022 Rogue vehicles.  The fuel tank may have been punctured when vehicle modifications were performed.",
+        "report_date": "31/08/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V666000",
+        "component": "SEAT BELTS: REAR/OTHER:BUCKLE ASSEMBLY",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2021-2022 Rogue vehicles.  The rear seat belts for the left-hand and right-hand rear seats may not retract properly.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard numbers 208, \"Occupant ",
+        "report_date": "01/09/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V772000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2022 Titan, Titan XD, Frontier, and 2021-2022 Rogue vehicles.  The in-vehicle infotainment (IVI) system may continuously reboot when the vehicle is restarted, which can result in an inoperative rearview display.  As such, these vehicles fail t",
+        "report_date": "13/10/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V437000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "Nissan North America, Inc. (Nissan) is recalling certain 2021-2024 Rogue, 2019-2020 Altima, 2019-2022 Infiniti QX50, and 2022 Infiniti QX55 vehicles equipped with 3-cylinder 1.5L or 4-cylinder 2.0L variable compression turbo (VC-Turbo) engines. The engine bearings may have manufacturing defects that",
+        "report_date": "27/06/2025",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:09.458Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

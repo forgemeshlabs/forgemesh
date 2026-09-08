@@ -1,0 +1,220 @@
+{
+  "slug": "2011-honda-accord",
+  "year": 2011,
+  "make": "Honda",
+  "model": "Accord",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 296,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 115,
+        "share_pct": 38.9,
+        "excerpts": [
+          "The contact owns a  2011 Honda Accord. The contact stated that while his wife was driving 35 MPH with her son inside the vehicle, the driver’s side and the driver’s seat air bags deployed unexpectedly",
+          "The drivers side curtain airbag and drivers side seat belt retention airbag deployed while driving without an impact/collision. It is available for inspection. The airbags deploying while driving bloc",
+          "I don't remember the exact days but the air bag light comes on twice"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 38,
+        "share_pct": 12.8,
+        "excerpts": [
+          "No accident occurred!, seats are extremely uncomfortable and is causing me back pains when sitting for long periods of time, I can imagine in a collision these seats would be very unsafe to a persons ",
+          "THE ACTIVE HEAD RESTRAINTS MOVED INTO THE FORWARD POSITION FOR NO APPARENT REASON (I.E., THERE WAS NO REAR COLLISION). IT HAPPENED FIRST WITH THE DRIVER'S SEAT AND SEPARATELY, AT SOME LATER POINT, WIT",
+          "I AM HAVING MAJOR LOW BACK AND TAIL BONE PAIN FROM THE FRONT SEATS. I HAVE A HARD TIME EVEN DRIVING 15 MILES TO WORK. THE SEAT ISSUES MAKE IT IMPOSSIBLE TO TRAVEL FAR DISTANCES AND I NEED TO RENT A CA"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 25,
+        "share_pct": 8.4,
+        "excerpts": [
+          "I'm having symptoms of cold startup engine rattle type clatter sound for approximately 2-3 seconds and then it goes away. Doesn't do that again unless the car sits for a period of time. If it's been s",
+          "ENGINE, C1 MISFIRERS, THIS HAS OCCURED OVER THE PAST TWO YEARS AND HAS COSTS ME THOUSANDS TO FIX BUT ITS NOT A PERMANAT FIX, IT'S BEEN A BANDAID TO THIS ISSUE. ITS THE SAME ISSUE AS YOU ALL ARE INVEST",
+          "The contact owns a 2011 Honda Accord. The contact stated while driving approximately 65 MPH, the check engine warning light was flashing. The contact stated that the vehicle was vibrating and was losi"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 21,
+        "share_pct": 7.1,
+        "excerpts": [
+          "At only 61,083 miles, the rack and pinion on my 2011 Honda Accord was diagnosed as leaking by Baierl Honda in Wexford, PA. The dealership documented the issue as: “FOUND RACK AND PINION LEAKING; PARTS",
+          "The rack and pinion needs to be replaced with just over 63k miles. This appears to be a common occurrence amongst 2008-2012 Honda Accords but it appears Honda is ignoring the issue. I have included a ",
+          "I have a 2011 Honda Accord V6 coupe. At approximately 11:39 hours on 8/15/2023 my car lost all steering and brakes and spun violently multiple times across the highway. Thankfully the car did not impa"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 21,
+        "share_pct": 7.1,
+        "excerpts": [
+          "Statement by American Honda Regarding Left and Right Front Drive Shaft Recalls  Our 2011 Honda Accord, driven by our grandson, had experienced a possible breakage of the drive shaft, leaving him stran",
+          "Both the passenger and driver side CV axles have a rubber vibration isolator mounted in the center of each drive axle. The rubber is cracking and showing rust heave underneath, The attachment method h",
+          "The engine on the Honda Accord car shudders and loses power when there is a change in gears.  Based on my research and after consultation with my mechanic, the Honda Odyssey had similar problems.  The"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 33,
+      "fires": 3,
+      "injuries": 32,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 8
+      },
+      {
+        "year": 2011,
+        "count": 52
+      },
+      {
+        "year": 2012,
+        "count": 15
+      },
+      {
+        "year": 2013,
+        "count": 5
+      },
+      {
+        "year": 2014,
+        "count": 16
+      },
+      {
+        "year": 2015,
+        "count": 28
+      },
+      {
+        "year": 2016,
+        "count": 67
+      },
+      {
+        "year": 2017,
+        "count": 33
+      },
+      {
+        "year": 2018,
+        "count": 13
+      },
+      {
+        "year": 2019,
+        "count": 12
+      },
+      {
+        "year": 2020,
+        "count": 4
+      },
+      {
+        "year": 2021,
+        "count": 9
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 11
+      },
+      {
+        "year": 2024,
+        "count": 7
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "18V661000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2014 Honda Insight and Acura TSX and TSX Wagon, 2014-2015 Honda Crosstour and Pilot vehicles nationwide, as well as certain 2014 Honda FCX Clarity and Fit EV vehicles in Florida, Hawaii, Puerto Rico, Texas, Alabama, Georgia, Louisiana, Mississipp",
+        "report_date": "27/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V268000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2003-2012 Honda Accord and Pilot, 2010 Accord Crosstour, 2001-2011 Civic, 2002-2011 CR-V, 2003-2004, 2006-2008 and 2011 Element, 2007 and 2009-2013 Fit, 2010-2012 Insight, 2002-2004 Odyssey, and 2012 Ridgeline vehicles.  The front passenger air b",
+        "report_date": "26/04/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V502000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2014 TSX Sport Wagon, 2010-2013 ZDX, 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic and Civic Hybrid, 2008-2010 Civic GX NGV, 2012-2015 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2014 Fit EV, 2010-201",
+        "report_date": "27/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V378000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2013 TSX Sport Wagon, and 2010-2012 ZDX and 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic, Civic Hybrid and Civic NGV, 2012-2014 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2010-2013 Insight, and 2009",
+        "report_date": "16/05/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V545000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2008-2012 Accord, 2010-2012 Accord Crosstour, 2006-2011 Civic, 2007-2011 CR-V, 2009-2012 Fit and Pilot, 2010-2012 Insight, and 2009-2012 Acura TSX vehicles that received replacement passenger frontal air bag inflators.  One dealership may have in",
+        "report_date": "31/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V030000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2012 Acura TSX, 2011-2012 Acura TSX Wagon, 2010-2012 Acura ZDX, 2008-2012 Honda Accord, 2010-2012 Honda Accord Crosstour and Honda Insight, 2009-2012 Honda Fit, 2009-2012 Pilot, 2007-2011 Honda CR-V, 2012 Honda FCX Clarity and 2006-2011 Hond",
+        "report_date": "10/01/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V042000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2010-2013 Acura TSX, ZDX, Honda Accord Crosstour, Fit, Insight and Pilot vehicles, 2011-13 Acura TSX Sportswagon, 2010-2012 Honda Accord,, 2010-2011 Honda Civic, Civic NGV, Civic Hybrid and CR-V vehicles and 2013 Honda FCX Clarity and Fit EV vehi",
+        "report_date": "09/01/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V346000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain model year 2009-2011 Acura TSX, 2011 TSX Wagon, 2010-2011 Acura ZDX, 2008-2011 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic, Civic Hybrid, and Civic GX, 2007-2011 CR-V, 2010-2011 FCX Clarity and Insight, and 2009-2011 Fit, and Pilot ",
+        "report_date": "24/05/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V640000",
+        "component": "SUSPENSION",
+        "summary": "HONDA IS RECALLING CERTAIN MODEL YEAR 2010-2011 HONDA ACCORD V6 AND MODEL YEAR 2011 HONDA PILOT VEHICLES.  THE BOLTS THAT ATTACH THE LOWER LEFT AND RIGHT FRONT DAMPER BRACKET TO THE FRONT SUSPENSION AND THE SPINDLE NUTS ON THE PILOT MAY NOT HAVE BEEN PROPERLY TIGHTENED WHICH MAY RESULT IN LOSS OF ST",
+        "report_date": "16/12/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:52:56.632Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

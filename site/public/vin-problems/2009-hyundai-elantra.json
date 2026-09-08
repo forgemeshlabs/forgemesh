@@ -1,0 +1,184 @@
+{
+  "slug": "2009-hyundai-elantra",
+  "year": 2009,
+  "make": "Hyundai",
+  "model": "Elantra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 284,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 143,
+        "share_pct": 50.4,
+        "excerpts": [
+          "I am reporting Hyundai’s failure to complete open Campaign 127/NHTSA Recall 15V-100 on my 2009 Hyundai Elantra. I acquired the vehicle from a family member in late July 2026 after the previous owner d",
+          "Power steering assist motor stopped working, leaving the car with hard manual steering. Dealer inspection confirms the issue across several year models, inclding my 2009. There were 2 other year model",
+          "The contact owns a 2009 Hyundai Elantra. The contact stated that while driving at an undisclosed speed, the steering wheel failed to turn in the intended direction. The EPS warning light was illuminat"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 50,
+        "share_pct": 17.6,
+        "excerpts": [
+          "I backed into my driveway, placed the vehicle in park and as I was setting the parking break the drivers side airbag deployed.  The vehicle was still running.",
+          "Air bag light is on as soon as car power on until it turns off passenger airbag is off I dont know if my airbags will deploy if I get in an accident . While driving steady speed of 50-60 mph while pre",
+          "March 26, 2024 Hello; Re: 2009 Hyundai Elantra Touring VIN# [XXX]  On [XXX], I while driving on a very icy slippery road to do low temperatures and the city not salting the roads like they should have"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 29,
+        "share_pct": 10.2,
+        "excerpts": [
+          "The contact owns a 2009 Hyundai Elantra. The contact received notification of NHTSA Campaign Number: 20V061000 (Service Brakes, Hydraulic). The contact stated that while driving approximately 35 MPH, ",
+          "NHTSA 20V-061 (Hyundai 188): ABS/HECU Module  NHTSA 15V-100 (Hyundai 127): Electric Power Steering (EPS)  NHTSA 13V-113 (Hyundai 110): Brake Light Switch",
+          "The contact owned a 2009 Hyundai Elantra. The contact stated that on one occasion when the vehicle was turned on, the brake and ABS warning lights illuminated. On another occasion, while the vehicle w"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 28,
+        "share_pct": 9.9,
+        "excerpts": [
+          "NHTSA 20V-061 (Hyundai 188): ABS/HECU Module  NHTSA 15V-100 (Hyundai 127): Electric Power Steering (EPS)  NHTSA 13V-113 (Hyundai 110): Brake Light Switch",
+          "Got in the car to come home put the key in ignition turned it and battery was dead went to turn off and something popped and cloud of smoke started rolling out from underneath the hood once hood was u",
+          "The radio turns on and off in its own heat blows threw the vent when heater is off abs lock showed not working when inspection then showed as it was working air bag light always on none of the dash bo"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 21,
+        "share_pct": 7.4,
+        "excerpts": [
+          "Air bag light is on as soon as car power on until it turns off passenger airbag is off I dont know if my airbags will deploy if I get in an accident . While driving steady speed of 50-60 mph while pre",
+          "Drove about 1 hour using cruise control part of the time. Don't usually use it, but used it 2 months ago with no problem. After 1.5 hour visit, drove home. Did not use cruise control, but at last 10 m",
+          "I WAS DRIVING ON THE HIGHWAY WITH CRUISE CONTROL ON. WHEN I TURNED THE CRUISE CONTROL OFF, THE CAR WOULD NOT SLOW DOWN. IN FACT, THE CAR INCREASED IN SPEED EVEN WITH THE CRUISE CONTROL COMPLETELY OFF."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 28,
+      "fires": 11,
+      "injuries": 24,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 15
+      },
+      {
+        "year": 2010,
+        "count": 11
+      },
+      {
+        "year": 2011,
+        "count": 12
+      },
+      {
+        "year": 2012,
+        "count": 11
+      },
+      {
+        "year": 2013,
+        "count": 18
+      },
+      {
+        "year": 2014,
+        "count": 27
+      },
+      {
+        "year": 2015,
+        "count": 32
+      },
+      {
+        "year": 2016,
+        "count": 18
+      },
+      {
+        "year": 2017,
+        "count": 13
+      },
+      {
+        "year": 2018,
+        "count": 26
+      },
+      {
+        "year": 2019,
+        "count": 21
+      },
+      {
+        "year": 2020,
+        "count": 15
+      },
+      {
+        "year": 2021,
+        "count": 15
+      },
+      {
+        "year": 2022,
+        "count": 14
+      },
+      {
+        "year": 2023,
+        "count": 14
+      },
+      {
+        "year": 2024,
+        "count": 13
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "20V061000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2007-2010 Elantra and 2009-2011 Elantra Touring vehicles.  On February 21, 2020 Hyundai expanded the recall to include 46,425 model year 2007-2008 Entourage and 2007 Santa Fe vehicles.  Moisture may enter the Anti-lock Brake (ABS) Module and resul",
+        "report_date": "04/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V100000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain model year 2008-2010 Elantra vehicles manufactured June 1, 2008, to April 30, 2010, and 2009-2010 Elantra Touring vehicles manufactured November 1, 2008, to April 30, 2010. The electronic power steering (EPS) electronic control unit (ECU) may sens",
+        "report_date": "23/02/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V113000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2006-2009 Accent, model year 2007-2011 Azera, Sonata and Sante Fe,2006-2011 Tucson, 2009-2011 Elantra Touring, 2007-2010 Elantra, 2008-2011 Veracruz, 2009-2011 Genesis, 2010-2011 Genesis Coupe, 2007-2008 Entourage, and  2006-2008 Tiburo",
+        "report_date": "01/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V143000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "HYUNDAI IS RECALLING CERTAIN MODEL YEAR 2007-2009 ELANTRA VEHICLES MANUFACTURED FROM JULY 14, 2006, THROUGH NOVEMBER 1, 2008.  THE FRONT PASSENGER SEATS IN THE VEHICLES CONTAIN A WEIGHT SENSOR DESIGNED TO DEACTIVATE THE RIGHT FRONTAL AIRBAG WHEN OCCUPANTS OF CERTAIN WEIGHTS OCCUPY THE SEAT.  THE ELE",
+        "report_date": "15/03/2011",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:49:27.475Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "2016-gmc-sierra",
+  "year": 2016,
+  "make": "GMC",
+  "model": "Sierra",
+  "matched_as": {
+    "complaints": [
+      "SIERRA 2500",
+      "SIERRA 1500",
+      "SIERRA 3500"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 137,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 28,
+        "share_pct": 20.4,
+        "excerpts": [
+          "2016 Denali 2500 Diesel - Loose steering, like many of the others complaining.  I only have 13,000 miles on the truck since I don't drive it during Ohio winters (salt) and use it to tow my 6500 lb boa",
+          "The contact owns a 2016 GMC Sierra 2500. The contact stated while driving at an undisclosed speed four years ago, the steering wheel became significantly loose, causing the contact to lose control of ",
+          "While driving down the road pulling a trailer The steering wheel started to get sloppy it got up to 3 to 4 inches of play in the steering wheel before the wheels return either way The adjustment screw"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 27,
+        "share_pct": 19.7,
+        "excerpts": [
+          "Trailer brake system continues to pop up “service.”",
+          "I am receiving an on-and-off “Service Trailer Brake System” when towing and sometimes when not towing. Checked every component and alert does not stop. When this happens while I’m towing, trailer brak",
+          "Service trailer brake system warning over amd over"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 20,
+        "share_pct": 14.6,
+        "excerpts": [
+          "My 2016 GMC Sierra 2500 with a 6.6-liter Duramax diesel V8 engine suffered a complete engine shutdown—an issue that is both hazardous and expensive to repair.  Fortunately, mine failed in a parking lo",
+          "Motor stopped dead while driving on a local Interstate Hwy. Was able to negotiate the truck out of traffic without crashing. Not an easy thing to do in speeding rush hour traffic. Had the truck towed ",
+          "Vehicle is a Duramax Diesel engine with a CP4 fuel pump. The pump went out and the entire line/system has to be replaced.  While driving the vehicle it lurched, made a noise then went to reduced power"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 19,
+        "share_pct": 13.9,
+        "excerpts": [
+          "My HMI was \"bricked\" when onstar pushed an incompatible update when I changed the service plan.   While driving the screen has intermittently turned off and on causing temporary unexpected loss of nav",
+          "The contact owns a 2016 GMC Sierra 2500. The contact stated that the horn was inoperable. The contact became aware of the failure when the horn failed to sound while locking the vehicle with the key f",
+          "The contact owned a 2016 GMC Sierra 1500. The contact stated that while driving at various speeds, the vehicle would lose automotive power. The vehicle was taken to a dealer where the negative battery"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 14,
+        "share_pct": 10.2,
+        "excerpts": [
+          "CP4 injection pump failure while driving nearly causing vehicle collision.",
+          "The CP4 pump failed while driving causing vehicle to stall.  Upon failure, lost power to steering.  Luckily we were on an access road for a rest area and not yet on the interstate.  This resulted in a",
+          "My vehicles High Pressure Fuel Pump failed causing the vehicle to shutoff while driving. In addition, due to the engine shutting down while driving, the power steering quit working causing me to not b"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 3,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 14
+      },
+      {
+        "year": 2017,
+        "count": 14
+      },
+      {
+        "year": 2018,
+        "count": 12
+      },
+      {
+        "year": 2019,
+        "count": 23
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 11
+      },
+      {
+        "year": 2023,
+        "count": 9
+      },
+      {
+        "year": 2024,
+        "count": 13
+      },
+      {
+        "year": 2025,
+        "count": 14
+      },
+      {
+        "year": 2026,
+        "count": 8
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "16V084000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Genera Motors LLC (GM) is recalling certain model year 2016 Chevrolet Camaro, Malibu, Silverado and GMC Sierra vehicles.  The radio may intermittently fail to provide an audio warning when the key has been left in the ignition and the door is opened or when the driver does not fasten their seat belt",
+        "report_date": "11/02/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V830000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016 Chevrolet Silverado and GMC Sierra pick up trucks manufactured October 13, 2015, to October 14, 2015.  In the affected vehicles, the mounting stud used to secure the air bag sensing and diagnostic Module (SDM) may be incorrectly positioned",
+        "report_date": "10/12/2015",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:08.423Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

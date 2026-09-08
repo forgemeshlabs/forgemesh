@@ -1,0 +1,144 @@
+{
+  "slug": "2016-kia-soul",
+  "year": 2016,
+  "make": "Kia",
+  "model": "Soul",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 810,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 552,
+        "share_pct": 68.1,
+        "excerpts": [
+          "Incident Overview & Vehicle Record Vehicle: 2016 Kia Soul Purchase Date: June 30, 2024 (Purchased from AutoNation Plano as 2nd owner) Incident Date: June 19, 2025 (Stalled on road at 113,000 miles) Cu",
+          "I am filing a formal safety compliance complaint regarding my 2016 Kia Soul (1.6L GDI engine) and a structural failure of the exhaust/catalytic converter system related to NHTSA Campaign 19V120000 / R",
+          "My 2016 Kia Soul with the 1.6L GDI engine lost power. On 08/21/2026 at 107,547 miles I took it to Grand Kia, 1950 West 104th Avenue, Thornton, Colorado, repair order 137483, service advisor Patricia P"
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 105,
+        "share_pct": 13,
+        "excerpts": [
+          "The contact's grandmother owns a 2016 Kia Soul. The contact stated that while his grandmother was driving at an undisclosed speed, the engine overheated. No warning lights were illuminated. The contac",
+          "The contact owns a 2016 Kia Soul. The contact stated that while driving at various speeds the vehicle suddenly stalled. During the failure the odor of fuel was present. The failure had occurred on sev",
+          "The contact owns a 2016 Kia Soul. The contact stated that while driving at an undisclosed speed, the engine oil warning light illuminated. The contact pulled over and inspected the vehicle. The contac"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 80,
+        "share_pct": 9.9,
+        "excerpts": [
+          "Incident Overview & Vehicle Record Vehicle: 2016 Kia Soul Purchase Date: June 30, 2024 (Purchased from AutoNation Plano as 2nd owner) Incident Date: June 19, 2025 (Stalled on road at 113,000 miles) Cu",
+          "The vehicle is burning oil. It creates residue in my engine which may make it dangerous to drive and ruin the catalytic converter,  among other issues. I was first notified of this problem during my s",
+          "I am reporting a safety concern related to NHTSA Recall 19V120 involving my Kia Soul. The recall identifies a defect related to catalytic converter overheating, which can lead to engine damage, stalli"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 64,
+        "share_pct": 7.9,
+        "excerpts": [
+          "What component or system failed or malfunctioned, and is it available for inspection upon request?  The vehicle is a 2016 Kia Soul 1.6L GDI with approximately 83,000 miles. The vehicle experienced eng",
+          "sudden reduced acceleration / limp mode while driving P1326 knock code potential engine failure / loss of power",
+          "Safety defect P1326 code is a known indicator of rod bearing wear. When it triggered,  the vehicle immediately went into Limp Mode,  creating a significant safety hazard. The behavior aligns with the "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 57,
+        "share_pct": 7,
+        "excerpts": [
+          "I can not gain speed. The dealership says it’s the catalytic converter and there is an active recall for this on Kia souls. They previously did recall work to my car but now the catalytic converters n",
+          "The Instrument Cluster, the Speedometer and \"NOW\" the Odometer are not working--absolutely dead.  \"NOW\" is in caps because to my surprise I noticed just recently that the Odometer is not working.  In ",
+          "When the steering wheel tilt is adjusted while driving, the vehicle experiences a complete electrical shutdown — dashboard goes black and the engine may shut off. Electrical power may return when the "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 29,
+      "fires": 34,
+      "injuries": 25,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2015,
+        "count": 3
+      },
+      {
+        "year": 2016,
+        "count": 10
+      },
+      {
+        "year": 2017,
+        "count": 20
+      },
+      {
+        "year": 2018,
+        "count": 27
+      },
+      {
+        "year": 2019,
+        "count": 87
+      },
+      {
+        "year": 2020,
+        "count": 91
+      },
+      {
+        "year": 2021,
+        "count": 110
+      },
+      {
+        "year": 2022,
+        "count": 142
+      },
+      {
+        "year": 2023,
+        "count": 120
+      },
+      {
+        "year": 2024,
+        "count": 92
+      },
+      {
+        "year": 2025,
+        "count": 77
+      },
+      {
+        "year": 2026,
+        "count": 31
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "19V120000",
+        "component": "ENGINE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2012-2016 Kia Soul vehicles equipped with 1.6L Gasoline Direct Injection (GDI) engines.  High exhaust gas temperatures may damage the catalytic converter, possibly resulting in abnormal engine combustion and damage to one or more of the engine's pistons ",
+        "report_date": "22/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V608000",
+        "component": "STEERING",
+        "summary": "Kia Motors America (Kia) is recalling certain 2014-2016 Soul and Soul EV vehicles.  The pinion plug may allow the pinion gear to separate from the steering gear assembly.",
+        "report_date": "29/09/2017",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:22.699Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

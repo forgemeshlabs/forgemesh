@@ -1,0 +1,160 @@
+{
+  "slug": "2020-gmc-acadia",
+  "year": 2020,
+  "make": "GMC",
+  "model": "Acadia",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 99,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 27,
+        "share_pct": 27.3,
+        "excerpts": [
+          "[Symptom & Safety Hazard] While driving my 2020 GMC Acadia 3.6L V6, the Driver Information Center displayed the warning: \"Steering Assist Reduced, Drive With Care\" (SARDWC). Steering effort increased ",
+          "Thermostat issue causing check engine light as well as steering assist to be turned off. Fan constantly runs.  Reset code and immediately is fine again for anywhere from a day to weeks but then happen",
+          "Back up camera randomly stops working (black screen-completely gone, or blue screen). Dash will randomly dim on its own and does not go back to normal unless car is shut off and turned back on. adapti"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 26,
+        "share_pct": 26.3,
+        "excerpts": [
+          "Engine coolant thermostat failed open. Resulting in reduced steering capabilities, and no AC.",
+          "Received a power steering reduced notice when starting the car, noticed shortly after driving the temperature gauge had not moved from its resting position. A few trips later it still had not moved an",
+          "[Symptom & Safety Hazard] While driving my 2020 GMC Acadia 3.6L V6, the Driver Information Center displayed the warning: \"Steering Assist Reduced, Drive With Care\" (SARDWC). Steering effort increased "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 21,
+        "share_pct": 21.2,
+        "excerpts": [
+          "I believe my car should be included in this recall. I've had the dealer check and they say it's nothing wrong with my car.  2020 GMC Acadia Fuel Pump Recall GMC has announced that 2781 vehicles have b",
+          "Thermostat and cooling sensor went out on my car. GMC issued a special coverage bulletin for 2021 Acadia since it's a widespread issue but not the 2020 (mine) which is also a widespread issue looking ",
+          "Thermostat"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 18,
+        "share_pct": 18.2,
+        "excerpts": [
+          "Received a power steering reduced notice when starting the car, noticed shortly after driving the temperature gauge had not moved from its resting position. A few trips later it still had not moved an",
+          "[Symptom & Safety Hazard] While driving my 2020 GMC Acadia 3.6L V6, the Driver Information Center displayed the warning: \"Steering Assist Reduced, Drive With Care\" (SARDWC). Steering effort increased ",
+          "\"Steering Assist Is Reduced – Drive With Care\" warning appeared while the vehicle is in motion. This may require increased steering effort and could affect a driver's ability to respond to changing tr"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 9,
+        "share_pct": 9.1,
+        "excerpts": [
+          "I believe my car should be included in this recall. I've had the dealer check and they say it's nothing wrong with my car.  2020 GMC Acadia Fuel Pump Recall GMC has announced that 2781 vehicles have b",
+          "Vehicle will shutter or buck at variable speeds like,  35-38 mph, 40-45 mph and so on.  if I take my foot of the gas and reapply it will shutter buck again at almost any speed. I took it to a mechanic",
+          "The vehicle stalls when air start kicks on so when stopped auto stop kick on and when your ready to go the go stalls to turn back on. I have also lost power to the car randomly.   Power train issue on"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 0,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 3
+      },
+      {
+        "year": 2020,
+        "count": 9
+      },
+      {
+        "year": 2021,
+        "count": 8
+      },
+      {
+        "year": 2022,
+        "count": 12
+      },
+      {
+        "year": 2023,
+        "count": 11
+      },
+      {
+        "year": 2024,
+        "count": 11
+      },
+      {
+        "year": 2025,
+        "count": 23
+      },
+      {
+        "year": 2026,
+        "count": 22
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "21V115000",
+        "component": "TIRES",
+        "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT4, XT5, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, Traverse, GMC Yukon, Yukon XL, 2018-2021 Chevrolet Express, GMC Savana, 2019-2020 Chevrolet Blazer, Silverado 1500, GMC Acadia, Sierra 1500, and certain Continental ",
+        "report_date": "25/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V639000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT5, Cadillac XT6, Chevrolet Traverse, and GMC Acadia vehicles.  The fuel pump's jet nozzle may have a plastic burr remaining from the manufacturing process, possibly causing a blocked nozzle and an insufficient fuel supply to",
+        "report_date": "15/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V684000",
+        "component": "TIRES",
+        "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT5, GMC Acadia and Chevrolet Traverse vehicles and 2020-2021 Chevrolet Silverado 1500, GMC Sierra 1500 vehicles.  The vehicles may have been manufactured with Continental tires that were overcured.",
+        "report_date": "05/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V446000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN:INFLATOR",
+        "summary": "General Motors, LLC. (GM) is recalling certain 2020 Buick Enclave, Cadillac XT5 and XT6, Chevrolet Blazer, Silverado 1500, 2500 and 3500 and Traverse and GMC Acadia and Sierra 1500, 2500 and 3500 vehicles.  The diffuser component of the Roof-Rail Air Bag (RRAB) inflator may not have been properly cr",
+        "report_date": "30/07/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V668000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Cruze and Buick LaCrosse, 2018-2020 Chevrolet Equinox, Chevrolet Traverse and GMC Terrain, 2018 Chevrolet Malibu, 2019-2020 Buick Encore, Buick Enclave, Cadillac XT4, Chevrolet Blazer and GMC Acadia, and 2020 Cadillac XT6 vehicles.  Th",
+        "report_date": "29/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V709000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2021 Cadillac XT5, XT6, and GMC Acadia vehicles equipped with the optional Surround Vision feature.  The rearview camera coaxial cable connectors may have been crimped improperly, causing the rearview camera to fail or function intermittently.",
+        "report_date": "22/09/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:05:15.480Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

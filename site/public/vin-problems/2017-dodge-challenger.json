@@ -1,0 +1,140 @@
+{
+  "slug": "2017-dodge-challenger",
+  "year": 2017,
+  "make": "Dodge",
+  "model": "Challenger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 49,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 16,
+        "share_pct": 32.7,
+        "excerpts": [
+          "The 8.4 Uconnect radio controls many aspects of the vehicle including hands free communications. When a communication device is paired to the system, at a random time, the device becomes unpaired and ",
+          "8.4\" touchscreen delaminating, causing ghost touches, which is changing my steering , timing, wipers, headlights, and suspension. The radio is going through stations, inputs, i can not use my android ",
+          "The LCD of the uconnect control panel has progressively continued to delaminated since about 12-18 months after purchasing. Recently it has become a driving hazard. It presses the screen at random, wh"
+        ]
+      },
+      {
+        "component": "SUSPENSION",
+        "complaints": 6,
+        "share_pct": 12.2,
+        "excerpts": [
+          "Dear [NHTSA / Indiana Attorney General],  I am filing a complaint regarding a serious safety issue with my vehicle, a 2017 Dodge Challenger, purchased on [XXX] from Wetzel Chrysler Dodge Jeep Ram, Ric",
+          "8.4\" touchscreen delaminating, causing ghost touches, which is changing my steering , timing, wipers, headlights, and suspension. The radio is going through stations, inputs, i can not use my android ",
+          "The front suspension has a problem and the engine oil cooler has a leak"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 5,
+        "share_pct": 10.2,
+        "excerpts": [
+          "Dear [NHTSA / Indiana Attorney General],  I am filing a complaint regarding a serious safety issue with my vehicle, a 2017 Dodge Challenger, purchased on [XXX] from Wetzel Chrysler Dodge Jeep Ram, Ric",
+          "8.4\" touchscreen delaminating, causing ghost touches, which is changing my steering , timing, wipers, headlights, and suspension. The radio is going through stations, inputs, i can not use my android ",
+          "Faulty electric rack and pinion have been such a huge problem. They are not only going bad after a few years, they are expensive to replace. And it’s common problem amongst dodge owners."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 5,
+        "share_pct": 10.2,
+        "excerpts": [
+          "The front suspension has a problem and the engine oil cooler has a leak",
+          "I took my car to the mechanic because the car was leaking radiator fluid. In testing the car he found that the head gasket had blown. He confirmed this with a hydrocarbon test. The car has 72,000 mile",
+          "THE DASHBORD SAYS THAT THE TRANSMISSION NEEDS SERVICE. I PUT THE CAR ON PARK, IT STARTS BLINKING SAYING CAR NOT ON PARK AND ONCE I TAKE MY FOOT OFF THE BRAKE THE ENGINE TURNS OFF. PLUS THE SWITCH STAY"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 5,
+        "share_pct": 10.2,
+        "excerpts": [
+          "Driveshaft carrier bearing out at 28,000 miles of use.  Common problem.  Needs a recall.",
+          "DRIVE SHAFT VIBRATION AT 46,600 MILES. NEEDS REPLACING BY DEALER. OUT OF WARRANTY. $1400.00",
+          "I WANTED TO REPORT THAT I WAS INJURED ON 10/6/2020. WHEN MY 2017 V6 CHALLENGER WENT OUT OF GEAR FROM \"PARK\" AND DRUG ME DOWN, AS IT ROLLED BACKWARDS (WHILE IN \"PARK\"). I SUSTAINED MULTIPLE INJURIES AL"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 2,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 4
+      },
+      {
+        "year": 2019,
+        "count": 6
+      },
+      {
+        "year": 2020,
+        "count": 11
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 7
+      },
+      {
+        "year": 2023,
+        "count": 4
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V496000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2017 Dodge Challenger and Charger vehicles equipped with Hellcat engines.  The engine oil cooler (EOC) hoses may fail resulting in a rapid loss of engine oil.",
+        "report_date": "08/08/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V431000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2017 Dodge Challenger vehicles equipped with 5.7L V8 engines and eight-speed automatic transmissions.  The transmission may not remain in the PARK position if that gear is selected, the engine is still running, and the driver exits the vehicle exited.",
+        "report_date": "07/07/2017",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:53.804Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

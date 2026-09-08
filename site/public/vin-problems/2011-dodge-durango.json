@@ -1,0 +1,216 @@
+{
+  "slug": "2011-dodge-durango",
+  "year": 2011,
+  "make": "Dodge",
+  "model": "Durango",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 798,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 514,
+        "share_pct": 64.4,
+        "excerpts": [
+          "The contact owns a 2011 Dodge Durango. The contact stated that while reversing into a parking space, the vehicle shut off and failed to restart. The vehicle was towed to a dealer, where the fuel pump ",
+          "Car shut off whike driving and couldn't control the vehicle",
+          "The contact owns a 2011 Dodge Durango. The contact stated that the vehicle stalled while starting the vehicle. The contact stated that the VIN was not included in NHTSA Campaign Number: 19V813000 (Ele"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 179,
+        "share_pct": 22.4,
+        "excerpts": [
+          "Car shut off whike driving and couldn't control the vehicle",
+          "To whom it may concern, On [XXX] at around [XXX] PST, I was taking my car to get a car wash at Quick Quack Car Wash located in [XXX] .  While waiting in line for the other cars to go in, all of sudden",
+          "I was in a blizzard a few days ago on the freeway & got caught in a ditch, but thankfully got out. I wasn’t going that fast & couldn’t due to not being able to see through the snow well so I can drive"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 119,
+        "share_pct": 14.9,
+        "excerpts": [
+          "My car has had 2 repairs for fuel pump relay issues. 2014 and 2020. recently, I noticed while driving my car will stall while accelerating on the highway. I had to pull over into emergency lane 3 time",
+          "Engine stopped while driving and steering was pulling to the right..was able to start back up and park it..has p0303 code..and p0300 code pending...checked number 3 spark plugs. And engine seems to be",
+          "This SUV has had 2 recalls for the same fuel system relay problem, And now after approximately 2or3 yrs ago, and now it's doing the same exact thing again, you'll be driving down the road and it will "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 85,
+        "share_pct": 10.7,
+        "excerpts": [
+          "Had an oil check in which they checked the breaks.  Reported breaks as a 3.  They recommended new brake pads.  I only put 6000 miles on the car since I purchased it.  It has 24747 miles and needs new ",
+          "vehicle keeps staling on road while operating, AND has THE BRAKES SYTEM failure. No brakes, brake booster had failed and also has recall part for brake booster.. the safety of my entire family was put",
+          "Rear-ended into another vehicle. Car resisted braking"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 51,
+        "share_pct": 6.4,
+        "excerpts": [
+          "While driving without notice transmission light flashes and the 2011 Dodge Durango will not shift out of gear. I have had this problem in the past and told dealer but they always say they have no code",
+          "The contact owns a 2011 Dodge Durango. The contact stated that while driving at approximately 40 MPH the vehicle lost drive power. The contact stated that the vehicle then stalled and was not able to ",
+          "While at speed, the FCW light goes off and the vehicle looses the ability to accelerate.  I usually have to pull over, shut down the vehicle, and restart it to continue.  I have had all of the recalls"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 15,
+      "fires": 57,
+      "injuries": 11,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 2
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 11
+      },
+      {
+        "year": 2012,
+        "count": 12
+      },
+      {
+        "year": 2013,
+        "count": 76
+      },
+      {
+        "year": 2014,
+        "count": 237
+      },
+      {
+        "year": 2015,
+        "count": 75
+      },
+      {
+        "year": 2016,
+        "count": 101
+      },
+      {
+        "year": 2017,
+        "count": 79
+      },
+      {
+        "year": 2018,
+        "count": 47
+      },
+      {
+        "year": 2019,
+        "count": 57
+      },
+      {
+        "year": 2020,
+        "count": 37
+      },
+      {
+        "year": 2021,
+        "count": 21
+      },
+      {
+        "year": 2022,
+        "count": 14
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 7
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "17V435000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2014 Dodge Challenger, Dodge Charger, Chrysler 300, Dodge Durango, and 2012-2014 Jeep Grand Cherokee vehicles.  The affected vehicles have electro-hydraulic power steering (EHPS) and are equipped with a 5.7L or a 3.6L engine and a 160, 180 o",
+        "report_date": "10/07/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V572000",
+        "component": "SERVICE BRAKES",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2014 Dodge Durango and Jeep Grand Cherokee vehicles.  The affected vehicles had brake booster shields installed under a previous campaign to prevent water from entering the brake booster and limiting braking ability.  This recall is to verify that the ",
+        "report_date": "18/09/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V154000",
+        "component": "SERVICE BRAKES",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Jeep Grand Cherokee and Dodge Durango vehicles manufactured from January 5, 2010, through September 8, 2013.  The subject vehicles have a brake booster with a center shell that may corrode and allow water to get inside.",
+        "report_date": "01/04/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V391000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Dodge Durango and Jeep Grand Cherokee vehicles manufactured January 5, 2010, through December 11, 2013.  In the affected vehicles, the wiring for the vanity lamp in the sun visor may short circuit, after a service repair is perf",
+        "report_date": "02/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V879000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2011-2013 Dodge Durango and Jeep Grand Cherokee vehicles manufactured December 3, 2009, to September 1, 2012.  In the affected vehicles, the wiring for the vanity lamp in the sun visor may short circuit, after having been remedied for a prior rec",
+        "report_date": "28/12/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V530000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011 Dodge Durango and Jeep Grand Cherokee vehicles manufactured January 5, 2010, to July 20, 2011, and equipped with either a 3.6L or 5.7L engine.  In the affected vehicles, the fuel pump relay inside the Totally Integrated Power Module ",
+        "report_date": "04/09/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V634000",
+        "component": "ELECTRICAL SYSTEM:ALTERNATOR/GENERATOR/REGULATOR",
+        "summary": "Chrysler Group LLC (Chrysler) is recalling certain model year 2011-2014 Chrysler 300, Dodge Charger, Challenger, and Durango; and 2012-2014 Jeep Grand Cherokee vehicles manufactured April 22, 2010, to January 2, 2014, and equipped with a 3.6L engine and a 160 amp alternator.  In the affected vehicle",
+        "report_date": "08/10/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V813000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2013 Dodge Durango and Jeep Grand Cherokee vehicles equipped with a 3.6, 5.7, or 6.4 liter engine and previously recalled under NHTSA Recall 14V530 or 15V115.  The fuel pump relay inside the Totally Integrated Power Module (TIPM-7) may fail, causing th",
+        "report_date": "14/11/2019",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:55:10.217Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

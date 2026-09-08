@@ -1,0 +1,132 @@
+{
+  "slug": "2019-hyundai-santa-fe",
+  "year": 2019,
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 195,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 69,
+        "share_pct": 35.4,
+        "excerpts": [
+          "Update Re: ODI Complaint Number: 11759237  Subsequent Actions and Manufacturer Refusal to Remediate Safety Defect: ​Following the [XXX], acute safety incident—where the vehicle lost motive power and e",
+          "My vehicle recently received the Hyundai 9c2 emissions upgrade they required and since then the vehicle has had predictable acceleration issues for the first several minutes after the vehicle. While t",
+          "The vehicle suffers from recurring, sudden loss of motive power and transitions into engine \"limp mode\" while driving in active, heavy traffic. This severe drivability defect has occurred on four sepa"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 34,
+        "share_pct": 17.4,
+        "excerpts": [
+          "Update Re: ODI Complaint Number: 11759237  Subsequent Actions and Manufacturer Refusal to Remediate Safety Defect: ​Following the [XXX], acute safety incident—where the vehicle lost motive power and e",
+          "My vehicle recently received the Hyundai 9c2 emissions upgrade they required and since then the vehicle has had predictable acceleration issues for the first several minutes after the vehicle. While t",
+          "The vehicle suffers from recurring, sudden loss of motive power and transitions into engine \"limp mode\" while driving in active, heavy traffic. This severe drivability defect has occurred on four sepa"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 26,
+        "share_pct": 13.3,
+        "excerpts": [
+          "I purchased my 2019 Hyundai Santa Fe on October 29, 2021. Since then, I’ve experienced a series of mechanical and electrical failures that I believe are far beyond normal for a vehicle of this age. - ",
+          "This car has been cutting off for a month and no type of codes popping up alternator has been replaced two brand new batteries has been replaced which is dangers car cutting off while I am driving thi",
+          "The contact owns a 2019 Hyundai Santa Fe. The contact stated that while attempting to accelerate from a stoplight, the vehicle failed to respond. The Auto START/STOP feature failed to restart the engi"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 14,
+        "share_pct": 7.2,
+        "excerpts": [
+          "The door was completely shut - I was driving on the highway - no alarm on the instrument panel, fully stage 2 latched ( even if it is just stage 1 latched - the instrument panel gives an alarm - there",
+          "The trunk hatch is no longer functioning.  The car beeps, but does not unlatch.  Once the gate is manually open from a latch inside the trunk, it will not close by pushing the gate close button.  It j",
+          "Paint is significantly peeling on the hood of my car."
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 13,
+        "share_pct": 6.7,
+        "excerpts": [
+          "Overly excessive oil consumption 2 Quarts every 3 or 4 days.no leaks. Engine gets so hot I don't have to turn on heater In winter. On going issue since 100,000 miles. EBS light stays on electronic par",
+          "Was at a complete stop at a light with a car in front me, I had plenty of space when I started accelerating and then suddenly the automatic system braked hard. Like there was literally NO REASON for w",
+          "Car turns off at lights /stop signs. Automatic break system activates. Have to wait at least five minutes to be able to restart car z same happens after driving and parking.  Turbo and battery were re"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 16,
+      "fires": 11,
+      "injuries": 10,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 8
+      },
+      {
+        "year": 2019,
+        "count": 35
+      },
+      {
+        "year": 2020,
+        "count": 16
+      },
+      {
+        "year": 2021,
+        "count": 16
+      },
+      {
+        "year": 2022,
+        "count": 19
+      },
+      {
+        "year": 2023,
+        "count": 26
+      },
+      {
+        "year": 2024,
+        "count": 34
+      },
+      {
+        "year": 2025,
+        "count": 29
+      },
+      {
+        "year": 2026,
+        "count": 12
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "18V715000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2019 Hyundai Santa Fe vehicles.  The Side Curtain Air Bag (SCAB) mounting bolts may interfere with and damage the air bags during deployment.",
+        "report_date": "11/10/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V181000",
+        "component": "TRAILER HITCHES",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2019-2023 Santa Fe, 2021-2023 Santa Fe HEV, 2022-2023 Santa Fe Plug-in HEV and Santa Cruz vehicles potentially equipped with a tow hitch harness installed as original equipment, or purchased as an accessory through a Hyundai dealership.  Water acc",
+        "report_date": "17/03/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:21.102Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

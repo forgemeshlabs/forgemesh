@@ -1,0 +1,213 @@
+{
+  "slug": "2022-gmc-sierra",
+  "year": 2022,
+  "make": "GMC",
+  "model": "Sierra",
+  "matched_as": {
+    "complaints": [
+      "SIERRA 1500 LIMITED",
+      "SIERRA 1500",
+      "SIERRA 2500",
+      "SIERRA 3500"
+    ],
+    "recalls": [
+      "SIERRA 1500",
+      "SIERRA 2500",
+      "SIERRA 3500"
+    ]
+  },
+  "failures": {
+    "total_complaints": 1216,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 469,
+        "share_pct": 38.6,
+        "excerpts": [
+          "engine failure",
+          "I just had to put my 4th engine in my 22 Sierra at4 with the 6.2 V8. I currently have 103k miles",
+          "The contact owns a 2022 GMC Sierra 1500. The contact had experienced several catastrophic failures with the engine and transmission. The contact stated that while driving 40 MPH, the vehicle shut off "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 223,
+        "share_pct": 18.3,
+        "excerpts": [
+          "My 2022 GMC Sierra started hesitating two weeks ago between the speeds of 17-35 mph.  It also hesitates going downhill.   When I try to accelerate it hesitates causing a   serious safety issue for me ",
+          "The contact owns a 2022 GMC Sierra 1500. The contact had experienced several catastrophic failures with the engine and transmission. The contact stated that while driving 40 MPH, the vehicle shut off ",
+          "Truck died while driving on a major highway due to a faulty fuel pump module.  The vehicle was blocking an intersection. The vehicle could not be put into neutral without the engine running because of"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 205,
+        "share_pct": 16.9,
+        "excerpts": [
+          "My 2022 GMC Sierra 1500 was subject to GM safety recall N242490120 / NHTSA 25V060 for an upper grille deflector that could detach from the vehicle. The recall repair was completed by my GM dealership ",
+          "The piece in front of the hood detached and flew off while riding down the highway.",
+          "On August 22, 2026, while driving my 2022 GMC Sierra westbound on State Route 84 at highway speed, with strong westerly winds of approximately 35 knots, the front passenger-side wheel-opening molding/"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 179,
+        "share_pct": 14.7,
+        "excerpts": [
+          "I am filing a formal safety complaint regarding my 2022 GMC Sierra 1500 Denali (5.3L engine). This vehicle has exhibited a pattern of severe electrical, fuel system, and active safety sensor failures ",
+          "My truck is intermittently having the camera display a warning code. While in reverse or while towing and trying to use the surrounding cameras. It happens randomly and almost caused accidents in park",
+          "I was driving at 45 mph and all of a sudden the screens went black as if the truck was turned off and the first thing I did was turn on the hazards because I didn’t know if the engine shut off either "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 70,
+        "share_pct": 5.8,
+        "excerpts": [
+          "My truck has the same issues for the transmission and engine problems I have taken it to 4 dealerships and they all say the same thing. The first one I spent about 3 hours there and they changed the 2",
+          "Truck did not stop when applying brakes. Message displayed brake system failure and the breaks were spongy. The truck was towed to the dealer and required the master cylinder, gasket, and reservoir to",
+          "Engine failed at high speeds on interstate. When my Truck shut off the steering and braking system went out and getting to shoulder of interstate was difficult with others around me. Express lanes wer"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 24,
+      "fires": 12,
+      "injuries": 14,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2016,
+        "count": 2
+      },
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 77
+      },
+      {
+        "year": 2023,
+        "count": 100
+      },
+      {
+        "year": 2024,
+        "count": 290
+      },
+      {
+        "year": 2025,
+        "count": 488
+      },
+      {
+        "year": 2026,
+        "count": 257
+      }
+    ]
+  },
+  "recalls": {
+    "count": 12,
+    "recalls": [
+      {
+        "campaign_number": "22V463000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS",
+        "summary": "General Motors (GM) has decided that certain 2022 model year Chevrolet Silverado, and GMC Sierra vehicles equipped with an accessory sport bar.  The accessory sport bar contains a high-mounted brake light that may not function.  In addition, it may block the vehicle's existing high-mounted brake lig",
+        "report_date": "30/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V903000",
+        "component": "EXTERIOR LIGHTING:LIGHTING CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2023 Cadillac CT4 and CT5; 2021-2023 Buick Envision; and 2022-2023 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles.  The daytime running lights (DRLs) may not deactivate wh",
+        "report_date": "08/12/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V797000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2022 Chevrolet Silverado 1500, 2500, 3500, GMC Sierra 1500, 2500, 3500, 2021 Cadillac Escalade, Escalade ESV, Chevrolet Tahoe, Suburban, GMC Yukon, and Yukon XL vehicles equipped with diesel engines.  The transmission control valve may fail and caus",
+        "report_date": "24/10/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V060000",
+        "component": "STRUCTURE:BODY:BUMPERS:ACTIVE SHUTTERS/GRILL",
+        "summary": "General Motors, LLC (GM) is recalling certain 2022 GMC Sierra 1500 vehicles equipped with chrome front grille deflectors.  The attachments that hold the front grille deflectors in place may fracture, resulting in grille detachment.",
+        "report_date": "06/02/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V274000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "General Motors LLC (GM) is recalling certain 2021-2024 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles equipped with a 6.2L V8 gas engine.  The connecting rod and/or crankshaft engine components may have manufacturing d",
+        "report_date": "24/04/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V083000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC is recalling certain 2020 Chevrolet Silverado 2500, 3500, GMC Sierra 2500, 3500, and 2020-2022 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles that may have been repaired incorrectly under recall 24V797. The transmission control valve may fail and cause the rear wheels to l",
+        "report_date": "12/02/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V758000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021-2022 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500, and Sierra 3500 vehicles with electronic brake control modules (EBCM) replaced during vehicle assembly.  The bolts that attach the brake pressure modulator valve (BPMV) assembly may not",
+        "report_date": "29/09/2021",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "24V060000",
+        "component": "LATCHES/LOCKS/LINKAGES:TAILGATE:LATCH",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2024 Chevrolet Silverado 2500, 3500, GMC Sierra 2500 and 3500 vehicles equipped with power-unlatching tailgates.  The tailgate's electronic gate-release switch may short circuit due to water intrusion, which can result in the tailgate inadvertently ",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V797000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2022 Chevrolet Silverado 1500, 2500, 3500, GMC Sierra 1500, 2500, 3500, 2021 Cadillac Escalade, Escalade ESV, Chevrolet Tahoe, Suburban, GMC Yukon, and Yukon XL vehicles equipped with diesel engines.  The transmission control valve may fail and caus",
+        "report_date": "24/10/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V758000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021-2022 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500, and Sierra 3500 vehicles with electronic brake control modules (EBCM) replaced during vehicle assembly.  The bolts that attach the brake pressure modulator valve (BPMV) assembly may not",
+        "report_date": "29/09/2021",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "24V060000",
+        "component": "LATCHES/LOCKS/LINKAGES:TAILGATE:LATCH",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2024 Chevrolet Silverado 2500, 3500, GMC Sierra 2500 and 3500 vehicles equipped with power-unlatching tailgates.  The tailgate's electronic gate-release switch may short circuit due to water intrusion, which can result in the tailgate inadvertently ",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V797000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2022 Chevrolet Silverado 1500, 2500, 3500, GMC Sierra 1500, 2500, 3500, 2021 Cadillac Escalade, Escalade ESV, Chevrolet Tahoe, Suburban, GMC Yukon, and Yukon XL vehicles equipped with diesel engines.  The transmission control valve may fail and caus",
+        "report_date": "24/10/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:09:19.899Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

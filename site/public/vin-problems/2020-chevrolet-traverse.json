@@ -1,0 +1,176 @@
+{
+  "slug": "2020-chevrolet-traverse",
+  "year": 2020,
+  "make": "Chevrolet",
+  "model": "Traverse",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 224,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 70,
+        "share_pct": 31.3,
+        "excerpts": [
+          "The front intermediate exhaust pipe mounting bracket weld fractured at the engine manifold, causing the exhaust pipe to break completely loose. We can now actively smell raw exhaust fumes inside the p",
+          "Bracket on the exhaust pipes just before the flex pipes broke free and there is now a hole in the pipe.",
+          "Loses oil between oil changes.  No visible signs of leaks or odor of burning oil."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 39,
+        "share_pct": 17.4,
+        "excerpts": [
+          "The contact owns a 2020 Chevrolet Traverse. The contact stated that the transmission was slipping and there was a delay while the transmission was shifting gears. The vehicle was sputtering and jerkin",
+          "I own a 2020 Chevy Traverse with currently 16,000 miles. I am currently dealing with a know shudder issue that has returned. I have already taken the vehicle under warranty to the dealership where the",
+          "The contact owns a 2020 Chevrolet Traverse. The contact stated that while parking the vehicle, the gear shifter was shifted into park(P); however, the “Shift to Park” message was displayed. The contac"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 28,
+        "share_pct": 12.5,
+        "excerpts": [
+          "While driving the stereo went off, the ac, the car stopped in middle of the road and I lost all electrical. I tried turning back on and the emergency brake light was on and the dash said  \"Steering As",
+          "Brakes have screeching noise Transmission jumps when changing gear The shift to park is so constant can not even go out because it takes more than 20 to 30 tries for it to accept park and turn Vehicle",
+          "Burning oil. There is something wrong.  I took it to the dealership i still have warranty i really think this needs to be looked into."
+        ]
+      },
+      {
+        "component": "ENGINE AND ENGINE COOLING",
+        "complaints": 25,
+        "share_pct": 11.2,
+        "excerpts": [
+          "The contact owns a 2020 Chevrolet Traverse. The contact stated that while driving at an undisclosed speed, there was an abnormal sound coming from the vehicle. The contact stated that over time the so",
+          "The contact owns a 2020 Chevrolet Traverse. The contact stated that while operating the vehicle, there was a loud sound coming from the exhaust pipes, and the vehicle failed to properly accelerate, wi",
+          "The contact owns a 2020 Chevrolet Traverse. The contact stated that upon starting the vehicle, the exhaust system made an abnormally loud sound. There was no warning light illuminated. The vehicle was"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 16,
+        "share_pct": 7.1,
+        "excerpts": [
+          "There is a well known exhaust issue with the catalytic converter and the separating manifold and no recall has been issue yet. It causes the vehicle to lose pressure and shuts off in the middle of tra",
+          "Failing front exhaust pipe mounting bracket.  GM has a special coverage program (N212356540) for 2019-2020 Chevrolet Traverse  which covers the repair for 15 years or 150,000 miles from the original s",
+          "Active GM coverage on exhaust falling off, does not include all vins affected. My car is affected by this exact issue reported and refusal to fix or repair issue, because vin “not included”  (n2123565"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 11,
+      "fires": 1,
+      "injuries": 7,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 12
+      },
+      {
+        "year": 2021,
+        "count": 14
+      },
+      {
+        "year": 2022,
+        "count": 17
+      },
+      {
+        "year": 2023,
+        "count": 38
+      },
+      {
+        "year": 2024,
+        "count": 52
+      },
+      {
+        "year": 2025,
+        "count": 58
+      },
+      {
+        "year": 2026,
+        "count": 32
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "21V115000",
+        "component": "TIRES",
+        "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT4, XT5, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, Traverse, GMC Yukon, Yukon XL, 2018-2021 Chevrolet Express, GMC Savana, 2019-2020 Chevrolet Blazer, Silverado 1500, GMC Acadia, Sierra 1500, and certain Continental ",
+        "report_date": "25/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V817000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Braun Corporation (Braun) is recalling certain 2020-2021 Chevrolet Traverse wheelchair accessible vehicles with Power In-floor Ramp conversion.  The screw and clip that hold the inner wheel-well plastic shroud in place may chafe against the transmission case, possibly resulting in a transmission flu",
+        "report_date": "18/10/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V639000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT5, Cadillac XT6, Chevrolet Traverse, and GMC Acadia vehicles.  The fuel pump's jet nozzle may have a plastic burr remaining from the manufacturing process, possibly causing a blocked nozzle and an insufficient fuel supply to",
+        "report_date": "15/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V684000",
+        "component": "TIRES",
+        "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT5, GMC Acadia and Chevrolet Traverse vehicles and 2020-2021 Chevrolet Silverado 1500, GMC Sierra 1500 vehicles.  The vehicles may have been manufactured with Continental tires that were overcured.",
+        "report_date": "05/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V446000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN:INFLATOR",
+        "summary": "General Motors, LLC. (GM) is recalling certain 2020 Buick Enclave, Cadillac XT5 and XT6, Chevrolet Blazer, Silverado 1500, 2500 and 3500 and Traverse and GMC Acadia and Sierra 1500, 2500 and 3500 vehicles.  The diffuser component of the Roof-Rail Air Bag (RRAB) inflator may not have been properly cr",
+        "report_date": "30/07/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V668000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Cruze and Buick LaCrosse, 2018-2020 Chevrolet Equinox, Chevrolet Traverse and GMC Terrain, 2018 Chevrolet Malibu, 2019-2020 Buick Encore, Buick Enclave, Cadillac XT4, Chevrolet Blazer and GMC Acadia, and 2020 Cadillac XT6 vehicles.  Th",
+        "report_date": "29/10/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V643000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave and Chevrolet Traverse vehicles. The right-hand frame rail in the\r\nengine compartment may be cracked.",
+        "report_date": "06/09/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V210000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2022 Chevrolet Traverse and 2021-2022 Buick Enclave vehicles.  The harness connector to the left or right side roof rail air bag may have incompatible electrical terminals, which could prevent the air bags from deploying in a crash.",
+        "report_date": "31/03/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:05:14.462Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

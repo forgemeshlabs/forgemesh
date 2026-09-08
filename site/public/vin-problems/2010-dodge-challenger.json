@@ -1,0 +1,196 @@
+{
+  "slug": "2010-dodge-challenger",
+  "year": 2010,
+  "make": "Dodge",
+  "model": "Challenger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 298,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 75,
+        "share_pct": 25.2,
+        "excerpts": [
+          "Was driving and a tick was present then over heated sat on side of road until cooled down added coolant drove home . The next day car was drivable. Drove to school and car was sounding funny so took i",
+          "As documented in the previous report.",
+          "I need to address a serious issue regarding the car I purchased in 2020 from a private vendor. Upon taking the car to Crown Dodge Dealership in Ventura County for repair, I had to pay roughly $700 out"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 75,
+        "share_pct": 25.2,
+        "excerpts": [
+          "The contact owns a 2010 Dodge Challenger. The contact stated that upon starting the vehicle, there was an abnormal sound coming from the instrument panel. The vehicle was taken to a dealer where it wa",
+          "My vehicle was stolen in downtown New York",
+          "As documented in the previous report."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 68,
+        "share_pct": 22.8,
+        "excerpts": [
+          "The contact owns a 2010 Dodge Challenger. The contact stated that upon starting the vehicle, there was an abnormal sound coming from the instrument panel. The vehicle was taken to a dealer where it wa",
+          "As documented in the previous report.",
+          "I need to address a serious issue regarding the car I purchased in 2020 from a private vendor. Upon taking the car to Crown Dodge Dealership in Ventura County for repair, I had to pay roughly $700 out"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 36,
+        "share_pct": 12.1,
+        "excerpts": [
+          "The clutch stick broke while driving and putting it on gear.",
+          "The Gen III hemi has an inherent design flaw in which the rollers making contact with the camshaft will fail, causing damage to the camshaft and causing the engine to misfire. This is due to the camsh",
+          "The contact owns a 2010 Dodge Challenger. The contact stated while driving at an undisclosed speed, the tire sensor, battery, and check engine warning lights were illuminated. The vehicle was taken to"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 33,
+        "share_pct": 11.1,
+        "excerpts": [
+          "Was driving normally going 65 mph on the highway when white smoke was emitting from inside the steering wheel. Between the dashboard and steering wheel. Engine was fine and no warning lights came on. ",
+          "The car has an intermittent issue where at highway speeds it will go into almost a limp mode. Basically the check engine light comes on and car loses power and won't go over 45 mph. I have to pull ove",
+          "DURING ITS MOST RECENT SCHEDULED OIL CHANGE ON MAY 25, 2018, THE DODGE SERVICE DEPARTMENT INDICATED THAT MY 2010 CHALLENGER SRT8 WITH 56,000 MILES HAS AN OIL LEAK THAT IS LEAKING FROM THE FRONT OF THE"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 10,
+      "fires": 4,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 30
+      },
+      {
+        "year": 2011,
+        "count": 34
+      },
+      {
+        "year": 2012,
+        "count": 18
+      },
+      {
+        "year": 2013,
+        "count": 31
+      },
+      {
+        "year": 2014,
+        "count": 25
+      },
+      {
+        "year": 2015,
+        "count": 55
+      },
+      {
+        "year": 2016,
+        "count": 27
+      },
+      {
+        "year": 2017,
+        "count": 21
+      },
+      {
+        "year": 2018,
+        "count": 20
+      },
+      {
+        "year": 2019,
+        "count": 15
+      },
+      {
+        "year": 2020,
+        "count": 6
+      },
+      {
+        "year": 2021,
+        "count": 7
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "19V018000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2010 Dodge Ram 3500, Ram 4500/5500, 2010-2011 Dodge Dakota, 2010-2014 Dodge Challenger, 2010-2015 Dodge Challenger, Chrysler 300, and 2010-2016 Jeep Wrangler vehicles.  Upon deployment of the driver's frontal air bag, excessive internal pressure may cause t",
+        "report_date": "15/01/2019",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V021000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2009-2013 Jeep Wrangler, Chrysler 300, Dodge Challenger and Dodge Charger vehicles, and 2009-2011 Dodge Dakota vehicles sold, or ever registered, in the states of Alabama, California, Florida, Georgia, Hawaii, Louisiana, Mississippi, South Carolina, Texas, ",
+        "report_date": "09/01/2018",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V352000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) expanded the affected population to include 73,712 2005-2009 RAM 2500 trucks produced at the St. Louis North Assembly Plant.  With this change, Chrysler is recalling certain model year 2004-2008 RAM 1500, 2005-2009 RAM 2500, 2006-2009 RAM 3500, 2007-2010 RAM 3500 Cab Chassis, 2",
+        "report_date": "24/05/2016",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V444000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain model year 2008-2010 Dodge Challenger vehicles manufactured September 19, 2007, to October 29, 2010.  The affected vehicles are equipped with a dual-stage driver frontal air bag that may be susceptible to moisture intrusion which, over time, could cause the",
+        "report_date": "10/07/2015",
+        "park_it": true,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V200000",
+        "component": "ELECTRICAL SYSTEM:IGNITION:MODULE",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2010 CHRYSLER 300, DODGE CHALLENGER, CHARGER, JEEP COMMANDER, GRAND CHEROKEE AND DODGE RAM VEHICLES.  THESE VEHICLES MAY HAVE BEEN BUILT WITH A WIRELESS IGNITION NODE (WIN) MODULE EXHIBITING A BINDING CONDITION OF THE SOLENOID LATCH.",
+        "report_date": "11/05/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V475000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2010 CHRYSLER SEBRING, 300, CHARGER (LX) AND DODGE CHALLENGER (LC), AVENGER (JS), AND JOURNEY (JC), AS WELL AS MODEL YEAR 2011 DODGE RAM LIGHT DUTY PICKUP (DS) VEHICLES.  SOME OF THESE VEHICLES MAY EXPERIENCE A SEPARATION AT THE CRIMPED END OF THE POWER STEER",
+        "report_date": "07/10/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V420000",
+        "component": "WHEELS:LUGS/NUTS/BOLTS/STUDS",
+        "summary": "CHRYSLER IS RECALLING CERTAIN MODEL YEAR 2009 THROUGH 2010 PASSENGER VEHICLES EQUIPPED WITH REAR WHEEL DRIVE.  THESE VEHICLES MAY HAVE BEEN BUILT WITHOUT A FRONT WHEEL SPINDLE NUT.",
+        "report_date": "29/10/2009",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:52:20.831Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

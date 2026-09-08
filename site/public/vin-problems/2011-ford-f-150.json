@@ -1,0 +1,200 @@
+{
+  "slug": "2011-ford-f-150",
+  "year": 2011,
+  "make": "Ford",
+  "model": "F-150",
+  "matched_as": {
+    "complaints": [
+      "F-150 REGULAR CAB",
+      "F-150 SUPERCAB",
+      "F-150 SUPER CREW"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 6411,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 2358,
+        "share_pct": 36.8,
+        "excerpts": [
+          "When driving on the interstate with the normal flow of traffic at 55mph, the vehicle abruptly downshifted from 6th gear to 1st gear causing the the vehicle to lock up an nearly caused an accident. Thi",
+          "What is happening is a KNOWN issue that effects Ford F-150's from 2011-2013 Models with the 6-Speed transmissions. The issue is with the Molded Lead Frames. The fault causes hard downshifts out of now",
+          "The contact owns a 2011 Ford F-150. The contact stated while driving approximately 60 MPH, there was an abnormal sound coming from the engine. The RPM fluctuated, and the transmission shifted roughly."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 1431,
+        "share_pct": 22.3,
+        "excerpts": [
+          "The contact owns a 2011 Ford F-150. The contact stated while driving at an undisclosed speed, the transmission unintendedly downshifted to first gear, causing the vehicle to lose motive power. The che",
+          "The contact owned a 2011 Ford F-150. The contact stated while driving at 15 MPH and making a left turn, in the middle of the turn, the instrument panel turned off, and the vehicle jerked forward befor",
+          "I have a wrench  showing up in the screen, the gears downshift,the gears shift from 3 to 6"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 1239,
+        "share_pct": 19.3,
+        "excerpts": [
+          "The electronic power steering locked up while driving & could not turn the wheel at all. Yes this has been inspected &  confirmed by an independent service center. There were no warning lamps or messa",
+          "I was driving when the steering locked up with no warning light on the dash or fault messages. Was driving on a road and taking a turn when I went straight into the woods not allowing control of vehic",
+          "On my.2011 ford f150 xlt the electrical power steering asssist failed completely while driving in traffic...  It was incredibly hard to maintain control of the vehicle ... I had to use all my strength"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 672,
+        "share_pct": 10.5,
+        "excerpts": [
+          "The electronic power steering locked up while driving & could not turn the wheel at all. Yes this has been inspected &  confirmed by an independent service center. There were no warning lamps or messa",
+          "The contact owns a 2011 Ford F-150. The contact stated while driving 30 MPH, the transmission unexpectedly downshifted to a lower gear. The contact stated that the odometer became inoperable. The cont",
+          "I’ve had this specific issue happened a few times over the last year. Basically, my truck will get stuck in first gear, a wrench will pop up on the dashboard, and my odometer will go blank.  Usually, "
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 609,
+        "share_pct": 9.5,
+        "excerpts": [
+          "When driving on the interstate with the normal flow of traffic at 55mph, the vehicle abruptly downshifted from 6th gear to 1st gear causing the the vehicle to lock up an nearly caused an accident. Thi",
+          "While driving at about 50 MPH truck suddenly down shifted to 1st gear locked up rear wheels and sent engine into a roar. Instrument panel not showing speed or any information. Had transmission shop tr",
+          "Unexpectedly downshifting into first gear result in a loss of vehicle control happened   on September 20, 2024 and continue on and off."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 123,
+      "fires": 54,
+      "injuries": 93,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 3
+      },
+      {
+        "year": 2010,
+        "count": 12
+      },
+      {
+        "year": 2011,
+        "count": 261
+      },
+      {
+        "year": 2012,
+        "count": 420
+      },
+      {
+        "year": 2013,
+        "count": 489
+      },
+      {
+        "year": 2014,
+        "count": 492
+      },
+      {
+        "year": 2015,
+        "count": 666
+      },
+      {
+        "year": 2016,
+        "count": 663
+      },
+      {
+        "year": 2017,
+        "count": 594
+      },
+      {
+        "year": 2018,
+        "count": 780
+      },
+      {
+        "year": 2019,
+        "count": 642
+      },
+      {
+        "year": 2020,
+        "count": 300
+      },
+      {
+        "year": 2021,
+        "count": 213
+      },
+      {
+        "year": 2022,
+        "count": 273
+      },
+      {
+        "year": 2023,
+        "count": 252
+      },
+      {
+        "year": 2024,
+        "count": 252
+      },
+      {
+        "year": 2025,
+        "count": 99
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "19V075000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2011-2013 F-150 vehicles equipped with a 6-speed automatic transmission.  The transmission may unexpectedly downshift into first gear, regardless of vehicle speed.",
+        "report_date": "11/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V248000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain model year 2011-2012 Ford F-150 trucks, 2012 Ford Expedition, Lincoln Navigator, and Ford Mustang vehicles.  The affected vehicles are equipped with an automatic transmission that may unexpectedly downshift to first gear, regardless of vehicle speed.",
+        "report_date": "27/04/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V190000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "FORD IS RECALLING CERTAIN MODEL YEAR 2011-2012 FORD F-150, 2012 EXPEDITION AND LINCOLN NAVIGATOR, AND 2012-2013 MUSTANG VEHICLES, FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NOS. 102, \"TRANSMISSION SHIFT LEVER SEQUENCE, STARTER INTERLOCK, AND TRANSMISSION BRA",
+        "report_date": "03/05/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V582000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "FORD IS RECALLING CERTAIN MODEL YEAR 2011 F-150 VEHICLES MANUFACTURED FROM SEPTEMBER 9, 2011, THROUGH SEPTEMBER 22, 2011, AND MODEL YEAR 2012 F-250, F-350, F-450 AND F-550 HEAVY DUTY VEHICLES MANUFACTURED FROM SEPTEMBER 12, 2011, THROUGH SEPTEMBER 22, 2011.  THESE VEHICLES FAIL TO COMPLY WITH THE RE",
+        "report_date": "08/12/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V128000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "FORD IS RECALLING CERTAIN MODEL YEAR 2011 FORD F-150, F-250, F-350, F-450, F-550, EDGE, AND LINCOLN MKX TRUCKS MANUFACTURED FROM OCTOBER 25, 2010, THROUGH NOVEMBER 20, 2010.  THESE VEHICLES WERE INSPECTED USING INTEGRATED DIAGNOSTIC SYSTEM (IDS) THAT HAD A CUSTOM SOFTWARE ROUTINE TO READ THE SUSPECT",
+        "report_date": "24/02/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V659000",
+        "component": "STRUCTURE:BODY",
+        "summary": "FORD IS RECALLING CERTAIN MODEL YEAR 2011 F-150, F-250, F-350, F-450, F-550, EDGE AND LINCOLN MKX VEHICLES.  DURING A SIX-DAY PRODUCTION PERIOD, THE SUPPLIER OF THE BODY CONTROL MODULE MANUFACTURED MODULES THAT MAY HAVE THE POTENTIAL FOR AN INTERNAL SHORT.",
+        "report_date": "29/12/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:53:20.088Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

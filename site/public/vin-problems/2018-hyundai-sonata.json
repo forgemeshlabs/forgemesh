@@ -1,0 +1,132 @@
+{
+  "slug": "2018-hyundai-sonata",
+  "year": 2018,
+  "make": "Hyundai",
+  "model": "Sonata",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 369,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 209,
+        "share_pct": 56.6,
+        "excerpts": [
+          "Since I had Service Campaign 9C2 completed, the car hesitates to start, does a mini-lurch upon cold start and runs rough. Two weeks ago, it was put in park, lurched backwards, then died. The starter a",
+          "I recently had the 9C2 Emissions recall update performed on my car, and since the update my car drives like total garbage after a cold start. It hesitates to accelerate, it bucks when trying to accele",
+          "The paint on all parts of the car is completely coming off down to bare metal. It’s as if the car wasn’t prepped to receive paint. Every Hyundai I pass that’s white the paint is coming off. There is a"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 60,
+        "share_pct": 16.3,
+        "excerpts": [
+          "We think there’s an issue with the abs module and wheel speed sensor because we started having a problem where the brakes wouldn’t work or would stutter. The car would shake real bad it would make an ",
+          "The vehicle had safety and mechanical problems shortly after purchase, even with low mileage. The issues included warning lights, abnormal noises, repeated mechanical failures, and poor performance th",
+          "To Whom It May Concern, My name is [XXX] , and I am formally escalating serious ongoing issues with my 2018 Hyundai Sonata. Despite repeated attempts to resolve these concerns through the dealership, "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 40,
+        "share_pct": 10.8,
+        "excerpts": [
+          "I recently had the 9C2 Emissions recall update performed on my car, and since the update my car drives like total garbage after a cold start. It hesitates to accelerate, it bucks when trying to accele",
+          "Check engine light solid/engine failure while driving. 2018 Sonata SE purchased new in fall 2018. Around 50,000 miles started noticing oil level drop and had to add more before next scheduled change. ",
+          "Following completion of Service Campaign 9C2 (ECU software update, TSB 25-01-087H) at a Hyundai dealership, my 2018 Sonata immediately exhibited drivability changes that were not present before the se"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 30,
+        "share_pct": 8.1,
+        "excerpts": [
+          "Fuel line leak, car is parked, fire hazard, a mechanic has been there to inspect",
+          "Engine blown out malfunction took two dealer Hyundai Folsom Lake stated rings are bad sludge buildup in engine and stayed at Hyundai motor America denied engine replacement due to knowledge under Thet",
+          "I am submitting this complaint to report a serious and ongoing safety defect involving the engine of my 2018 Hyundai Sonata Sport equipped with the 2.4L Theta II engine. The vehicle has been officiall"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 22,
+        "share_pct": 6,
+        "excerpts": [
+          "THE HEADLIGHT LOW BEAMS ARE DANGEROUS AND NEED TO BE RECALLED ASAP? After his death, I acquired this vehicle from my father who had stopped driving at night thinking he had developed a vision issue. T",
+          "Back up lights. The lights constantly burn out causing the harness light holder to burn out. The lights will not come on even after replacing fuse and lights   There are not back lights to warn patron",
+          "Check engine light keeps coming on got it looked at , certain parts replaced & it’s still on something to do with the air filter"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 18,
+      "fires": 13,
+      "injuries": 20,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1921,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 2
+      },
+      {
+        "year": 2018,
+        "count": 26
+      },
+      {
+        "year": 2019,
+        "count": 59
+      },
+      {
+        "year": 2020,
+        "count": 17
+      },
+      {
+        "year": 2021,
+        "count": 29
+      },
+      {
+        "year": 2022,
+        "count": 45
+      },
+      {
+        "year": 2023,
+        "count": 62
+      },
+      {
+        "year": 2024,
+        "count": 40
+      },
+      {
+        "year": 2025,
+        "count": 71
+      },
+      {
+        "year": 2026,
+        "count": 17
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "21V619000",
+        "component": "LATCHES/LOCKS/LINKAGES:TRUNK LID:LATCH",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2017-2018 Sonata, 2016-2018 Sonata Hybrid, 2018-2020 Accent, and 2016-2017 Azera vehicles.  The trunk latch may become damaged, preventing the opening of the trunk from the inside.  As such, these vehicles fail to comply with the requirements of F",
+        "report_date": "06/08/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:19.699Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "2008-hyundai-elantra",
+  "year": 2008,
+  "make": "Hyundai",
+  "model": "Elantra",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 315,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 55,
+        "share_pct": 17.5,
+        "excerpts": [
+          "Power steering went out, only had manual steering.",
+          "I want to go start my car just now to go to the store and when I turned it on and started it up the ABS lights emergency brake light and EPS light always lit up on my dashboard so I grabbed the manual",
+          "The EPS sensor trips when making a turn rendering the vehicle completely inoperable. I have to put the vehicle in park, shut it off, then turn it back on to continue moving. This is highly dangerous i"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 51,
+        "share_pct": 16.2,
+        "excerpts": [
+          "The contact owns a 2008 Hyundai Elantra. The contact stated that a week after the dealer performed the recall repair under NHTSA Campaign Number: 20V061000 (Service Brakes, Hydraulic); the contact was",
+          "The car was being driven nomore than 1hr. It began to smoke under the hood. The ABS EMERGENCY BRAKE LIGHT, CHECK ENGINE Then the EPS lights were on. The vehicle was pulled over and stopped. Fire was t",
+          "The engine bay of my car caught fire due to the abs pump and module not turning off. I bought a part but never opened the box because I received a piece of mail stating the recall of that exact issue "
+        ]
+      },
+      {
+        "component": "FUEL SYSTEM",
+        "complaints": 39,
+        "share_pct": 12.4,
+        "excerpts": [
+          "The contact owns a 2008 Hyundai Elantra. The contact stated while driving 30 MPH, the vehicle started jerking and stalled. There were no warning lights illuminated. The vehicle was taken to an indepen",
+          "THE CAR STALLED 6/21/11 AT 7PM ON THE FREEWAY IN 10-20 MILE AN HOUR STOP AND GO TRAFFIC. THE TEMP OUTSIDE WAS MILD, I HAD BEEN ON THE ROAD FOR 20 MIN BEFORE HITTING TRAFFIC, AND BOTH AIR CONDITIONING ",
+          "2008 HYUNDAI ELANTRA. CONSUMER STATES VEHICLE HAS A MILEAGE PROBLEM.  *TGW  WHILE ON A 4,600 MILE TRIP, MOSTLY ON THE INTERSTATE, WITH THE CRUISE CONTROL SET AT 60 MPH, THE AVERAGE MPG WAS ONLY 28 MPG"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 38,
+        "share_pct": 12.1,
+        "excerpts": [
+          "The contact owned a  2008 Hyundai Elantra. The contact stated that while the wife was driving at 30 MPH,  the contact's wife was involved in a no-fault accident.  The other vehicle involved was a 2020",
+          "While making a U-turn in a parking lot I accidentally ran over a pothole. Upon doing so the driver's airbag deployed burning a hole through my shirt and leaving burns on my stomach and arms. No other ",
+          "TL* THE CONTACT OWNS A 2008 HYUNDAI ELANTRA. THE CONTACT STATED THAT AT VEHICLE START UP, THE AIR BAG WARNING LIGHT ILLUMINATED AND REMAINED ILLUMINATED. THE VEHICLE WAS TAKEN TO REGIONAL HYUNDAI LOCA"
+        ]
+      },
+      {
+        "component": "GASOLINE",
+        "complaints": 36,
+        "share_pct": 11.4,
+        "excerpts": [
+          "The contact owns a 2008 Hyundai Elantra. The contact stated while driving 30 MPH, the vehicle started jerking and stalled. There were no warning lights illuminated. The vehicle was taken to an indepen",
+          "THE CAR STALLED 6/21/11 AT 7PM ON THE FREEWAY IN 10-20 MILE AN HOUR STOP AND GO TRAFFIC. THE TEMP OUTSIDE WAS MILD, I HAD BEEN ON THE ROAD FOR 20 MIN BEFORE HITTING TRAFFIC, AND BOTH AIR CONDITIONING ",
+          "2008 HYUNDAI ELANTRA. CONSUMER STATES VEHICLE HAS A MILEAGE PROBLEM.  *TGW  WHILE ON A 4,600 MILE TRIP, MOSTLY ON THE INTERSTATE, WITH THE CRUISE CONTROL SET AT 60 MPH, THE AVERAGE MPG WAS ONLY 28 MPG"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 38,
+      "fires": 23,
+      "injuries": 41,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 2
+      },
+      {
+        "year": 2008,
+        "count": 60
+      },
+      {
+        "year": 2009,
+        "count": 20
+      },
+      {
+        "year": 2010,
+        "count": 21
+      },
+      {
+        "year": 2011,
+        "count": 19
+      },
+      {
+        "year": 2012,
+        "count": 15
+      },
+      {
+        "year": 2013,
+        "count": 30
+      },
+      {
+        "year": 2014,
+        "count": 18
+      },
+      {
+        "year": 2015,
+        "count": 16
+      },
+      {
+        "year": 2016,
+        "count": 13
+      },
+      {
+        "year": 2017,
+        "count": 14
+      },
+      {
+        "year": 2018,
+        "count": 14
+      },
+      {
+        "year": 2019,
+        "count": 17
+      },
+      {
+        "year": 2020,
+        "count": 20
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 9
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 7,
+    "recalls": [
+      {
+        "campaign_number": "20V061000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2007-2010 Elantra and 2009-2011 Elantra Touring vehicles.  On February 21, 2020 Hyundai expanded the recall to include 46,425 model year 2007-2008 Entourage and 2007 Santa Fe vehicles.  Moisture may enter the Anti-lock Brake (ABS) Module and resul",
+        "report_date": "04/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V100000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain model year 2008-2010 Elantra vehicles manufactured June 1, 2008, to April 30, 2010, and 2009-2010 Elantra Touring vehicles manufactured November 1, 2008, to April 30, 2010. The electronic power steering (EPS) electronic control unit (ECU) may sens",
+        "report_date": "23/02/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V429000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "HYUNDAI IS RECALLING 65,000 MY 2008 ELANTRA VEHICLES WITH 2.0 LITER BETA ENGINES.  THE FUEL PUMP MOTOR MAY NOT HAVE THE PROPER UNIFORM INTERNAL ELECTRICAL SURFACE CONTACT.  THIS MAY CAUSE THE FUEL PUMP TO PRODUCE LESS PUMPING PRESSURE THAN REQUIRED TO SUPPLY THE FUEL INJECTION SYSTEM.",
+        "report_date": "25/08/2008",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V179000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "HYUNDAI IS RECALLING CERTAIN MODEL YEAR 2007-2008 ELANTRA VEHICLES MANUFACTURED FROM JULY 14, 2006, THROUGH AUGUST 29, 2007.  THE DRIVER'S SEAT TRACK POSITION SENSOR DETERMINES THE SEAT'S FORE AND AFT POSITION AND ALLOWS THE DRIVER'S FRONTAL AIR BAG TO DEPLOY AT THE PRESSURE APPROPRIATE FOR THAT SEA",
+        "report_date": "15/03/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V113000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2006-2009 Accent, model year 2007-2011 Azera, Sonata and Sante Fe,2006-2011 Tucson, 2009-2011 Elantra Touring, 2007-2010 Elantra, 2008-2011 Veracruz, 2009-2011 Genesis, 2010-2011 Genesis Coupe, 2007-2008 Entourage, and  2006-2008 Tiburo",
+        "report_date": "01/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V143000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "HYUNDAI IS RECALLING CERTAIN MODEL YEAR 2007-2009 ELANTRA VEHICLES MANUFACTURED FROM JULY 14, 2006, THROUGH NOVEMBER 1, 2008.  THE FRONT PASSENGER SEATS IN THE VEHICLES CONTAIN A WEIGHT SENSOR DESIGNED TO DEACTIVATE THE RIGHT FRONTAL AIRBAG WHEN OCCUPANTS OF CERTAIN WEIGHTS OCCUPY THE SEAT.  THE ELE",
+        "report_date": "15/03/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "08V694000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "HYUNDAI DE PUERTO RICO (HPR) IS RECALLING 347 MY 2008 ELANTRA VEHICLES.  THE FUEL PUMP MOTOR MAY NOT HAVE THE PROPER, UNIFORM INTERNAL ELECTRICAL SURFACE CONTACT.  THIS MAY CAUSE THE FUEL PUMP TO PRODUCE LESS PUMPING PRESSURE THAN REQUIRED TO SUPPLY THE FUEL INJECTION SYSTEM.",
+        "report_date": "29/12/2008",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:47:11.330Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

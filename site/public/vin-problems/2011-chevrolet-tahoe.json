@@ -1,0 +1,188 @@
+{
+  "slug": "2011-chevrolet-tahoe",
+  "year": 2011,
+  "make": "Chevrolet",
+  "model": "Tahoe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 456,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 186,
+        "share_pct": 40.8,
+        "excerpts": [
+          "I confirmed the vehicle has a recall. Called the Dealer and they informed me that the dash may crack while performing the recall but is not included in the recall. Any cracks in the dash would be cust",
+          "Stability track issues  Trunk issues want open or go up  Tires keep having to replace for no reason at all Airbag recall Traction control",
+          "See attached document for complaint"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 85,
+        "share_pct": 18.6,
+        "excerpts": [
+          "Takata Recall. The contact's wife owns a 2011 Chevrolet Tahoe. The contact received notification of NHTSA Campaign Number: 21V054000 (Air Bags) and the vehicle was taken to the dealer who completed th",
+          "Dashboard is cracking at passenger side air bag, and on the driver side instrument cluster. This is a known Chevy defect and Chevy not wanting to fix the problem so to faulty engineering design. Class",
+          "THE DASHBOARD CONTINUES TO CRACK AND DETERIORATE IT HAS NOW CRACKED NEAR THE FRONT PASSENGER AIRBAG. THE VEHICLE WAS STATIONARY IT HAS HAPPENED OVER TIME"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 18,
+        "share_pct": 3.9,
+        "excerpts": [
+          "Stability trac, ABS, traction control, passenger air bag, locks are locking and unlocking, voltage to high, car will lose power while driving then shut off after alternator replaced, truck is worse al",
+          "I was sold a vehicle by a small car dealer who claims to have a dealers license. He advertised the car as having 125,000 miles and that is what the odometer says. After receiving the title and looking",
+          "VEHICLE INSTRUMENT PANEL TURNS ON AND OFF UPON START UP AND WHILE DRIVING CAUSING DRIVER TO NOT KNOW HOW FAST ONE IS GOING, IT THEY HAVE GAS, ETC. THIS IS A COMMON KNOWN ISSUE WHICH AFFECT MANY GM OWN"
+        ]
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "complaints": 15,
+        "share_pct": 3.3,
+        "excerpts": [
+          "RECENTLY PURCHASED A USED TAHOE FROM DEALERSHIP WITH WARRANTY.WHILE DRIVING IN SNOW MAKING A RIGHT TURN THE STABILITRAC LIGHT CAME ON, TRACTION CONTROL,  AND ABS. THE VEHICLE FISHTALED, ENGINE LOST RE",
+          "STABILITRAK AND ABS LIGHT COMES ON WHILE DRIVING, THE DOOR LOCKS GO CRAZY,  RADIO GOES IN AND OUT AND YOU LOSE THE ABILITY TO ACCELERATE. ENGINE ACTS LIKE IT WANTS TO DIE OUT. THE FIRST TIME I HAD IT ",
+          "WHILE DRIVING APPROXIMATELY AFTER 30 MINUTES, THE VEHICLE WOULD HAVE POWER ISSUES CAUSING ERRATIC BEHAVIOR. EXAMPLE, WHILE TRAVELING ON INTERSTATE AT ABOUT 70MPH THE ISSUES WOULD HAPPEN WHEN PRESSING "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 13,
+        "share_pct": 2.9,
+        "excerpts": [
+          "JUST PURCHASED TRUCK IT HAS NOT BEEN 30 DAYS AND THE SERVICE SUSPENSION SYSTEM LIGHT CAME ON AND WHEN I DRIVE THE CAR WILL ACCELERATE FASTER ON ITS OWN. WHICH WAS VERY SCARY WITH KIDS IN THE CAR NOW M",
+          "DRIVING ON HIGHWAY AT NIGHT. GO TO HIGH BEAMS AND MOTOR IMMEDIATELY BEGINS TO REV UP/DOWN, AND RUN ERRATIC. SWITCH BEAMS TO NORMAL POSITION=IT STOPS. WHEN DEPRESSING KEY FOB TO OPEN AND CLOSE DOORS, I",
+          "RECENTLY PURCHASED A USED TAHOE FROM DEALERSHIP WITH WARRANTY.WHILE DRIVING IN SNOW MAKING A RIGHT TURN THE STABILITRAC LIGHT CAME ON, TRACTION CONTROL,  AND ABS. THE VEHICLE FISHTALED, ENGINE LOST RE"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 2,
+      "injuries": 3,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2008,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 3
+      },
+      {
+        "year": 2011,
+        "count": 7
+      },
+      {
+        "year": 2012,
+        "count": 7
+      },
+      {
+        "year": 2013,
+        "count": 17
+      },
+      {
+        "year": 2014,
+        "count": 37
+      },
+      {
+        "year": 2015,
+        "count": 74
+      },
+      {
+        "year": 2016,
+        "count": 133
+      },
+      {
+        "year": 2017,
+        "count": 78
+      },
+      {
+        "year": 2018,
+        "count": 37
+      },
+      {
+        "year": 2019,
+        "count": 22
+      },
+      {
+        "year": 2020,
+        "count": 18
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 3
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "21V054000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2014 Cadillac Escalade, Escalade ESV, Chevrolet Silverado 2500, Silverado 3500, Suburban, Tahoe, GMC Sierra 2500, Sierra 3500, Yukon, and Yukon XL vehicles originally sold, or ever registered, in the states of AL, CA, FL, GA, HI, LA, MS, SC, TX, PR, AS, ",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V050000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2007-2011 Cadillac Escalade, Escalade ESV, Escalade EXT, Chevrolet Avalanche, Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, Yukon XL, and 2009-2011 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500 and Sierra 3500 vehicles originally s",
+        "report_date": "05/02/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V827000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2011-2012 Cadillac Escalade, Escalade ESV, Escalade EXT, Chevrolet Avalanche, Silverado HD, Silverado LD, Suburban, Tahoe, GMC Sierra LD, Sierra HD, Yukon, and Yukon XL vehicles.  In the affected vehicles, the ignition lock actuator may bind, m",
+        "report_date": "30/12/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V339000",
+        "component": "STEERING:LINKAGES",
+        "summary": "GM IS RECALLING CERTAIN MODEL YEAR 2011CADILLAC ESCALADE, ESCALADE ESV; CHEVROLET SILVERADO HD, SILVERADO LD, SUBURBAN, TAHOE; AND GMC SIERRA HD, SIERRA LD, YUKON, AND YUKON XL VEHICLES. THE INTERMEDIATE STEERING SHAFT ATTACHING BOLTS MAY NOT HAVE BEEN TIGHTENED TO THE PROPER SPECIFICATION.",
+        "report_date": "28/06/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V007000",
+        "component": "SUSPENSION:REAR:AXLE:SPINDLE",
+        "summary": "GENERAL MOTORS IS RECALLING CERTAIN MODEL YEAR 2011 CADILLAC ESCALADE, ESCALADE ESV, ESCALADE EXT; CHEVROLET AVALANCHE, COLORADO, EXPRESS, SILVERADO, SUBURBAN, TAHOE; AND GMC CANYON, SIERRA, SAVANA, YUKON AND YUKON XL VEHICLES.   THE REAR AXLE CROSS PINS WERE NOT PROPERLY HEAT TREATED AND COULD FRAC",
+        "report_date": "06/01/2011",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:55:17.276Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

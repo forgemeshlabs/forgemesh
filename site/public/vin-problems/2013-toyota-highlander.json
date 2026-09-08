@@ -1,0 +1,164 @@
+{
+  "slug": "2013-toyota-highlander",
+  "year": 2013,
+  "make": "Toyota",
+  "model": "Highlander",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 211,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 46,
+        "share_pct": 21.8,
+        "excerpts": [
+          "Steering column cracks, no help from Dealer.  Many complaints on internet. Remedy requires expensive new steering column. Defective spindle type bearing defective. The noise is ongoing.   It feels lik",
+          "When I turn the steering faster than a certain speed, it will lock up for a moment, either turning right or left.  Sometimes a light indicating a steering fault lights up on the dash cluster, sometime",
+          "- The car was purchased in 2015 used and the steering wheel has made a clunking sound when turning a hard sharp left or right since the day of purchase -While on a road trip of approximately 3,000 mil"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 31,
+        "share_pct": 14.7,
+        "excerpts": [
+          "I purchased the car in 2020 with 73K miles on it.  It has sporadically had incidents of unintended acceleration.  I happens when I slow for a stop sign, red light, or crosswalk.  My foot is on the bra",
+          "The issue started when the car was over 84,000 miles. The engine burns excessive oil. I have to add oil every 2200 miles. When I press on the gas pedal to rev the car, oil come out of the tail pipe. W",
+          "Engine is burning/consuming oil excessively; no leaks or any other unusual symptoms found. I was on an interstate highway and all of a sudden engine sound changed and excessive knocking started. No OI"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 31,
+        "share_pct": 14.7,
+        "excerpts": [
+          "AS I BEGIN DRIVING AND COME TO STOP IT TENDS TO REV UP AND THEN DROPS BACK TO NORMAL. IT FEELS LIKE VEHICLE REVS UP A LITTLE WHILE YOU ARE TRYING TO STOP IT BY PRESSING THE BRAKE PEDAL.IT FEELS LIKE V",
+          "THE DOOR LOCKS STOPPED WORKING AND I WAS FORCED TO PAY TO REPAIR THEM AFTER OWNING CAR FOR LESS THAN 6 MONTHS. THE POWER WINDOWS FAIL TO OPERATE AT RANDOM TIMES.  THERE WAS A SIMILAR PROBLEM WITH THE ",
+          "ON MULTIPLE OCCASIONS SINCE PURCHASING MY 2014 TOYOTA HIGHLANDER LIMITED THE CAR LURCHES FORWARD WHILE MY FOOT IS FIRMLY PRESSED ON THE BRAKE.  ON TWO OCCASIONS I COULD NOT STOP THE LURCHING OF THE VE"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 26,
+        "share_pct": 12.3,
+        "excerpts": [
+          "The factory Blizzard Pearl paint on this vehicle is experiencing severe chemical delamination down to the bare primer and sheet metal on multiple body panels. This structural failure aligns exactly wi",
+          "THE FRONT PASSENGER DOOR  AND DRIVER DOOR LOCK/ACTUATOR DOES NOT WORK. THE PASSENGER DOOR FIRST HAPPENED 1 TO 1.5 YEARS AGO. I HAVE NOT FIXED IT BECAUSE OF THE OUTRAGEOUS COST. NOW, THE DRIVER DOOR AC",
+          "FRONT PASSENGER SIDE DOOR LOCK ACTUATOR DOES NOT WORK, MAKING LOCK INEFFECTIVE AND NOT WORKABLE. TOYOTA CLAIMS THIS IS NOT A SAFETY ISSUE. UNSURE HOW INEFFECTIVE LOCKS ARE NOT A SAFETY ISSUE, ESPECIAL"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 19,
+        "share_pct": 9,
+        "excerpts": [
+          "The contact owns a 2013 Toyota Highlander. The contact stated while the vehicle was parked, the contact discovered that the paint on the top of the vehicle was peeling. The contact did research and wa",
+          "The contact owns a 2013 Toyota Highlander. The contact stated while attempting to close the liftgate, the contact was unable to close the liftgate. The contact had not activated the power assist liftg",
+          "POWER SUNROOF DRAINS INTO FLOORBOARDS.  FROM MY RESEARCH THIS IS A WELL KNOWN ISSUE WITH HIGHLANDERS AND TOYOTA NEEDS TO ADDRESS.  I JUST BOUGHT THIS CAR A WEEK AGO.  THE TOYOTA DEALERSHIP SAID THE LI"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 26,
+      "fires": 0,
+      "injuries": 12,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 3
+      },
+      {
+        "year": 2013,
+        "count": 30
+      },
+      {
+        "year": 2014,
+        "count": 35
+      },
+      {
+        "year": 2015,
+        "count": 20
+      },
+      {
+        "year": 2016,
+        "count": 16
+      },
+      {
+        "year": 2017,
+        "count": 18
+      },
+      {
+        "year": 2018,
+        "count": 31
+      },
+      {
+        "year": 2019,
+        "count": 23
+      },
+      {
+        "year": 2020,
+        "count": 11
+      },
+      {
+        "year": 2021,
+        "count": 7
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "14V148000",
+        "component": "SEATS",
+        "summary": "Toyota is recalling certain model year 2013 Highlander vehicles manufactured March 13, 2013, through August 6, 2013.  In the affected vehicles, the second row left hand seat may not lock in place when positioned in the forward front or second adjusting position.  As such, the vehicles do not conform",
+        "report_date": "27/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V123000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota is recalling certain model year 2008 and 2010-2013 Toyota Tundra, 2010-2012 Rav4, 2012 Toyota Sequoia, 2010-2011 Toyota Corolla, 2010-2011 Toyota Camry and Camry Hybrid, 2010-2013 Toyota Highlander and Highlander Hybrid, 2010-2013 Toyota FJ Cruiser, 2011 Toyota Land Cruiser, 2010-20",
+        "report_date": "09/04/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:09.735Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

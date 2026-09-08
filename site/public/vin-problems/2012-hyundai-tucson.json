@@ -1,0 +1,168 @@
+{
+  "slug": "2012-hyundai-tucson",
+  "year": 2012,
+  "make": "Hyundai",
+  "model": "Tucson",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 255,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 160,
+        "share_pct": 62.7,
+        "excerpts": [
+          "I bought my 2012 Hyundai Tucson from a used car dealership back in November of 2024 . When I bought the vehicle it only had 55,000 miles on it and came with a 2 year unlimited mile warranty on the dri",
+          "Vehicle suddenly slipped into limp mode. Vehicle was then immediately taken to have code read. Code came back P1326. Was advised due to previous recall campaign(s) to contact Hyundai of America for gu",
+          "Engine started knocking luckily I was right by my mechanics place. They said needs new engine. Not to drive as a rod might go right through the engine. Only 98000 miles on it. Maintenance always done "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 36,
+        "share_pct": 14.1,
+        "excerpts": [
+          "The contact owns a 2012 Hyundai Tucson. The contact received notification of NHTSA Campaign Number: 23V651000 (Service Brakes, Hydraulic); however, the part to do the recall repair was not yet availab",
+          "The contact owns a 2012 Hyundai Tucson. The contact received notification of NHTSA Campaign Number: 23V651000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet availabl",
+          "The contact owns a 2012 Hyundai Tucson. The contact received notification of NHTSA Campaign Number: 23V651000 (Service Brakes, Hydraulic); however, the part to do the recall repair was not yet availab"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 27,
+        "share_pct": 10.6,
+        "excerpts": [
+          "The contact owns a 2012 Hyundai Tucson. The contact received notification of NHTSA Campaign Number: 23V651000 (Service Brakes, Hydraulic); however, the part to do the recall repair was not yet availab",
+          "The contact owns a 2012 Hyundai Tucson. The contact received notification of NHTSA Campaign Number: 23V651000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet availabl",
+          "The contact owns a 2012 Hyundai Tucson. The contact received notification of NHTSA Campaign Number: 23V651000 (Service Brakes, Hydraulic); however, the part to do the recall repair was not yet availab"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 26,
+        "share_pct": 10.2,
+        "excerpts": [
+          "I was driving down the interstate, going approximately 70mph, and my 2012 Hyundai Tucson started having difficulty maintaining speed. The engine started revving up while the car was still slowing down",
+          "My 2012 Tucson engine, with 62,000 miles, locked up on 09/22/21 while I was on a trip, without warning & no check engine light came on. Luckily, I was able to coast to the small shoulder. It suddenly ",
+          "The contact owns a 2012 Hyundai Tucson. The contact stated the all-wheel drive (AWD) warning light was illuminated. The vehicle was not diagnosed or repaired. A dealer was not contacted. The manufactu"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 17,
+        "share_pct": 6.7,
+        "excerpts": [
+          "got vehicle registration notice and recall notice was on the form regarding a possible electrical fire while parked or driving. I just got this car about 9 months ago, dmv is still showing nothing has",
+          "Campaign #[XXX] I was notified and contacted Hyundai multiple times - 11/14, 15 and 16.There were multiple other times as well. I contacted both Broadway and Bergstrom Hyundai in both Appleton and Gre",
+          "On [XXX], Gas pedal failed to accelerate car while transitioning from [XXX\\ on-ramp to the highway lane.  Was able to steer car to shoulder before momentum dissipated.  Warning lights for oil and moto"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 12,
+      "fires": 13,
+      "injuries": 9,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 3
+      },
+      {
+        "year": 2012,
+        "count": 11
+      },
+      {
+        "year": 2013,
+        "count": 6
+      },
+      {
+        "year": 2014,
+        "count": 8
+      },
+      {
+        "year": 2015,
+        "count": 4
+      },
+      {
+        "year": 2016,
+        "count": 12
+      },
+      {
+        "year": 2017,
+        "count": 16
+      },
+      {
+        "year": 2018,
+        "count": 30
+      },
+      {
+        "year": 2019,
+        "count": 70
+      },
+      {
+        "year": 2020,
+        "count": 21
+      },
+      {
+        "year": 2021,
+        "count": 18
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 26
+      },
+      {
+        "year": 2024,
+        "count": 16
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "19V063000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2013 Tucson vehicles. The engine oil pan may leak and, if not addressed, the loss of oil may result in engine damage.",
+        "report_date": "05/02/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V245000",
+        "component": "AIR BAGS",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2011-2014 Hyundai Tucson vehicles manufactured January 3, 2011, through December 23, 2013.  In the affected vehicles, the air bag assembly installed in the steering wheel may come loose from its mounting.",
+        "report_date": "13/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V651000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2015 Elantra, Genesis Coupe, Sonata Hybrid, 2012-2015 Accent, Azera, Veloster, 2013-2015 Elantra Coupe, Santa Fe, 2014-2015 Equus, 2010-2012 Veracruz, 2010-2013 Tucson, 2015 Tucson Fuel Cell, and 2013 Santa Fe Sport vehicles.  The Anti-Lock B",
+        "report_date": "22/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:55:47.186Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

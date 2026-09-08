@@ -1,0 +1,176 @@
+{
+  "slug": "2009-hyundai-santa-fe",
+  "year": 2009,
+  "make": "Hyundai",
+  "model": "Santa Fe",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 358,
+    "top_failure_components": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 109,
+        "share_pct": 30.4,
+        "excerpts": [
+          "My kids and I were going to town one afternoon and I started to smell gas coming from the air vents the gas smell was very strong I opened the hood and could see that it was wet I touched the spot and",
+          "Pulling into driveway. Car engine accelerated suddenly. Was just coasting in. The car wouldn't stop. Hit front of a home. The engine sounded like a race car.",
+          "The vehicle's check engine light came on and the fuel gauge shows \"E\".  I did an OBD scan and it shows the fuel sending unit has issues.  The gauge will work intermittently and the check engine light "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 60,
+        "share_pct": 16.8,
+        "excerpts": [
+          "*The mechanic diagnosed internal engine failure (May 14, 2026). The vehicle is at the second mechanic's shop. *The car stalled twice. The first time, over 20  miles, the air conditioning stopped, foll",
+          "Vehicle will suddenly shutdown in the middle of the road. This could easily have caused a crash at any time. Several batteries have been replaced due to alternator not charging the battery.  Then the ",
+          "[XXX] We took out Stanta Fe to the Hyundia Dealership in Columbia, TN 38401. The installed a new rover cover gasket left and service kit. The purpose was to stop oil from leaking into the alternator. "
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 51,
+        "share_pct": 14.2,
+        "excerpts": [
+          "1.) Throttle Control failure, and is available for inspection 2.) My and the public saftey was put in risk, as I lost control of the vehicle an almost had an accident, and could have hit another vehic",
+          "While driving on the interstate, I approached my exit. As I am slowing down, the engine shuts off and steering becomes very hard. I quickly shifted into neutral to restart the car to avoid a crash. Th",
+          "CONTACT OWNED 2009 HYUNDAI SANTA FE SPORT UTILITY VEHICLE.  AT 2PM ON JULY 7, 2017, DRIVER EXPERIENCED A SUDDEN, UNCOMMANDED ACCELERATION THAT CAUSED A FATAL CRASH THAT RESULTED IN THE DEATH OF THE DR"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 50,
+        "share_pct": 14,
+        "excerpts": [
+          "2 unrepaired recalls. Frame rusted and unsafe to lift to repair the other recall which is an oil leak onto the alternator. Car won't run now. Corporate asked if I had a lawyer. They have declared my c",
+          "Vehicle will suddenly shutdown in the middle of the road. This could easily have caused a crash at any time. Several batteries have been replaced due to alternator not charging the battery.  Then the ",
+          "[XXX] We took out Stanta Fe to the Hyundia Dealership in Columbia, TN 38401. The installed a new rover cover gasket left and service kit. The purpose was to stop oil from leaking into the alternator. "
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 49,
+        "share_pct": 13.7,
+        "excerpts": [
+          "Brake Lights Stay, On ESC OFF Light Illuminated, Cruise Control Won't Engage, Unable to Shift Out of Park.  Fuse had to be pulled because the battery was going dead due to lights not turning off.  Its",
+          "On January 16,2025 I was driving my Hyundai Santa Fe on the freeway with my three children when the automatic brake system suddenly failed, causing me to lose control of the vehicle. As a result, we s",
+          "The vehicle brakes would trigger randomly which is clearly extremely unsafe on: [XXX] [XXX] [XXX] which Triple A can validate. The main issue was the vehicle did not pull a code and since the happened"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 27,
+      "fires": 5,
+      "injuries": 26,
+      "deaths": 3
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2009,
+        "count": 13
+      },
+      {
+        "year": 2010,
+        "count": 19
+      },
+      {
+        "year": 2011,
+        "count": 23
+      },
+      {
+        "year": 2012,
+        "count": 15
+      },
+      {
+        "year": 2013,
+        "count": 22
+      },
+      {
+        "year": 2014,
+        "count": 38
+      },
+      {
+        "year": 2015,
+        "count": 55
+      },
+      {
+        "year": 2016,
+        "count": 35
+      },
+      {
+        "year": 2017,
+        "count": 38
+      },
+      {
+        "year": 2018,
+        "count": 26
+      },
+      {
+        "year": 2019,
+        "count": 15
+      },
+      {
+        "year": 2020,
+        "count": 15
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 12
+      },
+      {
+        "year": 2023,
+        "count": 9
+      },
+      {
+        "year": 2024,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "11E040000",
+        "component": "EQUIPMENT",
+        "summary": "CURT MANUFACTURING IS RECALLING CERTAIN TOW PACKAGE WIRING HARNESSES, PART NUMBER 55538, THAT CONNECT TOW VEHICLE LIGHTING CIRCUITS TO TRAILER LIGHTING CIRCUITS SOLD FOR USE ON CERTAIN MODEL YEAR 2009 THROUGH 2011 HYUNDAI SANTA FE VEHICLES.  THE UNITS ARE NOT WATER-TIGHT AND MOISTURE CAN SEEP INTO T",
+        "report_date": "06/10/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V354000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Hyundai is recalling certain model year 2007 through 2009 Santa Fe vehicles manufactured from April 19, 2006, through July 7, 2008.  The occupant classification system (OCS) may need recalibration to accurately detect small statured adults.",
+        "report_date": "25/07/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V113000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2006-2009 Accent, model year 2007-2011 Azera, Sonata and Sante Fe,2006-2011 Tucson, 2009-2011 Elantra Touring, 2007-2010 Elantra, 2008-2011 Veracruz, 2009-2011 Genesis, 2010-2011 Genesis Coupe, 2007-2008 Entourage, and  2006-2008 Tiburo",
+        "report_date": "01/04/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:49:31.122Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

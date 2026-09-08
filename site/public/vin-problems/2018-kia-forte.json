@@ -1,0 +1,144 @@
+{
+  "slug": "2018-kia-forte",
+  "year": 2018,
+  "make": "Kia",
+  "model": "Forte",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 136,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 57,
+        "share_pct": 41.9,
+        "excerpts": [
+          "Recently, while my boyfriend was driving my vehicle, the engine suddenly lost power without warning. He had the accelerator pedal fully depressed, yet the vehicle would barely move. He was fortunate t",
+          "While driving the car with the flow of busy traffic, the engine failed and the car stopped. It eventually turn back on (side of the road) but now drives with hesitation, a strange noise, and with the ",
+          "Engine would run fast and then sound like was going to stop and then it would start shaking and rumbling while driving on highway and in town. Car would stall while at a stop. Gas smells inside the ca"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 16,
+        "share_pct": 11.8,
+        "excerpts": [
+          "ABS light, parking break light, tire pressure light, ESC light, and outdoor temperature and climate control all flicker and the speedometer stops working. Multiple cars with same make and model have s",
+          "Unknown. Fire was located under in the engine compartment area and fire was visible from below the engine under the car. When it happened I was driving on the freeway when noticed my car seemed to be ",
+          "Timing, VVT sensor. Oil pressure"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 16,
+        "share_pct": 11.8,
+        "excerpts": [
+          "The engine went out in the middle of a busy highway road leading to a dangerous situation that I almost lost my life the vehicle was purchased in 2021. There shouldn’t be no reason that the engine sho",
+          "The switch needed to be replaced by kia in prescott valley because it was a recall, they replaced my switch, and a few weeks later now my airbag light is on and they no longer work, and they won't tak",
+          "I got into a car accident and my air bags never deployed and the seat beat didn’t lock so I cause me to get jerked and my head hit the side door and I messed up my left shoulder and arm in the process"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 10,
+        "share_pct": 7.4,
+        "excerpts": [
+          "ABS light, parking break light, tire pressure light, ESC light, and outdoor temperature and climate control all flicker and the speedometer stops working. Multiple cars with same make and model have s",
+          "2018 Kia Forte, purchased certified used June 2022, will randomly go into ECO or Sport mode on startup or while the vehicle is in motion.  Vehicle is not equipped with Drive Mode control buttons, indi",
+          "Started my car it was making a tapping noise. I tried driving home the noise got worse and my car didn’t want to accelerate very much. I noticed a recall for other 2018 Kia fortes as mine is doing exa"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 8,
+        "share_pct": 5.9,
+        "excerpts": [
+          "There is an issue with the fuel pump where it would stall or shut off while driving or at a stoplight",
+          "Engine would run fast and then sound like was going to stop and then it would start shaking and rumbling while driving on highway and in town. Car would stall while at a stop. Gas smells inside the ca",
+          "My Vehicle stalls and shuts while driving in the midst of traffic"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 13,
+      "fires": 3,
+      "injuries": 9,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 1
+      },
+      {
+        "year": 2018,
+        "count": 11
+      },
+      {
+        "year": 2019,
+        "count": 14
+      },
+      {
+        "year": 2020,
+        "count": 11
+      },
+      {
+        "year": 2021,
+        "count": 11
+      },
+      {
+        "year": 2022,
+        "count": 24
+      },
+      {
+        "year": 2023,
+        "count": 16
+      },
+      {
+        "year": 2024,
+        "count": 23
+      },
+      {
+        "year": 2025,
+        "count": 19
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "22V031000",
+        "component": "AIR BAGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2017-2019 Sedona, Soul, Soul EV, 2017-2018 Forte, and 2017 Forte Koup vehicles.  The Air Bag Control Unit (ACU) cover may contact a memory chip on the printed circuit board and damage the electrical circuit.  Circuit damage may result in deactivated air ",
+        "report_date": "25/01/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V622000",
+        "component": "LATCHES/LOCKS/LINKAGES:TRUNK LID:LATCH",
+        "summary": "Kia Motors America (Kia) is recalling certain 2016-2018 Forte 4-door, Forte Koup 2-door, and 2018-2019 Rio 4-door vehicles.  The trunk latch may become damaged, preventing the opening of the trunk from the inside.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle",
+        "report_date": "09/08/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V260000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION:PUMP",
+        "summary": "Kia Motors America (Kia) is recalling certain 2017-2018 Forte vehicles equipped with a 2.0L Nu MPI engine.  Foreign particles may stick inside the oil pump, which may cause an oil pump failure and engine damage.",
+        "report_date": "13/04/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:26.543Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

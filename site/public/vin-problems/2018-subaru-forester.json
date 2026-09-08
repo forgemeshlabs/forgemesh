@@ -1,0 +1,148 @@
+{
+  "slug": "2018-subaru-forester",
+  "year": 2018,
+  "make": "Subaru",
+  "model": "Forester",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 493,
+    "top_failure_components": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 135,
+        "share_pct": 27.4,
+        "excerpts": [
+          "Unknown",
+          "Windshield cracked sitting parked  matching  Subaru TSB 12-192-15R except model of vehicle and Subaru stating not covered under the class action warranty extension",
+          "Windshield cracked starting in the black area under the driver's windshield wiper.  Car was idling at a drive through, wipers were on. NOTE: car had fewer than 22,500k miles at the time, was likely ar"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 96,
+        "share_pct": 19.5,
+        "excerpts": [
+          "The passenger Occupant Detection System (ODS), including the occupant detection sensor system in the passenger seat, has malfunctioned. The SRS/airbag warning light is illuminated. The vehicle produce",
+          "Airbag light came on - dealership confirmed it is an occupant detection system failure - wiring harness has gone bad. No history of moisture exposure, which would leave faulty part as the problem. Sim",
+          "- The passenger-side Occupant Detection System (ODS) sensor, which is part of the Supplemental Restraint System (SRS) airbag system, has failed. This component was previously replaced under a Subaru s"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 70,
+        "share_pct": 14.2,
+        "excerpts": [
+          "Airbag light came on - dealership confirmed it is an occupant detection system failure - wiring harness has gone bad. No history of moisture exposure, which would leave faulty part as the problem. Sim",
+          "I brought my vehicle to an authorized Subaru dealership (Byers Imports, LLC in Columbus, Ohio) to diagnose the reason for the airbag warning lamp illuminating. The dealer had the manufacturer's WUM-98",
+          "June 2025: I proactively replaced the battery October 2025: Left the car parked for 17 days. Dead battery. Got a jump, drove for 2 hours. May 2026: Left the car parked for 10 days. Dead battery. Got a"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 31,
+        "share_pct": 6.3,
+        "excerpts": [
+          "The A/c compressor seized up causing the belt to break. Looked up online and it seems it's a common occurrence with this year and model.",
+          "The AC compressor/condesor needs replaced and I see a lot of complaints on-line about this specific model- 2018 Forester. My kids and I were on a road trip in August 2025 when it stopped working. It w",
+          "On October 3, 2023, I purchased a used 2018 Subaru Forester (VIN: [XXX] ) from Hengxin Auto Group, 210 39th St, Brooklyn, NY 11232, for about $19,500 including tax and fees. The dealer stated the mile"
+        ]
+      },
+      {
+        "component": "SEATS",
+        "complaints": 30,
+        "share_pct": 6.1,
+        "excerpts": [
+          "Airbag light came on - dealership confirmed it is an occupant detection system failure - wiring harness has gone bad. No history of moisture exposure, which would leave faulty part as the problem. Sim",
+          "I brought my vehicle to an authorized Subaru dealership (Byers Imports, LLC in Columbus, Ohio) to diagnose the reason for the airbag warning lamp illuminating. The dealer had the manufacturer's WUM-98",
+          "Passenger front seat.  Airbag light is on when someone is sitting in the seat and seatbelt indicator dings when nothing is in the seat."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 26,
+      "fires": 1,
+      "injuries": 9,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2017,
+        "count": 9
+      },
+      {
+        "year": 2018,
+        "count": 62
+      },
+      {
+        "year": 2019,
+        "count": 77
+      },
+      {
+        "year": 2020,
+        "count": 74
+      },
+      {
+        "year": 2021,
+        "count": 83
+      },
+      {
+        "year": 2022,
+        "count": 64
+      },
+      {
+        "year": 2023,
+        "count": 51
+      },
+      {
+        "year": 2024,
+        "count": 31
+      },
+      {
+        "year": 2025,
+        "count": 27
+      },
+      {
+        "year": 2026,
+        "count": 14
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "21V587000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2019-2020 Ascent, 2018 Forester, 2018-2020 Impreza, Legacy, Outback, 2018-2019 BRZ, WRX, and Toyota 86 vehicles.  The low-pressure fuel pump inside the fuel tank may fail.",
+        "report_date": "29/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V701000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2015-2018 Forester vehicles equipped with heated seats.  An electrical connection in the front passenger seat for the Occupant Detection System (ODS) may loosen.",
+        "report_date": "03/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V455000",
+        "component": "TIRES",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2018 Subaru Forester vehicles.  The Certification Label may indicate the incorrect wheel size, tire size, and air pressure.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 110,",
+        "report_date": "10/07/2018",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:31.759Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

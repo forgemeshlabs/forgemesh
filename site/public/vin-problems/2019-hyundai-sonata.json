@@ -1,0 +1,111 @@
+{
+  "slug": "2019-hyundai-sonata",
+  "year": 2019,
+  "make": "Hyundai",
+  "model": "Sonata",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 159,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 85,
+        "share_pct": 53.5,
+        "excerpts": [
+          "The oil is low, went to get looked at by another mechanic besides Dealer cause they want to hit you over the head with prices.  Was told car burning oil. Took to dealer for Oil Consumption Test. Had t",
+          "On January 26, 2026, my 2019 Hyundai Sonata SEL suddenly became inoperable overnight. The vehicle had been operating normally with no warning signs—no check-engine or oil-pressure light, abnormal engi",
+          "The contact owns a 2019 Hyundai Sonata. The contact stated that while driving at an undisclosed speed, smoke started coming from the hood and the vehicle was pulled over into a parking space. While op"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 18,
+        "share_pct": 11.3,
+        "excerpts": [
+          "The vehicle consumes a gallon of oil weekly. The spark plugs are having to be replaced every three months. The Low beams have been replaced and are working but the headlights are completely out and fl",
+          "The contact owns a 2019 Hyundai Sonata. The contact stated while driving at night, the low-beam headlights were dim. There was no warning light illuminated. Due to the inadequate illumination, the con",
+          "There was no specific \"incidence\" to report.  This is an on-going issue for a long time.  Low beam headlights do not illuminate the road sufficiently for safe driving. Have had it to the dealer to ins"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 12,
+        "share_pct": 7.5,
+        "excerpts": [
+          "I wanted to report the failure of my rear camera and/or the electrical circuit that is tied to it.  It's my understanding that Hyundai has issued multiple recalls across different years/vehicles for i",
+          "On April 14, 2026, my 2019 Hyundai Sonata was parked at a retail store parking lot. Returning from the store, I attempted to start the car, and it did not start. I attempted to start it again, and I s",
+          "The contact's mother-in-law owns a 2019 Hyundai Sonata. The contact stated that while driving at an undisclosed speed, the vehicle started shuddering. There was no warning light illuminated. Minutes l"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 11,
+        "share_pct": 6.9,
+        "excerpts": [
+          "Vehicle stalled in traffic due to recall defect. Manufacturer recall remedy is delayed beyond reasonable timeframe, creating ongoing safety exposure.",
+          "For the past several years, this vehicle has experienced a recurring and unresolved engine malfunction that creates a safety hazard. The problem manifests as follows: Symptoms when check engine light ",
+          "On April 14, 2026, my 2019 Hyundai Sonata was parked at a retail store parking lot. Returning from the store, I attempted to start the car, and it did not start. I attempted to start it again, and I s"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 9,
+        "share_pct": 5.7,
+        "excerpts": [
+          "The air bag light suddenly illuminated when turning on my car.  My car has around 60k miles. It was previously repaired a few times for a power steering faliure while driving making it hard to stear. ",
+          "See attached document for complaint.",
+          "The contact owns a 2019 Hyundai Sonata. The contact stated that while her husband was driving at 15 MPH in a residential area, another vehicle coming from the left side tried to pass the contact into "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 6,
+      "injuries": 6,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 16
+      },
+      {
+        "year": 2020,
+        "count": 11
+      },
+      {
+        "year": 2021,
+        "count": 5
+      },
+      {
+        "year": 2022,
+        "count": 14
+      },
+      {
+        "year": 2023,
+        "count": 31
+      },
+      {
+        "year": 2024,
+        "count": 32
+      },
+      {
+        "year": 2025,
+        "count": 32
+      },
+      {
+        "year": 2026,
+        "count": 18
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T20:03:19.503Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

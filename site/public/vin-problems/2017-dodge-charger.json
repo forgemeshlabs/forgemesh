@@ -1,0 +1,152 @@
+{
+  "slug": "2017-dodge-charger",
+  "year": 2017,
+  "make": "Dodge",
+  "model": "Charger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 128,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 48,
+        "share_pct": 37.5,
+        "excerpts": [
+          "Screen is pushing buttons and overall not working. Turns on heat on seats and will not let me turn them off burning my back with prolong heat. Will turn off my heater and change settings while driving",
+          "While driving on the highway with my 14-year-old child as a passenger, the vehicle began shaking/jerking and losing power. I activated hazard lights and exited; the car continued to struggle and is no",
+          "Odometer Fraud. The contact purchased a 2017 Dodge Charger. The contact discovered that there was a mileage discrepancy after the purchase. The vehicle was a private sale. At the time of purchase, the"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 20,
+        "share_pct": 15.6,
+        "excerpts": [
+          "The contact owns a 2017 Dodge Charger. The contact stated that the front passenger's side door panel was detaching. The contact stated that the infotainment system screen was delaminating, causing the",
+          "That the interior door panels had separated from the door frame causing the locking mechanisms to malfunction and the doors would not remain secured. The failure was present on the drive and passenger",
+          "The contact owns a 2017 Dodge Charger. The contact stated while the vehicle was parked, the contact became aware that three of the interior door panels had separated from the window. The driver’s side"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 18,
+        "share_pct": 14.1,
+        "excerpts": [
+          "As I was accelerating out of a stop light on the morning of 7/24/2026, my check engine light came on seemingly out of nowhere. I was able to take the vehicle to an independent repair shop who identifi",
+          "While driving on the highway with my 14-year-old child as a passenger, the vehicle began shaking/jerking and losing power. I activated hazard lights and exited; the car continued to struggle and is no",
+          "The contact owns a 2017 Dodge Charger. The contact stated that the front passenger's side door panel was detaching. The contact stated that the infotainment system screen was delaminating, causing the"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 17,
+        "share_pct": 13.3,
+        "excerpts": [
+          "The contact owns a 2017 Dodge Charger. The contact stated that while driving at various speeds, the vehicle was making a clunking sound. The dealer was contacted, and the vehicle was diagnosed, and it",
+          "While driving on the highway with my 14-year-old child as a passenger, the vehicle began shaking/jerking and losing power. I activated hazard lights and exited; the car continued to struggle and is no",
+          "“Following a $4,960  transmission repair at Cable Dahmer Chrysler Dodge (July 10,2024), my vehicle has experienced serious safety concerns: 1. Immediate transmission performance issues after dealer se"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 8,
+        "share_pct": 6.3,
+        "excerpts": [
+          "The contact owns a 2017 Dodge Charger. The contact stated while driving approximately 65 MPH in the rain, the windshield wipers inadvertently increased speed and the cruise control accelerated the veh",
+          "The steering on this vehicle randomly becomes hard to steer during driving. This is very dangerous and the problem should not be occurring in these vehicles so soon. It's electrical power steering, so",
+          "vehicle sat idling for approximately 20 minutes and when starting to drive there was no assist to the power steering. Drove approximately 2 miles without power assist and turned off engine for 1 hour,"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 3,
+      "fires": 3,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2017,
+        "count": 12
+      },
+      {
+        "year": 2018,
+        "count": 12
+      },
+      {
+        "year": 2019,
+        "count": 16
+      },
+      {
+        "year": 2020,
+        "count": 26
+      },
+      {
+        "year": 2021,
+        "count": 21
+      },
+      {
+        "year": 2022,
+        "count": 19
+      },
+      {
+        "year": 2023,
+        "count": 8
+      },
+      {
+        "year": 2024,
+        "count": 8
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V281000",
+        "component": "POWER TRAIN:DRIVELINE:DRIVESHAFT",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2015-2018 Dodge Charger pursuit police vehicles equipped with all-wheel drive and V8 engines. The front driveshaft universal joint may seize or fracture causing the shaft to detach from the vehicle.",
+        "report_date": "01/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V097000",
+        "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2017 Dodge Charger and Chrysler 300 vehicles equipped with all-wheel drive (AWD).  The front driveshaft bolts may loosen and allow the front driveshaft to disconnect, potentially causing a loss of motive power.",
+        "report_date": "14/02/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V496000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2017 Dodge Challenger and Charger vehicles equipped with Hellcat engines.  The engine oil cooler (EOC) hoses may fail resulting in a rapid loss of engine oil.",
+        "report_date": "08/08/2017",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:01:52.991Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

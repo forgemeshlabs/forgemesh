@@ -1,0 +1,188 @@
+{
+  "slug": "2021-honda-pilot",
+  "year": 2021,
+  "make": "Honda",
+  "model": "Pilot",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 424,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 124,
+        "share_pct": 29.2,
+        "excerpts": [
+          "On at least 5 occasions this vehicle has gone completely dead as slowing down to stop or being completely stopped. Nothing electrical is available.  No tail lights, headlights, or emergency flashers. ",
+          "My 2021 Honda Pilot has repeatedly failed to restart after the Auto Idle Stop system shuts the engine off while the vehicle is stopped. When the system activates, the engine can fail to restart when I",
+          "The infotainment system and rearview backup camera malfunction continually. While driving or attempting to reverse, the infotainment system frequently shuts off entirely and loses its fiber optic netw"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 103,
+        "share_pct": 24.3,
+        "excerpts": [
+          "My 2021 Honda Pilot has repeatedly failed to restart after the Auto Idle Stop system shuts the engine off while the vehicle is stopped. When the system activates, the engine can fail to restart when I",
+          "Was driving vehicle and all of a sudden engine light pops up with no driver codes and the left side of engine starts knocking. I pull into the closest shop. They test a vehicle misfire in cylinder 5 a",
+          "The vehicle won't start, electrical system failure. Sometimes the electrical system fails when the car is driving/it will stall on the road. It was predicated by the alarm going off intermittently and"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 95,
+        "share_pct": 22.4,
+        "excerpts": [
+          "Warning lamps for lkas, acc, auto lights and brake system started to appear. Honda diagnostics have pointed to an electrical failure with the multipurpose camera. The Honda representative admitted tha",
+          "My 2021 Honda Pilot displayed a U3000 diagnostic trouble code, indicating an internal electronic failure of the front-facing multipurpose camera that operates the vehicle's Honda Sensing safety system",
+          "The vehicle’s driver‑assist and collision‑avoidance systems began failing simultaneously. Multiple warnings appear on the dashboard every time the vehicle is started, and the cruise control system has"
+        ]
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "complaints": 42,
+        "share_pct": 9.9,
+        "excerpts": [
+          "Warning lamps for lkas, acc, auto lights and brake system started to appear. Honda diagnostics have pointed to an electrical failure with the multipurpose camera. The Honda representative admitted tha",
+          "My 2021 Honda Pilot displayed a U3000 diagnostic trouble code, indicating an internal electronic failure of the front-facing multipurpose camera that operates the vehicle's Honda Sensing safety system",
+          "The vehicle’s driver‑assist and collision‑avoidance systems began failing simultaneously. Multiple warnings appear on the dashboard every time the vehicle is started, and the cruise control system has"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 30,
+        "share_pct": 7.1,
+        "excerpts": [
+          "My wife was driving at about 40mph and hit a curb while driving straight. The car’s swerved and hit the front right and right rear tire with the curb. The right side curtain airbag deployed. This vehi",
+          "I am submitting this letter as an official complaint regarding a potential safety defect involving the airbag system in my 2021 Honda Pilot. I was involved in a motor vehicle accident on February 3, 2",
+          "The contact owns a 2021 Honda Pilot. The contact received notification of NHTSA Campaign Number: 24V064000 (Air Bags); however, the part to do the recall repair was unavailable. The contact stated tha"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 12,
+      "fires": 1,
+      "injuries": 8,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 3
+      },
+      {
+        "year": 2021,
+        "count": 52
+      },
+      {
+        "year": 2022,
+        "count": 33
+      },
+      {
+        "year": 2023,
+        "count": 67
+      },
+      {
+        "year": 2024,
+        "count": 93
+      },
+      {
+        "year": 2025,
+        "count": 117
+      },
+      {
+        "year": 2026,
+        "count": 59
+      }
+    ]
+  },
+  "recalls": {
+    "count": 10,
+    "recalls": [
+      {
+        "campaign_number": "20V440000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2021 Pilot, 2019-2020 Odyssey and 2019-2020 Passport vehicles.  Incorrect central network software programming may cause several errors to occur that can delay or prevent the rearview camera image from displaying.  As such, these vehicles fa",
+        "report_date": "28/07/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V439000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2020 Odyssey, 2019-2020 Passport, and 2019-2021 Pilot vehicles.   Incorrect instrument panel control module software can cause the instrument panel to not display critical information, such as engine oil pressure, speedometer, and gear selec",
+        "report_date": "28/07/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V725000",
+        "component": "TIRES",
+        "summary": "American Honda Motor Co. (Honda) is recalling certain 2021 Pilot vehicles equipped with Continental CrossContact LX Sport 245/50R20 102 H tires with DOT serial number A376 D3K9 2920 and mold numbers S-421920 and S-421921.  The tires may have been cured for a time beyond the specification limits.",
+        "report_date": "20/11/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V174000",
+        "component": "VISIBILITY:REARVIEW MIRRORS/DEVICES:EXTERIOR",
+        "summary": "Honda (American Honda Motor Co) is recalling certain 2020-2021 Pilot and Ridgeline, and 2020-2022 Passport and Odyssey vehicles.  The heating pads behind both side-view mirrors may not be bonded properly, allowing the mirror glass to detach.  As such, these vehicles fail to comply with the requireme",
+        "report_date": "16/03/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V431000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2023 Odyssey, 2019-2022 Pilot, and 2019-2023 Passport vehicles.  Due to a faulty Media Oriented Systems Transport (MOST) communication coaxial cable connector, the rearview camera image may not appear on the display.  As such, these vehicles",
+        "report_date": "15/06/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V458000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:MASTER CYLINDER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020-2021 Civic, 2020-2023 Ridgeline, 2021-2023 Passport, 2021-2022 Pilot, and 2020 Acura MDX vehicles.  The tie rod fastener that connects the brake booster and the brake master cylinder may have been improperly assembled during manufacturing, w",
+        "report_date": "29/06/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V064000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020-2022 Pilot, Accord, Civic sedan, HR-V, Odyssey, 2020 Civic coupe, Fit, 2021-2022 Civic hatchback, 2021 Civic Type R, Insight, 2020-2021 CR-V, CR-V Hybrid, Passport, Ridgeline, Accord Hybrid, 2020 Acura MDX, 2022 Acura MDX, 2020-2022 Acura RD",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V365000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "American Honda Motor Company (Honda) is recalling certain 2016-2022 Honda Pilot, 2017-2023 Ridgeline, 2019-2023 Passport, and 2014-2020 Acura MDX vehicles that were sold in Connecticut, Delaware, District of Columbia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minne",
+        "report_date": "04/06/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:53.934Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

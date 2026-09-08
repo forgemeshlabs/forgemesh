@@ -1,0 +1,180 @@
+{
+  "slug": "2010-chevrolet-equinox",
+  "year": 2010,
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 784,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 271,
+        "share_pct": 34.6,
+        "excerpts": [
+          "The contact owns a 2010 Chevrolet Equinox. The contact stated that the vehicle was previously taken to the local dealer for Technical Service Bulletin TSB #: 19-NA-065. While driving at 15 MPH, the ve",
+          "Vehicle looses power and can very easily cause a bad wreck I've replaced multiple thing and it still does it I'm not sure what it is possibly the timing or something to do with camshaft",
+          "This 2010 Chevy Equinox has the 2.4 liter motor that is recalled in similar vehicles by Chevrolet due to the piston rings having “blow by”. We have had to carry a quart of oil because of the constant "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 182,
+        "share_pct": 23.2,
+        "excerpts": [
+          "Vehicle looses power and can very easily cause a bad wreck I've replaced multiple thing and it still does it I'm not sure what it is possibly the timing or something to do with camshaft",
+          "The contact owns a 2010 Chevrolet Equinox. The contact stated that while driving at 25 - 30 MPH, the vehicle experienced a loss of automotive power. No warning lights illuminated. However, after the f",
+          "The contact owns a 2010 Chevrolet Equinox. The contact stated while driving at an undisclosed speed, the vehicle jerked, stalled, and made a clicking sound while idling. The check engine warning light"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 132,
+        "share_pct": 16.8,
+        "excerpts": [
+          "The climate controls, including the seat warmers, located on the control panel directly below the radio/stereo controls on my 2010 Chevy Equinox stopped working. As a result, the ability to control th",
+          "I have a 2.4 ltr Chevy equinox and the engine went out at 140000miles, no warning symbol. Left me stranded in the middle of nowhere, two days after being stuck in a rain storm, when I found out my wip",
+          "The contact owns a 2010 Chevrolet Equinox. The contact stated that while his wife was driving at an undisclosed speed, the front windshield wipers became inoperable. The contact's wife was driving at "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 81,
+        "share_pct": 10.3,
+        "excerpts": [
+          "The climate controls, including the seat warmers, located on the control panel directly below the radio/stereo controls on my 2010 Chevy Equinox stopped working. As a result, the ability to control th",
+          "The contact owns a 2010 Chevrolet Equinox. The contact stated that while driving at an undisclosed speed, the turn signals and the speed odometer were inoperable. The vehicle was taken to the dealer. ",
+          "The contact owns a 2010 Chevrolet Equinox. The contact stated that on several occasions while driving at various speeds, there was an abnormal fuel odor throughout the vehicle. The contact stated that"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 57,
+        "share_pct": 7.3,
+        "excerpts": [
+          "After taking my vehicle to three repair shops I was advised by the last body shop that there was a bulletin (14159) out in regards to excessive engine oil consumption. The mechanic explained the issue",
+          "Airbags deployed while driving",
+          "The contact owns a 2010 Chevrolet Equinox. The contact stated that while slowing to stop the vehicle, the side curtain air bags erroneously deployed. The contact stated that the front and rear driver’"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 15,
+      "fires": 9,
+      "injuries": 23,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 13
+      },
+      {
+        "year": 2010,
+        "count": 52
+      },
+      {
+        "year": 2011,
+        "count": 32
+      },
+      {
+        "year": 2012,
+        "count": 33
+      },
+      {
+        "year": 2013,
+        "count": 44
+      },
+      {
+        "year": 2014,
+        "count": 77
+      },
+      {
+        "year": 2015,
+        "count": 64
+      },
+      {
+        "year": 2016,
+        "count": 95
+      },
+      {
+        "year": 2017,
+        "count": 92
+      },
+      {
+        "year": 2018,
+        "count": 87
+      },
+      {
+        "year": 2019,
+        "count": 96
+      },
+      {
+        "year": 2020,
+        "count": 42
+      },
+      {
+        "year": 2021,
+        "count": 22
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 14
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "16V502000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2016-2017 Buick Verano and 2016 Chevrolet Malibu as the electronic park lock lever may allow the ignition key to be removed without the transmission being in PARK.  Also, certain 2013 Buick Encore,  2011 Buick Regal, 2013-2014 Buick Verano, 201",
+        "report_date": "05/07/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V447000",
+        "component": "SEATS:FRONT ASSEMBLY:POWER ADJUST",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2011-2012 Buick LaCrosse, Regal and Chevrolet Camaro, as well as certain 2010-2012 Cadillac SRX, Chevrolet Equinox and GMC Terrain vehicles, equipped with power height adjustable driver and passenger seats.  In the affected vehicles, the bolt t",
+        "report_date": "23/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V489000",
+        "component": "VISIBILITY:DEFROSTER/DEFOGGER/HVAC SYSTEM",
+        "summary": "GENERAL MOTORS IS RECALLING CERTAIN MODEL YEAR 2010 CHEVROLET EQUINOX AND GMC TERRAIN VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 103, \"WINDSHIELD DEFROSTING AND DEFOGGING SYSTEMS AND WITH FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 101, CONTROLS A",
+        "report_date": "23/12/2009",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:51:33.913Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

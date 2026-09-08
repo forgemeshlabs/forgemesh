@@ -1,0 +1,213 @@
+{
+  "slug": "2022-chevrolet-silverado",
+  "year": 2022,
+  "make": "Chevrolet",
+  "model": "Silverado",
+  "matched_as": {
+    "complaints": [
+      "SILVERADO 1500 LTD",
+      "SILVERADO 1500",
+      "SILVERADO 2500",
+      "SILVERADO 3500"
+    ],
+    "recalls": [
+      "SILVERADO 1500",
+      "SILVERADO 2500",
+      "SILVERADO 3500"
+    ]
+  },
+  "failures": {
+    "total_complaints": 1340,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 486,
+        "share_pct": 36.3,
+        "excerpts": [
+          "I did the 0w-40 oil swap and now my truck is having more issues than before the recall, doing a “oil consumption test”",
+          "NHTSA VEHICLE SAFETY COMPLAINT  Vehicle: 2022 Chevrolet Silverado K1500 Trail Boss Engine: 6.2L V8 VIN: [XXX] Selling Dealer: Harris Hankins Chevrolet, Bay Springs, Mississippi  I purchased this 2022 ",
+          "Purchased vehicle in August of 2025 and there was an open recall for engine issues at that time. Took vehicle back to dealership in October or November for dealer to inspect. The vehicle passed the en"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 366,
+        "share_pct": 27.3,
+        "excerpts": [
+          "July 11, 2026 I experienced a lifter failure. Towed to GM dealer on July 13th. Dealer comfirmed lifter failure and camshaft damage and metal contamination throughout engine. Dealer installed replaceme",
+          "45,000 Mile 2022 Chevy Silverado 1500 LT - Vehicle began rough shifting, slipping gears, failing to engage into drive, and shuddering at constant acceleration. Transmission valve body failure and repl",
+          "2022 Silverado RST with the L87 engine loss propulsion in traffic of Memorial day weekend with approximately 43,800 miles on the vehicle. Has since been fixed by Chevrolet dealership. Also passed thei"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 301,
+        "share_pct": 22.5,
+        "excerpts": [
+          "The contact owns a 2022 Chevrolet Silverado 1500. The contact stated that while driving approximately 45 MPH, the vehicle lost automotive power. The message \"Shift to Neutral and Restart\" was displaye",
+          "Purchased vehicle in August of 2025 and there was an open recall for engine issues at that time. Took vehicle back to dealership in October or November for dealer to inspect. The vehicle passed the en",
+          "The contact owns a 2022 Chevrolet Silverado 1500. The contact stated that while driving at 70 MPH on Interstate 10, the vehicle stalled. The contact was able to pull the vehicle over; however, the veh"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 126,
+        "share_pct": 9.4,
+        "excerpts": [
+          "While traveling in bumper to bumper highway traffic in my 2022 Chevrolet Silverado RST, I attempted to accelerate and the vehicle suddenly malfunctioned. I experienced sever loss/restriction of propul",
+          "The contact owns a 2022 Chevrolet Silverado 1500. The contact stated that upon starting the vehicle, there was a message related to brakes. The contact stated that while driving at an undisclosed spee",
+          "All kinds of warning signals come up like 4 wheel drive on, off, roll up and down driver window, no brake pads detected, no washer fluid, service esc, service 4 wheel drive, traction control on and of"
+        ]
+      },
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 80,
+        "share_pct": 6,
+        "excerpts": [
+          "I was driving vehicle through town when I suddenly lost all power and luckily was able to get off the road. Onstar sent a code and it was a fuel pump module",
+          "Engine abruptly lost power in middle of high speed lane. I did not have enough momentum to make it to safety, totally on the shoulder, Transmission locked up, couldn’t move vehicle to safety, Extremel",
+          "2022 Silverado RST with the L87 engine loss propulsion in traffic of Memorial day weekend with approximately 43,800 miles on the vehicle. Has since been fixed by Chevrolet dealership. Also passed thei"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 25,
+      "fires": 15,
+      "injuries": 34,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 3
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 131
+      },
+      {
+        "year": 2023,
+        "count": 134
+      },
+      {
+        "year": 2024,
+        "count": 239
+      },
+      {
+        "year": 2025,
+        "count": 475
+      },
+      {
+        "year": 2026,
+        "count": 354
+      }
+    ]
+  },
+  "recalls": {
+    "count": 12,
+    "recalls": [
+      {
+        "campaign_number": "22V463000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS",
+        "summary": "General Motors (GM) has decided that certain 2022 model year Chevrolet Silverado, and GMC Sierra vehicles equipped with an accessory sport bar.  The accessory sport bar contains a high-mounted brake light that may not function.  In addition, it may block the vehicle's existing high-mounted brake lig",
+        "report_date": "30/06/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V873000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2022 Chevrolet Silverado 1500 vehicles.  The sensing diagnostic module (SDM) was left in manufacturing mode and not activated at the assembly plant prior to shipment.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle ",
+        "report_date": "23/11/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V903000",
+        "component": "EXTERIOR LIGHTING:LIGHTING CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2023 Cadillac CT4 and CT5; 2021-2023 Buick Envision; and 2022-2023 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles.  The daytime running lights (DRLs) may not deactivate wh",
+        "report_date": "08/12/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V797000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2022 Chevrolet Silverado 1500, 2500, 3500, GMC Sierra 1500, 2500, 3500, 2021 Cadillac Escalade, Escalade ESV, Chevrolet Tahoe, Suburban, GMC Yukon, and Yukon XL vehicles equipped with diesel engines.  The transmission control valve may fail and caus",
+        "report_date": "24/10/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "25V274000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+        "summary": "General Motors LLC (GM) is recalling certain 2021-2024 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles equipped with a 6.2L V8 gas engine.  The connecting rod and/or crankshaft engine components may have manufacturing d",
+        "report_date": "24/04/2025",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V083000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC is recalling certain 2020 Chevrolet Silverado 2500, 3500, GMC Sierra 2500, 3500, and 2020-2022 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles that may have been repaired incorrectly under recall 24V797. The transmission control valve may fail and cause the rear wheels to l",
+        "report_date": "12/02/2026",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V758000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021-2022 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500, and Sierra 3500 vehicles with electronic brake control modules (EBCM) replaced during vehicle assembly.  The bolts that attach the brake pressure modulator valve (BPMV) assembly may not",
+        "report_date": "29/09/2021",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "24V060000",
+        "component": "LATCHES/LOCKS/LINKAGES:TAILGATE:LATCH",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2024 Chevrolet Silverado 2500, 3500, GMC Sierra 2500 and 3500 vehicles equipped with power-unlatching tailgates.  The tailgate's electronic gate-release switch may short circuit due to water intrusion, which can result in the tailgate inadvertently ",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V797000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2022 Chevrolet Silverado 1500, 2500, 3500, GMC Sierra 1500, 2500, 3500, 2021 Cadillac Escalade, Escalade ESV, Chevrolet Tahoe, Suburban, GMC Yukon, and Yukon XL vehicles equipped with diesel engines.  The transmission control valve may fail and caus",
+        "report_date": "24/10/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V758000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:ELECTRIC:CONTROL MODULE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2021-2022 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500, and Sierra 3500 vehicles with electronic brake control modules (EBCM) replaced during vehicle assembly.  The bolts that attach the brake pressure modulator valve (BPMV) assembly may not",
+        "report_date": "29/09/2021",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "24V060000",
+        "component": "LATCHES/LOCKS/LINKAGES:TAILGATE:LATCH",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2024 Chevrolet Silverado 2500, 3500, GMC Sierra 2500 and 3500 vehicles equipped with power-unlatching tailgates.  The tailgate's electronic gate-release switch may short circuit due to water intrusion, which can result in the tailgate inadvertently ",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V797000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2022 Chevrolet Silverado 1500, 2500, 3500, GMC Sierra 1500, 2500, 3500, 2021 Cadillac Escalade, Escalade ESV, Chevrolet Tahoe, Suburban, GMC Yukon, and Yukon XL vehicles equipped with diesel engines.  The transmission control valve may fail and caus",
+        "report_date": "24/10/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:08:00.409Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

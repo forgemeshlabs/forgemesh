@@ -1,0 +1,200 @@
+{
+  "slug": "2013-honda-pilot",
+  "year": 2013,
+  "make": "Honda",
+  "model": "Pilot",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 271,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 79,
+        "share_pct": 29.2,
+        "excerpts": [
+          "Diagnosed by CMA Honda dealership - need piston ring replacement due to the ongoing issue and Service Bulletin SB-10099310-9340. This was under 8 year warranty from date of purchase, but this just sta",
+          "Recalls without notification; 1) Engine- recurring problem piston seal leak - continual replacement of coils & spark plugs. Engine light on VTM-4, traction bar symbol on, engine missing. [XXX]  2025: ",
+          "Multiple mechanics have told me it’s spark plugs and piston ring and issues.  I constantly get my oils changed when I’m at 10% and never let it run out of gas.  Constantly babied this thing. It only h"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 54,
+        "share_pct": 19.9,
+        "excerpts": [
+          "Multiple mechanics have told me it’s spark plugs and piston ring and issues.  I constantly get my oils changed when I’m at 10% and never let it run out of gas.  Constantly babied this thing. It only h",
+          "Repeatedly there has been a cylinder 1 misfire causing the check engine light to activate. The vehicle starts to shake and idling is rough. It has happened repeatedly over the past 3-4 years.   In 202",
+          "The lights(traction control light, check engine,) in the dash come on and go off intermittently and vehicle display reads check emissions system and check VSA (vehicle stability assist) I got the vehi"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 47,
+        "share_pct": 17.3,
+        "excerpts": [
+          "The factory clear coat and paint on the roof of this 2013 Honda Pilot are delaminating and peeling away from the metal. The failure began about 1.5 years ago and continues to spread; in places it has ",
+          "Significant paint chipping",
+          "Paint has peeled completely off of areas of the body--including the roof above the windshield and others.  This peeling has occurred without any physical damage to the body itself"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 42,
+        "share_pct": 15.5,
+        "excerpts": [
+          "Repeatedly there has been a cylinder 1 misfire causing the check engine light to activate. The vehicle starts to shake and idling is rough. It has happened repeatedly over the past 3-4 years.   In 202",
+          "The VSA/ABS lights came on and I took it to the repair shop.  The mechanic told me that the VSA/ABS module is bad and needs to be replaced.  He said this is a very common problem in my vehicle type.  ",
+          "The contact owns a 2013 Honda Pilot. The contact stated while starting the vehicle, the ABS warning light, the brake warning light, and the traction control warning light illuminated. The vehicle was "
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 18,
+        "share_pct": 6.6,
+        "excerpts": [
+          "Had a car accident and hit a sand barrel at about 40 miles an hour without the airbags didn’t deploy.  The grill and bumper were damaged with impact.",
+          "The car was inspected by the authorized dealer, but it is still on the list.",
+          "• The side airbags on the passenger side, extending from the front passenger seat to the back, deployed without cause. The vehicle is available for inspection upon request.  • The airbags deployed whi"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 12,
+      "fires": 4,
+      "injuries": 12,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1949,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 8
+      },
+      {
+        "year": 2013,
+        "count": 68
+      },
+      {
+        "year": 2014,
+        "count": 19
+      },
+      {
+        "year": 2015,
+        "count": 22
+      },
+      {
+        "year": 2016,
+        "count": 14
+      },
+      {
+        "year": 2017,
+        "count": 23
+      },
+      {
+        "year": 2018,
+        "count": 28
+      },
+      {
+        "year": 2019,
+        "count": 26
+      },
+      {
+        "year": 2020,
+        "count": 16
+      },
+      {
+        "year": 2021,
+        "count": 6
+      },
+      {
+        "year": 2022,
+        "count": 14
+      },
+      {
+        "year": 2023,
+        "count": 9
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 5
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 6,
+    "recalls": [
+      {
+        "campaign_number": "18V661000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2014 Honda Insight and Acura TSX and TSX Wagon, 2014-2015 Honda Crosstour and Pilot vehicles nationwide, as well as certain 2014 Honda FCX Clarity and Fit EV vehicles in Florida, Hawaii, Puerto Rico, Texas, Alabama, Georgia, Louisiana, Mississipp",
+        "report_date": "27/09/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V502000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2014 TSX Sport Wagon, 2010-2013 ZDX, 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic and Civic Hybrid, 2008-2010 Civic GX NGV, 2012-2015 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2014 Fit EV, 2010-201",
+        "report_date": "27/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V378000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2009-2014 Acura TSX, 2011-2013 TSX Sport Wagon, and 2010-2012 ZDX and 2008-2012 Honda Accord, 2010-2011 Accord Crosstour, 2006-2011 Civic, Civic Hybrid and Civic NGV, 2012-2014 Crosstour, 2007-2011 CR-V, 2009-2013 Fit, 2010-2013 Insight, and 2009",
+        "report_date": "16/05/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V042000",
+        "component": "AIR BAGS:FRONTAL:PASSENGER SIDE:INFLATOR MODULE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2010-2013 Acura TSX, ZDX, Honda Accord Crosstour, Fit, Insight and Pilot vehicles, 2011-13 Acura TSX Sportswagon, 2010-2012 Honda Accord,, 2010-2011 Honda Civic, Civic NGV, Civic Hybrid and CR-V vehicles and 2013 Honda FCX Clarity and Fit EV vehi",
+        "report_date": "09/01/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V016000",
+        "component": "AIR BAGS",
+        "summary": "Honda is recalling certain model year 2009-2013 Pilot and 2011-2013 Odyssey passenger vehicles manufactured from March 13, 2008, through December 21, 2012.  One or more rivets that attach the airbag module to the airbag cover may be missing.",
+        "report_date": "18/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V382000",
+        "component": "ENGINE",
+        "summary": "Honda is recalling certain model year 2013 Pilot 2WD and 4WD vehicles and certain model year 2013 Odyssey vehicles.  During manufacturing of the engine piston, it is possible that the heat treatment process was not properly applied, resulting in the piston having an insufficient hardness level, maki",
+        "report_date": "27/08/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:57:13.368Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

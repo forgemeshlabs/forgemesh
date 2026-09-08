@@ -1,0 +1,177 @@
+{
+  "slug": "2011-gmc-sierra",
+  "year": 2011,
+  "make": "GMC",
+  "model": "Sierra",
+  "matched_as": {
+    "complaints": [
+      "SIERRA 1500",
+      "SIERRA 1500 HYBRID",
+      "SIERRA 2500",
+      "SIERRA 3500"
+    ],
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 901,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 324,
+        "share_pct": 36,
+        "excerpts": [
+          "See attached document for complaint",
+          "Rear shock holder rusted through cross member on frame making top of shock stay forced against bottom of the bed of the truck.",
+          "Takata recall. The contact owns a 2011 GMC Sierra 1500. The contact received notification of NHTSA Campaign Number: 21V054000 (Air Bags) however, the part to do the repair was unavailable. The contact"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 153,
+        "share_pct": 17,
+        "excerpts": [
+          "The door handle broke off on the driver side the passenger side door handle will not open the door the outside handles are loose and the rear back driver and passenger side will not open their doors.",
+          "2011 GMC Sierra Frame  Failed Pennsylvania State Inspection due to Driver Side Frame Rust/hole. The section of the frame must be replaced due to rust(Improper coating... The truck has only 69700 miles",
+          "Vehicle is up for inspection in February of 2025 and due to the frame rust it will not pass."
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 84,
+        "share_pct": 9.3,
+        "excerpts": [
+          "Vehicle experienced a catastrophic mechanical failure characterized by a percussive \"shotgun blast\" noise from the rear chassis, followed by an immediate, total loss of braking power (pedal to the flo",
+          "Transmission won’t shift",
+          "11/2022 shift cable separated from shift lever; preventing ability to put vehicle Into park. Retaining clip deteriorated allowing separation. Fortunately it happened when leaving parking garage and no"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 66,
+        "share_pct": 7.3,
+        "excerpts": [
+          "MY TRUCK HAS PROBLEMS WITH STABILITY CONTROL RUNNING ON THE FREEWAY IN THE DASH CAME STABILITY CONTROL SERVICES AND SECOND REDUCE POWER AND THE STOP MU TRUCK GO SLOW FROM 65 TO 20 IN THE MIDDLE OF THE",
+          "TL* THE CONTACT CALLED ON BEHALF OF HER CUSTOMER WHO OWNS A 2011 GMC SIERRA 1500. THE CONTACT STATED THAT WHILE DRIVING, THE VEHICLE JERKED AND SHUDDERED WHILE DOWNSHIFTING. THE STABILITY TRAC AND TRA",
+          "TRUCK WILL COME UP WITH AC TURNED OFF. THE FAN WILL JUST RUN BUT TRUCK DOESN'T SEEM TO START RUNNING HOT. IT WILL COME ON AND WITHIN A FEW DAYS IT WILL GO OFF. THIS HAS HAPPENED A MINIMUM OF THREE TIM"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 57,
+        "share_pct": 6.3,
+        "excerpts": [
+          "ABS Randomly turns on with the traction control light… All windows except for driver window will not go down and sometimes it does not unlock or lock sometimes. It started the beginning of 2022 and ha",
+          "Odometer Fraud. The contact purchased a 2011 GMC Sierra 1500. The contact stated that while attempting to register the vehicle, it was discovered that there was a mileage discrepancy. The vehicle was ",
+          "When I put the truck in 4wd the dash says service stabilitrak and the traction control light and abs light come on"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 15,
+      "fires": 8,
+      "injuries": 27,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1995,
+        "count": 2
+      },
+      {
+        "year": 2008,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 14
+      },
+      {
+        "year": 2011,
+        "count": 39
+      },
+      {
+        "year": 2012,
+        "count": 34
+      },
+      {
+        "year": 2013,
+        "count": 49
+      },
+      {
+        "year": 2014,
+        "count": 74
+      },
+      {
+        "year": 2015,
+        "count": 132
+      },
+      {
+        "year": 2016,
+        "count": 185
+      },
+      {
+        "year": 2017,
+        "count": 109
+      },
+      {
+        "year": 2018,
+        "count": 69
+      },
+      {
+        "year": 2019,
+        "count": 27
+      },
+      {
+        "year": 2020,
+        "count": 35
+      },
+      {
+        "year": 2021,
+        "count": 49
+      },
+      {
+        "year": 2022,
+        "count": 34
+      },
+      {
+        "year": 2023,
+        "count": 24
+      },
+      {
+        "year": 2024,
+        "count": 11
+      },
+      {
+        "year": 2025,
+        "count": 11
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "14V827000",
+        "component": "ELECTRICAL SYSTEM:IGNITION",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2011-2012 Cadillac Escalade, Escalade ESV, Escalade EXT, Chevrolet Avalanche, Silverado HD, Silverado LD, Suburban, Tahoe, GMC Sierra LD, Sierra HD, Yukon, and Yukon XL vehicles.  In the affected vehicles, the ignition lock actuator may bind, m",
+        "report_date": "30/12/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V339000",
+        "component": "STEERING:LINKAGES",
+        "summary": "GM IS RECALLING CERTAIN MODEL YEAR 2011CADILLAC ESCALADE, ESCALADE ESV; CHEVROLET SILVERADO HD, SILVERADO LD, SUBURBAN, TAHOE; AND GMC SIERRA HD, SIERRA LD, YUKON, AND YUKON XL VEHICLES. THE INTERMEDIATE STEERING SHAFT ATTACHING BOLTS MAY NOT HAVE BEEN TIGHTENED TO THE PROPER SPECIFICATION.",
+        "report_date": "28/06/2011",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:55:35.331Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

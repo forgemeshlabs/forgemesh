@@ -1,0 +1,148 @@
+{
+  "slug": "2021-subaru-outback",
+  "year": 2021,
+  "make": "Subaru",
+  "model": "Outback",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 296,
+    "top_failure_components": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 97,
+        "share_pct": 32.8,
+        "excerpts": [
+          "I was driving when I heard a loud explosion sound.  I first thought a rock or gunshot hit my car and pulled over to examine my car.  I checked all around the car and didn't notice any damage on the si",
+          "Since owning this vehicle, we have replaced the windshield at least once a year.  The first due to a 1/16th inch chip that evolved into a 10 inch crack over the course of a day.  The second was a crac",
+          "Driving home on a farm road, a truck passed by, picking up a pebble that hit my windshield. On my other vehicles, that same impact would leave a chip on the windshield but due to its light thickness, "
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 75,
+        "share_pct": 25.3,
+        "excerpts": [
+          "Vehicle's Auto Start-Stop system shut the engine off while stopped at a red light in [XXX], in rainy conditions in late XXX at approximately 29,000 miles. When the brake was released after the light t",
+          "I am reporting a serious and intermittent steering safety issue with my 2021 Subaru Outback. On two separate occasions, the vehicle suddenly lost what appeared to be power-steering assistance while th",
+          "My 2021 Subaru Outback suffered a failure of the Oil Control Valve (OCV), a sealed Subaru component with no maintenance interval, no inspection procedure, and no preventative service. This failure all"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 29,
+        "share_pct": 9.8,
+        "excerpts": [
+          "I was already parked in a spot in a public parking lot.  I tapped the accelerator pedal to move the car a few inches.  The vehicle responded by violently accelerating, hitting a vehicle directly in fr",
+          "Thermo Control Valve. Check engine light on. Eyesight Adaptive Cruise Control    Automatic Emergency Braking    Blind Spot Warning    Forward Collision Warning    Lane Departure Warning    Lane Keepin",
+          "The speed control (adaptive) doesn't work.  The interior heater doesn't work.  Several lights including the 'check engine' light come on the dash.  The lane departure system doesn't work.  (It appears"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 21,
+        "share_pct": 7.1,
+        "excerpts": [
+          "Good Day! I bought my 2021 Subaru Outback XT Onyx in Jan 2021. I had waiting 6 yrs for Subaru to use the Turbo Motor in the Outback again. I've had this car for 5 years with my warranty running out Ja",
+          "Thermo Control Valve Failure- Contact Subaru of Cherry Hill, NJ for Inspection 177,4XX Miles P26A5 code Check engine Light on, Disabled Safety Systems (Eyesight System), Car may have overheated if not",
+          "The failure involves the engine (powertrain), which was under warranty. The vehicle has experienced four catastrophic engine failures resulting in sudden loss of power, including at highway speeds (65"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 19,
+        "share_pct": 6.4,
+        "excerpts": [
+          "The contact owned 2021 Subaru Outback. The contact stated that while driving at 5 MPH turning a right hand corner into a shopping center, the vehicle began to accelerate without the contacts consent. ",
+          "I was already parked in a spot in a public parking lot.  I tapped the accelerator pedal to move the car a few inches.  The vehicle responded by violently accelerating, hitting a vehicle directly in fr",
+          "The failure involves the engine (powertrain), which was under warranty. The vehicle has experienced four catastrophic engine failures resulting in sudden loss of power, including at highway speeds (65"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 1,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 12
+      },
+      {
+        "year": 2021,
+        "count": 109
+      },
+      {
+        "year": 2022,
+        "count": 55
+      },
+      {
+        "year": 2023,
+        "count": 51
+      },
+      {
+        "year": 2024,
+        "count": 39
+      },
+      {
+        "year": 2025,
+        "count": 19
+      },
+      {
+        "year": 2026,
+        "count": 9
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "21V024000",
+        "component": "POWER TRAIN:SHIFT LINKAGE/CABLE/ROD",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2021 Outback and Impreza vehicles.  The continuously variable transmission (CVT) select lever cable nut may not have been tightened properly, allowing the nut to loosen.",
+        "report_date": "26/01/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V485000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2020-2021 Outback and Legacy vehicles.  A programming error in the Transmission Control Unit (TCU) may allow the clutch to engage before the drive chain is completely clamped.",
+        "report_date": "08/07/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V755000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:PARK/NEUTRAL START INTERLOCK SWITCH",
+        "summary": "Subaru of America, Inc. is recalling certain model year 2021 Crosstrek, 2022 Forester, 2021-2023 Legacy, and Outback vehicles.  An insufficient weld may allow water to enter the inhibitor switch, causing it to fail.",
+        "report_date": "09/11/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V227000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2020-2022 Outback and Legacy vehicles.  A capacitor in the sensors for the Occupant Detection System (ODS) may crack and short circuit, which can prevent the front passenger air bag from deploying in a crash.",
+        "report_date": "22/03/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:06:37.468Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,248 @@
+{
+  "slug": "2010-toyota-prius",
+  "year": 2010,
+  "make": "Toyota",
+  "model": "Prius",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 2821,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 1973,
+        "share_pct": 69.9,
+        "excerpts": [
+          "Component failed: Brake actuator and accumulator on a 2010 Toyota Prius. It is available for inspection upon request.  Safety: ABS, traction, and brake lights turned on suddenly in the middle of rush-",
+          "To Whom It May Concern,  I am writing to formally complain about the way Toyota has handled the problems with my 2010 Toyota Prius and my repeated requests for assistance.  I have been a loyal Toyota ",
+          "ABS light came on 6 months ago as well as ((!)) light. As soon as those lights came on, the brakes had an increased stopping distance and it became harder to get the car to come to a complete stop. I "
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 849,
+        "share_pct": 30.1,
+        "excerpts": [
+          "The contact owns a 2010 Toyota Prius. The contact stated that while driving 70 MPH, the vehicle jerked, and the vehicle failed to accelerate as intended while depressing the accelerator pedal. Additio",
+          "The contact owns 2010 Toyota Prius. The contact stated that while depressing the brake pedal, the ABS, brakes, and the vehicle stability control warning lights were illuminated. An Independent mechani",
+          "The contact owns a 2010 Toyota Prius. The contact stated while driving 45-50 MPH and depressing the brake pedal, the ABS, the traction control, and the check engine warning lights were illuminated. Th"
+        ]
+      },
+      {
+        "component": "ELECTRIC",
+        "complaints": 502,
+        "share_pct": 17.8,
+        "excerpts": [
+          "EVER SINCE I PURCHASED MY 2010 PRIUS IN NOVEMBER, 2009 THE BRAKES HAVE BEEN A PROBLEM. WHEN BRAKING WHILE DRIVING OVER A BUMP OR POTHOLE THE CAR LOOSES BRAKING ABILITY AND THERE IS A SURGE OF POWER. T",
+          "HAVING PROBLEMS WITH THE BRAKING ON MY 2010 TOYOTA PRIUS. AT SLOW TO MODERATE SPEEDS WHILE I AM BRAKING AND GO OVER A POTHOLE THE CAR SEEMS TO STOP BRAKING AND KEEPS GOING. I THEN HAVE TO DEPRESS THE ",
+          "I PURCHASED A 2010 PRIUS.  WITHIN A 100 MILES, THE BRAKE PEDAL RANDOMLY LOCKED UP, THE BRAKES GRABBED AND BROUGHT MY CAR TO AN ABRUPT HALT.  THE BRAKE PEDAL REMAINED LOCKED FOR ABOUT 3-5 SECONDS.  THE"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 287,
+        "share_pct": 10.2,
+        "excerpts": [
+          "The contact owns a 2010 Toyota Prius. The contact stated while driving 45 MPH downhill on a mountain and depressing the accelerator pedal, the pedal travelled down to the floorboard, but the vehicle f",
+          "Heading westbound on I-70, taking Exit 29 off ramp from highway, I drove over uneven pavement. My traction control, ABS and brake lights illuminated, the brakes suddenly felt mushy. As I approached th",
+          "My car accelerated significantly on its own while I was pulling into a parking stall in a private parking lot. It caused my vehicle to jump a curb and accelerate up a dirt divider and push over a bush"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 192,
+        "share_pct": 6.8,
+        "excerpts": [
+          "The contact owns a 2010 Toyota Prius. The contact stated that while driving at an undisclosed speed, a strong and unusual odor was detected inside the vehicle with no warning lights illuminated. The c",
+          "i have have 2 problems, both was recalls, but this one they say expired in 2021 when i bought the car and toyota dealer didnt tell me had recall so i could fix it before it expired.  there is a class ",
+          "brake booster that was a recall that toyota said expired in 2020 when i bought the vehicle and the toyotal dealer didnt inform me of the recall to fix it said everything was fine when it was not, i ha"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 183,
+      "fires": 13,
+      "injuries": 65,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 4
+      },
+      {
+        "year": 2006,
+        "count": 3
+      },
+      {
+        "year": 2007,
+        "count": 3
+      },
+      {
+        "year": 2008,
+        "count": 1
+      },
+      {
+        "year": 2009,
+        "count": 632
+      },
+      {
+        "year": 2010,
+        "count": 951
+      },
+      {
+        "year": 2011,
+        "count": 104
+      },
+      {
+        "year": 2012,
+        "count": 73
+      },
+      {
+        "year": 2013,
+        "count": 89
+      },
+      {
+        "year": 2014,
+        "count": 97
+      },
+      {
+        "year": 2015,
+        "count": 82
+      },
+      {
+        "year": 2016,
+        "count": 136
+      },
+      {
+        "year": 2017,
+        "count": 104
+      },
+      {
+        "year": 2018,
+        "count": 116
+      },
+      {
+        "year": 2019,
+        "count": 64
+      },
+      {
+        "year": 2020,
+        "count": 72
+      },
+      {
+        "year": 2021,
+        "count": 69
+      },
+      {
+        "year": 2022,
+        "count": 72
+      },
+      {
+        "year": 2023,
+        "count": 57
+      },
+      {
+        "year": 2024,
+        "count": 47
+      },
+      {
+        "year": 2025,
+        "count": 39
+      },
+      {
+        "year": 2026,
+        "count": 6
+      }
+    ]
+  },
+  "recalls": {
+    "count": 10,
+    "recalls": [
+      {
+        "campaign_number": "18V684000",
+        "component": "HYBRID PROPULSION SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2010-2014 Toyota Prius and 2012-2014 Toyota Prius V vehicles.  Excessive voltage in the Intelligent Power Module (IPM) within the inverter may cause the hybrid system to shut down, causing the vehicle to stall while being driven.",
+        "report_date": "04/10/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V487000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain model year 2010-2012 Toyota Prius, 2010 and 2012 Toyota Prius Plug-in Hybrid, and 2011-2012 Lexus CT200h vehicles.  A weld in the curtain shield air bag inflator may crack causing one or both portions of the inflator to eject int",
+        "report_date": "30/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V743000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain model year 2010-2011 Prius and Corolla, 2009-2011 Venza, 2006-2010 Avalon, 2007-2010 FJ Cruiser, 2005-2011 Sienna and Sequoia, 2006-2011 Tacoma 4x2 and 4x4, Camry, Highlander, Tundra 4x2 and 4x4, and 2007-2011 Rav4 and 4Runner.  The affec",
+        "report_date": "19/11/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V396000",
+        "component": "SEATS:FRONT ASSEMBLY:SEAT HEATER/COOLER",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2005-2011 4Runner, Highlander, Sequoia, and Sienna, 2005-2010 Avalon and Tundra, 2006-2008 Camry Solara, 2006-2010 Highlander hybrid, 2006-2011 Rav4 and Tacoma, 2007-2010 FJ Cruiser, 2007-2011 Camry hybrid, 2009-2010 Venza, 2010-2012 Priu",
+        "report_date": "02/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V053000",
+        "component": "HYBRID PROPULSION SYSTEM: INVERTER",
+        "summary": "Toyota is recalling certain model year 2010 through 2014 Prius vehicles.  In the affected vehicles, the Intelligent Power Module (IPM) inside the inverter module (a component of the hybrid system) contains transistors that may become damaged from high operating temperatures.  If this occurs, various",
+        "report_date": "12/02/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V235000",
+        "component": "SERVICE BRAKES",
+        "summary": "Toyota is recalling certain model year 2010 Prius vehicles manufactured March 31, 2009, through October 9, 2009; and model year 2010 Lexus HS250h vehicles manufactured June 19, 2009, through October 9, 2009.  Nitrogen gas from a component of the brake booster pump assembly could leak into the brake ",
+        "report_date": "05/06/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V036000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "SOUTHEAST TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2011 PASSENGER VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD WITHOUT THE REQUISITE LOAD CARRYING CAPACITY MODIFICATION LABELS.",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V035000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "GULF STATES TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2010 VEHICLES FOR FAILING TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 110, \"TIRE SELECTION AND RIMS.\"  THESE VEHICLES WERE SOLD BETWEEN SEPTEMBER 1, 2005 AND JUNE 2, 2008 WITHOUT THE REQUISITE LOAD CARRYING CAPA",
+        "report_date": "03/02/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V039000",
+        "component": "SERVICE BRAKES, AIR:ANTILOCK:CONTROL UNIT/MODULE",
+        "summary": "TOYOTA IS RECALLING CERTAIN MODEL YEAR 2010 TOYOTA PRIUS AND LEXUS HS250H PASSENGER VEHICLES.  CUSTOMERS HAVE EXPERIENCED INCONSISTENT BRAKE FEEL AFTER ABS ACTUATION DURING SLOW AND STEADY APPLICATION OF THE BRAKES ON ROUGH OR SLICK ROAD SURFACES.  STOPPING DISTANCES MAY BE INCREASED COMPARED WITH A",
+        "report_date": "09/02/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:52:12.543Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,188 @@
+{
+  "slug": "2009-nissan-altima",
+  "year": 2009,
+  "make": "Nissan",
+  "model": "Altima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1547,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 859,
+        "share_pct": 55.5,
+        "excerpts": [
+          "The contact owns a 2009 Nissan Altima. While attempting to start the vehicle, the steering wheel was locked, preventing the remote start feature from functioning as designed. The vehicle was towed to ",
+          "After the steering Lock anti theft activated, steering lock ESCL module does not allow to turn on the ignition even keys are inserted.",
+          "The contact owns a 2009 Nissan Altima. The contact stated while attempting to start the vehicle using the key fob, the vehicle failed to start. The contact depressed the brake pedal and ignition butto"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 466,
+        "share_pct": 30.1,
+        "excerpts": [
+          "The contact owns a 2009 Nissan Altima. The contact stated while attempting to start the vehicle using the key fob, the vehicle failed to start. The contact depressed the brake pedal and ignition butto",
+          "The component that failed was the steering lock control,  and yes it's available upon request with a tow. I was stranded with no way of getting home. Problem has been confirmed by dealer.  The vehicle",
+          "There's an obvious issue with the steering lock system in 2009 Altimas that Nissan fails to address with a recall.   They opened an extended warranty period that ended in 2020 apparently, with no noti"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 107,
+        "share_pct": 6.9,
+        "excerpts": [
+          "1) What component or system failed or malfunctioned, and is it available for inspection upon request?  The cylinders are constantly misfiring.  2 )How was your safety or the safety of others put at ri",
+          "The contact owns a 2009 Nissan Altima. The contact stated while driving at undisclosed speeds, there was an abnormal clanking sound coming from the vehicle. The contact stated that the vehicle was dri",
+          "Purchased the vehicle from Quality Auto sales llc.had tge vehicle less than 48 hours in traffic stopped. Had it towed to find they just put it together to rode off the lot but transmission is gone. Br"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 95,
+        "share_pct": 6.1,
+        "excerpts": [
+          "There is Transmission problems with the 2009 Nissan. The car shakes/ Vibrates when idle, when sitting to long at a light the idle engine delays the gas pedal from going forward, having to accelerate t",
+          "Check engine light came on with sudden decrease in power. Code is P0840. Car is an 09, but has only 96k miles.",
+          "The contact owns a 2009 Nissan Altima. The contact stated that while at a stoplight, her vehicle would intermittently stall without warning. The contact had a friend inspect her vehicle, who immediate"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 91,
+        "share_pct": 5.9,
+        "excerpts": [
+          "Was stopped at a red light - when light turned green car in front of me proceeded to go but stopped . I pressed on the brake at a speed of no more then 15 miles an hour and the driver side airbag from",
+          "The contact owns a 2009 Nissan Altima. The contact stated that while driving at an undisclosed speed, the air bag warning light illuminated. The vehicle was not taken to the dealer or an independent m",
+          "The contact owned a 2009 Nissan Altima. The contact stated that while driving approximately 20 mph, an unknown Chevrolet Postal truck pulled out and crashed into the vehicle. The steering wheel air ba"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 36,
+      "fires": 8,
+      "injuries": 21,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2008,
+        "count": 5
+      },
+      {
+        "year": 2009,
+        "count": 34
+      },
+      {
+        "year": 2010,
+        "count": 22
+      },
+      {
+        "year": 2011,
+        "count": 33
+      },
+      {
+        "year": 2012,
+        "count": 95
+      },
+      {
+        "year": 2013,
+        "count": 227
+      },
+      {
+        "year": 2014,
+        "count": 124
+      },
+      {
+        "year": 2015,
+        "count": 252
+      },
+      {
+        "year": 2016,
+        "count": 391
+      },
+      {
+        "year": 2017,
+        "count": 142
+      },
+      {
+        "year": 2018,
+        "count": 64
+      },
+      {
+        "year": 2019,
+        "count": 52
+      },
+      {
+        "year": 2020,
+        "count": 36
+      },
+      {
+        "year": 2021,
+        "count": 29
+      },
+      {
+        "year": 2022,
+        "count": 18
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 8
+      },
+      {
+        "year": 2025,
+        "count": 2
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "08V464000",
+        "component": "WHEELS",
+        "summary": "NISSAN IS RECALLING 3,403 MY 2009 ALTIMA VEHICLES EQUIPPED WITH 16-INCH ALLOY WHEELS.   SOME THESE WHEELS MAY NOT HAVE BEEN MANUFACTURED TO SPECIFICATION.  THIS COULD CAUSE ONE OR MORE OF THE FIVE LUG NUTS ATTACHING THE WHEEL TO THE VEHICLE TO BECOME LOOSE.",
+        "report_date": "15/09/2008",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V006000",
+        "component": "STRUCTURE:BODY:DOOR",
+        "summary": "NISSAN IS RECALLING 225 MY 2009 ALTIMA VEHICLES FOR FAILING  TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO. 214, \"SIDE IMPACT PROTECTION.\"   THESE VEHICLES MAY HAVE BEEN MANUFACTURED WITH AN OUT-OF-SPECIFICATION WELD ON THE DOOR ASSEMBLY.",
+        "report_date": "09/01/2009",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V401000",
+        "component": "EQUIPMENT:ELECTRICAL:NAVIGATIONAL SYSTEM(GLOBAL POSITIONING SYSTEM)",
+        "summary": "NISSAN IS RECALLING CERTAIN VEHICLES THAT WERE EQUIPPED WITH A GARMIN NUVI MODEL 750 NAVIGATION SYSTEM.  THE BATTERIES CONTAINED IN THE AFFECTED GPS UNITS CAN OVERHEAT.",
+        "report_date": "10/09/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "09V358000",
+        "component": "SUSPENSION",
+        "summary": "NISSAN IS RECALLING CERTAIN MODEL YEAR 2009 AND 2010 ALTIMA AND MAXIMA PASSENGER CARS.  THE UPPER FRONT STRUT INSULATORS MAY HAVE BEEN MANUFACTURED OUT OF SPECIFICATION RESULTING IN A POTENTIAL FOR THE STRUT INSULATOR TO CRACK.",
+        "report_date": "16/09/2009",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:48:56.988Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

@@ -1,0 +1,160 @@
+{
+  "slug": "2012-toyota-highlander",
+  "year": 2012,
+  "make": "Toyota",
+  "model": "Highlander",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 191,
+    "top_failure_components": [
+      {
+        "component": "STEERING",
+        "complaints": 47,
+        "share_pct": 24.6,
+        "excerpts": [
+          "Popping and clunking sound in steering or suspension.  Can be produced at speeds and at stand still.  Could it be this? https://static.nhtsa.gov/odi/tsbs/2013/SB-10075792-2280.pdf https://www.carcompl",
+          "WHEN I DRIVE THE VEHICLE YOU CAN HEAR A CLUNKING SOUND IN THE STEERING COLUMN. IT HAPPENS AT LOW AND HIGH SPEEDS. WHEN MAKE A TURN RIGHT, OR LEFT YOU HEAR CLUNKING IS THE STEERING COLUMN. IT FEELS LIK",
+          "CRUNCH NOISE IN THE STEERING COLUMN WHEN MAKING TURNS."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 30,
+        "share_pct": 15.7,
+        "excerpts": [
+          "I think there is odometer fraud by this company selling this car.  [XXX]  INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+          "2012 TOYOTA HIGHLANDER  was locked & battery was dead.  Could not unlock using either the key fob or the mechanical key in the fob.  Was told even the mechanical key requires battery power.",
+          "This is the second Highlander Hybrid I've owned that has had the brake actuator and booster assembly fail affecting the functionality of the car's braking system. Replacing these two parts has an absu"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 22,
+        "share_pct": 11.5,
+        "excerpts": [
+          "The paint is malfunction , and is available for inspection upon request.",
+          "Hello, to whom it may concern: My 2012 Toyota Highlander Color Pearl White vin  [XXX] ) has a repaint recall before Nov 2024.  I was told at the dealer that I have to contact the Toyota dealers until ",
+          "The contact owns a 2012 Toyota Highlander. The contact stated that he noticed that the front and rear driver’s side and rear passenger’s side carpet were soaked with water. The contact then stated tha"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 17,
+        "share_pct": 8.9,
+        "excerpts": [
+          "I think there is odometer fraud by this company selling this car.  [XXX]  INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+          "Toyota Piston and Ring defect.  My 2012 Toyota Highlander engine has defective pistons and rings that have led to excessive oil consumption and the potential for a serious accidents as it causes the e",
+          "Around 112,500 miles our vehicle's oil pressure light came on. My husband drove it home, and our mechanic told us to tow it to his shop for inspection. The next day I drove it to the shop, which was o"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 15,
+        "share_pct": 7.9,
+        "excerpts": [
+          "While driving one day i got the ABS light and brake light on on my car screen and the small display showed \"Barke Malfunction\" when i did the scan it is C1391 Code which is for ABS Accutator issue. Th",
+          "All brake warning indicators lit up. Took it to a mechanic that specializes in hybrids and they diagnosed it as a brake assembly/actuator issue, with a diagnostic code of C1391, with a repair estimate",
+          "This is the second Highlander Hybrid I've owned that has had the brake actuator and booster assembly fail affecting the functionality of the car's braking system. Replacing these two parts has an absu"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 16,
+      "fires": 3,
+      "injuries": 13,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 2
+      },
+      {
+        "year": 2012,
+        "count": 15
+      },
+      {
+        "year": 2013,
+        "count": 15
+      },
+      {
+        "year": 2014,
+        "count": 23
+      },
+      {
+        "year": 2015,
+        "count": 17
+      },
+      {
+        "year": 2016,
+        "count": 14
+      },
+      {
+        "year": 2017,
+        "count": 21
+      },
+      {
+        "year": 2018,
+        "count": 24
+      },
+      {
+        "year": 2019,
+        "count": 25
+      },
+      {
+        "year": 2020,
+        "count": 7
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 5
+      },
+      {
+        "year": 2023,
+        "count": 5
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 2,
+    "recalls": [
+      {
+        "campaign_number": "13V014000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain models interspersed through model years 2009 through 2013 as follows: model year 2009-2012 Tacoma, 4Runner, Camry, Camry Hybrid, Prius, and RAV4; model year 2009-2010 Avalon, FJ Cruiser, and Highlander Hybrid; model year 2010-2013 model y",
+        "report_date": "16/01/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V123000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota is recalling certain model year 2008 and 2010-2013 Toyota Tundra, 2010-2012 Rav4, 2012 Toyota Sequoia, 2010-2011 Toyota Corolla, 2010-2011 Toyota Camry and Camry Hybrid, 2010-2013 Toyota Highlander and Highlander Hybrid, 2010-2013 Toyota FJ Cruiser, 2011 Toyota Land Cruiser, 2010-20",
+        "report_date": "09/04/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:56:06.093Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

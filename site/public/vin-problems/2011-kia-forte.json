@@ -1,0 +1,168 @@
+{
+  "slug": "2011-kia-forte",
+  "year": 2011,
+  "make": "Kia",
+  "model": "Forte",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 161,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 48,
+        "share_pct": 29.8,
+        "excerpts": [
+          "I just bought this car with 79873 miles on it it now has 81853 miles and its making a ticking noise.I been looking over the engine and wondering why my check engine light doesn't come on when I left m",
+          "The NECU system failed and blew the engine and caused a fire no longer available for inspection. No move running. No warning lamps at all of any sort.",
+          "The contact owns a 2011 Kia Forte. The contact received notification of NHTSA Campaign Number: 23V652000 (Service Brakes, Hydraulic) however, the part to do the recall repair was not yet available. Th"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 36,
+        "share_pct": 22.4,
+        "excerpts": [
+          "WCS Sensor Defect  B1322-20 - Airbag Code  WCS Communication Error  B1324-20 - Airbag Code  Door Ajar Lamp Circuit Failure  B1323-20 - Airbag Code",
+          "No incident yet, but I see other Kia's that have been recalled for powertrain system and air bag issues. The power train issue comes up when I get my engine light checked and the airbag light is on. A",
+          "The car had a slow ticking noise that was very faint in the front for about 20 minutes 20 minutes later the noise continue to get louder about 45 minutes later six gear was lost in the car in about an"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 28,
+        "share_pct": 17.4,
+        "excerpts": [
+          "The contact owned a 2011 Kia Forte. The contact stated that while the vehicle was parked and unoccupied, a bystander went into the contact's place of employment and stated that there was a fire inside",
+          "The contact owns a 2011 Kia Forte. The contact stated that while driving 45 MPH, the TPMS, red brake light, and several unknown warning lights were illuminated. The contact stated that the vehicle was",
+          "The contact owns a 2011 Kia Forte. The contact stated that while driving at an undisclosed speed, there was smoke coming from under the hood, and the check engine warning light illuminated. In additio"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 19,
+        "share_pct": 11.8,
+        "excerpts": [
+          "Recalls",
+          "The contact owns a 2011 Kia Forte. The contact stated that after starting the vehicle and reversing, the gear shifter became stuck in reverse(R). There was no warning light illuminated. An independent",
+          "No incident yet, but I see other Kia's that have been recalled for powertrain system and air bag issues. The power train issue comes up when I get my engine light checked and the airbag light is on. A"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 17,
+        "share_pct": 10.6,
+        "excerpts": [
+          "The contact owned a 2011 Kia Forte. The contact stated that while the vehicle was parked and unoccupied, a bystander went into the contact's place of employment and stated that there was a fire inside",
+          "The contact owns a 2011 Kia Forte. The contact stated that while driving 45 MPH, the TPMS, red brake light, and several unknown warning lights were illuminated. The contact stated that the vehicle was",
+          "The contact owns a 2011 Kia Forte. The contact stated that while driving at an undisclosed speed, there was smoke coming from under the hood, and the check engine warning light illuminated. In additio"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 28,
+      "fires": 12,
+      "injuries": 35,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 11
+      },
+      {
+        "year": 2012,
+        "count": 6
+      },
+      {
+        "year": 2013,
+        "count": 8
+      },
+      {
+        "year": 2014,
+        "count": 7
+      },
+      {
+        "year": 2015,
+        "count": 9
+      },
+      {
+        "year": 2016,
+        "count": 13
+      },
+      {
+        "year": 2017,
+        "count": 12
+      },
+      {
+        "year": 2018,
+        "count": 27
+      },
+      {
+        "year": 2019,
+        "count": 14
+      },
+      {
+        "year": 2020,
+        "count": 10
+      },
+      {
+        "year": 2021,
+        "count": 7
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 12
+      },
+      {
+        "year": 2025,
+        "count": 7
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "18V363000",
+        "component": "AIR BAGS: AIR BAG/RESTRAINT CONTROL MODULE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2010-2013 Kia Forte, Forte Koup, 2011-2013 Kia Optima and 2011-2012 Kia Optima Hybrid and Sedona vehicles.  In the event of a crash, the air bag control unit (ACU) may short circuit, preventing the frontal air bags and seat belt pretensioners from deploy",
+        "report_date": "01/06/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V070000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:COOLING UNIT AND LINES",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2011 Forte vehicles manufactured August 27, 2010, to November 11, 2010.  The affected vehicles have a transmission fluid cooler hose that may have been improperly manufactured, resulting in a transmission fluid leak.",
+        "report_date": "05/02/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V652000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2010-2019 Borrego, 2014-2016 Cadenza, 2010-2013 Forte, Forte Koup, Sportage, 2015-2018 K900, 2011-2015 Optima, 2011-2013 Optima Hybrid, Soul, 2012-2017 Rio, 2011-2014 Sorento, and 2010-2011 Rondo vehicles.  The Hydraulic Electronic Control Unit (HECU) may",
+        "report_date": "25/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:54:39.829Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

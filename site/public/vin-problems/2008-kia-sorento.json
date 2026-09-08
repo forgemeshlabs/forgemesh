@@ -1,0 +1,188 @@
+{
+  "slug": "2008-kia-sorento",
+  "year": 2008,
+  "make": "Kia",
+  "model": "Sorento",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 217,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 66,
+        "share_pct": 30.4,
+        "excerpts": [
+          "The contact owns a 2008 Kia Sorrento. The contact stated that while starting the vehicle, the passenger’s side air bag warning light illuminated and remained illuminated. The contact stated that the f",
+          "I bought my sorento used and the airbag light is lit on the front dash in both where the guages are and under the stereo. It doesnt matter if someone is in the seat or not. I found that there was a re",
+          "The contact owns a 2008 Kia Sorento. The contact stated that the air bag warning light was illuminated. The contact stated that she contacted an independent mechanic who advised her that she needed a "
+        ]
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "complaints": 44,
+        "share_pct": 20.3,
+        "excerpts": [
+          "I WAS READIND DOWN BEARESS AVE IN TAMPA FLA IAS I WAS RIDING MY TRUCK WENT INTO FLAMES AS SOON AS I LEFT MY HOME AT THE TIME NOT EVEN A HALF MILES THE HILSS COUNTY SHERIFF DID LET THE HOOD UP ATTEMPTE",
+          "I WAS IN AN AUTO ACCIDENT 8/18/17 TOSSED BACK AND FORTH LIKE A RAG DOLL MY AIR BAG DIDN'T DEPLOY ON IMPACT UNTIL THE 4TH TIME AND I WAS KNOCK OUT UNCONSCIOUS. DON'T RECALL MY SEAT BELT WORKED I RECALL",
+          "ALL DOOR HANDLES HAVE FALLEN OFF IT'S GOING TO BE $250.00 TO HAVE ONE FIXED. I AM NOT ABLE AT THIS TIME TO HAVE A MALFUNCTION FIXED! IT IS NOT VANDALISM OF ANY KIND! IT'S A DEFECTIVE PART! THE AUTO RE"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 35,
+        "share_pct": 16.1,
+        "excerpts": [
+          "My 2008 Kia Sorento parked inside a garage for 2 days, not running, not idling, without the key in the ignition, all of a sudden cut fire by itself, consuming the entire engine compartment and part of",
+          "My ABS sent codes saying there's moisture in the ABS Module,Brake Light Switch may malfunction are cause Accidents due to malfunction of Brake Lights...",
+          "Run away throttle,  then part throttle,  then stalls. Very unsafe. NHTSA action# dp21003 Problem comes and goes regularly"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 32,
+        "share_pct": 14.7,
+        "excerpts": [
+          "My 2008 Kia Sorento parked inside a garage for 2 days, not running, not idling, without the key in the ignition, all of a sudden cut fire by itself, consuming the entire engine compartment and part of",
+          "My ABS sent codes saying there's moisture in the ABS Module,Brake Light Switch may malfunction are cause Accidents due to malfunction of Brake Lights...",
+          "I bought my sorento used and the airbag light is lit on the front dash in both where the guages are and under the stereo. It doesnt matter if someone is in the seat or not. I found that there was a re"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 28,
+        "share_pct": 12.9,
+        "excerpts": [
+          "Even after having the ESC and relay box replaced the vehicle has become much worse. It's shuts down my accelerator pedal and won't move I have to shut it off completely for it to reset its extremely u",
+          "WHEN IT'S HUMID OUTSIDE OR THERE IS ANY KIND OF MOISTURE IN THE AIR MY CHECK ENGINE LIGHT COMES ON ALONG WITH THE ESC LIGHT. THE CAR SEEMS BOGGED DOWN AND WONT GO ABOVE 2000 RPM. IT TAKES 15 MINUTES J",
+          "TL* THE CONTACT OWNS A 2008 KIA SORENTO. THE CONTACT STATED THAT WHILE DRIVING AT APPROXIMATELY 60 MPH, THE VEHICLE DECELERATED INDEPENDENTLY TO 30 MPH AND FAILED TO ACCELERATE. THE CONTACT MENTIONED "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 15,
+      "fires": 9,
+      "injuries": 17,
+      "deaths": 3
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2006,
+        "count": 1
+      },
+      {
+        "year": 2007,
+        "count": 3
+      },
+      {
+        "year": 2008,
+        "count": 14
+      },
+      {
+        "year": 2009,
+        "count": 17
+      },
+      {
+        "year": 2010,
+        "count": 17
+      },
+      {
+        "year": 2011,
+        "count": 20
+      },
+      {
+        "year": 2012,
+        "count": 14
+      },
+      {
+        "year": 2013,
+        "count": 26
+      },
+      {
+        "year": 2014,
+        "count": 16
+      },
+      {
+        "year": 2015,
+        "count": 18
+      },
+      {
+        "year": 2016,
+        "count": 13
+      },
+      {
+        "year": 2017,
+        "count": 8
+      },
+      {
+        "year": 2018,
+        "count": 13
+      },
+      {
+        "year": 2019,
+        "count": 5
+      },
+      {
+        "year": 2020,
+        "count": 18
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 4
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 1
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "20V088000",
+        "component": "ELECTRICAL SYSTEM",
+        "summary": "Kia Motors America (Kia) is recalling certain 2006-2010 Sedona and 2007-2009 Sorento vehicles.  Moisture may enter the Anti-lock Brake (ABS) Module and result in an electrical short.",
+        "report_date": "14/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V473000",
+        "component": "AIR BAGS:FRONTAL:SENSOR/CONTROL MODULE-INACTIVE",
+        "summary": "KIA IS RECALLING CERTAIN MODEL YEAR 2007-2008 SORENTO PASSENGER CARS MANUFACTURED FROM JUNE 15, 2006 THROUGH NOVEMBER 27, 2007.  THE FRONT PASSENGER AIR BAG MAY BE TURNED OFF WHEN AN ADULT IS IN THE PASSENGER SEAT.  THE FRONT PASSENGER AIR BAG IS DESIGNED TO BE TURNED OFF IN LIMITED CIRCUMSTANCES IN",
+        "report_date": "07/09/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V114000",
+        "component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+        "summary": "Kia Motors Corporation (Kia) is recalling certain model year 2007-2010 Rondo, model year 2007-2011 Sedona, Sorento and Sportage, model year 2010-2011 Soul, model year 2008-2011 Optima, model year 2010 Forte, model year 2007-2009 Amanti, and model year 2009 Borrego vehicles.  Originally, in April 201",
+        "report_date": "01/04/2013",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:47:20.603Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

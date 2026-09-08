@@ -1,0 +1,112 @@
+{
+  "slug": "2022-toyota-camry",
+  "year": 2022,
+  "make": "Toyota",
+  "model": "Camry",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 59,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 10,
+        "share_pct": 16.9,
+        "excerpts": [
+          "Undone: Been fraudulently mislead and charged by Toyota Dealership: Rudy Luther and Collision Center for SRS airbag and intentionally violated safety regulations and adherence towards critical procedu",
+          "Airbag Breaks",
+          "The contact owns a 2022 Toyota Camry. The contact stated that upon starting the vehicle, the message \"SRS Air Bag Malfunction detected\" was displayed. The air bag warning light was illuminated. The ve"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 8,
+        "share_pct": 13.6,
+        "excerpts": [
+          "vehicle has engine maintenance required. took it to a shop and got code p268115 which states there is a recall for the coolant valve bypass for 2022 Camrys, but for some reason my specific VIN number ",
+          "I turned into a restaurant’s parking lot, found a spot and slowly drove into the lot, I eased off the gas pedal and gently applying the brake as the lot has a slight downward slope. When I reach the c",
+          "The menu display for stereo does not work.  There is a recall on the 12.5 inch display which a representative from Toyota stated it could cause the menu options and stereo not to work, but when I took"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 7,
+        "share_pct": 11.9,
+        "excerpts": [
+          "the pedal sinks while I hold it for while.....and there are no visible leaks outside the car",
+          "I turned into a restaurant’s parking lot, found a spot and slowly drove into the lot, I eased off the gas pedal and gently applying the brake as the lot has a slight downward slope. When I reach the c",
+          "Airbag Breaks"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 7,
+        "share_pct": 11.9,
+        "excerpts": [
+          "I was driving close to a vehicle and brake sensor came on when I got too close. I was braking before sensor initiated and after the sensor appeared my brakes no longer were stiff and I heard rattling ",
+          "The contact owns a 2022 Toyota Camry. The contact stated that while driving in inclement weather at approximately 15 MPH, the vehicle collided with another vehicle and impacted the front passenger sid",
+          "the car started hesitating when accelerating.  The vehicle started to lose power and all the lights came on.  Check Engine, Pre-collision warning system malfunction, Vehicle stability control system m"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 6,
+        "share_pct": 10.2,
+        "excerpts": [
+          "Transmission Shutter/ hard shifting/ and whining",
+          "The contact owns a 2022 Toyota Camry. The contact stated while driving at an undisclosed speed,  she notices that the vehicle grinds it's gears very loud while in transition, hesitate to accelerate an",
+          "I heard a noise thought it was my brakes, my mechanic said it was a transmission. Now it stalls when take off and at lower speeds very loud"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 12,
+      "fires": 1,
+      "injuries": 9,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 10
+      },
+      {
+        "year": 2023,
+        "count": 16
+      },
+      {
+        "year": 2024,
+        "count": 6
+      },
+      {
+        "year": 2025,
+        "count": 14
+      },
+      {
+        "year": 2026,
+        "count": 11
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "23V865000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020-2021 Avalon, Avalon Hybrid, Corolla, Highlander, Highlander Hybrid, RAV4, RAV4 Hybrid, Lexus ES350, Lexus RX350, Lexus RX450H, 2021 Sienna Hybrid, Lexus ES250, 2020-2022 Camry, Camry Hybrid, and ES300H vehicles.  A short cir",
+        "report_date": "20/12/2023",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:07:35.109Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

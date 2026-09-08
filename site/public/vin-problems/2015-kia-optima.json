@@ -1,0 +1,168 @@
+{
+  "slug": "2015-kia-optima",
+  "year": 2015,
+  "make": "Kia",
+  "model": "Optima",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1007,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 621,
+        "share_pct": 61.7,
+        "excerpts": [
+          "My 2015 KIA optima experienced a catastrophic engine fire while I was driving. There was no warning, I just heard a boom in the engine bay the breaks stopped working and all electrical cut out. As I'm",
+          "The engine in my vehicle failed while putting the car into reverse to back into my garage. I thank God I wasn't on the road when this happened. I took the car into a mechanic who confirmed that the en",
+          "This is a formal vehicle safety complaint regarding a manufacturer's active refusal to remedy a known safety defect under an active recall campaign guidelines.My 2015 Kia Optima Turbo experienced an a"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 135,
+        "share_pct": 13.4,
+        "excerpts": [
+          "The contact owns a 2015 Kia Optima. The contact stated that while driving at an undisclosed speed, the brake pedal was depressed; however, the rear taillight socket wiring harness failed to function a",
+          "I would say that the time this incident happened I was driving and me and me nephew were in car at time taking to shop to see why it was making a sound like air  and all of sudden the car started swer",
+          "1. What component or system failed or malfunctioned, and is it available for inspection upon request? The primary failure involved the engine. The vehicle experienced a major engine failure that resul"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 89,
+        "share_pct": 8.8,
+        "excerpts": [
+          "I would say that the time this incident happened I was driving and me and me nephew were in car at time taking to shop to see why it was making a sound like air  and all of sudden the car started swer",
+          "The contact owns a 2015 Kia Optima. The contact received notification of NHTSA Campaign Number: 21V331000 (Service Brakes, Hydraulic); however, the part to do the recall repair was unavailable. The co",
+          "The contact owns a 2015 Kia Optima. The contact stated that while driving at an undisclosed speed, the brake pedal became inoperable. The contact stated that while attempting to depress the brake peda"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 76,
+        "share_pct": 7.5,
+        "excerpts": [
+          "My 2015 white Kia Optima is having terrible paint peeling problems. It is peeling and chipping on the hood, along the sides of the windshield, above the wind shield, on my back bumper, above my back t",
+          "Factory paint defect/delamination known to Kia causing excessive paint bubbling, peeling, flaking, large chunks of paint falling off, a widespread issue documented inherent to appear on the roof, fron",
+          "Snow white pearl paint bubbling, peeling, and chipping in multiple areas of my vehicle"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 69,
+        "share_pct": 6.9,
+        "excerpts": [
+          "This is a formal vehicle safety complaint regarding a manufacturer's active refusal to remedy a known safety defect under an active recall campaign guidelines.My 2015 Kia Optima Turbo experienced an a",
+          "Driving down the road and my steering wheel light comes on sporadically and then I lose control of the steering wheel like it locks up and is almost impossible to turn or rotate and then other dashboa",
+          "Yesterday, [XXX], My 2015 kia optima engines reved up wothout me pushing the gas & within seconds later a loud noise and metal fell from under the hood. After pulling over, popping the hood on the pas"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 31,
+      "fires": 74,
+      "injuries": 23,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 2
+      },
+      {
+        "year": 2014,
+        "count": 6
+      },
+      {
+        "year": 2015,
+        "count": 17
+      },
+      {
+        "year": 2016,
+        "count": 36
+      },
+      {
+        "year": 2017,
+        "count": 41
+      },
+      {
+        "year": 2018,
+        "count": 73
+      },
+      {
+        "year": 2019,
+        "count": 109
+      },
+      {
+        "year": 2020,
+        "count": 93
+      },
+      {
+        "year": 2021,
+        "count": 105
+      },
+      {
+        "year": 2022,
+        "count": 144
+      },
+      {
+        "year": 2023,
+        "count": 151
+      },
+      {
+        "year": 2024,
+        "count": 104
+      },
+      {
+        "year": 2025,
+        "count": 94
+      },
+      {
+        "year": 2026,
+        "count": 32
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "18V907000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2011-2017 Optima, 2012-2017 Sorento and 2011-2018 Sportage vehicles that previously received an engine replacement under recall number 17V-224, warranty, or the Knock Sensor Detection System (KSDS) Product Improvement Campaign.  The high pressure fuel pi",
+        "report_date": "19/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V519000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2013-2015 Optima and 2014-2015 Sorento vehicles.  Brake fluid may leak inside the Hydraulic Electronic Control Unit (HECU), possibly resulting in an electrical short.",
+        "report_date": "27/08/2020",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "21V331000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia Motors America (Kia) is recalling certain 2013-2015 Optima and 2014-2015 Sorento vehicles previously recalled under recall 20V-519.  Brake fluid may leak inside the Hydraulic Electronic Control Unit (HECU), possibly resulting in an electrical short.",
+        "report_date": "10/05/2021",
+        "park_it": false,
+        "park_outside": true
+      },
+      {
+        "campaign_number": "23V652000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:CONTROL UNIT/MODULE",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2010-2019 Borrego, 2014-2016 Cadenza, 2010-2013 Forte, Forte Koup, Sportage, 2015-2018 K900, 2011-2015 Optima, 2011-2013 Optima Hybrid, Soul, 2012-2017 Rio, 2011-2014 Sorento, and 2010-2011 Rondo vehicles.  The Hydraulic Electronic Control Unit (HECU) may",
+        "report_date": "25/09/2023",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:59:11.838Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

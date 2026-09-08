@@ -1,0 +1,152 @@
+{
+  "slug": "2019-dodge-charger",
+  "year": 2019,
+  "make": "Dodge",
+  "model": "Charger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 120,
+    "top_failure_components": [
+      {
+        "component": "AIR BAGS",
+        "complaints": 49,
+        "share_pct": 40.8,
+        "excerpts": [
+          "Here in AZ we had some strong monsoon storms and during one last week, my car was shaken from the winds and rains so bad that my driver side curtain airbag was visible. It did not fully deploy but the",
+          "I brought my vehicle in for a recall to replace the airbags and headliner. When I received my car back from the dealership (Union City Chrysler Dodge Jeep Ram), the vehicle was returned with a broken ",
+          "Had an airbag recall and dealer tried to fix it and now airbag light is on. This is a safety issue to drive car like this"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 22,
+        "share_pct": 18.3,
+        "excerpts": [
+          "I was traveling 58 mph on hwy 270 in Malvern Arkansas.  The power steering turned off, the emergency brake engaged  and flashed, and the ABS shut off. I replaced the steering sensor with an original m",
+          "Vehicle: Dodge Charger GT Recall: SABIC Side Airbag Inflator Replacement Dealer: ourisman chrysler dodge jeep ram of clarksville, maryland Date of Recall Repair: feb 27, 2026  Complaint Description: A",
+          "Cluster info not working as it should"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 13,
+        "share_pct": 10.8,
+        "excerpts": [
+          "The contact owns a 2019 Dodge Charger. The contact stated that while driving at an undisclosed speed, the headlights failed to function as intended. The headlights failed to activate as intended. The ",
+          "Cluster info not working as it should",
+          "The contact owns a 2019 Dodge Charger. The contact stated that the driver's side headlight persistently failed to operate as needed, and the headlight bulb was replaced several times. The contact stat"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 12,
+        "share_pct": 10,
+        "excerpts": [
+          "Vehicle was sold by Westgate Crysler Jeep Dodge Ram of Raleigh with missing caliper bolt in front passenger brake system.  This was detected by an independent service center while getting brake pads a",
+          "Brake system  Seatbelt came out of latch   Approaching a red light and stopped traffic, applied brakes and no response. Ended up rear ending another vehicle. Resulting in injury to driver of malfuncti",
+          "The contact owns a 2019 Dodge Charger. The contact stated the automatic braking system had been engaging inadvertently while driving with the brake warning light illuminated. The vehicle was taken to "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 10,
+        "share_pct": 8.3,
+        "excerpts": [
+          "On January 6, 2025, Countryside CDJR in Georgia performed internal engine repairs on my 2019 Dodge Charger R/T, including lifter and internal engine work. Only months later, the engine suffered a cata",
+          "Vehicle purchased new, maintained per the owners manual and radiator requires replaced due to manufacturers defect.",
+          "The 2019 Dodge Charger, a police vehicle, was enroute to a crash scene when it caught fire.  The fire appears to have originated in the engine compartment near the fire wall."
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 7,
+      "fires": 3,
+      "injuries": 11,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 14
+      },
+      {
+        "year": 2020,
+        "count": 18
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 8
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 39
+      },
+      {
+        "year": 2025,
+        "count": 16
+      },
+      {
+        "year": 2026,
+        "count": 3
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "20V512000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018-2020 Dodge Charger Pursuit vehicles equipped with a \"stealth mode.\"  When stealth mode is selected, the backup camera rearview image will not display when the vehicle is in reverse.  As such, these vehicles fail to comply with the requirements of Feder",
+        "report_date": "27/08/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V203000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Dodge Challenger and Charger and Chrysler 300 vehicles.  The instrument cluster may not properly illuminate driver warnings.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 101, \"Con",
+        "report_date": "14/03/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V758000",
+        "component": "SERVICE BRAKES",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Dodge Challenger and Charger vehicles.  An incompatible front wheel and brake package was installed and may allow the front tire to contact the steering knuckle, causing tire damage.",
+        "report_date": "24/10/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "19V246000",
+        "component": "AIR BAGS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2019 Dodge Charger vehicles.  The driver and passenger sun visors may lack the required air bag warning information.  As such, these vehicles fail to comply with Federal Motor Vehicle Safety Standard (FMVSS) number 208, \"Occupant Crash Protection.\"",
+        "report_date": "28/03/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V198000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN:INFLATOR",
+        "summary": "Chrysler (FCA US, LLC) (Stellantis) is recalling certain 2018-2021 Dodge Charger and Chrysler 300 vehicles.  The right and left side curtain air bag inflators may rupture due to a manufacturing defect.",
+        "report_date": "14/03/2024",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:54.832Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

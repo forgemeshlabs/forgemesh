@@ -1,0 +1,116 @@
+{
+  "slug": "2021-chevrolet-colorado",
+  "year": 2021,
+  "make": "Chevrolet",
+  "model": "Colorado",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 74,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 18,
+        "share_pct": 24.3,
+        "excerpts": [
+          "Brake boost vacuum pump failure. While approaching a traffic light that was red, I applied the brakes. The pedal was very hard to press and required me using both feet to bring the vehicle to a stop. ",
+          "Iba sobre el freeway a 60 millas y de la nada el freno se puso duro no respondían me pasé a los carril de la orilla y fui metiendo freno de mano poco a poco bendito Dios me puse a salvo! La agencia me",
+          "The contact owns a 2021 Chevrolet Colorado. The contact stated that while driving approximately 75 MPH, the engine revved without the accelerator pedal being depressed. The contact stated that while t"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 18,
+        "share_pct": 24.3,
+        "excerpts": [
+          "The contact owns a 2021 Chevrolet Colorado. The contact stated that while driving approximately 75 MPH, the engine revved without the accelerator pedal being depressed. The contact stated that while t",
+          "Brake vacum pump experienced a catastrophic failure. I was unable to step on the break because the break pedal was hard. I ran thru a red light. I was told the brake vacume pump shattered & pieces of ",
+          "While driving on the parkway, the engine revved, and then the brakes became hard as a brick. The truck was unable to be stopped. There were no warning lamps or indications there was a problem, it happ"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 11,
+        "share_pct": 14.9,
+        "excerpts": [
+          "My 2021 Chevy Colorado experienced a distinct bucking and shuddering sensation under slow acceleration at lower RPMs, specifically when shifting between 2nd and 3rd gear. There were no dashboard warni",
+          "While driving on the parkway, the engine revved, and then the brakes became hard as a brick. The truck was unable to be stopped. There were no warning lamps or indications there was a problem, it happ",
+          "Brake vacuum pump appeared to fail creating brake system malfunction. Appears determined by mechanics to have seized and caused damage to cam shaft. Driver’s safety issue caused when trying to brake v"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 11,
+        "share_pct": 14.9,
+        "excerpts": [
+          "Brake vacum pump experienced a catastrophic failure. I was unable to step on the break because the break pedal was hard. I ran thru a red light. I was told the brake vacume pump shattered & pieces of ",
+          "I am reporting a serious safety defect involving my 2021 Chevrolet vehicle. While driving, multiple warnings appeared including “Service Power Steering,” “Steering Assist is Reduced,” “Service ESC,” a",
+          "The engine coolant temperature gauge is stuck at approximately 160•F. Cooling fans are running at high speed constantly. The thermostat is stuck in the open position. The vehicle is less than 100,000 "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 10,
+        "share_pct": 13.5,
+        "excerpts": [
+          "I am reporting a serious safety defect involving my 2021 Chevrolet vehicle. While driving, multiple warnings appeared including “Service Power Steering,” “Steering Assist is Reduced,” “Service ESC,” a",
+          "The contact owns a 2021 Chevrolet Colorado. The contact stated that while attempting to make a right turn from a traffic light, the vehicle lost power steering functionality, and the steering wheel be",
+          "Starting my 2021 Chevy Colorado Zr2 in the morning and noticed the \"service power steering, drive with care message. 40,000 miles. No power steering. This would clear after leaving vehicle sit and res"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 6,
+      "fires": 1,
+      "injuries": 4,
+      "deaths": 2
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2020,
+        "count": 6
+      },
+      {
+        "year": 2021,
+        "count": 7
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 13
+      },
+      {
+        "year": 2024,
+        "count": 16
+      },
+      {
+        "year": 2025,
+        "count": 16
+      },
+      {
+        "year": 2026,
+        "count": 15
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "20V811000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020 Chevrolet Bolt EV and 2021 GMC Canyon and Sierra 1500, 2500 and 3500, Yukon, Yukon XL, Cadillac Escalade and Escalade ESV and Chevrolet Blazer, Camaro, Colorado, Equinox, Silverado 1500, 2500 and 3500, Suburban and Tahoe vehicles.  Incorrect bolts m",
+        "report_date": "23/12/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:07:30.980Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

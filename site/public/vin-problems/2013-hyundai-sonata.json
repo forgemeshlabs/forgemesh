@@ -1,0 +1,220 @@
+{
+  "slug": "2013-hyundai-sonata",
+  "year": 2013,
+  "make": "Hyundai",
+  "model": "Sonata",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1903,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 731,
+        "share_pct": 38.4,
+        "excerpts": [
+          "I was on [XXX] . I was going 70 mph and then my car just instantly stopped accelerating. The check engine started flashing and I pulled to the side. There was a knocking noise and I just stopped. I ca",
+          "MY ENGINE WAS DECREASING IN SPEED AND SHUTTING OFF IF I BRAKE TO SLOW DOWN ON MAJOR EXRESSWAYS AND LOCAL ROADS.  I WAS ADVISE BY MY DEALERSHIP MECHANIC SHOP THAT MY ENGINE HAD A RECALL AND NEED TO HAV",
+          "Excessive oil consumption. I lose 3 qt of oil every 1200 miles. I have had the required maintenance on the car and still having excessive oil consumption."
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 341,
+        "share_pct": 17.9,
+        "excerpts": [
+          "My 2013 Hyundai Sonata (VIN [XXX]) suffered a driver's airbag clock spring failure, completely disabling the primary restraint safety system. ABS light was on, the horn and all other electronics on th",
+          ".  The horn on steering wheel only works when steering wheel is turned completely right, and it is available for inspection upon request. .  My safety and others put at risk, when needing to use horn ",
+          "Experienced sudden unintended acceleration causing my car to speed up, lose control, and crash into the vehicle in front of me."
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 259,
+        "share_pct": 13.6,
+        "excerpts": [
+          "The contact owns a 2013 Hyundai Sonata. The contact stated that while driving at 60 MPH, the airbag warning light illuminated, and the horn failed to engage as intended. Additionally, the vehicle fail",
+          "Odometer Fraud. The contact purchased a 2013 Hyundai Sonata on February 26, 2026. The vehicle was purchased as a dealer sale.  The contact stated at the time of purchase, the odometer was recorded at ",
+          "Odometer Fraud. The contact purchased a 2013 Hyundai Sonata. It was discovered that there was a mileage discrepancy. The vehicle was a dealer sale. At the time of purchase, the vehicle mileage was 180"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 197,
+        "share_pct": 10.4,
+        "excerpts": [
+          "Wiring for headlights, and break lights has been malfunctioning. It is not a fuse and i have tried changing them to the point  i keep extra in my trunk and still won't work. yes, available for  inspec",
+          "I bought this car before less than 3 months when. When I was drive the car on [XXX]  the car just stop stopped no power without any warning when the car stop I just came from home. It’s far it’s like ",
+          "I bought the car before less than 3 months the car was good but before 10 days when I was driving it on highway , suddenly the car stopped without any light warnings I was In dangerous situations hard"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 149,
+        "share_pct": 7.8,
+        "excerpts": [
+          "My 2013 Hyundai Sonata (VIN [XXX]) suffered a driver's airbag clock spring failure, completely disabling the primary restraint safety system. ABS light was on, the horn and all other electronics on th",
+          "To Whom It May Concern:  I am submitting this complaint to report ongoing safety concerns involving my 2013 Hyundai Sonata.  I purchased this vehicle in 2022 through financing and paid it off in 2025.",
+          "I was driving in the evening on 2/7/26.  The red brake light came on in the dash and seconds later the car went into limp mode.  An alarm went off indicating that the hybrid system was not functioning"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 93,
+      "fires": 97,
+      "injuries": 77,
+      "deaths": 1
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 37
+      },
+      {
+        "year": 2013,
+        "count": 81
+      },
+      {
+        "year": 2014,
+        "count": 62
+      },
+      {
+        "year": 2015,
+        "count": 67
+      },
+      {
+        "year": 2016,
+        "count": 109
+      },
+      {
+        "year": 2017,
+        "count": 199
+      },
+      {
+        "year": 2018,
+        "count": 216
+      },
+      {
+        "year": 2019,
+        "count": 255
+      },
+      {
+        "year": 2020,
+        "count": 210
+      },
+      {
+        "year": 2021,
+        "count": 163
+      },
+      {
+        "year": 2022,
+        "count": 181
+      },
+      {
+        "year": 2023,
+        "count": 123
+      },
+      {
+        "year": 2024,
+        "count": 73
+      },
+      {
+        "year": 2025,
+        "count": 85
+      },
+      {
+        "year": 2026,
+        "count": 40
+      }
+    ]
+  },
+  "recalls": {
+    "count": 9,
+    "recalls": [
+      {
+        "campaign_number": "18V934000",
+        "component": "ENGINE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2014 Sonata and 2013-2014 Santa Fe Sport vehicles previously repaired under recall numbers 15V-568 and 17V-226.  The high pressure fuel pipe that connects to the fuel pump outlet  may have been damaged, misaligned, or improperly torqued durin",
+        "report_date": "28/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V617000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2014 Sonata and 2011-2015 Sonata Hybrid vehicles previously repaired under recall campaign 17V-152.  The seat belt linkages for both front seat belts may detach from the seat belt anchor pretensioners.",
+        "report_date": "04/10/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V226000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2013-2014 Sonata and Santa Fe Sport vehicles.  Machining errors during the engine manufacturing process may cause premature bearing wear within the engine.",
+        "report_date": "31/03/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V137000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2013 Sonata and 2011-2012 Sonata Hybrid vehicles.\r\n\r\nOn February 27, 2018, Hyundai Motor Company (Hyundai) notified NHTSA that they were recalling 154,753 model year 2011 Sonata vehicles.  On April 18, 2018, Hyundai expanded the recall to inc",
+        "report_date": "27/02/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "17V152000",
+        "component": "SEAT BELTS:FRONT:ANCHORAGE",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2011-2014 Sonata and 2011-2015 Sonata Hybrid vehicles.  In the affected vehicles, the seat belt linkages for both front seat belts may detach from the seat belt anchor pretensioners.",
+        "report_date": "08/03/2017",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V434000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Hyundai Motor Company (Hyundai) is recalling certain model year 2011-2014 Sonata vehicles manufactured December 11, 2009, through May 29, 2014.  In the affected vehicles, the transmission shift cable may detach from from the shift lever pin.",
+        "report_date": "18/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V352000",
+        "component": "AIR BAGS:SIDE/WINDOW",
+        "summary": "Hyundai is recalling certain model year 2012-2013 Hyundai Sonata passenger cars, manufactured from January 24, 2012, through June 21, 2012.  The curtain side airbags on these vehicles may inflate without deployment command due to an error during manufacturing.",
+        "report_date": "24/07/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V121000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2013-2014 Sonata vehicles.  The low pressure fuel hose that connects the low pressure fuel pump to the direct injection fuel pump may crack over time due to heat generated within the engine compartment.",
+        "report_date": "28/02/2020",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V312000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Hyundai Motor America (Hyundai) is recalling certain 2013-2014 Sonata vehicles.  The low pressure fuel hose that connects the low pressure fuel pump to the direct injection fuel pump may crack over time, due to heat generated within the engine compartment.",
+        "report_date": "06/05/2022",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:56:45.958Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

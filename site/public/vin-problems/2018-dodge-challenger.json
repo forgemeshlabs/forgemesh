@@ -1,0 +1,148 @@
+{
+  "slug": "2018-dodge-challenger",
+  "year": 2018,
+  "make": "Dodge",
+  "model": "Challenger",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 75,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 28,
+        "share_pct": 37.3,
+        "excerpts": [
+          "The Uconnect HMI/touchscreen in my 2018 Dodge Challenger has visibly delaminated and developed severe phantom touch inputs. When powered on, the screen registers commands without any physical contact.",
+          "The contact owns a 2018 Dodge Challenger. The contact stated that while driving at various speeds, the left turn signal light failed to function as intended. The turn signal light on the instrument pa",
+          "My trouble is with my 2018 Dodge Challenger.  The UConnect system is delaminating and the entire system is malfunctioning.  I have taken the vehicle to my local Dodge dealer and showed them the issue,"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 8,
+        "share_pct": 10.7,
+        "excerpts": [
+          "Driving along and all of a sudden the shifter lights started flashing, wipers turned on, steering became difficult, and finally the transmission locked up. Stalled in the middle of the hiway turn lane",
+          "ON JUNE 5, 2021 VEHICLE STALLED AT STOPLIGHT ON RAMP AFTER EXITING HIGHWAY. CAR HAD POWER BUT WOULD NOT START, GEARS COULD NOT CHANGE TO PUT IN NEUTRAL TO MOVE VEHICLE. NO WARNING LIGHTS, SO SYMPTOMS ",
+          "IN MOTION 40MPH ON SURFACE STREETS THE CAR MADE A BIG BANG THEN FOLLOWING SUPER LOAD CHATTERING AND VIBRATION FEEL FROM THE TRANSMISSION DUE TO THE CLUTCH COMPLETELY BREAKING APART NOT ALLOWING TO THE"
+        ]
+      },
+      {
+        "component": "WHEELS",
+        "complaints": 6,
+        "share_pct": 8,
+        "excerpts": [
+          "The contact owns a 2018 Dodge Challenger. The contact stated that the rims on the wheels of the vehicle were poorly designed and there were several cracks on the rims. The vehicle was taken to an inde",
+          "2018 DODGE CHALLENGER. CONSUMER WRITES IN REGARD TO UNDERCARRIAGE DAMAGE AND RIGHT AND LEFT FRONT RIM DAMAGE.",
+          "TL* THE CONTACT'S SON OWNS A 2018 DODGE CHALLENGER. THE CONTACT STATED WHILE DRIVING AT AN UNKNOWN SPEED, THE DRIVER'S SIDE WHEEL DETACHED FROM THE VEHICLE. THE VEHICLE WAS TOWED TO THE RESIDENCE. THE"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 6,
+        "share_pct": 8,
+        "excerpts": [
+          "Backing out of the garage, instrument panel lit up with “Power Steering Assist Off - Service System” message. Car very difficult to turn now.   Code scan shows code CC2217-00",
+          "ANY TIME THERE IS A FRONT END COLLISION,  THE STEERING COLUMN INTERMEDIATE SHAFT MUST BE REPLACED WHEN REPAIRING. THAT WAS NOT THE CASE HERE BECAUSE EVERY TIME I DRIVE NOW,  MY PEDALS ARE BINDING ON M",
+          "I WAS IN THE CITY OF OLD SAN JUAN, IN MOTION DRIVING DOWN A TWO LANE STREET. I WAS IN A STRAIGHT WAY I HAD BEEN PRESSING THE BRAKE DOWN TO 55 MILES APPROACHING A A SLIGHT CURVE ( NOT EVEN HARD, THE CU"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 5,
+        "share_pct": 6.7,
+        "excerpts": [
+          "I got the car on 4/13/2025  from a Toyota dealership with about 31000 miles they told me the car fax showed the car had 2 owners a regular customer and another dealership, they also told me they chang",
+          "Since the day of delivery, the 2018 Dodge Challenger I purchased from Carvana has been non-operational due to a dead battery and significant engine problems. Despite multiple attempts to start the veh",
+          "The car is a 5.7 6 speed Dodge Challenger, when driving the car will not idle down when you take your foot off the gas pedal, this happens during shifts where the idle stays up and keeps the car movin"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 2,
+      "injuries": 8,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 16
+      },
+      {
+        "year": 2019,
+        "count": 12
+      },
+      {
+        "year": 2020,
+        "count": 8
+      },
+      {
+        "year": 2021,
+        "count": 10
+      },
+      {
+        "year": 2022,
+        "count": 13
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 9
+      },
+      {
+        "year": 2025,
+        "count": 4
+      },
+      {
+        "year": 2026,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "18E053000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Chrysler (FCA US LLC) is recalling certain Mopar Stage 1 Kit Performance Packages Powertrain Control Modules (PCM) Part Numbers P5160023, P5160025, and Demon Crate PCM Part Number 68412287AA.  The PCMs are being recalled to address a defect that could prevent the cruise control system from disengagi",
+        "report_date": "12/07/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V280000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Dodge Charger, Durango and Challenger, Jeep Grand Cherokee and Wrangler, Chrysler 300, and RAM 1500 vehicles.  An incorrect transmission park lock rod may have been installed in the transmission.",
+        "report_date": "01/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler",
+        "report_date": "17/05/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "18V524000",
+        "component": "ELECTRICAL SYSTEM:WIRING:FRONT UNDERHOOD",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Jeep Renegade, Compass and Grand Cherokee, RAM 1500 and Promaster, Fiat 500x, Dodge Journey, Challenger, Charger and Durango and Chrysler 300x vehicles, 2017-2018 Jeep Wrangler, Dodge Grand Caravan and Chrysler Town and Country vehicles and 2018-2019 J",
+        "report_date": "09/08/2018",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:02:50.584Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

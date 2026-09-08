@@ -1,0 +1,144 @@
+{
+  "slug": "2021-honda-accord",
+  "year": 2021,
+  "make": "Honda",
+  "model": "Accord",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 226,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 59,
+        "share_pct": 26.1,
+        "excerpts": [
+          "Dash lights on for Brake system malfunction. Emergency parking brake light on as well as TPS system. Lights around Park, Neutral and drive not illuminated. Battery and alternator are in good standing.",
+          "All of my services lights are on in th dashboard.",
+          "SUBJECT: A REQUEST FOR HONDA CORPORATE INVESTIGATION AND GOODWILL ASSISTANCE - 2021 HONDA ACCORD  I am submitting a formal complaint regarding serious and recurring electrical and safety-related probl"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 58,
+        "share_pct": 25.7,
+        "excerpts": [
+          "On July 4th 2026, I was leaving from a restaurant that evening and within 5-10 seconds of me turning my car on, all of the lights on my dashboard turned on. I was slightly confused because there were ",
+          "The contact owns a 2021 Honda Accord. The contact stated that while driving at various speeds, the brakes would suddenly apply, stopping the vehicle immediately. The failure had become more persistent",
+          "Infotainment Center:  I am submitting this complaint regarding my 2021 Honda Accord Sport and the ongoing issues I’ve experienced with its infotainment system. This problem has been persistent, unpred"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 35,
+        "share_pct": 15.5,
+        "excerpts": [
+          "All of my services lights are on in th dashboard.",
+          "SUBJECT: A REQUEST FOR HONDA CORPORATE INVESTIGATION AND GOODWILL ASSISTANCE - 2021 HONDA ACCORD  I am submitting a formal complaint regarding serious and recurring electrical and safety-related probl",
+          "My car currently has displayed all lights on panel.  Went to auto zone to have codes read, shows powertrain-description is code PO299 suggests turbocharger assembly.  Safety is put at risk because all"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 30,
+        "share_pct": 13.3,
+        "excerpts": [
+          "Dash lights on for Brake system malfunction. Emergency parking brake light on as well as TPS system. Lights around Park, Neutral and drive not illuminated. Battery and alternator are in good standing.",
+          "All of my services lights are on in th dashboard.",
+          "SUBJECT: A REQUEST FOR HONDA CORPORATE INVESTIGATION AND GOODWILL ASSISTANCE - 2021 HONDA ACCORD  I am submitting a formal complaint regarding serious and recurring electrical and safety-related probl"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 14,
+        "share_pct": 6.2,
+        "excerpts": [
+          "I have 2 issues and not sure if they are related  1.SRS system light came on and says see dealership. This one happened about 2 weeks ago. 2. While driving today all the lights on my dash came on incl",
+          "The contact owns a 2021 Honda Accord. The contact received notification of NHTSA Campaign Number: 24V064000 (Air Bags); however, the part to do the recall repair was unavailable. The contact stated th",
+          "The contact owns a 2021 Honda Accord. The contact received notification of NHTSA Campaign Number: 24V064000 (Air Bags); however, the part to do the recall repair was not yet available. The local deale"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 14,
+      "fires": 1,
+      "injuries": 8,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2021,
+        "count": 20
+      },
+      {
+        "year": 2022,
+        "count": 28
+      },
+      {
+        "year": 2023,
+        "count": 30
+      },
+      {
+        "year": 2024,
+        "count": 31
+      },
+      {
+        "year": 2025,
+        "count": 64
+      },
+      {
+        "year": 2026,
+        "count": 51
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "21V900000",
+        "component": "SEAT BELTS:REAR/OTHER:RETRACTOR",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2021 Accord Sedan, Accord Hybrid, CR-V, Ridgeline, 2022 Insight and CR-V Hybrid vehicles.  The automatic locking retractor on the second-row center seat belt assembly may deactivate improperly, which can result in an unsecured child restraint sys",
+        "report_date": "18/11/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "24V064000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020-2022 Pilot, Accord, Civic sedan, HR-V, Odyssey, 2020 Civic coupe, Fit, 2021-2022 Civic hatchback, 2021 Civic Type R, Insight, 2020-2021 CR-V, CR-V Hybrid, Passport, Ridgeline, Accord Hybrid, 2020 Acura MDX, 2022 Acura MDX, 2020-2022 Acura RD",
+        "report_date": "01/02/2024",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 Honda Clarity PHEV, F",
+        "report_date": "18/12/2023",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-V Hybrid, 2017-2022 ",
+        "report_date": "21/05/2026",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:05:28.977Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

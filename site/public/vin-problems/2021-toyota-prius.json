@@ -1,0 +1,87 @@
+{
+  "slug": "2021-toyota-prius",
+  "year": 2021,
+  "make": "Toyota",
+  "model": "Prius",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 6,
+    "top_failure_components": [
+      {
+        "component": "FUEL/PROPULSION SYSTEM",
+        "complaints": 2,
+        "share_pct": 33.3,
+        "excerpts": [
+          "When i am going down it's charging when the charge reaches 6 from 8 the engine starts working and stop changing at that point and the power continues comes from engine only without the hybrid battery ",
+          "CARBON MONOXIDE SEEPS INTO THE PASSENGER CAR BUT DILLER CANNOT FIND IT AND DID NOT HAVE TOOLS TO DETECT CO LEVEL IN THE CAR. I CAN'T USE THIS CAR BECAUSE WAS POISONED MANY TIMES AND AFTER A SECOND CHE"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 2,
+        "share_pct": 33.3,
+        "excerpts": [
+          "The car accelerated without my foot on the accelerator, brake did not respond, and I had to drive through grass and a rock-filled ditch until after about 10 seconds the car returned to my control.",
+          "CARBON MONOXIDE SEEPS INTO THE PASSENGER CAR BUT DILLER CANNOT FIND IT AND DID NOT HAVE TOOLS TO DETECT CO LEVEL IN THE CAR. I CAN'T USE THIS CAR BECAUSE WAS POISONED MANY TIMES AND AFTER A SECOND CHE"
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 1,
+        "share_pct": 16.7,
+        "excerpts": [
+          "The contact owns a 2021 Toyota Prius. The contact stated while driving approximately 35 - 45 MPH, the vehicle independently accelerated. The brake pedal was depressed but failed to stop the vehicle im"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 1,
+        "share_pct": 16.7,
+        "excerpts": [
+          "The Lane keeping assist used in radar cruise control mode during some drive cycles will attempt to maintain the vehicle position to the far extreme of the lane and in some cases actively veer out of t"
+        ]
+      },
+      {
+        "component": "LANE DEPARTURE",
+        "complaints": 1,
+        "share_pct": 16.7,
+        "excerpts": [
+          "The Lane keeping assist used in radar cruise control mode during some drive cycles will attempt to maintain the vehicle position to the far extreme of the lane and in some cases actively veer out of t"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 0,
+      "injuries": 0,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2021,
+        "count": 2
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T20:06:55.773Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

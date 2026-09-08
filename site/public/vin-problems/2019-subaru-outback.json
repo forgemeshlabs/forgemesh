@@ -1,0 +1,140 @@
+{
+  "slug": "2019-subaru-outback",
+  "year": 2019,
+  "make": "Subaru",
+  "model": "Outback",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1033,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 363,
+        "share_pct": 35.1,
+        "excerpts": [
+          "The Starlink infotainment touchscreen in my 2019 Subaru Outback Touring has progressively failed. Visible bubbles have formed under the glass, consistent with screen delamination. The screen registers",
+          "Vehicle battery continues to drain. Since I have owned the vehicle, it has had 4 batteries. It has had 2 batteries within the last year and half. Installed another battery a 2 weeks ago, vehicle was c",
+          "The contact owns a 2019 Subaru Outback. The contact stated that while driving at an undisclosed speed, the touch screen on the radio failed to properly operate. The screen was delaminated, causing uni"
+        ]
+      },
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 326,
+        "share_pct": 31.6,
+        "excerpts": [
+          "Windshield window crack without any reason couple month ago and it keep crack bigger",
+          "I have experienced two separate incidents of spontaneous windshield cracking on my 2019 Subaru Outback, with no external impact or road debris involved.  The first windshield crack occurred, and Subar",
+          "On April 14, 2025, I experienced my fourth windshield break- others- 2 that were 3 months apart in 2023 and another in 2024. I do not know how this most recent crack occurred as I noticed it when I we"
+        ]
+      },
+      {
+        "component": "VISIBILITY",
+        "complaints": 63,
+        "share_pct": 6.1,
+        "excerpts": [
+          "The contact owns a 2019 Subaru Outback. The contact stated that while driving at 70 MPH the front windshield cracked approximately 6 inches from the heat sensor, no warning lights were illuminated. Th",
+          "The contact owns a 2019 Subaru Outback. The contact stated while driving at undisclosed speeds, the front windshield cracked without impact during colder temperatures. The local dealer was not contact",
+          "The contact owns a 2019 Subaru Outback. The contact stated that while operating the vehicle, the display screen malfunctioned and flashed off and on. During the failure, the back-up camera became inop"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 39,
+        "share_pct": 3.8,
+        "excerpts": [
+          "I am reaching out regarding the cam carrier leak on my 2019 Subaru Outback. After researching this issue, I discovered that cam carrier leaks are extremely common among Subaru vehicles equipped with t",
+          "Front exhaust pipe bellows cracked, allowing exhaust gases including carbon monoxide to enter the passenger cabin. This is the same defect Subaru acknowledged in Service Program WUJ-95R (2015-2016 mod",
+          "The Tumble Generator Valve (TGV) assembly within the intake manifold failed on my 2019 Subaru Outback at only 48,000 miles causing catastrophic engine failure. This is a critical engine component that"
+        ]
+      },
+      {
+        "component": "FORWARD COLLISION AVOIDANCE",
+        "complaints": 36,
+        "share_pct": 3.5,
+        "excerpts": [
+          "While turning left from left turn lane, eyesight failed to detect oncoming traffic resulting in right front side impact. No warning, no braking action. This is an advertised safety system supposedly d",
+          "I was driving my 2019 Subaru Outback  North on [XXX]  just North of Alanson, Michigan on [XXX] when it applied the brakes and made a noise similar to driving on the rumble strip. There were no vehicle",
+          "Parasitic drain cause by the CAN system, which causes the battery to randomly die, batter has been replaced, alternator and starter have been tested. When the battery has low voltage this also shuts d"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 24,
+      "fires": 2,
+      "injuries": 18,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2018,
+        "count": 15
+      },
+      {
+        "year": 2019,
+        "count": 183
+      },
+      {
+        "year": 2020,
+        "count": 214
+      },
+      {
+        "year": 2021,
+        "count": 188
+      },
+      {
+        "year": 2022,
+        "count": 156
+      },
+      {
+        "year": 2023,
+        "count": 131
+      },
+      {
+        "year": 2024,
+        "count": 92
+      },
+      {
+        "year": 2025,
+        "count": 43
+      },
+      {
+        "year": 2026,
+        "count": 11
+      }
+    ]
+  },
+  "recalls": {
+    "count": 3,
+    "recalls": [
+      {
+        "campaign_number": "19V493000",
+        "component": "STRUCTURE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2019 Legacy and Outback vehicles.  Spot welds located on the duct below the cowl panel may have been improperly applied, impacting the vehicle's body strength.",
+        "report_date": "26/06/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "21V587000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2019-2020 Ascent, 2018 Forester, 2018-2020 Impreza, Legacy, Outback, 2018-2019 BRZ, WRX, and Toyota 86 vehicles.  The low-pressure fuel pump inside the fuel tank may fail.",
+        "report_date": "29/07/2021",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "20V218000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2019 Impreza, Outback, Legacy, and Ascent vehicles.  The low pressure fuel pump may become inoperative.",
+        "report_date": "16/04/2020",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:03:31.699Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

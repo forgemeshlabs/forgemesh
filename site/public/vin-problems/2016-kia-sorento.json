@@ -1,0 +1,204 @@
+{
+  "slug": "2016-kia-sorento",
+  "year": 2016,
+  "make": "Kia",
+  "model": "Sorento",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 1246,
+    "top_failure_components": [
+      {
+        "component": "ENGINE",
+        "complaints": 692,
+        "share_pct": 55.5,
+        "excerpts": [
+          "On or about XXX, my KIA Sorento LX FWD Auto 2.4-liter engine with an approximate mileage of 36,000, began having drivability problems, none of which occurred before that date. On XXX the vehicle was s",
+          "I went in a few months ago for a routine oil change. My car has had zero operating issues since I had the engine replaced around 5 years ago. They told me that I need to have a voluntary emissions upd",
+          "While I was driving, my 3.3 V6 engine on my 2016 Kia Sorento seized up with no warning.  There is no visible oil on the dip stick, although I have changed my oil routinely. There has never been visibl"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 122,
+        "share_pct": 9.8,
+        "excerpts": [
+          "I have a 2016 kia sorento  I was having a problem with the shifter it would not go into park and had to use the shift override button I contacted the dealer there was an active recall  they refused to",
+          "I recently took my 2016 Kia Sorento L to the Kia dealership for the Emissions update recall. The next day when I started it up and put it in drive, it started jerking hard when I was trying to speed u",
+          "I took my 2016 Kia Sorento to the dealership for an emissions service update as a result of a service bulliten (SC340)  After recieving the car back, the transmission acts unpredictably and the thrott"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 110,
+        "share_pct": 8.8,
+        "excerpts": [
+          "THE PAINT ISCOMING OFF AND DON'T STICK TO THE VEHICLE.  I NEED KIA TO PAINT THIS CAR ASAP",
+          "See attached document for complaint.",
+          "Vehicle: 2016 Kia Sorento EX VIN: [XXX] Current Mileage: Approximately 67,000 Component: Paint/Body (Exterior Finish)  My 2016 Kia Sorento (Snow White Pearl / Pearl White) has developed premature, mul"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 106,
+        "share_pct": 8.5,
+        "excerpts": [
+          "(Transmission and motor) I had taken my car to the dealership on XXX for recalls and all the signal were fine before going there. They took my car back to do the recalls and my son and I waited . Once",
+          "Fire at the rear bumper of car",
+          "To Whom It May Concern,  I am submitting a formal safety complaint regarding my Kia Sorento and a recurring brake light failure that poses a serious risk to my safety and the safety of my children.  A"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 80,
+        "share_pct": 6.4,
+        "excerpts": [
+          "Car completely stalled while on the freeway with no warning, no engine lights, nothing….luckily we were going downhill and were able to pull over to the side safely. Still owe 6k to the finance compan",
+          "My 2016 Kia Sorento was stolen because it wasn’t updated and also the engine caught fire because it wasn’t updated",
+          "3 to 4 months ago my truck steering wheel light with an exclamation point will appear and my steering wheel will lock up and it is hard to steer unless I cut the truck off and back on, it is so danger"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 29,
+      "fires": 49,
+      "injuries": 19,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1969,
+        "count": 1
+      },
+      {
+        "year": 2002,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "year": 2015,
+        "count": 22
+      },
+      {
+        "year": 2016,
+        "count": 32
+      },
+      {
+        "year": 2017,
+        "count": 44
+      },
+      {
+        "year": 2018,
+        "count": 60
+      },
+      {
+        "year": 2019,
+        "count": 86
+      },
+      {
+        "year": 2020,
+        "count": 97
+      },
+      {
+        "year": 2021,
+        "count": 145
+      },
+      {
+        "year": 2022,
+        "count": 234
+      },
+      {
+        "year": 2023,
+        "count": 222
+      },
+      {
+        "year": 2024,
+        "count": 162
+      },
+      {
+        "year": 2025,
+        "count": 96
+      },
+      {
+        "year": 2026,
+        "count": 43
+      }
+    ]
+  },
+  "recalls": {
+    "count": 8,
+    "recalls": [
+      {
+        "campaign_number": "18V907000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS",
+        "summary": "Kia Motors America (Kia) is recalling certain 2011-2017 Optima, 2012-2017 Sorento and 2011-2018 Sportage vehicles that previously received an engine replacement under recall number 17V-224, warranty, or the Knock Sensor Detection System (KSDS) Product Improvement Campaign.  The high pressure fuel pi",
+        "report_date": "19/12/2018",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V446000",
+        "component": "SEAT BELTS:FRONT:BUCKLE ASSEMBLY",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2016 Kia Sorento vehicles manufactured October 23, 2014, to December 10, 2014.  The affected vehicles have a front passenger seat belt whose buckle latch assembly may prevent the front passenger from fastening the seat belt.",
+        "report_date": "14/07/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V770000",
+        "component": "SEATS",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2016 Kia Sorento vehicles manufactured March 3, 2016 to March 21, 2016.  The driver's seatback frame may have been produced with inadequate weld joints and, as a result, the seatback may not function as designed in the event of a rear-end coll",
+        "report_date": "24/10/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V862000",
+        "component": "TRAILER HITCHES",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2016-2017 Sorento vehicles manufactured October 27, 2014, to August 25, 2016, and 2017 Sportage vehicles manufactured December 10, 2015, to August 26, 2016.  The affected vehicles are equipped with an accessory trailer hitch wiring harness tha",
+        "report_date": "30/11/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "16V480000",
+        "component": "SUSPENSION:REAR",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2016 Sorento vehicles.  A component of the rear suspension may not be properly welded.",
+        "report_date": "29/06/2016",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V089000",
+        "component": "VEHICLE SPEED CONTROL:ACCELERATOR PEDAL",
+        "summary": "Kia Motors America (Kia) is recalling certain model year 2016 Sorento vehicles manufactured October 27, 2014, to January 29, 2015.  Due to an improperly soldered component in the accelerator pedal assembly, the driver may not be able to accelerate the vehicle.",
+        "report_date": "13/02/2015",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V612000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:LEVER AND LINKAGE:COLUMN SHIFT",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2016 Sedona and Sorento vehicles.  The vehicles may have been manufactured with faulty automatic transmission shift lever assembly components, preventing the shift lever from locking, which can allow the vehicle to rollaway.",
+        "report_date": "10/08/2022",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "22V703000",
+        "component": "TRAILER HITCHES",
+        "summary": "Kia America, Inc. (Kia) is recalling certain 2016-2022 Sorento, 2021-2022 Sorento Hybrid (HEV), 2022-2023 Sorento Plug-In Hybrid (PHEV), and 2017-2022 Sportage vehicles equipped with a tow hitch harness installed as original equipment, or purchased as an accessory through a Kia dealership.  Debris a",
+        "report_date": "19/09/2022",
+        "park_it": false,
+        "park_outside": true
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:00:19.479Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

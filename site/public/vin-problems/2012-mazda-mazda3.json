@@ -1,0 +1,148 @@
+{
+  "slug": "2012-mazda-mazda3",
+  "year": 2012,
+  "make": "Mazda",
+  "model": "Mazda3",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 226,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 40,
+        "share_pct": 17.7,
+        "excerpts": [
+          "Car started jerking and on the way home, the car lost all power to the transmission.  The check engine light came on as well as the AT and traction lights. Absolutely no power to the transmission. cod",
+          "The car started to stall, hesitate and even stop completely for no apparent reason.  The mechanic first recommended a new ECU/TCU which did not help the problem and in the course of duplicating the pr",
+          "The contact owns a 2012 Mazda Mazda3. The contact stated while driving 70 MPH, the vehicle inadvertently downshifted from 5th gear to 3rd gear with several unknown warning lights illuminated. The vehi"
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 32,
+        "share_pct": 14.2,
+        "excerpts": [
+          "MOTOR CYLINDER #1 LOW COMPRESSION TOOK IT TO MAZDA THEY COULDNT FIGURE IT OUT AND LESS THAN 20 MILES AFTER THE MOTOR THREW A ROD AT 70,001 MILES TOTAL. CYLINDER 1 WALLS WHERE NOT MADE CORRECTLY",
+          "WHEN I DRIVE DOWN THE ROAD.MY CAR SPEEDS UP AND I DON'T PRESS ON THE EXCILERATOR ANY HARDER. THE CARS IDOL GOES UP AND DOWN WHEN DRIVING AND AT PARK. THIS HAPPENS ON ALL TYPES OF ROAD WAYS.  SOMETIMES",
+          "TL* THE CONTACT OWNS A 2012 MAZDA 3. WHILE DRIVING AT AN UNSPECIFIED SPEED, THE CHECK ENGINE INDICATOR ILLUMINATED. THE VEHICLE WAS TAKEN TO JENKINS MAZDA OF OCALA ([phone], LOCATED AT 1740 SW COLLEGE"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 31,
+        "share_pct": 13.7,
+        "excerpts": [
+          "2012 Mazda3i 5dr hatchback. Persistent issue with headlights, both low beam and high beam, as well as interior lighting and other lighting. The headlights flicker for several seconds any time the brak",
+          "[XXX]  covers a safety oriented problem with my car. Jim Ellis Mazda in Marietta refuses to work on my car because it is more than 10 years old. This is a proprietary issue since it deals with the com",
+          "When driving at night with exterior lights on, when brake and or gas pedal is pressed the exterior lights strobe/flashes. The Mazda dealership has been contacted about this issue and there is a techni"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 25,
+        "share_pct": 11.1,
+        "excerpts": [
+          "2012 Mazda3i 5dr hatchback. Persistent issue with headlights, both low beam and high beam, as well as interior lighting and other lighting. The headlights flicker for several seconds any time the brak",
+          "Headlight flickering and turns off and on randomly.",
+          "The contact owned a 2012 Mazda Mazda3. The contact stated that while the vehicle was parked, the contact woke up to the fire department extinguishing a fire in the vehicle. The fire department stated "
+        ]
+      },
+      {
+        "component": "VEHICLE SPEED CONTROL",
+        "complaints": 20,
+        "share_pct": 8.8,
+        "excerpts": [
+          "I APPLIED THE BRAKES, AND THE CAR KEPT MOVING FORWARD EVEN THOUGH I WAS PRESSING THE BRAKE PEDAL.  I PULLED THE EMERGENCY BRAKE BUT THAT DIDN'T STOP THE CAR FROM MOVING FORWARD AND HITTING THE BACK OF",
+          "I PURCHASED MY 2012 MAZDA 3 ONE YEAR AGO (2017).  I FIRST NOTICED THE ISSUE ABOUT A MONTH AFTER OWNING MY CAR.  I TURNED ON MY AIR CONDITIONER AT FIRST LOW, THEN ALL THE WAY UP, IT FELT SLIGHTLY COOL,",
+          "DRIVING AT 70MPH, LOST ACCELERATION AND MULTIPLE ENGINE LIGHTS CAME ON.  HAD TO MOVE OVER TO EMERGENCY LANE ON INTERSTATE AND DRIVING TO NEAREST EXIT AT APPROX 40MPH.  CAR TOWED TO DEALER FOR REPAIR. "
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 9,
+      "fires": 1,
+      "injuries": 5,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 3
+      },
+      {
+        "year": 2012,
+        "count": 20
+      },
+      {
+        "year": 2013,
+        "count": 21
+      },
+      {
+        "year": 2014,
+        "count": 30
+      },
+      {
+        "year": 2015,
+        "count": 13
+      },
+      {
+        "year": 2016,
+        "count": 18
+      },
+      {
+        "year": 2017,
+        "count": 28
+      },
+      {
+        "year": 2018,
+        "count": 19
+      },
+      {
+        "year": 2019,
+        "count": 21
+      },
+      {
+        "year": 2020,
+        "count": 11
+      },
+      {
+        "year": 2021,
+        "count": 13
+      },
+      {
+        "year": 2022,
+        "count": 7
+      },
+      {
+        "year": 2023,
+        "count": 10
+      },
+      {
+        "year": 2024,
+        "count": 7
+      },
+      {
+        "year": 2025,
+        "count": 5
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "16V644000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "Mazda North American Operations (Mazda) is recalling certain model year 2010-2013 Mazda3 and Mazdaspeed3 vehicles manufactured November 18, 2008, to June 8, 2013, 2012-2015 Mazda5 vehicles manufactured October 26, 2010, to June 22, 2015, 2016 CX-3 vehicles manufactured June 1, 2015, to December 26, ",
+        "report_date": "06/09/2016",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:56:03.682Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

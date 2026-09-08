@@ -1,0 +1,204 @@
+{
+  "slug": "2008-honda-odyssey",
+  "year": 2008,
+  "make": "Honda",
+  "model": "Odyssey",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 499,
+    "top_failure_components": [
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 166,
+        "share_pct": 33.3,
+        "excerpts": [
+          "The contact owns a 2008 Honda Odyssey. The contact stated that while driving at various speeds, a grinding noise was present coming from the front brakes. The vehicle was taken to the local dealer who",
+          "01-017 BRAKE PETAL SOFT GOES ALMOST TO THE FLOOR WHILE DRIVING.",
+          "DANGEROUS BRAKING DUE TO SOFT BRAKE PEDAL; RELATIVE TO NHTSA CAMPAIGN NUMBER 10V098000. THIS RECALL HAS BEEN PREVIOUSLY ADDRESSED ON THIS VEHICLE, HOWEVER, THE PROBLEM PERSISTS. INCREASED STOPPING DIS"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 123,
+        "share_pct": 24.6,
+        "excerpts": [
+          "The passenger side door of my 2008 Honda Odyssey fell off when attempting to close it and nearly fell onto my child. The automatic sliding door was closing and around halfway closed it fell off of the",
+          "My doors wasn't latching or shutting all the way. The power doors and windows wouldn't work sometimes. Then the back sliding door fell off. Engaged the automatic door and damaged the side of the van. ",
+          "The contact owns a 2008 Honda Odyssey. The contact stated that when opening the rear driving sliding door, the door detached. The door ended up falling to the ground onto the contact's foot causing pe"
+        ]
+      },
+      {
+        "component": "HYDRAULIC",
+        "complaints": 88,
+        "share_pct": 17.6,
+        "excerpts": [
+          "WHILE DRIVING WITH FOOT ON THE GAS THE VEHICLE FELT AS IF I WAS PUMPING THE BRAKES BUT I WAS NOT TOUCHING THE BRAKES. IT WAS SLOWING.  I THEN HEARD A RATTLING NOISE SO I TURNED OFF THE RADIO AND OPENE",
+          "TL* THE CONTACT OWNS A 2008 HONDA ODYSSEY. THE CONTACT STATED THAT THE BRAKE PEDAL FELT SOFT AND MADE A GRINDING NOISE WHEN THE BRAKES WERE DEPRESSED. THE VEHICLE WAS TAKEN TO THE DEALER SEVERAL TIMES",
+          "TL* THE CONTACT OWNS A 2008 HONDA ODYSSEY. THE CONTACT STATED THAT THE BRAKE PEDAL WAS DEPRESSED ABNORMALLY INTO THE FLOORBOARD WHEN THE BRAKES WERE APPLIED. IN ORDER TO STOP THE VEHICLE, THE CONTACT "
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 41,
+        "share_pct": 8.2,
+        "excerpts": [
+          "ISSUE WITH POWER STEERING RACK AND PINION LEAK. AS PART OF POWER TRAIN, THE RACK AND PINION LEAK CREATES SAFETY ISSUE WHILE DRIVING.  TURNING EFFECTS DRIVING AND PINGS, KNOCKS ARE HEARD @ 52,000 MILES",
+          "VEHICLE AFFECTED IS A 2008 HONDA ODYSSEY. WHILE DRIVING VARIOUS SPEEDS, THE ABS WOULD ERRONEOUSLY ACTIVATE AND CAUSED THE VEHICLE TO SUDDENLY DECELERATE. DURING THE FAILURE, THE VEHICLE STABILITY CONT",
+          "TAKATA RECALL . ON THE HIGHWAY I NOTICED A BURNING SMELL WITH NO OTHER INDICATION THAT ANYTHING WAS WRONG. THEN CHECK ENGINE LIGHT AND REVING OF ENGINE AND SHIFTING ISSUES."
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 40,
+        "share_pct": 8,
+        "excerpts": [
+          "I believe that I was sold a car with an unsafe engine. I bought the van from Libertyville Honda in Libertyville on [XXX]. The car had 107K miles on it. A liile over a mounth later the check engine lig",
+          "The engine malfunctioned, and the car is available for inspection upon request? My safety was put at risk because the car was backfiring in traffic due to the spark plugs filling up with oil. I report",
+          "Incident #1: 1/18/2024, 102k miles. Engine surged to 2k  while braking coming to a light. Close to hitting stopped car. Shifted to neutral rpm speed up to 4k. Incident #2: 1/31/2025: 107k miles. Slowi"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 37,
+      "fires": 8,
+      "injuries": 44,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1901,
+        "count": 2
+      },
+      {
+        "year": 2007,
+        "count": 2
+      },
+      {
+        "year": 2008,
+        "count": 50
+      },
+      {
+        "year": 2009,
+        "count": 55
+      },
+      {
+        "year": 2010,
+        "count": 52
+      },
+      {
+        "year": 2011,
+        "count": 44
+      },
+      {
+        "year": 2012,
+        "count": 52
+      },
+      {
+        "year": 2013,
+        "count": 59
+      },
+      {
+        "year": 2014,
+        "count": 45
+      },
+      {
+        "year": 2015,
+        "count": 24
+      },
+      {
+        "year": 2016,
+        "count": 27
+      },
+      {
+        "year": 2017,
+        "count": 19
+      },
+      {
+        "year": 2018,
+        "count": 26
+      },
+      {
+        "year": 2019,
+        "count": 20
+      },
+      {
+        "year": 2020,
+        "count": 7
+      },
+      {
+        "year": 2021,
+        "count": 4
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 1
+      },
+      {
+        "year": 2024,
+        "count": 5
+      },
+      {
+        "year": 2025,
+        "count": 1
+      },
+      {
+        "year": 2026,
+        "count": 2
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "14E049000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Delphi Automotive Systems, LLC (Delphi) is recalling certain replacement fuel pump modules, part number FG1155-11B1, sold for use in 2005-2010 Honda Odyssey vehicles.  The affected fuel pump may send an incorrect fuel reading to the fuel gauge possibly causing the vehicle to run out of fuel.  The fu",
+        "report_date": "28/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V112000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "American Honda Motor Co., Inc. (Honda) is recalling certain 2005-2010 Honda Odyssey vehicles manufactured June 23, 2004, through September 4, 2010.  In the affected vehicles, the fuel pump strainer cover may deteriorate allowing fuel to leak out.",
+        "report_date": "14/03/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V062000",
+        "component": "STRUCTURE:BODY:HATCHBACK/LIFTGATE",
+        "summary": "HONDA IS RECALLING CERTAIN MODEL YEAR 2008-2009 ODYSSEY VEHICLES, THE GAS-FILLED STRUTS THAT HELP TO RAISE AND SUPPORT THE LIFTGATE OF VEHICLES EQUIPPED WITH A POWER LIFTGATE SYSTEM MAY BE PRONE TO EARLY LIFE FAILURES DUE TO A MANUFACTURING FLAW.  THE FLAW CAN RESULT IN A LEAK OF THE PRESSURIZED GAS",
+        "report_date": "16/02/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "13V500000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "American Honda Motor Company (Honda) is recalling certain model year 2007-2008 Honda Odyssey vehicles manufactured August 8, 2006, through September 8, 2008.  Due to a combination of system components and software, the Vehicle Safety Assist System (VSA) may apply the brakes unexpectedly.",
+        "report_date": "01/11/2013",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V098000",
+        "component": "SERVICE BRAKES, AIR",
+        "summary": "HONDA HAS NOTIFIED NHTSA OF A DEFECT IN CERTAIN MODEL YEAR 2007 AND 2008 ODYSSEY AND ELEMENT PASSENGER VEHICLES MANUFACTURED BETWEEN JULY 28, 2006 AND AUGUST 21, 2008.  AIR CAN ENTER THE VSA MODULAR PUMP DURING AN INITIAL SELF-CHECK PROCESS THAT OCCURS SHORTLY AFTER EACH TIME THE ENGINE IS STARTED. ",
+        "report_date": "16/03/2010",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:47:39.124Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

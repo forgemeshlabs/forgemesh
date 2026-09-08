@@ -1,0 +1,188 @@
+{
+  "slug": "2011-chevrolet-malibu",
+  "year": 2011,
+  "make": "Chevrolet",
+  "model": "Malibu",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 977,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 235,
+        "share_pct": 24.1,
+        "excerpts": [
+          "Power steering assist motor is out and it was under recall in 2011 but it was out of the recall window but it has less than 150000 miles",
+          "There was a fire in the trunk on the way to work. Fire department was called to inspect the car and make sure that the fire was out. Fire melted fuse box located in the trunk along with wiring harness",
+          "The contact owns a 2011 Chevrolet Malibu. The contact stated that while operating the vehicle, the ESC and traction control warning lights remained illuminated. Additionally, while the cruise control "
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 213,
+        "share_pct": 21.8,
+        "excerpts": [
+          "Power steering assist motor is out and it was under recall in 2011 but it was out of the recall window but it has less than 150000 miles",
+          "Everytime I turn on my car, I get a warning for ESC power steering and I have no power steering. Usually it will fix itself have shutting it off once and starting it again immediately. There has been ",
+          "I am reporting a serious safety issue involving my 2011 Chevrolet Malibu LS related to the electronic stability control (ESC), traction control, and electric power steering systems.  My vehicle is cur"
+        ]
+      },
+      {
+        "component": "ELECTRONIC STABILITY CONTROL (ESC)",
+        "complaints": 174,
+        "share_pct": 17.8,
+        "excerpts": [
+          "The contact owns a 2011 Chevrolet Malibu. The contact stated while driving at an undisclosed speed, the power steering failed to function as intended. The Electronic Stability Control warning light il",
+          "The contact owns a 2011 Chevrolet Malibu. The contact stated while driving approximately 45 MPH, the vehicle lost power steering functionality, and the steering wheel became significantly difficult to",
+          "The contact owns a 2011 Chevrolet Malibu. The vehicle was previously serviced under NHTSA Campaign Number: 14V252000 (Electrical System, Exterior Lighting, Vehicle Speed Control, Electronic Stability "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 160,
+        "share_pct": 16.4,
+        "excerpts": [
+          "Car started to loose power and wanted to cut off had to drive with both feet put in the shop a few times but couldn't find any wrong finally stopped driving it and then I started back to driving it an",
+          "- Reduced engine power, appears on the dashboard. The motor begins to shake, slow down excessively if I'm driving on the highway, and needs to be shut off to reset the computer. Yes, this is available",
+          "My car stopped running at 78,500 miles. I had it diagnosed twice and I was told the engine needs to be replaced. Even though I bought the vehicle (brand new) in 2010, how can the engine be bad because"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 130,
+        "share_pct": 13.3,
+        "excerpts": [
+          "There was a fire in the trunk on the way to work. Fire department was called to inspect the car and make sure that the fire was out. Fire melted fuse box located in the trunk along with wiring harness",
+          "The contact owns a 2011 Chevrolet Malibu. The contact stated that while operating the vehicle, the ESC and traction control warning lights remained illuminated. Additionally, while the cruise control ",
+          "The contact owns a 2011 Chevrolet Malibu. The contact stated that while the vehicle was parked under a carport in her driveway, she had been warned by neighbors that the rear end of the vehicle was on"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 40,
+      "fires": 17,
+      "injuries": 41,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 1918,
+        "count": 1
+      },
+      {
+        "year": 1996,
+        "count": 1
+      },
+      {
+        "year": 2010,
+        "count": 5
+      },
+      {
+        "year": 2011,
+        "count": 23
+      },
+      {
+        "year": 2012,
+        "count": 20
+      },
+      {
+        "year": 2013,
+        "count": 47
+      },
+      {
+        "year": 2014,
+        "count": 128
+      },
+      {
+        "year": 2015,
+        "count": 148
+      },
+      {
+        "year": 2016,
+        "count": 100
+      },
+      {
+        "year": 2017,
+        "count": 80
+      },
+      {
+        "year": 2018,
+        "count": 119
+      },
+      {
+        "year": 2019,
+        "count": 124
+      },
+      {
+        "year": 2020,
+        "count": 59
+      },
+      {
+        "year": 2021,
+        "count": 32
+      },
+      {
+        "year": 2022,
+        "count": 27
+      },
+      {
+        "year": 2023,
+        "count": 19
+      },
+      {
+        "year": 2024,
+        "count": 20
+      },
+      {
+        "year": 2025,
+        "count": 17
+      },
+      {
+        "year": 2026,
+        "count": 7
+      }
+    ]
+  },
+  "recalls": {
+    "count": 4,
+    "recalls": [
+      {
+        "campaign_number": "19V019000",
+        "component": "AIR BAGS:FRONTAL:DRIVER SIDE:INFLATOR MODULE",
+        "summary": "General Motors LLC (GM) is recalling certain 2010-2011 Chevrolet Malibu vehicles.  In the event of a crash necessitating deployment of the driver frontal air bag, the air bag inflator may explode due to being overpressurized.",
+        "report_date": "16/01/2019",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14V252000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2004-2012 Chevrolet Malibu vehicles manufactured May 16, 2003, through October 11, 2012, 2004-2007 Malibu Maxx vehicles manufactured June 25, 2003, through April 5, 2007, 2005-2010 Pontiac G6 vehicles manufactured May 26, 2004, through January ",
+        "report_date": "14/05/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "14E044000",
+        "component": "STEERING",
+        "summary": "Dorman Products, Inc. (Dorman) is recalling certain replacement intermediate steering shafts sold under the Dorman, OE Solutions, and Solutions brand names, part numbers 425-167, 2425167, and 7-3074, for installation on 2004-2012 Chevrolet Malibu, 2005-2010 Pontiac G6, and 2007-2009 Saturn Aura vehi",
+        "report_date": "21/07/2014",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "15V269000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors LLC (GM) is recalling certain model year 2011-2012 Chevrolet Malibu vehicles manufactured April 8, 2010, to October 11, 2012.  In the affected vehicles, the flexible steel cables that connect the seat belts to the vehicle at the outside of the driver seat and the front passenger seat ",
+        "report_date": "08/05/2015",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:54:02.298Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

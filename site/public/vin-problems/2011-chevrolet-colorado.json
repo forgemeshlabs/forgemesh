@@ -1,0 +1,176 @@
+{
+  "slug": "2011-chevrolet-colorado",
+  "year": 2011,
+  "make": "Chevrolet",
+  "model": "Colorado",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 42,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 14,
+        "share_pct": 33.3,
+        "excerpts": [
+          "The vehicle has an electronic issue where it does not recognize the original key to the car. It does not let you start the vehicle. There is a bad sensor in the ignition lock housing unit located wher",
+          "THE VEHICLE WILL INTERMITTENTLY NOT START.  SOMETIMES THERE'S POWER BUT WON'T  CRANK.  SOMETIMES THERE IS NO POWER TO THE VEHICLE AT ALL. IT HAS BEEN TO NUMEROUS MECHANICS,  INCLUDING THE DEALER,  AND",
+          "I THINK THEY NEED CHECK FOR RECALLS ON IGNITION SWITCH FOR 2011 CHEVROLET COLORADO AND 2006-2008 HUMMER"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 10,
+        "share_pct": 23.8,
+        "excerpts": [
+          "The drivers-side airbag indicator light remains on. The light warns that the airbag is not working. This is the third time it has happened, first at 89,000 miles, then at 111,000 miles, and now at 133",
+          "2011 CHEVY COLORADO. CONSUMER STATES THAT AIRBAGS DID NOT DEPLOY DURING AUTOMOBILE ACCIDENT. *LD *JS",
+          "TL* THE CONTACT OWNS A 2011 CHEVROLET COLORADO. WHILE DRIVING, THE AIR BAG INDICATOR REMAINED ILLUMINATED. THE FAILURE RECURRED TWICE. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE DRIVER SIDE REAR DO"
+        ]
+      },
+      {
+        "component": "EXTERIOR LIGHTING",
+        "complaints": 4,
+        "share_pct": 9.5,
+        "excerpts": [
+          "TL* THE CONTACT OWNS A 2011 CHEVROLET COLORADO. WHILE THE VEHICLE WAS PARKED, THE CONTACT NOTICED THAT BOTH REAR TAIL LIGHTS HAD SLIGHTLY DETACHED BECAUSE THE SUPPORT BRACKETS WERE FRACTURED. THE VEHI",
+          "FAILURE OF BRAKE LIGHT SWITCH. THIS IS THE SECOND FAILURE. THIS SWITCH WAS REPLACED ON 05/02/2013.  THESE FAILURES COULD CAUSE A REAR END CRASH DUE TO NO BRAKE LIGHTS.  *TR",
+          "TL* THE CONTACT OWNS A 2011 CHEVROLET COLORADO. WHEN THE CONTACT DEPRESSED THE BRAKE PEDAL, THE BRAKE LIGHTS FAILED TO ILLUMINATE. THE FAILURE WAS NOT DIAGNOSED NOR WAS THE VEHICLE REPAIRED. THE MANUF"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 3,
+        "share_pct": 7.1,
+        "excerpts": [
+          "Brake lights will not come on. There is no fuse and lights are new. Many people have reported this as a problem. Has something to do with some switch that the dealer must replace. I have driver nearly",
+          "VEHICLE HAS BEEN THROUGH 4 BRAKE CONTROL MODULES, THREE OF WERE BURNT OUT BY THE DEALER INSTALLING THE SOFTWARE. MY CASE IS NOT ISOLATED AS MANY MANY CHEVY OWNERS ARE EXPERIENCING THE SAME ISSUE. THE ",
+          "NO PREVIOUS ISSUES WITH THE AIRBAG BUT AFTER AN OIL CHANGE IT HAS COME ON AND WILL HAVE TO REPLACE WIRING. UNSAFE AND WILL BE A COSTLY FIX FOR SOMETHING THAT SHOULD NOT HAVE OCCURRED DUE TO USAGE OF T"
+        ]
+      },
+      {
+        "component": "SEAT BELTS",
+        "complaints": 3,
+        "share_pct": 7.1,
+        "excerpts": [
+          "VEHICLE WAS PARKED, DRIVER HAD JUST SAT DOWN AND CLOSED THE DOOR. A LOUD BANG WAS HEARD FROM THE DRIVER'S SIDE AND THE SMELL OF GUNPOWDER FILLED THE CAB. DRIVER STEPPED OUT AND OPENED THE REAR DOOR WH",
+          "WHEN I STARTED MY TRUCK THE RED AIR BAG WARNING LIGHT WAS ON STEADY. I WENT TO FIND OUT WHY THE AIR BAG LIGHT WAS ON IT WAS FOR THE SEAT BELT PRE-TENSIONER.  IT WAS IN A FAULT SITUATION.  IT WAS GIVIN",
+          "MY VEHICLE'S ELECTRONIC SAFETY SYSTEM BEGAN TO REPORT THAT THE DRIVER'S SIDE SEATBELT WAS NOT LATCHED, EVEN THOUGH IT WAS.  I TOOK IT IN FOR DIAGNOSIS & REPAIR AT MY LOCAL GM DEALER (BOB HOOK CHEVROLE"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 4,
+      "fires": 0,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 1
+      },
+      {
+        "year": 2012,
+        "count": 4
+      },
+      {
+        "year": 2013,
+        "count": 3
+      },
+      {
+        "year": 2014,
+        "count": 10
+      },
+      {
+        "year": 2015,
+        "count": 2
+      },
+      {
+        "year": 2016,
+        "count": 2
+      },
+      {
+        "year": 2017,
+        "count": 3
+      },
+      {
+        "year": 2018,
+        "count": 4
+      },
+      {
+        "year": 2019,
+        "count": 5
+      },
+      {
+        "year": 2020,
+        "count": 2
+      },
+      {
+        "year": 2021,
+        "count": 3
+      },
+      {
+        "year": 2022,
+        "count": 1
+      },
+      {
+        "year": 2023,
+        "count": 1
+      },
+      {
+        "year": 2025,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 5,
+    "recalls": [
+      {
+        "campaign_number": "11V276000",
+        "component": "VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR",
+        "summary": "GENERAL MOTORS IS RECALLING CERTAIN MODEL YEAR 2011 CHEVROLET COLORADO AND GMC CANYON VEHICLES MANUFACTURED FROM SEPTEMBER 22, 2010, THROUGH NOVEMBER 5, 2010.  SOME OF THESE VEHICLES HAVE THE CONDITION IN WHICH THE WINDSHIELD WIPER MOTOR CRANK ARM NUT MAY NOT BE TIGHTENED TO SPECIFICATION.  WHEN THE",
+        "report_date": "06/05/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "12V594000",
+        "component": "LATCHES/LOCKS/LINKAGES:HOOD:LATCH",
+        "summary": "General Motors is recalling certain model year 2010-2012 Chevrolet Colorado and GMC Canyon vehicles manufactured from November 9, 2009, through August 28, 2012, for failing to comply with the requirements of Federal Motor Vehicle Safety Standard No. 113, \"Hood Latch System.\"   The hood may be missin",
+        "report_date": "19/12/2012",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V337000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "GENERAL MOTORS IS RECALLING CERTAIN MODEL YEAR 2011 CHEVROLET COLORADO AND GMC CANYON PASSENGER VEHICLES EQUIPPED WITH A 2.9 OR 3.7 LITER ENGINE AND A FOUR-SPEED AUTOMATIC TRANSMISSION FOR FAILING TO CONFORM TO THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD NO 102, \"TRANSMISSION SHIFT LEV",
+        "report_date": "28/06/2011",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "10V575000",
+        "component": "CHILD SEAT",
+        "summary": "GM IS RECALLING CERTAIN MODEL YEAR 2004-2011, CHEVROLET COLORADO, GMC CANYON, MODEL YEAR 2006, ISUZU I-280/I-350, AND MODEL YEAR 2007-2008, I-290/I-370, REGULAR CAB VEHICLES AND EXTENDED CAB VEHICLES WITHOUT A REAR SEAT AND EQUIPPED WITH A FRONT 60/40 SPLIT BENCH SEAT.  THESE VEHICLES FAIL TO COMPLY",
+        "report_date": "18/11/2010",
+        "park_it": false,
+        "park_outside": false
+      },
+      {
+        "campaign_number": "11V007000",
+        "component": "SUSPENSION:REAR:AXLE:SPINDLE",
+        "summary": "GENERAL MOTORS IS RECALLING CERTAIN MODEL YEAR 2011 CADILLAC ESCALADE, ESCALADE ESV, ESCALADE EXT; CHEVROLET AVALANCHE, COLORADO, EXPRESS, SILVERADO, SUBURBAN, TAHOE; AND GMC CANYON, SIERRA, SAVANA, YUKON AND YUKON XL VEHICLES.   THE REAR AXLE CROSS PINS WERE NOT PROPERLY HEAT TREATED AND COULD FRAC",
+        "report_date": "06/01/2011",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T19:55:36.644Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

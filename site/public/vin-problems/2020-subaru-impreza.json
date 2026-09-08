@@ -1,0 +1,120 @@
+{
+  "slug": "2020-subaru-impreza",
+  "year": 2020,
+  "make": "Subaru",
+  "model": "Impreza",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 85,
+    "top_failure_components": [
+      {
+        "component": "VISIBILITY/WIPER",
+        "complaints": 52,
+        "share_pct": 61.2,
+        "excerpts": [
+          "For the second year in a row my windshield has cracked. Nothing hit it, or happened to make it crack. Both cracks were long and coming from the bottom of the windshield under the passenger wiper blade",
+          "I HAVE NOW HAD 4 WINDSHIELDS CRACK AND BREAK AND NEED TO BE REPLACED. IT SEEMS LIKE EVERY TIME ONE LITTLE ROCK HITS THE WINDSHIELD BOOM ANOTHER FULL REPLACEMENT IS NEEDED. EVERY TIME I GO FOR A ROAD T",
+          "While car was parked. Front windshield developed crack in the lower mid section of windshield. There was no damage to windshield that would have resulted in cracking. Crack has since spread."
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 5,
+        "share_pct": 5.9,
+        "excerpts": [
+          "Reference complaint no.11684658 confirmed. From email from Tech representative \"VDC HYDRAULIC UNIT REPLACEMENT. IT IS AN INTERNAL FAILURE OF THE ABS CONTROL UNIT. THERE ARE SENSORS INSIDE THAT MEASURE",
+          "The Eye Sight warning system is activated occasionally and VDC is cut off. The dealer diagnosed code C1742, and recommended replacing the control unit due to a pressure sensor issue after measurement.",
+          "A loud rumbling noise and vibration occurs while braking at high speed. Braking force seems unaffected but the noise in concerning.  Upon inspection and a test drive, Subaru confirmed the issued and n"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 4,
+        "share_pct": 4.7,
+        "excerpts": [
+          "The electrical system failed and battery then exploded. The vehicle is behind held at a tow yard and has been inspected by allied insurance CPI of tower federal credit union. It is available to be ins",
+          "Both rear doors will intermittently not open when unlocked from both the inside or the outside. I am unsure if this is electrical or related to the door components itself. This is a hazard because pas",
+          "On 3 separate occasions since I've had my car, it has powered off completely without warning while driving. This is very dangerous could cause a severe accident or death. I called a tow truck on 3 sep"
+        ]
+      },
+      {
+        "component": "VISIBILITY",
+        "complaints": 4,
+        "share_pct": 4.7,
+        "excerpts": [
+          "The contact owns a 2020 Subaru Impreza. The contact stated while driving 30 MPH, the contact heard an abnormal sound and became aware that the windshield had cracked. The vehicle was taken to a dealer",
+          "The contact owns a 2020 Subaru Impreza. The contact stated that after parking the vehicle, it was later discovered that a crack had developed on the front windshield. The crack measured approximately ",
+          "The contact owns a 2020 Subaru Impreza. The contact stated that the windshield had fractured on the passenger’s side lower right. The contact took the vehicle to a repair shop and had the windshield r"
+        ]
+      },
+      {
+        "component": "AIR BAGS",
+        "complaints": 3,
+        "share_pct": 3.5,
+        "excerpts": [
+          "I got into an accident going 60 miles an hour I crash into a guardrail totaled the car but no airbags deployed I broke my wrist and dislocated my thumb",
+          "Passenger Air-bag igniter's wiring shorted out releasing gas into car. The windows were up and the car was not running. I was sitting in passenger side went to light my cigarette and with no warning a",
+          "The contact owns a 2020 Subaru Impreza. The contact stated while starting the vehicle, the air bag warning light was not illuminating. The vehicle was taken to an independent mechanic and the mechanic"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 2,
+      "fires": 2,
+      "injuries": 2,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 2
+      },
+      {
+        "year": 2020,
+        "count": 26
+      },
+      {
+        "year": 2021,
+        "count": 26
+      },
+      {
+        "year": 2022,
+        "count": 11
+      },
+      {
+        "year": 2023,
+        "count": 9
+      },
+      {
+        "year": 2024,
+        "count": 4
+      },
+      {
+        "year": 2025,
+        "count": 3
+      },
+      {
+        "year": 2026,
+        "count": 4
+      }
+    ]
+  },
+  "recalls": {
+    "count": 1,
+    "recalls": [
+      {
+        "campaign_number": "21V587000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2019-2020 Ascent, 2018 Forester, 2018-2020 Impreza, Legacy, Outback, 2018-2019 BRZ, WRX, and Toyota 86 vehicles.  The low-pressure fuel pump inside the fuel tank may fail.",
+        "report_date": "29/07/2021",
+        "park_it": false,
+        "park_outside": false
+      }
+    ]
+  },
+  "generated": "2026-09-07T20:04:47.316Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

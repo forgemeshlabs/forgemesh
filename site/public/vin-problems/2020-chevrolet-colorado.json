@@ -1,0 +1,111 @@
+{
+  "slug": "2020-chevrolet-colorado",
+  "year": 2020,
+  "make": "Chevrolet",
+  "model": "Colorado",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 82,
+    "top_failure_components": [
+      {
+        "component": "POWER TRAIN",
+        "complaints": 32,
+        "share_pct": 39,
+        "excerpts": [
+          "My truck has been shuddering and when put into gear it sounds like the bottom is falling out of it. Now when I am driving my truck is shuddering very hard and skipping gears. I have been having this i",
+          "Had transmission serviced, was told the transmission was no good and about to fail Quoted $8000.00 dollars to repair",
+          "Vehicle has 54,250 miles.  Vehicle has a rear differential bearing going out by hearing and feeling the grinding at all speeds and the transmission jerks shafting gears.  Both could cause an accident "
+        ]
+      },
+      {
+        "component": "ENGINE",
+        "complaints": 17,
+        "share_pct": 20.7,
+        "excerpts": [
+          "While driving my 2020 Chevrolet Colorado through [XXX], the truck began having difficulty accelerating. As I exited the highway and turned into a gas station, the truck suddenly lost power. The steeri",
+          "a/c control knocks out tempter senor and gauge goes to zero and check engine light comes on, gas mileage goings to hell, turn off engine clutch fan runs for several minutes, can still touch water hose",
+          "The contact owns a 2020 Chevrolet Colorado. The contact stated that while reversing out of the driveway, the check engine warning light illuminated. The failure recurred while driving 65 MPH. The vehi"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 10,
+        "share_pct": 12.2,
+        "excerpts": [
+          "While driving my 2020 Chevrolet Colorado through [XXX], the truck began having difficulty accelerating. As I exited the highway and turned into a gas station, the truck suddenly lost power. The steeri",
+          "While driving at any speed when steering wheel is at the 1 to 2 o' clock position on a right turn, steering wheel wobbles and regardless of road condition.  Stabitrack warning light comes on occasiona",
+          "Within the last 2 months, I have had momentary steering problems at low speed. They continue to become worse with time, no longer safe to drive. Dealer has vehicle now and informs me that it will cost"
+        ]
+      },
+      {
+        "component": "SERVICE BRAKES",
+        "complaints": 9,
+        "share_pct": 11,
+        "excerpts": [
+          "While driving my 2020 Chevrolet Colorado through [XXX], the truck began having difficulty accelerating. As I exited the highway and turned into a gas station, the truck suddenly lost power. The steeri",
+          "Vacuum pump seized, causing loss of power assist on brakes. This happened as I was approaching an intersection to make a right-hand turn. When I press down on the brake pedal it felt hard, like it was",
+          "The contact owns a 2020 Chevrolet Colorado. The contact stated that while driving at an undisclosed speed, the brake pedal went to the floorboard while depressed, and the vehicle failed to stop immedi"
+        ]
+      },
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 6,
+        "share_pct": 7.3,
+        "excerpts": [
+          "The component that’s failing on my truck is the Apple car play and a check engine light (CODE P0024) which indicates Exhaust Camshaft Position, Bank 2.   My safety and others safety is put at risk whi",
+          "The ignition key can not be removed after putting the vehicle in park and shutting it off.  Many attempts are required to jiggle the shifter switch/steering column/key before it will release on most o",
+          "Key CONTINUOUSLY gets stuck in the ignition and will not release even when engaged in park. Something is wrong with the shifter or the safety release and many other people have had this problem. My tr"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 1,
+      "fires": 3,
+      "injuries": 4,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2019,
+        "count": 1
+      },
+      {
+        "year": 2020,
+        "count": 10
+      },
+      {
+        "year": 2021,
+        "count": 11
+      },
+      {
+        "year": 2022,
+        "count": 3
+      },
+      {
+        "year": 2023,
+        "count": 12
+      },
+      {
+        "year": 2024,
+        "count": 23
+      },
+      {
+        "year": 2025,
+        "count": 13
+      },
+      {
+        "year": 2026,
+        "count": 9
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T20:05:26.285Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}

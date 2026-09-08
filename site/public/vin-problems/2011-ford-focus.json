@@ -1,0 +1,135 @@
+{
+  "slug": "2011-ford-focus",
+  "year": 2011,
+  "make": "Ford",
+  "model": "Focus",
+  "matched_as": {
+    "complaints": null,
+    "recalls": null
+  },
+  "failures": {
+    "total_complaints": 113,
+    "top_failure_components": [
+      {
+        "component": "ELECTRICAL SYSTEM",
+        "complaints": 25,
+        "share_pct": 22.1,
+        "excerpts": [
+          "MY CAR HAS HAD PROBLEMS WITH A MYSTERY BATTERY DRAIN FOR TWO YEARS.   SINCE MARCH OF 2019 IT HAS BEEN STALLING AT STOP LIGHTS SEEMS TO HAPPEN WHEN THE RPM NEEDLE DROPS.   IN THE WINTER OF 2018 I HAD I",
+          "TL* THE CONTACT OWNS A 2011 FORD FOCUS. THE CONTACT STATED THAT THE REAR DRIVER SIDE DOOR FAILED TO LOCK. YEARS LATER, THE REAR PASSENGER SIDE DOOR FAILED TO LOCK. THE CONTACT HAD TO TIE DOWN THE DOOR",
+          "DOOR AJAR LIGHT STAYS ON CONSTANTLY EVEN WHEN THE CAR IS NOT IN USE.  THE SENSOR WILL GO OFF WHILE DRIVING AND UNLOCK ALL DOORS, EVEN IF THE CHILD SAFETY FEATURE IS ACTIVATED.  BECAUSE OF THIS MESSAGE"
+        ]
+      },
+      {
+        "component": "POWER TRAIN",
+        "complaints": 20,
+        "share_pct": 17.7,
+        "excerpts": [
+          "The contact owns a 2011 Ford Focus. The contact stated while driving at approximately 35 MPH, the wrench symbol was illuminated. The contact stated that the vehicle was vibrating and shaking and there",
+          "MY 2012 FORD FOCUS IS EQUIPPED WITH THE DUAL CLUTCH TRANSMISSION AND HAS HAD ISSUES FROM THE DAY I BOUGHT IT.  SHUDDERING UPON START WAS THE BIGGEST ISSUE. CAR FINALLY STOPPED RUNNING AND WAS REPAIRED",
+          "THE CLUTCH SYSTEM ON MY MANUAL 2011 FORD FOCUS WENT OUT. THE CLUTCH NOW PLAYS ON THE FLOOR BOARD WITH NO CATCH IN IT. THE GEARS WONT BUDGE. I RESEARCHED AND SEEN THE NEWER MODELS HAVE HAD THIS SAME PR"
+        ]
+      },
+      {
+        "component": "LATCHES/LOCKS/LINKAGES",
+        "complaints": 17,
+        "share_pct": 15,
+        "excerpts": [
+          "The contact owns a 2011 Ford Focus. The contact stated that the front passenger’s side and both the rear driver’s and passenger’s side doors failed to open. The contact stated that the front driver’s ",
+          "TL* THE CONTACT OWNS A 2011 FORD FOCUS. THE CONTACT STATED THAT THE PASSENGER'S SIDE REAR DOOR LATCH LOCKED AND THE DOOR WAS UNABLE TO OPEN AND CLOSE. THE CONTACT STATED THAT HIS WIFE EXITED THE VEHIC",
+          "TL* THE CONTACT OWNS A 2011 FORD FOCUS. THE CONTACT STATED THAT THE REAR DRIVER SIDE DOOR FAILED TO LOCK. YEARS LATER, THE REAR PASSENGER SIDE DOOR FAILED TO LOCK. THE CONTACT HAD TO TIE DOWN THE DOOR"
+        ]
+      },
+      {
+        "component": "STRUCTURE",
+        "complaints": 14,
+        "share_pct": 12.4,
+        "excerpts": [
+          "Door latches inoperable. Cannot open from outside the vehicle. Passenger side front and both back doors. Back door passenger side door does not open from inside either. Had to pay $373 to Ford dealer ",
+          "THE DOOR HANDLES, LATCH AND UNLOCKING MECHANISM FAIL, CAUSING THE DOORS TO REMAIN LOCKED. YOU WILL BE UNABLE TO UNLOCK THE DOORS FROM THE INSIDE OR OR OUTSIDE.",
+          "ONLY 3 OUT OF 4 DOORS OPEN, THE OUTSIDE DOOR LATCHES HAVE FAILED SINCE PURCHASE IN 2013. HAVE ALSO CONTINUALLY FAILED/RE-BROKE AFTER BEING FIXED. CAR ALSO DOES NOT UNLOCK AFTER BEING LOCKED AND INSIDE"
+        ]
+      },
+      {
+        "component": "STEERING",
+        "complaints": 10,
+        "share_pct": 8.8,
+        "excerpts": [
+          "The contact owns a 2011 Ford Forcus. The contact stated while driving at an undisclosed speed, the steering wheel failed to turn in the intended direction. No warning lights were illuminated. The vehi",
+          "The contact owns a 2011 Ford Focus. The contact stated that while driving at an undisclosed speed, the steering wheel failed to turn in the intended direction and instead turned in the opposite direct",
+          "My car made grinding sounds when turning the steering wheel. My mechanic found a leak on Power Steering Pump & replaced it. My car has only 48,800 miles & there's a recall for Ford Trucks with the sam"
+        ]
+      }
+    ],
+    "severity": {
+      "crashes": 8,
+      "fires": 0,
+      "injuries": 10,
+      "deaths": 0
+    },
+    "trend_by_incident_year": [
+      {
+        "year": 2011,
+        "count": 9
+      },
+      {
+        "year": 2012,
+        "count": 16
+      },
+      {
+        "year": 2013,
+        "count": 17
+      },
+      {
+        "year": 2014,
+        "count": 11
+      },
+      {
+        "year": 2015,
+        "count": 11
+      },
+      {
+        "year": 2016,
+        "count": 12
+      },
+      {
+        "year": 2017,
+        "count": 13
+      },
+      {
+        "year": 2018,
+        "count": 11
+      },
+      {
+        "year": 2019,
+        "count": 5
+      },
+      {
+        "year": 2020,
+        "count": 1
+      },
+      {
+        "year": 2022,
+        "count": 2
+      },
+      {
+        "year": 2023,
+        "count": 1
+      },
+      {
+        "year": 2024,
+        "count": 3
+      },
+      {
+        "year": 2025,
+        "count": 1
+      }
+    ]
+  },
+  "recalls": {
+    "count": 0,
+    "recalls": []
+  },
+  "generated": "2026-09-07T19:53:52.714Z",
+  "source": "NHTSA (api.nhtsa.gov) — complaints and recalls by vehicle"
+}
