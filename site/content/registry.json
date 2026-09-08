@@ -1,5 +1,18 @@
 [
   {
+    "slug": "kronos-field-guide-launch",
+    "date": "2026-09-08",
+    "title": "The Kronos Field Guide: The Build Kit That Shows What Broke",
+    "excerpt": "We ran our own paper-trading research system around the open-source Kronos forecasting model: 14,959 forecasts scored, 49.8% direction accuracy, equity down about 5.2% first to latest, and three bugs we're publishing instead of hiding. The build kit that documents them is live.",
+    "image": "/content/assets/kronos-field-guide-launch.png",
+    "tags": [
+      "kronos",
+      "paper-trading",
+      "build-kit",
+      "field report"
+    ]
+  },
+  {
     "slug": "autonomous-agents-are-buying-atoms-now",
     "date": "2026-09-07",
     "title": "Autonomous AI Agents Aren't Just Buying Data Anymore. One Just Bought a Shirt.",
