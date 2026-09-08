@@ -1,3 +1,4 @@
+import { kronosAgreementFields, type KronosAcceptance } from './kronos-contract';
 // Minimal Stripe REST client (checkout create + retrieve) — no SDK dependency.
 // Requires STRIPE_SECRET_KEY in .env.local (never expose client-side).
 
@@ -95,8 +96,10 @@ export async function getWatchSession(sessionId: string): Promise<{
 
 // Kronos Field Guide: fixed Stripe price (launch or regular, chosen by the caller by date).
 // Fulfilment is the kit shop's session-verified /download page, same as the starter-kit tiers.
-export async function createKronosCheckout(priceId: string): Promise<{ id: string; url: string }> {
+export async function createKronosCheckout(priceId: string, acceptance: KronosAcceptance): Promise<{ id: string; url: string }> {
+  const agreement = kronosAgreementFields(acceptance);
   const session = await stripeRequest('POST', '/checkout/sessions', {
+    ...agreement,
     mode: 'payment',
     'line_items[0][quantity]': '1',
     'line_items[0][price]': priceId,
@@ -104,7 +107,7 @@ export async function createKronosCheckout(priceId: string): Promise<{ id: strin
     'metadata[price_id]': priceId,
     allow_promotion_codes: 'true',
     'custom_text[submit][message]':
-      'Educational only; not financial advice. Digital download under a personal-use license, sold as-is with no support of any kind. Paper-trading figures in the guide are simulations, not investment returns. See forgemesh.io/kronos-field-guide/LICENSE.txt',
+      'Educational only; not financial advice. Digital download under a personal-use license, sold as-is with no support of any kind. Paper-trading figures in the guide are simulations, not investment returns. Purchase-delivery and mandatory remedies remain available: support@forgemesh.io. Your immediate-delivery request affects only applicable cancellation rights once supply begins; defect remedies remain.',
     success_url: 'https://kit.forgemesh.io/download?session_id={CHECKOUT_SESSION_ID}',
     cancel_url: 'https://forgemesh.io/kronos/field-guide',
   });
