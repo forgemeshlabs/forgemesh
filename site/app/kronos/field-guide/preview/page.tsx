@@ -9,7 +9,7 @@ export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
   title: 'Free preview: Kronos Field Guide | ForgeMesh',
-  description: 'Read Chapter 2 of the Kronos Field Guide for free: what you are building, the vocabulary you need, and the deployment paths and gear the guide describes. Launching soon.',
+  description: 'Read Chapter 2 of the Kronos Field Guide for free: what you are building, the vocabulary you need, and the deployment paths and gear the guide describes. Build your own Kronos market-intelligence system.',
   alternates: { canonical: 'https://forgemesh.io/kronos/field-guide/preview' },
   openGraph: {
     title: 'Free preview: Kronos Field Guide',
