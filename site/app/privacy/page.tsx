@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true },
 };
 
-const UPDATED = '2026-08-28';
+const UPDATED = '2026-09-08';
 
 export default function Page() {
   return (
@@ -104,7 +104,7 @@ export default function Page() {
               <section>
                 <h2 className="text-xl font-semibold text-slate-50">4. Processors we rely on</h2>
                 <p className="mt-3">
-                  Cloudflare (DNS, CDN, DDoS protection), Amazon Web Services (hosting, SES email), Vercel
+                  Stripe (card payments and checkout agreement), Cloudflare (DNS, CDN, DDoS protection), Amazon Web Services (hosting, SES email), Vercel
                   (some static properties), GitHub and npm (source and package distribution), Umami
                   (self-hosted analytics on our own infrastructure), and public blockchain networks and
                   x402 facilitators for settlement. Each processes data only as needed to provide its function.
@@ -113,6 +113,7 @@ export default function Page() {
 
               <section>
                 <h2 className="text-xl font-semibold text-slate-50">5. Retention</h2>
+                <p className="mt-3">For Kronos digital purchases, Stripe processes payment details. We retain restricted order records containing the payment reference, purchased edition, terms version and digest, agreement confirmation, immediate-delivery request and file-delivery status. These records support fulfillment, required remedies and disputes; they do not include broker credentials or full card details. Purchase records are kept as reasonably necessary for those purposes and applicable legal obligations, rather than being treated as ordinary request logs. Contact us to exercise applicable data rights.</p>
                 <p className="mt-3">
                   Analytics are kept in aggregate indefinitely. Request logs are rotated within 90 days.
                   Newsletter addresses are kept until you unsubscribe. On-chain records are permanent by
