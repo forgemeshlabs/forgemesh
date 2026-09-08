@@ -127,7 +127,7 @@ export function NavBar() {
                   {link.label}
                 </a>
               ))}
-              <p className="mt-2 border-t border-white/[0.06] px-3 pb-1 pt-2.5 font-mono text-[10px] uppercase tracking-[0.2em] text-amber-300/80">Paid guides &amp; kits</p>
+              <p className="mt-2 border-t border-white/[0.06] px-3 pb-1 pt-2.5 font-mono text-[10px] uppercase tracking-[0.2em] text-amber-300/80">Guides &amp; kits</p>
               {paidGuideLinks.map(link => (
                 <a
                   key={link.href}
@@ -137,7 +137,7 @@ export function NavBar() {
                   className="flex items-center justify-between gap-3 rounded px-3 py-2 text-sm text-slate-300 transition-colors hover:bg-amber-400/10 hover:text-slate-100 focus:bg-amber-400/10 focus:text-slate-100 focus:outline-none"
                 >
                   <span>{link.label}</span>
-                  {link.price ? <span className="shrink-0 rounded-full border border-amber-300/30 bg-amber-400/10 px-2 py-0.5 font-mono text-[10px] text-amber-200">{link.price}</span> : null}
+                  {link.price ? <span className={`shrink-0 rounded-full border px-2 py-0.5 font-mono text-[10px] ${link.price === 'free' ? 'border-emerald-300/30 bg-emerald-400/10 text-emerald-200' : 'border-amber-300/30 bg-amber-400/10 text-amber-200'}`}>{link.price}</span> : null}
                 </a>
               ))}
               {learnLinks.filter(l => l.hub).map(link => (
@@ -269,7 +269,7 @@ export function NavBar() {
             </ul>
             {group.title === 'Learn' ? (
               <>
-                <p className="mt-4 font-mono text-[11px] uppercase tracking-[0.2em] text-amber-300/80">Paid guides &amp; kits</p>
+                <p className="mt-4 font-mono text-[11px] uppercase tracking-[0.2em] text-amber-300/80">Guides &amp; kits</p>
                 <ul className="mt-2 divide-y divide-white/[0.04] rounded border border-amber-300/20">
                   {paidGuideLinks.map(link => (
                     <li key={link.href}>
@@ -281,7 +281,7 @@ export function NavBar() {
                         className="flex items-center justify-between gap-3 px-3 py-2.5 text-sm text-slate-200 hover:bg-amber-400/10 hover:text-slate-100"
                       >
                         <span>{link.label}</span>
-                        {link.price ? <span className="shrink-0 rounded-full border border-amber-300/30 bg-amber-400/10 px-2 py-0.5 font-mono text-[10px] text-amber-200">{link.price}</span> : null}
+                        {link.price ? <span className={`shrink-0 rounded-full border px-2 py-0.5 font-mono text-[10px] ${link.price === 'free' ? 'border-emerald-300/30 bg-emerald-400/10 text-emerald-200' : 'border-amber-300/30 bg-amber-400/10 text-amber-200'}`}>{link.price}</span> : null}
                       </a>
                     </li>
                   ))}

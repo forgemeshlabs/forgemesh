@@ -55,6 +55,16 @@ export const TOOL_GROUPS: ToolGroup[] = [
     ],
   },
   {
+    id: 'guides',
+    title: 'Courses, ebooks and build packages',
+    blurb: 'Self-service education for people. Free course first; paid guides are personal use, no redistribution, no support.',
+    rows: [
+      { name: 'Stack Basics course', href: 'https://kit.forgemesh.io/stack-basics', what: 'Free self-hosting course: VM, domain, networking and the always-on stack, in plain language', cost: 'free', price: 'free', for: ['humans', 'builders'], featured: true },
+      { name: 'Kronos Field Guide', href: '/kronos/field-guide', what: 'Build your own Kronos market-intelligence + paper-trading system: ebook, 81 settings, evidence, coding-agent briefs; no support', cost: 'paid', price: '$19 launch', for: ['humans'], featured: true },
+      { name: 'x402 Starter Kit', href: 'https://kit.forgemesh.io', what: 'Ship a paid x402 endpoint from a working template: Tier 1 kit or the Complete Bundle with the distribution playbook', cost: 'paid', price: 'from $49', for: ['builders'], featured: true },
+    ],
+  },
+  {
     id: 'paid',
     title: 'Paid APIs (x402 + MPP)',
     blurb: 'Pay per call in USDC on Base. No accounts, no API keys. Same 402 challenge answers both rails.',
@@ -77,15 +87,6 @@ export const TOOL_GROUPS: ToolGroup[] = [
       { name: 'Kronos', href: '/kronos', what: 'Calibrated crypto price ranges, risk context, decision audits', cost: 'paid', price: '$0.02–0.15', for: ['agents'] },
       { name: 'ClawVoice', href: '/clawvoice', what: 'Voice for OpenClaw / ClawHub agents', cost: 'paid', price: 'per synth', for: ['agents'] },
       { name: 'x402 Swag', href: 'https://x402swag.com', what: 'Merch an agent can buy: card or USDC over x402', cost: 'paid', price: 'retail', for: ['humans', 'agents'] },
-    ],
-  },
-  {
-    id: 'guides',
-    title: 'Ebooks and build packages',
-    blurb: 'Self-service education for people. Personal use; no redistribution or support.',
-    rows: [
-      { name: 'Kronos Field Guide', href: '/kronos/field-guide', what: 'Build your own Kronos market-intelligence + paper-trading system: ebook, 81 settings, evidence, coding-agent briefs; no support', cost: 'paid', price: '$19 launch', for: ['humans'], featured: true },
-      { name: 'x402 Starter Kit', href: 'https://kit.forgemesh.io', what: 'Ship a paid x402 endpoint from a working template: Tier 1 kit or the Complete Bundle with the distribution playbook', cost: 'paid', price: 'from $49', for: ['builders'], featured: true },
     ],
   },
   {
