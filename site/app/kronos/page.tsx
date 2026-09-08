@@ -104,7 +104,14 @@ export default function KronosPage() {
                 >
                   Read the source
                 </a>
+                <Link
+                  href="/kronos/field-guide"
+                  className="inline-flex items-center justify-center gap-2 rounded-lg border border-emerald-300/40 bg-emerald-400/10 px-5 py-3 text-sm font-medium text-emerald-100 transition hover:bg-emerald-400/20 active:translate-y-px"
+                >
+                  Build your own Kronos <ArrowUpRight className="h-4 w-4" aria-hidden="true" />
+                </Link>
               </div>
+              <p className="mt-4 text-sm text-slate-500">Want to build your own Kronos market-intelligence and paper-trading system instead of calling ours? The Field Guide is the ebook + build package we kept getting asked for. $19 at launch.</p>
             </div>
             <InstallPanel />
           </div>
@@ -114,14 +121,14 @@ export default function KronosPage() {
           <div className="mx-auto max-w-6xl rounded-3xl bg-[#213c33] p-2">
             <div className="grid gap-8 rounded-[18px] bg-[#183c31] p-8 sm:p-10 lg:grid-cols-[1.5fr_1fr] lg:items-center">
               <div>
-                <p className="text-xs uppercase tracking-[0.2em] text-[#c8d7bb]">For humans: the Field Guide</p>
+                <p className="text-xs uppercase tracking-[0.2em] text-[#c8d7bb]">For humans: build your own Kronos</p>
                 <h2 id="field-guide-heading" className="mt-4 font-serif text-3xl leading-tight text-[#f8f3e5] sm:text-4xl">The build kit that shows what broke.</h2>
-                <p className="mt-5 max-w-2xl text-sm leading-7 text-[#e0e6d8]">An ebook and digital build package for designing your own Kronos research and paper-trading system. Two learning paths, 81 explained settings, seven figures and the documented failures of our setup.</p>
+                <p className="mt-5 max-w-2xl text-sm leading-7 text-[#e0e6d8]">An ebook and digital build package for designing your own Kronos market-intelligence, research and paper-trading system, with a coding-agent brief that builds it with you. Two learning paths, 81 explained settings, seven figures and the documented failures of our setup.</p>
               </div>
               <div>
                 <p className="text-sm font-semibold text-[#f8f3e5]">Personal use · No redistribution · Sold as-is</p>
                 <p className="mt-2 text-sm font-semibold text-[#f8f3e5]">No support of any kind.</p>
-                <Link href="/kronos/field-guide" className="mt-6 inline-flex rounded-full bg-[#f5f2e9] px-6 py-3 text-sm font-semibold text-[#183c31]">Explore the ebook + build package ↗</Link>
+                <Link href="/kronos/field-guide" className="mt-6 inline-flex rounded-full bg-[#f5f2e9] px-6 py-3 text-sm font-semibold text-[#183c31]">Build your own Kronos · $19 launch ↗</Link>
                 <p className="mt-4 text-xs leading-6 text-[#d7dfbd]">Educational only. Not financial advice. Paper observations do not predict live returns.</p>
               </div>
             </div>
