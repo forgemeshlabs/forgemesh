@@ -509,8 +509,9 @@ export function VinChecker() {
             </p>
             <div className="mt-4 flex flex-col gap-3 sm:flex-row">
               {[
-                { key: 'bumper', label: 'Bumper vehicle history' },
                 { key: 'epicvin', label: 'EpicVIN report' },
+                { key: 'dvh', label: 'Detailed Vehicle History (10% off)' },
+                { key: 'bumper', label: 'Bumper vehicle history' },
               ].map((p) => (
                 <a
                   key={p.key}

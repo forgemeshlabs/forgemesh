@@ -265,6 +265,15 @@ export default async function VinProblemsPage({ params }: Params) {
               >
                 Run a vehicle history report <ArrowRight className="h-4 w-4" aria-hidden />
               </a>
+              <a
+                href="/go/dvh"
+                data-umami-event="affiliate_click"
+                data-umami-event-partner="dvh"
+                data-umami-event-slot="problems-page"
+                className="ml-3 mt-4 inline-flex items-center gap-2 rounded border border-white/15 bg-white/[0.03] px-5 py-3 text-sm font-medium text-slate-200 transition-all hover:border-white/30 hover:bg-white/[0.06]"
+              >
+                Detailed Vehicle History, 10% off <ArrowRight className="h-4 w-4" aria-hidden />
+              </a>
             </div>
           </div>
         </section>
