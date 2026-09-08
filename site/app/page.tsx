@@ -17,11 +17,12 @@ export const metadata: Metadata = {
   alternates: { canonical: '/' },
 };
 
-const MCP_ROWS: { pkg: string; href: string; wraps: string; install: string }[] = [
+const MCP_ROWS: { pkg: string; href: string; wraps: string; install: string; guide?: string }[] = [
   {
     pkg: '@forgemeshlabs/kronos-forgemesh-mcp',
     href: 'https://www.npmjs.com/package/@forgemeshlabs/kronos-forgemesh-mcp',
     wraps: 'Kronos market intelligence',
+    guide: '/kronos/field-guide',
     install: 'npx -y @forgemeshlabs/kronos-forgemesh-mcp',
   },
   {
@@ -164,7 +165,7 @@ export default function Home() {
                         <td className="pkg">
                           <a href={r.href}>{r.pkg}</a>
                         </td>
-                        <td className="what">{r.wraps}</td>
+                        <td className="what">{r.wraps}{r.guide ? <> · <a href={r.guide}>build your own →</a></> : null}</td>
                         <td className="install">{r.install}</td>
                       </tr>
                     ))}

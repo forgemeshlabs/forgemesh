@@ -9,12 +9,12 @@ import { AlertSignup } from '@/components/CongressTrades';
 export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
-  title: 'Kronos Field Guide — The build kit that shows what broke | ForgeMesh',
-  description: 'An educational ebook and digital build package: two learning paths, 81 configuration fields, seven figures and the documented failures of our paper setup. Personal use. No support of any kind.',
+  title: 'Build Your Own Kronos — Market-Intelligence & Paper-Trading Field Guide | ForgeMesh',
+  description: 'Build your own Kronos market-intelligence and paper-trading system. An educational ebook and digital build package: two learning paths, 81 configuration fields, seven figures and the documented failures of our paper setup. Personal use. No support of any kind.',
   alternates: { canonical: 'https://forgemesh.io/kronos/field-guide' },
   openGraph: {
-    title: 'Kronos Field Guide — The build kit that shows what broke',
-    description: 'Build your own research and paper-trading system. Understand the settings, failures and evidence. Educational only. No support included.',
+    title: 'Build your own Kronos — the Field Guide'
+    description: 'Build your own Kronos market-intelligence, research and paper-trading system. Understand the settings, failures and evidence. Educational only. No support included.',
     url: 'https://forgemesh.io/kronos/field-guide',
     type: 'website',
   },
@@ -33,7 +33,7 @@ export default function KronosFieldGuidePage() {
               <Link href="/kronos" className="text-sm text-[#d7dfbd] underline underline-offset-4">Kronos / ForgeMesh</Link>
               <p className="mb-5 mt-10 text-xs uppercase tracking-[0.22em] text-[#c8d7bb]">For humans · ebook + digital build package</p>
               <h1 className="max-w-3xl font-serif text-5xl leading-[1.04] tracking-tight sm:text-7xl">The build kit that shows what broke.</h1>
-              <p className="mt-7 max-w-2xl text-lg leading-8 text-[#e0e6d8]">Build your own market-research and paper-trading system with Kronos. Understand the settings, choose your rules, and learn from the failures in our own setup.</p>
+              <p className="mt-7 max-w-2xl text-lg leading-8 text-[#e0e6d8]">Build your own Kronos market-intelligence and paper-trading system. Understand the settings, choose your rules, hand the brief to your coding agent, and learn from the failures in our own setup.</p>
               <Link href="/kronos/field-guide/preview" className="mt-6 inline-flex rounded-full border border-[#d7dfbd]/60 px-6 py-3 text-sm font-semibold text-[#f8f3e5] hover:bg-white/[0.07]">Read a free preview — Chapter 2 ↗</Link>
             </div>
             <aside className="rounded-3xl bg-white/[0.07] p-2">
