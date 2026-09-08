@@ -80,6 +80,14 @@ export const TOOL_GROUPS: ToolGroup[] = [
     ],
   },
   {
+    id: 'guides',
+    title: 'Ebooks and build packages',
+    blurb: 'Self-service education for people. Personal use; no redistribution or support.',
+    rows: [
+      { name: 'Kronos Field Guide', href: '/kronos/field-guide', what: 'Ebook + build briefs: 81 settings, paper-trading evidence and what broke; no support', cost: 'paid', price: 'One-time purchase', for: ['humans'] },
+    ],
+  },
+  {
     id: 'mcp',
     title: 'MCP servers (npm)',
     blurb: 'Install with npx. Without a wallet key they return the 402 challenge and spend nothing.',

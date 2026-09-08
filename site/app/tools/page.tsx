@@ -73,9 +73,9 @@ export default function ToolsPage() {
             </div>
 
             <p className="mt-10 text-xs leading-6 text-slate-500">
-              Paid rows settle in USDC on Base over x402 or MPP; the price shown is the entry price
+              Paid API rows settle in USDC on Base over x402 or MPP; the price shown is the entry price
               on that surface, and every route publishes its own price in the 402 challenge. Free
-              rows stay free. npm rows install with <code className="rounded bg-white/[0.06] px-1 py-0.5 text-slate-300">npx -y &lt;package&gt;</code>.
+              rows stay free. Ebook and build-package purchases use their own checkout and license terms; no support is included. npm rows install with <code className="rounded bg-white/[0.06] px-1 py-0.5 text-slate-300">npx -y &lt;package&gt;</code>.
             </p>
           </div>
         </section>

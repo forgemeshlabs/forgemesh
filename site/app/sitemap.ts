@@ -24,6 +24,7 @@ const STATIC_ROUTES = [
   '/clawvoice',
   '/gov-transparency',
   '/kronos',
+  '/kronos/field-guide',
   '/mpp',
   '/new-here',
   '/proxy',
