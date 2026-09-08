@@ -92,3 +92,21 @@ export async function getWatchSession(sessionId: string): Promise<{
     customerEmail: session.customer_details?.email ?? null,
   };
 }
+
+// Kronos Field Guide: fixed Stripe price (launch or regular, chosen by the caller by date).
+// Fulfilment is the kit shop's session-verified /download page, same as the starter-kit tiers.
+export async function createKronosCheckout(priceId: string): Promise<{ id: string; url: string }> {
+  const session = await stripeRequest('POST', '/checkout/sessions', {
+    mode: 'payment',
+    'line_items[0][quantity]': '1',
+    'line_items[0][price]': priceId,
+    'metadata[product]': 'kronos-field-guide',
+    'metadata[price_id]': priceId,
+    allow_promotion_codes: 'true',
+    'custom_text[submit][message]':
+      'Educational only; not financial advice. Digital download under a personal-use license, sold as-is with no support of any kind. Paper-trading figures in the guide are simulations, not investment returns. See forgemesh.io/kronos-field-guide/LICENSE.txt',
+    success_url: 'https://kit.forgemesh.io/download?session_id={CHECKOUT_SESSION_ID}',
+    cancel_url: 'https://forgemesh.io/kronos/field-guide',
+  });
+  return { id: session.id, url: session.url };
+}
