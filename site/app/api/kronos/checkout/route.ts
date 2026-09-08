@@ -9,8 +9,13 @@ export async function GET() {
   return NextResponse.redirect('https://forgemesh.io/kronos/field-guide#purchase', 303);
 }
 export async function POST(request: Request) {
+  // Same-site check by host: behind the Cloudflare tunnel request.url is the
+  // internal http origin, so compare hosts rather than full origins.
   const origin = request.headers.get('origin');
-  if (origin !== new URL(request.url).origin) return NextResponse.json({error:'Please use the purchase form on this site.'}, {status:403});
+  const host = request.headers.get('x-forwarded-host') || request.headers.get('host') || new URL(request.url).host;
+  let originHost = '';
+  try { originHost = origin ? new URL(origin).host : ''; } catch { originHost = ''; }
+  if (!originHost || originHost !== host) return NextResponse.json({error:'Please use the purchase form on this site.'}, {status:403});
   if (!request.headers.get('content-type')?.startsWith('application/x-www-form-urlencoded')) return NextResponse.json({error:'Use the purchase form.'}, {status:415});
   const body = await request.text();
   if (body.length > 4096) return NextResponse.json({error:'Purchase form too large.'}, {status:413});
