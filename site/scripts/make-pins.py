@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("kronos-field-guide-launch", "The Kronos Field Guide: The Build Kit That Shows What Broke", "14,959 forecasts scored · 3 bugs published, not hidden"),
     ("autonomous-agents-are-buying-atoms-now", "Autonomous AI Agents Aren't Just Buying Data Anymore. One Just Bought a Shirt.", "165M x402 payments were bytes. Today one was atoms: 6 HTTP calls, 0 humans"),
     ("first-x402-physical-order-bought-with-curl", "Someone Bought a T-Shirt With curl. The Receipt Is on Base.", "402 → signed USDC → 200 → in production 16 min later"),
  ("vin-checker", "Check Any VIN Free. See What Actually Breaks on That Car.", "Recalls · crash stars · fuel cost · complaints ranked"),
