@@ -1,3 +1,4 @@
+import { kronosContract, digitalDeliveryAcknowledgment } from '@/lib/kronos-contract';
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { NavBar } from '@/components/NavBar';
@@ -97,8 +98,8 @@ export default function KronosFieldGuidePage() {
               <h2 className="mt-4 font-serif text-4xl tracking-tight">A self-service educational purchase.</h2>
               <p className="mt-6 text-lg font-semibold">No support of any kind.</p>
               <p className="mt-3 leading-8">No installation help, debugging, configuration reviews, trading advice, calls, community access, maintenance, updates or response-time promise. You need to work independently or with your own coding agent. Third-party hosting, data and optional APIs may cost extra.</p>
-              <p className="mt-5 leading-8">Personal, non-transferable use. No redistribution. Sold as-is, subject to non-excludable rights. Refunds follow the applicable checkout platform policy disclosed at purchase and mandatory law; no additional voluntary refund program is promised.</p>
-              <a href="/kronos-field-guide/LICENSE.txt" className="mt-5 inline-block font-semibold underline underline-offset-4">Read the complete personal-use license and purchase terms</a>
+              <p className="mt-5 leading-8">Personal, non-transferable use. No redistribution. Sold as-is, subject to non-excludable rights. No voluntary change-of-mind refund program is offered. Failed delivery, defective or misdescribed files and mandatory consumer remedies remain covered by the purchase policy. Purchase-delivery help: support@forgemesh.io.</p>
+              <a href={kronosContract.termsUrl} className="mt-5 inline-block font-semibold underline underline-offset-4">Read the complete personal-use license and purchase terms</a>
             </div>
             <aside className="self-start rounded-3xl bg-[#e5eada] p-8">
               <h3 className="font-serif text-2xl">Kronos Field Guide</h3>
@@ -108,13 +109,24 @@ export default function KronosFieldGuidePage() {
                   <p className="mt-6 font-serif text-4xl">{fieldGuideOffer.priceLabel}{fieldGuideOffer.launch ? <span className="ml-3 align-middle text-base text-[#5b6b5f] line-through">$29</span> : null}</p>
                   {fieldGuideOffer.launchNote ? <p className="mt-2 text-sm font-semibold text-[#2f5a48]">{fieldGuideOffer.launchNote}</p> : null}
                   <p className="mt-4 text-sm font-semibold">Personal use only · No redistribution · No support of any kind</p>
-                  <a href={fieldGuideOffer.checkoutUrl} data-umami-event="kronos-guide-checkout" data-umami-event-price={fieldGuideOffer.priceLabel} className="mt-6 inline-flex rounded-full bg-[#183c31] px-6 py-3 text-sm font-semibold text-[#fffdf7]">Continue to checkout · {fieldGuideOffer.priceLabel}</a>
-                  <p className="mt-4 text-xs leading-6">Card checkout by Stripe. After payment you land on a download page (ZIP with the PDF, offline HTML and build package; up to 5 downloads within 72 hours). Review the final price, platform policy and terms before paying. No real-money trading application is included.</p>
+                  <form method="POST" action={fieldGuideOffer.checkoutUrl} className="mt-6 space-y-5" data-testid="purchase-form">
+                    <input type="hidden" name="terms_version" value={kronosContract.version} />
+                    <label className="flex items-start gap-3 text-sm leading-6">
+                      <input type="checkbox" name="terms_accepted" value="yes" required className="mt-1 h-5 w-5 shrink-0" />
+                      <span>I agree to the <a href={kronosContract.termsUrl} className="font-semibold underline">Purchase Terms, edition {kronosContract.version}</a>, including the liability limitations and exceptions. This is educational material for research and paper trading, with no technical support or investment advice.</span>
+                    </label>
+                    <label className="flex items-start gap-3 text-sm leading-6">
+                      <input type="checkbox" name="immediate_delivery" value="yes" required className="mt-1 h-5 w-5 shrink-0" />
+                      <span>{digitalDeliveryAcknowledgment}</span>
+                    </label>
+                    <button type="submit" data-umami-event="kronos-guide-checkout" data-umami-event-price={fieldGuideOffer.priceLabel} className="inline-flex rounded-full bg-[#183c31] px-6 py-3 text-sm font-semibold text-[#fffdf7]">Continue to checkout · {fieldGuideOffer.priceLabel}</button>
+                  </form>
+                  <p className="mt-4 text-xs leading-6">Card checkout by Stripe. After payment you land on a download page (ZIP with the PDF, offline HTML and build package; up to 5 downloads within 72 hours). Review the final price and product-specific terms before paying. Save a copy of your files; expired-link or delivery help is available at support@forgemesh.io. No real-money trading application is included.</p>
                 </>
               ) : (
                 <p data-testid="checkout-pending" className="mt-6 rounded-xl bg-[#fffdf7] p-4 text-sm leading-7">Purchasing is not open yet. Price and checkout will appear here when available.</p>
               )}
-              <p className="mt-6 text-xs leading-6">Educational only; not financial advice. Paper results do not predict live outcomes. No legal immunity or regulatory approval is claimed.</p>
+              <p className="mt-6 text-xs leading-6">Educational only; not financial advice. Paper results do not predict live outcomes. No legal immunity or regulatory approval is claimed. These product-specific terms govern new purchases; earlier purchases retain their original terms.</p>
               <div className="mt-6 border-t border-[#c8d0bc] pt-5">
                 <p className="text-sm font-semibold">Not today? One email when the launch price ends and when the edition updates.</p>
                 <div className="mt-3"><AlertSignup source="kronos-field-guide" buttonLabel="Notify me" doneMessage="Noted. One email when the launch price ends or the edition updates; nothing else." ariaLabel="Email for Kronos Field Guide notices" tone="light" /></div>
