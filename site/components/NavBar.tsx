@@ -10,7 +10,10 @@ import { featured } from '@/lib/tools-catalog';
 // /tools (operator, 2026-09-04: the menu had grown to 37 links). To promote
 // something into a dropdown, flip `featured: true` in lib/tools-catalog.ts.
 const hub = (label: string, id: string) => ({ label, href: `/tools#${id}`, hub: true as const });
-type NavLink = { label: string; href: string; hub?: true };
+type NavLink = { label: string; href: string; hub?: true; price?: string };
+// Paid ebooks and kits sit under their own eyebrow inside the Learn menu so free
+// reading and paid products never read as one undifferentiated list.
+const paidGuideLinks: NavLink[] = featured('guides').map(r => ({ label: r.name, href: r.href, price: r.price }));
 
 const learnLinks: NavLink[] = [...featured('learn').map(r => ({ label: r.name, href: r.href })), hub('All guides →', 'learn')];
 const freeLinks: NavLink[] = [
@@ -114,12 +117,34 @@ export function NavBar() {
             >
               Learn
             </a>
-            <div className="invisible absolute left-1/2 top-full z-50 w-56 -translate-x-1/2 translate-y-1 rounded border border-white/[0.08] bg-[#050509]/95 p-2 opacity-0 shadow-2xl shadow-black/40 backdrop-blur-md transition-all duration-150 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100 group-focus-within:visible group-focus-within:translate-y-0 group-focus-within:opacity-100">
-              {learnLinks.map(link => (
+            <div className="invisible absolute left-1/2 top-full z-50 w-64 -translate-x-1/2 translate-y-1 rounded border border-white/[0.08] bg-[#050509]/95 p-2 opacity-0 shadow-2xl shadow-black/40 backdrop-blur-md transition-all duration-150 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100 group-focus-within:visible group-focus-within:translate-y-0 group-focus-within:opacity-100">
+              {learnLinks.filter(l => !l.hub).map(link => (
                 <a
                   key={link.href}
                   href={link.href}
-                  className={`block rounded px-3 py-2 text-sm transition-colors hover:bg-blue-500/10 hover:text-slate-100 focus:bg-blue-500/10 focus:text-slate-100 focus:outline-none ${link.hub ? 'mt-1 border-t border-white/[0.06] pt-2.5 text-blue-300' : 'text-slate-400'}`}
+                  className="block rounded px-3 py-2 text-sm text-slate-400 transition-colors hover:bg-blue-500/10 hover:text-slate-100 focus:bg-blue-500/10 focus:text-slate-100 focus:outline-none"
+                >
+                  {link.label}
+                </a>
+              ))}
+              <p className="mt-2 border-t border-white/[0.06] px-3 pb-1 pt-2.5 font-mono text-[10px] uppercase tracking-[0.2em] text-amber-300/80">Paid guides &amp; kits</p>
+              {paidGuideLinks.map(link => (
+                <a
+                  key={link.href}
+                  href={link.href}
+                  target={link.href.startsWith('http') ? '_blank' : undefined}
+                  rel={link.href.startsWith('http') ? 'noopener noreferrer' : undefined}
+                  className="flex items-center justify-between gap-3 rounded px-3 py-2 text-sm text-slate-300 transition-colors hover:bg-amber-400/10 hover:text-slate-100 focus:bg-amber-400/10 focus:text-slate-100 focus:outline-none"
+                >
+                  <span>{link.label}</span>
+                  {link.price ? <span className="shrink-0 rounded-full border border-amber-300/30 bg-amber-400/10 px-2 py-0.5 font-mono text-[10px] text-amber-200">{link.price}</span> : null}
+                </a>
+              ))}
+              {learnLinks.filter(l => l.hub).map(link => (
+                <a
+                  key={link.href}
+                  href={link.href}
+                  className="mt-1 block rounded border-t border-white/[0.06] px-3 pb-2 pt-2.5 text-sm text-blue-300 transition-colors hover:bg-blue-500/10 hover:text-slate-100 focus:bg-blue-500/10 focus:text-slate-100 focus:outline-none"
                 >
                   {link.label}
                 </a>
@@ -242,6 +267,27 @@ export function NavBar() {
                 </li>
               ))}
             </ul>
+            {group.title === 'Learn' ? (
+              <>
+                <p className="mt-4 font-mono text-[11px] uppercase tracking-[0.2em] text-amber-300/80">Paid guides &amp; kits</p>
+                <ul className="mt-2 divide-y divide-white/[0.04] rounded border border-amber-300/20">
+                  {paidGuideLinks.map(link => (
+                    <li key={link.href}>
+                      <a
+                        href={link.href}
+                        onClick={() => setOpen(false)}
+                        target={link.href.startsWith('http') ? '_blank' : undefined}
+                        rel={link.href.startsWith('http') ? 'noopener noreferrer' : undefined}
+                        className="flex items-center justify-between gap-3 px-3 py-2.5 text-sm text-slate-200 hover:bg-amber-400/10 hover:text-slate-100"
+                      >
+                        <span>{link.label}</span>
+                        {link.price ? <span className="shrink-0 rounded-full border border-amber-300/30 bg-amber-400/10 px-2 py-0.5 font-mono text-[10px] text-amber-200">{link.price}</span> : null}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </>
+            ) : null}
           </div>
         ))}
       </div>
