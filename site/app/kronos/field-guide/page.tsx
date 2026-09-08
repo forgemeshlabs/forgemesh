@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   description: 'Build your own Kronos market-intelligence and paper-trading system. An educational ebook and digital build package: two learning paths, 81 configuration fields, seven figures and the documented failures of our paper setup. Personal use. No support of any kind.',
   alternates: { canonical: 'https://forgemesh.io/kronos/field-guide' },
   openGraph: {
-    title: 'Build your own Kronos — the Field Guide'
+    title: 'Build your own Kronos — the Field Guide',
     description: 'Build your own Kronos market-intelligence, research and paper-trading system. Understand the settings, failures and evidence. Educational only. No support included.',
     url: 'https://forgemesh.io/kronos/field-guide',
     type: 'website',
