@@ -20,6 +20,7 @@ const CLICKS = path.join(process.cwd(), 'data', 'go-clicks.jsonl');
 const DEFAULTS: Record<string, string> = {
   bumper: 'https://www.bumper.com/',
   epicvin: 'https://epicvin.com/',
+  dvh: 'https://detailedvehiclehistory.com/',
   warranty: 'https://consumer.ftc.gov/articles/auto-warranties-service-contracts',
 };
 
