@@ -113,8 +113,8 @@ function NodeGraph() {
             fontSize="13"
             fontFamily="var(--font-geist-mono, monospace)"
             fill="rgba(148,163,184,0.6)"
-            initial={{ opacity: 0, x: lx - 6 }}
-            animate={{ opacity: 1, x: lx - 14 }}
+            initial={{ opacity: 0, attrX: lx - 6 }}
+            animate={{ opacity: 1, attrX: lx - 14 }}
             transition={{ delay: 0.3 + i * 0.08 }}
           >
             {label}
@@ -150,8 +150,8 @@ function NodeGraph() {
             fontSize="13"
             fontFamily="var(--font-geist-mono, monospace)"
             fill="rgba(147,197,253,0.7)"
-            initial={{ opacity: 0, x: rx + 6 }}
-            animate={{ opacity: 1, x: rx + 14 }}
+            initial={{ opacity: 0, attrX: rx + 6 }}
+            animate={{ opacity: 1, attrX: rx + 14 }}
             transition={{ delay: 0.4 + i * 0.08 }}
           >
             {label}
@@ -374,15 +374,15 @@ export function Discovery() {
             <TiltCard>
               <div className="divide-y divide-white/[0.05]">
                 {/* Header */}
-                <div className="grid grid-cols-[1fr_auto_1fr] items-center px-6 py-3">
+                <div className="grid grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] items-center px-4 sm:px-6 py-3">
                   <span className="text-xs font-mono text-slate-600 tracking-widest uppercase">Web era</span>
-                  <span className="text-xs font-mono text-slate-700 px-6">→</span>
+                  <span className="text-xs font-mono text-slate-700 px-3 sm:px-6">→</span>
                   <span className="text-xs font-mono text-blue-400/50 tracking-widest uppercase">Agent era</span>
                 </div>
                 {PARALLELS.map((row, i) => (
                   <motion.div
                     key={i}
-                    className="grid grid-cols-[1fr_auto_1fr] items-center px-6 py-4 transition-colors"
+                    className="grid grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] items-center px-4 sm:px-6 py-4 transition-colors"
                     style={{
                       background: activeRow === i ? 'rgba(59,130,246,0.04)' : 'transparent',
                     }}
@@ -392,10 +392,10 @@ export function Discovery() {
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ delay: 0.6 + i * 0.07, duration: 0.4 }}
                   >
-                    <span className={`text-base font-mono transition-colors duration-200 ${activeRow === i ? 'text-slate-300' : 'text-slate-500'}`}>
+                    <span className={`min-w-0 break-words text-sm sm:text-base font-mono transition-colors duration-200 ${activeRow === i ? 'text-slate-300' : 'text-slate-500'}`}>
                       {row.web}
                     </span>
-                    <div className="px-6 flex items-center">
+                    <div className="px-3 sm:px-6 flex items-center">
                       <motion.div
                         className="h-px bg-gradient-to-r from-slate-600 via-blue-500/60 to-blue-500/30"
                         style={{ width: 40 }}
@@ -406,7 +406,7 @@ export function Discovery() {
                         transition={{ duration: 1.5, repeat: activeRow === i ? Infinity : 0 }}
                       />
                     </div>
-                    <span className={`text-base font-mono transition-colors duration-200 ${activeRow === i ? 'text-blue-300' : 'text-slate-600'}`}>
+                    <span className={`min-w-0 break-words text-sm sm:text-base font-mono transition-colors duration-200 ${activeRow === i ? 'text-blue-300' : 'text-slate-600'}`}>
                       {row.agent}
                     </span>
                   </motion.div>
