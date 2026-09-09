@@ -16,6 +16,10 @@ export function ShareBar({ inline = false }: { inline?: boolean }) {
 
   const targets = [
     { label: 'X', href: () => `https://x.com/intent/post?text=${encodeURIComponent(title())}&url=${encodeURIComponent(pageUrl)}` },
+    { label: 'Facebook', href: () => `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(pageUrl)}` },
+    { label: 'Pinterest', href: () => `https://pinterest.com/pin/create/button/?url=${encodeURIComponent(pageUrl)}&description=${encodeURIComponent(title())}` },
+    { label: 'WhatsApp', href: () => `https://api.whatsapp.com/send?text=${encodeURIComponent(`${title()} ${pageUrl}`)}` },
+    { label: 'Telegram', href: () => `https://t.me/share/url?url=${encodeURIComponent(pageUrl)}&text=${encodeURIComponent(title())}` },
     { label: 'LinkedIn', href: () => `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(pageUrl)}` },
     { label: 'Reddit', href: () => `https://www.reddit.com/submit?url=${encodeURIComponent(pageUrl)}&title=${encodeURIComponent(title())}` },
     { label: 'HN', href: () => `https://news.ycombinator.com/submitlink?u=${encodeURIComponent(pageUrl)}&t=${encodeURIComponent(title())}` },
