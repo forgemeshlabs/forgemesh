@@ -35,7 +35,7 @@ export function Hero() {
         }}
       />
 
-      <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
+      <div className="relative z-10 w-full max-w-5xl mx-auto px-6 text-center">
         {/* Headline */}
         <div className="mb-5 flex flex-col items-center justify-center gap-1 sm:flex-row sm:gap-1">
           <ForgeMeshMark size={88} className="hero-mark" />
