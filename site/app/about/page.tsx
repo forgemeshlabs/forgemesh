@@ -21,7 +21,7 @@ export const metadata: Metadata = {
 const UPDATED = '2026-09-09';
 
 const FACTS: Array<[string, string]> = [
-  ['Legal entity', 'GSD Contracts LLC, Texas'],
+  ['Legal entity', 'GSD Contracts LLC, Texas (formed January 2025)'],
   ['Brand', 'ForgeMesh Labs'],
   ['Team', 'One owner-operator, no staff, no outside capital'],
   ['Live paid services', '19 surfaces on the x402 standard, USDC on Base'],
@@ -31,6 +31,7 @@ const FACTS: Array<[string, string]> = [
 ];
 
 const MILESTONES: Array<[string, string]> = [
+  ['Jan 2025', 'GSD Contracts LLC formed in Texas.'],
   ['Apr 2026', 'First x402 service live on Base mainnet. No accounts, no API keys, pay per call.'],
   ['Jul 2026', 'Fleet passes 10 services. Starter kit goes on sale: turn any API into a paid one in an afternoon.'],
   ['Aug 2026', 'Bazaar health census: all 1,225 sellers probed and published. MPP dual-stack on every 402.'],
