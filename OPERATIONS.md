@@ -212,3 +212,7 @@ The shared-state summary also belongs in:
 - `~/cc-share/STATE.md`
 
 Use those files for continuity across Mac, VPS, Codex, Claude Code, GPT, and other agents.
+
+## Restart guard (standing rule, 2026-09-09)
+
+Human-facing sites are never restarted while someone is on a page. `fleet restart forgemesh-web` (and x402-kit, x402-swag) checks Umami's live-visitor count first via `~/bin/visitors-now`, waits up to 120 s for zero, then refuses. Check ahead with `fleet check forgemesh-web`. Use `fleet restart <svc> --force` only for urgent fixes. Build must succeed before any restart.
