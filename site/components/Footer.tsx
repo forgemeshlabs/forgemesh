@@ -10,6 +10,7 @@ const links = [
   { label: 'npm', href: 'https://www.npmjs.com/package/forgemesh' },
   { label: 'MCP Registry', href: 'https://github.com/modelcontextprotocol/servers' },
   { label: 'The Brief', href: '/brief' },
+  { label: 'About', href: '/about' },
   { label: 'Privacy', href: '/privacy' },
   { label: 'Terms', href: '/terms' },
   { label: 'Contact', href: 'mailto:hello@forgemesh.io' },

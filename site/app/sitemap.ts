@@ -17,6 +17,7 @@ const STATIC_ROUTES = [
   '/calendar',
   '/repo-watch',
   '/payment-rules',
+  '/about',
   '/privacy',
   '/terms',
   '/brief',
