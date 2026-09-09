@@ -101,7 +101,7 @@ export function RepoWatchList({ entries, limit }: { entries: RepoWatchEntry[]; l
                 {e.highlights.map((h) => (
                   <li key={h} className="flex gap-2.5 text-sm leading-6 text-slate-400">
                     <span className="mt-[9px] h-1 w-1 shrink-0 rounded-full bg-blue-300/60" aria-hidden="true" />
-                    <span>{h}</span>
+                    <span className="min-w-0 break-words">{h}</span>
                   </li>
                 ))}
               </ul>
