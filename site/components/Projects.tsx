@@ -327,9 +327,9 @@ export function Projects() {
               key={proj.name}
               className="fm-glow-card group relative p-6 rounded-xl border border-white/[0.07] bg-white/[0.02] hover:bg-blue-500/[0.03] transition-all"
             >
-              <div className="flex items-start justify-between mb-4">
-                <div>
-                  <div className="flex items-center gap-2 mb-1">
+              <div className="flex items-start justify-between gap-3 mb-4">
+                <div className="min-w-0">
+                  <div className="flex flex-wrap items-center gap-2 mb-1">
                     <h3 className="font-mono text-base font-medium text-slate-200">{proj.name}</h3>
                     <span className="text-xs font-mono text-slate-600">{proj.surface}</span>
                   </div>
@@ -339,7 +339,7 @@ export function Projects() {
                   </div>
                 </div>
 
-                <div className="flex items-center gap-2">
+                <div className="flex flex-wrap items-center justify-end gap-2">
                   {proj.page && (
                     <a
                       href={proj.page}
