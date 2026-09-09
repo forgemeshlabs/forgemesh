@@ -26,3 +26,6 @@ site/public/tx-watch.json
 # blog content images are production content, not scratch screenshots
 !site/public/blog/
 !site/public/blog/**
+
+# internal agent SOP, never published
+SITE-UPDATE-SOP.md
