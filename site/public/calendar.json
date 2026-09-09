@@ -2,29 +2,29 @@
   "updatedAt": "2026-08-27T11:25:00.000Z",
   "events": [
     {
-      "id": "nvidia-hugging-face",
-      "date": "2026-08-27",
-      "title": "Nvidia agrees to acquire Hugging Face for $12.9B",
-      "tag": "infrastructure",
-      "what": "Nvidia agrees to buy Hugging Face — the world's largest open-source AI model hub (13M users, 2.5M models, 950K datasets) — for $12.9 billion, tripling its $4.5B 2023 valuation. The deal puts the dominant AI chipmaker in control of the platform where most AI agents' models are discovered, stored, and deployed.",
-      "why": "The model layer of the machine economy gets a tollbooth operator. Combined with Stripe/OpenRouter ($7B+) and AWS agent payments GA, this is the third major infrastructure consolidation move in twelve weeks — and the clearest signal yet that open, permissionless machine access is being bought and gated by incumbents.",
-      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "post": "/blog/nvidia-hugging-face-12b-acquisition"
-    },
-    {
       "id": "trump-crypto-meeting",
       "date": "2026-08-19",
       "title": "Trump hosts crypto executives at the White House",
       "tag": "policy",
-      "what": "President Trump hosted Ripple's Garlinghouse, Coinbase's Armstrong, ICE's Sprecher, Robinhood's Tenev, and Kraken's Sethi — with SEC Chair Atkins in the room — one day after regulators unveiled new crypto rules, and publicly pressed Congress to pass the CLARITY Act.",
+      "what": "President Trump hosted Ripple's Garlinghouse, Coinbase's Armstrong, ICE's Sprecher, Robinhood's Tenev, and Kraken's Sethi \u2014 with SEC Chair Atkins in the room \u2014 one day after regulators unveiled new crypto rules, and publicly pressed Congress to pass the CLARITY Act.",
       "why": "Set the political stage for the September 15 cloture vote: the White House put its weight behind the market-structure bill with the industry's CEOs standing next to it.",
       "link": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
       "post": "/blog/fall-2026-case-file"
     },
     {
+      "id": "nvidia-hugging-face",
+      "date": "2026-08-27",
+      "title": "Nvidia agrees to acquire Hugging Face for $12.9B",
+      "tag": "infrastructure",
+      "what": "Nvidia agrees to buy Hugging Face \u2014 the world's largest open-source AI model hub (13M users, 2.5M models, 950K datasets) \u2014 for $12.9 billion, tripling its $4.5B 2023 valuation. The deal puts the dominant AI chipmaker in control of the platform where most AI agents' models are discovered, stored, and deployed.",
+      "why": "The model layer of the machine economy gets a tollbooth operator. Combined with Stripe/OpenRouter ($7B+) and AWS agent payments GA, this is the third major infrastructure consolidation move in twelve weeks \u2014 and the clearest signal yet that open, permissionless machine access is being bought and gated by incumbents.",
+      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "post": "/blog/nvidia-hugging-face-12b-acquisition"
+    },
+    {
       "id": "congress-reconvenes",
       "date": "2026-09-14",
-      "title": "Congress reconvenes — 14 working days to election recess",
+      "title": "Congress reconvenes \u2014 14 working days to election recess",
       "tag": "policy",
       "what": "Lawmakers return from August recess with only 14 working days before the October election recess.",
       "why": "Every pending crypto and agent-payment bill has to move in this window or wait out the election.",
@@ -36,7 +36,7 @@
       "title": "Cloudflare default-blocks mixed-use AI crawlers",
       "tag": "rails",
       "what": "Crawlers that blend search, AI training, and agent use get blocked by default on ad-hosting pages for new customers, new sites, and all free-plan sites. AI companies had until today to separate their crawlers.",
-      "why": "The open web starts gating machine traffic at the edge — and paid, identified access (the thing x402 sells) becomes the sanctioned path in. Cloudflare's pay-per-crawl marketplace is evolving into pay-per-use alongside it.",
+      "why": "The open web starts gating machine traffic at the edge \u2014 and paid, identified access (the thing x402 sells) becomes the sanctioned path in. Cloudflare's pay-per-crawl marketplace is evolving into pay-per-use alongside it.",
       "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
       "post": "/blog/fall-2026-case-file"
     },
@@ -46,7 +46,7 @@
       "title": "CLARITY Act cloture vote in the Senate",
       "tag": "policy",
       "what": "Procedural vote on whether to limit debate and advance the digital-asset market-structure bill to the Senate floor. Needs 60 votes; a failed cloture vote could effectively kill the bill this Congress.",
-      "why": "This is the rulebook for which agency regulates digital-asset markets — including a DeFi trading framework and stablecoin yield rules that shape how agent money is allowed to work.",
+      "why": "This is the rulebook for which agency regulates digital-asset markets \u2014 including a DeFi trading framework and stablecoin yield rules that shape how agent money is allowed to work.",
       "link": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
       "post": "/blog/fall-2026-case-file"
     },
@@ -54,10 +54,10 @@
       "id": "kbw-2026",
       "date": "2026-09-29",
       "endDate": "2026-10-01",
-      "title": "Korea Blockchain Week 2026 — Seoul",
+      "title": "Korea Blockchain Week 2026 \u2014 Seoul",
       "tag": "conference",
       "what": "Asia's premier Web3 conference at Walkerhill, Seoul: industry leaders, entrepreneurs, and institutional investors on blockchain, AI, and digital-asset regulation.",
-      "why": "The fall conference corridor opens here — announcements seeded at KBW tend to detonate at TOKEN2049 the following week.",
+      "why": "The fall conference corridor opens here \u2014 announcements seeded at KBW tend to detonate at TOKEN2049 the following week.",
       "link": "https://koreablockchainweek.com/"
     },
     {
@@ -66,7 +66,7 @@
       "endDate": "2026-10-08",
       "title": "TOKEN2049 Singapore",
       "tag": "conference",
-      "what": "The world's largest crypto and Web3 conference — ~25,000 attendees from 160 countries at Marina Bay Sands, with TOKEN2049 Week running October 5–11.",
+      "what": "The world's largest crypto and Web3 conference \u2014 ~25,000 attendees from 160 countries at Marina Bay Sands, with TOKEN2049 Week running October 5\u201311.",
       "why": "If there's a major agent-payments or x402 ecosystem announcement brewing, this is the stage it lands on. Ends one day before the Bitcoin cycle pattern's projected turning point.",
       "link": "https://www.token2049.com/singapore",
       "post": "/blog/fall-2026-case-file"
@@ -74,29 +74,47 @@
     {
       "id": "btc-cycle-window",
       "date": "2026-10-09",
-      "title": "Bitcoin 1,064/364-day cycle — projected turning point",
+      "title": "Bitcoin 1,064/364-day cycle \u2014 projected turning point",
       "tag": "markets",
-      "what": "The widely circulated 1,064-day-rise / 364-day-decline pattern (2015→2017→2018→2021→2022→Oct 6 2025 ATH) projects its next turning point around this date — roughly 364 days after the October 6, 2025 all-time high.",
-      "why": "A pattern with n=3 is a rhyme, not a law — but half the market trades like it believes it, which makes the window itself an event. Full date math in our write-up.",
+      "what": "The widely circulated 1,064-day-rise / 364-day-decline pattern (2015\u21922017\u21922018\u21922021\u21922022\u2192Oct 6 2025 ATH) projects its next turning point around this date \u2014 roughly 364 days after the October 6, 2025 all-time high.",
+      "why": "A pattern with n=3 is a rhyme, not a law \u2014 but half the market trades like it believes it, which makes the window itself an event. Full date math in our write-up.",
       "link": "https://forgemesh.io/blog/fall-2026-calendar-convergence",
       "post": "/blog/fall-2026-calendar-convergence"
     },
     {
       "id": "genius-comments-close",
       "date": "2026-10-19",
-      "title": "GENIUS Act stablecoin rules — comment period closes",
+      "title": "GENIUS Act stablecoin rules \u2014 comment period closes",
       "tag": "policy",
       "what": "Treasury's licensing regime for payment-stablecoin issuers closes its Federal Register comment docket.",
-      "why": "The comment docket is the earliest signal of which stablecoin issuers will seek licenses — and whose settlement rail gets complicated. Watch for the issuer behind your rail.",
+      "why": "The comment docket is the earliest signal of which stablecoin issuers will seek licenses \u2014 and whose settlement rail gets complicated. Watch for the issuer behind your rail.",
       "link": "https://www.federalregister.gov/documents/2026/08/18/2026-16796/genius-act-regulations-on-payment-stablecoin-issuance-offer-and-sale",
       "post": "/blog/fall-2026-case-file"
+    },
+    {
+      "id": "grant-tory-burch-2027",
+      "date": "2026-11-11",
+      "title": "Tory Burch Fellows 2027 deadline",
+      "tag": "grants",
+      "what": "Applications close for the 2027 Fellows cohort ($5k + workshop + network, ~120 fellows).",
+      "why": "Revenue gate: requires $75k+ annual revenue from a woman-majority-owned US business. Apply the year the number clears.",
+      "link": "https://www.toryburchfoundation.org/fellows/"
+    },
+    {
+      "id": "grant-verizon-digital-ready-2026",
+      "date": "2026-12-07",
+      "title": "Verizon Digital Ready: last day for the 2 prerequisite courses",
+      "tag": "grants",
+      "what": "Two courses or events completed by this date unlock the $10k grant application (10 winners a month, June\u2013December).",
+      "why": "Apply once and the application stays in every remaining monthly pool.",
+      "link": "https://digitalready.verizonwireless.com/funding/details"
     },
     {
       "id": "ercot-reports-due",
       "date": "2026-12-10",
       "title": "ERCOT data-center audit reports due",
       "tag": "grid",
-      "what": "Audit reports on up to 300 proposed Texas data centers are due — disclosures of financing, water, power plans, and ownership. New large-load approvals are paused until the audit completes.",
+      "what": "Audit reports on up to 300 proposed Texas data centers are due \u2014 disclosures of financing, water, power plans, and ownership. New large-load approvals are paused until the audit completes.",
       "why": "The first honest census of how much of the 474 GW interconnection queue is real. Whatever survives disclosure is the true footprint of the machine economy in Texas.",
       "link": "https://communityimpact.com/central-austin/government/ercot-to-audit-nearly-300-proposed-data-centers-by-the-end-of-2026-officials-say/",
       "post": "/blog/texas-ercot-300-data-center-audit"
@@ -107,9 +125,27 @@
       "title": "ERCOT presents data-center audit results",
       "tag": "grid",
       "what": "ERCOT presents the audit findings publicly, one week after reports come due.",
-      "why": "Expect the headline number — how many of ~300 proposed sites are credible — and the shape of whatever approval process replaces the pause.",
+      "why": "Expect the headline number \u2014 how many of ~300 proposed sites are credible \u2014 and the shape of whatever approval process replaces the pause.",
       "link": "https://communityimpact.com/central-austin/government/ercot-to-audit-nearly-300-proposed-data-centers-by-the-end-of-2026-officials-say/",
       "post": "/blog/texas-ercot-300-data-center-audit"
+    },
+    {
+      "id": "grant-fedex-2027",
+      "date": "2027-01-15",
+      "title": "FedEx Small Business Grant Contest typically opens",
+      "tag": "grants",
+      "what": "Ten US small businesses get ~$30k plus FedEx Office credit; window usually runs Jan\u2013Mar.",
+      "why": "Needs an active FedEx business shipping account that currently ships. Decide by January whether to open one.",
+      "link": "https://www.fedex.com/en-us/small-business/grants.html"
+    },
+    {
+      "id": "grant-cartier-2028",
+      "date": "2027-04-15",
+      "title": "Cartier Women's Initiative 2028 call opens (approx.)",
+      "tag": "grants",
+      "what": "Up to $100k plus a year-long fellowship for women-led impact businesses.",
+      "why": "Gates: $50k\u2013$5M revenue last fiscal year and a team of 5\u2013250. Calendar, not a to-do, until then.",
+      "link": "https://www.cartierwomensinitiative.com/regional-awards"
     }
   ]
 }
