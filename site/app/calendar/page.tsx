@@ -19,7 +19,7 @@ type CalEvent = {
   date: string; // YYYY-MM-DD (start)
   endDate?: string; // inclusive, for multi-day events
   title: string;
-  tag: 'rails' | 'policy' | 'grid' | 'conference' | 'markets';
+  tag: 'rails' | 'policy' | 'grid' | 'conference' | 'markets' | 'infrastructure' | 'grants';
   what: string;
   why: string;
   link?: string;
@@ -29,6 +29,8 @@ type CalEvent = {
 const TAG_STYLE: Record<CalEvent['tag'], { label: string; cls: string; dot: string }> = {
   rails: { label: '⚡ rails', cls: 'border-blue-500/40 text-blue-300', dot: 'bg-blue-400' },
   policy: { label: '🏛️ policy', cls: 'border-violet-500/40 text-violet-300', dot: 'bg-violet-400' },
+  grants: { label: '🎯 grants', cls: 'border-emerald-500/40 text-emerald-300', dot: 'bg-emerald-400' },
+  infrastructure: { label: '🧱 infrastructure', cls: 'border-slate-500/40 text-slate-300', dot: 'bg-slate-400' },
   grid: { label: '🏗️ grid', cls: 'border-amber-500/40 text-amber-300', dot: 'bg-amber-400' },
   conference: { label: '🎤 conference', cls: 'border-emerald-500/40 text-emerald-300', dot: 'bg-emerald-400' },
   markets: { label: '📈 markets', cls: 'border-rose-500/40 text-rose-300', dot: 'bg-rose-400' },
