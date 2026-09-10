@@ -33,7 +33,8 @@ export default function KronosFieldGuidePage() {
             <div>
               <Link href="/kronos" className="text-sm text-[#d7dfbd] underline underline-offset-4">Kronos / ForgeMesh</Link>
               <p className="mb-5 mt-10 text-xs uppercase tracking-[0.22em] text-[#c8d7bb]">For humans · ebook + digital build package</p>
-              <h1 className="max-w-3xl font-serif text-5xl leading-[1.04] tracking-tight sm:text-7xl">The build kit that shows what broke.</h1>
+              <h1 className="max-w-4xl font-serif text-6xl leading-[0.98] tracking-tight sm:text-8xl">Build your own Kronos!</h1>
+              <p className="mt-5 max-w-3xl font-serif text-2xl leading-tight text-[#d7dfbd] sm:text-4xl">The build kit that shows what broke.</p>
               <p className="mt-7 max-w-2xl text-lg leading-8 text-[#e0e6d8]">Build your own Kronos market-intelligence and paper-trading system. Understand the settings, choose your rules, hand the brief to your coding agent, and learn from the failures in our own setup.</p>
               <Link href="/kronos/field-guide/preview" className="mt-6 inline-flex rounded-full border border-[#d7dfbd]/60 px-6 py-3 text-sm font-semibold text-[#f8f3e5] hover:bg-white/[0.07]">Read a free preview — Chapter 2 ↗</Link>
             </div>
