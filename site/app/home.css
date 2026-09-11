@@ -94,8 +94,8 @@
   border-radius: 8px;
   padding: 22px 20px;
   transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
-  box-shadow: 0 0 0 1px color-mix(in srgb, var(--acc) 12%, transparent),
-    0 6px 20px color-mix(in srgb, var(--acc) 10%, transparent);
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--acc) 6%, transparent),
+    0 6px 20px color-mix(in srgb, var(--acc) 4%, transparent);
   animation: fm-step-glow 2s ease-in-out infinite;
   animation-delay: var(--pd);
 }
@@ -108,16 +108,16 @@
   inset: 0;
   border-radius: 8px;
   pointer-events: none;
-  box-shadow: 0 0 0 1.5px color-mix(in srgb, var(--acc) 65%, transparent),
-    0 12px 42px color-mix(in srgb, var(--acc) 50%, transparent),
-    0 0 46px color-mix(in srgb, var(--acc) 42%, transparent);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--acc) 90%, transparent),
+    0 14px 48px color-mix(in srgb, var(--acc) 70%, transparent),
+    0 0 64px color-mix(in srgb, var(--acc) 60%, transparent);
   opacity: 0;
   animation: fm-glow-opacity 2s ease-in-out infinite;
   animation-delay: var(--pd);
 }
 @keyframes fm-glow-opacity {
   0%, 100% { opacity: 0; }
-  50% { opacity: 1; }
+  38%, 62% { opacity: 1; }
 }
 .fm-step:nth-child(1) { --pd: 0s; }
 .fm-step:nth-child(2) { --acc: var(--acc2); --pd: 0.3s; }
@@ -140,8 +140,8 @@
   --acc: var(--acc1);
   --pd: 0s;
   position: relative;
-  box-shadow: 0 0 0 1px color-mix(in srgb, var(--acc) 14%, transparent),
-    0 4px 16px color-mix(in srgb, var(--acc) 10%, transparent);
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--acc) 6%, transparent),
+    0 4px 16px color-mix(in srgb, var(--acc) 4%, transparent);
 }
 .fm-glow-card::after {
   content: '';
@@ -149,9 +149,9 @@
   inset: 0;
   border-radius: inherit;
   pointer-events: none;
-  box-shadow: 0 0 0 2px color-mix(in srgb, var(--acc) 75%, transparent),
-    0 12px 44px color-mix(in srgb, var(--acc) 55%, transparent),
-    0 0 54px color-mix(in srgb, var(--acc) 45%, transparent);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--acc) 95%, transparent),
+    0 12px 52px color-mix(in srgb, var(--acc) 75%, transparent),
+    0 0 70px color-mix(in srgb, var(--acc) 65%, transparent);
   opacity: 0;
   animation: fm-glow-opacity 2s ease-in-out infinite;
   animation-delay: var(--pd);
@@ -303,13 +303,13 @@
   bottom: 0;
   width: 3px;
   background: var(--acc);
-  box-shadow: 0 0 12px 1px color-mix(in srgb, var(--acc) 85%, transparent);
+  box-shadow: 0 0 16px 2px color-mix(in srgb, var(--acc) 100%, transparent);
   animation: fm-row-glow 2.2s ease-in-out infinite;
   animation-delay: var(--pd);
 }
 @keyframes fm-row-glow {
-  0%, 100% { opacity: 0.45; }
-  50% { opacity: 1; }
+  0%, 100% { opacity: 0.25; }
+  40%, 60% { opacity: 1; }
 }
 .fm-ledger tbody tr:hover {
   background: color-mix(in srgb, var(--acc) 16%, transparent);
