@@ -112,19 +112,19 @@ export default function Home() {
                 your agent does all of them in one retry.
               </p>
               <div className="fm-flow">
-                <div className="fm-step">
+                <div className="fm-step"><span className="fm-halo" aria-hidden="true" />
                   <span className="n">01 · CALL</span>
                   <h3>Request anything</h3>
                   <p>Your agent calls a paid endpoint like any API. No key, no signup.</p>
                   <code>POST /api/notarize</code>
                 </div>
-                <div className="fm-step">
+                <div className="fm-step"><span className="fm-halo" aria-hidden="true" />
                   <span className="n">02 · 402</span>
                   <h3>Price quoted</h3>
                   <p>The service answers 402 Payment Required with the price and pay-to address.</p>
                   <code>{'{"maxAmountRequired": "$0.001"}'}</code>
                 </div>
-                <div className="fm-step">
+                <div className="fm-step"><span className="fm-halo" aria-hidden="true" />
                   <span className="n">03 · SIGN</span>
                   <h3>Authorize payment</h3>
                   <p>
@@ -132,7 +132,7 @@ export default function Home() {
                   </p>
                   <code>X-PAYMENT: eyJ…</code>
                 </div>
-                <div className="fm-step">
+                <div className="fm-step"><span className="fm-halo" aria-hidden="true" />
                   <span className="n">04 · SETTLE</span>
                   <h3>Paid + answered</h3>
                   <p>Settlement lands on-rail in seconds. The result arrives in the same response.</p>

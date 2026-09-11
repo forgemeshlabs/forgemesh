@@ -102,8 +102,7 @@
 /* Glow halos live on a pseudo-element whose OPACITY animates (compositor
    thread) instead of animating box-shadow on the card (main-thread repaint
    every frame). Same look, ~zero paint cost. 2026-09-11 CPU fix. */
-.fm-step::after {
-  content: '';
+.fm-step .fm-halo {
   position: absolute;
   inset: 0;
   border-radius: 8px;
@@ -170,7 +169,7 @@
 }
 @media (prefers-reduced-motion: reduce) {
   .fm-glow-card::after,
-  .fm-step::after,
+  .fm-step .fm-halo,
   .fm-step {
     animation: none !important;
   }
