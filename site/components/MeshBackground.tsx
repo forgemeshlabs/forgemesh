@@ -19,6 +19,13 @@ interface Pulse {
 const NODE_COUNT = 26;
 const CONNECT_DIST = 200;
 const PULSE_INTERVAL = 900;
+// CPU budget (2026-09-11): a visitor's laptop hit ~180% CPU on this loop.
+// The canvas now renders at most 30 fps, at no more than 1.5x device pixels,
+// only while it is on screen and the tab is visible, and draws a single
+// static frame for reduced-motion users. Size is cached from the
+// ResizeObserver instead of forcing layout every frame.
+const MAX_FPS = 30;
+const MAX_DPR = 1.5;
 
 export function MeshBackground() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
@@ -29,21 +36,20 @@ export function MeshBackground() {
     const ctx = canvas.getContext('2d');
     if (!ctx) return;
 
-    let animId: number;
+    const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const frameInterval = 1000 / MAX_FPS;
+
+    let animId = 0;
     let nodes: Node[] = [];
     let pulses: Pulse[] = [];
     let lastPulse = 0;
-
-    const resize = () => {
-      canvas.width = canvas.offsetWidth * window.devicePixelRatio;
-      canvas.height = canvas.offsetHeight * window.devicePixelRatio;
-      ctx.scale(window.devicePixelRatio, window.devicePixelRatio);
-      initNodes();
-    };
+    let lastFrame = 0;
+    let w = 0;
+    let h = 0;
+    let onScreen = true;
+    let running = false;
 
     const initNodes = () => {
-      const w = canvas.offsetWidth;
-      const h = canvas.offsetHeight;
       nodes = Array.from({ length: NODE_COUNT }, () => ({
         x: Math.random() * w,
         y: Math.random() * h,
@@ -52,7 +58,18 @@ export function MeshBackground() {
       }));
     };
 
-    const getEdges = (w: number, h: number) => {
+    const resize = () => {
+      const dpr = Math.min(window.devicePixelRatio || 1, MAX_DPR);
+      w = canvas.offsetWidth;
+      h = canvas.offsetHeight;
+      canvas.width = Math.round(w * dpr);
+      canvas.height = Math.round(h * dpr);
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      initNodes();
+      if (reducedMotion) renderFrame(performance.now(), true);
+    };
+
+    const getEdges = () => {
       const edges: [number, number, number][] = [];
       for (let i = 0; i < nodes.length; i++) {
         for (let j = i + 1; j < nodes.length; j++) {
@@ -65,23 +82,23 @@ export function MeshBackground() {
       return edges;
     };
 
-    const draw = (ts: number) => {
-      const w = canvas.offsetWidth;
-      const h = canvas.offsetHeight;
+    const renderFrame = (ts: number, still = false) => {
       ctx.clearRect(0, 0, w, h);
 
-      nodes.forEach(n => {
-        n.x += n.vx;
-        n.y += n.vy;
-        if (n.x < 0) { n.x = 0; n.vx *= -1; }
-        if (n.x > w) { n.x = w; n.vx *= -1; }
-        if (n.y < 0) { n.y = 0; n.vy *= -1; }
-        if (n.y > h) { n.y = h; n.vy *= -1; }
-      });
+      if (!still) {
+        nodes.forEach(n => {
+          n.x += n.vx;
+          n.y += n.vy;
+          if (n.x < 0) { n.x = 0; n.vx *= -1; }
+          if (n.x > w) { n.x = w; n.vx *= -1; }
+          if (n.y < 0) { n.y = 0; n.vy *= -1; }
+          if (n.y > h) { n.y = h; n.vy *= -1; }
+        });
+      }
 
-      const edges = getEdges(w, h);
+      const edges = getEdges();
 
-      if (ts - lastPulse > PULSE_INTERVAL && edges.length > 0) {
+      if (!still && ts - lastPulse > PULSE_INTERVAL && edges.length > 0) {
         const [a, b] = edges[Math.floor(Math.random() * edges.length)];
         pulses.push({ a, b, t: 0, speed: 0.007 + Math.random() * 0.005 });
         lastPulse = ts;
@@ -104,6 +121,8 @@ export function MeshBackground() {
         ctx.fill();
       });
 
+      if (still) return;
+
       pulses = pulses.filter(p => {
         p.t += p.speed;
         if (p.t > 1) return false;
@@ -125,18 +144,52 @@ export function MeshBackground() {
         ctx.fill();
         return true;
       });
+    };
 
-      animId = requestAnimationFrame(draw);
+    const loop = (ts: number) => {
+      if (!running) return;
+      animId = requestAnimationFrame(loop);
+      if (ts - lastFrame < frameInterval) return;
+      lastFrame = ts;
+      renderFrame(ts);
+    };
+
+    const start = () => {
+      if (running || reducedMotion) return;
+      running = true;
+      lastFrame = 0;
+      animId = requestAnimationFrame(loop);
+    };
+
+    const stop = () => {
+      running = false;
+      if (animId) cancelAnimationFrame(animId);
+      animId = 0;
+    };
+
+    const sync = () => {
+      if (onScreen && document.visibilityState === 'visible') start();
+      else stop();
     };
 
     resize();
     const ro = new ResizeObserver(resize);
     ro.observe(canvas);
-    animId = requestAnimationFrame(draw);
+
+    const io = new IntersectionObserver(entries => {
+      onScreen = entries.some(e => e.isIntersecting);
+      sync();
+    }, { threshold: 0 });
+    io.observe(canvas);
+
+    document.addEventListener('visibilitychange', sync);
+    sync();
 
     return () => {
-      cancelAnimationFrame(animId);
+      stop();
       ro.disconnect();
+      io.disconnect();
+      document.removeEventListener('visibilitychange', sync);
     };
   }, []);
 

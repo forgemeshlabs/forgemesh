@@ -82,6 +82,15 @@
   transform-origin: center;
 }
 
+/* Cheap life for the static mark: opacity only, composited, no repaint. */
+@keyframes forge-mark-breathe {
+  0%, 72%, 100% { opacity: 0.8; }
+  24% { opacity: 1; }
+}
+.forge-mark-animated {
+  animation: forge-mark-breathe 3.4s ease-out infinite;
+}
+
 .forge-dot-mesh,
 .forge-dot {
   transform-box: fill-box;
@@ -142,6 +151,7 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
+  .forge-mark-animated,
   .forge-mark-animated .forge-dot-line,
   .forge-mark-animated .forge-dot {
     animation: none;
