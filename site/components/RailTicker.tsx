@@ -73,7 +73,7 @@ export function RailTicker() {
     <a
       href="/#rail-pulse"
       aria-label="Rail Pulse — daily MPP and x402 rail stats"
-      className="block overflow-hidden border-t border-white/[0.06] bg-[#050509]/90 backdrop-blur-md"
+      className="block overflow-hidden border-t border-white/[0.06] bg-[#050509]/95"
     >
       <div className="flex h-7 w-max items-center whitespace-nowrap font-mono text-[11px] uppercase tracking-widest rail-ticker-track motion-reduce:animate-none hover:[animation-play-state:paused]">
         {/* content twice for a seamless loop */}

@@ -67,7 +67,7 @@ export function NavBar() {
     <nav
       className={`fixed top-0 inset-x-0 z-50 transition-all duration-300 ${
         scrolled || open
-          ? 'border-b border-white/[0.06] bg-[#050509]/90 backdrop-blur-md'
+          ? 'border-b border-white/[0.06] bg-[#050509]/95'
           : 'bg-transparent'
       }`}
     >
