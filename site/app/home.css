@@ -94,9 +94,9 @@
   border-radius: 8px;
   padding: 22px 20px;
   transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
-  box-shadow: 0 0 0 1px color-mix(in srgb, var(--acc) 6%, transparent),
-    0 6px 20px color-mix(in srgb, var(--acc) 4%, transparent);
-  animation: fm-step-glow 2s ease-in-out infinite;
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--acc) 4%, transparent),
+    0 6px 20px color-mix(in srgb, var(--acc) 2%, transparent);
+  animation: fm-step-glow 1.25s ease-in-out infinite;
   animation-delay: var(--pd);
 }
 /* Glow halos live on a pseudo-element whose OPACITY animates (compositor
@@ -107,24 +107,26 @@
   inset: 0;
   border-radius: 8px;
   pointer-events: none;
-  box-shadow: 0 0 0 2px color-mix(in srgb, var(--acc) 90%, transparent),
-    0 14px 48px color-mix(in srgb, var(--acc) 70%, transparent),
-    0 0 64px color-mix(in srgb, var(--acc) 60%, transparent);
+  box-shadow: 0 0 0 2.5px color-mix(in srgb, var(--acc) 100%, transparent),
+    0 14px 56px color-mix(in srgb, var(--acc) 85%, transparent),
+    0 0 84px color-mix(in srgb, var(--acc) 75%, transparent);
   opacity: 0;
-  animation: fm-glow-opacity 2s ease-in-out infinite;
+  animation: fm-glow-opacity 1.25s ease-in-out infinite;
   animation-delay: var(--pd);
 }
+/* heartbeat: one quick flare, fade, rest — 1.25 s cycle */
 @keyframes fm-glow-opacity {
   0%, 100% { opacity: 0; }
-  38%, 62% { opacity: 1; }
+  12% { opacity: 1; }
+  48% { opacity: 0; }
 }
 .fm-step:nth-child(1) { --pd: 0s; }
 .fm-step:nth-child(2) { --acc: var(--acc2); --pd: 0.3s; }
 .fm-step:nth-child(3) { --acc: var(--acc3); --pd: 0.6s; }
 .fm-step:nth-child(4) { --acc: var(--acc4); --pd: 0.9s; }
 @keyframes fm-step-glow {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(1.015); }
+  0%, 48%, 100% { transform: scale(1); }
+  12% { transform: scale(1.02); }
 }
 .fm-step:hover {
   transform: translateY(-5px) scale(1.02);
@@ -139,8 +141,8 @@
   --acc: var(--acc1);
   --pd: 0s;
   position: relative;
-  box-shadow: 0 0 0 1px color-mix(in srgb, var(--acc) 6%, transparent),
-    0 4px 16px color-mix(in srgb, var(--acc) 4%, transparent);
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--acc) 4%, transparent),
+    0 4px 16px color-mix(in srgb, var(--acc) 2%, transparent);
 }
 .fm-glow-card::after {
   content: '';
@@ -148,11 +150,11 @@
   inset: 0;
   border-radius: inherit;
   pointer-events: none;
-  box-shadow: 0 0 0 2px color-mix(in srgb, var(--acc) 95%, transparent),
-    0 12px 52px color-mix(in srgb, var(--acc) 75%, transparent),
-    0 0 70px color-mix(in srgb, var(--acc) 65%, transparent);
+  box-shadow: 0 0 0 2.5px color-mix(in srgb, var(--acc) 100%, transparent),
+    0 12px 60px color-mix(in srgb, var(--acc) 90%, transparent),
+    0 0 90px color-mix(in srgb, var(--acc) 80%, transparent);
   opacity: 0;
-  animation: fm-glow-opacity 2s ease-in-out infinite;
+  animation: fm-glow-opacity 1.25s ease-in-out infinite;
   animation-delay: var(--pd);
 }
 .fm-glow-card:nth-child(8n+1) { --acc: var(--acc1); --pd: 0s; }
@@ -213,11 +215,11 @@
   border-radius: 50%;
   background: var(--acc);
   box-shadow: 0 0 10px color-mix(in srgb, var(--acc) 80%, transparent);
-  animation: fm-node-pulse 1.3s ease-out infinite;
+  animation: fm-node-pulse 1.25s ease-in-out infinite;
 }
 @keyframes fm-node-pulse {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(1.35); }
+  0%, 48%, 100% { transform: scale(1); }
+  12% { transform: scale(1.45); }
 }
 .fm-step h3 {
   font-family: var(--sans);
@@ -303,12 +305,12 @@
   width: 3px;
   background: var(--acc);
   box-shadow: 0 0 16px 2px color-mix(in srgb, var(--acc) 100%, transparent);
-  animation: fm-row-glow 2.2s ease-in-out infinite;
+  animation: fm-row-glow 1.25s ease-in-out infinite;
   animation-delay: var(--pd);
 }
 @keyframes fm-row-glow {
-  0%, 100% { opacity: 0.25; }
-  40%, 60% { opacity: 1; }
+  0%, 48%, 100% { opacity: 0.15; }
+  12% { opacity: 1; }
 }
 .fm-ledger tbody tr:hover {
   background: color-mix(in srgb, var(--acc) 16%, transparent);
