@@ -4,6 +4,7 @@ const links = [
   { label: 'What is x402?', href: '/x402' },
   { label: 'HTTP 402 history', href: '/402-payment-required' },
   { label: 'Blog', href: '/blog' },
+  { label: 'x402 Verified', href: '/partners' },
   { label: 'GitHub', href: 'https://github.com/forgemeshlabs' },
   { label: 'X / Twitter', href: 'https://x.com/forgemeshlabs' },
   { label: 'Field Notes', href: 'https://aitinkers.fun' },

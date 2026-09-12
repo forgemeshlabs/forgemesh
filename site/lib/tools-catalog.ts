@@ -47,6 +47,7 @@ export const TOOL_GROUPS: ToolGroup[] = [
     rows: [
       { name: 'Rail Pulse', href: '/#rail-pulse', what: 'Live x402 and MPP transaction and volume telemetry, refreshed 4×/day', cost: 'free', for: ['humans', 'agents'] },
       { name: 'Repo Watch', href: '/repo-watch', what: 'Every x402 release across the ecosystem, tagged breaking / security / chain', cost: 'free', for: ['builders'], featured: true },
+      { name: 'x402 Verified', href: '/partners', what: 'x402 sellers with a settled on-chain payment behind every row, scored 0-100, $ when ForgeMesh paid them, with a README badge', cost: 'free', for: ['builders', 'agents'], featured: true },
       { name: 'Payment Rules Watch', href: '/payment-rules', what: 'Are Visa, Mastercard or Stripe proposing agent-payment pricing rules? Status light + feed', cost: 'free', for: ['builders'] },
       { name: 'Texas Watch', href: '/texas', what: 'ERCOT grid vs. the data-center queue, tracked', cost: 'free', for: ['humans'] },
       { name: '402 Payment Required', href: '/402-payment-required', what: 'The status code explained, with live examples', cost: 'free', for: ['builders'] },

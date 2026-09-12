@@ -13,6 +13,15 @@
   },
   "projects": [
     {
+      "name": "x402 Verified",
+      "type": "directory",
+      "page": "https://forgemesh.io/partners",
+      "data": "https://forgemesh.io/partners.json",
+      "github": "https://github.com/forgemeshlabs/x402-verified",
+      "badge_pattern": "https://forgemesh.io/badge/x402/{slug}",
+      "description": "Independent ForgeMesh program: x402 sellers with a settled on-chain payment behind every row, a recomputable 0-100 ForgeMesh Verified Score, a $ mark when ForgeMesh itself has transacted with the seller, a ★ mark at a perfect score, and a live README badge."
+    },
+    {
       "name": "x402 Proxy",
       "type": "hosted_platform",
       "page": "https://forgemesh.io/proxy",
