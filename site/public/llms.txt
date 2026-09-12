@@ -13,6 +13,21 @@
 - HTTP 402 Payment Required: https://forgemesh.io/402-payment-required — history of the 402 status code (1997 reserved → 2025 activated) and why it matters now
 - Blog: https://forgemesh.io/blog — protocol news and original x402 ecosystem data (Bazaar crawler, refreshed 3x daily)
 
+## x402 Verified by ForgeMesh
+Independent ForgeMesh program that checks x402 sellers and publishes a machine-readable feed. Not
+an x402 Foundation or Coinbase certification, endorsement, or official program.
+- Page: https://forgemesh.io/partners
+- Machine feed: https://forgemesh.io/partners.json
+- Repository: https://github.com/forgemeshlabs/x402-verified
+- Badge pattern (SVG): https://forgemesh.io/badge/x402/{slug}
+- Badge pattern (shields.io JSON): https://forgemesh.io/badge/x402/{slug}/shields
+- Four independent signals, one claim each:
+  - Score (0-100): current technical quality of the x402 implementation, recomputable from the feed.
+  - $ ForgeMesh Paid: ForgeMesh itself completed and independently verified a real x402 transaction with the seller.
+  - ★ Perfect: the seller currently scores exactly 100/100.
+  - Status: active | degraded | delisted — current operating health.
+- Agent policy example (filter the feed yourself): {"protocol":"x402","status":"active","minimum_score":85,"prefer_forgemesh_paid":true,"max_price_usdc":0.05}
+
 ## Paid Machine-Readable Product Registry (x402)
 Agents can buy the full ForgeMesh product registry — every production service, its data category, route counts, price ranges, and per-endpoint input schemas with worked examples — via x402 USDC micropayments on Base. First probe is free: POST either endpoint with no payment to receive a 402 challenge carrying the input schema, price, and a worked example.
 - Product catalog ($0.05): POST https://x402.forgemesh.io/fleet-products — all products with category, summary, route count, price range

@@ -194,6 +194,12 @@ export function ScanTool() {
             <p className="mt-5 border-l-2 border-white/[0.12] pl-4 text-sm leading-7 text-slate-300">{result.first_finding}</p>
           ) : null}
 
+          {result.grade === 'A' || result.grade === 'B' ? (
+            <p className="mt-4 text-sm text-slate-400">
+              Got an {result.grade}? <a href="/partners" className="text-blue-400 hover:text-blue-300">Get listed on x402 Verified →</a>
+            </p>
+          ) : null}
+
           <div className="mt-6 rounded border border-blue-500/25 bg-blue-500/[0.06] p-5">
             <p className="text-sm leading-7 text-slate-300">
               {hiddenFindings > 0 ? (

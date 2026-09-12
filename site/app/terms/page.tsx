@@ -49,9 +49,13 @@ export default function Page() {
                   <li>
                     <strong className="text-slate-100">Scores and audits are opinions, not guarantees.</strong>{' '}
                     ASO / agent-readiness scores, SEO authority scores, landing-page health states, endpoint
-                    audits and similar outputs are heuristic, experimental and will change as standards evolve.
-                    They do not guarantee rankings, conversions, ad performance, agent behaviour or compliance
-                    with any platform&rsquo;s policies.
+                    audits, the ForgeMesh Verified Score, and the ForgeMesh Paid and Perfect marks, and similar
+                    outputs are heuristic, experimental and will change as standards evolve. They do not
+                    guarantee rankings, conversions, ad performance, agent behaviour or compliance with any
+                    platform&rsquo;s policies. A listing on x402 Verified by ForgeMesh records checks and, where
+                    applicable, a settled payment at a point in time; it is not an endorsement, warranty, or
+                    guarantee, and x402 Verified by ForgeMesh is not affiliated with the x402 Foundation or
+                    Coinbase.
                   </li>
                   <li>
                     <strong className="text-slate-100">AI Skills act through your agent.</strong> Our AI Skills
