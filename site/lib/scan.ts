@@ -1,6 +1,8 @@
 // x402 endpoint health scanner — same probe logic as the paid stuffer endpoint
 // (~/repos/x402-forgemesh-stuffer/src/handlers/x402scan.js), ported for the site's
 // free browser scan and the paid $5 report. Keep the two in sync when grading changes.
+// A third twin lives at ~/repos/x402-verified/scripts/lib/probe.js (the x402 Verified
+// repo's CJS probe, used for /partners scoring) — keep all three in sync.
 import { promises as dns } from 'node:dns';
 import net from 'node:net';
 

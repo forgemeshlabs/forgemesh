@@ -1,6 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { allPosts } from '@/lib/runtime-blog';
 import { loadVinProblemsIndex } from '@/lib/vin-problems';
+import { loadVerified } from '@/lib/verified-data';
 
 // Regenerated per-request so runtime-published posts are indexed immediately.
 export const dynamic = 'force-dynamic';
@@ -29,6 +30,7 @@ const STATIC_ROUTES = [
   '/kronos/field-guide/preview',
   '/mpp',
   '/new-here',
+  '/partners',
   '/proxy',
   '/scan',
   '/seo',
@@ -43,12 +45,13 @@ const STATIC_ROUTES = [
 ];
 
 // Non-HTML discovery surfaces we deliberately expose to AI crawlers.
-const DISCOVERY_ROUTES = ['/llms.txt', '/index.json', '/.well-known/x402'];
+const DISCOVERY_ROUTES = ['/llms.txt', '/index.json', '/.well-known/x402', '/partners.json'];
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const POSTS = allPosts();
   const latestPost = POSTS.map((p) => p.date).sort().reverse()[0];
   const VIN_PROBLEMS = loadVinProblemsIndex();
+  const VERIFIED_SELLERS = loadVerified().sellers;
 
   return [
     ...STATIC_ROUTES.map((path) => ({
@@ -61,6 +64,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: p.date,
     })),
     ...VIN_PROBLEMS.map((e) => ({ url: `${BASE}/vin/${e.slug}` })),
+    ...VERIFIED_SELLERS.map((s) => ({ url: `${BASE}/partners/${s.slug}` })),
     ...DISCOVERY_ROUTES.map((path) => ({ url: `${BASE}${path}` })),
   ];
 }
