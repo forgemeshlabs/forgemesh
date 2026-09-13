@@ -63,8 +63,8 @@ function DecisionTracker({ events }: { events: CalEvent[] }) {
   const rows = events.filter((e) => e.track);
   if (!rows.length) return null;
   return (
-    <section className="border-t border-white/[0.06] px-6 py-10" aria-label="Decision tracker">
-      <div className="mx-auto max-w-5xl">
+    <section className="mt-14" aria-label="Decision tracker">
+      <div>
         <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">Decision tracker</p>
         <h2 className="mt-2 text-xl font-semibold text-slate-50">Two decisions, 24 hours apart</h2>
         <p className="mt-2 max-w-2xl text-sm leading-6 text-slate-400">
@@ -72,7 +72,7 @@ function DecisionTracker({ events }: { events: CalEvent[] }) {
           once it lands. Results are filled in from the primary source the same day.
         </p>
         <div className="mt-5 overflow-x-auto rounded border border-white/[0.06] bg-white/[0.02]">
-          <table className="w-full min-w-[640px] text-left text-sm">
+          <table className="w-full min-w-[600px] text-left text-sm">
             <thead>
               <tr className="border-b border-white/[0.08] font-mono text-[10px] uppercase tracking-wider text-slate-500">
                 <th className="px-4 py-3">Date</th>
@@ -85,9 +85,9 @@ function DecisionTracker({ events }: { events: CalEvent[] }) {
             <tbody>
               {rows.map((e) => (
                 <tr key={e.id || e.date + e.title} className="border-b border-white/[0.04] last:border-0 align-top">
-                  <td className="whitespace-nowrap px-4 py-3 font-mono text-slate-200">
-                    <time dateTime={e.date}>{fmtShort(e.date)}{e.endDate ? `–${fmtShort(e.endDate)}` : ''}</time>
-                    {e.time ? <span className="block text-[11px] text-slate-500">{e.time}</span> : null}
+                  <td className="w-44 px-4 py-3 font-mono text-slate-200">
+                    <time dateTime={e.date} className="whitespace-nowrap">{fmtShort(e.date)}{e.endDate ? `–${fmtShort(e.endDate)}` : ''}</time>
+                    {e.time ? <span className="mt-0.5 block text-[11px] leading-4 text-slate-500">{e.time}</span> : null}
                   </td>
                   <td className="px-4 py-3">
                     <a href={`#${e.id || e.date}`} className="text-slate-100 hover:text-blue-300">{e.title}</a>
@@ -306,8 +306,6 @@ export default function Page() {
           </div>
         </section>
 
-        <DecisionTracker events={sorted} />
-
         {months.length ? (
           <section className="border-t border-white/[0.06] px-6 py-10" aria-label="Month view">
             <div className="mx-auto max-w-5xl">
@@ -377,6 +375,8 @@ export default function Page() {
                 );
               })}
             </ol>
+
+            <DecisionTracker events={sorted} />
 
             {past.length ? (
               <>
