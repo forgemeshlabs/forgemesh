@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("cloudflare-september-15-crawler-defaults", "What Cloudflare's Sept 15 Switch Actually Does. To You, and to Google.", "Nothing changes for existing sites · a deadline for Google · same door for agents"),
     ("kronos-field-guide-launch", "The Kronos Field Guide: The Build Kit That Shows What Broke", "14,959 forecasts scored · 3 bugs published, not hidden"),
     ("autonomous-agents-are-buying-atoms-now", "Autonomous AI Agents Aren't Just Buying Data Anymore. One Just Bought a Shirt.", "165M x402 payments were bytes. Today one was atoms: 6 HTTP calls, 0 humans"),
     ("first-x402-physical-order-bought-with-curl", "Someone Bought a T-Shirt With curl. The Receipt Is on Base.", "402 → signed USDC → 200 → in production 16 min later"),

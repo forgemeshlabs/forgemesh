@@ -1,0 +1,88 @@
+{
+  "slug": "cloudflare-september-15-crawler-defaults",
+  "date": "2026-09-13",
+  "title": "What Cloudflare's September 15 Switch Actually Does. To You, and to Google.",
+  "excerpt": "On Tuesday Cloudflare flips new default rules for AI crawlers. We had been calling it a wall going up across the web. It is smaller than that for site owners, bigger than that for Google, Microsoft and Apple, and the same thing it has always been for agents: identify yourself and pay, or stay outside. Here is the precise version.",
+  "tags": [
+    "cloudflare",
+    "ai-crawlers",
+    "x402",
+    "agent-economy"
+  ],
+  "description": "What changes on September 15 when Cloudflare's new AI-crawler defaults switch on: who is affected (new domains, not existing sites), why mixed-purpose crawlers like Googlebot are the real target, and what it means for agents that pay over 402.",
+  "seoTitle": "Cloudflare Sept 15 AI Crawler Defaults Explained | ForgeMesh",
+  "seoDescription": "Cloudflare's Sept 15 change: training and agent crawlers blocked by default on ad pages for new domains; mixed crawlers like Googlebot blocked wherever training is blocked. Who it hits, who it doesn't.",
+  "twitterTitle": "Cloudflare's Sept 15 switch: smaller for you, bigger for Google, same for agents.",
+  "twitterDescription": "New defaults for new domains, not a wall across the web. The real bite is on mixed crawlers that bundle search with training. Agents still get in the same way: identify and pay.",
+  "heroAlt": "A tall translucent wall at the edge of a glowing city grid at night, three gates, one open and lit while small crawler robots wait outside the closed ones and a single robot passes through carrying a coin",
+  "breadcrumb": "Cloudflare Sept 15",
+  "lede": "Two weeks ago we wrote that **September 15** is a double-header: Cloudflare walls off mixed-use AI crawlers the same afternoon the Senate votes cloture on the CLARITY Act. The CLARITY half is exactly as described. The Cloudflare half we oversold in one line, and since a lot of you will be watching Tuesday because we told you to, here is the precise version of what switches on, who it touches, and who it does not. Short answer: for an existing site, nothing changes. For a new one, the defaults get stricter. For Google, Microsoft and Apple, a deadline lands. For agents, the door is the same door it has been for a year: say who you are, and pay.",
+  "sections": [
+    {
+      "heading": "What actually switches on",
+      "paras": [
+        "Cloudflare now sorts every crawler it sees into three buckets. **Search** collects and indexes your content so it can answer questions about it later. **Training** takes your content to train or fine-tune a model. **Agent** is automated behavior acting, usually in real time, on a person's behalf.",
+        "On September 15 the defaults for those buckets change **for domains that are new to Cloudflare**. On pages that display ads, training and agent crawlers are blocked by default. Search stays allowed. That is the whole rule. It is written in Cloudflare's own words in the [post that announced it](https://blog.cloudflare.com/content-independence-day-ai-options/), and nothing in that post touches HTTP 402, pay-per-crawl, or the Monetization Gateway. Those are separate products on their own timelines.",
+        "The line we got wrong: we said the new default covered new customers, new sites, and every free-plan site. Cloudflare says new domains onboarding. Existing sites keep whatever they have unless they opt in, and anyone who wanted to opt out of the new defaults could mark it in their security settings ahead of the date. We have corrected the calendar entry and the earlier post."
+      ],
+      "stats": [
+        {
+          "n": "3",
+          "d": "crawler buckets: search, training, agent"
+        },
+        {
+          "n": "New domains",
+          "d": "get the stricter defaults; existing sites do not change"
+        },
+        {
+          "n": "Ad pages",
+          "d": "are where training and agent bots get blocked by default"
+        }
+      ]
+    },
+    {
+      "heading": "What it means to you, if you run a site",
+      "paras": [
+        "If your site is already on Cloudflare: nothing happens on Tuesday. Your settings are your settings. The ability to gate AI crawlers is not new; every Cloudflare customer, free plan included, has had a one-toggle block for AI bots since July 2025, and new customers have had training crawlers blocked by default since then. If we ever left you with the impression your site could not be gated until September 15, we were wrong; it can be gated today, and it could be gated last year.",
+        "If you put a new domain on Cloudflare after Tuesday: training and agent bots are blocked on your ad-supported pages out of the box, and search bots get through. You can loosen or tighten it in the dashboard the same way you always could.",
+        "If you want to charge instead of block: that is the [Monetization Gateway](https://blog.cloudflare.com/monetization-gateway/), announced July 1 and still waitlist-only. It lets you put a price on any page, dataset, API or MCP tool behind Cloudflare and settle over x402 at the edge. It is a different lever from the September 15 defaults, and it is the one we actually care about, because it is the same protocol our whole fleet already answers with."
+      ]
+    },
+    {
+      "heading": "What it means to Google, Microsoft and Apple",
+      "paras": [
+        "This is where the date has teeth. Googlebot, Bingbot and Applebot are **multi-purpose** crawlers: one bot does the search indexing you want and the model training you may not. Cloudflare's rule is blunt about them. A multi-purpose crawler is blocked by every customer who has chosen to block training.",
+        "So the deadline is really aimed at the AI companies, not at site owners. Separate your crawlers so a site can allow your search bot and refuse your training bot, or accept that sites blocking training will block your search bot too, and lose the index. Cloudflare gave them until Tuesday to make that split. Whether Google ships a clean separation, quietly narrows what its search crawler is allowed to feed, or argues the classification, is the thing worth watching this week. Nobody else is putting that choice in front of them at a chokepoint that fronts roughly a fifth of the web.",
+        "Cloudflare's stated reason is the ratio. AI crawlers, by its numbers, request content anywhere from a hundred to tens of thousands of times for every visitor they send back. Search earned its free crawl with referrals. Training and agents have not."
+      ]
+    },
+    {
+      "heading": "What it means to agents, which is our world",
+      "paras": [
+        "Agent traffic lands in the blocked-by-default bucket on new ad-supported sites. That is the part that matters to anyone building buyers: an anonymous agent hitting a fresh Cloudflare site after Tuesday gets a 403, not a page. The way in is unchanged and now sanctioned in writing: authenticate with Web Bot Auth so the edge knows who you are, and where the site has set a price, pay it over 402 and repeat the request with the receipt.",
+        "That is precisely the loop our 19 paid surfaces run today, and it is why we track this date at all. We are not the site being protected; we are the seller who wants the bot to show up with a wallet. Every default that turns anonymous scraping into identified, paid access moves more of the web onto the rail we already speak. It is a slow move, one new domain at a time, not a switch for the whole internet. But the direction is set, and Tuesday is one more notch."
+      ]
+    },
+    {
+      "heading": "What to watch on Tuesday",
+      "paras": [
+        "Morning: whether Google, Microsoft or Apple announce separated crawlers or a policy response. Afternoon, 2:15 PM ET: the Senate cloture vote on CLARITY, which needs 60 and decides which agency writes the rulebook for the money these payments settle in. Wednesday, 2:00 PM ET: the Fed's rate decision, which sets the price of the stablecoin float underneath all of it. All three are on our [calendar](/calendar) with live countdowns, and the results get filled in the day they land."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "The dates, with results",
+    "copy": "Cloudflare, CLARITY and the Fed, 24 hours apart, on one page with countdowns and outcomes filled in the day they land: forgemesh.io/calendar."
+  },
+  "related": [
+    {
+      "slug": "fall-2026-calendar-convergence",
+      "text": "Every clock in the machine economy strikes this fall. We lined up the dates."
+    },
+    {
+      "slug": "x402-foundation-linux-foundation-launch",
+      "text": "x402 moves to the Linux Foundation, and Cloudflare opens the Monetization Gateway waitlist."
+    }
+  ],
+  "image": "/content/assets/cloudflare-september-15-crawler-defaults.png"
+}
