@@ -1,7 +1,9 @@
 'use client';
-// Home-page countdown strip. Reads /calendar.json (same file that powers
-// /calendar) and shows every upcoming event flagged `home: true`, soonest
-// first. Edit public/calendar.json to add/remove — no rebuild.
+// Home-page countdown strip (temporary by design — sits above Rail Pulse).
+// Reads /calendar.json (same file that powers /calendar) and shows every
+// upcoming event flagged `home: true`, soonest first. Cards expire on their
+// own: an event drops off once its last day (UTC) has passed, and the whole
+// strip disappears when nothing is left. Edit public/calendar.json — no rebuild.
 import { useEffect, useState } from 'react';
 
 type CalEvent = {
@@ -30,7 +32,7 @@ function label(e: CalEvent): { text: string; cls: string } {
   if (d > 1) return { text: `${d} days`, cls: 'text-blue-200' };
   if (d === 1) return { text: 'tomorrow', cls: 'text-blue-100' };
   if (d <= 0 && dEnd >= 0) return { text: 'today', cls: 'text-blue-50' };
-  return { text: `${-dEnd}d ago`, cls: 'text-slate-500' };
+  return { text: 'done', cls: 'text-slate-500' }; // unreachable after the >= 0 filter; kept for safety
 }
 
 export function CalendarStrip() {
@@ -43,7 +45,7 @@ export function CalendarStrip() {
       .then((d) => {
         if (cancelled) return;
         const list: CalEvent[] = (d?.events || [])
-          .filter((e: CalEvent) => e.home && daysOut(e.endDate || e.date) >= -1)
+          .filter((e: CalEvent) => e.home && daysOut(e.endDate || e.date) >= 0)
           .sort((a: CalEvent, b: CalEvent) => a.date.localeCompare(b.date))
           .slice(0, 3);
         setEvents(list);

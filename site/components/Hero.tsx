@@ -79,8 +79,8 @@ export function Hero() {
         {/* Rail Pulse — real-world rail data above the fold (operator, 2026-08-26).
             Terminal graphic retired 2026-08-26 (operator: "it's served its time"). */}
         <div className="w-full">
-          <RailPulse embedded />
           <CalendarStrip />
+          <RailPulse embedded />
           <RepoWatchStrip />
           <RulesWatchStrip />
         </div>
