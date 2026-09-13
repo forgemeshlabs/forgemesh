@@ -63,8 +63,8 @@ function DecisionTracker({ events }: { events: CalEvent[] }) {
   const rows = events.filter((e) => e.track);
   if (!rows.length) return null;
   return (
-    <section className="mt-14" aria-label="Decision tracker">
-      <div>
+    <section className="border-t border-white/[0.06] px-6 py-10" aria-label="Decision tracker">
+      <div className="mx-auto max-w-5xl">
         <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">Decision tracker</p>
         <h2 className="mt-2 text-xl font-semibold text-slate-50">Two decisions, 24 hours apart</h2>
         <p className="mt-2 max-w-2xl text-sm leading-6 text-slate-400">
@@ -306,6 +306,8 @@ export default function Page() {
           </div>
         </section>
 
+        <DecisionTracker events={sorted} />
+
         {months.length ? (
           <section className="border-t border-white/[0.06] px-6 py-10" aria-label="Month view">
             <div className="mx-auto max-w-5xl">
@@ -375,8 +377,6 @@ export default function Page() {
                 );
               })}
             </ol>
-
-            <DecisionTracker events={sorted} />
 
             {past.length ? (
               <>
