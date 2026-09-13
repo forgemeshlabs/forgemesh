@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T13:49:00.000Z",
+  "updatedAt": "2026-09-13T14:06:00.000Z",
   "events": [
     {
       "id": "trump-crypto-meeting",
@@ -35,7 +35,7 @@
       "date": "2026-09-15",
       "title": "Cloudflare default-blocks mixed-use AI crawlers",
       "tag": "rails",
-      "what": "Crawlers that blend search, AI training, and agent use get blocked by default on ad-hosting pages for new customers, new sites, and all free-plan sites. AI companies had until today to separate their crawlers.",
+      "what": "New defaults switch on for domains onboarding to Cloudflare: AI training and agent crawlers are blocked on pages that show ads, search crawlers stay allowed, and any mixed-purpose crawler that bundles training with search (Googlebot, Bingbot, Applebot) is blocked wherever a site blocks training. Existing sites keep their settings unless they opt in. Nothing about HTTP 402 or pay-per-crawl changes that day.",
       "why": "The open web starts gating machine traffic at the edge — and paid, identified access (the thing x402 sells) becomes the sanctioned path in. Cloudflare's pay-per-crawl marketplace is evolving into pay-per-use alongside it.",
       "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
       "post": "/blog/fall-2026-case-file",
