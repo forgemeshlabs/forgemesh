@@ -24,7 +24,88 @@ type CalEvent = {
   why: string;
   link?: string;
   post?: string; // related forgemesh.io blog path
+  // Decision tracker (optional): events with track:true get a row in the
+  // Date / Status / Result table at the top. Fill `status` + `result` in
+  // calendar.json when the outcome lands — no rebuild.
+  track?: boolean;
+  time?: string; // human time note, e.g. "2:15 PM ET"
+  status?: 'scheduled' | 'live' | 'delayed' | 'passed' | 'failed' | 'decided';
+  result?: string | null; // e.g. "Cloture failed 54–46" or "Hold at 3.50–3.75%"
 };
+
+const STATUS_STYLE: Record<NonNullable<CalEvent['status']>, { label: string; cls: string }> = {
+  scheduled: { label: 'scheduled', cls: 'border-slate-500/40 text-slate-300' },
+  live: { label: 'live', cls: 'border-blue-400/60 text-blue-100' },
+  delayed: { label: 'delayed', cls: 'border-amber-500/40 text-amber-300' },
+  passed: { label: 'passed', cls: 'border-emerald-500/40 text-emerald-300' },
+  failed: { label: 'failed', cls: 'border-rose-500/40 text-rose-300' },
+  decided: { label: 'decided', cls: 'border-sky-500/40 text-sky-300' },
+};
+
+function effectiveStatus(e: CalEvent): NonNullable<CalEvent['status']> {
+  if (e.status && e.status !== 'scheduled') return e.status;
+  const d = daysOut(e.date);
+  const dEnd = daysOut(e.endDate || e.date);
+  if (d <= 0 && dEnd >= 0) return 'live';
+  return 'scheduled';
+}
+
+function StatusPill({ e }: { e: CalEvent }) {
+  const st = STATUS_STYLE[effectiveStatus(e)];
+  return (
+    <span className={`rounded-full border px-2.5 py-0.5 font-mono text-[10px] uppercase tracking-wider ${st.cls}`}>
+      {st.label}
+    </span>
+  );
+}
+
+function DecisionTracker({ events }: { events: CalEvent[] }) {
+  const rows = events.filter((e) => e.track);
+  if (!rows.length) return null;
+  return (
+    <section className="border-t border-white/[0.06] px-6 py-10" aria-label="Decision tracker">
+      <div className="mx-auto max-w-5xl">
+        <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">Decision tracker</p>
+        <h2 className="mt-2 text-xl font-semibold text-slate-50">Two decisions, 24 hours apart</h2>
+        <p className="mt-2 max-w-2xl text-sm leading-6 text-slate-400">
+          The rulebook vote and the rate decision, side by side. Countdown until the day; status and result
+          once it lands. Results are filled in from the primary source the same day.
+        </p>
+        <div className="mt-5 overflow-x-auto rounded border border-white/[0.06] bg-white/[0.02]">
+          <table className="w-full min-w-[640px] text-left text-sm">
+            <thead>
+              <tr className="border-b border-white/[0.08] font-mono text-[10px] uppercase tracking-wider text-slate-500">
+                <th className="px-4 py-3">Date</th>
+                <th className="px-4 py-3">Event</th>
+                <th className="px-4 py-3">Countdown</th>
+                <th className="px-4 py-3">Status</th>
+                <th className="px-4 py-3">Result</th>
+              </tr>
+            </thead>
+            <tbody>
+              {rows.map((e) => (
+                <tr key={e.id || e.date + e.title} className="border-b border-white/[0.04] last:border-0 align-top">
+                  <td className="whitespace-nowrap px-4 py-3 font-mono text-slate-200">
+                    <time dateTime={e.date}>{fmtShort(e.date)}{e.endDate ? `–${fmtShort(e.endDate)}` : ''}</time>
+                    {e.time ? <span className="block text-[11px] text-slate-500">{e.time}</span> : null}
+                  </td>
+                  <td className="px-4 py-3">
+                    <a href={`#${e.id || e.date}`} className="text-slate-100 hover:text-blue-300">{e.title}</a>
+                  </td>
+                  <td className="whitespace-nowrap px-4 py-3"><Countdown e={e} /></td>
+                  <td className="whitespace-nowrap px-4 py-3"><StatusPill e={e} /></td>
+                  <td className="px-4 py-3 text-slate-300">
+                    {e.result ? e.result : <span className="text-slate-600">—</span>}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+  );
+}
 
 const TAG_STYLE: Record<CalEvent['tag'], { label: string; cls: string; dot: string }> = {
   rails: { label: '⚡ rails', cls: 'border-blue-500/40 text-blue-300', dot: 'bg-blue-400' },
@@ -225,6 +306,8 @@ export default function Page() {
           </div>
         </section>
 
+        <DecisionTracker events={sorted} />
+
         {months.length ? (
           <section className="border-t border-white/[0.06] px-6 py-10" aria-label="Month view">
             <div className="mx-auto max-w-5xl">
@@ -257,6 +340,7 @@ export default function Page() {
                           {fmtDate(e.date)}{e.endDate ? ` – ${fmtShort(e.endDate)}` : ''}
                         </time>
                         <Countdown e={e} />
+                        {e.track ? <StatusPill e={e} /> : null}
                         <span className={`ml-auto rounded-full border px-2.5 py-0.5 font-mono text-[10px] uppercase tracking-wider ${tag.cls}`}>
                           {tag.label}
                         </span>
@@ -265,6 +349,12 @@ export default function Page() {
                         {e.title}
                       </h2>
                       <p className="mt-2 text-sm leading-6 text-slate-400">{e.what}</p>
+                      {e.result ? (
+                        <p className="mt-2 text-sm leading-6 text-slate-100">
+                          <span className="font-mono text-[10px] uppercase tracking-wider text-emerald-300/80">result · </span>
+                          {e.result}
+                        </p>
+                      ) : null}
                       <p className="mt-2 text-sm leading-6 text-slate-300">
                         <span className="font-mono text-[10px] uppercase tracking-wider text-blue-300/80">why it matters · </span>
                         {e.why}
@@ -306,6 +396,7 @@ export default function Page() {
                           <a href={e.post} className="text-blue-400/80 hover:text-blue-300">our coverage ↗</a>
                         ) : null}
                       </span>
+                      {e.result ? <span className="block text-slate-200">Result: {e.result}</span> : null}
                       <span className="block text-slate-500">{e.what}</span>
                     </li>
                   ))}
