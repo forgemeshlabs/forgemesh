@@ -28,7 +28,7 @@
     {
       "heading": "September 15: the double-header",
       "paras": [
-        "Two unrelated institutions picked the same day. **Cloudflare** default-blocks crawlers that blend search, AI training, and agent use on ad-hosting pages — for new customers, new sites, and every free-plan site. The open web starts gating machine traffic at the edge, and paid, identified access becomes the sanctioned way in. That's the thesis behind pay-per-call rails like x402, implemented as a network default at one of the internet's biggest chokepoints.",
+        "Two unrelated institutions picked the same day. **Cloudflare** default-blocks AI training and agent crawlers on ad-supported pages, and any mixed-purpose crawler that bundles training with search gets blocked wherever a site blocks training — the new default for domains onboarding to Cloudflare; existing sites keep their settings unless they opt in. The open web starts gating machine traffic at the edge, and paid, identified access becomes the sanctioned way in. That's the thesis behind pay-per-call rails like x402, implemented as a network default at one of the internet's biggest chokepoints.",
         "Same day, the **Senate votes cloture on the CLARITY Act** — 60 votes to advance the digital-asset market-structure bill, and a failed vote likely kills it this Congress. One day decides both how machines get charged at the door of the web, and which agency writes the rulebook for the money they pay with. If you follow one date this fall, it's this one."
       ]
     },
