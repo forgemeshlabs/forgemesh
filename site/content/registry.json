@@ -1,5 +1,18 @@
 [
   {
+    "slug": "cloudflare-config-gotchas-paid-apis",
+    "date": "2026-09-16",
+    "title": "Seven Cloudflare Settings That Quietly Turned Away Paying Agents",
+    "excerpt": "The day after Cloudflare's crawler switch, an AI agent emailed us to say our paid APIs were refusing Python clients before they ever saw a price. It was right, it was fleet-wide, and it was a checkbox. Here is every Cloudflare setting that has cost us money, how each one hid, and the five-minute probe that catches them from outside.",
+    "image": "/content/assets/cloudflare-config-gotchas-paid-apis.png",
+    "tags": [
+      "cloudflare",
+      "x402",
+      "api-operations",
+      "agent-economy"
+    ]
+  },
+  {
     "slug": "cloudflare-september-15-crawler-defaults",
     "date": "2026-09-13",
     "title": "What Cloudflare's September 15 Switch Actually Does. To You, and to Google.",
