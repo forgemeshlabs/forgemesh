@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("cloudflare-config-gotchas-paid-apis", "Seven Cloudflare Settings That Quietly Turned Away Paying Agents", "13 hosts · 3 zones · one checkbox · found by an AI agent, not by us"),
     ("cloudflare-september-15-crawler-defaults", "What Cloudflare's Sept 15 Switch Actually Does. To You, and to Google.", "Nothing changes for existing sites · a deadline for Google · same door for agents"),
     ("kronos-field-guide-launch", "The Kronos Field Guide: The Build Kit That Shows What Broke", "14,959 forecasts scored · 3 bugs published, not hidden"),
     ("autonomous-agents-are-buying-atoms-now", "Autonomous AI Agents Aren't Just Buying Data Anymore. One Just Bought a Shirt.", "165M x402 payments were bytes. Today one was atoms: 6 HTTP calls, 0 humans"),

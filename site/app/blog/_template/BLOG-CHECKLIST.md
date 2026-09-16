@@ -53,6 +53,17 @@ Both lanes: house voice — field-report first person plural, concrete numbers, 
 - [ ] Commit (NO AI co-author trailers — repo hook blocks them)
 
 ## 5. Cross-post (standing rule — all of these, every time)
+
+**ONE COMMAND (runtime-lane posts, since 2026-09-16):**
+`node scripts/blast.mjs <slug> [--dry] [--x-text "..."] [--kicker "..."] [--skip=devto,x,ig,cards]`
+Derives the dev.to markdown, X text (twitterDescription/excerpt → 280), pin/IG card entry
+from `content/posts/<slug>.json`, runs dev.to → X → cards → IG(+FB non-fatal), and prints the
+Pinterest prefilled URL (CC opens it in Chrome and clicks Save) and a suggested HN title (never
+auto-submitted). Idempotent on `~/dev/bpp-social/data/crosspost-state.json` — re-run to fill gaps.
+Then commit `scripts/make-pins.py`. Do NOT re-run on old posts to "fill" X gaps: pre-Sept-16 X
+posts were made without `--slug`, so the state flag is missing even though the post went out.
+The manual steps below remain the reference for what the script does and for Lane B posts.
+
 - [ ] **Generate the social kit with the Opal ForgeMesh Social Amplifier** (fastest path):
       https://opal.google/edit/1ZLUcBVmu3IP4cJxRU0i9UabD4FNHhOVY (clawdbotworker Google account, private)
       — input the blog URL + optional angle; outputs X thread, X post, IG caption, carousel copy,
