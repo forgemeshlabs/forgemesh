@@ -1,0 +1,11 @@
+# agents.txt — forgemesh.io
+# Standard: https://agents-txt.com
+# ForgeMesh Labs: 11 x402 services, 500+ paid routes for AI agents, USDC on Base. Paid routes answer HTTP 402 (x402).
+# Discovery: https://forgemesh.io/.well-known/x402.json · https://forgemesh.io/.well-known/ard.json · https://forgemesh.io/llms.txt · https://forgemesh.io/index.json
+# Verified sellers feed: https://forgemesh.io/partners.json · Free agent-readiness scanner: https://aso.forgemesh.io
+# MCP servers (stdio, npm): forgemesh · coinopai-mcp · @forgemeshlabs/aso-audit-mcp
+
+Protocols: x402
+Payments: required
+
+A2A: https://forgemesh.io/.well-known/agent-card.json
