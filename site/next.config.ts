@@ -21,6 +21,8 @@ const nextConfig: NextConfig = {
           { key: "Referrer-Policy", value: "strict-origin-when-cross-origin" },
           { key: "X-Frame-Options", value: "SAMEORIGIN" },
           { key: "Permissions-Policy", value: "camera=(), microphone=(), geolocation=()" },
+          // Agent discovery: ARD v0.91 manifest, A2A agent card, llms.txt (probed by AgentProbe & co.)
+          { key: "Link", value: '</.well-known/ard.json>; rel="ard", </.well-known/agent-card.json>; rel="agent-card"; type="application/a2a-agent-card+json", </llms.txt>; rel="llms-txt"; type="text/plain"' },
         ],
       },
     ];
