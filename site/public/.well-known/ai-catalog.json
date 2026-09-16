@@ -1,0 +1,120 @@
+{
+  "@context": "https://agenticresourcediscovery.org/context/v1",
+  "specVersion": "1.0",
+  "host": {
+    "identifier": "https://forgemesh.io",
+    "displayName": "forgemesh.io",
+    "trustManifest": {
+      "identity": "https://forgemesh.io",
+      "identityType": "https"
+    }
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:forgemesh.io:agent:labs",
+      "displayName": "ForgeMesh Labs agent card (11 x402 services, 500+ paid routes)",
+      "type": "application/a2a-agent-card+json",
+      "url": "https://forgemesh.io/.well-known/agent-card.json",
+      "representativeQueries": [
+        "find a paid API I can call with USDC on Base",
+        "OCR a PDF and pay per page with x402",
+        "which x402 sellers are verified",
+        "scan my site for agent readiness"
+      ],
+      "description": "ForgeMesh Labs: 11 x402 services, 500+ paid routes for AI agents, USDC on Base.",
+      "tags": [
+        "x402",
+        "fleet",
+        "utilities",
+        "market-intelligence"
+      ]
+    },
+    {
+      "identifier": "urn:air:forgemesh.io:api:x402",
+      "displayName": "Fleet x402 payment discovery",
+      "type": "application/json",
+      "url": "https://forgemesh.io/.well-known/x402.json",
+      "description": "Fleet-level x402 payment discovery.",
+      "tags": [
+        "x402",
+        "payments",
+        "discovery"
+      ],
+      "representativeQueries": [
+        "fleet x402 payment discovery"
+      ]
+    },
+    {
+      "identifier": "urn:air:x402.forgemesh.io:api:x402",
+      "displayName": "Utility Grid paid routes (400+)",
+      "type": "application/json",
+      "url": "https://x402.forgemesh.io/.well-known/x402.json",
+      "description": "Utility Grid: 400+ paid utility routes from $0.001.",
+      "tags": [
+        "x402",
+        "utilities"
+      ],
+      "representativeQueries": [
+        "utility grid paid routes (400+)"
+      ]
+    },
+    {
+      "identifier": "urn:air:forgemesh.io:feed:x402-verified",
+      "displayName": "x402 Verified by ForgeMesh \u2014 machine feed of verified sellers",
+      "type": "application/json",
+      "url": "https://forgemesh.io/partners.json",
+      "description": "Machine feed of independently probed, proof-backed x402 sellers with scores and badges.",
+      "tags": [
+        "registry",
+        "x402",
+        "verification"
+      ],
+      "representativeQueries": [
+        "x402 verified by forgemesh \u2014 machine feed of verified sellers"
+      ]
+    },
+    {
+      "identifier": "urn:air:aso.forgemesh.io:api:openapi",
+      "displayName": "ASO Score scanner API (free agent-readiness scan)",
+      "type": "application/vnd.oai.openapi+json",
+      "url": "https://aso.forgemesh.io/api/openapi.json",
+      "description": "Free 34-check agent-readiness scan of any site; ASO Score 0-100.",
+      "tags": [
+        "openapi",
+        "agent-readiness",
+        "scanner"
+      ],
+      "representativeQueries": [
+        "aso score scanner api (free agent-readiness scan)"
+      ]
+    },
+    {
+      "identifier": "urn:air:forgemesh.io:doc:llms",
+      "displayName": "llms.txt",
+      "type": "text/plain",
+      "url": "https://forgemesh.io/llms.txt",
+      "description": "How to use ForgeMesh services as an agent.",
+      "tags": [
+        "docs",
+        "llms-txt"
+      ],
+      "representativeQueries": [
+        "llms.txt"
+      ]
+    },
+    {
+      "identifier": "urn:air:forgemesh.io:index:machine",
+      "displayName": "Machine index of all ForgeMesh surfaces",
+      "type": "application/json",
+      "url": "https://forgemesh.io/index.json",
+      "description": "Index of every ForgeMesh surface for machines.",
+      "tags": [
+        "index",
+        "discovery"
+      ],
+      "representativeQueries": [
+        "machine index of all forgemesh surfaces"
+      ]
+    }
+  ]
+}
