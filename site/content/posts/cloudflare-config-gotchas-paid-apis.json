@@ -1,0 +1,133 @@
+{
+  "slug": "cloudflare-config-gotchas-paid-apis",
+  "date": "2026-09-16",
+  "title": "Seven Cloudflare Settings That Quietly Turned Away Paying Agents",
+  "excerpt": "The day after Cloudflare's crawler switch, an AI agent emailed us to say our paid APIs were refusing Python clients before they ever saw a price. It was right, it was fleet-wide, and it was a checkbox. Here is every Cloudflare setting that has cost us money, how each one hid, and the five-minute probe that catches them from outside.",
+  "tags": [
+    "cloudflare",
+    "x402",
+    "api-operations",
+    "agent-economy"
+  ],
+  "description": "A field report on the Cloudflare settings that silently block paying API clients: Browser Integrity Check error 1010, Bot Fight Mode, the Sept 15 crawler defaults, missing tunnel hostnames, 526 origin certs, proxy headers, and Pages fallbacks. With the probe commands we now run daily.",
+  "seoTitle": "Cloudflare Settings That Block Paid API Clients | ForgeMesh",
+  "seoDescription": "Browser Integrity Check, Bot Fight Mode, tunnel hostnames, 526s, proxy headers: the Cloudflare gotchas that cost us paying agents, and how to probe them.",
+  "twitterTitle": "Seven Cloudflare settings that quietly turned away paying agents",
+  "twitterDescription": "An AI agent found a checkbox that had been 403ing Python buyers on all 13 of our paid hosts. Field report, with the probe we now run daily.",
+  "heroAlt": "A dark highway toll plaza at night, gates on both sides glowing green with cars passing, one lane blocked by a tall red light bar, and a white sedan stopped in the middle lane with nowhere to go",
+  "breadcrumb": "Cloudflare gotchas",
+  "lede": "Yesterday Cloudflare flipped its new AI-crawler defaults and we published what that switch does and does not do. This morning an AI agent named Coppice emailed us about a Cloudflare setting we had never once looked at. It said our notary endpoint answered curl and Node with a 402 and a price, but answered Python's standard library and Perl's with a 403 and nothing. We reproduced it in two commands. It was not one endpoint. It was **every paid host on all three of our zones**, and it had been that way for as long as those zones have existed. Nobody who runs a paid API for machines should learn this the way we did, so here is the full list of Cloudflare settings that have cost us, in the order they bit.",
+  "sections": [
+    {
+      "heading": "1. Browser Integrity Check: the 403 that arrives before the 402",
+      "paras": [
+        "Cloudflare's **Browser Integrity Check** is a zone-level toggle, on by default, that rejects requests whose User-Agent is on an internal list of headers it associates with abuse. Two of the strings on that list are *Python-urllib* and *libwww-perl*. The first is what every Python script sends if the author never set a User-Agent. The response is a 403 with the body *error code: 1010*, no cf-mitigated header, and no payment terms. The origin never sees the request.",
+        "For a website that is a nuisance. For an x402 API it is a hole in the floor. A buyer that gets a 403 before the 402 has no price to pay and no error worth reporting to its operator. It does not fail loudly. It simply never becomes a customer, and nothing in our logs distinguishes that from nobody having tried. Our sweeps never caught it because every client we test with, curl, Node fetch, python-requests, Go, wget, sends a User-Agent Cloudflare likes.",
+        "We turned the check off on forgemesh.io, coinopai.com and x402swag.com the same hour. Thirteen hosts went from 403 to a proper 402 or 200 for both agents. If you keep it on for a human-facing site, scope a Configuration Rule to your API hostnames that disables it there. And add the two user agents to whatever probe you already run. We did, daily, and the check now pages us if the toggle ever comes back."
+      ],
+      "stats": [
+        {
+          "n": "13",
+          "d": "paid hosts returning 403 to Python's default client, all three zones"
+        },
+        {
+          "n": "1010",
+          "d": "the Cloudflare error code to grep for in a body"
+        },
+        {
+          "n": "0",
+          "d": "log lines on our side, because the origin never saw the request"
+        }
+      ]
+    },
+    {
+      "heading": "2. Bot Fight Mode and every other challenge a machine cannot pass",
+      "paras": [
+        "The same family of settings has louder siblings. **Bot Fight Mode**, Super Bot Fight Mode's *definitely automated* action, the *Under Attack* security level, managed challenges on WAF rules, and any rule that answers with a JavaScript challenge all share one property: the client has to render a page to get through. An agent paying per request does not render pages. To it a challenge and a block are the same thing, and the challenge is worse because it returns a 200-ish interstitial that can look like success to a naive client.",
+        "None of these are wrong for a marketing site. They are wrong on the hostname where you publish a 402. Our rule now is that API hostnames get no challenge action of any kind at the edge. Abuse control lives in rate-limiting rules that answer with a plain 429, and in the application, where a bad request can be refused with a JSON body a machine can read.",
+        "One more in this family since yesterday. Cloudflare's **AI Crawl Control** replaced the old *Block AI Bots* toggle with separate Search, Training and Agent categories, and the Sept 15 defaults block training and agent crawlers on ad-bearing pages for domains new to Cloudflare. Existing zones carry their settings over, and ours did, but the first thing we did after the post went up was open the panel and confirm nothing had been migrated into a block. If your buyers are agents, the Agent category is the one to watch."
+      ]
+    },
+    {
+      "heading": "3. robots.txt and the Content-signal line you meant to publish everywhere",
+      "paras": [
+        "The switch also made us audit the boring file. Every one of our hosts is supposed to publish a robots.txt with a **Content-signal** line that opts in to search, AI input and AI training, because our whole business is being found and bought by machines. We probed all 26 hostnames. Four had no robots.txt at all, three because the route was never written and one for the reason in the next section. Existing zones were not touched by Sept 15, but a crawler that finds no robots.txt applies its own defaults, and those are getting stricter every quarter.",
+        "The fix took ten minutes and three service restarts. The lesson is that the file has to be probed from outside, per hostname, not assumed from a template. A route that exists in the repo is not a route that answers on the domain."
+      ],
+      "stats": [
+        {
+          "n": "26",
+          "d": "hostnames probed for robots.txt"
+        },
+        {
+          "n": "4",
+          "d": "had none, one of them for a reason nobody expected"
+        }
+      ]
+    },
+    {
+      "heading": "4. A tunnel hostname that does not exist looks exactly like your app being down",
+      "paras": [
+        "That fourth host was warn.forgemesh.io. The service behind it had been healthy for ten weeks: it answered on its local port, it was indexed under its canonical name, and it took real payments the whole time. But the alias returned a bare 404 with *server: cloudflare* and no origin headers on every path, including health. That is the signature of a **Cloudflare Tunnel** with no public-hostname rule matching the request. It falls through to the catch-all and answers 404 itself.",
+        "The hostname had been lost in a tunnel migration in early July. Our monitoring checked service health on the box and the canonical hostname from outside, and both were green. Nothing checked the alias. The tell, in hindsight, is simple: if a host 404s on health but *curl 127.0.0.1:port/health* is fine, stop reading application code and open the tunnel's Public Hostname tab. It is a dashboard fix that takes effect in seconds and needs no restart."
+      ]
+    },
+    {
+      "heading": "5. Error 526 and the origin certificate nobody reloaded",
+      "paras": [
+        "A friend's site went down the same night the crawler switch flipped, and the first theory was Cloudflare. It was a **526**, which means Cloudflare reached the origin but refused its TLS certificate under the *Full (strict)* SSL mode. The certificate transparency log showed a fresh Let's Encrypt renewal issued weeks earlier. The web server was still presenting the expired one because nothing had reloaded it. Plain http worked, https did not, and a second site on the same box failed the same way for the same reason.",
+        "If you terminate TLS at the origin, a 526 is yours, not Cloudflare's: reload the server, or drop to *Full* while you do. If you run behind a tunnel, as we do, this whole class of failure does not exist, which is one of the better arguments for the tunnel."
+      ]
+    },
+    {
+      "heading": "6. The client IP, the protocol and the price URL behind a proxy",
+      "paras": [
+        "Behind Cloudflare, your application does not see the client. It sees Cloudflare. Three things go wrong if the framework is not told so. First, *req.protocol* reports http on an https request, so the resource URL your server writes into the 402 envelope starts with http://, and the Coinbase Bazaar indexes your endpoint under a URL that does not match the one buyers hit. We learned that one in May; *trust proxy* fixed it. Second, rate limits keyed on the X-Forwarded-For header are keyed on a header the client can prepend to, because Cloudflare appends the real address after whatever it received. Key them on **CF-Connecting-IP** instead, and trust exactly one hop. Third, a permissive trust-proxy setting makes rate-limiting libraries log a warning on every request, which is how we noticed the second problem.",
+        "The general rule: every header you read for a security decision should be one Cloudflare sets, not one Cloudflare forwards."
+      ]
+    },
+    {
+      "heading": "7. Pages fallbacks that answer 200 to everything",
+      "paras": [
+        "The last one is not a security setting but it fools machines just as well. A single-page app on **Cloudflare Pages** serves index.html for any path it does not recognise, with a 200. Our own framework site, agentsignaloptimization.com, was returning a 200 HTML page at */.well-known/oauth-authorization-server* and a dozen other machine paths it had never published. To a human that is harmless. To a scanner it reads as a broken manifest at every one of those paths, and it graded us down for publishing garbage we never wrote.",
+        "The fix is a few lines in the Pages worker: if the path looks machine-readable (well-known, api, or a .json, .txt, .xml or .md suffix) and the asset lookup came back as HTML, return a JSON 404 instead. That change, with a real security.txt and an api-catalog, moved the site's agent-readiness score from 69 to 79 in an afternoon. Machines reward a clean 404 more than a confident 200."
+      ]
+    },
+    {
+      "heading": "The five-minute probe we now run every morning",
+      "paras": [
+        "Every one of these was found from outside, never from a dashboard. So the checklist is external. For every hostname you sell on: fetch health with a neutral User-Agent, then again as *Python-urllib/3.12* and as *libwww-perl/6.68*, and fail on any 403 or any body containing *error code: 10*. Fetch robots.txt and confirm the Content-signal line. Fetch a paid route with no payment and confirm a 402 with payment terms, not a challenge page. Compare the edge answer with the origin's local port; if they disagree, the problem is between them. Fetch a well-known path you have never published and insist on a 404. Check the tunnel's public hostname list against your DNS records, not against your memory.",
+        "We wrapped exactly that into our fleet monitor this morning. First run: 18 targets, zero blocks. The agent that reported the original problem asked for nothing in return and offered to sell us an audit. We fixed the finding, thanked it, and declined the audit. Its report was already the best security review we had received this year, and it came from a customer that never got to be one."
+      ],
+      "stats": [
+        {
+          "n": "18",
+          "d": "targets in the new daily edge probe"
+        },
+        {
+          "n": "2",
+          "d": "user agents that must see a price, not a 403"
+        },
+        {
+          "n": "1",
+          "d": "external agent that noticed before we did"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "Probe your own domain from the outside",
+    "copy": "Our free ASO scanner runs 34 checks against any site from outside your edge: robots.txt and Content-signal, well-known files, payment manifests, and whether machines see a clean answer or a fallback page. Results in under a minute at aso.forgemesh.io."
+  },
+  "related": [
+    {
+      "slug": "cloudflare-september-15-crawler-defaults",
+      "text": "What Cloudflare's September 15 switch actually does, to you and to Google."
+    },
+    {
+      "slug": "fall-2026-calendar-convergence",
+      "text": "Every clock in the machine economy strikes this fall. We lined up the dates."
+    }
+  ],
+  "image": "/content/assets/cloudflare-config-gotchas-paid-apis.png"
+}
