@@ -213,6 +213,32 @@ The shared-state summary also belongs in:
 
 Use those files for continuity across Mac, VPS, Codex, Claude Code, GPT, and other agents.
 
+## Calendar date scan (lookout for unknown future dates, 2026-09-19)
+
+`site/public/calendar.json` only ever knew the dates a session hand-added. `site/scripts/date-scan.js`
+(cron 07:55 UTC daily, log `site/data/date-scan.log`) is the lookout for the rest: it reads the
+Federal Register API (structured comment-close / effective dates), the Fed's FOMC calendar page, and
+the SEC / CFTC / Cloudflare / Stripe feeds + rules-watch + Hacker News through an OpenRouter
+free-first extraction pass, keeps only explicit FUTURE dates that touch the machine economy, dedups
+against the live calendar, and posts a numbered queue to Discord #fm-brief.
+
+Nothing reaches the live calendar without approval: `site/scripts/date-approval-poller.js`
+(cron every 2 min, no-op when nothing is pending) watches the queue post for 👍 (= add all) or a
+reply `add 1, 3` / `skip 2` / `add all`, then runs `date-scan.js --promote`, which appends the
+approved items to `calendar.json` (sorted, `updatedAt` bumped) — live on `/calendar` and `/calendar/ics`
+immediately, no build or restart. Same flow from the shell:
+
+```bash
+cd ~/dev/forgemesh/site
+node scripts/date-scan.js --dry          # what it would propose today
+node scripts/date-scan.js --add 1,3      # or --skip 2 / --all — promotes on approval
+node scripts/date-scan.js --promote      # push already-approved items into calendar.json
+```
+
+State: `site/data/calendar-proposed.json` (gitignored, like the other `data/` files). The twice-daily
+status pass reports any queue still awaiting a decision under "Needs you". Commit `calendar.json`
+after promotions land, same as any other calendar edit.
+
 ## Restart guard (standing rule, 2026-09-09)
 
 Human-facing sites are never restarted while someone is on a page. `fleet restart forgemesh-web` (and x402-kit, x402-swag) checks Umami's live-visitor count first via `~/bin/visitors-now`, waits up to 120 s for zero, then refuses. Check ahead with `fleet check forgemesh-web`. Use `fleet restart <svc> --force` only for urgent fixes. Build must succeed before any restart.
