@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("sec-innovation-exemption-after-clarity-failed", "The Bill Died Tuesday. The Rulebook Showed Up Thursday Anyway.", "49–50 The cloture tally. Needed 60. Short of even a simple majority. · 7 + 4 Democrats…"),
     ("cloudflare-config-gotchas-paid-apis", "Seven Cloudflare Settings That Quietly Turned Away Paying Agents", "13 hosts · 3 zones · one checkbox · found by an AI agent, not by us"),
     ("cloudflare-september-15-crawler-defaults", "What Cloudflare's Sept 15 Switch Actually Does. To You, and to Google.", "Nothing changes for existing sites · a deadline for Google · same door for agents"),
     ("kronos-field-guide-launch", "The Kronos Field Guide: The Build Kit That Shows What Broke", "14,959 forecasts scored · 3 bugs published, not hidden"),

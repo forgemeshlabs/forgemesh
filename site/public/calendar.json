@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T14:06:00.000Z",
+  "updatedAt": "2026-09-19T15:00:00.000Z",
   "events": [
     {
       "id": "trump-crypto-meeting",
@@ -40,7 +40,9 @@
       "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
       "post": "/blog/fall-2026-case-file",
       "home": true,
-      "time": "new defaults switch on"
+      "time": "new defaults switch on",
+      "status": "decided",
+      "result": "New defaults live; Block now applies to Googlebot/Bingbot/Applebot, and a new Disallow AI Training setting keeps search while refusing training — Apple, Google, Microsoft honor it or committed to (Microsoft by early 2027)."
     },
     {
       "id": "clarity-cloture",
@@ -52,10 +54,58 @@
       "link": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
       "post": "/blog/fall-2026-case-file",
       "track": true,
-      "status": "scheduled",
+      "status": "failed",
       "time": "2:15 PM ET",
-      "result": null,
-      "home": true
+      "result": "Cloture failed 49–50 (roll call 234; needed 60). No floor vote this Congress.",
+      "home": true,
+      "updatedAt": "2026-09-15T20:01:48.000Z"
+    },
+    {
+      "id": "fomc-september",
+      "date": "2026-09-16",
+      "title": "Fed interest-rate decision (FOMC September meeting)",
+      "tag": "markets",
+      "track": true,
+      "status": "decided",
+      "time": "Meeting Sep 15–16 · decision 2:00 PM ET · press conference 2:30 PM ET",
+      "result": "Hike 25 bp to 3.75–4.00% (12–0); median dot 2027 4.1%, longer run 3.2%. Statement: inflation remains elevated.",
+      "what": "Two-day FOMC meeting; the rate decision, statement, and the quarterly dot plot land Wednesday Sep 16 at 2:00 PM ET, with Chair Warsh's press conference at 2:30. The target range has sat at 3.50%–3.75% since December 2025; after the hawkish Jackson Hole speech and a solid August jobs report, markets are split between a hold and a 25 bp hike.",
+      "why": "Dollar rates set the price of the stablecoin float that every agent payment settles in, and the same Wednesday follows the CLARITY cloture vote by one day — two decisions in 24 hours that set the cost and the rulebook of machine money.",
+      "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "post": "/blog/fall-2026-case-file",
+      "home": true,
+      "updatedAt": "2026-09-16T18:08:21.000Z"
+    },
+    {
+      "id": "sec-innovation-exemption",
+      "date": "2026-09-17",
+      "title": "SEC issues five-year Innovation Exemption for on-chain stock trading",
+      "tag": "policy",
+      "track": true,
+      "status": "decided",
+      "time": "order published Sep 17",
+      "result": "Order issued under Exchange Act §36(a)(1): Tokenized Securities Venues exempt from the 'exchange' definition, AMM liquidity providers from 'dealer', for five years. Comment requested.",
+      "what": "Two days after CLARITY cloture failed, the SEC used its existing exemptive authority to let venues trade tokenized NMS stock on permissioned AMMs — conditions: rights parity (dividends, votes), 30-day issuer notice/objection, auditable public smart contracts on a permissionless ledger, concurrent halts, symbol/volume caps, sanctions screening. Comment docket open; deadline to be confirmed.",
+      "why": "The most regulated asset class in the country just got a sanctioned on-chain venue category whose conditions read like a spec for machine-verifiable markets. Chair Atkins calls it 'a bridge toward durable rulemaking' — so the comment docket is where the durable version gets shaped.",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+      "post": "/blog/sec-innovation-exemption-after-clarity-failed",
+      "home": true,
+      "updatedAt": "2026-09-19T15:00:00.000Z"
+    },
+    {
+      "id": "cftc-crypto-rules-oira",
+      "date": "2026-09-18",
+      "title": "CFTC sends crypto market rules to OIRA",
+      "tag": "policy",
+      "track": true,
+      "status": "live",
+      "time": "submitted Sep 18 · OIRA review pending",
+      "result": "Regulation Crypto Asset Transactions + Regulation Crypto Asset Markets filed with the White House OIRA; developer no-action position issued. Not yet proposed for comment.",
+      "what": "The day after the SEC order, the CFTC submitted two draft rules to the Office of Information and Regulatory Affairs: crypto exchanges could obtain designated-contract-market status and offer leveraged or margined trading under direct CFTC supervision. Paired with a no-action position exempting software developers from introducing-broker registration under specified conditions.",
+      "why": "This is the CFTC half of the CLARITY split, delivered by filing instead of floor vote. OIRA review → proposal → comment period is the clock to watch; nothing is in force yet.",
+      "link": "https://investingnews.com/cryptocurrency-market-recap/",
+      "post": "/blog/sec-innovation-exemption-after-clarity-failed",
+      "updatedAt": "2026-09-19T15:00:00.000Z"
     },
     {
       "id": "kbw-2026",
@@ -66,6 +116,15 @@
       "what": "Asia's premier Web3 conference at Walkerhill, Seoul: industry leaders, entrepreneurs, and institutional investors on blockchain, AI, and digital-asset regulation.",
       "why": "The fall conference corridor opens here — announcements seeded at KBW tend to detonate at TOKEN2049 the following week.",
       "link": "https://koreablockchainweek.com/"
+    },
+    {
+      "id": "stripe-link-payment-methods",
+      "date": "2026-10-01",
+      "title": "Stripe Link adds stablecoins, Pix, and UPI",
+      "tag": "rails",
+      "what": "Stripe's Link wallet enables stablecoins, Pix (Brazil), and UPI (India) alongside existing cards, Instant Bank Payments, and Klarna. Stablecoin pricing: 0.8% per transaction (promotional through Jan 1, 2027; 1.0% after). Link surfaces the optimal method by location, amount, and conversion likelihood across 300M+ buyers.",
+      "why": "Stripe is wiring stablecoin settlement into its mainstream checkout — the same rail x402 settles on. At 0.8%, Link's stablecoin fee undercuts card interchange and puts a price floor on what any competing agent-payment rail can charge through Stripe-powered merchants.",
+      "link": "https://stripe.com/payments/link"
     },
     {
       "id": "token2049-sg",
@@ -155,19 +214,14 @@
       "link": "https://www.cartierwomensinitiative.com/regional-awards"
     },
     {
-      "id": "fomc-september",
-      "date": "2026-09-16",
-      "title": "Fed interest-rate decision (FOMC September meeting)",
+      "id": "btc-halving-2028",
+      "date": "2028-04-12",
+      "title": "Bitcoin halving — block 1,050,000 (estimated)",
       "tag": "markets",
-      "track": true,
-      "status": "scheduled",
-      "time": "Meeting Sep 15–16 · decision 2:00 PM ET · press conference 2:30 PM ET",
-      "result": null,
-      "what": "Two-day FOMC meeting; the rate decision, statement, and the quarterly dot plot land Wednesday Sep 16 at 2:00 PM ET, with Chair Warsh's press conference at 2:30. The target range has sat at 3.50%–3.75% since December 2025; after the hawkish Jackson Hole speech and a solid August jobs report, markets are split between a hold and a 25 bp hike.",
-      "why": "Dollar rates set the price of the stablecoin float that every agent payment settles in, and the same Wednesday follows the CLARITY cloture vote by one day — two decisions in 24 hours that set the cost and the rulebook of machine money.",
-      "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-      "post": "/blog/fall-2026-case-file",
-      "home": true
+      "what": "The fifth halving cuts the block subsidy from 3.125 to 1.5625 BTC at block 1,050,000. As of Sep 19, 2026 the tip was block 967,712 — 82,288 blocks out, about 571 days at ten minutes a block. The date drifts with hashrate; check the block count, not the calendar.",
+      "why": "The supply clock is slow and certain; the regulatory clock just got fast and uncertain. Anyone calling fall 2026 'the halving run' is nineteen months early — the math is in our write-up.",
+      "link": "https://www.coingecko.com/en/coins/bitcoin/bitcoin-halving",
+      "post": "/blog/sec-innovation-exemption-after-clarity-failed"
     }
   ]
 }
