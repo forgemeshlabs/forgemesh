@@ -21,6 +21,9 @@ an x402 Foundation or Coinbase certification, endorsement, or official program.
 - Repository: https://github.com/forgemeshlabs/x402-verified
 - Badge pattern (SVG): https://forgemesh.io/badge/x402/{slug}
 - Badge pattern (shields.io JSON): https://forgemesh.io/badge/x402/{slug}/shields
+- Seller page pattern: https://forgemesh.io/partners/{slug} (score breakdown + probe history)
+- What a merged seller gets: directory row, seller page, SVG badge, shields endpoint, feed entry. First probe recorded at merge; weekly reprobe Mondays 05:30 UTC keeps the last 8 runs; badge and feed refresh within 6 hours of every probe. Three consecutive failed weekly probes delist; a new PR with fresh proof relists.
+- How to get listed: one PR adding sellers/{slug}.json with a Base USDC proof tx to your own payTo (see https://github.com/forgemeshlabs/x402-verified/blob/main/CONTRIBUTING.md). Agents: end the PR title with 🤖🤖🤖 for merge-on-green.
 - Four independent signals, one claim each:
   - Score (0-100): current technical quality of the x402 implementation, recomputable from the feed.
   - $ ForgeMesh Paid: ForgeMesh itself completed and independently verified a real x402 transaction with the seller.

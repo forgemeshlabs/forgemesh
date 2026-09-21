@@ -60,6 +60,12 @@ export default async function Page({ searchParams }: PageProps) {
               <strong className="text-slate-200">ForgeMesh Verified Score</strong> (0-100), rechecked on a
               schedule, with a live README badge.
             </p>
+            <p className="mt-4 max-w-2xl text-sm leading-7 text-slate-500">
+              Merged sellers get a row here, a page at /partners/&lt;slug&gt; with the score breakdown and probe
+              history, an SVG badge at /badge/x402/&lt;slug&gt; plus a shields.io endpoint, and an entry in the
+              machine feed. The first probe is recorded at merge; the weekly reprobe runs Mondays 05:30 UTC and
+              keeps the last eight runs. Badges and the feed refresh within six hours of every probe.
+            </p>
             <p className="mt-4 max-w-2xl text-sm leading-7 text-slate-500">{feed.disclaimer}</p>
             <div className="mt-6 flex flex-wrap gap-3">
               <a
