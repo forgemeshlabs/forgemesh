@@ -44,3 +44,6 @@ next-env.d.ts
 # secrets + runtime oauth store
 .env.local
 data/
+
+# documented example, no secrets
+!.env.example
