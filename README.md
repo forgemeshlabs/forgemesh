@@ -59,22 +59,37 @@ receives the paid response.
 ```text
 .
 ├── README.md              # GitHub and npm ecosystem overview
-├── package.json           # npm namespace package
+├── CONTRIBUTING.md        # exact install/build/test commands, safe edit areas, troubleshooting
+├── OPERATIONS.md          # production deploy and verification runbook
+├── package.json           # npm namespace package (metadata only, nothing to run here)
 ├── architecture.svg       # legacy architecture diagram
-└── site/                  # live forgemesh.io Next.js site
+└── site/                  # live forgemesh.io Next.js site (all commands run here)
+    └── .env.example       # every optional environment variable, documented
 ```
 
 ## Local Site Development
 
+All commands run from `site/`; the repo root has no install or build step.
+
 ```bash
 cd site
 npm install
-npm run build
-npm run dev
+npm run build      # must pass before any change is considered done
+npm run dev        # http://localhost:3000
+node --test tests/kronos-checkout.test.cjs
 ```
 
-The production site runs from `site/` behind the `forgemesh-web` PM2 process on the VPS.
-See [OPERATIONS.md](OPERATIONS.md) for the deployment and verification runbook.
+No environment variables are needed for a local build. See `site/.env.example` for what each optional one unlocks.
+
+The production site runs from `site/` as the `forgemesh-web` systemd service on the VPS.
+See [OPERATIONS.md](OPERATIONS.md) for the deployment and verification runbook and
+[CONTRIBUTING.md](CONTRIBUTING.md) for the edit workflow, discovery-file rules, and troubleshooting.
+
+## Troubleshooting Discovery Files
+
+- `llms.txt`, `index.json`, `robots.txt` and the sitemap live in `site/public/` (sitemap in `site/app/sitemap.ts`) and are hand-maintained. If they disagree with a page, fix the file and rebuild.
+- Hosted APIs listed in `index.json` are separate services. A 404 or Cloudflare error from one of them is a service issue, not a site build issue. Open an issue with the URL and status code.
+- Old content after a successful build is a cache: hard refresh or use a private window before assuming drift.
 
 ## License
 
