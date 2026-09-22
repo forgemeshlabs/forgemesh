@@ -1,0 +1,85 @@
+{
+  "slug": "agentic-commerce-explained",
+  "date": "2026-09-22",
+  "title": "Agentic Commerce, Explained: What It Is and Who's Building It",
+  "excerpt": "Agentic commerce means an AI agent finds a product, decides to buy it, and pays for it, with a human only setting the budget and the intent. Here's what that looks like in practice right now, who's building the rails, and what happens when the money actually moves.",
+  "description": "A plain-language explainer on agentic commerce: what it means, who's building it (OpenAI, Amazon, Perplexity, Visa, x402), and how payment actually happens when an AI agent buys something.",
+  "seoTitle": "Agentic Commerce Explained: What It Means in 2026",
+  "seoDescription": "What is agentic commerce? A plain guide to how AI agents buy things, who's building the rails, and how payment moves from agent to merchant.",
+  "twitterTitle": "Agentic Commerce, Explained",
+  "twitterDescription": "What agentic commerce actually means, who's building it, and how the money moves when an AI agent buys something. From a shop that runs 500+ paid endpoints for agents.",
+  "heroAlt": "Diagram of an AI agent completing a purchase, from intent to paid order, with a 402 to 200 status badge",
+  "breadcrumb": "Explainer",
+  "tags": [
+    "agentic-commerce",
+    "x402",
+    "explainer"
+  ],
+  "lede": "Agentic commerce is what happens when the sentence \"buy me one of those\" no longer needs a human to click checkout. An AI agent, given a budget and an intent, finds the product, evaluates it, and pays for it, with a person only in the loop to set the boundaries beforehand or approve the receipt after. That is the whole definition. Everything else, the wallets, the protocols, the merchant integrations, is plumbing built to make that one sentence safe to say to a machine. We build and run paid infrastructure that agents already pay for hundreds of thousands of times a day, so this is not theory to us; it is Tuesday.",
+  "sections": [
+    {
+      "heading": "What agentic commerce actually means",
+      "paras": [
+        "Strip away the buzzword and agentic commerce has three parts that all have to work: discovery (the agent finds a product or a service that matches what it was asked for), decision (the agent evaluates options, sometimes comparing price or specs, without a human reading a product page), and payment (the agent moves money, or authorizes money to move, without a human typing a card number). Most of what gets called \"AI shopping\" today only does the first two. An agent that recommends a blender is a search engine with better manners. An agent that recommends a blender, adds it to a cart, and pays for it is agentic commerce.",
+        "That distinction matters because payment is the hard part. Discovery and decision are language problems, and large language models are good at language problems. Payment is a trust problem: someone has to be willing to let a piece of software authorize a real transfer of real money, at machine speed, without a human confirming each one. That is a much smaller circle of companies, and it is where the actual competition is happening right now."
+      ]
+    },
+    {
+      "heading": "Who's actually building it",
+      "paras": [
+        "A handful of approaches are live or shipping right now, each solving the payment-trust problem a different way. Amazon's Buy for Me lets its own shopping assistant complete a purchase on a third-party site on the shopper's behalf, using the payment details already on file with Amazon, so the trust anchor is the account you already have. OpenAI's Agentic Commerce Protocol (ACP), built with Stripe, lets ChatGPT complete checkout with merchants that have connected their Stripe accounts, so the trust anchor is Stripe's existing card-processing relationship with the merchant. Perplexity's Buy with Pro, built with PayPal, routes the payment through a PayPal account the user already trusts. Visa's Intelligent Commerce program is doing the same thing from the card-network side: tokenized credentials an agent can present at any participating merchant, so the trust anchor is Visa's existing merchant network.",
+        "Then there's a fourth approach that doesn't start from an existing account at all: x402, an open protocol that revives the dormant HTTP 402 Payment Required status code so a server can ask a machine to pay in stablecoin, on-chain, per request, with no account, no login, and no card. We run more than 500 paid endpoints on x402 and have logged single 15-hour windows with over a million agent payments settling for a few cents each. It is the odd one out on this list because it was built for machines from day one, instead of being a machine-shaped adapter bolted onto a human checkout flow."
+      ],
+      "stats": [
+        {
+          "n": "500+",
+          "d": "paid x402 endpoints we operate"
+        },
+        {
+          "n": "1.17M",
+          "d": "x402 payments we logged in one 15-hour window"
+        },
+        {
+          "n": "$0.03",
+          "d": "average x402 payment that day"
+        },
+        {
+          "n": "0",
+          "d": "accounts or logins required to pay over x402"
+        }
+      ]
+    },
+    {
+      "heading": "How the money actually moves",
+      "paras": [
+        "In the card-and-account approaches (Amazon, OpenAI/Stripe, Perplexity/PayPal, Visa), the agent never actually touches money. It touches a token, a stored credential, or an authorized session that a payment processor turns into a real charge on the human's existing card or account. The agent's job is to assemble a valid checkout request; the processor's job is everything about actually moving funds, including fraud checks, chargebacks, and settlement, exactly as it does for a human clicking \"place order.\" This is why these are the fastest-growing approaches: they inherit decades of merchant trust and consumer protection instead of rebuilding it.",
+        "In x402, the agent holds an actual wallet with actual funds, usually USDC on a low-fee chain like Base, and it signs a payment authorization directly. There's no processor in the middle deciding whether to approve the charge; the blockchain either confirms the transfer or it doesn't. That's what makes it fast enough for machine-speed, sub-cent transactions that would never clear a card network's minimum fees, and it's why agents pay for API calls and data lookups with it far more than they pay for retail goods, so far. We watched that start to change firsthand: on September 7 an autonomous agent, working with nothing but a wallet and a one-line instruction, found our t-shirt listing, paid 29.94 USDC on Base, and had it in a factory queue sixteen minutes later, no human anywhere in that chain. We wrote up exactly how that happened.",
+        "The common thread across every approach: a human still sets the outer boundary. A budget cap, an approved merchant list, a spending category, a \"stop and ask me first\" rule above a dollar threshold. Agentic commerce isn't agents shopping unsupervised; it's agents shopping inside a fence a human built once instead of a checkout a human clicks every time."
+      ]
+    },
+    {
+      "heading": "What's still missing",
+      "paras": [
+        "Two things are holding this back from being ordinary. First, coverage: most of these systems only work with merchants who've specifically integrated them. Amazon's assistant works on sites it can automate; ChatGPT's ACP checkout works with Stripe-connected merchants who opted in; x402 works with servers that added the 402 handshake. An agent can't yet walk into an arbitrary storefront and buy something the way a human can. Second, the physical-goods gap: agent payment volume today is overwhelmingly small, frequent, and digital, API calls, data, subscriptions. Physical goods paid for by an autonomous agent, with no human confirming the order, are still rare enough that we could write a whole post about the first one we saw. That gap is exactly where the early advantage sits for merchants willing to build for it now instead of later."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "The store agents already shop at",
+    "copy": "x402swag.com is a real storefront that answers a 402 challenge and settles in USDC on Base, the same rail 500+ of our endpoints run on. An AI agent has already found it, priced it, and paid for a shirt with no human in the loop. If you're building for agentic commerce, that's the checkout flow to study, and if you just want the shirt, it's there too."
+  },
+  "related": [
+    {
+      "slug": "autonomous-agents-are-buying-atoms-now",
+      "text": "The first time an AI agent bought a physical product over x402, no human involved"
+    },
+    {
+      "slug": "first-x402-physical-order-bought-with-curl",
+      "text": "The order itself: timeline, tx hash, and the buyer's audit trail"
+    },
+    {
+      "slug": "x402-record-day-money-didnt-move",
+      "text": "x402 set a transaction record in one 15-hour window. The money didn't move."
+    }
+  ]
+}
