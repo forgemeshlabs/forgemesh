@@ -1,0 +1,92 @@
+{
+  "slug": "ai-agent-wallets-compared",
+  "date": "2026-09-22",
+  "title": "AI Agent Wallets Compared: Coinbase, Stripe, MetaMask, Cloudflare",
+  "excerpt": "Four different answers to the same question: how do you let an AI agent pay for something? We run real agent payments on one of these rails at scale and have tested the others. Here's how they actually compare.",
+  "description": "A hands-on comparison of the four main ways to give an AI agent payment capability: Coinbase CDP wallets (x402/USDC), Stripe's ACP, MetaMask's Delegation Toolkit, and Cloudflare's agent payment tooling.",
+  "seoTitle": "AI Agent Wallets Compared: Coinbase vs Stripe vs MetaMask",
+  "seoDescription": "Coinbase CDP, Stripe/ACP, MetaMask Delegation Toolkit, or Cloudflare: which AI agent wallet fits your use case? Notes from running real agent payments.",
+  "twitterTitle": "AI agent wallets compared: 4 approaches, 1 real comparison",
+  "twitterDescription": "Coinbase CDP, Stripe/ACP, MetaMask Delegation Toolkit, Cloudflare: which one should your agent actually use to pay for things? Notes from running real agent payments at scale.",
+  "heroAlt": "Four-column comparison chart of AI agent wallet approaches: Coinbase, Stripe, MetaMask, Cloudflare",
+  "breadcrumb": "Explainer",
+  "tags": [
+    "agentic-commerce",
+    "x402",
+    "ai-agents",
+    "explainer"
+  ],
+  "lede": "\"Give your agent a wallet\" sounds like one decision. It's actually at least four different decisions wearing the same sentence, because \"wallet\" means something different depending on who built the rail. We run 19 x402 services on Coinbase's Developer Platform wallets today, settling real agent payments in USDC on Base, and we've spent enough time evaluating the alternatives to know where each one is actually strong. Here's the honest comparison, not the marketing one.",
+  "sections": [
+    {
+      "heading": "Coinbase CDP: custodial, on-chain, built for micropayments",
+      "paras": [
+        "Coinbase's Developer Platform (CDP) issues a wallet your agent controls via API key, custodial in the sense that Coinbase manages the key infrastructure and recovery, but the funds and the on-chain transactions are the agent's own, not a shared pool. This is the wallet type underneath the x402 protocol, which turns the wallet into a payment method by having a server return HTTP 402 with a price, and the agent's wallet sign a USDC transfer on Base to satisfy it. We run 19 x402 services on exactly this setup and have logged well over a million agent payments in a single 15-hour window at an average of about three cents each.",
+        "Where it wins: transaction cost. Base gas fees are low enough that a payment worth a tenth of a cent is still worth sending, which is structurally impossible on a card network with a fixed minimum interchange fee. It also needs no account, login, or KYC step on the paying agent's side to transact with a new merchant, since the wallet address is the entire identity. Where it's weaker: consumer protections. There's no chargeback. A phantom payment or a bad transaction is final the instant it confirms, which is exactly why we built a two-gate settlement check that refuses to trust a facilitator's success response without a real transaction hash on chain."
+      ],
+      "stats": [
+        {
+          "n": "19",
+          "d": "x402 services we run on Coinbase CDP wallets"
+        },
+        {
+          "n": "1.17M",
+          "d": "payments settled in one 15-hour window"
+        },
+        {
+          "n": "$0.03",
+          "d": "average payment size"
+        },
+        {
+          "n": "0",
+          "d": "chargebacks possible once a transaction confirms"
+        }
+      ]
+    },
+    {
+      "heading": "Stripe / ACP: card-based, merchant-familiar, human-confirmed",
+      "paras": [
+        "Stripe doesn't give the agent a wallet at all. Under OpenAI's Agentic Commerce Protocol, the agent gets a scoped, single-use shared payment token that authorizes one specific order against your existing card, processed exactly like any other Stripe transaction, chargebacks, fraud rules, dispute process included. The agent never holds funds; it holds permission to spend, for one purchase, that a merchant's existing payment stack already knows how to handle.",
+        "Where it wins: zero integration lift for the tens of thousands of merchants who already run Stripe, and every consumer protection that comes with card payments is inherited for free. Where it's weaker: it's built for retail-scale purchases with a human in the confirmation loop, not sub-cent, high-frequency agent-to-agent payments; nobody is going to authorize a Stripe charge for a $0.001 API call. It's also merchant-gated the same way ACP checkout is, only Stripe-connected, ACP-integrated merchants can be paid this way."
+      ]
+    },
+    {
+      "heading": "MetaMask Delegation Toolkit: self-custodial, DeFi-native, more setup",
+      "paras": [
+        "MetaMask's approach lets a human delegate a scoped, revocable spending permission to an agent's smart-contract wallet, so the agent can transact on-chain within limits the human set (a spending cap, an allowed contract list, an expiry) without holding the human's actual seed phrase or master key. It's self-custodial in the fullest sense: no company holds the keys, the permission logic lives in a smart contract the human controls.",
+        "Where it wins: this is the right model if your agent needs to do more than pay for a fixed-price API call, swap tokens, interact with DeFi protocols, hold NFTs, anything where \"pay a price\" isn't the whole interaction. Where it's weaker: it's meaningfully more setup than pointing an SDK at a CDP API key. You're managing smart contract permissions and gas, not just an API key, and the tooling assumes a level of on-chain fluency that a lot of agent builders don't have yet and don't need for simple pay-per-call use cases."
+      ]
+    },
+    {
+      "heading": "Cloudflare: HTTP-native, good for API-to-API, not a wallet per se",
+      "paras": [
+        "Cloudflare's angle is different from the other three: it's not issuing a wallet, it's building payment signaling into the HTTP layer it already sits in front of, at the edge, as part of the same infrastructure that decides whether an AI crawler gets through at all. Its September 15 crawler-permission defaults, which we wrote up in detail, already treat \"pay to access\" as a first-class option alongside \"allow\" and \"block\" for bot traffic, and its broader AI Gateway tooling is aimed at metering and billing API-to-API traffic between agents and services that sit behind Cloudflare.",
+        "Where it wins: if your agent economy is API calls between services that already run behind Cloudflare, this is the path of least resistance, no separate wallet integration, payment signaling rides the same edge layer as everything else. Where it's weaker: it's infrastructure-level plumbing, not a consumer-facing wallet a shopper's agent holds, so it solves a different problem than \"my ChatGPT agent needs to buy me shoes.\" It's the right tool for machine-to-machine metering, not for retail agentic commerce."
+      ]
+    },
+    {
+      "heading": "Which one should you actually use",
+      "paras": [
+        "If you're pricing an API or a data endpoint per call, in cents or fractions of a cent, use x402 on a Coinbase CDP wallet; nothing else clears the fee-per-transaction bar. If you're selling physical goods or normal-priced retail items and want ChatGPT or a similar assistant to be able to complete checkout, get on Stripe and pursue ACP integration; the consumer protections and merchant familiarity are worth the human-confirmation step. If your agent needs to do more than pay a fixed price, actual on-chain interaction, DeFi, asset management, look at MetaMask's delegation model. If you're already living behind Cloudflare and your payments are service-to-service, its edge tooling is the lowest-friction option. We use the first one at real scale and are working toward the second; that's not an endorsement of one over the others, it's just where our two problems, cheap machine-speed API payments and retail-priced physical goods, happened to land."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "See it running, not just described",
+    "copy": "x402swag.com takes payment both ways: USDC over x402 from an agent's Coinbase-style wallet, or a card via Stripe from a human. It's the same storefront either way, which is the part most wallet comparisons skip: the checkout has to work for both, not just one."
+  },
+  "related": [
+    {
+      "slug": "agentic-commerce-explained",
+      "text": "Agentic commerce, explained: what it is and who's building it"
+    },
+    {
+      "slug": "cloudflare-config-gotchas-paid-apis",
+      "text": "Seven Cloudflare settings that quietly turned away paying agents"
+    },
+    {
+      "slug": "x402-v1-v2-client-split-your-endpoint-may-be-unpayable",
+      "text": "The x402 v1/v2 client split: your endpoint may be unpayable"
+    }
+  ]
+}
