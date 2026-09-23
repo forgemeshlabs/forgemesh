@@ -62,7 +62,7 @@ export const TOOL_GROUPS: ToolGroup[] = [
     blurb: 'Self-service education for people. Free course first; paid guides are personal use, no redistribution, no support.',
     rows: [
       { name: 'Stack Basics course', href: 'https://kit.forgemesh.io/stack-basics', what: 'Free self-hosting course: VM, domain, networking and the always-on stack, in plain language', cost: 'free', price: 'free', for: ['humans', 'builders'], featured: true },
-      { name: 'Kronos Field Guide', href: '/kronos/field-guide', what: 'Build your own Kronos market-intelligence + paper-trading system: ebook, 81 settings, evidence, coding-agent briefs; no support', cost: 'paid', price: '$19 launch', for: ['humans'], featured: true },
+      { name: 'Kronos Field Guide', href: '/kronos/field-guide', what: 'Build your own Kronos market-intelligence + paper-trading system: ebook, 81 settings, evidence, coding-agent briefs; no support', cost: 'paid', price: '$29', for: ['humans'], featured: true },
       { name: 'x402 Starter Kit', href: 'https://kit.forgemesh.io', what: 'Ship a paid x402 endpoint from a working template: Tier 1 kit or the Complete Bundle with the distribution playbook', cost: 'paid', price: 'from $49', for: ['builders'], featured: true },
     ],
   },

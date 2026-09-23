@@ -75,7 +75,7 @@ export default function ShopPage() {
             </p>
 
             <div className="mt-10">
-              <ShopGrid products={products} />
+              <ShopGrid products={live} />
             </div>
           </div>
         </section>

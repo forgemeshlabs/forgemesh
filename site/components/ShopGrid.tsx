@@ -164,7 +164,7 @@ export function ShopGrid({ products }: { products: ShopProduct[] }) {
   return (
     <div>
       <div className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-2 sm:mx-0 sm:flex-wrap sm:px-0">
-        {TABS.map((tab) => (
+        {TABS.filter((tab) => tab.category === 'all' || products.some((p) => p.category === tab.category)).map((tab) => (
           <button
             key={tab.category}
             type="button"
