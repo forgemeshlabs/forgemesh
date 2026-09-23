@@ -128,7 +128,7 @@ export default function KronosPage() {
               <div>
                 <p className="text-sm font-semibold text-[#f8f3e5]">Personal use · No redistribution · Sold as-is</p>
                 <p className="mt-2 text-sm font-semibold text-[#f8f3e5]">No support of any kind.</p>
-                <Link href="/kronos/field-guide" className="mt-6 inline-flex rounded-full bg-[#f5f2e9] px-6 py-3 text-sm font-semibold text-[#183c31]">Build your own Kronos · $19 launch ↗</Link>
+                <Link href="/kronos/field-guide" className="mt-6 inline-flex rounded-full bg-[#f5f2e9] px-6 py-3 text-sm font-semibold text-[#183c31]">Build your own Kronos · $29 ↗</Link>
                 <p className="mt-4 text-xs leading-6 text-[#d7dfbd]">Educational only. Not financial advice. Paper observations do not predict live returns.</p>
               </div>
             </div>
