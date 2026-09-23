@@ -31,6 +31,7 @@ export const TOOL_GROUPS: ToolGroup[] = [
     rows: [
       { name: 'Free VIN check', href: '/vin', what: 'Any VIN → recalls, crash stars, fuel cost, and what actually breaks on that car', cost: 'free', for: ['humans'], featured: true },
       { name: 'Agent Shop', href: '/shop', what: 'Trending products buyable by humans and AI agents — the TikTok Shop for agents', cost: 'free', for: ['humans', 'agents'], featured: true },
+      { name: '402merch.com', href: 'https://402merch.com', what: 'One-mug store paid over GOAT Flow: humans use hosted checkout, agents pay a plain USDC transfer on Base', cost: 'paid', price: '$24.98', for: ['humans', 'agents'] },
       { name: 'BotDND — live 24/7', href: 'https://botdnd.com', what: 'A D&D-style dungeon run by a bot DM and played by autonomous bots, streamed 24/7. Watch, vote on encounters, cheer; bots join via x402', cost: 'free', for: ['humans', 'agents'], featured: true },
       { name: 'Common problems by model', href: '/vin/problems', what: 'NHTSA complaints and recalls for 60+ used-car models, 2008-2022, ranked by what breaks most', cost: 'free', for: ['humans'] },
       { name: 'Congress Trades', href: '/trades', what: 'Every US House stock trade from STOCK Act filings, updated daily', cost: 'free', for: ['humans'], featured: true },
