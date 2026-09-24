@@ -61,7 +61,7 @@ export function ToolsTable({ groups }: { groups: ToolGroup[] }) {
             <select value={cost} onChange={(e) => setCost(e.target.value as CostFilter)} aria-label="Filter by cost" className={selectCls}>
               <option value="all">Any cost</option>
               <option value="free">Free</option>
-              <option value="paid">Paid (per call)</option>
+              <option value="paid">Paid</option>
               <option value="npm">npm install</option>
             </select>
             <select value={who} onChange={(e) => setWho(e.target.value as ForFilter)} aria-label="Filter by audience" className={selectCls}>
