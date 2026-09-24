@@ -1,19 +1,21 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 
+// tikbotshop.com is its own site (~/dev/tikbotshop, port 3975). Until the
+// Cloudflare tunnel hostname is repointed to :3975, every request that
+// arrives here with that host is proxied to the standalone app, so no
+// forgemesh.io page is ever served under the tikbotshop.com hostname.
+const TIKBOT_ORIGIN = 'http://127.0.0.1:3975';
+
 export function middleware(request: NextRequest) {
-  const host = request.headers.get('host') ?? '';
-
-  if (host.startsWith('tikbotshop.com') || host.startsWith('www.tikbotshop.com')) {
-    const { pathname } = request.nextUrl;
-    if (pathname === '/') {
-      return NextResponse.rewrite(new URL('/shop', request.url));
-    }
+  const host = (request.headers.get('host') ?? '').toLowerCase();
+  if (host === 'tikbotshop.com' || host === 'www.tikbotshop.com' || host.startsWith('tikbotshop.com:') || host.startsWith('www.tikbotshop.com:')) {
+    const url = new URL(request.nextUrl.pathname + request.nextUrl.search, TIKBOT_ORIGIN);
+    return NextResponse.rewrite(url);
   }
-
   return NextResponse.next();
 }
 
 export const config = {
-  matcher: '/',
+  matcher: '/:path*',
 };
