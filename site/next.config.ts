@@ -5,6 +5,13 @@ const nextConfig: NextConfig = {
   poweredByHeader: false,
   // First-party analytics: proxy Umami (localhost:3411) under /stats so the
   // tracker is same-origin (adblock-resistant) and works for x402swag.com too.
+  // The Agent Shop moved to its own site on 2026-09-24.
+  async redirects() {
+    return [
+      { source: "/shop", destination: "https://tikbotshop.com/", permanent: true },
+      { source: "/api/shop/catalog", destination: "https://tikbotshop.com/api/catalog", permanent: true },
+    ];
+  },
   async rewrites() {
     return [
       // Umami is built with BASE_PATH=/stats, so the prefix is forwarded as-is.
