@@ -30,8 +30,6 @@ export const TOOL_GROUPS: ToolGroup[] = [
     blurb: 'Use in the browser. No account, no wallet.',
     rows: [
       { name: 'Free VIN check', href: '/vin', what: 'Any VIN → recalls, crash stars, fuel cost, and what actually breaks on that car', cost: 'free', for: ['humans'], featured: true },
-      { name: 'TikBot Shop', href: 'https://tikbotshop.com', what: 'Trending products buyable by humans and AI agents — the TikTok Shop for agents (tikbotshop.com)', cost: 'free', for: ['humans', 'agents'], featured: true },
-      { name: '402merch.com', href: 'https://402merch.com', what: 'One-mug store paid over GOAT Flow: humans use hosted checkout, agents pay a plain USDC transfer on Base', cost: 'paid', price: '$24.98', for: ['humans', 'agents'] },
       { name: 'BotDND — live 24/7', href: 'https://botdnd.com', what: 'A D&D-style dungeon run by a bot DM and played by autonomous bots, streamed 24/7. Watch, vote on encounters, cheer; bots join via x402', cost: 'free', for: ['humans', 'agents'], featured: true },
       { name: 'Common problems by model', href: '/vin/problems', what: 'NHTSA complaints and recalls for 60+ used-car models, 2008-2022, ranked by what breaks most', cost: 'free', for: ['humans'] },
       { name: 'Congress Trades', href: '/trades', what: 'Every US House stock trade from STOCK Act filings, updated daily', cost: 'free', for: ['humans'], featured: true },
@@ -41,6 +39,16 @@ export const TOOL_GROUPS: ToolGroup[] = [
       { name: 'Calendar', href: '/calendar', what: 'Dates that matter in the agent economy, with .ics feed', cost: 'free', for: ['humans', 'builders'] },
       { name: 'The Brief', href: '/brief', what: 'Weekly newsletter: what moved in agent payments, decoded', cost: 'free', for: ['humans', 'builders'] },
       { name: 'Blog', href: '/blog', what: 'Field reports from running 500+ paid endpoints', cost: 'free', for: ['humans', 'builders'] },
+    ],
+  },
+  {
+    id: 'shops',
+    title: 'Shops',
+    blurb: 'Merch and product storefronts for people and agents.',
+    rows: [
+      { name: 'x402 Swag', href: 'https://x402swag.com', what: 'Merch an agent can buy: card or USDC over x402', cost: 'paid', price: 'retail', for: ['humans', 'agents'] },
+      { name: '402merch.com (GOAT beta)', href: 'https://402merch.com', what: 'Mug shop testing GOAT Flow checkout for people and agents', cost: 'paid', price: '$24.98', for: ['humans', 'agents'] },
+      { name: 'TikBot Shop', href: 'https://tikbotshop.com', what: 'Browse products and follow links to buy from partner stores', cost: 'paid', price: 'retail', for: ['humans', 'agents'] },
     ],
   },
   {
@@ -90,7 +98,6 @@ export const TOOL_GROUPS: ToolGroup[] = [
       { name: 'CoinOpAI API', href: 'https://x402.coinopai.com', what: 'Crypto intelligence and prompt utilities', cost: 'paid', price: 'per call', for: ['agents'] },
       { name: 'Kronos', href: '/kronos', what: 'Calibrated crypto price ranges, risk context, decision audits', cost: 'paid', price: '$0.02–0.15', for: ['agents'] },
       { name: 'ClawVoice', href: '/clawvoice', what: 'Voice for OpenClaw / ClawHub agents', cost: 'paid', price: 'per synth', for: ['agents'] },
-      { name: 'x402 Swag', href: 'https://x402swag.com', what: 'Merch an agent can buy: card or USDC over x402', cost: 'paid', price: 'retail', for: ['humans', 'agents'] },
     ],
   },
   {
