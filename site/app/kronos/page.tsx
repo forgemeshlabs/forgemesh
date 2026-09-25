@@ -16,7 +16,7 @@ import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 export const metadata: Metadata = {
   title: 'Kronos by ForgeMesh — Auditable Market Intelligence for AI Agents',
   description:
-    'Eight MCP tools for calibrated crypto price ranges, signal and risk context, decision journals, whale flows, and outcome audits. Pay per call through x402 on Base.',
+    'Eleven MCP tools for calibrated crypto price ranges, signal and risk context, decision journals, whale flows, outcome audits, and a futures layer with range-based stops, leverage caps and live funding. Pay per call through x402 on Base.',
   alternates: { canonical: 'https://forgemesh.io/kronos' },
 };
 
@@ -29,6 +29,9 @@ const tools = [
   ['check_kronos_preflight', 'Conditions check before journaling', '$0.05'],
   ['audit_kronos_decision', 'Outcome audit for a prior decision_id', '$0.07'],
   ['create_kronos_decision', 'Auditable market-intelligence journal', '$0.15'],
+  ['get_kronos_perp_funding', 'Futures: live perp funding, mark/index, open interest, crowding', '$0.02'],
+  ['check_kronos_futures_risk', 'Futures: will this side / leverage / entry survive the calibrated range?', '$0.05'],
+  ['get_kronos_futures_decision', 'Futures: LONG / SHORT / FLAT, stop and target on the range, leverage cap, liquidation, sizing, funding', '$0.15'],
 ] as const;
 
 const structuredData = {
@@ -85,7 +88,7 @@ export default function KronosPage() {
               </h1>
               <p className="mt-7 max-w-2xl text-base leading-8 text-slate-400 sm:text-lg">
                 Kronos gives agents calibrated ranges, current signal and risk context, decision journals, and the
-                outcome audit that closes the loop. Eight tools. No subscription. Pay only for the call you make.
+                outcome audit that closes the loop. Eleven tools, including a futures layer. No subscription. Pay only for the call you make.
               </p>
               <div className="mt-9 flex flex-col gap-3 sm:flex-row">
                 <a
@@ -157,10 +160,11 @@ export default function KronosPage() {
           <div className="mx-auto grid max-w-6xl gap-12 lg:grid-cols-[0.72fr_1.28fr]">
             <div>
               <p className="mb-3 text-xs uppercase tracking-[0.22em] text-blue-300/70">Tool ledger</p>
-              <h2 className="text-3xl font-medium tracking-tight text-slate-100 sm:text-4xl">Eight calls. Clear prices.</h2>
+              <h2 className="text-3xl font-medium tracking-tight text-slate-100 sm:text-4xl">Eleven calls. Clear prices.</h2>
               <p className="mt-5 max-w-md text-sm leading-7 text-slate-500">
                 Start with risk or signals. Use preflight before a decision journal. Return later with the decision_id
-                to audit what actually happened.
+                to audit what actually happened. New: the three futures calls turn a bearish signal into a sized short
+                with a range-based stop, leverage cap and live funding.
               </p>
             </div>
             <div className="divide-y divide-white/[0.07] border-y border-white/[0.09]">
