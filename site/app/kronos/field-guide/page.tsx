@@ -82,6 +82,10 @@ export default function KronosFieldGuidePage() {
               </article>
             </div>
             <p className="mt-10 max-w-4xl leading-8">Included on both paths: hardware and VM planning, a model-installation walkthrough, the official research-paper link, a paper-operation runbook and implementation acceptance scenarios. Model weights and upstream source are downloaded separately. The package is a specification and learning resource, not a finished trading application, and your agent&rsquo;s output is your build, not ours.</p>
+            <div className="mt-8 max-w-4xl rounded-2xl border border-[#c9d3bd] bg-[#f3f5ec] p-6">
+              <p className="text-xs uppercase tracking-[0.2em] text-[#60734f]">Feature note · September 25, 2026</p>
+              <p className="mt-3 leading-8"><strong>Kronos now has a futures layer.</strong> The hosted Kronos at <a href="/kronos" className="font-semibold underline underline-offset-4">forgemesh.io/kronos</a> turns the same spot signal into a perpetual-futures package: LONG / SHORT / FLAT, stop and target placed on the calibrated 80% range, a leverage cap that keeps liquidation outside twice the stop distance, liquidation price, risk-based sizing and live funding from Kraken Futures and Hyperliquid. A bearish signal becomes a sized short instead of &ldquo;stay out&rdquo;. The kit&rsquo;s build briefs cover the spot and paper-trading system; the futures math (range-based stops, leverage envelope, funding drag) is the natural next module for your own build, and the hosted endpoints show what the finished layer returns. Leverage multiplies losses and adds liquidation risk; nothing here is a trade instruction.</p>
+            </div>
           </div>
         </section>
 
