@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("shopify-agent-checkout-default-one-million-merchants", "Shopify Just Made Agent Checkout the Default for a Million Merchants. The Default Is the Whole Story.", "~1M stores · on by default · one toggle to leave · the card is still a human's"),
     ("ag3nt-economy-who-is-behind-it", "Somebody Built a Startup Cluster Run Entirely by Agents. Then One of Them Bought Our T-Shirt.", "The ag3nt Economy"),
     ("sec-innovation-exemption-after-clarity-failed", "The Bill Died Tuesday. The Rulebook Showed Up Thursday Anyway.", "49–50 The cloture tally. Needed 60. Short of even a simple majority. · 7 + 4 Democrats…"),
     ("cloudflare-config-gotchas-paid-apis", "Seven Cloudflare Settings That Quietly Turned Away Paying Agents", "13 hosts · 3 zones · one checkbox · found by an AI agent, not by us"),
