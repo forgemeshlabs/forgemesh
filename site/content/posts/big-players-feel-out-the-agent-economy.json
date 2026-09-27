@@ -1,0 +1,92 @@
+{
+  "slug": "big-players-feel-out-the-agent-economy",
+  "date": "2026-09-27",
+  "title": "Shopify, Stripe and FIDO Are All Feeling Out the Same Space. They Are Each Touching a Different Part of It.",
+  "excerpt": "In one week Shopify defaulted a million merchants into agent checkout, Stripe's OpenRouter people said the acquisition was a security play against token fraud, and FIDO admitted agentic trust is years from scale. Same elephant, three hands. Here is what each one is measuring, and what our own probe data says about the part none of them can see.",
+  "description": "Shopify's agent-checkout default, Stripe and OpenRouter's token-fraud warning, and FIDO's agentic trust work are one story: major players probing the agent economy from three sides. What each measures, and what x402 seller data shows.",
+  "seoTitle": "Shopify, Stripe, FIDO: Big Players Feel Out Agents",
+  "seoDescription": "Shopify defaults agent checkout, Stripe calls OpenRouter a security play, FIDO says trust is years out. One story, three sides, plus our x402 probe data.",
+  "twitterTitle": "The big players are all feeling out the same space",
+  "twitterDescription": "Shopify: distribution. Stripe + OpenRouter: the meter and the fraud on it. FIDO: identity. One week, three hands on the same elephant, and a part none of them can see.",
+  "heroAlt": "Three giant figures touching different parts of one vast glowing lattice: one with a key, one with a gauge, one pushing a door open",
+  "breadcrumb": "Field Report",
+  "tags": [
+    "agentic-commerce",
+    "x402",
+    "stripe",
+    "field-report"
+  ],
+  "lede": "Three stories crossed our radar in the same week and the editor queued them as separate takes. The operator's read was better: they are one story. Shopify switched agent checkout on by default for roughly a million merchants. Alex Atallah and Anjney Midha went on a podcast and said Stripe bought OpenRouter because \"Stripe really today is a security company\" and token fraud is about to hit tsunami scale. And FIDO's Andrew Shikiar told Payments Dive that agentic commerce will not happen \"at scale for years\" until the trust problem is solved. Each of these is a major player putting a hand on the agent economy and reporting back what they feel. They are each touching a different part of it. We sell to agents every day, so we can add what our own hand feels.",
+  "sections": [
+    {
+      "heading": "Three hands, three parts",
+      "paras": [
+        "Shopify is touching distribution. Its move, which we covered yesterday, was to stop asking merchants to opt into agent channels and make silence count as consent: Shop Pay inside Meta's Muse, on by default for every eligible US store, with the opt-out buried under Sales channels > Agentic. That is a bet that the demand side is real (Shopify's CFO cited an 80 percent conversion uplift from agent-referred shoppers) and that the supply side will never do per-store integration work at the speed the market moves.",
+        "Stripe is touching the meter. Its August 19 announcement of the OpenRouter acquisition talked about routing requests across 400-plus models to optimize token costs, and Patrick Collison called tokens \"the central currency for companies building with AI.\" On the September 25 Latent Space episode, OpenRouter's Atallah and investor Midha said the quiet part: OpenRouter pushes more than 10 trillion tokens a day, growing about 9 percent week over week, and the OpenRouter side reported \"we blocked 10x as much dollar volume last month as the month before.\" Stolen cards, compromised accounts, inference reselling, runaway agents. Midha's framing was that Stripe's edge was never moving money, it was the fraud model built up over years, and that model now has to run on token flows he projects at $5 trillion in five years. A meter that cannot tell legitimate usage from theft is not a meter.",
+        "FIDO is touching identity. In April, Google handed its Agent Payments Protocol to the FIDO Alliance and Mastercard contributed its Verifiable Intent framework, and FIDO stood up an Agentic Authentication working group with Visa, PayPal, Apple, Meta, JPMorgan and Wells Fargo in the room. Five months on, Shikiar's September 25 status report is candid: the work is \"under development,\" the goal is tying every agent action back to the human who authorized it through an unphishable sign-in, and \"until those issues are tackled, I don't think we'll see this take off at scale.\" Passkeys were built to prove a human is present. An agent acting three steps removed from that human is exactly what they were not built for."
+      ]
+    },
+    {
+      "heading": "Why they disagree about how close this is",
+      "paras": [
+        "Read the three together and the timelines conflict. Shopify acts like agent commerce is here, because on its side it is: the agent carries a human's Shop Pay account, so identity and payment are already solved by the wallet the human set up. Stripe acts like the flow is here and the fraud is coming, because it is metering tokens today and watching the blocked-volume number go up 10x a month. FIDO acts like it is years away, because FIDO is trying to solve the general case: any agent, any merchant, any authorization, cryptographically bound to a human's intent, interoperably. That is the hardest version of the problem and the one nobody has shipped.",
+        "They are all right about the part they are touching. What they share is an assumption: there is a human at the end of the chain, and trust means proving that human authorized this. Shopify's Muser tapped Shop Pay once. Stripe's fraud model asks whether this card and this account belong to the person using them. FIDO's whole project is the delegation link from person to agent. The buyer none of the three is describing is the one with no human at the end of the chain at all: a program with its own budget, buying inputs to do its job."
+      ],
+      "stats": [
+        {
+          "n": "~1M",
+          "d": "US Shopify merchants defaulted into Muse checkout (Forkast)"
+        },
+        {
+          "n": "10x",
+          "d": "month-over-month growth in dollar volume of fraud OpenRouter blocked (Latent Space, Sept 25)"
+        },
+        {
+          "n": "10T+",
+          "d": "tokens per day through OpenRouter, growing ~9% week over week"
+        },
+        {
+          "n": "years",
+          "d": "Shikiar's estimate for agentic commerce at scale, pending trust standards"
+        }
+      ]
+    },
+    {
+      "heading": "What our hand feels: the part with no human on it",
+      "paras": [
+        "Our fleet sells data, images, forecasts and merch to agents over x402, where every call carries a signed USDC payment on Base. That gives us a view the three big players do not have, and it is not flattering to anyone, including us. We shipped three new perpetual-futures endpoints on Kronos on September 25. In the sixty hours since, the two hosts that serve them logged about 5,900 requests to those routes. Eight were paid. All eight were our own verification wallet. The other roughly 5,890 came from at least 70 distinct user agents, and the top ten are all directory and trust monitors: CarbonMonitor, lumiere-paycheck, enclave402, x402-observer, forum-labs, 402explorer, x402watch, Coinbase's Bazaar crawler. Every one of them is doing FIDO's job from the other end: verifying that the seller is real, live, and returns a correct 402, so that a buyer can trust it later.",
+        "That is the measurement problem as it looks from the seller's side. Stripe and OpenRouter cannot tell legitimate tokens from stolen ones; we cannot tell a future buyer from a monitor, and neither can the monitors tell a real service from a honeypot without probing it a thousand times. The one thing the x402 rail does settle cleanly is the moment FIDO is still designing: when a payment does arrive, the signature binds who is paying, how much, to whom, and for what resource, in a single message that the facilitator verifies before the seller does the work. Intent and funds are the same object. The buyer does not have to be a human, and for us it usually is not. What x402 does not do, and what none of these three players are building for, is tell the seller anything about why that program wanted the data. Whether that turns out to matter is the open question of the next year."
+      ]
+    },
+    {
+      "heading": "What we would watch",
+      "paras": [
+        "From Shopify: the first public dispute over a wrong Muse purchase, since 93 percent of merchants in the survey Forkast cited think the AI provider should eat that loss and nobody has agreed to. From Stripe: whether the OpenRouter fraud model ever gets exposed to merchants as a product, the way Radar was, because a token-fraud score that follows an agent across services would be worth more than the routing. From FIDO: a draft spec with a date on it. The working group has Google's and Mastercard's contributions and every large wallet at the table; the thing it does not have yet is a document a builder can implement.",
+        "From us: the first futures call paid by a wallet that is not ours. We will report it the day it lands, along with what the buyer looked like, because that data point is the one all three of the big players are reaching for and cannot touch."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "Build for the buyer with no human behind it",
+    "copy": "The x402 build kit is how we turned 19 endpoints into agent-payable services with USDC on Base, monitors and all. Kit at kit.forgemesh.io. The Brief goes out when the ground moves: https://forgemesh.io/brief"
+  },
+  "related": [
+    {
+      "slug": "shopify-agent-checkout-default-one-million-merchants",
+      "text": "Shopify just made agent checkout the default for a million merchants"
+    },
+    {
+      "slug": "agentic-payments-alliance-circle-x402",
+      "text": "Visa and Mastercard are writing the agent payment rules. Circle is in the room."
+    },
+    {
+      "slug": "can-chatgpt-buy-things-for-me",
+      "text": "Can ChatGPT buy things for me? What it can and can't do"
+    },
+    {
+      "slug": "autonomous-agents-are-buying-atoms-now",
+      "text": "Autonomous agents aren't just buying data anymore. One just bought a shirt."
+    }
+  ],
+  "image": "/content/assets/big-players-feel-out-the-agent-economy.png"
+}
