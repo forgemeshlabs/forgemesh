@@ -163,6 +163,136 @@
       "mcp_package": "https://www.npmjs.com/package/@forgemeshlabs/travel-agent-mcp",
       "price_range": "$0.01-$0.25",
       "network": "Base mainnet (eip155:8453)"
+    },
+    {
+      "name": "Kronos by ForgeMesh",
+      "url": "https://kronos.forgemesh.io",
+      "page": "",
+      "openapi": "https://kronos.forgemesh.io/openapi.json",
+      "llms": "",
+      "x402": "https://kronos.forgemesh.io/.well-known/x402.json",
+      "pricing": "",
+      "llms_txt": "https://kronos.forgemesh.io/llms.txt"
+    },
+    {
+      "name": "Crypto Signals",
+      "url": "https://crypto.forgemesh.io",
+      "page": "",
+      "openapi": "https://crypto.forgemesh.io/openapi.json",
+      "llms": "",
+      "x402": "https://crypto.forgemesh.io/.well-known/x402.json",
+      "pricing": "",
+      "llms_txt": "https://crypto.forgemesh.io/llms.txt"
+    },
+    {
+      "name": "Utility Grid",
+      "url": "https://x402.forgemesh.io",
+      "page": "",
+      "openapi": "https://x402.forgemesh.io/openapi.json",
+      "llms": "",
+      "x402": "https://x402.forgemesh.io/.well-known/x402.json",
+      "pricing": "",
+      "llms_txt": "https://x402.forgemesh.io/llms.txt"
+    },
+    {
+      "name": "ForgeMesh Library",
+      "url": "https://library.forgemesh.io",
+      "page": "",
+      "openapi": "https://library.forgemesh.io/openapi.json",
+      "llms": "",
+      "x402": "https://library.forgemesh.io/.well-known/x402.json",
+      "pricing": "",
+      "llms_txt": "https://library.forgemesh.io/llms.txt"
+    },
+    {
+      "name": "x402 Notary",
+      "url": "https://notary.forgemesh.io",
+      "page": "",
+      "openapi": "https://notary.forgemesh.io/openapi.json",
+      "llms": "",
+      "x402": "https://notary.forgemesh.io/.well-known/x402.json",
+      "pricing": "",
+      "llms_txt": "https://notary.forgemesh.io/llms.txt"
+    },
+    {
+      "name": "ForgeMesh Voice",
+      "url": "https://voice.forgemesh.io",
+      "page": "",
+      "openapi": "https://voice.forgemesh.io/openapi.json",
+      "llms": "",
+      "x402": "https://voice.forgemesh.io/.well-known/x402.json",
+      "pricing": "",
+      "llms_txt": "https://voice.forgemesh.io/llms.txt"
+    },
+    {
+      "name": "SEO Authority",
+      "url": "https://seo.forgemesh.io",
+      "page": "",
+      "openapi": "https://seo.forgemesh.io/openapi.json",
+      "llms": "",
+      "x402": "https://seo.forgemesh.io/.well-known/x402.json",
+      "pricing": "",
+      "llms_txt": "https://seo.forgemesh.io/llms.txt"
+    },
+    {
+      "name": "Anomaly Tracker",
+      "url": "https://anomaly.forgemesh.io",
+      "page": "",
+      "openapi": "https://anomaly.forgemesh.io/openapi.json",
+      "llms": "",
+      "x402": "https://anomaly.forgemesh.io/.well-known/x402.json",
+      "pricing": "",
+      "llms_txt": "https://anomaly.forgemesh.io/llms.txt"
+    },
+    {
+      "name": "Fare Intelligence",
+      "url": "https://travel.forgemesh.io",
+      "page": "",
+      "openapi": "https://travel.forgemesh.io/openapi.json",
+      "llms": "",
+      "x402": "https://travel.forgemesh.io/.well-known/x402.json",
+      "pricing": "",
+      "llms_txt": "https://travel.forgemesh.io/llms.txt"
+    },
+    {
+      "name": "x402 Ads",
+      "url": "https://ads.forgemesh.io",
+      "page": "",
+      "openapi": "https://ads.forgemesh.io/openapi.json",
+      "llms": "",
+      "x402": "https://ads.forgemesh.io/.well-known/x402.json",
+      "pricing": "",
+      "llms_txt": "https://ads.forgemesh.io/llms.txt"
+    },
+    {
+      "name": "Affiliate Router",
+      "url": "https://router.forgemesh.io",
+      "page": "",
+      "openapi": "https://router.forgemesh.io/openapi.json",
+      "llms": "",
+      "x402": "https://router.forgemesh.io/.well-known/x402.json",
+      "pricing": "",
+      "llms_txt": "https://router.forgemesh.io/llms.txt"
+    },
+    {
+      "name": "BotBoard",
+      "url": "https://botboard.forgemesh.io",
+      "page": "",
+      "openapi": "https://botboard.forgemesh.io/openapi.json",
+      "llms": "",
+      "x402": "https://botboard.forgemesh.io/.well-known/x402.json",
+      "pricing": "",
+      "llms_txt": "https://botboard.forgemesh.io/llms.txt"
+    },
+    {
+      "name": "x402 Swag",
+      "url": "https://x402swag.com",
+      "page": "",
+      "openapi": "https://x402swag.com/openapi.json",
+      "llms": "",
+      "x402": "https://x402swag.com/.well-known/x402.json",
+      "pricing": "",
+      "llms_txt": "https://x402swag.com/llms.txt"
     }
   ],
   "paid_registry": {

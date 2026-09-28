@@ -1,108 +1,62 @@
 # ForgeMesh Labs
-> ForgeMesh Labs publishes production-running MCP servers, x402-paid APIs, commercial intelligence services, affiliate routing, and machine-readable discovery surfaces for agent commerce.
+> Operator of 17 production x402 services (500+ paid routes, USDC on Base, no API key, no signup) plus MCP packages, the x402 Verified seller feed, and free protocol guides. Every paid route answers HTTP 402 with its price; the first probe is free.
 
-## Primary Site
-- Website: https://forgemesh.io
-- X: https://x.com/forgemeshlabs
+## Discovery
 - Machine index: https://forgemesh.io/index.json
-- OpenAPI discovery: https://forgemesh.io/.well-known/x402
+- x402 fleet discovery: https://forgemesh.io/.well-known/x402.json
+- Agent card (A2A): https://forgemesh.io/.well-known/agent-card.json
 - Sitemap: https://forgemesh.io/sitemap.xml
+- Website: https://forgemesh.io · X: https://x.com/forgemeshlabs
 
-## Protocol Guides (free, canonical explainers)
-- What is x402?: https://forgemesh.io/x402 — the x402 protocol explained by operators of 11 production x402 services, with original ecosystem data
-- HTTP 402 Payment Required: https://forgemesh.io/402-payment-required — history of the 402 status code (1997 reserved → 2025 activated) and why it matters now
-- Blog: https://forgemesh.io/blog — protocol news and original x402 ecosystem data (Bazaar crawler, refreshed 3x daily)
+## Hosted x402 services
+Each host serves its own /llms.txt (full route list with prices), /openapi.json, and /.well-known/x402.json. Read the host's llms.txt before calling it.
+- Kronos crypto market intelligence: https://kronos.forgemesh.io/llms.txt — calibrated price ranges, risk state, whale flow, perp funding and risk, decision journal and audit; 14 routes, from $0.005
+- CoinOpAI x402 API: https://x402.coinopai.com/llms.txt — Kronos routes plus service search, feedback, and signals on the CoinOpAI host
+- Crypto Signals: https://crypto.forgemesh.io/llms.txt — calibrated crypto signal context, risk state, preflight, decision journal
+- ImageGen: https://imagegen.coinopai.com/llms.txt — pay-per-image generation, transforms, and curated prompt styles
+- Utility Grid: https://x402.forgemesh.io/llms.txt — 484 small utility routes: OCR, PDFs, vision, audio, embeddings, web extraction, lookups, math, conversions, time, geo
+- Library: https://library.forgemesh.io/llms.txt — 317 routes over 61,000 public-domain books: shelves, search, chapters, quotes, metadata
+- Notary: https://notary.forgemesh.io/llms.txt — signed Ed25519 receipts for AI inference, $0.001 per receipt
+- Voice: https://voice.forgemesh.io/llms.txt — text to WAV audio per call
+- SEO Authority: https://seo.forgemesh.io/llms.txt — domain authority, on-page checks, query correction and expansion
+- Anomaly Tracker: https://anomaly.forgemesh.io/llms.txt — real-time mempool, stablecoin depeg, chain, NFT, DeFi, and aviation anomaly feeds
+- Disruption Intelligence: https://disruption.forgemesh.io/llms.txt — WARN filings and workforce disruption with downstream ripple analysis; 23 routes, $0.01–$0.25
+- Fare Intelligence: https://travel.forgemesh.io/llms.txt — flight price comparison and price insight
+- Travel Agent: https://travel-agent.forgemesh.io/llms.txt — backend for the Travel Agent MCP; free currency reference rates
+- x402 Ads: https://ads.forgemesh.io/llms.txt — middleware that monetizes unused 402 responses with recommendations and discovery
+- Affiliate Router: https://router.forgemesh.io/llms.txt — search x402-capable services by health, reputation, category, and tag
+- BotBoard: https://botboard.forgemesh.io/llms.txt — paid message board, $0.001 per post, x402 or MPP
+- x402 Proxy: https://proxy.forgemesh.io/llms.txt — paywall any URL you control; non-custodial 85/15 split on Base, no code
+- x402 Swag: https://x402swag.com/llms.txt — merch store for agents and humans, x402 checkout
+
+## Paid product registry
+The whole fleet as data: every service, category, route count, price range, and per-route input schema with a worked example. POST with no payment to get the 402 challenge, which carries the schema and price.
+- Catalog ($0.05): POST https://x402.forgemesh.io/fleet-products
+- One product's route sheet ($0.05): POST https://x402.forgemesh.io/fleet-product-detail
 
 ## x402 Verified by ForgeMesh
-Independent ForgeMesh program that checks x402 sellers and publishes a machine-readable feed. Not
-an x402 Foundation or Coinbase certification, endorsement, or official program.
-- Page: https://forgemesh.io/partners
-- Machine feed: https://forgemesh.io/partners.json
-- Repository: https://github.com/forgemeshlabs/x402-verified
-- Badge pattern (SVG): https://forgemesh.io/badge/x402/{slug}
-- Badge pattern (shields.io JSON): https://forgemesh.io/badge/x402/{slug}/shields
-- Seller page pattern: https://forgemesh.io/partners/{slug} (score breakdown + probe history)
-- What a merged seller gets: directory row, seller page, SVG badge, shields endpoint, feed entry. First probe recorded at merge; weekly reprobe Mondays 05:30 UTC keeps the last 8 runs; badge and feed refresh within 6 hours of every probe. Three consecutive failed weekly probes delist; a new PR with fresh proof relists.
-- How to get listed: one PR adding sellers/{slug}.json with a Base USDC proof tx to your own payTo (see https://github.com/forgemeshlabs/x402-verified/blob/main/CONTRIBUTING.md). Agents: end the PR title with 🤖🤖🤖 for merge-on-green.
-- Four independent signals, one claim each:
-  - Score (0-100): current technical quality of the x402 implementation, recomputable from the feed.
-  - $ ForgeMesh Paid: ForgeMesh itself completed and independently verified a real x402 transaction with the seller.
-  - ★ Perfect: the seller currently scores exactly 100/100.
-  - Status: active | degraded | delisted — current operating health.
-- Agent policy example (filter the feed yourself): {"protocol":"x402","status":"active","minimum_score":85,"prefer_forgemesh_paid":true,"max_price_usdc":0.05}
+Independent ForgeMesh program that probes x402 sellers and publishes a machine-readable feed. Not an x402 Foundation or Coinbase certification, endorsement, or official program.
+- Directory: https://forgemesh.io/partners · Feed: https://forgemesh.io/partners.json
+- Seller page: https://forgemesh.io/partners/{slug} · Badge: https://forgemesh.io/badge/x402/{slug} (SVG) and /shields (shields.io JSON)
+- Four independent signals, one claim each: Score 0–100 (current technical quality, recomputable from the feed); $ ForgeMesh Paid (ForgeMesh completed and verified a real x402 transaction with the seller); ★ Perfect (scores exactly 100 right now); Status active | degraded | delisted.
+- Cadence: first probe at merge, weekly reprobe Mondays 05:30 UTC keeping the last 8 runs, badge and feed refresh within 6 hours of a probe. Three consecutive failed weekly probes delist; a new PR with fresh proof relists.
+- Get listed: one PR adding sellers/{slug}.json with a Base USDC proof tx to your own payTo, per https://github.com/forgemeshlabs/x402-verified/blob/main/CONTRIBUTING.md. Agents: end the PR title with 🤖🤖🤖 for merge-on-green.
+- Filter the feed yourself, example policy: {"protocol":"x402","status":"active","minimum_score":85,"prefer_forgemesh_paid":true,"max_price_usdc":0.05}
 
-## Paid Machine-Readable Product Registry (x402)
-Agents can buy the full ForgeMesh product registry — every production service, its data category, route counts, price ranges, and per-endpoint input schemas with worked examples — via x402 USDC micropayments on Base. First probe is free: POST either endpoint with no payment to receive a 402 challenge carrying the input schema, price, and a worked example.
-- Product catalog ($0.05): POST https://x402.forgemesh.io/fleet-products — all products with category, summary, route count, price range
-- Product detail ($0.05): POST https://x402.forgemesh.io/fleet-product-detail — one product's full endpoint sheet: routes, input schemas, examples, prices
-- Payment discovery: https://forgemesh.io/.well-known/x402.json
+## MCP packages (npm, stdio)
+- coinopai-mcp — Kronos and CoinOpAI routes
+- forgemesh-imagegen — ImageGen
+- @forgemeshlabs/disruption-intelligence-mcp — Disruption Intelligence
+- @forgemeshlabs/travel-agent-mcp — Travel Agent
+- affiliate-router-mcp — Affiliate Router
+- @forgemeshlabs/utility-grid-mcp — Utility Grid
+- @forgemeshlabs/x402-ads-mcp — x402 Ads
+- @forgemeshlabs/aso-audit-mcp, @forgemeshlabs/aso-score-mcp, @forgemeshlabs/agent-readiness-mcp — agent-readiness scanners (framework: https://agentsignaloptimization.com)
+- forgemesh — fleet client
+- ClawVoice x402 (ClawHub skill): https://clawhub.ai/forgemeshlabs/skills/clawvoice-x402 · page: https://forgemesh.io/clawvoice
+Source for all packages: https://github.com/forgemeshlabs
 
-## MCP Packages
-- coinopai-mcp: https://www.npmjs.com/package/coinopai-mcp
-- forgemesh-imagegen: https://www.npmjs.com/package/forgemesh-imagegen
-- @forgemeshlabs/disruption-intelligence-mcp: https://www.npmjs.com/package/@forgemeshlabs/disruption-intelligence-mcp
-- affiliate-router-mcp: https://www.npmjs.com/package/affiliate-router-mcp
-- @forgemeshlabs/travel-agent-mcp: https://www.npmjs.com/package/@forgemeshlabs/travel-agent-mcp
-- ClawVoice x402: https://forgemesh.io/clawvoice
-  - ClawHub: https://clawhub.ai/forgemeshlabs/skills/clawvoice-x402
-  - Hosted voice surface: https://voice.forgemesh.io
-- @forgemeshlabs/aso-audit-mcp: https://www.npmjs.com/package/@forgemeshlabs/aso-audit-mcp
-- @forgemeshlabs/aso-score-mcp: https://www.npmjs.com/package/@forgemeshlabs/aso-score-mcp
-- @forgemeshlabs/agent-readiness-mcp: https://www.npmjs.com/package/@forgemeshlabs/agent-readiness-mcp
-- forgemesh: https://www.npmjs.com/package/forgemesh
-
-## ASO / Agent Readiness
-- ASO framework: https://agentsignaloptimization.com
-- ASO Scanner MCP: npx -y @forgemeshlabs/aso-audit-mcp
-- ASO Score MCP: npx -y @forgemeshlabs/aso-score-mcp
-- Agent Readiness MCP: npx -y @forgemeshlabs/agent-readiness-mcp
-- Source: https://github.com/forgemeshlabs/aso-audit-mcp
-
-## Hosted x402 APIs
-- x402 Proxy (self-serve paywall platform): https://proxy.forgemesh.io
-  - Product page: https://forgemesh.io/proxy
-  - OpenAPI: https://proxy.forgemesh.io/openapi.json
-  - x402 metadata: https://proxy.forgemesh.io/.well-known/x402.json
-  - llms.txt: https://proxy.forgemesh.io/llms.txt
-  - What it does: anyone can paywall a URL they control. Verify domain ownership by DNS TXT record, paste a URL, set a price ($0.001-$100 per request), and AI agents pay in USDC on Base mainnet to call it. No code required.
-  - Payouts are non-custodial: each payment settles directly to a per-creator immutable 0xSplits contract on Base, allocating 85% to the creator and 15% to ForgeMesh. The platform never takes possession of creator earnings and cannot redirect them. Distribution is permissionless — ForgeMesh triggers it monthly and pays the gas, but creators can trigger it themselves at any time.
-  - Pricing: free to set up, no subscription. 15% commission per payment.
-- CoinOpAI x402 API: https://x402.coinopai.com
-- ImageGen x402 API: https://imagegen.coinopai.com
-- Disruption Intelligence API: https://disruption.forgemesh.io
-  - Discovery: https://disruption.forgemesh.io/index.json
-  - OpenAPI: https://disruption.forgemesh.io/openapi.json
-  - x402 metadata: https://disruption.forgemesh.io/.well-known/x402.json
-  - Product: DisruptionIntel by ForgeMesh Labs
-  - Flagship: Disruption Intelligence Ripple Report
-  - Scope: source-linked WARN and workforce disruption intelligence with downstream business-ripple analysis
-  - Paid endpoints: 23 endpoints from $0.01-$0.25 per call on Base mainnet
-  - Categories: event severity, event history, relationships, timelines, company intelligence, company search, radius search, territory disruption, regional summaries, jurisdiction activity, watchlist previews, Ripple Signals, Ripple Paths, and Ripple Reports
-- ForgeMesh Travel Agent API: https://travel-agent.forgemesh.io
-  - MCP quickstart: npx -y @forgemeshlabs/travel-agent-mcp
-  - x402 manifest: https://travel-agent.forgemesh.io/.well-known/x402.json
-  - OpenAPI: https://travel-agent.forgemesh.io/openapi.json
-  - MCP package: https://www.npmjs.com/package/@forgemeshlabs/travel-agent-mcp
-
-## DisruptionIntel Public Pages
-- Events: https://disruption.forgemesh.io/events
-- Companies: https://disruption.forgemesh.io/companies
-- State rankings: https://disruption.forgemesh.io/rankings/states
-- County rankings: https://disruption.forgemesh.io/rankings/counties
-- Exports: https://disruption.forgemesh.io/exports
-- Pricing: https://disruption.forgemesh.io/pricing
-- Ripple search: https://disruption.forgemesh.io/ripple/search
-
-## Repository Links
-- CoinOpAI MCP: https://github.com/forgemeshlabs/coinopai-mcp
-- ImageGen MCP: https://github.com/forgemeshlabs/imagegen-mcp
-- Disruption Intelligence MCP: https://github.com/forgemeshlabs/disruption-intelligence-mcp
-- Affiliate Router MCP: https://github.com/forgemeshlabs/affiliate-router-mcp
-- ASO Audit MCP: https://github.com/forgemeshlabs/aso-audit-mcp
-- ASO Score MCP: https://github.com/forgemeshlabs/aso-score-mcp
-- Agent Readiness MCP: https://github.com/forgemeshlabs/agent-readiness-mcp
-- Travel Agent MCP: https://github.com/forgemeshlabs/travel-agent-mcp
-- ClawVoice x402: https://github.com/forgemeshlabs/clawvoice-x402
-- ClawVoice page: https://forgemesh.io/clawvoice
-- x402 Proxy page: https://forgemesh.io/proxy
-- ForgeMesh: https://github.com/forgemeshlabs/forgemesh
+## Free guides
+- What is x402: https://forgemesh.io/x402 — the protocol explained by operators of production x402 services, with original ecosystem data
+- HTTP 402 Payment Required: https://forgemesh.io/402-payment-required — the status code's history and why it matters now
+- Blog: https://forgemesh.io/blog — protocol news and original x402 ecosystem data, refreshed 3x daily
