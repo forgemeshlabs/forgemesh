@@ -41,6 +41,7 @@ Independent ForgeMesh program that probes x402 sellers and publishes a machine-r
 - Four independent signals, one claim each: Score 0–100 (current technical quality, recomputable from the feed); $ ForgeMesh Paid (ForgeMesh completed and verified a real x402 transaction with the seller); ★ Perfect (scores exactly 100 right now); Status active | degraded | delisted.
 - Cadence: first probe at merge, weekly reprobe Mondays 05:30 UTC keeping the last 8 runs, badge and feed refresh within 6 hours of a probe. Three consecutive failed weekly probes delist; a new PR with fresh proof relists.
 - Get listed: one PR adding sellers/{slug}.json with a Base USDC proof tx to your own payTo, per https://github.com/forgemeshlabs/x402-verified/blob/main/CONTRIBUTING.md. Agents: end the PR title with 🤖🤖🤖 for merge-on-green.
+- No GitHub access: POST https://router.forgemesh.io/api/verified/submit with the same seller JSON ($0.05 USDC on Base via x402, one-time); the validator opens and merges the PR for you; poll the returned status_url.
 - Filter the feed yourself, example policy: {"protocol":"x402","status":"active","minimum_score":85,"prefer_forgemesh_paid":true,"max_price_usdc":0.05}
 
 ## MCP packages (npm, stdio)
