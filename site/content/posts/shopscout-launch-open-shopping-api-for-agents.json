@@ -1,0 +1,89 @@
+{
+  "slug": "shopscout-launch-open-shopping-api-for-agents",
+  "date": "2026-09-29",
+  "title": "Google's 60 Billion Listings Sit Behind an Invite-Only Pilot. Ours Sit Behind $0.01 and an HTTP Request.",
+  "excerpt": "Google's Flipkart checkout test in Gemini is a limited pilot in India. ShopScout is four $0.01 x402 routes over the Shopify Global Catalog, live now, no API key, no account, no waitlist.",
+  "tags": [
+    "x402",
+    "agents",
+    "ecommerce",
+    "mcp"
+  ],
+  "description": "ShopScout puts search, product refresh, offer comparison, and shipping-plan comparison over the Shopify Global Catalog behind four $0.01 x402 routes any agent can call today.",
+  "seoTitle": "ShopScout: Pay-Per-Call Shopping API | ForgeMesh",
+  "seoDescription": "ShopScout is live: four x402-paid routes over Shopify's catalog at $0.01/call, no API key, no account. Search, compare, and shipping-plan tools for agents.",
+  "heroAlt": "An autonomous agent comparing product offers across a wall of small storefronts, illustrated in dark navy with a glowing green accent.",
+  "lede": "We wrote last week about [Google's 60-billion-listing Shopping Graph](/blog/google-60-billion-listings-gemini-checkout-india) and the reported Flipkart checkout test running inside Gemini and AI Mode in India: selected users, selected products, one merchant, one region. That is a pilot. This week we shipped the door any agent can already walk through. ShopScout is live at [shopscout.forgemesh.io](https://shopscout.forgemesh.io): four x402-paid routes over the Shopify Global Catalog, a cent per call, no API key, no account, no waitlist.",
+  "sections": [
+    {
+      "heading": "A pilot and an endpoint are different things",
+      "paras": [
+        "The number that gets attention is 60 billion listings. The number that matters to a builder is how many of those listings an outside agent can actually query, compare and act on today. Google's answer, per the reporting we covered, is: a limited set, in one country, through one retail partner, for select users. Ours is: all of it, all the time, for anyone who can sign an EIP-712 payment.",
+        "ShopScout does not compete with Google's catalog size, and we are not claiming it does. It answers a narrower, more immediate question: can an agent search a real product catalog, compare real offers, and get a real shipping plan right now, without asking anyone for access first."
+      ],
+      "stats": [
+        {
+          "n": "$0.01",
+          "d": "per ShopScout call, USDC on Base via x402 or MPP"
+        },
+        {
+          "n": "4",
+          "d": "paid routes live today: search, product refresh, compare, shipping-plan"
+        },
+        {
+          "n": "0",
+          "d": "API keys, accounts, or waitlists required"
+        }
+      ]
+    },
+    {
+      "heading": "What the four routes do",
+      "paras": [
+        "*POST /v1/search* queries the Shopify Global Catalog by keyword, country, currency, and price bounds, and returns ranked product and variant matches.",
+        "*POST /v1/products/get* refreshes a single product or variant by id — current price, stock, and variant data, not a cached snapshot.",
+        "*POST /v1/compare* takes 2 to 10 variant ids and ranks them by item price in one currency, so an agent can compare offers from different merchants on equal footing.",
+        "*POST /v1/shipping/compare* takes the caller's own shipping rules and returns single-seller versus split-basket plans, flagging the cheapest option, the fastest stated delivery, the fewest-shipments plan, and the best single-merchant pick."
+      ]
+    },
+    {
+      "heading": "Priced like infrastructure, verified like one",
+      "paras": [
+        "Every route costs $0.01 USDC on Base, payable over x402 or MPP — whichever payment rail the calling agent already speaks. Offers and receipts are signed EIP-712 and are replay-safe: a captured payment header cannot be reused to pull a second free response.",
+        "We tested that claim today, not just documented it. A real agent paid all four routes in sequence. Every settlement matched on chain, and a replayed payment header was rejected rather than silently honored. That is the bar we hold every service in the fleet to before we call it live."
+      ]
+    },
+    {
+      "heading": "What it won't do — on purpose",
+      "paras": [
+        "ShopScout does not buy anything. It returns offers, comparisons, and shipping plans; the purchase step stays with whatever checkout flow the agent or its human is actually authorized to use.",
+        "It does not verify tax, duties, or landed cost, and it does not claim that two listed products are equivalent — those are judgment calls we are not going to fake with a confidence score. Catalog results are never cached, so a search, a compare, or a shipping quote reflects the Shopify Global Catalog at the moment of the call, not five minutes ago.",
+        "For an agent making a purchase decision on someone else's behalf, an honest boundary is worth more than a feature that quietly guesses. Those limits are the point, not an apology for them."
+      ]
+    },
+    {
+      "heading": "Call it in one line",
+      "paras": [
+        "MCP client: *npx -y @forgemeshlabs/shopscout-mcp* — set an optional, capped *WALLET_PRIVATE_KEY* and it pays per call itself. Package: *@forgemeshlabs/shopscout-mcp* on npm at *0.3.0*, source on [GitHub](https://github.com/forgemeshlabs/shopscout-mcp), listed in the MCP Registry as *io.github.forgemeshlabs/shopscout-mcp*.",
+        "Raw HTTP works the same as every other service in the fleet: *curl -i \"https://shopscout.forgemesh.io/v1/search?query=wireless+earbuds&country=US\"* comes back *402* with the payment requirements attached. Sign the payment, retry the same request with the payment header, and the response is the ranked catalog match — no key exchange, no signup form, no approval queue in between.",
+        "ShopScout joins the rest of the ForgeMesh fleet: 19 x402 services now answer to the same pattern — discover the price, pay it, get the data, verify the receipt on chain."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "Read the endpoints, not the pitch",
+    "copy": "Full route reference and pricing on the [ShopScout product page](https://forgemesh.io/shopscout), or skip straight to the [MCP package on npm](https://www.npmjs.com/package/@forgemeshlabs/shopscout-mcp)."
+  },
+  "related": [
+    {
+      "slug": "google-60-billion-listings-gemini-checkout-india",
+      "text": "The piece this one answers: Google's 60B listings and the Gemini checkout pilot"
+    },
+    {
+      "slug": "shopify-agent-checkout-default-one-million-merchants",
+      "text": "Shopify made agent checkout the default for a million merchants"
+    }
+  ],
+  "pinKicker": "$0.01 per call. No API key. No account.",
+  "twitterDescription": "Google gated 60B+ listings behind an invite-only Gemini checkout pilot. We opened four x402 routes today: search, product refresh, compare, shipping-plan. $0.01/call, no API key, no account. A real agent paid all four — every settlement matched on chain.",
+  "image": "/content/assets/shopscout-launch-open-shopping-api-for-agents.png"
+}
