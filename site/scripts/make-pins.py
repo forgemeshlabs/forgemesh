@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("shopscout-launch-open-shopping-api-for-agents", "Google's 60 Billion Listings Sit Behind an Invite-Only Pilot. Ours Sit Behind $0.01 and an HTTP Request.", "$0.01 per call. No API key. No account."),
     ("ai-blockchain-quantum-feedback-loop", "AI, Blockchain, Quantum: The Feedback Loop Just Closed", "Three waves. One clock."),
     ("big-players-feel-out-the-agent-economy", "Shopify, Stripe and FIDO Are All Feeling Out the Same Space. They Are Each Touching a Different Part of It.", "Shopify: distribution · Stripe: the meter · FIDO: identity · x402: the part with no human on it"),
     ("shopify-agent-checkout-default-one-million-merchants", "Shopify Just Made Agent Checkout the Default for a Million Merchants. The Default Is the Whole Story.", "~1M stores · on by default · one toggle to leave · the card is still a human's"),
