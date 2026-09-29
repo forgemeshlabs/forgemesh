@@ -105,6 +105,7 @@ export const TOOL_GROUPS: ToolGroup[] = [
       { name: 'CoinOpAI API', href: 'https://x402.coinopai.com', what: 'Crypto intelligence and prompt utilities', cost: 'paid', price: 'per call', for: ['agents'] },
       { name: 'Kronos', href: '/kronos', what: 'Calibrated crypto price ranges, risk context, decision audits, futures layer (direction, range-based stop, leverage cap, funding)', cost: 'paid', price: '$0.02–0.15', for: ['agents'] },
       { name: 'ClawVoice', href: '/clawvoice', what: 'Voice for OpenClaw / ClawHub agents', cost: 'paid', price: 'per synth', for: ['agents'] },
+      { name: 'ShopScout', href: '/shopscout', what: 'Product discovery, offer comparison and shipping-plan comparison over the Shopify Global Catalog; no purchases', cost: 'paid', price: '$0.01/call', for: ['agents'] },
     ],
   },
   {

@@ -395,6 +395,13 @@
    "x402Version": 2,
    "wellKnown": "https://x402swag.com/.well-known/x402.json",
    "openapi": "https://x402swag.com/openapi.json"
+  },
+  {
+   "name": "ForgeMesh ShopScout",
+   "url": "https://shopscout.forgemesh.io",
+   "x402Version": 2,
+   "wellKnown": "https://shopscout.forgemesh.io/.well-known/x402.json",
+   "openapi": "https://shopscout.forgemesh.io/openapi.json"
   }
  ]
 }

@@ -91,6 +91,14 @@ export const FLEET: ServiceDef[] = [
     tagline: 'Flux image generation in four quality tiers.',
     npm: 'forgemesh-imagegen',
   },
+  {
+    id: 'shopscout',
+    name: 'ShopScout',
+    brand: 'ForgeMesh',
+    domain: 'shopscout.forgemesh.io',
+    tagline: 'Let your agent shop and compare — Shopify catalog search, offer and shipping comparison.',
+    page: '/shopscout',
+  },
 ];
 
 export interface ServiceLive {

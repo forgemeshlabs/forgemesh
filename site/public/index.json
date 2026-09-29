@@ -293,6 +293,16 @@
       "x402": "https://x402swag.com/.well-known/x402.json",
       "pricing": "",
       "llms_txt": "https://x402swag.com/llms.txt"
+    },
+    {
+      "name": "ShopScout",
+      "url": "https://shopscout.forgemesh.io",
+      "page": "https://forgemesh.io/shopscout",
+      "openapi": "https://shopscout.forgemesh.io/openapi.json",
+      "llms": "https://shopscout.forgemesh.io/llms.txt",
+      "x402": "https://shopscout.forgemesh.io/.well-known/x402.json",
+      "pricing": "$0.01/call",
+      "llms_txt": "https://shopscout.forgemesh.io/llms.txt"
     }
   ],
   "paid_registry": {

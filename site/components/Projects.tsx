@@ -160,6 +160,16 @@ const projects = [
     url: 'https://travel-agent.forgemesh.io',
   },
   {
+    name: 'ShopScout',
+    surface: 'Hosted x402 API',
+    description:
+      'Product discovery and offer comparison over the Shopify Global Catalog for shopping agents. Four paid endpoints at $0.01 in USDC on Base: search, product/variant refresh, offer comparison, and a shipping-plan comparator that ranks single-seller vs. split baskets against caller-supplied shipping rules. No purchases, no tax or landed-cost claims, no product-equivalence claims, no caching of catalog results. Bazaar discovery, payment-identifier, and EIP-712 offer-receipt extensions live.',
+    tags: ['x402', 'shopping', 'Shopify', 'offer comparison', 'USDC', 'Base'],
+    status: 'active',
+    url: 'https://shopscout.forgemesh.io',
+    page: '/shopscout',
+  },
+  {
     name: 'ClawVoice x402',
     surface: 'OpenClaw skill',
     description:
