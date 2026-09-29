@@ -13,6 +13,7 @@ const links = [
   { label: 'The Brief', href: '/brief' },
   { label: 'About', href: '/about' },
   { label: 'Privacy', href: '/privacy' },
+  { label: 'Security', href: '/security' },
   { label: 'Terms', href: '/terms' },
   { label: 'Contact', href: 'mailto:hello@forgemesh.io' },
 ];
