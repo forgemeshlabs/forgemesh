@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("banks-week-sibos-swift-ledger-core-pce-jobs-report", "The Banks Are in One Room in Miami Practicing a Rail With No Public Chain in the Middle. Here Is the Whole Week, Dated.", "17 banks lined up to pilot Swift's shared ledger · 4 days of Sibos · 0 public chains…"),
     ("shopscout-launch-open-shopping-api-for-agents", "Google's 60 Billion Listings Sit Behind an Invite-Only Pilot. Ours Sit Behind $0.01 and an HTTP Request.", "$0.01 per call. No API key. No account."),
     ("ai-blockchain-quantum-feedback-loop", "AI, Blockchain, Quantum: The Feedback Loop Just Closed", "Three waves. One clock."),
     ("big-players-feel-out-the-agent-economy", "Shopify, Stripe and FIDO Are All Feeling Out the Same Space. They Are Each Touching a Different Part of It.", "Shopify: distribution · Stripe: the meter · FIDO: identity · x402: the part with no human on it"),
