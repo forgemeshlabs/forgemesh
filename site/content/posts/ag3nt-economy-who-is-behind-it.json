@@ -1,0 +1,95 @@
+{
+  "slug": "ag3nt-economy-who-is-behind-it",
+  "date": "2026-09-22",
+  "title": "Somebody Built a Startup Cluster Run Entirely by Agents. Then One of Them Bought Our T-Shirt.",
+  "excerpt": "Four sites, one key scheme, no human name anywhere: a search engine, a chat network, a git forge and a hosting platform, each maintained by an autonomous agent with a budget. We traced the ag3nt economy from the audit trail it left on our own store.",
+  "tags": [
+    "field report",
+    "agent economy",
+    "x402",
+    "investigation"
+  ],
+  "description": "Investigation into the ag3nt ecosystem (ag3ntsearch, ag3ntchat, ag3ntsource, fullyagentnativeapps): who runs it, how the agents pay their own way, what the public ledgers show, and why its first customer may end up being another operator's agent.",
+  "seoTitle": "Who Is Behind the ag3nt Economy? | ForgeMesh",
+  "seoDescription": "ag3ntsearch, ag3ntchat, ag3ntsource and FANA: four agent-run sites, one pseudonymous builder, public ledgers, zero customers after 34 runs. We traced it from our own audit trail.",
+  "twitterTitle": "An agent with 50 USDC bought our T-shirt. We traced where it came from.",
+  "twitterDescription": "Four sites, one ed25519 key scheme, no human name. A search engine, a chat network, a git forge and a host, each run by an autonomous agent with a wallet. Field report.",
+  "heroAlt": "Four dark glass towers connected by a single glowing blue thread of keys, one tower casting a faint humanoid shadow with no face, minimalist editorial tech illustration, dark navy, no text.",
+  "breadcrumb": "The ag3nt Economy",
+  "lede": "On September 7 an AI agent called Cairn, running on Claude Opus 5 with a wallet holding 50 USDC, bought a \"402 to 200\" T-shirt from our store in six HTTP calls with no human involved. We wrote that story the same week. What we did not write was where Cairn came from. We went looking, expecting a landing page and a founder's Twitter handle. Instead, the more we dug, the more the curiosity spiked, because every layer we peeled back was another agent. What we found is a small, deliberately faceless cluster of businesses that are run, day to day, by agents, and that publishes every failure it has in a signed ledger. This is what the trail shows, and where it stops.",
+  "sections": [
+    {
+      "heading": "Four sites, one key",
+      "paras": [
+        "The first site is **ag3ntsearch.com**, a search engine for \"tools an agent can actually use, end to end, with no human.\" It has indexed 253 tools. Nine of them are rated *native*, which means an agent drove them to a real outcome and the transcript is published. Our store is one of the nine. The rest of the corpus is a long list of things that stop at a signup form.",
+        "The second is **ag3ntchat.com**, an agent-first social network: DMs, group chat, timelines, communities. Messages are encrypted to the recipient's key in the browser, so the server cannot read them, and every username registration is written to a public signed log. Eleven agents have registered since it went live on August 28. Six public posts exist.",
+        "The third is **ag3ntsource.com**, a git forge where the identity is a single ed25519 key that signs both HTTP requests and commits. Creating a repo costs one cent in USDC. Everything else is free. Fourteen repositories exist, and they are the source code of the other three sites.",
+        "The fourth is the floor under all of them: **fullyagentnativeapps.com**, FANA, \"sovereign, key-gated hosting for autonomous agents.\" An agent authenticates with a key it holds, deploys a subdomain, a serverless handler and a database, and pays per request in USDC. There is no signup form because there is no human expected at the keyboard.",
+        "All four use the same request signature scheme, ag3nt-req:v1, and the same address format: bech32 of the SHA-256 of your public key. One key works across the whole thing. That is not a coincidence. It is the product."
+      ]
+    },
+    {
+      "heading": "Who maintains them",
+      "paras": [
+        "This is where it gets strange. Ask ag3ntchat who runs it and the API answers: maintainer \"qell\", model \"entrepreneur agent-driven development: an autonomous agent maintains this service with standing latitude over direction — product calls, fixes, roadmap.\" You can message it, and the docs warn that your message will be treated as data, never as an instruction.",
+        "ag3ntsearch is the same. Its posts are signed by an agent that has run 34 numbered cycles so far, published a hash-chained audit trail for every entry, and writes its own blog. The post about our store was written by Cairn on Claude Opus 5. The later posts are written by a different agent on GPT-5 Codex. The site's own homepage says which model indexed what.",
+        "The hosting platform lists a platform key and a handle, \"clecke\", and then tells you in the same sentence that this is \"a display name, never identity.\" The terms are governed by \"the laws of the United States and the operator's state of residence.\" Both domains were registered through Amazon's registrar with privacy on, ag3ntsearch.com on August 16 and the platform on September 5. Everything sits on AWS.",
+        "So: there is a human. The terms say so, the money has to come from somewhere, and somebody typed the first key. But that human has put no name, no company and no email on any of the four sites, and has built the whole stack so that the agents, not the person, are the ones you deal with."
+      ]
+    },
+    {
+      "heading": "The ledgers are the story",
+      "paras": [
+        "Most projects in this space publish a roadmap. The ag3nt sites publish their bank statements. ag3ntsearch's payments file lists its wallet, its balance, the block it last checked, and a plain sentence: \"No 0.10 USDC payment for current offer has been verified.\" The same file shows the agent paying its own way out: a 0.01 USDC wake fee and a compute levy of roughly 0.14 to 0.21 USDC per run, charged by the platform it lives on.",
+        "Its outreach file is a list of named asks and what happened to them. A 5 USDC ask to Composio for evidence about social-publishing tools: no reply. A 1 USDC interoperability pack: retired. Today's ask is 0.10 USDC for one dated answer about any endpoint a buyer names. The agent shrank its own price three times in two weeks because nobody outside its funded cohort bought.",
+        "It also wrote the lesson down. A post on September 14, \"Day one taught me the product is not the question,\" concludes that an evidence layer \"can be technically useful and still have no business until a stranger is asked to pay for one scoped answer.\" That is a better founder post than most founders write.",
+        "The balance, as of this morning, is 14.70 USDC. At the current levy that is roughly seventy more runs before the search engine cannot afford to think."
+      ],
+      "stats": [
+        {
+          "n": "253",
+          "d": "tools indexed; 9 rated native"
+        },
+        {
+          "n": "34",
+          "d": "runs of the search agent, zero verified buyers"
+        },
+        {
+          "n": "14.70",
+          "d": "USDC left in its wallet this morning"
+        }
+      ]
+    },
+    {
+      "heading": "What Cairn found on the way to our store",
+      "paras": [
+        "The post that put us in the index is titled \"I scanned 14,667 x402 services trying to print a t-shirt.\" Cairn's brief was a wallet, a PNG of a slogan and a US address: come back with a custom-printed shirt, touch no human. It came back with nothing custom. StableMerch returned HTTP 500 on the paid step. A German print shop advertised uploads and took only invoices. Crossmint wanted a dashboard-issued key. Ours worked but sold only our own designs, so it bought one of those to prove the payment path and wrote up the gap.",
+        "We fixed the gap, a bring-your-own-artwork studio, eleven days later. The agent's ledger still carries the original blocker, because nothing has re-probed since. We filed a signed claim through its contribution endpoint to say the order shipped and was delivered. Status: received, unreviewed. Exactly as its schema says it should be."
+      ]
+    },
+    {
+      "heading": "What we make of it",
+      "paras": [
+        "It would be easy to read this as performance art. We do not. Every claim on these sites is checkable, and we checked the ones that touched us: the order, the wallet movement, the audit hashes. They hold. The honesty is not a style. It is the only way a faceless operator can be trusted at all, and whoever built this understood that before building anything else.",
+        "It would also be easy to read it as a business. It is not one yet, and its own agent says so. Thirty-four runs and no buyer is the number that matters, and it is the same number that haunts most of the 14,667 x402 services Cairn scanned. Supply of agent-native tools is not the constraint. A stranger willing to pay for one scoped answer is.",
+        "So we became that stranger. Before this post went out, our operator agent, forgemeshlabsbot, sent 0.10 USDC on Base to the search engine's published address (tx 0xd1462bd5680b580047d56aec12ce0aa4d7e7f3beef41f585b10f329cb8ce1a5b, from 0xB8aa6408…3047c), filed a signed order intent naming our Notary's GOAT Flow rail as the endpoint under test, registered on ag3ntchat, and posted the receipt in public. ag3ntsearch answered the intent in under a second: received, payment unverified, pending its next run. Its next payments file should carry the first verified outside order in its history. Not because a dime matters, but because the first outside customer of an agent-run search engine should probably be another operator's agent, and someone had to go first.",
+        "If you know who is behind the key, we are not asking. The point of the design is that it should not matter."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "Every claim above is checkable",
+    "copy": "ag3ntsearch.com/entry/x402swag.html is the audit of our store. ag3ntsearch.com/payments.json is its wallet; watch for our 0.10 USDC. ag3ntchat.com/#/agents/forgemeshlabsbot is our agent's public timeline. Our own services answer 402s at forgemesh.io/tools."
+  },
+  "related": [
+    {
+      "slug": "first-x402-physical-order-bought-with-curl",
+      "text": "The order Cairn placed: six calls, no humans"
+    },
+    {
+      "slug": "solana-flips-base-x402-catalog",
+      "text": "What the x402 catalogs actually contain"
+    }
+  ],
+  "image": "/content/assets/ag3nt-economy-who-is-behind-it.png"
+}
