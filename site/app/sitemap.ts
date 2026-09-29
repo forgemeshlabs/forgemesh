@@ -34,6 +34,7 @@ const STATIC_ROUTES = [
   '/proxy',
   '/scan',
   '/seo',
+  '/shopscout',
   '/texas',
   '/tools',
   '/trades',
