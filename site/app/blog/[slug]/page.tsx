@@ -27,7 +27,7 @@ function renderInline(text: string): React.ReactNode[] {
     if (m[1] !== undefined) out.push(<strong key={k++} className="text-slate-200">{m[1]}</strong>);
     else if (m[2] !== undefined) out.push(<em key={k++}>{m[2]}</em>);
     else out.push(
-      <a key={k++} href={m[4]} className="text-blue-400 hover:text-blue-300">{m[3]}</a>
+      <a key={k++} href={m[4]} rel={/^\/go\//.test(m[4]) ? "sponsored" : undefined} className="text-blue-400 hover:text-blue-300">{m[3]}</a>
     );
     last = m.index + m[0].length;
   }
