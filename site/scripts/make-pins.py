@@ -3,7 +3,7 @@ import json, os, textwrap, re
 
 POSTS = [
     ("ai-shopping-assistants-holiday-shopping", "AI Shopping Assistants: A Better Way to Find Gifts", "Better gifts. Clear comparisons."),
-    ("build-ai-shopping-agent-mcp-shopscout", "Build an AI Shopping Agent That Knows What a Deal Costs", "Search. Compare. Know the cost."),
+    ("build-ai-shopping-agent-mcp-shopscout", "Shopping Agents With ShopScout + MCP", "Search. Compare. Know the cost."),
     ("banks-week-sibos-swift-ledger-core-pce-jobs-report", "The Banks Are in One Room in Miami Practicing a Rail With No Public Chain in the Middle. Here Is the Whole Week, Dated.", "17 banks lined up to pilot Swift's shared ledger · 4 days of Sibos · 0 public chains…"),
     ("shopscout-launch-open-shopping-api-for-agents", "Google's 60 Billion Listings Sit Behind an Invite-Only Pilot. Ours Sit Behind $0.01 and an HTTP Request.", "$0.01 per call. No API key. No account."),
     ("ai-blockchain-quantum-feedback-loop", "AI, Blockchain, Quantum: The Feedback Loop Just Closed", "Three waves. One clock."),
