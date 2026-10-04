@@ -14,15 +14,37 @@ export function middleware(request: NextRequest) {
     return NextResponse.rewrite(url);
   }
 
-  // Block direct access to raw VIN-problems JSON files.
+  // Gate direct access to raw VIN-problems JSON files with x402.
   // HTML pages at /vin/[slug] remain free (SEO + affiliate funnel).
-  // Programmatic structured-data access belongs behind the paid API.
+  // Programmatic structured-data consumers pay $0.005/call via the stuffer.
   const { pathname } = request.nextUrl;
   if (pathname.startsWith('/vin-problems/') && pathname.endsWith('.json')) {
-    return new NextResponse(
-      JSON.stringify({ error: 'Direct JSON access is not available. Use the /vin/[slug] page or the paid API endpoint.' }),
-      { status: 403, headers: { 'Content-Type': 'application/json' } }
-    );
+    const slug = pathname.slice('/vin-problems/'.length, -'.json'.length);
+    const paidUrl = `https://x402.forgemesh.io/vehicle-problems/${slug}`;
+    const body = {
+      x402Version: 2,
+      error: 'Payment required',
+      resource: {
+        url: paidUrl,
+        description: `Structured NHTSA complaint, recall, and failure data for ${slug} — ranked components, severity rollup, and curated owner excerpts. $0.005/call.`,
+        mimeType: 'application/json',
+      },
+      accepts: [
+        {
+          scheme: 'exact',
+          network: 'eip155:8453',
+          amount: '5000',
+          asset: '0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913',
+          payTo: '0x1304EC1A8945365e43A5c18a734065f107B417cA',
+          maxTimeoutSeconds: 300,
+          extra: { name: 'USD Coin', version: '2' },
+        },
+      ],
+    };
+    return new NextResponse(JSON.stringify(body), {
+      status: 402,
+      headers: { 'Content-Type': 'application/json', 'Cache-Control': 'no-store' },
+    });
   }
 
   return NextResponse.next();
