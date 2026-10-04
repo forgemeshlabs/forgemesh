@@ -35,7 +35,7 @@ export function middleware(request: NextRequest) {
           network: 'eip155:8453',
           amount: '5000',
           asset: '0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913',
-          payTo: '0x1304EC1A8945365e43A5c18a734065f107B417cA',
+          payTo: '0x850363a27F0aC6fEb9C7a3eC4C1d295262dF9432',
           maxTimeoutSeconds: 300,
           extra: { name: 'USD Coin', version: '2' },
         },
