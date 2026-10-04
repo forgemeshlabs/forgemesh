@@ -13,6 +13,18 @@ export function middleware(request: NextRequest) {
     const url = new URL(request.nextUrl.pathname + request.nextUrl.search, TIKBOT_ORIGIN);
     return NextResponse.rewrite(url);
   }
+
+  // Block direct access to raw VIN-problems JSON files.
+  // HTML pages at /vin/[slug] remain free (SEO + affiliate funnel).
+  // Programmatic structured-data access belongs behind the paid API.
+  const { pathname } = request.nextUrl;
+  if (pathname.startsWith('/vin-problems/') && pathname.endsWith('.json')) {
+    return new NextResponse(
+      JSON.stringify({ error: 'Direct JSON access is not available. Use the /vin/[slug] page or the paid API endpoint.' }),
+      { status: 403, headers: { 'Content-Type': 'application/json' } }
+    );
+  }
+
   return NextResponse.next();
 }
 
