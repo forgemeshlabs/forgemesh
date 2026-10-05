@@ -1,10 +1,321 @@
 {
-  "lastChecked": "2026-09-03T14:25:11.394Z",
+  "lastChecked": "2026-10-04T07:35:02.430Z",
   "pricingRulesDetected": false,
   "counts": {
-    "news": 2
+    "news": 28,
+    "rules": 5
   },
   "entries": [
+    {
+      "id": "1to1zo0",
+      "date": "2026-10-03T15:00:00.000Z",
+      "source": "CoinDesk",
+      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+      "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
+      "summary": "As AI agents evolve from answering questions to spending real money, investors and tech giants are scrambling to control the financial networks powering machine-driven commerce.",
+      "category": "news",
+      "collected": "2026-10-04T07:35:02.430Z"
+    },
+    {
+      "id": "gesu1g",
+      "date": "2026-09-25T14:38:00.000Z",
+      "source": "Payments Dive",
+      "title": "FIDO wrestles with agentic trust",
+      "url": "https://www.paymentsdive.com/news/fido-wrestles-with-agentic-trust/831380/",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/FVsM-2mYuODGWK3EdLXgxTdKnkAyUeKSwgumKL0lfYU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQyNjA4NDhfUXY4N1EyZi5qcGc=.webp\"/></div></figure><p>The industry consortium and payments players a",
+      "category": "rules",
+      "collected": "2026-09-26T07:35:02.072Z"
+    },
+    {
+      "id": "1wc1xx",
+      "date": "2026-09-24T16:01:00.000Z",
+      "source": "Finextra",
+      "title": "Cleverbridge completes France's first Passkey-authenticated agentic purchase, on a Revolut card",
+      "url": "https://www.finextra.com/pressarticle/111023/cleverbridge-completes-frances-first-passkey-authenticated-agentic-purchase-on-a-revolut-card?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Cleverbridge, a managed global commerce platform for software and technology companies, today announced that it completed France's first Passkey-authenticated agentic payment in a live checkout, in a pilot with Visa and Revolut announced earlier this month.",
+      "category": "news",
+      "collected": "2026-09-25T07:35:02.105Z"
+    },
+    {
+      "id": "1p8erfj",
+      "date": "2026-09-24T12:12:00.000Z",
+      "source": "Finextra",
+      "title": "Kredete acquires Gravv to build stablecoin infrastructure",
+      "url": "https://www.finextra.com/pressarticle/111018/kredete-acquires-gravv-to-build-stablecoin-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Kredete, the financial technology platform serving emerging-market and diaspora communities, today announced its acquisition of Gravv, an agentic stablecoin infrastructure platform that connects banks, blockchain networks, and local payment rails for real-time global money moveme",
+      "category": "news",
+      "collected": "2026-09-25T07:35:02.104Z"
+    },
+    {
+      "id": "1mj1tit",
+      "date": "2026-09-23T09:17:53.000Z",
+      "source": "CoinDesk",
+      "title": "BlackRock says AI agents could drive stablecoin and crypto adoption",
+      "url": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
+      "summary": "The asset manager sees payments as the nearer-term opportunity, while markets for computing capacity remain at an early stage",
+      "category": "news",
+      "collected": "2026-09-24T07:35:01.638Z"
+    },
+    {
+      "id": "1pwhae7",
+      "date": "2026-09-22T15:18:00.000Z",
+      "source": "Finextra",
+      "title": "Rogers Bank completes agentic commerce transactions with Flybits and Mastercard",
+      "url": "https://www.finextra.com/pressarticle/110975/rogers-bank-completes-agentic-commerce-transactions-with-flybits-and-mastercard?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Mastercard, Flybits and Rogers Bank today announced Canada’s first successful deployment of a landmark agentic commerce transaction involving an AI-powered commerce platform, card issuer and payments network, demonstrating how AI-powered shopping experiences can prioritize consum",
+      "category": "news",
+      "collected": "2026-09-23T07:35:01.886Z"
+    },
+    {
+      "id": "cq5uiy",
+      "date": "2026-09-22T14:45:00.000Z",
+      "source": "Finextra",
+      "title": "Global banks take on agentic commerce scam and fraud concerns",
+      "url": "https://www.finextra.com/newsarticle/48454/global-banks-take-on-agentic-commerce-scam-and-fraud-concerns?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "A group of six global banks, including Bank of America and NatWest, has put together a set of principles designed to address concerns about scams, fraud and data privacy in agentic commerce.",
+      "category": "news",
+      "collected": "2026-09-23T07:35:01.886Z"
+    },
+    {
+      "id": "1yp8696",
+      "date": "2026-09-22T10:43:00.000Z",
+      "source": "Finextra",
+      "title": "Alchemy integrates with Mastercard's Agent Pay",
+      "url": "https://www.finextra.com/pressarticle/110970/alchemy-integrates-with-mastercards-agent-pay?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Alchemy, the leading AI developer and infrastructure platform for the onchain economy, today announced that AgentCard will support Mastercard payment credentials through an integration with Mastercard Agent Pay, giving developers a simple way to build AI agents that can safely co",
+      "category": "news",
+      "collected": "2026-09-23T07:35:01.886Z"
+    },
+    {
+      "id": "160ql14",
+      "date": "2026-09-22T10:03:00.000Z",
+      "source": "Finextra",
+      "title": "GoCardless processes first agentic account-to-account transaction in the UK",
+      "url": "https://www.finextra.com/pressarticle/110969/gocardless-processes-first-agentic-account-to-account-transaction-in-the-uk?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Bank payment company GoCardless has processed the first agentic account-to-account transaction in the UK, an AI-driven donation on its website for Trussell, the anti-poverty charity and community of food banks.",
+      "category": "news",
+      "collected": "2026-09-23T07:35:01.886Z"
+    },
+    {
+      "id": "15q3dgh",
+      "date": "2026-09-22T04:15:45.000Z",
+      "source": "CoinDesk",
+      "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+      "url": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
+      "summary": "The official x402 kit now includes Cardano tools for apps and AI agents to pay with ADA and other network tokens, though the facilitator has so far only been tested on pre-production.",
+      "category": "news",
+      "collected": "2026-09-22T07:35:01.401Z"
+    },
+    {
+      "id": "gqtsaf",
+      "date": "2026-09-21T13:39:00.000Z",
+      "source": "Finextra",
+      "title": "Danske Bank performs AI agent transaction with Mastercard",
+      "url": "https://www.finextra.com/pressarticle/110960/danske-bank-performs-ai-agent-transaction-with-mastercard?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Mastercard and Danske Bank have completed a payment in which an AI agent, acting on behalf of a consumer, carried out both the purchase and the payment.",
+      "category": "news",
+      "collected": "2026-09-22T07:35:01.323Z"
+    },
+    {
+      "id": "sdp8bl",
+      "date": "2026-09-18T14:28:00.000Z",
+      "source": "Payments Dive",
+      "title": "Stripe’s wallet embraces AI bots",
+      "url": "https://www.paymentsdive.com/news/stripes-digital-wallet-paypal-embraces-ai-bots-agentic-commerce/830753/",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/eAihH9eFaXbcO-ozXxYcU4qgUV0ri6wOnkjmrkwuZJI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TdHJpcGUtTVNQLmpwZw==.webp\"/></div></figure><p>The payments giant has recently integrated its Link digital wallet for",
+      "category": "news",
+      "collected": "2026-09-19T07:35:02.086Z"
+    },
+    {
+      "id": "vssmz7",
+      "date": "2026-09-17T14:39:00.000Z",
+      "source": "Finextra",
+      "title": "Nexi and ReFiBuy boost merchant discoverability for agentic commerce",
+      "url": "https://www.finextra.com/pressarticle/110937/nexi-and-refibuy-boost-merchant-discoverability-for-agentic-commerce?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Nexi, the European PayTech, and ReFiBuy, the leading Agentic Commerce Optimization (ACO) platform, today announced a partnership to help European merchants remain competitive as consumers increasingly turn to AI to research and compare products.",
+      "category": "news",
+      "collected": "2026-09-18T07:35:01.467Z"
+    },
+    {
+      "id": "6awtpp",
+      "date": "2026-09-16T19:41:00.000Z",
+      "source": "Finextra",
+      "title": "Mastercard and Trip.com target travel sector agentic commerce",
+      "url": "https://www.finextra.com/pressarticle/110927/mastercard-and-tripcom-target-travel-sector-agentic-commerce?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Mastercard and Trip.com have joined forces to showcase AI powered booking experiences for the travel sector. Powered by Mastercard’s Agent Suite for Merchants and in partnership with Network International, the organizations are showcasing how consumers will be able to search, boo",
+      "category": "news",
+      "collected": "2026-09-17T07:35:01.510Z"
+    },
+    {
+      "id": "13kxwiv",
+      "date": "2026-09-16T13:58:45.000Z",
+      "source": "Finextra",
+      "title": "Would you let AI spend your money? The trust issue facing agentic payments",
+      "url": "https://www.finextra.com/blogposting/32887/would-you-let-ai-spend-your-money-the-trust-issue-facing-agentic-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Author: A finextra community member",
+      "category": "news",
+      "collected": "2026-09-17T07:35:01.510Z"
+    },
+    {
+      "id": "16omzh",
+      "date": "2026-09-15T12:05:00.000Z",
+      "source": "Finextra",
+      "title": "PayNearMe acquires AI company Marr Labs",
+      "url": "https://www.finextra.com/pressarticle/110914/paynearme-acquires-ai-company-marr-labs?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "PayNearMe, the fintech company pioneering Payment Experience Management (PEM), today announced that it has acquired the technology assets and hired the key employees of Marr Labs, an AI company that develops agentic solutions to automate voice, messaging and workflows in complex,",
+      "category": "rules",
+      "collected": "2026-09-16T07:35:02.095Z"
+    },
+    {
+      "id": "1xypw1h",
+      "date": "2026-09-14T15:27:45.000Z",
+      "source": "Finextra",
+      "title": "An AI Agent Just Passed Europe's Toughest Payment Authentication Test",
+      "url": "https://www.finextra.com/blogposting/32848/an-ai-agent-just-passed-europes-toughest-payment-authentication-test?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Author: A finextra community member",
+      "category": "news",
+      "collected": "2026-09-15T07:35:02.203Z"
+    },
+    {
+      "id": "1ratq16",
+      "date": "2026-09-14T13:49:00.000Z",
+      "source": "Finextra",
+      "title": "Worldline enables agentic commerce payments via Universal Commerce Protocol",
+      "url": "https://www.finextra.com/pressarticle/110896/worldline-enables-agentic-commerce-payments-via-universal-commerce-protocol?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Worldline [Euronext: WLN], a European leader in payment services, today becomes one of the first in Europe to launch a payment handler for the Universal Commerce Protocol (UCP), an open standard for agentic commerce co-developed by Google and industry partners.",
+      "category": "rules",
+      "collected": "2026-09-15T07:35:02.203Z"
+    },
+    {
+      "id": "g2vep6",
+      "date": "2026-09-14T13:46:00.000Z",
+      "source": "Finextra",
+      "title": "Sokin launches MCP connector",
+      "url": "https://www.finextra.com/pressarticle/110892/sokin-launches-mcp-connector?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Sokin, the global financial platform powering how businesses transact, manage and optimize money in an agentic world, has connected its licensed payment infrastructure to customers' AI tools, releasing a Model Context Protocol (MCP) connector.",
+      "category": "rules",
+      "collected": "2026-09-15T07:35:02.202Z"
+    },
+    {
+      "id": "1ts0z3b",
+      "date": "2026-09-14T10:52:00.000Z",
+      "source": "Finextra",
+      "title": "Worldline to accept agentic AI payments",
+      "url": "https://www.finextra.com/newsarticle/48393/worldline-to-accept-agentic-ai-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "French payments provider Worldline has become one of the first European firms to facilitate payments via agentic AI.",
+      "category": "news",
+      "collected": "2026-09-15T07:35:02.202Z"
+    },
+    {
+      "id": "fpgk63",
+      "date": "2026-09-11T00:01:00.000Z",
+      "source": "Finextra",
+      "title": "Blik records first agentic payment transaction",
+      "url": "https://www.finextra.com/newsarticle/48379/blik-records-first-agentic-payment-transaction?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Polish mobile payment network Blik has run its first agentic payment transaction, under which a user authorised an agent to search for a specific product and pay for it when it became available.",
+      "category": "news",
+      "collected": "2026-09-11T07:35:03.021Z"
+    },
+    {
+      "id": "ttvwuw",
+      "date": "2026-09-10T13:23:54.000Z",
+      "source": "Finextra",
+      "title": "Consumer Trust in Agentic Payments Still Lags, Badly. I'm Not Surprised.",
+      "url": "https://www.finextra.com/blogposting/32802/consumer-trust-in-agentic-payments-still-lags-badly-im-not-surprised?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Author: Maren Solberg",
+      "category": "news",
+      "collected": "2026-09-11T07:35:03.022Z"
+    },
+    {
+      "id": "yylv8d",
+      "date": "2026-09-10T00:01:00.000Z",
+      "source": "Finextra",
+      "title": "Consumer trust in agentic payments continues to lag",
+      "url": "https://www.finextra.com/newsarticle/48369/consumer-trust-in-agentic-payments-continues-to-lag?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "While consumers are increasingly using AI across the shopping journey, only 23% of US consumers trust GenAI to handle payment transactions on their behalf, according to new Visa research.",
+      "category": "news",
+      "collected": "2026-09-10T07:35:02.120Z"
+    },
+    {
+      "id": "1s6nojt",
+      "date": "2026-09-09T11:31:00.000Z",
+      "source": "Finextra",
+      "title": "Ixopay rolls out agentic payment suite",
+      "url": "https://www.finextra.com/pressarticle/110850/ixopay-rolls-out-agentic-payment-suite?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "IXOPAY, a leader in payment infrastructure enabling fluid commerce, today announced the launch of the IXOPAY Agentic Suite, a flexible set of tools designed to help merchants prepare for both new agentic buying experiences and the growing role of AI in payment operations.",
+      "category": "news",
+      "collected": "2026-09-10T07:35:02.121Z"
+    },
+    {
+      "id": "3mjwol",
+      "date": "2026-09-09T10:56:00.000Z",
+      "source": "Finextra",
+      "title": "L&T Finance adopts Pine Labs Payments Protocol for agentic commerce",
+      "url": "https://www.finextra.com/pressarticle/110849/lt-finance-adopts-pine-labs-payments-protocol-for-agentic-commerce?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "L&T Finance Ltd. (LTF), one of the leading Non-Banking Financial Companies (NBFCs) in the country, announced a partnership with Pine Labs Ltd., a leading global payments technology company, to integrate Agentic Storefront into the L&T Finance PLANET App at the Global Fintech Fest",
+      "category": "rules",
+      "collected": "2026-09-10T07:35:02.121Z"
+    },
+    {
+      "id": "bdkkwl",
+      "date": "2026-09-09T10:06:00.000Z",
+      "source": "Finextra",
+      "title": "Meta rolls out personal AI assistant Muse, with support from Stripe",
+      "url": "https://www.finextra.com/newsarticle/48367/meta-rolls-out-personal-ai-assistant-muse-with-support-from-stripe?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Meta has rolled out a personal AI agent capable of performing a multitide of tasks, including checkout and payments.",
+      "category": "news",
+      "collected": "2026-09-10T07:35:02.120Z"
+    },
+    {
+      "id": "fu9w5v",
+      "date": "2026-09-09T00:01:00.000Z",
+      "source": "Finextra",
+      "title": "Visa and Revolut carry out passkey-based agentic payment in France",
+      "url": "https://www.finextra.com/newsarticle/48364/visa-and-revolut-carry-out-passkey-based-agentic-payment-in-france?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Revolut and Visa have carried out the first passkey-authenticated agentic card payment in France.",
+      "category": "news",
+      "collected": "2026-09-09T07:35:02.443Z"
+    },
+    {
+      "id": "e07ay2",
+      "date": "2026-09-08T16:41:00.000Z",
+      "source": "Finextra",
+      "title": "Aeon unveils agentic checkout",
+      "url": "https://www.finextra.com/pressarticle/110836/aeon-unveils-agentic-checkout?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "AEON, the settlement layer built for the AI economy, has launched Agentic Checkout, enabling AI agents to autonomously shop, check out, and pay across e-commerce platforms such as Shopify and Amazon.",
+      "category": "news",
+      "collected": "2026-09-09T07:35:02.443Z"
+    },
+    {
+      "id": "poyavo",
+      "date": "2026-09-07T13:50:54.000Z",
+      "source": "Finextra",
+      "title": "Anthropic Just Broke Down the Cost Barrier to Agentic Commerce",
+      "url": "https://www.finextra.com/blogposting/32761/anthropic-just-broke-down-the-cost-barrier-to-agentic-commerce?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "A Claude shopping agent leaves payments as the final frontier in the agentic commerce build out. Ant...",
+      "category": "news",
+      "collected": "2026-09-08T07:35:01.940Z"
+    },
+    {
+      "id": "1jd9kw6",
+      "date": "2026-09-07T13:16:00.000Z",
+      "source": "Finextra",
+      "title": "Concryt deploys agentic AI to monitor live payment operations",
+      "url": "https://www.finextra.com/pressarticle/110820/concryt-deploys-agentic-ai-to-monitor-live-payment-operations?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Global payments technology company CONCRYT has deployed agentic AI across its live payment operations, moving the technology beyond a chatbot interface and into the day-to-day monitoring of its gateway.",
+      "category": "news",
+      "collected": "2026-09-08T07:35:01.940Z"
+    },
+    {
+      "id": "c30n3z",
+      "date": "2026-09-04T12:15:42.000Z",
+      "source": "Finextra",
+      "title": "Counting What You Cannot See: Vladyslav Kolodistyi on Measuring Agentic Commerce Before It Scales",
+      "url": "https://www.finextra.com/blogposting/32736/counting-what-you-cannot-see-vladyslav-kolodistyi-on-measuring-agentic-commerce-before-it-scales?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Ask a payments team how much agentic commerce volume they processed last month and most cannot answe...",
+      "category": "news",
+      "collected": "2026-09-05T07:35:02.069Z"
+    },
     {
       "id": "bocy05",
       "date": "2026-09-03T10:52:58.000Z",

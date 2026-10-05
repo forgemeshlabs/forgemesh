@@ -1,6 +1,271 @@
 {
-  "lastChecked": "2026-08-28T12:15:14.543Z",
+  "lastChecked": "2026-09-30T00:15:04.329Z",
   "entries": [
+    {
+      "tag": "pypi-x402@v2.25.0",
+      "date": "2026-09-29",
+      "repo": "x402-foundation/x402",
+      "sdk": "Python SDK",
+      "pkg": "pypi",
+      "version": "2.25.0",
+      "significance": "breaking",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.25.0",
+      "highlights": [
+        "Cap the svm extra at solana<0.40. solana 0.40.0 removed the synchronous solana.rpc.api module that the SVM signers, clients and server import…",
+        "Add Arc mainnet (chain ID 5042) and Arc Testnet (chain ID 5042002) with native USDC as the default stablecoin.",
+        "Add Monad testnet USDC (EIP-3009) as the default asset for eip155:10143 so \"$0.10\" dollar-string pricing resolves on Monad testnet. Register v1 network name monad-testnet."
+      ],
+      "collected": "2026-09-30T00:15:03.062Z"
+    },
+    {
+      "tag": "npm-@x402/xrpl@v2.28.0",
+      "date": "2026-09-29",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/xrpl",
+      "pkg": "npm",
+      "version": "2.28.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fxrpl%40v2.28.0",
+      "highlights": [],
+      "collected": "2026-09-30T00:15:03.398Z"
+    },
+    {
+      "tag": "npm-@x402/tvm@v2.28.0",
+      "date": "2026-09-29",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/tvm",
+      "pkg": "npm",
+      "version": "2.28.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Ftvm%40v2.28.0",
+      "highlights": [],
+      "collected": "2026-09-30T00:15:03.730Z"
+    },
+    {
+      "tag": "npm-@x402/svm@v2.28.0",
+      "date": "2026-09-29",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/svm",
+      "pkg": "npm",
+      "version": "2.28.0",
+      "significance": "breaking",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fsvm%40v2.28.0",
+      "highlights": [
+        "Added an SVM batch-settlement implementation for long-lived payment channels and cumulative offchain vouchers. Reuses the upto payment-channel primitives…",
+        "Unified SVM facilitator channel storage. Upto and batch settlement share one PaymentChannelStorage: opens and activity are recorded before broadcast and a failed write does not broadcast…",
+        "Batch-settlement client refund flow adds NoBatchChannelToRefundError, clientSignedRefundRequirements…",
+        "findPaymentChannelPda now caches derived channel addresses (bounded LRU, 4,096 entries)…",
+        "Batch settlement validates payment-channel signer capabilities at construction and records confirmation slots via a signer proxy, removing scattered runtime checks and the submissionSigner() wrapper."
+      ],
+      "collected": "2026-09-30T00:15:04.037Z"
+    },
+    {
+      "tag": "npm-@x402/stellar@v2.28.0",
+      "date": "2026-09-29",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/stellar",
+      "pkg": "npm",
+      "version": "2.28.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.28.0",
+      "highlights": [],
+      "collected": "2026-09-30T00:15:04.329Z"
+    },
+    {
+      "tag": "pypi-x402@v2.24.0",
+      "date": "2026-09-22",
+      "repo": "x402-foundation/x402",
+      "sdk": "Python SDK",
+      "pkg": "pypi",
+      "version": "2.24.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.24.0",
+      "highlights": [
+        "FastAPI and Flask payment middleware now also match routes against each framework's decoded request path (Starlette's request.url.path, Werkzeug's PATH_INFO) in addition to the escaped path…"
+      ],
+      "collected": "2026-09-23T00:15:02.690Z"
+    },
+    {
+      "tag": "npm-@x402/xrpl@v2.27.0",
+      "date": "2026-09-22",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/xrpl",
+      "pkg": "npm",
+      "version": "2.27.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fxrpl%40v2.27.0",
+      "highlights": [],
+      "collected": "2026-09-23T00:15:02.995Z"
+    },
+    {
+      "tag": "npm-@x402/tvm@v2.27.0",
+      "date": "2026-09-22",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/tvm",
+      "pkg": "npm",
+      "version": "2.27.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Ftvm%40v2.27.0",
+      "highlights": [],
+      "collected": "2026-09-23T00:15:03.317Z"
+    },
+    {
+      "tag": "npm-@x402/svm@v2.27.0",
+      "date": "2026-09-22",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/svm",
+      "pkg": "npm",
+      "version": "2.27.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fsvm%40v2.27.0",
+      "highlights": [],
+      "collected": "2026-09-23T00:15:03.625Z"
+    },
+    {
+      "tag": "npm-@x402/stellar@v2.27.0",
+      "date": "2026-09-22",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/stellar",
+      "pkg": "npm",
+      "version": "2.27.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.27.0",
+      "highlights": [
+        "The Stellar exact facilitator accepts an inclusionFeeStroops option for the settlement transaction and the fee bump. It used to always bid the 100-stroop minimum…"
+      ],
+      "collected": "2026-09-23T00:15:03.958Z"
+    },
+    {
+      "tag": "pypi-x402@v2.23.0",
+      "date": "2026-09-15",
+      "repo": "x402-foundation/x402",
+      "sdk": "Python SDK",
+      "pkg": "pypi",
+      "version": "2.23.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.23.0",
+      "highlights": [
+        "_is_valid_route_template now decodes a routeTemplate to a fixed point (up to a bounded pass budget) before running its traversal/scheme-injection checks, instead of a single unquote pass…",
+        "Add Celo mainnet USDT and USAT (EIP-3009) as default assets for eip155:42220 so \"$0.10 USDT\" and \"$0.10 USAT\" resolve on Celo; bare \"$0.10\" still resolves to USDC."
+      ],
+      "collected": "2026-09-16T00:15:03.158Z"
+    },
+    {
+      "tag": "npm-@x402/xrpl@v2.26.0",
+      "date": "2026-09-15",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/xrpl",
+      "pkg": "npm",
+      "version": "2.26.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fxrpl%40v2.26.0",
+      "highlights": [],
+      "collected": "2026-09-16T00:15:03.464Z"
+    },
+    {
+      "tag": "npm-@x402/tvm@v2.26.0",
+      "date": "2026-09-15",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/tvm",
+      "pkg": "npm",
+      "version": "2.26.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Ftvm%40v2.26.0",
+      "highlights": [],
+      "collected": "2026-09-16T00:15:03.847Z"
+    },
+    {
+      "tag": "npm-@x402/svm@v2.26.0",
+      "date": "2026-09-15",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/svm",
+      "pkg": "npm",
+      "version": "2.26.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fsvm%40v2.26.0",
+      "highlights": [],
+      "collected": "2026-09-16T00:15:04.216Z"
+    },
+    {
+      "tag": "npm-@x402/stellar@v2.26.0",
+      "date": "2026-09-15",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/stellar",
+      "pkg": "npm",
+      "version": "2.26.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.26.0",
+      "highlights": [],
+      "collected": "2026-09-16T00:15:04.528Z"
+    },
+    {
+      "tag": "pypi-x402@v2.22.0",
+      "date": "2026-09-04",
+      "repo": "x402-foundation/x402",
+      "sdk": "Python SDK",
+      "pkg": "pypi",
+      "version": "2.22.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.22.0",
+      "highlights": [
+        "Added optional extension_responses on VerifyResponse and SettleResponse. The HTTP facilitator client populates it from the EXTENSION-RESPONSES header…"
+      ],
+      "collected": "2026-09-04T00:15:02.561Z"
+    },
+    {
+      "tag": "npm-@x402/xrpl@v2.25.0",
+      "date": "2026-09-04",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/xrpl",
+      "pkg": "npm",
+      "version": "2.25.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fxrpl%40v2.25.0",
+      "highlights": [],
+      "collected": "2026-09-04T00:15:02.878Z"
+    },
+    {
+      "tag": "npm-@x402/tvm@v2.25.0",
+      "date": "2026-09-04",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/tvm",
+      "pkg": "npm",
+      "version": "2.25.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Ftvm%40v2.25.0",
+      "highlights": [],
+      "collected": "2026-09-04T00:15:03.189Z"
+    },
+    {
+      "tag": "npm-@x402/svm@v2.25.0",
+      "date": "2026-09-04",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/svm",
+      "pkg": "npm",
+      "version": "2.25.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fsvm%40v2.25.0",
+      "highlights": [
+        "Add an optional facilitator-delegated receiver-authorizer mode to SVM upto. The facilitator may advertise receiverAuthorizer in /supported; a server that omits receiverAuthorizerSigner delegates voucher signing…",
+        "Replace node:crypto/Buffer usage in transactionMessageHash, getChannelDistributionHash, and payment-channel account discovery with @noble/hashes/sha256 and @solana/kit's base64 codec…"
+      ],
+      "collected": "2026-09-04T00:15:03.483Z"
+    },
+    {
+      "tag": "npm-@x402/stellar@v2.25.0",
+      "date": "2026-09-04",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/stellar",
+      "pkg": "npm",
+      "version": "2.25.0",
+      "significance": "breaking",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.25.0",
+      "highlights": [
+        "Accept CAP-71 V2 address credentials (SOROBAN_CREDENTIALS_ADDRESS_V2) in the facilitator's auth-entry validation and in gatherAuthEntrySignatureStatus. Stellar Protocol 28 (testnet 2026-08-27…",
+        "Extend the Stellar facilitator's safety checks (unsafe_tx_or_op_source, facilitator_is_payer, facilitator_in_auth) to also cover feeBumpSigner, not just signingAddresses…"
+      ],
+      "collected": "2026-09-04T00:15:03.812Z"
+    },
     {
       "tag": "npm-@x402/xrpl@v2.22.0",
       "date": "2026-08-11",
@@ -390,258 +655,6 @@
       "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fsvm%40v2.7.0",
       "highlights": [],
       "collected": "2026-08-28T12:15:09.726Z"
-    },
-    {
-      "tag": "npm-@x402/svm@v2.6.0",
-      "date": "2026-03-06",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/svm",
-      "pkg": "npm",
-      "version": "2.6.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fsvm%40v2.6.0",
-      "highlights": [
-        "Add in-memory SettlementCache to prevent duplicate SVM transaction settlement during on-chain confirmation window"
-      ],
-      "collected": "2026-08-28T12:15:10.020Z"
-    },
-    {
-      "tag": "npm-@x402/svm@v2.5.0",
-      "date": "2026-02-26",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/svm",
-      "pkg": "npm",
-      "version": "2.5.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fsvm%40v2.5.0",
-      "highlights": [],
-      "collected": "2026-08-28T12:15:10.404Z"
-    },
-    {
-      "tag": "npm-@x402/svm@v2.4.0",
-      "date": "2026-02-20",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/svm",
-      "pkg": "npm",
-      "version": "2.4.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fsvm%40v2.4.0",
-      "highlights": [],
-      "collected": "2026-08-28T12:15:10.654Z"
-    },
-    {
-      "tag": "npm-@x402/svm@v2.2.0",
-      "date": "2026-01-09",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/svm",
-      "pkg": "npm",
-      "version": "2.2.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fsvm%40v2.2.0",
-      "highlights": [],
-      "collected": "2026-08-28T12:15:10.988Z"
-    },
-    {
-      "tag": "npm-@x402/svm@v2.1.0",
-      "date": "2025-12-23",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/svm",
-      "pkg": "npm",
-      "version": "2.1.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fsvm%40v2.1.0",
-      "highlights": [],
-      "collected": "2026-08-28T12:15:11.163Z"
-    },
-    {
-      "tag": "npm-@x402/svm@v2.0.0",
-      "date": "2025-12-11",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/svm",
-      "pkg": "npm",
-      "version": "2.0.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fsvm%40v2.0.0",
-      "highlights": [
-        "Implements x402 2.0.0 for the TypeScript SDK."
-      ],
-      "collected": "2026-08-28T12:15:11.435Z"
-    },
-    {
-      "tag": "npm-@x402/stellar@v2.24.0",
-      "date": "2026-08-27",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/stellar",
-      "pkg": "npm",
-      "version": "2.24.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.24.0",
-      "highlights": [
-        "Declare upfront payment flow support on Stellar exact server schemes. authorization remains the default; servers opt in per route via accepts.extra.paymentFlow."
-      ],
-      "collected": "2026-08-28T12:15:11.713Z"
-    },
-    {
-      "tag": "npm-@x402/stellar@v2.23.0",
-      "date": "2026-08-18",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/stellar",
-      "pkg": "npm",
-      "version": "2.23.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.23.0",
-      "highlights": [
-        "Normalize default assets into DEFAULT_ASSETS + getDefaultAsset / findDefaultAsset…"
-      ],
-      "collected": "2026-08-28T12:15:11.914Z"
-    },
-    {
-      "tag": "npm-@x402/stellar@v2.22.0",
-      "date": "2026-08-11",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/stellar",
-      "pkg": "npm",
-      "version": "2.22.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.22.0",
-      "highlights": [],
-      "collected": "2026-08-28T12:15:12.108Z"
-    },
-    {
-      "tag": "npm-@x402/stellar@v2.21.0",
-      "date": "2026-08-04",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/stellar",
-      "pkg": "npm",
-      "version": "2.21.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.21.0",
-      "highlights": [],
-      "collected": "2026-08-28T12:15:12.285Z"
-    },
-    {
-      "tag": "npm-@x402/stellar@v2.20.0",
-      "date": "2026-07-27",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/stellar",
-      "pkg": "npm",
-      "version": "2.20.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.20.0",
-      "highlights": [],
-      "collected": "2026-08-28T12:15:12.446Z"
-    },
-    {
-      "tag": "npm-@x402/stellar@v2.19.0",
-      "date": "2026-07-17",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/stellar",
-      "pkg": "npm",
-      "version": "2.19.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.19.0",
-      "highlights": [
-        "Fixed Stellar exact facilitator settlement to derive fees from settle-time simulation (BASE_FEE + resource fee) instead of the client bid, fixing SDK v16 resource-fee double-counting."
-      ],
-      "collected": "2026-08-28T12:15:12.624Z"
-    },
-    {
-      "tag": "npm-@x402/stellar@v2.18.0",
-      "date": "2026-07-10",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/stellar",
-      "pkg": "npm",
-      "version": "2.18.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.18.0",
-      "highlights": [],
-      "collected": "2026-08-28T12:15:12.787Z"
-    },
-    {
-      "tag": "npm-@x402/stellar@v2.17.0",
-      "date": "2026-06-26",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/stellar",
-      "pkg": "npm",
-      "version": "2.17.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.17.0",
-      "highlights": [],
-      "collected": "2026-08-28T12:15:12.966Z"
-    },
-    {
-      "tag": "npm-@x402/stellar@v2.16.0",
-      "date": "2026-06-19",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/stellar",
-      "pkg": "npm",
-      "version": "2.16.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.16.0",
-      "highlights": [],
-      "collected": "2026-08-28T12:15:13.133Z"
-    },
-    {
-      "tag": "npm-@x402/stellar@v2.15.0",
-      "date": "2026-06-12",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/stellar",
-      "pkg": "npm",
-      "version": "2.15.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.15.0",
-      "highlights": [],
-      "collected": "2026-08-28T12:15:13.318Z"
-    },
-    {
-      "tag": "npm-@x402/stellar@v2.14.0",
-      "date": "2026-05-29",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/stellar",
-      "pkg": "npm",
-      "version": "2.14.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.14.0",
-      "highlights": [],
-      "collected": "2026-08-28T12:15:13.517Z"
-    },
-    {
-      "tag": "npm-@x402/stellar@v2.13.0",
-      "date": "2026-05-22",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/stellar",
-      "pkg": "npm",
-      "version": "2.13.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.13.0",
-      "highlights": [],
-      "collected": "2026-08-28T12:15:13.698Z"
-    },
-    {
-      "tag": "npm-@x402/stellar@v2.12.0",
-      "date": "2026-05-13",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/stellar",
-      "pkg": "npm",
-      "version": "2.12.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.12.0",
-      "highlights": [],
-      "collected": "2026-08-28T12:15:13.857Z"
-    },
-    {
-      "tag": "npm-@x402/stellar@v2.11.0",
-      "date": "2026-04-27",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/stellar",
-      "pkg": "npm",
-      "version": "2.11.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.11.0",
-      "highlights": [
-        "Fixed a bug affecting USD prices with 7+ decimal places of precision (e.g. $0.0000001 or smaller)."
-      ],
-      "collected": "2026-08-28T12:15:14.044Z"
     }
   ]
 }
