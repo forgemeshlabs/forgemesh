@@ -2,8 +2,10 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("machine-native-economy-ai-shopping", "Before an agent pays", "SHOPPING STARTS WITH A CHOICE"),
     ("ai-shopping-assistants-holiday-shopping", "AI Shopping Assistants: A Better Way to Find Gifts", "Better gifts. Clear comparisons."),
     ("build-ai-shopping-agent-mcp-shopscout", "Shopping Agents With ShopScout + MCP", "Search. Compare. Know the cost."),
+    ("kronos-futures-perp-decision-funding-risk", "Kronos Futures: Three Paid Calls That Turn a Price Range Into a Sized Perp Decision, a Funding Read, and a Survival Check", "$0.02 funding: rates · $0.05 risk: does this side and leverage survive the range ·…"),
     ("banks-week-sibos-swift-ledger-core-pce-jobs-report", "The Banks Are in One Room in Miami Practicing a Rail With No Public Chain in the Middle. Here Is the Whole Week, Dated.", "17 banks lined up to pilot Swift's shared ledger · 4 days of Sibos · 0 public chains…"),
     ("shopscout-launch-open-shopping-api-for-agents", "Google's 60 Billion Listings Sit Behind an Invite-Only Pilot. Ours Sit Behind $0.01 and an HTTP Request.", "$0.01 per call. No API key. No account."),
     ("ai-blockchain-quantum-feedback-loop", "AI, Blockchain, Quantum: The Feedback Loop Just Closed", "Three waves. One clock."),
