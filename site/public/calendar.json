@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T13:30:26.000Z",
+  "updatedAt": "2026-10-03T12:10:00Z",
   "events": [
     {
       "id": "eu-ai-act-gpai-enforcement",
@@ -138,7 +138,7 @@
       "link": "https://www.swift.com/news-events/events/sibos-2026-miami",
       "track": true,
       "status": "scheduled",
-      "result": null,
+      "result": "BNY launched Pay-to-Wallet at Sibos (Sep 28): cross-border payments from bank accounts to retail digital wallets over existing Swift messages and correspondent banking, first users KB Kookmin Bank (South Korea) and Taishin Bank (Taiwan), KB Kookmin MOU signed on the floor; Swift said at Sibos that most of the 17 first-mover banks have used the Swift Ledger for 24/7 tokenised-deposit payments in EUR, GBP, HKD, SGD and USD, at least 19 banks expected by year-end (per The Fintech Times day-one coverage); Citi expanded Token Services to the UAE and Japan",
       "time": "Sep 28 – Oct 1 · Miami Beach Convention Center",
       "post": "/blog/banks-week-sibos-swift-ledger-core-pce-jobs-report"
     },
@@ -161,7 +161,10 @@
       "why": "Housing is the collateral base for bank balance sheets. A soft print the same morning banks are on stage in Miami reads differently than a firm one.",
       "link": "https://www.fhfa.gov/data/hpi",
       "time": "9:00 AM ET",
-      "post": "/blog/banks-week-sibos-swift-ledger-core-pce-jobs-report"
+      "post": "/blog/banks-week-sibos-swift-ledger-core-pce-jobs-report",
+      "status": "decided",
+      "result": "FHFA HPI +0.3% m/m in July, +2.6% y/y",
+      "track": true
     },
     {
       "id": "jolts-august-2026",
@@ -172,7 +175,10 @@
       "why": "First of two labour prints this week. Openings lead the Friday payrolls number and set the liquidity mood while Sibos is still in session.",
       "link": "https://www.bls.gov/jlt/",
       "time": "10:00 AM ET",
-      "post": "/blog/banks-week-sibos-swift-ledger-core-pce-jobs-report"
+      "post": "/blog/banks-week-sibos-swift-ledger-core-pce-jobs-report",
+      "status": "decided",
+      "result": "Job openings 7.1M (little changed), quits rate 1.9%, hires 5.2M",
+      "track": true
     },
     {
       "id": "core-pce-august-2026",
@@ -183,10 +189,11 @@
       "why": "This is the inflation number the Fed actually targets. It lands while Sibos is still running: Tuesday asks whether banks build a private rail, Wednesday asks what money costs while they do.",
       "link": "https://www.bea.gov/news/schedule",
       "track": true,
-      "status": "scheduled",
-      "result": null,
+      "status": "decided",
+      "result": "Core PCE +0.2% m/m, +3.0% y/y; headline PCE +0.3% m/m, +3.4% y/y",
       "time": "8:30 AM ET",
-      "post": "/blog/banks-week-sibos-swift-ledger-core-pce-jobs-report"
+      "post": "/blog/banks-week-sibos-swift-ledger-core-pce-jobs-report",
+      "updatedAt": "2026-09-30T22:09:34Z"
     },
     {
       "id": "uk-fca-crypto-gateway-opens",
@@ -197,9 +204,10 @@
       "why": "A G7 regulator is taking licence applications the same week Washington is still arguing about last month's failed CLARITY vote. Rule clarity is where rails get built.",
       "link": "https://www.fca.org.uk/firms/new-regime-cryptoasset-regulation/how-gateway-will-operate",
       "track": true,
-      "status": "scheduled",
-      "result": null,
-      "post": "/blog/banks-week-sibos-swift-ledger-core-pce-jobs-report"
+      "status": "decided",
+      "result": "Gateway open Sep 30; application window to Feb 28 2027; regime in force Oct 25 2027; no filers named day one",
+      "post": "/blog/banks-week-sibos-swift-ledger-core-pce-jobs-report",
+      "updatedAt": "2026-09-30T22:09:34Z"
     },
     {
       "id": "us-fiscal-year-end-2026",
@@ -209,7 +217,11 @@
       "what": "FY2026 closes at midnight; FY2027 appropriations or a continuing resolution must be in place October 1 to avoid a lapse.",
       "why": "Government data releases, including the Friday jobs report, stop if funding lapses. A shutdown blinds the very calendar the market is trading.",
       "link": "https://www.cbo.gov/topics/budget",
-      "post": "/blog/banks-week-sibos-swift-ledger-core-pce-jobs-report"
+      "post": "/blog/banks-week-sibos-swift-ledger-core-pce-jobs-report",
+      "status": "decided",
+      "result": "No lapse: H.R. 6500 (Continuing Appropriations and Extensions Act, 2027, P.L. 119-103) signed Sep 2 funds agencies at current levels through Dec 11, 2026; Friday's jobs report is on schedule.",
+      "track": true,
+      "updatedAt": "2026-09-30T22:09:34Z"
     },
     {
       "id": "stripe-link-payment-methods",
@@ -229,10 +241,11 @@
       "why": "Friday is the one nobody is watching closely enough. It decides whether liquidity stays loose enough for a public rail to matter or tight enough that banks just use the network they already have.",
       "link": "https://www.bls.gov/schedule/news_release/empsit.htm",
       "track": true,
-      "status": "scheduled",
-      "result": null,
+      "status": "decided",
+      "result": "Payrolls +29,000 (forecast ~84-90K), unemployment 4.2%; average hourly earnings +0.1% m/m, +3.0% y/y; July and August revised down a combined 60,000",
       "time": "8:30 AM ET",
-      "post": "/blog/banks-week-sibos-swift-ledger-core-pce-jobs-report"
+      "post": "/blog/banks-week-sibos-swift-ledger-core-pce-jobs-report",
+      "updatedAt": "2026-10-03T12:10:00Z"
     },
     {
       "id": "token2049-sg",
