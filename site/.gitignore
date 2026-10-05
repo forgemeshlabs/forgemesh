@@ -47,3 +47,6 @@ data/
 
 # documented example, no secrets
 !.env.example
+
+# dated rollback copies of the build output
+/.next-*/

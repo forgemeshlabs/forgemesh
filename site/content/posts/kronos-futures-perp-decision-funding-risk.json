@@ -1,0 +1,77 @@
+{
+  "slug": "kronos-futures-perp-decision-funding-risk",
+  "date": "2026-09-30",
+  "title": "Kronos Futures: Three Paid Calls That Turn a Price Range Into a Sized Perp Decision, a Funding Read, and a Survival Check",
+  "excerpt": "Kronos Futures shipped September 25: three x402-paid perpetual-futures routes at $0.02, $0.05 and $0.15 per call, plus MCP tools. Funding, a leverage survival check and a sized decision for BTC, ETH, SOL, XRP and ADA. Market intelligence only, no execution.",
+  "tags": [
+    "kronos",
+    "futures",
+    "x402",
+    "mcp"
+  ],
+  "description": "Kronos Futures shipped September 25: three x402-paid perpetual-futures routes at $0.02, $0.05 and $0.15 per call, plus MCP tools. Market intelligence only, no execution, no API key.",
+  "seoTitle": "Kronos Futures: Perp Funding and Risk API | ForgeMesh",
+  "seoDescription": "Kronos Futures is live: x402-paid perp funding ($0.02), leverage-survival check ($0.05) and sized decision ($0.15) for BTC, ETH, SOL, XRP, ADA. No execution.",
+  "twitterTitle": "Kronos Futures: perp funding, survival check and sized decision, paid per call",
+  "twitterDescription": "Three x402 routes: funding $0.02, risk $0.05, decision $0.15. BTC, ETH, SOL, XRP, ADA. Market intelligence only, no execution, no API key.",
+  "heroAlt": "A glowing instrument gauge with a shaded range band beside a flowing funding-rate line between two small nodes, illustrated in dark navy with blue accents.",
+  "breadcrumb": "Kronos Futures",
+  "lede": "On September 25 we added a futures layer to Kronos, and this post is late. Three new x402-paid routes take the calibrated price range Kronos already produces and turn it into what a leveraged perpetual position actually needs: what holding it costs, whether it survives, and how big it should be. We do not touch an exchange. It is market intelligence only, priced per call, with no API key.",
+  "sections": [
+    {
+      "heading": "Three calls, three questions",
+      "paras": [
+        "**Funding, $0.02.** GET /api/kronos/futures/funding returns live perpetual funding rates (hourly, 8-hour and annualized), mark and index price and open interest from Kraken Futures and Hyperliquid, with a consensus per symbol and a LONG_CROWDED, SHORT_CROWDED or BALANCED crowding label. Results are cached for five minutes.",
+        "**Risk, $0.05.** GET /api/kronos/futures/risk takes a side and a leverage (entry, notional and horizon are optional) and answers one question: does this position survive the calibrated 80% range? You get the liquidation price and distance, the adverse range bound, a verdict of SURVIVES_RANGE, THIN_BUFFER or LIQUIDATION_INSIDE_RANGE, the highest leverage that still survives, profit and loss at both range bounds, and the funding cost over your horizon.",
+        "**Decision, $0.15.** GET /api/kronos/futures/decision takes a symbol, your equity, a maximum loss percentage and a maximum leverage. It returns LONG, SHORT or FLAT, a stop and a target placed on the calibrated range, a leverage cap that keeps liquidation outside twice the stop distance, the liquidation price, a position size that respects your loss limit, and the funding cost. When the signal is bearish it produces a sized short instead of just staying out. When there is no calibrated range to place a stop against, it says FLAT and says why."
+      ],
+      "stats": [
+        {
+          "n": "$0.02",
+          "d": "funding: rates, mark, index, open interest, crowding label"
+        },
+        {
+          "n": "$0.05",
+          "d": "risk: does this side and leverage survive the range"
+        },
+        {
+          "n": "$0.15",
+          "d": "decision: direction, stop, target, leverage cap, sizing"
+        }
+      ]
+    },
+    {
+      "heading": "What one call looks like",
+      "paras": [
+        "Five symbols are covered: BTC, ETH, SOL, XRP and ADA. In a live decision call on September 25, BTC and ETH came back FLAT with no action. SOL came back SHORT at 3x from an entry of 119.98, with a stop at 122.66, a target at 118.15 and a liquidation price of 159.37. With $5,000 of equity and a 1% maximum loss, that sized out to $2,237 of notional. That is an example of the output format, not a recommendation, and it is a snapshot that has long since changed.",
+        "Any of the three routes answers an unpaid request with a 402 and a free sample that shows the structure of the response, with the live values withheld, so an agent can read the shape before it spends anything."
+      ]
+    },
+    {
+      "heading": "Where it lives and how to call it",
+      "paras": [
+        "The routes are live on kronos.forgemesh.io. We paid for each one ourselves on launch day and the settlements went through, and the Bazaar merchant listing for the Kronos wallet shows all three futures routes.",
+        "For MCP clients there are two packages. @forgemeshlabs/kronos-forgemesh-mcp at 0.2.0 adds get_kronos_perp_funding, check_kronos_futures_risk and get_kronos_futures_decision. coinopai-mcp at 2.2.0 adds get_perp_funding, check_futures_risk and get_futures_decision. Set an optional, capped wallet key and the client pays per call itself. The full route reference is on the [Kronos page](/kronos)."
+      ]
+    },
+    {
+      "heading": "What it will not do",
+      "paras": [
+        "**No execution.** Kronos Futures never places an order or holds funds. It returns numbers. Our own Kronos trading stays on paper.",
+        "**The range can be wrong.** The 80% range is calibrated to cover about 80% of outcomes. The other roughly 20% fall outside it, and a liquidation is permanent. Every decision and risk response carries a leverage warning and a not-financial-advice disclosure for that reason.",
+        "This is educational market data, not financial advice, and it says nothing about how any position would perform."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "Read the routes, not the pitch",
+    "copy": "The [Kronos page](/kronos) lists every call, its price and its parameters. Hit any futures route without paying and the 402 tells you exactly what it wants. Want to build your own? Start with the [Field Guide](/kronos/field-guide)."
+  },
+  "related": [
+    {
+      "slug": "kronos-field-guide-launch",
+      "text": "the Kronos Field Guide launch"
+    }
+  ],
+  "image": "/content/assets/kronos-futures-perp-decision-funding-risk.png"
+}
