@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("agent-economy-bot-traffic-field-report", "546 Bots Visited Our Fleet This Week. Eight of Them Paid.", "104k requests · 546 user-agents · 30 paid calls"),
     ("machine-native-economy-ai-shopping", "Before an agent pays", "SHOPPING STARTS WITH A CHOICE"),
     ("ai-shopping-assistants-holiday-shopping", "AI Shopping Assistants: A Better Way to Find Gifts", "Better gifts. Clear comparisons."),
     ("build-ai-shopping-agent-mcp-shopscout", "Shopping Agents With ShopScout + MCP", "Search. Compare. Know the cost."),
