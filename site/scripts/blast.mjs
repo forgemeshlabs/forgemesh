@@ -134,6 +134,8 @@ else {
 }
 
 // ── 5. Pinterest (Chrome step) ─────────────────────────────────────────────
+// post-social.js wrote IG/FB flags to disk during step 4; reload so saveState() below doesn't clobber them
+Object.assign(st, JSON.parse(fs.readFileSync(STATE, "utf8"))[slug] || {});
 const pinDesc = `${post.title}. ${post.seoDescription || post.excerpt}`.slice(0, 480);
 const pinUrl = `https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(url("pinterest"))}&media=${encodeURIComponent(`${BASE}/content/assets/pins/${slug}.png`)}&description=${encodeURIComponent(pinDesc)}`;
 if (st.pinterest === true) summary.push(["Pinterest", "already pinned"]);
