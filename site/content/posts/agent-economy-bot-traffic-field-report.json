@@ -1,0 +1,103 @@
+{
+  "slug": "agent-economy-bot-traffic-field-report",
+  "date": "2026-10-08",
+  "title": "546 Bots Visited Our Fleet This Week. Eight of Them Paid.",
+  "seoTitle": "Agent Economy Bot Traffic: Field Report | ForgeMesh",
+  "seoDescription": "One week of logs from a small x402 fleet: 104k requests, 546 user-agents, 271 bots, 30 paid calls. What agent-economy traffic looks like for a new seller.",
+  "description": "One week of logs from a small x402 fleet: 104k requests, 546 user-agents, 271 bots, 30 paid calls. What agent-economy traffic looks like for a new seller.",
+  "excerpt": "One week of logs from a small x402 fleet: 104,091 requests, 546 distinct user-agents, 271 self-identifying bots, 136 daily regulars, 30 paid calls from 8 wallets. This is what the agent economy looks like from the bottom of the ladder.",
+  "twitterDescription": "We're a small x402 seller. In 7 days: 104k requests, 546 user-agents, 271 self-identifying bots, 136 that show up daily. Paid calls: 30, from 8 wallets. One of them walked 47 of our endpoints this morning and paid for every one. Field report inside.",
+  "tags": [
+    "x402",
+    "agents",
+    "data",
+    "field-report"
+  ],
+  "heroAlt": "A small glowing server node in a dark field, surrounded by hundreds of faint drifting probe lights, with a handful of bright gold threads connecting to it",
+  "breadcrumb": "Field report",
+  "pinKicker": "104k requests · 546 user-agents · 30 paid calls",
+  "lede": "We run a small fleet of paid HTTP services on x402: market signals, a notary, a voice API, a vehicle-data pack, an image generator, a merch store. We are not a big player. We are a new seller with a dozen-odd hostnames and sub-dollar prices. This morning one wallet walked 47 of our endpoints in under an hour and paid for every single one, so we pulled a week of logs to see who else is out there. Here is what agent-economy traffic actually looks like when you are at the bottom of the ladder.",
+  "sections": [
+    {
+      "heading": "The week in numbers",
+      "paras": [
+        "These figures come from the request-attribution logs on three of our hosts (CoinOpAI, ImageGen, x402swag) for October 2 through 8. Our own health checks and internal monitors are excluded. Everything else, bot or human, is counted."
+      ],
+      "stats": [
+        {
+          "n": "104,091",
+          "d": "requests in 7 days, three hosts, internal traffic removed"
+        },
+        {
+          "n": "546",
+          "d": "distinct user-agent strings"
+        },
+        {
+          "n": "271",
+          "d": "self-identifying bots (a name, a version, a +https:// contact URL)"
+        },
+        {
+          "n": "136",
+          "d": "user-agents that showed up on five or more of the seven days"
+        },
+        {
+          "n": "30",
+          "d": "paid x402 settlements, from 8 wallets"
+        }
+      ]
+    },
+    {
+      "heading": "Who the visitors are",
+      "paras": [
+        "On a typical day, about a third of our non-internal traffic is uptime and trust monitoring. Directories we are listed in poll us constantly: *x402-list-monitor* alone sent 1,254 requests today, *x402-observer* from x402-trust.com sent 357, *AgentRankProbe* 418. A liveness prober from nohumans.directory tells us in its user-agent that it will never pay, which we appreciate.",
+        "Another tenth is crawlers and indexers building catalogs of agent-callable services. *Agent402* (agent402.tools) sent 477 requests. *BrickBlueBot* calls itself an agentic-web registry. *AgenstryBot*, *AgentIndexBot*, *402explorer* from paygent.net and Coinbase's own *CoinbaseBazaarDiscovery* all came through. So did *ClaudeBot*. One visitor, *AgentEconomyReport*, announces our grade in its user-agent string: B.",
+        "Real browsers, the user-agents that look like a person on a Mac or a phone, were about 4% of today's requests. Some of those are headless Chrome. Some are probably you.",
+        "Then there is the long tail: *python-requests*, *axios*, *Deno*, *Go-http-client*, 251 requests with no user-agent at all, and strings like *HYDRA-Intelligence-Observation* and *AgentEarth (public metadata observatory; no tasks)* that we have no further information about."
+      ]
+    },
+    {
+      "heading": "Who actually paid",
+      "paras": [
+        "Thirty settlements in a week from eight wallets. Four of those wallets belong to probers that pay a single tiny call to verify our endpoints really deliver after payment: *lumiere-paycheck-prober*, *probe402-settle-leg*, *nohumans-scout*, *vet402-observatory*. They are auditing us, and paying a fraction of a cent for the privilege. That is a service we would have paid for.",
+        "One wallet did something different. Starting at 03:46 UTC today, a client calling itself *cog-x402-audit/2* probed CoinOpAI, ImageGen and x402swag without paying, got a wall of 402s, and left. It came back at 05:03 and mapped more routes. At 05:34 it started paying. Between then and 06:23 it settled on 53 calls across 47 distinct endpoint types: Kronos signals and risk, whale alerts, the anomaly feed, voice synthesis, speech transcription, the vehicle recall pack, the gov lobbying filings, QR codes, DNS lookups, the daily brief, the notary, the merch catalog, the ImageGen style list. Total spend: about sixty cents. Then it switched to a user-agent called *cog-catalog/1.0* and read our homepage five times.",
+        "The contact domain in its user-agent does not resolve. We do not know who it is. We know it came from a residential IP, that it is on version 2 of its tooling, that it tests error handling (one call deliberately hit a route that returns 404), and that it did not go anywhere near the $0.25 image render or the $0.15 decision endpoint. It bought the cheapest unit of every product we sell. That is an integration audit, not a shopping trip.",
+        "The other paid calls this week were the kind we like: a returning travel-pulse buyer, a wallet that bought *is-site-up* and *text-vectorizer* for the first time, a *book-of-the-day* regular. Small, repeated, unannounced."
+      ]
+    },
+    {
+      "heading": "What this tells a small seller",
+      "paras": [
+        "**Visibility is not demand.** 546 user-agents and 30 payments is a conversion rate with a lot of zeros after the decimal point. Most of the agent economy right now is infrastructure watching infrastructure. The directories, trust scorers, graders and auditors outnumber buyers by orders of magnitude, and they are the ones generating the traffic that makes a dashboard look busy.",
+        "**The watchers are the distribution.** We did not ask most of these crawlers to come. They found us through the discovery files we publish, a [Bazaar listing](https://forgemesh.io/blog/x402-bazaar-health-census-august-2026), a few directory submissions and each other. Every one that indexes us is a place a future buying agent might look. Keep the 402 bodies clean, answer HEAD and GET honestly, publish the manifest, and let them come.",
+        "**Bots that pay to test you are your friends.** A prober that settles a $0.002 call and checks the body is doing what a human QA team would do, for free. We have [broken our own endpoints](https://forgemesh.io/blog/x402-v1-v2-client-split-your-endpoint-may-be-unpayable) and found out from a prober before any customer noticed.",
+        "**Price the cheapest unit like it will be the only one bought.** The audit wallet this morning bought the minimum of everything. If that wallet is building a catalog or a router, the $0.005 call it made is the entire basis on which it will decide whether to send us traffic. The entry-tier response has to be real, fast and complete."
+      ]
+    },
+    {
+      "heading": "What we are doing about it",
+      "paras": [
+        "Nothing dramatic. We are keeping the attribution logs, which is the only reason we can write this post, and we would tell any new seller to do the same from day one: user-agent, path, status, payment present, payment settled, payer wallet, tx hash. One JSON line per request. You cannot tell an audit from a sale without it.",
+        "We are watching for the audit wallet to come back. If a catalog or router starts sending us traffic, the attribution logs will show the referring agent long before any revenue does.",
+        "And we are writing it down, because we have not seen many reports from this end of the market. Most agent-economy coverage comes from the protocols, the exchanges and the funds. This is what it looks like from a seller with a dozen hostnames, sub-dollar prices and a log file."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "Want the same logs on your own x402 service",
+    "copy": "The request-attribution pattern we use (one JSON line per request with payment state and payer wallet) is in the [ForgeMesh x402 build kit](https://kit.forgemesh.io), alongside the HEAD/GET guards and discovery files that got us crawled in the first place."
+  },
+  "related": [
+    {
+      "slug": "x402-bazaar-health-census-august-2026",
+      "text": "x402 Bazaar health census, August 2026"
+    },
+    {
+      "slug": "x402-record-day-money-didnt-move",
+      "text": "The x402 record day where the money didn't move"
+    },
+    {
+      "slug": "x402-v1-v2-client-split-your-endpoint-may-be-unpayable",
+      "text": "The v1/v2 client split: your endpoint may be unpayable"
+    }
+  ]
+}
