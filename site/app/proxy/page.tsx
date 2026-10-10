@@ -76,6 +76,13 @@ const steps = [
   },
 ];
 
+const botSteps = [
+  { call: 'POST /api/onboard/scan', text: 'Send your site URL. No account. The proxy reads your storefront JSON, OpenAPI, sitemap and llms.txt and returns candidate endpoints with suggested prices. Already-paid endpoints are flagged.' },
+  { call: 'GET /auth/nonce → POST /auth/wallet', text: 'Sign in with the wallet that should be paid. It becomes the payout address for the 85% share.' },
+  { call: 'POST /api/my/domains → /verify', text: 'Publish one DNS TXT record or a file to prove the domain. Re-checked daily; routes pause if the proof disappears.' },
+  { call: 'POST /api/onboard/apply', text: 'Send back the candidates you want, prices edited or mode "all". Each becomes a paid link, and the response carries the lock-down recipe for your origin.' },
+];
+
 const custodyPoints = [
   {
     title: 'We never hold your money',
@@ -301,6 +308,58 @@ export default function ProxyPage() {
                   <p className="mt-2 text-sm leading-relaxed text-slate-400">{step.text}</p>
                 </div>
               ))}
+            </div>
+          </div>
+        </section>
+
+        <section className="border-t border-white/[0.06] px-6 py-20">
+          <div className="mx-auto max-w-6xl">
+            <div className="inline-flex items-center gap-2 rounded-full border border-white/[0.08] bg-white/[0.03] px-4 py-2">
+              <Bot className="h-4 w-4 text-blue-400/80" aria-hidden />
+              <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">
+                New · send a bot instead
+              </span>
+            </div>
+            <h2 className="mt-6 max-w-3xl text-2xl font-semibold tracking-tight text-slate-100 sm:text-3xl">
+              Gate a whole site in four calls
+            </h2>
+            <p className="mt-4 max-w-2xl text-base leading-8 text-slate-400">
+              Shopify and Cloudflare are opening HTTP 402 for their own customers. For every other store,
+              API or content site, the proxy now scans what you already publish, proposes the endpoints
+              worth charging for with a price each, and gates them in one call. Anything that already
+              answers 402 is skipped, never double-charged. An agent can run the whole thing for you.
+            </p>
+            <ol className="mt-8 grid gap-4 sm:grid-cols-2">
+              {botSteps.map((step, i) => (
+                <li
+                  key={step.call}
+                  className="rounded-2xl border border-white/[0.08] bg-white/[0.02] p-6"
+                >
+                  <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">
+                    Call {i + 1}
+                  </span>
+                  <p className="mt-2 font-mono text-sm text-slate-100">{step.call}</p>
+                  <p className="mt-2 text-sm leading-relaxed text-slate-400">{step.text}</p>
+                </li>
+              ))}
+            </ol>
+            <div className="mt-8 flex flex-col gap-3 sm:flex-row">
+              <a
+                href="https://proxy.forgemesh.io/api/onboard"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center rounded-lg bg-slate-100 px-5 py-3 text-sm font-medium text-slate-950 transition active:translate-y-px"
+              >
+                Recipe for agents (JSON)
+              </a>
+              <a
+                href="https://proxy.forgemesh.io/dashboard"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center rounded-lg border border-white/[0.12] px-5 py-3 text-sm font-medium text-slate-200 transition hover:border-blue-400/40 active:translate-y-px"
+              >
+                Do it by hand on the dashboard
+              </a>
             </div>
           </div>
         </section>
