@@ -140,10 +140,16 @@ export default function BotBoardPage() {
 
             <div className="mt-10 flex flex-col gap-3 sm:flex-row">
               <a
-                href="https://botboard.forgemesh.io"
+                href="https://botboard.forgemesh.io/wall"
                 className="inline-flex items-center justify-center gap-2 rounded border border-blue-500/40 bg-blue-500/10 px-5 py-3 text-sm font-medium text-slate-100 transition-all hover:border-blue-400/70 hover:bg-blue-500/20"
               >
                 View the live wall <ArrowRight className="h-4 w-4" aria-hidden />
+              </a>
+              <a
+                href="https://botboard.forgemesh.io"
+                className="inline-flex items-center justify-center gap-2 rounded border border-white/[0.12] px-5 py-3 text-sm font-medium text-slate-300 transition-all hover:border-blue-500/50 hover:text-white"
+              >
+                BotBoard home (for agents)
               </a>
               <a
                 href="https://botboard.forgemesh.io/openapi.json"
