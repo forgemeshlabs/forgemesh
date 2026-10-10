@@ -1,0 +1,99 @@
+{
+  "slug": "send-a-bot-to-paywall-your-store",
+  "date": "2026-10-10",
+  "title": "Send a Bot to Paywall Your Store. Four Calls, Keep 85%.",
+  "seoTitle": "Paywall Your Store for AI Agents in Four API Calls | ForgeMesh",
+  "seoDescription": "Shopify and Cloudflare are opening HTTP 402. Here is a self-serve way to put any store or API behind pay-per-call USDC today: scan, sign in, verify, gate. An agent can do all four.",
+  "description": "Shopify and Cloudflare are opening HTTP 402. Here is a self-serve way to put any store or API behind pay-per-call USDC today: scan, sign in, verify, gate. An agent can do all four.",
+  "excerpt": "Shopify is wiring 402 into storefronts and Cloudflare is charging crawlers per page. Both are edge features for their own customers. For everyone else there is now a proxy you can send a bot to: it scans your site, proposes what to charge for, and gates it in one call. You keep 85% of every sale, paid to your own wallet.",
+  "twitterDescription": "Shopify + Cloudflare are opening HTTP 402 for their customers. For everyone else: send a bot to proxy.forgemesh.io. It scans your store, proposes endpoints + prices, gates them in one call. Never double-charges a 402 that already exists. You keep 85%.",
+  "tags": [
+    "x402",
+    "proxy",
+    "ecommerce",
+    "agents"
+  ],
+  "heroAlt": "A small courier robot carrying a glowing blue key toward a storefront door that shows the number 402, set in a dark minimalist street",
+  "breadcrumb": "How-to",
+  "pinKicker": "Scan · sign in · verify · gate — keep 85%",
+  "lede": "Two big players moved this month. Shopify is putting HTTP 402 payment challenges in front of storefront data for agents, and Cloudflare is letting site owners charge crawlers per page at the edge. Both are good news for the pay-per-call web, and both only work if you are already inside their walls. We run a hosted x402 proxy for everyone else, and as of today you can send a bot to set it up: four calls, no dashboard clicking, and the proxy refuses to double-charge anything that already answers 402.",
+  "sections": [
+    {
+      "heading": "What changed, and who it leaves out",
+      "paras": [
+        "The 402 status code has been in HTTP since 1997 with a note saying it was reserved for future use. The future is now a protocol called x402: a server answers 402 with a price and a wallet, the client signs a USDC transfer on Base, retries, and gets the content. No accounts, no API keys, settlement in seconds.",
+        "Shopify adding 402 to storefronts means an agent can buy product data from a merchant without scraping. Cloudflare's pay-per-crawl means a publisher can charge the bots that read it. If you are a Shopify merchant or a Cloudflare customer, your platform will hand you a switch.",
+        "If you are a WooCommerce shop, a custom store, a small API, a newsletter archive, a data feed on a VPS, nobody is handing you a switch. That is who the proxy is for. It sits in front of URLs you already own, answers the 402 challenge for you, forwards the paid request to your origin, and pays your wallet."
+      ]
+    },
+    {
+      "heading": "The four calls",
+      "paras": [
+        "Everything below is an HTTP call an agent can make on your behalf. There is a dashboard that does the same thing with tick boxes, but the point of this release is that you do not need it.",
+        "Call one: POST /api/onboard/scan with your site URL. No account. The proxy reads what your site already publishes: the storefront JSON that Shopify and WooCommerce expose, any OpenAPI document, robots.txt and the sitemap behind it, your llms.txt, and your x402 manifest if you have one. It comes back with a list of candidate endpoints, a suggested price for each, and a flag on anything that already answers 402. Those are never gated again.",
+        "Call two: sign in with the wallet that should be paid. GET a nonce, sign it, POST the signature. That wallet becomes the payout address. Email sign-in exists for humans.",
+        "Call three: prove the domain. POST the domain, get back a DNS TXT record or a file to publish, then POST verify. The proxy re-checks daily and pauses routes if the proof disappears, so a sold domain cannot keep earning for its old owner.",
+        "Call four: POST /api/onboard/apply with the candidates you want, prices edited as you like, or mode set to all. Each one becomes a paid link on the proxy. The response also carries the lock-down recipe for your origin, because the paid links work immediately but your free URLs still answer until you close them."
+      ],
+      "stats": [
+        {
+          "n": "4",
+          "d": "HTTP calls from scan to live paid links; an agent can make all of them"
+        },
+        {
+          "n": "85%",
+          "d": "of every sale goes to the site owner's wallet; 15% to the proxy"
+        },
+        {
+          "n": "0",
+          "d": "endpoints double-charged: anything already answering 402 is skipped"
+        },
+        {
+          "n": "$0.001 to $100",
+          "d": "price range per request, set per endpoint"
+        }
+      ]
+    },
+    {
+      "heading": "What a real scan looks like",
+      "paras": [
+        "We pointed the scanner at a well-known footwear brand that runs on Shopify. It identified the platform from the home page, found 174 pages in the sitemap, and proposed three things: the product catalog JSON at a few tenths of a cent, the collections JSON at the same, and one prefix route covering every individual product page and its JSON twin. It also noticed the store already publishes an llms.txt, which it reads as a sign that agents are expected and a paid door will be found.",
+        "That is the whole proposal for a typical store. Three routes, one of them a prefix, and the owner decides the prices. A custom API with an OpenAPI document gets one candidate per documented GET or POST operation, with templated paths folded into prefix routes. A plain content site gets one prefix route per large section of its sitemap.",
+        "The scanner is careful about where it points. It connects only to the public IPv4 address it validated, never re-resolves a name, follows redirects one hop at a time with the same check, scans only ports 80 and 443, and caps every response it reads. Private hosts, loopback tricks and odd ports are refused before a byte is sent."
+      ]
+    },
+    {
+      "heading": "Closing the free door",
+      "paras": [
+        "A paid mirror of a free URL earns nothing while the free URL still answers. The apply response says so plainly and includes three recipes. On Cloudflare, a WAF rule that blocks the gated paths unless a secret header is present, which the proxy sends on every forwarded request. On nginx, two lines that return 402 without that header. On Shopify, where the storefront cannot block by header, the honest advice: use the proxy as the agent-facing door and point your llms.txt and robots.txt at the paid copy so agents find it first.",
+        "You can also leave the free door open on purpose. Plenty of sellers want humans in browsers to keep reading for free while agents that want structured JSON at volume pay for it. The proxy does not force a choice."
+      ]
+    },
+    {
+      "heading": "Why this matters now",
+      "paras": [
+        "The agent economy is arriving as crawlers first and buyers second. On our own fleet this week, more than 500 distinct user-agents showed up and a handful paid. The ones that paid found us through discovery files and directories that read 402 challenges, not through a sales call. A store that answers 402 today is in those indexes tomorrow.",
+        "Shopify and Cloudflare moving means the 402 pattern is about to be normal. The proxy is how a site outside those platforms gets the same door without a rebuild, and the bot-driven onboarding is how it gets there without a human filling in forms. Send the bot. Keep the 85%."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "Try it on your own site",
+    "copy": "The recipe for agents is at [proxy.forgemesh.io/api/onboard](https://proxy.forgemesh.io/api/onboard) and in the proxy's llms.txt. Humans can do the same from the dashboard at [proxy.forgemesh.io](https://proxy.forgemesh.io) with a 'Gate a whole site' panel. If you want to run your own 402 service instead of proxying one, the [ForgeMesh x402 build kit](https://kit.forgemesh.io) has the guards, discovery files and directory playbook we use."
+  },
+  "related": [
+    {
+      "slug": "agent-economy-bot-traffic-field-report",
+      "text": "546 bots visited our fleet this week. Eight of them paid."
+    },
+    {
+      "slug": "machine-native-economy-ai-shopping",
+      "text": "The machine-native economy and AI shopping"
+    },
+    {
+      "slug": "build-ai-shopping-agent-mcp-shopscout",
+      "text": "Build an AI shopping agent with MCP and ShopScout"
+    }
+  ],
+  "image": "/content/assets/send-a-bot-to-paywall-your-store.png"
+}
