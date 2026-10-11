@@ -252,9 +252,9 @@ export default async function VinProblemsPage({ params }: Params) {
             <div className="rounded-2xl border border-blue-500/25 bg-blue-500/[0.06] p-6">
               <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">Buying a used {name}?</p>
               <p className="mt-3 text-base leading-7 text-slate-300">
-                A full vehicle history report checks title brands, accident records, and odometer
-                readings for the specific VIN — none of which government complaint or recall data
-                covers.
+                A detailed vehicle history report can check for title brands, available accident
+                records, and reported odometer readings for the specific VIN — none of which
+                government complaint or recall data typically cover.
               </p>
               <a
                 href="/go/epicvin"

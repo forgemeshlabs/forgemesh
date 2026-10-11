@@ -503,9 +503,9 @@ export function VinChecker() {
           {/* ── Monetization slot 1: history-report affiliates ──────────── */}
           <section className="rounded-2xl border border-emerald-400/20 bg-emerald-400/[0.04] p-5 sm:p-6">
             <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-emerald-300/80">Next step</p>
-            <h3 className="mt-2 text-lg font-semibold text-slate-50">Want the full title, accident and odometer history for this exact car?</h3>
+            <h3 className="mt-2 text-lg font-semibold text-slate-50">Looking for a detailed title, accident and odometer history for this exact car?</h3>
             <p className="mt-2 text-sm leading-6 text-slate-400">
-              Everything above is about the year, make and model. Whether <em>this</em> VIN was wrecked, flooded, rolled back or branded salvage lives in licensed title databases. These partners sell that report per VIN:
+              Everything above is about the year, make and model. Whether <em>this</em> VIN was potentially wrecked, flooded, rolled back or branded salvage often lives in licensed title databases. These partners sell VIN vehicle history reports:
             </p>
             <div className="mt-4 flex flex-col gap-3 sm:flex-row">
               {[
