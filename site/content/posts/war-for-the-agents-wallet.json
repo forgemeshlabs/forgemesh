@@ -1,0 +1,103 @@
+{
+  "slug": "war-for-the-agents-wallet",
+  "date": "2026-10-14",
+  "title": "The War for the Agent's Wallet",
+  "excerpt": "In three weeks American Express published a framework for proving what a customer meant before an agent spends, Citi said its merchants can take stablecoins without ever holding one, and a patent read showed Mastercard filing around agent payments while Visa stood still. All of it answers a July move by Coinbase. Four players, four layers, one prize.",
+  "description": "Amex's Intent Intelligence, Citi's stablecoin checkout with Coinbase, Mastercard's agentic patent tilt and Coinbase's x402 agent stack, read as one fight over who controls an AI agent's money.",
+  "seoTitle": "War for the Agent's Wallet: Amex, Citi, Mastercard",
+  "seoDescription": "Amex intent framework, Citi stablecoin checkout, Mastercard agent patents, Coinbase x402 stack: who controls an AI agent's money, and what builders do next",
+  "twitterTitle": "The war for the agent's wallet",
+  "twitterDescription": "Amex wants the intent. Citi wants settlement. Mastercard is filing patents. Coinbase already took the rail. Four incumbents, four layers, one prize: the agent's wallet. Who holds it decides who gets paid.",
+  "heroAlt": "A small glowing wallet held by a robot at the center of a dark arena, with four towering institutional structures on each side aiming beams of light at it",
+  "breadcrumb": "Field Report",
+  "tags": [
+    "agentic-commerce",
+    "x402",
+    "stablecoins",
+    "field-report"
+  ],
+  "lede": "On October 13 American Express published a framework for capturing what a customer meant before an AI agent spends their money. Two weeks earlier Citi said its corporate clients will take stablecoins at checkout and never hold one. On October 14 a GlobalData patent read showed Mastercard's filings tilting toward agent payments while Visa's did not move. Every one of those moves is an answer to a decision Coinbase made in July, when it let every merchant on Coinbase Business accept USDC from a bot with no setup at all. The incumbents have stopped asking whether agents will pay. They are fighting over which layer of the payment owns the agent, and the prize is the wallet.",
+  "sections": [
+    {
+      "heading": "The prize is not the purchase. It is the wallet.",
+      "paras": [
+        "A payment has four layers that matter when the buyer is software. Someone has to record what the human or the business actually authorized. Someone has to issue the credential the agent presents at checkout. Someone has to run the rail the money moves on. And someone has to settle it into an account the seller can spend from. When a person buys, those layers are bundled inside one card swipe and nobody fights over them. When an agent buys, each layer is a place to insert yourself, and each incumbent has picked a different one.",
+        "That is why the four stories below read like four companies in four different businesses. They are not. They are four bids for the same thing: to be the party an agent cannot transact without."
+      ]
+    },
+    {
+      "heading": "Amex is building the border: intent before money",
+      "paras": [
+        "On October 13 American Express published its Intent Intelligence framework and made it public, positioned as a common industry approach to intent in agentic commerce. The flow has four stages. A Create Intent API captures the purchase instruction and its constraints, such as the merchant, a maximum budget and preferences, and the customer authenticates and approves it. That produces an Intent ID and a Proof of Intent Token. The token is then used to obtain a digital payment credential, which the agent presents at checkout instead of the card number. The Intent ID and token ride along as controls so later steps can check the purchase against what was approved.",
+        "Read the plumbing and the position is clear. The agent never sees the card. The issuer sees the intent before the agent transacts, and it can use that record for authorization, fraud and disputes. Luke Gebb, Head of Global Innovation at American Express, put it this way in the release: \"Providing authorized purchase intent before an agent transacts can give issuers greater confidence.\" Hannah Bozian, the company's VP of agentic partnerships, told Digital Transactions the point is \"keeping the customer in control.\"",
+        "Two details matter more than the API names. Amex chairs the EMVCo agentic commerce working group, so this framework is a draft of what the card standard will look like, not just one issuer's product. And the same release says Amex is supporting the x402 Foundation's work on internet-native payment standards. The card side is not pretending the crypto rail does not exist. It is trying to put a border around it. Amex says it already sees thousands of agentic transactions a week across the integrations its network supports, and gave Digital Transactions no exact figure."
+      ]
+    },
+    {
+      "heading": "Coinbase took the rail in July. Everyone else is still answering.",
+      "paras": [
+        "The move the others are reacting to is older than this week. On July 23 Coinbase said Coinbase Business users could accept payments from AI agents over x402, paid in USDC, with no extra setup, powered by Coinbase Payments. The same day it shipped an x402 SDK from the Coinbase Developer Platform that adds payment acceptance to any API, MCP server or web service in what it calls three lines of code, and Coinbase for Agents, which lets an agent trade on the exchange from plain-English instructions. Sid Coelho-Prabhu, Head of Coinbase Business, told CoinDesk: \"We are delivering that experience for the new online agentic economy.\"",
+        "CoinMarketCap's account of the launch adds the scale of the unit behind it. Coinbase Business signed roughly 5,000 customers and processed about $1 billion in combined payments and trading volume in its first year. Early agent payers, per that piece, are infrastructure businesses whose bots buy OpenRouter credits, domain names and cloud storage. A Coinbase spokesperson told the outlet that since June around 53 percent of traffic to the Base documentation came from agentic visitors.",
+        "This is the one move on the list that is agent-native. The agent does not borrow a human's card. It holds USDC, discovers a price, signs a payment and settles on chain. The merchant gets final settlement with no chargeback, which is also the critique. Techi, reading the ledger, found the average x402 payment was worth about 20 cents in March and that roughly half of the transactions one Artemis analyst examined looked gamified rather than commercial. Our own Rail Pulse tracker, which we publish on this site, shows the network at this scale right now.",
+        "That is not card volume. It is also not nothing, and it is the only one of the four rails where the buyer is a machine with its own balance."
+      ],
+      "stats": [
+        {
+          "n": "2.78M",
+          "d": "x402 transactions in the last 30 days, per Rail Pulse"
+        },
+        {
+          "n": "$1.08M",
+          "d": "settled over those 30 days, about 39 cents a payment"
+        },
+        {
+          "n": "35,209",
+          "d": "live x402 listings, up 11 percent on the period"
+        }
+      ]
+    },
+    {
+      "heading": "Mastercard is filing. Visa is not.",
+      "paras": [
+        "On October 14 Electronic Payments International ran a GlobalData patent analysis as partner content, meaning GlobalData is both the sponsor and the data source, and the piece ends by selling a report. Keep that in mind, because the numbers are still the only public read of what the networks are claiming. GlobalData compared the ten months to July 2026 with the same window a year earlier, by publication date, across Visa, Mastercard, Capital One, JPMorgan Chase, PayPal and Block, 9,403 publications in all.",
+        "Mastercard's publications rose 2.2 percent, or 6.3 percent once patents acquired through deals are stripped out. Visa's fell 18.4 percent, and its US publications fell 27.8 percent. Titles with explicit generative AI or AI-agent language went from 31 to 104 across the group. As a share of each company's output, PayPal went from 1.6 to 7.4 percent, Mastercard from 0.7 to 5.0 percent, JPMorgan from 1.1 to 3.4 percent, and Visa from 0.5 to 0.7 percent. Only one title in the whole set uses the word agentic. It is Mastercard's, and it is called \"Agentic microtransactions through verifiable payment delegation.\"",
+        "Read that title against the Coinbase section. Verifiable payment delegation is a description of what an x402 payment is: a signed authorization that proves a buyer delegated a bounded spend. Mastercard is writing claims around the mechanism, on the card rail. GlobalData's own caveats apply, and they are real: the screen looks at titles only, these are publications rather than filings, 72 percent of the frontier publications carry 2024 priority dates so later filings may not have surfaced, and there is no market baseline for the decline. Two more facts from the same read are worth keeping. Blockchain-tagged publications fell 27.3 percent across the group, and no title in the set contains the word stablecoin. The networks are patenting the agent, not the coin."
+      ]
+    },
+    {
+      "heading": "Citi wants settlement, and wants the merchant never to hold the coin",
+      "paras": [
+        "Citi's position is the bank's position, and it was set out in a September 28 release that The Defiant and others detailed again this week. Citi's institutional clients will be able to accept stablecoin payments at checkout through Spring by Citi. Coinbase Payments powers the acceptance, the digital currency is converted to fiat automatically, and Citi settles the funds as bank of record. The pitch to merchants is reach, over 150 million stablecoin holders globally, without holding or managing a digital asset. Both initiatives launch first in the United States. The release names no stablecoin and gives no date beyond \"the coming months.\"",
+        "The second half of the same release runs the other direction. Coinbase Virtual Accounts, built on Citi's Virtual Account Wallet, give Coinbase's payments customers bank-account-like functionality where incoming fiat is converted into stablecoins automatically. Ashish Bajaj, Head of Services for North America at Citi, said: \"Our goal is to build the next generation of payments infrastructure that our clients need.\" Brett Tejpaul, Head of Coinbase Institutional, called Citi \"exactly the kind of regulated banking partner the digital asset economy needs.\"",
+        "Put the two halves together and the bank's claim on the stack is explicit. The stablecoin is a transit medium. Balances live in a bank account, settlement is a bank function, and the on-chain leg is something Coinbase handles out of sight. Two smaller moves this week sit in the same layer. Tempo, Stripe's payments chain, said on October 14 that its Zones are generally available, letting enterprises keep stablecoin balances and payments private with compliance controls, with Deel paying contractors through one. And Privy, the wallet provider Stripe agreed to acquire, extended its tools to the XRP Ledger on October 13, aimed at fintechs and, in its own words, AI agents that need to move money on their own."
+      ]
+    },
+    {
+      "heading": "What nobody shipped: the agent that holds its own money",
+      "paras": [
+        "Line the four up and one absence stands out. Amex assumes a human's card behind the agent and builds intent around it. Citi assumes a corporate treasury behind the merchant and keeps the coin out of it. Mastercard is claiming delegation on the card rail. Even Coinbase's stack, the agent-native one, is being sold to merchants as a parallel channel next to the human one. Everyone wants to be in the path of the agent's money. Nobody on the incumbent side wants to be the place the agent's money lives.",
+        "That gap is the whole reason the x402 numbers above look the way they do. A 39-cent average payment is what you get when the buyer is a process with a small balance paying per call, not a person with a credit line buying a cart. The card frameworks are built for the cart. The intent record, the scoped credential and the dispute path all assume a purchase big enough to argue about. A machine paying half a cent for a lookup, which is the floor price across our fleet, does not need a dispute path. It needs a price in the 402 response and settlement before the next request.",
+        "For anyone selling to machines, three things follow. First, the card-proxy flows are coming and they will arrive as a standard, because Amex chairs the working group that writes it. Price your endpoints for both kinds of buyer, the agent that carries a human's scoped credential and the agent that carries its own USDC. Second, the delegation patents are the thing to watch, not the product announcements. A claim on verifiable payment delegation that reads onto signed payment authorizations would touch every x402 seller, and the only public evidence so far is one title. Third, the rail with real agent-native volume is also the one with final settlement and no recourse, which is exactly the property the banks and networks are building around. Sell on it anyway. It is the only one where the buyer is already here."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "Sell to the buyer that holds its own wallet",
+    "copy": "The x402 build kit is how we turned 19 endpoints into machine-payable services with USDC on Base, priced for the 39-cent buyer. Kit at kit.forgemesh.io, and The Brief goes out when the ground moves."
+  },
+  "related": [
+    {
+      "slug": "shopify-agent-checkout-default-one-million-merchants",
+      "text": "Shopify made agent checkout the default for a million merchants"
+    },
+    {
+      "slug": "agentic-commerce-explained",
+      "text": "Agentic commerce, explained: what it is and who's building it"
+    },
+    {
+      "slug": "can-chatgpt-buy-things-for-me",
+      "text": "Can ChatGPT buy things for me? What it can and can't do"
+    }
+  ],
+  "image": "/content/assets/war-for-the-agents-wallet.png"
+}
