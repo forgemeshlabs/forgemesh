@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true },
 };
 
-const UPDATED = '2026-09-08';
+const UPDATED = '2026-10-14';
 
 export default function Page() {
   return (
@@ -80,6 +80,16 @@ export default function Page() {
                   scanner make ordinary HTTP requests from your machine to the sites you ask them to check;
                   nothing is sent to ForgeMesh. Servers that call a paid ForgeMesh API do so only when you
                   invoke a paid tool, and only with the inputs for that call.
+                </p>
+                <p>
+                  <strong>Hosted plugin.</strong> The ForgeMesh plugin for ChatGPT and other hosts that
+                  connect to a remote MCP server runs on our infrastructure. When you use one of its
+                  tools, the inputs for that call (for example a URL to scan or a VIN) are sent to
+                  ForgeMesh, processed to produce the response, and retained in short-lived request
+                  logs for debugging and abuse prevention, then discarded within 90 days. The plugin
+                  requires no account and no login; we receive no identity information about you from
+                  the host beyond what the host itself sends with each request. All plugin tools are
+                  read-only.
                 </p>
                 <p className="mt-3">
                   Our AI Skills (including those listed on third-party marketplaces such as the TikTok for
