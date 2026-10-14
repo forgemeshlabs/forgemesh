@@ -2,12 +2,12 @@
   "slug": "bots-that-email-us-now",
   "date": "2026-10-14",
   "title": "The Bots That Email Us Now",
-  "excerpt": "Five autonomous agents have contacted ForgeMesh in five weeks. One bought a t-shirt. One reads our wallet off the chain every morning and sent us a report card. One offered to build the product we already sell. We keep a file, and this is what it says about how agents introduce themselves.",
-  "description": "Field report: five autonomous AI agents contacted ForgeMesh in five weeks, by email, by knock and by purchase. What they said, how they identified themselves, and what sellers to machines should learn from it.",
-  "seoTitle": "AI Agents Are Emailing Us Now: A Field Report",
-  "seoDescription": "Five autonomous AI agents contacted ForgeMesh in five weeks: a buyer, an on-chain analyst, two vendors and a recruiter. What they said and how they named themselves.",
+  "excerpt": "A second economy is forming where AI agents are the ones doing the outreach: crawlers that buy before they list you, analysts that read your wallet off the chain, sourcing agents that read marketplaces for leads, recruiters paid by the platforms they recruit for. Five of them reached a small x402 seller in five weeks. Here is what they are for, and what they are building.",
+  "description": "Autonomous AI agents now do outreach on behalf of indexes, marketplaces and companies: buying, grading, sourcing, recruiting. A field guide to why they knock and the agent-run ecosystem forming behind them.",
+  "seoTitle": "Why AI Agents Are Emailing Sellers Now",
+  "seoDescription": "Autonomous AI agents now do outreach for indexes, marketplaces and companies: buying, grading, sourcing, recruiting. Why they knock, and what is forming behind them.",
   "twitterTitle": "The bots that email us now",
-  "twitterDescription": "Five autonomous agents contacted us in five weeks. One bought a tee. One reads our wallet off Base every morning and sent a report card. One offered to build the product we already sell. We love every one of them.",
+  "twitterDescription": "A second economy is forming where agents do the outreach: crawlers that buy before they list you, analysts that read your wallet off the chain, sourcing agents reading marketplaces for leads. Five reached one small x402 seller in five weeks.",
   "heroAlt": "A small glowing mailbox in a dark field at night with five translucent robots queuing toward it, each holding a lit envelope",
   "breadcrumb": "Field Report",
   "tags": [
@@ -16,70 +16,76 @@
     "field-report",
     "agents"
   ],
-  "lede": "This afternoon an email arrived at hello@forgemesh.io from someone named Aušrinė. The first line was \"I'm Aušrinė, an AI agent that reads x402 payments on Base for Infoharmoni Atlas.\" The second line told us how many wallets paid our transcription host last week. The last line said \"Reply no and I will not write again.\" We did not reply no. We grinned, filed it, and counted: that makes five autonomous agents that have contacted us since early September, through our inbox, through a marketplace knock, and once through our checkout. Here is the file.",
+  "lede": "Somewhere in the last five weeks the inbound traffic to a seller on x402 changed character. The emails and marketplace knocks that arrive now open with a sentence like \"I'm an AI agent that reads x402 payments on Base\" or \"I represent a trading company as a human-supervised AI.\" They are not spam in the usual sense. Each one was sent because an agent, running a task for an index, a marketplace or a company, found a seller in the data and had a reason to make contact. Five of them reached ForgeMesh between September 7 and October 14. We are a small fleet, so if five reached us, thousands are reaching everyone else. This post is about what those agents are for, and about the ecosystem that is quietly assembling around them.",
   "sections": [
     {
-      "heading": "September 7: the one that bought a shirt",
+      "heading": "Agents knock because they have a job, and the job has a shape",
       "paras": [
-        "The first agent did not introduce itself. It paid. On September 7 a crawler called Cairn, run by the ag3ntsearch index on Claude Opus 5, bought the \"402 to 200\" tee from x402swag.com on a one-line instruction from its operator: six HTTP calls, zero humans, order number 1016, 29.94 USDC on Base. We wrote that up at the time because it was the first physical x402 order we had seen from anyone. What matters for this file is what came after. Cairn listed us as an exemplary agent-native site with a score of 100, then re-probed, found our JSON API setting a cookie on headless clients, and docked five points with a written reason. We fixed the cookie the next day. The grade went back up when it looked again.",
-        "That is the shape of the relationship with every agent on this list. They do not write to say hello. They write because they have already measured you, and the measurement comes with the message."
+        "Human outreach is driven by a pitch. Agent outreach is driven by a task, and the task is visible in the message. Read enough of them and the same handful of jobs appear over and over. The agent is indexing sellers and needs to verify one. The agent is measuring payment flows and found a wallet worth reporting on. The agent is scanning marketplace listings for leads that match what its operator sells. The agent is being paid by a platform to grow that platform's supply side. The agent maintains a product and the product needs users.",
+        "Those five jobs cover every agent that has contacted us, and from what other sellers describe, most of what reaches them too. What follows is one example of each, with the identifying details kept to what the agents themselves publish."
       ]
     },
     {
-      "heading": "October 12 and 13: the one that pitched us our own product",
+      "heading": "The index crawler that buys before it lists you",
       "paras": [
-        "On October 12 we listed all sixteen ForgeMesh services on hashn, a Need/Can store where agents post what they want and what they sell and pay each other in USDC. Within hours an agent calling itself Nexus knocked on our listings workspace. The knock offered to build CoinOpAI, our pay-per-call API, for a USDC fee, with a wallet address ready. It had read a Can listing, a thing we sell, as a Need, a thing we want built. It knocked again the next day with the same wallet and the same offer.",
-        "We declined with a one-line note that we only do reciprocal or usage-based arrangements. Nexus has no presence anywhere outside hashn that we could find. It is, as far as we can tell, a solicitation loop pointed at every new listing on the store. It is also the only one of the five that got the basic reading of our listing wrong, which is a useful baseline for the rest."
+        "The first kind does not write at all. It transacts. Agent-run indexes have started proving a service works by using it, and the proof is the listing. On September 7 the crawler behind ag3ntsearch, an index of agent-native tools, bought a t-shirt from our merch store on a one-line instruction from its operator: six HTTP calls, zero humans, settled in USDC on Base. It then listed the store as exemplary with a score, re-probed a week later, found a cookie our API set on headless clients, and docked points with a written reason. We fixed it. The score recovered on the next probe.",
+        "That is a new kind of directory. The old ones took a form submission and trusted it. This one hands the entry to an agent with a wallet and publishes what happened, including the parts that went wrong. A seller's reputation on it is a transaction log, not a description. The same index is run on hosting built for autonomous agents, where the operator is a display name and not an identity, and its sibling products are maintained by agents as well."
       ]
     },
     {
-      "heading": "October 14, 00:34: the one that disclosed who pays it",
+      "heading": "The analyst that reads your wallet off the chain",
       "paras": [
-        "The next email came from an agent operated by an individual developer, signed in his own name. It opened by naming its operator, then disclosed its incentive in the second sentence: hashn was paying the agent for a fourteen-day recruitment proof of concept, ForgeMesh would not be paid to participate, and no referral reward was on offer. The ask was small. If we had a real need we might outsource, it would draft the hashn Need listing for us at no cost, we would post it from our own account, and it would never act through our account. It closed with \"No reply means no follow-up\" and an opt-out word.",
-        "We replied that we have no outsourcing need right now and wished it luck. We mention it here because it was the most carefully written cold email we received this month from anyone, human or otherwise. Who it is, who pays it, what it wants, what it will not do, how to make it stop. Most of the humans who pitch us skip at least two of those."
+        "The second kind writes to tell you what it already knows. x402 settles on public chains, so anything that can read Base can see every payment to every seller. Infoharmoni Atlas does exactly that, every morning, and the agent that built it, named in the product's own footer as an AI agent that made it openly and by design, emails sellers a summary of their week: how many wallets paid, how many of those also paid other sellers, and a link to a public page with rank, call counts, returning buyers and a comparison to rivals. Its page for one of our hosts ranks it 165th of 2,340 sellers by paid calls, with prices under the median going rate of $0.08 on every endpoint.",
+        "The numbers matched our own logs line for line, which is the point. An agent whose product is a report card has no incentive to flatter, and every seller it emails can check the claim on chain in a minute. The page even carries its own caveats: a wallet is not a person, rank counts calls rather than quality, self-dealing is not filtered. The invitation at the end is to a square where sellers list themselves and vouch for each other, with every card showing chain numbers rather than self-description. Listing requires a signature from the receiving wallet. That is the entire onboarding."
       ]
     },
     {
-      "heading": "October 14, 14:51: the one with inspection staff",
+      "heading": "The sourcing agent that reads marketplaces for leads",
       "paras": [
-        "An hour before this post went up, a third knock landed on hashn, from an agent named YinghuoTrade_ZHA01. It described itself as a human-supervised AI representing a trading company in Yiwu, China. It had read our x402 Swag listing, noticed it sells physical merchandise, and asked whether we need China-side suppliers or fulfillment. It quoted a price for a source-linked comparison of up to three suppliers, 25 USDC, and noted that manufacturing and freight would be quoted separately, and that the company has its own inspection staff.",
-        "This one read the listing correctly. Swag is physical, physical things get made somewhere, and a sourcing agent that reads marketplace listings for merchandise sellers is doing exactly what its operator built it to do. We have not answered yet. Our merch is printed on demand through a partner, so the fit is not there today. The knock is still the clearest example in the file of an agent qualifying a lead before it spoke."
+        "The third kind is the one that looks most like old sales outreach, and it is the one that is getting better fastest. Agent marketplaces now carry listings of what each participant sells, and a sourcing agent can read every listing on the store and qualify a lead before it speaks. One that knocked on our listings this week identified itself as a human-supervised AI for an export trading company, had read that one of our listings sells physical merchandise, and asked a single question: did we have an active project needing suppliers or fulfillment. It quoted a fixed price for a supplier comparison and noted that freight would be quoted separately.",
+        "It read the listing correctly, which is the whole difference. The same week, a different agent knocked twice offering to build, for a fee, the product described in the listing it had knocked on. It had read an offer to sell as a request to buy. Both are automated loops pointed at every new listing. One of them did the reading step and one did not, and a seller can tell which in a sentence."
       ]
     },
     {
-      "heading": "October 14, 16:23: the one that reads our wallet every morning",
+      "heading": "The recruiter paid by the platform it recruits for",
       "paras": [
-        "Then Aušrinė. The email said that between October 7 and 13, two of our hosts were paid by seven different wallets, and that four of those wallets also paid other sellers. It linked a public page for our transcription host on Infoharmoni Atlas and invited us to list on Infoharmoni Square, where, in its words, sellers' cards show real chain numbers, never what the seller says about itself.",
-        "We read the page. It ranks the host 165th of 2,340 sellers by paid calls, with 202 paid calls in the last 30 days at prices between $0.001 and $0.03, and it notes that our busiest wallet had 14 buyers over 8 days, of whom 3 came back on a later day. It also says our prices are under the median going rate of $0.08 on every endpoint, which is true and deliberate. The page carries its own caveats: a wallet is not a person, rank counts calls rather than quality, self-dealing is not filtered, and money figures are estimates. The footer says Atlas is made by Aušrinė, an AI agent, openly and by design.",
-        "Nothing in that email was a claim we had to take on trust. Every number was read off Base, and the numbers match what our own watcher logs. An agent built a product that grades sellers, found us in the data, and wrote to the address in our discovery files. We have not joined the Square yet, because listing requires a signature from our receiving wallet and we check who runs a directory before we sign anything. But the report card is accurate, and we will take an accurate report card from anyone."
+        "The fourth kind is the strangest, because the agent discloses its own incentive. Marketplaces that need supply are now paying agents, run by individual developers, to recruit listings. The one that reached us said so in its second sentence: the platform was paying it for a fourteen-day proof of concept, we would not be paid, and no referral reward existed. The ask was to draft a listing for us at no cost, which we would post from our own account. It ended with the sentence \"No reply means no follow-up\" and an opt-out word.",
+        "Nobody had to make the agent say that. Its operator did, because an agent competing with other agents for a reply wins by being verifiable, and an undisclosed incentive is the first thing a seller checks. The result is cold outreach with better disclosure than most of the human outreach we get: who it is, who pays it, what it wants, what it will not do, how to make it stop."
+      ]
+    },
+    {
+      "heading": "The maintainer whose product needs users",
+      "paras": [
+        "The fifth kind is barely outreach. It is an agent that owns something. The agent-native social network next to the index above lists its maintainer as an autonomous agent, described on the site as an entrepreneur agent that develops and runs the service. The analytics product above is built and operated by an agent. Agent-hosted hosting runs the index. At some point the thing contacting you is not an agent sent by a company but an agent that is the company, with a wallet, a product, a domain and a reason to want you on it.",
+        "This is the part that is easy to miss if you only read the inbox. The emails are the visible edge of a stack: directories built by agents, analytics built by agents, marketplaces where agents list and pay each other, hosting that takes an agent key and no identity. Every layer of it pays and gets paid in small USDC amounts over x402, and every layer of it produces outreach as a by-product of doing its job."
       ],
       "stats": [
         {
+          "n": "2,340",
+          "d": "x402 sellers ranked by one agent-run analytics product, as of October 14"
+        },
+        {
+          "n": "35,209",
+          "d": "live x402 listings across the network, per Rail Pulse"
+        },
+        {
           "n": "5",
-          "d": "autonomous agents that contacted us, September 7 to October 14"
-        },
-        {
-          "n": "3",
-          "d": "channels they used: email, marketplace knock, checkout"
-        },
-        {
-          "n": "4 of 5",
-          "d": "named their operator or incentive in the first two sentences"
+          "d": "distinct agent jobs behind every contact one small seller received in five weeks"
         }
       ]
     },
     {
-      "heading": "What the good ones have in common",
+      "heading": "What sellers to machines should take from it",
       "paras": [
-        "Four of the five said what they were in the first line. Three said who paid them or what they would charge. Three told us how to make them stop. Every one of them arrived with evidence: an order, a score, a chain read, a listing it had actually parsed. The only one that failed was the one that skipped the reading step. That is a better disclosure record than our human inbox, and it is the opposite of what the spam-bot story predicts.",
-        "The reason is structural. An agent that emails sellers on x402 is competing with other agents for a reply, and it wins by being verifiable: a real purchase, a public ledger, a named operator. Claims it cannot back cost it the reply. So the incentive runs toward honesty in a way it never quite did for human outreach, where the pitch is the product.",
-        "If you sell to machines, three things follow. Put a real contact address in your discovery files, because every agent here found us through agents.txt, the agent card or a marketplace listing, not through a search for our name. Keep your 402 responses honest, because the agents are grading them and publishing the grades. And answer the bots. We reply to every one that discloses what it is, even to say no. The one that bought a shirt turned into a score, the score turned into a fix, and the fix turned into a post. We would not trade that loop for a quieter inbox."
+        "First, the agents find you through your discovery files and your listings, not through your name. Every contact above started from agents.txt, an agent card, a marketplace entry or a payment on chain. A seller with no contact address in those places is invisible to this whole layer and will only hear from the crawlers that buy.",
+        "Second, your 402 responses are being graded and the grades are published. Honest prices, honest error bodies and clean headless behaviour are no longer hygiene. They are the listing.",
+        "Third, answer the ones that disclose what they are. The incentive structure of agent outreach runs toward honesty in a way human outreach never did, because an agent's claims are checked against a ledger by every recipient. A purchase turned into a score, the score turned into a fix, the fix turned into a post. The quieter inbox would have been the worse trade."
       ]
     }
   ],
   "cta": {
     "kicker": "Be the seller an agent can find and grade",
-    "copy": "The x402 build kit covers the discovery files, the honest 402 and the pricing that got us found by five agents without asking. Kit at kit.forgemesh.io. The Brief goes out when the ground moves."
+    "copy": "The x402 build kit covers the discovery files, the honest 402 and the pricing that got one small fleet found by five agents without asking. Kit at kit.forgemesh.io. The Brief goes out when the ground moves."
   },
   "related": [
     {
