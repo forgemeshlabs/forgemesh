@@ -27,7 +27,7 @@ const PY = "python3";
 const BASE = "https://forgemesh.io";
 
 const args = process.argv.slice(2);
-const slug = args.find((a) => !a.startsWith("--"));
+const slug = args.find((a, i) => !a.startsWith("--") && !(args[i - 1] || "").match(/^--(x-text|kicker|devto-title)$/));
 const dry = args.includes("--dry");
 const skip = new Set((args.find((a) => a.startsWith("--skip="))?.slice(7) || "").split(",").filter(Boolean));
 const opt = (name) => { const i = args.indexOf(name); return i >= 0 ? args[i + 1] : undefined; };
@@ -68,7 +68,9 @@ else {
   const mdFile = path.join(os.tmpdir(), `${slug}.devto.md`);
   fs.writeFileSync(mdFile, toMarkdown());
   const tags = (post.tags || []).slice(0, 4).map((t) => t.replace(/[^a-z0-9]/gi, "")).join(",");
-  const r = run(NODE, [path.join(SITE, "scripts/crosspost-devto.mjs"), mdFile, post.title, slug, tags], SITE);
+  // --devto-title "..." lets dev.to carry an alternate headline (A/B against the blog's) — canonical still points home.
+  const devtoTitle = (args.find((a, i) => args[i - 1] === "--devto-title") || post.title);
+  const r = run(NODE, [path.join(SITE, "scripts/crosspost-devto.mjs"), mdFile, devtoTitle, slug, tags], SITE);
   const m = r.out.match(/published:\s*(\S+)/);
   if (r.status === 0 && m) { st.devto = m[1]; saveState(); summary.push(["dev.to", m[1]]); }
   else summary.push(["dev.to", dry ? "would post" : `FAILED: ${r.out.trim().slice(-200)}`]);
