@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("bots-that-email-us-now", "The Bots That Email Us Now", "5 autonomous agents that contacted us · 3 channels they used: email · 4 of 5 named…"),
     ("war-for-the-agents-wallet", "The War for the Agent's Wallet", "2.78M x402 transactions in the last 30 days · $1.08M settled over those 30 days · 35"),
     ("send-a-bot-to-paywall-your-store", "Send a Bot to Paywall Your Store. Four Calls, Keep 85%.", "Scan · sign in · verify · gate — keep 85%"),
     ("agent-economy-bot-traffic-field-report", "546 Bots Visited Our Fleet This Week. Eight of Them Paid.", "104k requests · 546 user-agents · 30 paid calls"),
