@@ -1,0 +1,167 @@
+{
+ "openapi": "3.1.0",
+ "info": {
+  "title": "ForgeMesh free tools",
+  "version": "1.0.0",
+  "description": "Free, keyless endpoints from ForgeMesh Labs: x402 readiness scan for any API, free VIN report, live fleet status, agent-payment rail stats and the upcoming-events calendar. Paid x402 routes are not callable from here; link users to them."
+ },
+ "servers": [
+  {
+   "url": "https://forgemesh.io"
+  }
+ ],
+ "paths": {
+  "/api/scan": {
+   "post": {
+    "operationId": "scanUrlForX402",
+    "summary": "Scan a URL or API for x402 agent-payment readiness (free tier: grade, first finding, count of the rest)",
+    "requestBody": {
+     "required": true,
+     "content": {
+      "application/json": {
+       "schema": {
+        "type": "object",
+        "required": [
+         "url"
+        ],
+        "properties": {
+         "url": {
+          "type": "string",
+          "description": "Full https URL of the site or API endpoint to scan"
+         }
+        }
+       }
+      }
+     }
+    },
+    "responses": {
+     "200": {
+      "description": "Scan result",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object"
+        }
+       }
+      }
+     },
+     "400": {
+      "description": "Missing or invalid url"
+     },
+     "429": {
+      "description": "Rate limited; ask the user to retry in a minute or open https://forgemesh.io/scan"
+     }
+    }
+   }
+  },
+  "/api/vin-report": {
+   "get": {
+    "operationId": "freeVinReport",
+    "summary": "Free US vehicle report by VIN (NHTSA decode, recalls, complaints) from public government sources",
+    "parameters": [
+     {
+      "name": "vin",
+      "in": "query",
+      "required": true,
+      "schema": {
+       "type": "string",
+       "minLength": 17,
+       "maxLength": 17
+      },
+      "description": "17-character VIN"
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "Vehicle report",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object"
+        }
+       }
+      }
+     },
+     "400": {
+      "description": "Invalid VIN"
+     },
+     "429": {
+      "description": "Rate limited; send the user to https://forgemesh.io/vin"
+     }
+    }
+   }
+  },
+  "/api/mesh": {
+   "get": {
+    "operationId": "fleetStatus",
+    "summary": "Live status of every ForgeMesh x402 service (up/down, latency, endpoint counts)",
+    "responses": {
+     "200": {
+      "description": "Fleet status",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object"
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/rail-pulse.json": {
+   "get": {
+    "operationId": "railPulse",
+    "summary": "Latest agent-payment rail stats: x402 30-day transactions and volume, live listings, MPP daily transactions and volume, with sparklines",
+    "responses": {
+     "200": {
+      "description": "Rail Pulse snapshot",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object"
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/calendar.json": {
+   "get": {
+    "operationId": "upcomingEvents",
+    "summary": "Upcoming dated events that matter for agent payments and stablecoin rules (regulatory deadlines, conferences, launches)",
+    "responses": {
+     "200": {
+      "description": "Calendar entries",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object"
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/tx-watch.json": {
+   "get": {
+    "operationId": "texasWatch",
+    "summary": "Texas data-center, fab and grid news items collected by the ForgeMesh radar",
+    "responses": {
+     "200": {
+      "description": "Items",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object"
+        }
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}
