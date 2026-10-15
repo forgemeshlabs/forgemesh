@@ -47,7 +47,10 @@ export default async function Page({ searchParams }: PageProps) {
     ua: (h.get('user-agent') || '').slice(0, 200),
   });
   const row = slug ? feed.rows.find((r) => r.slug === slug) || null : null;
+  // A slug arrived but no row carries it: the origin dropped out of the index, or was never in it.
+  const missing = !!(slug && !row);
   const exampleSlug = row?.slug || 'your-host-com';
+  const hostGuess = slug ? slug.replace(/-/g, '.') : '';
   const price = feed.claim.price_usdc;
 
   const body = JSON.stringify({ slug: exampleSlug, contact: 'mailto:you@example.com' }, null, 2);
@@ -64,8 +67,15 @@ export default async function Page({ searchParams }: PageProps) {
               <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">x402 Verified · claim</span>
             </div>
             <h1 className="text-4xl font-semibold leading-[1.02] tracking-tight text-slate-50 sm:text-5xl">
-              {row ? <>Claim <span className="text-blue-300">{row.name}</span></> : 'Claim your row'}
+              {row ? <>Claim <span className="text-blue-300">{row.name}</span></> : missing ? 'No row with that slug' : 'Claim your row'}
             </h1>
+            {missing ? (
+              <p className="mt-6 rounded border border-amber-500/30 bg-amber-500/[0.06] p-4 text-sm leading-7 text-slate-300">
+                Nothing in the unclaimed index is called <span className="font-mono text-slate-100">{slug}</span> right now.
+                Either the origin stopped answering a valid 402 on the last weekly crawl, or it was never in the Bazaar.{' '}
+                <a href={`/verified?q=${encodeURIComponent(hostGuess)}#unclaimed`} className="text-blue-400 hover:text-blue-300">Search the index for {hostGuess}</a>, or use one of the two ways in below.
+              </p>
+            ) : null}
             <p className="mt-6 text-base leading-8 text-slate-400 sm:text-lg">
               {row
                 ? <>This origin is in the unclaimed index at <strong className="text-slate-200">{row.score}/85</strong> with {row.routes_indexed} route{row.routes_indexed === 1 ? '' : 's'} indexed from the Bazaar. Nobody submitted it. Claiming turns it into a seller record you control.</>
@@ -137,13 +147,35 @@ ${body}`}
               </p>
             </div>
 
+            <div id="not-listed" className="rounded border border-blue-500/25 bg-blue-500/[0.06] p-5 scroll-mt-24">
+              <h2 className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">Not listed? Two ways in</h2>
+              <p className="mt-2 text-sm leading-7 text-slate-300">
+                The index only holds origins the CDP Bazaar lists. If your service is not in the Bazaar, or it is there but not in the index yet, you do not claim a row, you create one. Both paths give the same seller record, page, badge and feed entry; both are checked by the same validator.
+              </p>
+              <ol className="mt-3 list-decimal space-y-2 pl-5 text-sm leading-7 text-slate-300">
+                <li>
+                  <strong className="text-slate-100">Free: open a pull request.</strong> One JSON file in{' '}
+                  <a href={feed.free_path} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300">forgemeshlabs/x402-verified</a>{' '}
+                  with your routes, payTo and a proof transaction. CI probes you and merges on green. Humans and agents alike.
+                </li>
+                <li>
+                  <strong className="text-slate-100">$0.05: let an agent submit for you.</strong>{' '}
+                  <span className="font-mono text-slate-200">POST https://router.forgemesh.io/api/verified/submit</span> with the same fields, paid through x402 or MPP. The intake opens the pull request and it merges itself when the check passes. Schema in the{' '}
+                  <a href="https://router.forgemesh.io/openapi.json" className="text-blue-400 hover:text-blue-300">router OpenAPI</a>.
+                </li>
+              </ol>
+              <p className="mt-3 text-sm leading-7 text-slate-400">
+                Before either: run your 402 through the <a href="/scan" className="text-blue-400 hover:text-blue-300">free scanner</a>. A submission that fails validation gets its reasons at the status URL, but the fee is not refunded.
+              </p>
+            </div>
+
             <div>
               <h2 className="font-mono text-[11px] uppercase tracking-[0.2em] text-slate-500">Rules</h2>
               <ul className="mt-3 space-y-2 text-sm leading-7 text-slate-400">
                 <li>The score is never for sale. It is recomputed from protocol facts on every probe, claimed or not.</li>
                 <li>Endpoints and homepage must sit on the claimed origin. The payTo is the one the Bazaar recorded.</li>
                 <li>A claim that fails validation gets its reasons at the status URL and three automatic retries. Nothing is refunded for a failed validation, so probe your own 402 first with the <a href="/scan" className="text-blue-400 hover:text-blue-300">free scanner</a>.</li>
-                <li>Not in the index yet? Use the free pull request, or <a href="https://router.forgemesh.io/openapi.json" className="text-blue-400 hover:text-blue-300">POST /api/verified/submit</a> at $0.05 if you cannot open one.</li>
+                <li>Not in the index yet? See <a href="#not-listed" className="text-blue-400 hover:text-blue-300">the two ways in</a> above: the free pull request, or the $0.05 submit route.</li>
               </ul>
             </div>
 
