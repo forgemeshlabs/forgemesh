@@ -49,6 +49,13 @@ export default async function Page({ searchParams }: PageProps) {
                 ? <>This origin is in the unclaimed index at <strong className="text-slate-200">{row.score}/85</strong> with {row.routes_indexed} route{row.routes_indexed === 1 ? '' : 's'} indexed from the Bazaar. Nobody submitted it. Claiming turns it into a seller record you control.</>
                 : <>If your x402 service answers 402s and the Bazaar lists it, it is probably already in the <a href="/verified#unclaimed" className="text-blue-400 hover:text-blue-300">unclaimed index</a>, scored, with no contact and no badge. Claiming turns that row into a seller record you control.</>}
             </p>
+            {row ? (
+              <p className="mt-5">
+                <a href={`https://kit.forgemesh.io/claim?slug=${encodeURIComponent(row.slug)}`} className="inline-flex items-center justify-center rounded border border-white/[0.1] px-4 py-2.5 text-sm text-slate-300 transition-all hover:border-white/[0.2] hover:text-slate-100">
+                  Human with a card? Claim for ${price} at checkout →
+                </a>
+              </p>
+            ) : null}
             <p className="mt-3 text-sm leading-7 text-slate-500">
               One POST, ${price} USDC on Base through x402 or MPP, no account, no form. Listing by pull request stays{' '}
               <a href={feed.free_path} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300">free</a>; the claim buys speed and the skip of the proof-tx requirement, not points.
@@ -95,7 +102,12 @@ ${body}`}
                   <strong className="text-slate-100">Pay from the row&rsquo;s payTo wallet.</strong> The fee authorization is signed by the wallet that receives your sales, so ownership is settled on the spot. Status <span className="font-mono">queued</span>; the validator opens and merges the pull request within minutes.
                 </li>
                 <li>
-                  <strong className="text-slate-100">Or publish a token.</strong> Paid from any other wallet, the response carries a <span className="font-mono">token</span>. Put that string anywhere in your <span className="font-mono">/.well-known/x402</span> or <span className="font-mono">llms.txt</span>. The intake checks every five minutes for seven days, then proceeds. Status <span className="font-mono">pending-proof</span> until then.
+                  <strong className="text-slate-100">Or publish a token.</strong> Paid from any other wallet, the response carries a <span className="font-mono">token</span>. Put that string anywhere in your <span className="font-mono">/.well-known/x402</span>, your <span className="font-mono">llms.txt</span>, or the README (or a <span className="font-mono">.forgemesh-claim</span> file) of the GitHub repo those files link to. The intake checks every five minutes for seven days, then proceeds. Status <span className="font-mono">pending-proof</span> until then.
+                </li>
+                <li>
+                  <strong className="text-slate-100">No wallet? Pay by card.</strong> A human can pay the same $5 at{' '}
+                  <a href={`https://kit.forgemesh.io/claim${row ? `?slug=${encodeURIComponent(row.slug)}` : ''}`} className="text-blue-400 hover:text-blue-300">kit.forgemesh.io/claim</a>{' '}
+                  and gets the same token to publish. Card claims are merged by a maintainer after the payment is confirmed, so allow a day.
                 </li>
               </ol>
               <p className="mt-3 text-sm leading-7 text-slate-400">
