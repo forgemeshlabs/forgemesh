@@ -116,6 +116,62 @@ export type VerifiedPartner = {
   added_at: string;
 };
 
+export type UnclaimedRow = {
+  slug: string;
+  origin: string;
+  name: string;
+  payTo: string;
+  description?: string;
+  routes_indexed: number;
+  endpoints: VerifiedEndpoint[];
+  cheapest_usdc: string;
+  score: number;
+  score_band: ScoreBand;
+  max_score: number;
+  status: SellerStatus;
+  networks_detected?: string[];
+  manifest_ok: boolean;
+  llms_ok: boolean;
+  mpp_detected: boolean;
+  ms: number;
+  probes: number;
+  last_probe: string;
+  first_seen: string;
+  listed: boolean;
+  claim_url: string;
+  claim_price_usdc: string;
+};
+
+export type UnclaimedFeed = {
+  version: 1;
+  program: 'x402';
+  kind: 'unclaimed-index';
+  generated_at: string;
+  score_spec: string;
+  source: string;
+  note: string;
+  claim: { url: string; price_usdc: string; method: string; ownership: string[]; docs: string };
+  free_path: string;
+  list_min_score: number;
+  counts: { probed: number; payable: number; listed: number };
+  rows: UnclaimedRow[];
+};
+
+export const EMPTY_UNCLAIMED: UnclaimedFeed = {
+  version: 1,
+  program: 'x402',
+  kind: 'unclaimed-index',
+  generated_at: '',
+  score_spec: '2.0',
+  source: '',
+  note: '',
+  claim: { url: 'https://router.forgemesh.io/api/verified/claim', price_usdc: '5', method: 'POST', ownership: [], docs: 'https://router.forgemesh.io/openapi.json' },
+  free_path: 'https://github.com/forgemeshlabs/x402-verified/blob/main/CONTRIBUTING.md',
+  list_min_score: 70,
+  counts: { probed: 0, payable: 0, listed: 0 },
+  rows: [],
+};
+
 export type VerifiedFeed = {
   version: 2;
   program: 'x402';

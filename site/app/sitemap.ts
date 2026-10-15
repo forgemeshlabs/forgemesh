@@ -32,6 +32,7 @@ const STATIC_ROUTES = [
   '/mpp',
   '/new-here',
   '/verified',
+  '/verified/claim',
   '/partners',
   '/proxy',
   '/scan',
@@ -48,7 +49,7 @@ const STATIC_ROUTES = [
 ];
 
 // Non-HTML discovery surfaces we deliberately expose to AI crawlers.
-const DISCOVERY_ROUTES = ['/llms.txt', '/index.json', '/.well-known/x402', '/partners.json'];
+const DISCOVERY_ROUTES = ['/llms.txt', '/index.json', '/.well-known/x402', '/partners.json', '/unclaimed.json'];
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const POSTS = allPosts();
