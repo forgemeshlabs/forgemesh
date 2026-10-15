@@ -36,7 +36,7 @@ export function UnclaimedIndex({ rows, claimPriceUsdc }: { rows: UnclaimedRowLit
     return rows.filter((r) => {
       if (band !== 'all' && r.score_band !== band) return false;
       if (!needle) return true;
-      return r.name.includes(needle) || r.slug.includes(needle) || (r.description || '').toLowerCase().includes(needle);
+      return r.name.toLowerCase().includes(needle) || r.slug.includes(needle) || r.origin.toLowerCase().includes(needle) || (r.description || '').toLowerCase().includes(needle);
     });
   }, [rows, q, band]);
 
