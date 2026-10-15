@@ -102,7 +102,7 @@ ${body}`}
                   <strong className="text-slate-100">Pay from the row&rsquo;s payTo wallet.</strong> The fee authorization is signed by the wallet that receives your sales, so ownership is settled on the spot. Status <span className="font-mono">queued</span>; the validator opens and merges the pull request within minutes.
                 </li>
                 <li>
-                  <strong className="text-slate-100">Or publish a token.</strong> Paid from any other wallet, the response carries a <span className="font-mono">token</span>. Put that string anywhere in your <span className="font-mono">/.well-known/x402</span>, your <span className="font-mono">llms.txt</span>, or the README (or a <span className="font-mono">.forgemesh-claim</span> file) of the GitHub repo those files link to. The intake checks every five minutes for seven days, then proceeds. Status <span className="font-mono">pending-proof</span> until then.
+                  <strong className="text-slate-100">Or publish a token.</strong> Paid from any other wallet, the response carries a <span className="font-mono">token</span>. Put that string anywhere in your <span className="font-mono">/.well-known/x402</span>, your <span className="font-mono">llms.txt</span>, or the README (or a <span className="font-mono">.forgemesh-claim</span> file) of the GitHub repo your manifest declares in a <span className="font-mono">repository</span> field, whose README also names your host. The intake checks every five minutes for seven days, then proceeds. Status <span className="font-mono">pending-proof</span> until then.
                 </li>
                 <li>
                   <strong className="text-slate-100">No wallet? Pay by card.</strong> A human can pay the same $5 at{' '}
