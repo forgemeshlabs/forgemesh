@@ -1,5 +1,18 @@
 [
   {
+    "slug": "sentence-in-a-user-agent",
+    "date": "2026-10-15",
+    "title": "We Put a Sentence in a User-Agent. Four Minutes Later, Telegram Knocked.",
+    "excerpt": "Our crawler already probed 1,827 x402 origins every Monday and said nothing. Tonight we gave it one sentence to say, in the User-Agent, where only a server log would see it. Four minutes after the run ended, a Telegram link-preview fetched the URL. Somebody's log pipeline had read our bot, told a human, and nobody on either side had been in the loop. A field report on a probe that woke up an ecosystem.",
+    "image": "/content/assets/sentence-in-a-user-agent.png",
+    "tags": [
+      "x402",
+      "agents",
+      "field-report",
+      "discovery"
+    ]
+  },
+  {
     "slug": "bots-that-email-us-now",
     "date": "2026-10-14",
     "title": "The Bots That Email Us Now",

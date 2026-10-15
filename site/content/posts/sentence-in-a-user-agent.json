@@ -1,0 +1,119 @@
+{
+  "slug": "sentence-in-a-user-agent",
+  "date": "2026-10-15",
+  "title": "We Put a Sentence in a User-Agent. Four Minutes Later, Telegram Knocked.",
+  "excerpt": "Our crawler already probed 1,827 x402 origins every Monday and said nothing. Tonight we gave it one sentence to say, in the User-Agent, where only a server log would see it. Four minutes after the run ended, a Telegram link-preview fetched the URL. Somebody's log pipeline had read our bot, told a human, and nobody on either side had been in the loop. A field report on a probe that woke up an ecosystem.",
+  "description": "A weekly x402 crawler got a one-sentence message in its User-Agent. Within 40 minutes a Telegram preview, Googlebot and a human browser followed it. What that chain of automated systems looked like from both sides.",
+  "seoTitle": "A Sentence in a User-Agent Woke Up an Autonomous Ecosystem",
+  "seoDescription": "We added one sentence to a weekly x402 crawler's User-Agent. Four minutes after the run, a Telegram preview fetched the link. How log bots, crawlers and claim endpoints talk to each other without people.",
+  "twitterTitle": "We put a sentence in a User-Agent. Four minutes later, Telegram knocked.",
+  "twitterDescription": "Our crawler probes 1,827 x402 origins weekly. Tonight it carried one sentence in the User-Agent. 4 minutes after the run ended, a Telegram link-preview fetched the URL: someone's log pipeline read our bot and told a human. Nobody on either side was in the loop.",
+  "heroAlt": "A dark server room at night; one small probe of light enters through a rack, lights up a chain of machines in sequence, and a single phone on a desk at the far end glows with a notification",
+  "breadcrumb": "Field Report",
+  "tags": [
+    "x402",
+    "agents",
+    "field-report",
+    "discovery"
+  ],
+  "lede": "At 20:33 UTC tonight a cron job on our server finished a crawl it has done every week for a while: send one unpaid request to every x402 origin the Coinbase Bazaar lists, read the 402 that comes back, score it, publish the index. 1,827 origins, no humans. The only thing different about tonight's run was a sentence we had added to the User-Agent header an hour earlier, the kind of line only a server log would ever show anyone. At 20:37:19, four minutes after the run ended, Telegram's link-preview fetcher hit the URL in that sentence, twice, a tenth of a second apart. That is what Telegram does the instant a link lands in a chat. Somewhere, a server had logged our probe, something had shipped the log line to a channel, and a person had been told. Then Googlebot showed up, then one browser on Windows. Nobody on our side was watching. Nobody on theirs needed to be. This is a short field report on what a single probe set off, and on the fact that the whole chain ran itself.",
+  "sections": [
+    {
+      "heading": "The probe already existed. It just had nothing to say.",
+      "paras": [
+        "The x402 Verified program publishes an unclaimed index: every origin the Bazaar lists, probed by us on protocol facts alone and scored out of a possible 85, because a row nobody submitted has no proof transaction and no contact. The crawl behind it runs Mondays. It sends one request per endpoint expecting a 402, checks the payment envelope, the manifest, llms.txt, the response time, and writes a row. It costs the origin nothing: an unpaid request to a paid route is the handshake x402 was built for, and the answer is a few hundred bytes.",
+        "The index is useful to buying agents and useless as outreach. A row on our site does not tell the operator it exists. We had decided not to email the contacts in those manifests, because unsolicited mail to 1,600 operators is spam whatever you call it. So the index sat there, public, passive, found by whoever happened to look."
+      ],
+      "stats": [
+        {
+          "n": "1,827",
+          "d": "origins probed tonight"
+        },
+        {
+          "n": "1,669",
+          "d": "answered with a valid 402"
+        },
+        {
+          "n": "1,087",
+          "d": "scored 70 or higher and listed"
+        },
+        {
+          "n": "0",
+          "d": "extra requests added for the message"
+        }
+      ]
+    },
+    {
+      "heading": "The sentence",
+      "paras": [
+        "A crawler's User-Agent is the one place a probe can say who it is without anyone having to agree to hear it. Googlebot's carries a URL. Ours now reads: x402-verified/2.0 (+https://forgemesh.io/claim; your x402 origin is in the ForgeMesh unclaimed index, claim your row). It rides on the request we were already sending. No new traffic, no email, no form. The short link redirects to the claim guide with a source tag so we can tell an arrival that came from a log apart from one that came from anywhere else.",
+        "The bet was modest. Operators who run paid endpoints tend to read their logs, and many of them pipe the logs somewhere a human looks: a Slack channel, a Telegram group, a dashboard that pages. If even a few of them grep the line, the index stops being passive. We ran the crawl immediately rather than wait for Monday, and started a counter."
+      ]
+    },
+    {
+      "heading": "The first forty minutes",
+      "paras": [
+        "20:33:47, crawl finished and pushed the feed. 20:37:19.456, TelegramBot fetched /claim. 20:37:19.618, TelegramBot fetched the page it redirects to. Telegram unfurls a URL the moment it appears in a chat, and it follows redirects, so the pair of hits 162 milliseconds apart is the fingerprint of a link being pasted or posted. We cannot see which server's log it came from and we cannot see who was in the chat. We can see that the sentence travelled from a User-Agent header to a messaging app in under four minutes.",
+        "20:41:29, a Windows Chrome browser opened the claim guide directly, no referrer, no tag. Typed or pasted. From 20:44 onward Googlebot and GoogleOther began walking the per-origin claim pages, seven different origins in half an hour, because earlier in the evening we had turned the index from a client-side list into 28 server-rendered pages a crawler can follow. On the router, the claim endpoint took one more unpaid price lookup than it had at the start of the evening. Nobody has paid. One data point is one data point."
+      ],
+      "stats": [
+        {
+          "n": "4 min",
+          "d": "crawl end to Telegram preview"
+        },
+        {
+          "n": "162 ms",
+          "d": "between the two preview hits"
+        },
+        {
+          "n": "7",
+          "d": "claim pages Google fetched in 30 min"
+        },
+        {
+          "n": "0",
+          "d": "paid claims so far"
+        }
+      ]
+    },
+    {
+      "heading": "Count the humans in the loop. Then count the ones it needed.",
+      "paras": [
+        "Trace the chain. A cron on our box sends a request. A server somewhere answers 402 and writes a log line. A log shipper, or an alert rule, or a bot that posts anything with a URL in it, forwards the line to Telegram. Telegram's preview fetcher calls our redirect. Our page appends a row to a file. Tomorrow at 09:05 UTC another cron reads that file, the router's attribution log and the claim queue, and posts to our Discord only if a number moved. Two humans get notified in that chain, one on each end. Zero are required for it to run.",
+        "The claim path is the same shape. An operator who wants the row can POST once to the router, pay the fee in USDC from the wallet their endpoints already receive to, and ownership is settled by the signature. An intake job picks it up, opens a pull request, a CI check verifies the fee on-chain and the payer, and the merge happens on green. The page, the badge and the feed update on the next sync. We built that in the afternoon and wrote the sentence in the evening, and by the time the sentence reached a chat, the thing it pointed at could complete without us. That is what an autonomous ecosystem looks like at ground level: not one big agent, but a lot of small unattended jobs that happen to read each other's output."
+      ]
+    },
+    {
+      "heading": "What we do not know, and the line we will not cross",
+      "paras": [
+        "We do not know whether a person pasted the link or a log bot did. We do not know which origin's log it was. We do not know whether the browser at 20:41 was that person or an unrelated visitor. The counter will tell us over weeks, not hours, and if it reads zero for a month then the sentence did not work and this post was about a Telegram bot.",
+        "What we will not do is build a second bot whose only job is to carry the message. The sentence rides on a request that was going out anyway, to a route designed to answer unpaid requests cheaply, once a week. Sending extra traffic to other people's paid endpoints to advertise a directory would be the thing we complain about when it is done to us, and it would get the crawler blocked, which would break the index itself. Any operator who wants out of the crawl is one line in an exclusion file."
+      ]
+    },
+    {
+      "heading": "If it was your log",
+      "paras": [
+        "Search your access log for x402-verified/2.0. If it is there, your origin is in the index and the row is at forgemesh.io/verified with a score and no contact. The free way to own the row is a pull request to the x402-verified repository. The fast way is the claim endpoint the sentence points at. Either way the score does not change; it is recomputed from protocol facts every week whether anyone claims the row or not.",
+        "And if your log pipeline is the one that posted our User-Agent to Telegram tonight: that was a good pipeline. It did exactly what a log should do with a line that was written to be read."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "Be the origin a crawler can read",
+    "copy": "The x402 build kit covers the 402 envelope, the manifest and llms.txt that a probe scores, and the claim and listing paths. Kit at kit.forgemesh.io. The index is at forgemesh.io/verified."
+  },
+  "related": [
+    {
+      "slug": "bots-that-email-us-now",
+      "text": "The bots that email us now"
+    },
+    {
+      "slug": "first-x402-physical-order-bought-with-curl",
+      "text": "The first x402 physical order, bought with curl by an AI agent"
+    },
+    {
+      "slug": "send-a-bot-to-paywall-your-store",
+      "text": "Send a bot to paywall your store"
+    }
+  ],
+  "image": "/content/assets/sentence-in-a-user-agent.png"
+}
