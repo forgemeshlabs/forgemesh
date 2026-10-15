@@ -20,6 +20,9 @@ const https = require("https");
 const FEED_URL =
   "https://raw.githubusercontent.com/forgemeshlabs/x402-verified/main/dist/verified.json";
 const OUT_FILE = path.join(__dirname, "..", "public", "partners.json");
+const UNCLAIMED_URL =
+  "https://raw.githubusercontent.com/forgemeshlabs/x402-verified/main/dist/unclaimed.json";
+const UNCLAIMED_OUT = path.join(__dirname, "..", "public", "unclaimed.json");
 const UA = "Mozilla/5.0 (compatible; ForgeMesh-VerifiedSync/1.0; +https://forgemesh.io)";
 
 function fetchRemote(url) {
@@ -90,6 +93,19 @@ async function run() {
   console.log(
     `wrote ${feed.sellers.length} seller(s), ${feed.partners.length} partner(s) -> ${OUT_FILE}`
   );
+
+  // Unclaimed index (optional: a missing or bad feed never blocks the seller sync).
+  if (!fromPath) {
+    try {
+      const rawU = await fetchRemote(UNCLAIMED_URL);
+      const u = JSON.parse(rawU);
+      if (!u || u.version !== 1 || !Array.isArray(u.rows)) throw new Error("unclaimed feed shape");
+      writeAtomic(UNCLAIMED_OUT, JSON.stringify(u, null, 2));
+      console.log(`wrote ${u.rows.length} unclaimed row(s) -> ${UNCLAIMED_OUT}`);
+    } catch (e) {
+      console.error(`unclaimed feed skipped: ${e.message}`);
+    }
+  }
 }
 
 run().catch((e) => {

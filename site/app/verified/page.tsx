@@ -8,7 +8,8 @@ import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { VerifiedDirectory } from '@/components/VerifiedDirectory';
 import { badgeFor } from '@/lib/verified';
-import { loadVerified } from '@/lib/verified-data';
+import { loadUnclaimed, loadVerified } from '@/lib/verified-data';
+import { UnclaimedIndex, type UnclaimedRowLite } from '@/components/UnclaimedIndex';
 
 export const dynamic = 'force-dynamic';
 
@@ -37,6 +38,14 @@ export default async function Page({ searchParams }: PageProps) {
   const live = feed.sellers.filter((s) => s.status !== 'delisted');
   const delisted = feed.sellers.filter((s) => s.status === 'delisted');
   const paidCount = feed.sellers.filter((s) => s.forgemesh_paid).length;
+  const unclaimed = loadUnclaimed();
+  const unclaimedRows: UnclaimedRowLite[] = unclaimed.rows
+    .filter((r) => r.listed)
+    .map((r) => ({
+      slug: r.slug, origin: r.origin, name: r.name, description: r.description, score: r.score, score_band: r.score_band,
+      routes_indexed: r.routes_indexed, cheapest_usdc: r.cheapest_usdc, manifest_ok: r.manifest_ok, llms_ok: r.llms_ok,
+      mpp_detected: r.mpp_detected, ms: r.ms, last_probe: r.last_probe,
+    }));
 
   return (
     <>
@@ -74,7 +83,7 @@ export default async function Page({ searchParams }: PageProps) {
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 rounded border border-blue-500/40 bg-blue-500/10 px-4 py-2.5 text-sm font-medium text-slate-100 transition-all hover:border-blue-400/70 hover:bg-blue-500/20"
               >
-                Get verified →
+                Get verified (free PR) →
               </a>
               <a
                 href="https://github.com/forgemeshlabs/x402-verified"
@@ -177,6 +186,42 @@ export default async function Page({ searchParams }: PageProps) {
                 </p>
               )}
             </div>
+          </div>
+        </section>
+
+        <section id="unclaimed" className="border-t border-white/[0.06] px-6 py-10 scroll-mt-24">
+          <div className="mx-auto max-w-5xl">
+            <div className="flex flex-wrap items-baseline justify-between gap-3">
+              <h2 className="font-mono text-[11px] uppercase tracking-[0.2em] text-slate-500">
+                Unclaimed · {unclaimed.counts.listed} of {unclaimed.counts.payable} payable origins
+              </h2>
+              <a href="/unclaimed.json" className="font-mono text-xs text-blue-400 hover:text-blue-300">/unclaimed.json</a>
+            </div>
+            <p className="mt-2 max-w-3xl text-sm leading-7 text-slate-400">
+              Every x402 origin the CDP Bazaar lists, probed by ForgeMesh and scored on protocol facts alone. Nobody
+              submitted these rows. They carry no contact, no badge and no proof transaction, so the ceiling is 85.
+              Rows below {unclaimed.list_min_score} stay in the feed but not on this page.
+            </p>
+            <p className="mt-2 max-w-3xl text-sm leading-7 text-slate-400">
+              <strong className="text-slate-200">Yours?</strong> Claim it for ${unclaimed.claim.price_usdc} in one x402 call, no account:{' '}
+              <a href="/verified/claim" className="text-blue-400 hover:text-blue-300">how to claim</a>. A claim adds your
+              contact and routes, the README badge and re-probe on demand. Listing by pull request stays{' '}
+              <a href={unclaimed.free_path} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300">free</a>.
+            </p>
+            <div className="mt-5">
+              {unclaimedRows.length ? (
+                <UnclaimedIndex rows={unclaimedRows} claimPriceUsdc={unclaimed.claim.price_usdc} />
+              ) : (
+                <p className="rounded border border-white/[0.08] bg-white/[0.02] p-8 text-center text-sm text-slate-500">
+                  The unclaimed index is being rebuilt. Check back shortly.
+                </p>
+              )}
+            </div>
+            {unclaimed.generated_at ? (
+              <p className="mt-4 font-mono text-[11px] uppercase tracking-[0.12em] text-slate-600">
+                Rebuilt {unclaimed.generated_at.slice(0, 10)} · weekly · score spec {unclaimed.score_spec}
+              </p>
+            ) : null}
           </div>
         </section>
 
