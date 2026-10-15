@@ -31,6 +31,7 @@ const STATIC_ROUTES = [
   '/kronos/field-guide/preview',
   '/mpp',
   '/new-here',
+  '/verified',
   '/partners',
   '/proxy',
   '/scan',
@@ -66,7 +67,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: p.date,
     })),
     ...VIN_PROBLEMS.map((e) => ({ url: `${BASE}/vin/${e.slug}` })),
-    ...VERIFIED_SELLERS.map((s) => ({ url: `${BASE}/partners/${s.slug}` })),
+    ...VERIFIED_SELLERS.map((s) => ({ url: `${BASE}/verified/${s.slug}` })),
     ...DISCOVERY_ROUTES.map((path) => ({ url: `${BASE}${path}` })),
   ];
 }

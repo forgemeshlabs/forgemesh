@@ -27,12 +27,12 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
     metadataBase: new URL('https://forgemesh.io'),
     title: `${seller.name}: x402 Verified by ForgeMesh`,
     description: `${seller.name} — ForgeMesh Verified Score ${b.scoreText}${b.paid ? ', ForgeMesh Paid' : ''}${b.perfect ? ', Perfect' : ''}. Status: ${seller.status}. ${seller.description || ''}`.trim(),
-    alternates: { canonical: `/partners/${seller.slug}` },
+    alternates: { canonical: `/verified/${seller.slug}` },
     openGraph: {
       title: `${seller.name}: x402 Verified by ForgeMesh`,
       description: `ForgeMesh Verified Score ${b.scoreText} · status ${seller.status}`,
       type: 'website',
-      url: `https://forgemesh.io/partners/${seller.slug}`,
+      url: `https://forgemesh.io/verified/${seller.slug}`,
     },
   };
 }
@@ -299,7 +299,7 @@ export default async function Page({ params }: Params) {
           <div className="mx-auto max-w-4xl text-xs leading-6 text-slate-600">
             <p>{feed.disclaimer}</p>
             <p className="mt-2">
-              <a href="/partners" className="text-blue-400/80 hover:text-blue-300">← Back to x402 Verified</a>
+              <a href="/verified" className="text-blue-400/80 hover:text-blue-300">← Back to x402 Verified</a>
             </p>
           </div>
         </section>

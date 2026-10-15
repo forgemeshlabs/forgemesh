@@ -196,7 +196,7 @@ export function ScanTool() {
 
           {result.grade === 'A' || result.grade === 'B' ? (
             <p className="mt-4 text-sm text-slate-400">
-              Got an {result.grade}? <a href="/partners" className="text-blue-400 hover:text-blue-300">Get listed on x402 Verified →</a>
+              Got an {result.grade}? <a href="/verified" className="text-blue-400 hover:text-blue-300">Get listed on x402 Verified →</a>
             </p>
           ) : null}
 

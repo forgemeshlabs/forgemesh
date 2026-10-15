@@ -37,8 +37,8 @@ The whole fleet as data: every service, category, route count, price range, and 
 
 ## x402 Verified by ForgeMesh
 Independent ForgeMesh program that probes x402 sellers and publishes a machine-readable feed. Not an x402 Foundation or Coinbase certification, endorsement, or official program.
-- Directory: https://forgemesh.io/partners · Feed: https://forgemesh.io/partners.json
-- Seller page: https://forgemesh.io/partners/{slug} · Badge: https://forgemesh.io/badge/x402/{slug} (SVG) and /shields (shields.io JSON)
+- Directory: https://forgemesh.io/verified · Feed: https://forgemesh.io/partners.json (alias /verified.json)
+- Seller page: https://forgemesh.io/verified/{slug} · Badge: https://forgemesh.io/badge/x402/{slug} (SVG) and /shields (shields.io JSON)
 - Four independent signals, one claim each: Score 0–100 (current technical quality, recomputable from the feed); $ ForgeMesh Paid (ForgeMesh completed and verified a real x402 transaction with the seller); ★ Perfect (scores exactly 100 right now); Status active | degraded | delisted.
 - Cadence: first probe at merge, weekly reprobe Mondays 05:30 UTC keeping the last 8 runs, badge and feed refresh within 6 hours of a probe. Three consecutive failed weekly probes delist; a new PR with fresh proof relists.
 - Get listed: one PR adding sellers/{slug}.json with a Base USDC proof tx to your own payTo, per https://github.com/forgemeshlabs/x402-verified/blob/main/CONTRIBUTING.md. Agents: end the PR title with 🤖🤖🤖 for merge-on-green.
