@@ -21,11 +21,20 @@ export function loadVerified(): VerifiedFeed {
 
 /** Reads public/unclaimed.json (written by scripts/verified-sync.js from the x402-verified
  * repo's dist/unclaimed.json). Empty feed on any failure so /verified never 500s. */
+// The feed is ~2 MB; parsing it per request is the dominant cost of /verified, so the parsed
+// object is kept per process and reused until the file's mtime changes (sync rewrites it).
+let unclaimedCache: { mtimeMs: number; feed: UnclaimedFeed } | null = null;
+
 export function loadUnclaimed(): UnclaimedFeed {
   try {
-    const raw = fs.readFileSync(path.join(process.cwd(), 'public', 'unclaimed.json'), 'utf8');
-    const parsed = JSON.parse(raw);
-    if (parsed && parsed.version === 1 && Array.isArray(parsed.rows)) return parsed as UnclaimedFeed;
+    const file = path.join(process.cwd(), 'public', 'unclaimed.json');
+    const { mtimeMs } = fs.statSync(file);
+    if (unclaimedCache && unclaimedCache.mtimeMs === mtimeMs) return unclaimedCache.feed;
+    const parsed = JSON.parse(fs.readFileSync(file, 'utf8'));
+    if (parsed && parsed.version === 1 && Array.isArray(parsed.rows)) {
+      unclaimedCache = { mtimeMs, feed: parsed as UnclaimedFeed };
+      return unclaimedCache.feed;
+    }
     return EMPTY_UNCLAIMED;
   } catch {
     return EMPTY_UNCLAIMED;

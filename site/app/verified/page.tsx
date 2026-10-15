@@ -9,7 +9,7 @@ import { NavBar } from '@/components/NavBar';
 import { VerifiedDirectory } from '@/components/VerifiedDirectory';
 import { badgeFor } from '@/lib/verified';
 import { loadUnclaimed, loadVerified } from '@/lib/verified-data';
-import { UnclaimedIndex, type UnclaimedRowLite } from '@/components/UnclaimedIndex';
+import { UnclaimedIndex, parseUnclaimedQuery, type UnclaimedRowLite } from '@/components/UnclaimedIndex';
 
 export const dynamic = 'force-dynamic';
 
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
 };
 
-type PageProps = { searchParams: Promise<{ paid?: string }> };
+type PageProps = { searchParams: Promise<{ paid?: string; q?: string; band?: string; u?: string }> };
 
 export default async function Page({ searchParams }: PageProps) {
   const params = await searchParams;
@@ -39,12 +39,14 @@ export default async function Page({ searchParams }: PageProps) {
   const delisted = feed.sellers.filter((s) => s.status === 'delisted');
   const paidCount = feed.sellers.filter((s) => s.forgemesh_paid).length;
   const unclaimed = loadUnclaimed();
+  const unclaimedQuery = parseUnclaimedQuery(params);
+  // Only the 40 rows of the requested page reach the HTML; the feed stays server-side.
   const unclaimedRows: UnclaimedRowLite[] = unclaimed.rows
     .filter((r) => r.listed)
     .map((r) => ({
       slug: r.slug, origin: r.origin, name: r.name, description: r.description, score: r.score, score_band: r.score_band,
-      routes_indexed: r.routes_indexed, cheapest_usdc: r.cheapest_usdc, manifest_ok: r.manifest_ok, llms_ok: r.llms_ok,
-      mpp_detected: r.mpp_detected, ms: r.ms, last_probe: r.last_probe,
+      max_score: r.max_score || 85, routes_indexed: r.routes_indexed, cheapest_usdc: r.cheapest_usdc, manifest_ok: r.manifest_ok,
+      llms_ok: r.llms_ok, mpp_detected: r.mpp_detected, ms: r.ms, last_probe: r.last_probe,
     }));
 
   return (
@@ -210,7 +212,7 @@ export default async function Page({ searchParams }: PageProps) {
             </p>
             <div className="mt-5">
               {unclaimedRows.length ? (
-                <UnclaimedIndex rows={unclaimedRows} claimPriceUsdc={unclaimed.claim.price_usdc} />
+                <UnclaimedIndex rows={unclaimedRows} query={unclaimedQuery} claimPriceUsdc={unclaimed.claim.price_usdc} />
               ) : (
                 <p className="rounded border border-white/[0.08] bg-white/[0.02] p-8 text-center text-sm text-slate-500">
                   The unclaimed index is being rebuilt. Check back shortly.
