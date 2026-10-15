@@ -75,9 +75,9 @@ The manual steps below remain the reference for what the script does and for Lan
       Write a markdown adaptation first (plain prose, code fences fine; strip JSX-isms).
 - [ ] **X/@forgemeshlabs** — thread or single post; hook + link. (x-twitter-growth skill for format.)
       UTM convention (feeds the umami UTM/attribution reports): append
-      `?utm_source=<x|pinterest|devto|discord>&utm_medium=social&utm_campaign=<slug>` to the blog URL
+      `?utm_source=<x|pinterest|devto>&utm_medium=social&utm_campaign=<slug>` to the blog URL
       on every channel where the link is clickable. post-social.js already tags the FB link automatically.
-- [ ] **Discord** — drop link in the community + kit-buyers channels
+- [ ] ~~Discord~~ — REMOVED from the blast (operator, 2026-10-15). Do not drop blog links in Discord channels; #fm-brief digest mentions are fine.
 - [ ] **Instagram + Facebook Page** (@forgemesh / ForgeMesh Page) — ONE COMMAND via Graph API:
       1. add the post to `scripts/make-pins.py` POSTS (also feeds the IG card), run it AND
          `python3 scripts/make-ig-cards.py` — cards write to `content/assets/pins/` and are
