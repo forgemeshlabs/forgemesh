@@ -16,6 +16,9 @@ const nextConfig: NextConfig = {
       // Short link printed in the unclaimed crawl's User-Agent. Operators who find it in their
       // access logs land on the claim guide tagged src=probe (logged to data/claim-hits.jsonl).
       { source: "/claim", destination: "/verified/claim?src=probe", permanent: false },
+      // Per-origin form of the same link: the crawl sends /claim/<slug> so the operator lands on
+      // their own row and the arrival log names the origin whose log produced the visit.
+      { source: "/claim/:slug", destination: "/verified/claim?slug=:slug&src=probe", permanent: false },
     ];
   },
   async rewrites() {
