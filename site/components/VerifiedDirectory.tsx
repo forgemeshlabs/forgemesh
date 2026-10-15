@@ -62,7 +62,7 @@ function SellerRow({ seller }: { seller: VerifiedSeller }) {
   return (
     <li className="rounded border border-white/[0.06] bg-white/[0.02] p-4 transition-all hover:border-blue-500/30 sm:p-5">
       <div className="flex flex-wrap items-center gap-x-3 gap-y-2">
-        <a href={`/partners/${seller.slug}`} className="text-base font-semibold text-slate-100 hover:text-blue-300">
+        <a href={`/verified/${seller.slug}`} className="text-base font-semibold text-slate-100 hover:text-blue-300">
           {seller.name}
         </a>
         <ScoreChip seller={seller} />

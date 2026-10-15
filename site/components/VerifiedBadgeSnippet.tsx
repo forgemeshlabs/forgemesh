@@ -1,6 +1,6 @@
 'use client';
 
-// Copy-to-clipboard badge markdown for a seller's /partners/<slug> page, same pattern as
+// Copy-to-clipboard badge markdown for a seller's /verified/<slug> page, same pattern as
 // ShareBar's copy-link button. Shows a live preview of the canonical SVG badge and offers
 // the shields.io endpoint JSON as the zero-infra fallback.
 import { useState } from 'react';
@@ -10,7 +10,7 @@ export function VerifiedBadgeSnippet({ slug }: { slug: string }) {
   const [copied, setCopied] = useState<'md' | 'shields' | null>(null);
 
   const badgeUrl = `https://forgemesh.io/badge/x402/${slug}`;
-  const pageUrl = `https://forgemesh.io/partners/${slug}`;
+  const pageUrl = `https://forgemesh.io/verified/${slug}`;
   const shieldsUrl = `https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/forgemeshlabs/x402-verified/main/badges/${slug}.json`;
   const markdown = `[![x402 Verified by ForgeMesh](${badgeUrl})](${pageUrl})`;
 
