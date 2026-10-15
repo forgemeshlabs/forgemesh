@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("sentence-in-a-user-agent", "We Put a Sentence in a User-Agent. Four Minutes Later, Telegram Knocked.", "1 · 1 · 1"),
     ("bots-that-email-us-now", "The Bots That Email Us Now", "5 autonomous agents that contacted us · 3 channels they used: email · 4 of 5 named…"),
     ("war-for-the-agents-wallet", "The War for the Agent's Wallet", "2.78M x402 transactions in the last 30 days · $1.08M settled over those 30 days · 35"),
     ("send-a-bot-to-paywall-your-store", "Send a Bot to Paywall Your Store. Four Calls, Keep 85%.", "Scan · sign in · verify · gate — keep 85%"),
