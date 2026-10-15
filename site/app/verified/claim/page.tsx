@@ -2,6 +2,9 @@
 // an agent that landed here from the feed or the 402 body: one POST, one fee, two ways to prove
 // ownership, nothing else. The route itself lives on router.forgemesh.io.
 import type { Metadata } from 'next';
+import { headers } from 'next/headers';
+import fs from 'fs';
+import path from 'path';
 import { Footer } from '@/components/Footer';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
@@ -18,12 +21,31 @@ export const metadata: Metadata = {
   alternates: { canonical: '/verified/claim' },
 };
 
-type PageProps = { searchParams: Promise<{ slug?: string }> };
+type PageProps = { searchParams: Promise<{ slug?: string; src?: string }> };
+
+// Every arrival on the claim guide is appended to data/claim-hits.jsonl (no IP, no cookie):
+// src=probe means the visitor followed the link printed in the crawl's User-Agent, i.e. an
+// operator who read their own access log. scripts/claim-funnel.js reads this for #fm-brief.
+const HITS = path.join(process.cwd(), 'data', 'claim-hits.jsonl');
+function logHit(entry: Record<string, unknown>) {
+  try {
+    fs.appendFileSync(HITS, JSON.stringify({ ts: new Date().toISOString(), ...entry }) + '\n');
+  } catch {
+    /* logging never blocks the page */
+  }
+}
 
 export default async function Page({ searchParams }: PageProps) {
   const params = await searchParams;
   const feed = loadUnclaimed();
   const slug = params?.slug && isSlug(params.slug) ? params.slug : null;
+  const h = await headers();
+  logHit({
+    src: typeof params?.src === 'string' ? params.src.slice(0, 32) : null,
+    slug,
+    ref: h.get('referer') || null,
+    ua: (h.get('user-agent') || '').slice(0, 200),
+  });
   const row = slug ? feed.rows.find((r) => r.slug === slug) || null : null;
   const exampleSlug = row?.slug || 'your-host-com';
   const price = feed.claim.price_usdc;

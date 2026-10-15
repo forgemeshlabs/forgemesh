@@ -13,6 +13,9 @@ const nextConfig: NextConfig = {
       // x402 Verified moved from /partners/<slug> to /verified/<slug> on 2026-10-15; /partners now
       // lists real ecosystem partners only. Badge paths (/badge/x402/<slug>) are unchanged.
       { source: "/partners/:slug", destination: "/verified/:slug", permanent: true },
+      // Short link printed in the unclaimed crawl's User-Agent. Operators who find it in their
+      // access logs land on the claim guide tagged src=probe (logged to data/claim-hits.jsonl).
+      { source: "/claim", destination: "/verified/claim?src=probe", permanent: false },
     ];
   },
   async rewrites() {
