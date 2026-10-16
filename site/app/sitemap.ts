@@ -45,6 +45,7 @@ const STATIC_ROUTES = [
   '/vin',
   '/vin/problems',
   '/watch',
+  '/wordpress',
   '/x402',
 ];
 
