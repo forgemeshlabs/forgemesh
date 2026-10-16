@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("metamask-agent-wallet-rules-x402", "MetaMask: Who Sets the Rules?", "Agent Wallet · x402"),
     ("wordpress-pay-per-crawl-plugin", "Your WordPress site gets 175,000 bot visits a day. Now they pay.", "Free WordPress plugin"),
     ("sentence-in-a-user-agent", "We Put a Sentence in a User-Agent. Four Minutes Later, Telegram Knocked.", "1 · 1 · 1"),
     ("bots-that-email-us-now", "The Bots That Email Us Now", "5 autonomous agents that contacted us · 3 channels they used: email · 4 of 5 named…"),
