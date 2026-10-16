@@ -1,0 +1,88 @@
+{
+  "slug": "wordpress-pay-per-crawl-plugin",
+  "date": "2026-10-16",
+  "title": "Your WordPress site gets 175,000 bot visits a day. Now they pay.",
+  "excerpt": "Someone on TikTok asked for a WordPress plugin. Our own site sees about 175,000 bot hits a day, and humans never see any of it. So we built ForgeMesh Pay-per-Crawl: people and real search engines read free, AI crawlers get an HTTP 402 and pay in USDC. Free and GPL, with a $4.99 Pro tier.",
+  "description": "ForgeMesh Pay-per-Crawl is a free GPL WordPress plugin that lets humans and search engines read free while AI crawlers pay USDC on Base per page, straight to your wallet.",
+  "seoTitle": "WordPress Plugin to Charge AI Crawlers | ForgeMesh",
+  "seoDescription": "Free WordPress plugin: don't block AI crawlers, bill them. Humans and Google read free; GPTBot, ClaudeBot and scripts pay USDC per page to your wallet.",
+  "twitterTitle": "Don't block AI crawlers. Bill them.",
+  "twitterDescription": "A free WordPress plugin: people and search engines read free, AI crawlers get a 402 and pay USDC on Base, straight to your wallet. No account, no custody.",
+  "heroAlt": "A glowing toll gate on a dark data highway where a line of small robot crawlers pay at the gate while ordinary people walk through a free side lane",
+  "breadcrumb": "Product Launch",
+  "tags": [
+    "wordpress",
+    "ai-crawlers",
+    "x402",
+    "publishing"
+  ],
+  "lede": "Someone on TikTok asked us for a WordPress plugin. We had the thing they wanted running on our own site already: about 175,000 bot hits a day, from search indexers, LLM training crawlers, autonomous agents and discovery bots. Humans never see any of it, and neither does your analytics. The usual answer is to block the bots. We think the better one is to send them an invoice. ForgeMesh Pay-per-Crawl is a free, GPL WordPress plugin that does exactly that, and it is live today.",
+  "sections": [
+    {
+      "heading": "Don't block AI crawlers. Bill them.",
+      "paras": [
+        "Blocking GPTBot, ClaudeBot, PerplexityBot, Bytespider or CCBot in robots.txt is a request, not a wall, and it earns you nothing. Letting them in for free means a model company reads your archive and you pay the bandwidth. There is a third option that the web has had a status code for since the 1990s: HTTP 402, Payment Required.",
+        "With the plugin on, **humans and reverse-DNS-verified search engines read your site free**, exactly as before. AI crawlers, SEO crawlers and scripts get a 402 with a payment challenge instead of the page. They pay and retry, and the page is served only after the payment facilitator returns a transaction hash."
+      ]
+    },
+    {
+      "heading": "What the bot actually sees",
+      "paras": [
+        "The challenge uses x402, an open standard that lets a server ask for a small stablecoin payment inside a normal HTTP response. The plugin sends an x402 challenge (v2 header plus v1 body, so older and newer clients both understand it) and an MPP challenge alongside it. The bot pays USDC on Base and repeats the request with proof of payment.",
+        "We did not just write that down. During the build we ran real settlements on Base through the PayAI facilitator, one for each protocol version, $0.01 each. The v1 transaction is 0xe764d2affaca73fa225aecd383aff5969b5d9ff4e8035933b7561983f23ba7f5 and the v2 transaction is 0xc9755334a10b2370b2925492490fb8a3c17dbaf2f6e8661f647bb1f13cb781c2. Both are public on Basescan."
+      ],
+      "stats": [
+        {
+          "n": "~175k",
+          "d": "bot hits a day on our own site, none of them visible to humans"
+        },
+        {
+          "n": "$0.01",
+          "d": "each of the two real settlements on Base during the build, v1 and v2"
+        },
+        {
+          "n": "100%",
+          "d": "of every payment goes to your wallet, no custody, no cut"
+        }
+      ]
+    },
+    {
+      "heading": "You keep all of it",
+      "paras": [
+        "Payments go straight to your wallet. There is no ForgeMesh account to create, no API key, and nothing is held in custody, in the free plugin or the paid tier. PayAI is the default facilitator, and you can point the plugin at any facilitator URL you prefer.",
+        "If you are not ready to charge anyone, switch on **monitor mode**. It shows what each bot would have paid before you charge a cent, so you can decide on a price with real traffic in front of you."
+      ]
+    },
+    {
+      "heading": "Know who is crawling you",
+      "paras": [
+        "The plugin adds bot analytics to wp-admin: who showed up, what class of bot it is, hit counts, sources, the paths they wanted, revenue, and a settlements table with Basescan links. Everything exports to CSV.",
+        "It also serves the files agents look for: /.well-known/x402.json, llms.txt and agents.txt, so a crawler that wants to pay can find out how."
+      ]
+    },
+    {
+      "heading": "Pro: $4.99 a month, up to 5 sites",
+      "paras": [
+        "The plugin is complete without Pro. Pro adds a hosted layer at proxy.forgemesh.io/wp: a hosted dashboard, a Monday digest, daily paywall monitoring with alerts if your paywall stops answering, and a crawler-intelligence feed that currently knows 104 agents against the 85 shipped in the plugin. Pro sites can also appear in a paid-sites directory at proxy.forgemesh.io/wp/sites with a badge for your site.",
+        "Payments never pass through ForgeMesh in either tier. Pro is for visibility and monitoring, not for moving your money."
+      ]
+    },
+    {
+      "heading": "Install it",
+      "paras": [
+        "The plugin is GPL, version 0.2.0, source at [github.com/forgemeshlabs/forgemesh-pay-per-crawl](https://github.com/forgemeshlabs/forgemesh-pay-per-crawl). The zip is at [the latest release](https://github.com/forgemeshlabs/forgemesh-pay-per-crawl/releases/latest/download/forgemesh-pay-per-crawl-0.2.0.zip) and the full walkthrough lives at [forgemesh.io/wordpress](https://forgemesh.io/wordpress). Start in monitor mode for a week, read the numbers, then turn billing on."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "Bill the bots, keep the readers",
+    "copy": "Get ForgeMesh Pay-per-Crawl free at forgemesh.io/wordpress. Pro ($4.99/mo, up to 5 sites) is at proxy.forgemesh.io/wp."
+  },
+  "related": [
+    {
+      "slug": "agentic-commerce-explained",
+      "text": "Agentic commerce, explained: what it is and who's building it"
+    }
+  ],
+  "image": "/content/assets/wordpress-pay-per-crawl-plugin.png"
+}
