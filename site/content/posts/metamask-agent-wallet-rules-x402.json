@@ -1,0 +1,74 @@
+{
+  "slug": "metamask-agent-wallet-rules-x402",
+  "date": "2026-10-16",
+  "title": "MetaMask Gives Agents a Wallet. Who Sets the Rules?",
+  "excerpt": "MetaMask’s October 9 message promises automated trades inside your rules. We read the docs: what the wallet can do, where approval still matters, and what its x402 support means for builders selling APIs.",
+  "description": "A practical reading of MetaMask Agent Wallet: wallet modes, user approval, spending controls, and the opportunity for x402 API sellers.",
+  "seoTitle": "MetaMask Agent Wallet: Who Sets the Rules?",
+  "seoDescription": "MetaMask Agent Wallet explained: trading modes, spending controls, x402 API payments, and what builders should verify before agents start spending.",
+  "twitterTitle": "MetaMask Gives Agents a Wallet. Who Sets the Rules?",
+  "twitterDescription": "MetaMask’s Agent Wallet can pay for APIs over x402. We read the rules behind the pitch: wallet modes, approval, spending controls, and what API sellers should test.",
+  "heroAlt": "A robotic hand holds a wallet inside a transparent frame with adjustable controls, connected to service tiles beyond the frame.",
+  "breadcrumb": "Agent Wallets",
+  "tags": [
+    "ai-agents",
+    "x402",
+    "wallets",
+    "security"
+  ],
+  "lede": "“Automate trades, inside your rules.” That was the headline on a MetaMask message we received on October 9. It is a compelling promise: give an agent useful work, decide what it is allowed to do, and stop approving every small step yourself. We opened the documentation to see how that promise translates into actual controls. The detail that caught our attention was the wallet’s ability to pay for APIs.",
+  "sections": [
+    {
+      "heading": "A wallet your coding agent can use",
+      "paras": [
+        "MetaMask’s [Agent Wallet overview](https://docs.metamask.io/agent-wallet/) describes a command-line wallet that agents can use for transfers, swaps, bridging, perpetuals, prediction markets, yield vaults, and paid HTTP resources. That puts spending alongside the other tools an agent uses to complete a task.",
+        "The [quickstart](https://docs.metamask.io/agent-wallet/quickstart/) lists Claude Code, Codex, Cursor, OpenClaw, and other agents that support skills. Setup pairs the wallet CLI with instructions that teach the agent how to use it. You choose the sign-in method and wallet configuration during onboarding.",
+        "A date distinction matters here. October 9 is the date of the message we received; MetaMask’s [launch article](https://metamask.io/news/introducing-metamask-agent-wallet) is dated August 6. We are examining the current documentation, checked October 16, rather than claiming the wallet first launched last week."
+      ]
+    },
+    {
+      "heading": "The rules depend on the mode you choose",
+      "paras": [
+        "The [architecture documentation](https://docs.metamask.io/agent-wallet/reference/architecture/) describes two wallet modes. Server-wallet keeps keys in a trusted execution environment on the service side. Bring-your-own-wallet uses a mnemonic you supply for local key control. Server-wallet operations can wait on an approval request, so an automated workflow needs to handle pending work.",
+        "Within server-wallet, [Guard Mode](https://docs.metamask.io/agent-wallet/reference/trading-modes/) enforces network, address, and token-recipient allowlists plus a rolling outflow limit. Actions outside those policies require approval. Beast Mode removes those allowlists and the outflow limit while retaining threat checks. The trading-mode policies apply specifically to server-wallet.",
+        "That choice deserves more attention than the installation command. “Use my rules” becomes meaningful when you can name the allowed recipients, identify the spending boundary, and explain what happens when an action falls outside it. A prompt is a useful expression of intent; the configured policy is what you need to inspect."
+      ]
+    },
+    {
+      "heading": "The x402 path gives API sellers something concrete to test",
+      "paras": [
+        "MetaMask’s [x402 guide](https://docs.metamask.io/agent-wallet/guides/pay-for-apis-x402/) documents a Python helper bundled with its agent skill. It inspects a server’s payment offer, presents the details for approval, obtains a signed authorization through the wallet, and retries the request with payment attached. It is a separate helper, not an mm subcommand.",
+        "The documented compatibility is specific: x402 v1 and v2, the exact scheme, supported EVM networks, and EIP-3009 authorization. Permit2, non-EVM offers, and offers missing the token’s EIP-712 domain name or version are excluded. Sellers should check the actual offer their endpoint emits.",
+        "For us, this is the interesting commercial possibility. A builder with a useful paid API has another documented buyer workflow to support. The work starts with one endpoint, a clear price, and a result worth purchasing. Wallet availability can remove a payment obstacle; customer demand still has to be earned."
+      ]
+    },
+    {
+      "heading": "A spending limit needs a defined scope",
+      "paras": [
+        "The [outflow policy](https://docs.metamask.io/agent-wallet/reference/outflow-policy/) says signature operations are currently excluded from its outflow calculation. It also warns that tracking can be imprecise for transactions submitted outside the backend. Because x402 uses a signed authorization, we would verify its treatment before relying on the displayed daily limit as an API-purchase budget.",
+        "**That is a documentation-based integration question, not a demonstrated exploit.** We have not tested MetaMask’s budget enforcement or completed an end-to-end purchase with this client for this article. The practical response is to give the purchasing application its own explicit budget and record which requests it has already paid for.",
+        "The [x402 helper’s retry behavior](https://docs.metamask.io/agent-wallet/guides/pay-for-apis-x402/#idempotency) makes that record useful: rerunning pay creates a fresh debit authorization. Protection against replaying one signature does not make repeated purchases of the same resource free. A timeout needs investigation before another purchase attempt."
+      ]
+    },
+    {
+      "heading": "Where we would start",
+      "paras": [
+        "We would validate one inexpensive endpoint before building a larger integration. First inspect its payment offer without spending. Then, with an approved test budget, check the purchase, the settlement receipt, and the returned resource. Test interruption and retry handling separately. Those are our proposed acceptance checks, not results we are claiming today.",
+        "MetaMask also supports [plugins that add wallet commands](https://docs.metamask.io/agent-wallet/plugins/build-a-plugin/). A service could eventually package its workflow as a command, with declared capabilities that the user reviews at installation. We would earn that extra integration work by first showing that the basic buying experience is useful.",
+        "The bigger opportunity is straightforward: agents need useful things to buy. Clear documentation, an understandable price, and dependable delivery make a service easier to choose. A wallet expands what an agent can do; a good service gives it a reason to act.",
+        "Building a service for agents? Start with the [free ForgeMesh agent-readiness scan](https://forgemesh.io/scan), then test the exact wallet client you want to support. This article is an educational review of documentation, not investment advice or a recommendation to delegate trading funds."
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "war-for-the-agents-wallet",
+      "text": "The war for the agent’s wallet"
+    },
+    {
+      "slug": "x402-v1-v2-client-split-your-endpoint-may-be-unpayable",
+      "text": "The x402 client split and endpoint compatibility"
+    }
+  ],
+  "image": "/content/assets/metamask-agent-wallet-rules-x402.png"
+}
