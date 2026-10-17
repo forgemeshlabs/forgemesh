@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("pay-per-crawl-every-stack", "One gate for the whole web: Pay-per-Crawl now ships for ten stacks", "10 stacks · 10 real settlements on Base · 100% to your wallet"),
     ("wordpress-plugin-page", "Don't block AI crawlers. Bill them.", "Free WordPress plugin · GPL"),
     ("wordpress-pay-per-crawl-pro", "Keep 100%. Paid to your wallet.", "Pay-per-Crawl Pro · $4.99/mo"),
     ("metamask-agent-wallet-rules-x402", "MetaMask: Who Sets the Rules?", "Agent Wallet · x402"),
