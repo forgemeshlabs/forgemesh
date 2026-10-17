@@ -78,6 +78,13 @@ export default async function Page({ searchParams }: PageProps) {
               keeps the last eight runs. Badges and the feed refresh within six hours of every probe.
             </p>
             <p className="mt-4 max-w-2xl text-sm leading-7 text-slate-500">{feed.disclaimer}</p>
+            <p className="mt-4 max-w-2xl text-sm leading-7 text-slate-500">
+              Run a WordPress site? The free{' '}
+              <a href="/wordpress" className="text-slate-300 underline decoration-blue-500/50 underline-offset-2 hover:text-white">
+                Pay-per-Crawl plugin
+              </a>{' '}
+              charges AI crawlers per page, and you keep 100%.
+            </p>
             <div className="mt-6 flex flex-wrap gap-3">
               <a
                 href="https://github.com/forgemeshlabs/x402-verified/blob/main/CONTRIBUTING.md"

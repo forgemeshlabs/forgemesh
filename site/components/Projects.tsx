@@ -32,6 +32,15 @@ const projects = [
     page: '/proxy',
   },
   {
+    name: 'Pay-per-Crawl for WordPress',
+    surface: 'WordPress plugin',
+    description:
+      'Charge AI crawlers per page. WordPress plugin, free, you keep 100%.',
+    tags: ['WordPress', 'x402', 'AI crawlers', 'USDC', 'Base', 'free'],
+    status: 'active',
+    page: '/wordpress',
+  },
+  {
     name: 'ForgeMesh Library',
     surface: 'Hosted x402 API',
     description:
