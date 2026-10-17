@@ -25,7 +25,7 @@ def hero_for(slug):
             return p
     raise FileNotFoundError(f"no hero for {slug} in content/assets or public/blog")
 
-FOOTER = {"vin-checker": ("forgemesh.io/vin  ·  link in bio", "Free VIN check · official U.S. government safety data")}
+FOOTER = {"wordpress-pay-per-crawl-pro": ("proxy.forgemesh.io/wp  ·  link in bio", "Dashboard, weekly digest, alerts · up to 5 sites"), "wordpress-plugin-page": ("forgemesh.io/wordpress  ·  link in bio", "Humans read free · AI crawlers pay USDC per page"), "vin-checker": ("forgemesh.io/vin  ·  link in bio", "Free VIN check · official U.S. government safety data")}
 
 for slug, title, kicker in POSTS:
     img = Image.new("RGB", (W, H), BG)

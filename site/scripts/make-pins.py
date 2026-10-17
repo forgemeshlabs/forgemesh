@@ -2,6 +2,8 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("wordpress-plugin-page", "Don't block AI crawlers. Bill them.", "Free WordPress plugin · GPL"),
+    ("wordpress-pay-per-crawl-pro", "Keep 100%. Paid to your wallet.", "Pay-per-Crawl Pro · $4.99/mo"),
     ("metamask-agent-wallet-rules-x402", "MetaMask: Who Sets the Rules?", "Agent Wallet · x402"),
     ("wordpress-pay-per-crawl-plugin", "Your WordPress site gets 175,000 bot visits a day. Now they pay.", "Free WordPress plugin"),
     ("sentence-in-a-user-agent", "We Put a Sentence in a User-Agent. Four Minutes Later, Telegram Knocked.", "1 · 1 · 1"),
@@ -55,7 +57,7 @@ POSTS = [
 ]
 
 # Tool pages (not blog posts) get their own footer line instead of /blog.
-FOOTER = {"vin-checker": ("forgemesh.io/vin", "Free VIN check · official U.S. government safety data")}
+FOOTER = {"wordpress-plugin-page": ("forgemesh.io/wordpress", "Humans read free · AI crawlers pay USDC per page"), "wordpress-pay-per-crawl-pro": ("proxy.forgemesh.io/wp", "Dashboard, weekly digest, alerts · up to 5 sites"), "vin-checker": ("forgemesh.io/vin", "Free VIN check · official U.S. government safety data")}
 
 W,H = 1000,1500
 BG=(5,5,9); BLUE=(96,165,250); SLATE=(148,163,184); WHITE=(241,245,249)
