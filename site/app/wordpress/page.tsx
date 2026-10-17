@@ -4,8 +4,9 @@ import { Footer } from '@/components/Footer';
 import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
+import { EDITIONS, WP_VERSION, WP_ZIP } from '@/lib/pay-per-crawl-editions';
 
-const ZIP = 'https://github.com/forgemeshlabs/forgemesh-pay-per-crawl/releases/latest/download/forgemesh-pay-per-crawl-0.2.0.zip';
+const ZIP = WP_ZIP;
 const REPO = 'https://github.com/forgemeshlabs/forgemesh-pay-per-crawl';
 const RELEASES = 'https://github.com/forgemeshlabs/forgemesh-pay-per-crawl/releases';
 const PRO = 'https://proxy.forgemesh.io/wp';
@@ -63,6 +64,7 @@ const structuredData = {
           },
         },
       ],
+      softwareVersion: WP_VERSION,
       description:
         'WordPress plugin that charges AI crawlers and bots per page with x402 USDC micropayments on Base, paid directly to the site owner wallet. Humans and verified search engines read free.',
       publisher: { '@type': 'Organization', name: 'ForgeMesh Labs', url: 'https://forgemesh.io' },
@@ -135,7 +137,7 @@ export default function WordPressPage() {
                 href={ZIP}
                 className="inline-flex items-center justify-center gap-2 rounded border border-blue-500/40 bg-blue-500/10 px-5 py-3 text-sm font-medium text-slate-100 transition-all hover:border-blue-400/70 hover:bg-blue-500/20"
               >
-                <Download className="h-4 w-4" aria-hidden /> Download plugin (free, v0.2.0)
+                <Download className="h-4 w-4" aria-hidden /> Download plugin (free, v{WP_VERSION})
               </a>
               <a href={REPO} className={btn}>
                 Source on GitHub <ArrowRight className="h-4 w-4" aria-hidden />
@@ -262,6 +264,28 @@ export default function WordPressPage() {
               </a>
               <a href="https://proxy.forgemesh.io/wp/sites" className={btn}>Paid-sites directory</a>
             </div>
+
+            <h2 className="mt-14 text-2xl font-semibold tracking-tight text-slate-50">Not on WordPress?</h2>
+            <p className="mt-4 text-base leading-8 text-slate-400">
+              The same paywall ships for other stacks, with the same crawler catalog, 402 shape and
+              wallet-direct settlement. Full list on the{' '}
+              <a href="/plugins" className="text-blue-400 hover:text-blue-300">plugins page</a>.
+            </p>
+            <ul className="mt-4 grid gap-3 sm:grid-cols-2">
+              {EDITIONS.filter((e) => e.key !== 'wordpress').map((e) => (
+                <li key={e.key} className="rounded border border-white/[0.06] bg-white/[0.02] px-4 py-3 text-sm">
+                  <div className="flex items-baseline justify-between gap-2">
+                    <span className="font-medium text-slate-100">{e.name}</span>
+                    <span className="font-mono text-xs text-slate-500">v{e.version}</span>
+                  </div>
+                  <p className="mt-1 text-slate-400">{e.stack}</p>
+                  <p className="mt-2 flex flex-wrap gap-x-3">
+                    <a href={e.registry.url} className="text-blue-400 hover:text-blue-300">{e.registry.label}</a>
+                    <a href={e.repo} className="text-blue-400 hover:text-blue-300">GitHub</a>
+                  </p>
+                </li>
+              ))}
+            </ul>
 
             <div className="mt-10 flex flex-col gap-3 sm:flex-row">
               <a

@@ -32,13 +32,13 @@ const projects = [
     page: '/proxy',
   },
   {
-    name: 'Pay-per-Crawl for WordPress',
-    surface: 'WordPress plugin',
+    name: 'Pay-per-Crawl plugins',
+    surface: 'WordPress · Python · JavaScript · Go · PHP',
     description:
-      'Charge AI crawlers per page. WordPress plugin, free, you keep 100%.',
-    tags: ['WordPress', 'x402', 'AI crawlers', 'USDC', 'Base', 'free'],
+      'Charge AI crawlers per page. Free WordPress plugin plus middleware for Python, JavaScript, Go and PHP. You keep 100%.',
+    tags: ['WordPress', 'Python', 'JavaScript', 'Go', 'PHP', 'x402', 'AI crawlers', 'USDC', 'Base', 'free'],
     status: 'active',
-    page: '/wordpress',
+    page: '/plugins',
   },
   {
     name: 'ForgeMesh Library',
