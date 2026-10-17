@@ -329,6 +329,13 @@ export default function ProxyPage() {
               worth charging for with a price each, and gates them in one call. Anything that already
               answers 402 is skipped, never double-charged. An agent can run the whole thing for you.
             </p>
+            <p className="mt-3 max-w-2xl text-sm leading-7 text-slate-500">
+              On WordPress? Use the{' '}
+              <a href="/wordpress" className="text-slate-300 underline decoration-blue-500/50 underline-offset-2 hover:text-white">
+                Pay-per-Crawl plugin
+              </a>{' '}
+              instead: free, and you keep 100%.
+            </p>
             <ol className="mt-8 grid gap-4 sm:grid-cols-2">
               {botSteps.map((step, i) => (
                 <li
