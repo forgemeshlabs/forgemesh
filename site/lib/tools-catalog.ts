@@ -34,7 +34,7 @@ export const TOOL_GROUPS: ToolGroup[] = [
       { name: 'Congress Trades', href: '/trades', what: 'Every US House stock trade from STOCK Act filings, updated daily', cost: 'free', for: ['humans'], featured: true },
       { name: 'Endpoint scanner', href: '/scan', what: 'Grade any x402 / MPP endpoint: payable, envelope valid, dual-stack', cost: 'free', for: ['builders'], featured: true },
       { name: 'Pay-per-Crawl for WordPress', href: '/wordpress', what: 'Free plugin that charges AI crawlers per page in USDC on Base; you keep 100%', cost: 'free', for: ['humans', 'builders'], featured: true },
-      { name: 'Pay-per-Crawl for Python, JS, Go, PHP', href: '/plugins', what: 'Same crawler paywall as middleware: FastAPI/Django, Workers/Next/Node, Caddy/Traefik, Laravel/Drupal', cost: 'free', for: ['builders'], featured: true },
+      { name: 'Pay-per-Crawl for Python, JS, Vercel, Go, PHP', href: '/plugins', what: 'Same crawler paywall as middleware: FastAPI/Django, Workers/Next/Vercel/Node, Caddy/Traefik, Laravel/Drupal', cost: 'free', for: ['builders'], featured: true },
       { name: 'Seller pre-flight checklist', href: '/checklist', what: 'Everything to verify before listing a paid endpoint', cost: 'free', for: ['builders'], featured: true },
       { name: 'Seller kits + guides', href: 'https://kit.forgemesh.io', what: 'Free x402 checklist, Stack Basics course, build kits', cost: 'free', for: ['builders'], featured: true },
       { name: 'Calendar', href: '/calendar', what: 'Dates that matter in the agent economy, with .ics feed', cost: 'free', for: ['humans', 'builders'] },

@@ -39,7 +39,7 @@ export const EDITIONS: Edition[] = [
   {
     key: 'javascript',
     name: 'JavaScript',
-    stack: 'Cloudflare Workers, Next.js, Node (Express, Fastify, Hono, Koa), nginx njs',
+    stack: 'Cloudflare Workers, Next.js, Vercel, Node (Express, Fastify, Hono, Koa), nginx njs',
     version: '0.1.1',
     install: 'npm i @forgemeshlabs/pay-per-crawl-node',
     registry: { label: 'npm', url: 'https://www.npmjs.com/package/@forgemeshlabs/pay-per-crawl-core' },
@@ -49,6 +49,16 @@ export const EDITIONS: Edition[] = [
       { label: '-next', url: 'https://www.npmjs.com/package/@forgemeshlabs/pay-per-crawl-next' },
       { label: '-node', url: 'https://www.npmjs.com/package/@forgemeshlabs/pay-per-crawl-node' },
     ],
+  },
+  {
+    key: 'vercel',
+    name: 'Vercel',
+    stack: 'Edge Middleware for any non-Next project on Vercel: static sites, Astro, SvelteKit, Vite, Nuxt, Remix',
+    version: '0.1.0',
+    install: 'npm i @forgemeshlabs/pay-per-crawl-vercel',
+    registry: { label: 'npm', url: 'https://www.npmjs.com/package/@forgemeshlabs/pay-per-crawl-vercel' },
+    repo: 'https://github.com/forgemeshlabs/pay-per-crawl-js/tree/main/packages/vercel',
+    note: 'One middleware.js at the project root. Next.js on Vercel uses the JavaScript edition\'s -next package.',
   },
   {
     key: 'go',
