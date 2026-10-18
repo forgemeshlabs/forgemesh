@@ -33,9 +33,9 @@ const projects = [
   },
   {
     name: 'Pay-per-Crawl plugins',
-    surface: 'WordPress · Python · JavaScript · Go · PHP',
+    surface: 'WordPress · Python · JavaScript · Vercel · Go · PHP',
     description:
-      'Charge AI crawlers per page. Free WordPress plugin plus middleware for Python, JavaScript, Go and PHP. You keep 100%.',
+      'Charge AI crawlers per page. Free WordPress plugin plus middleware for Python, JavaScript, Vercel, Go and PHP. You keep 100%.',
     tags: ['WordPress', 'Python', 'JavaScript', 'Go', 'PHP', 'x402', 'AI crawlers', 'USDC', 'Base', 'free'],
     status: 'active',
     page: '/plugins',
