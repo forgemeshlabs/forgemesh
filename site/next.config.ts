@@ -8,6 +8,7 @@ const nextConfig: NextConfig = {
   // The Agent Shop moved to its own site on 2026-09-24.
   async redirects() {
     return [
+      { source: "/wall", destination: "/botboard", permanent: true },
       { source: "/shop", destination: "https://tikbotshop.com/", permanent: true },
       { source: "/api/shop/catalog", destination: "https://tikbotshop.com/api/catalog", permanent: true },
       // x402 Verified moved from /partners/<slug> to /verified/<slug> on 2026-10-15; /partners now
