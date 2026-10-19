@@ -5,12 +5,6 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { EDITIONS, WP_VERSION, WP_ZIP } from '@/lib/pay-per-crawl-editions';
-import { GUIDES } from '@/lib/pay-per-crawl-guides';
-
-const GUIDE_LINKS: Record<string, string[]> = {
-  wordpress: [], python: ['python'], javascript: ['nextjs', 'cloudflare-workers', 'node', 'nginx'], vercel: ['vercel'], go: ['go'], php: ['php'],
-};
-
 const PRO = 'https://proxy.forgemesh.io/wp';
 const WALLET = '0x13C3C28c64cc9d60eEb8a675F3fe27eBC6a4Cd09';
 
@@ -33,7 +27,7 @@ from forgemesh_pay_per_crawl.asgi import PayPerCrawlMiddleware
 app.add_middleware(PayPerCrawlMiddleware,
     config=Config(pay_to="0xYourWalletOnBase", mode="gate", price_usd=0.01))`,
   },
-  javascript: {
+  nextjs: {
     lang: 'Next.js middleware.js',
     code: `import { createPayPerCrawl } from "@forgemeshlabs/pay-per-crawl-next";
 
@@ -59,7 +53,7 @@ if ($result->respond) { /* send 402 and stop */ }`,
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
-  title: 'Pay-per-Crawl plugins: WordPress, Python, JavaScript, Go, PHP | ForgeMesh Labs',
+  title: 'Pay-per-Crawl plugins: WordPress, Next.js, Vercel, Workers, Node, nginx, Python, Go, PHP | ForgeMesh Labs',
   description:
     'Let AI crawlers pay for your pages. Free, open-source Pay-per-Crawl plugins for WordPress, Python, JavaScript, Go and PHP charge bots per page in USDC on Base, straight to your wallet. Humans read free. You keep 100%.',
   keywords: [
@@ -270,28 +264,17 @@ export default function PluginsPage() {
                     )}
                     <div className="mt-4 flex flex-wrap gap-2">
                       <a
-                        href={e.registry.url}
+                        href={e.guide}
                         className="inline-flex items-center gap-2 rounded border border-blue-500/40 bg-blue-500/10 px-4 py-2 text-sm font-medium text-slate-100 transition-all hover:border-blue-400/70 hover:bg-blue-500/20"
                       >
-                        {e.registry.label} <ArrowRight className="h-4 w-4" aria-hidden />
+                        Setup guide <ArrowRight className="h-4 w-4" aria-hidden />
                       </a>
+                      <a href={e.registry.url} className={btnSm}>{e.registry.label}</a>
                       <a href={e.repo} className={btnSm}>Source on GitHub</a>
                       {e.extra?.map((x) => (
                         <a key={x.url} href={x.url} className={btnSm}>{x.label}</a>
                       ))}
                     </div>
-                    {(GUIDE_LINKS[e.key] || []).length > 0 && (
-                      <p className="mt-4 flex flex-wrap items-center gap-2 text-sm">
-                        <span className="text-slate-500">Setup guide:</span>
-                        {(GUIDE_LINKS[e.key] || []).map((slug) => {
-                          const g = GUIDES.find((x) => x.slug === slug);
-                          return g ? <a key={slug} href={`/plugins/${slug}`} className="text-blue-400 hover:text-blue-300">{g.name}</a> : null;
-                        })}
-                      </p>
-                    )}
-                    {e.key === 'wordpress' && (
-                      <p className="mt-4 text-sm"><span className="text-slate-500">Setup guide: </span><a href="/wordpress" className="text-blue-400 hover:text-blue-300">WordPress</a></p>
-                    )}
                     {e.note && <p className="mt-3 text-sm text-slate-500">{e.note}</p>}
                   </li>
                 );
