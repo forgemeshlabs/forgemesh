@@ -95,6 +95,28 @@ export default function Page() {
           </div>
         </section>
 
+        <section className="border-t border-white/[0.06] px-6 py-10">
+          <div className="mx-auto max-w-5xl">
+            <h2 className="font-mono text-[11px] uppercase tracking-[0.2em] text-slate-500">Listed on</h2>
+            <p className="mt-2 max-w-2xl text-sm leading-7 text-slate-400">
+              Directories that carry a ForgeMesh listing. Not partners: a listing is not an integration.
+            </p>
+            <ul className="mt-4 flex flex-wrap items-center gap-4">
+              <li>
+                <a href="https://launchnest.io/p/forgemesh-pay-per-crawl" target="_blank" rel="noopener">
+                  <img
+                    src="https://launchnest.io/badge/forgemesh-pay-per-crawl.svg?variant=listed"
+                    alt="ForgeMesh Pay-per-Crawl on LaunchNest"
+                    width={220}
+                    height={56}
+                    loading="lazy"
+                  />
+                </a>
+              </li>
+            </ul>
+          </div>
+        </section>
+
         <Footer />
       </main>
     </>
