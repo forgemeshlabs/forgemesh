@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T12:10:00Z",
+  "updatedAt": "2026-10-17T22:05:00Z",
   "events": [
     {
       "id": "eu-ai-act-gpai-enforcement",
@@ -279,6 +279,57 @@
       "post": "/blog/fall-2026-case-file"
     },
     {
+      "id": "commodity-futures-trading-commission-further-definition-of-s",
+      "date": "2026-10-19",
+      "title": "Commodity Futures Trading Commission: Further Definition of “Swap” To Exclude Casino-Style Gambling Products — takes effect",
+      "tag": "policy",
+      "what": "Rule 2026-21376, published 2026-10-19. The Commodity Futures Trading Commission (\"Commission\" or \"CFTC\") is adopting an interim final rule (\"Interim Final Rule\") to codify its longstanding position that casino-style gambling products, including wagers placed on sportsbooks and casino games, are excluded from the \"swap\" definition.",
+      "why": "An effective date is when the rulebook actually changes for anyone settling, custodying, or pricing on these rails.",
+      "link": "https://www.federalregister.gov/documents/2026/10/19/2026-21376/further-definition-of-swap-to-exclude-casino-style-gambling-products"
+    },
+    {
+      "id": "gartner-agentic-hype-cycle-2026",
+      "date": "2026-10-20",
+      "title": "Gartner's first Hype Cycle for Agentic AI — symposium session",
+      "tag": "conference",
+      "what": "Gartner IT Symposium/Xpo in Orlando (Oct 19–22) presents the inaugural Hype Cycle for Agentic AI on October 20.",
+      "why": "Sets the tone for a week of 'agents: overhyped or not' coverage that buyers and CFOs will quote. Expect the slide to be screenshot everywhere.",
+      "link": "https://www.gartner.com/en/conferences/na/symposium-us/sessions/detail/4967028-Hype-Cycle-for-Agentic-AI-2026-Inaugural-Edition"
+    },
+    {
+      "id": "agntcon-mcpcon-na-2026",
+      "date": "2026-10-22",
+      "endDate": "2026-10-23",
+      "title": "AGNTCon + MCPCon North America (San Jose)",
+      "tag": "conference",
+      "what": "Linux Foundation's Agentic AI Foundation event on agent architectures and the Model Context Protocol.",
+      "why": "The x402 Foundation lives in the same Linux Foundation family. The most likely stage for x402 spec, foundation or MCP news this month.",
+      "link": "https://www.beri.net/events/agntcon-mcpcon-north-america-2026"
+    },
+    {
+      "id": "pap-v01-spec",
+      "date": "2026-10-31",
+      "title": "Personal Agent Protocol v0.1 spec — promised 'later in October' (date TBC)",
+      "tag": "rails",
+      "what": "Sierra and Meta's OAuth-based standard for how personal agents sign in to businesses; founding partners include Stripe, Shopify and Walmart. Payments are out of scope for v0.1.",
+      "why": "First spec text will show whether the payments extension is real or a placeholder. Amazon, OpenAI and Anthropic are not on the partner list.",
+      "link": "https://x.com/stripe/status/2107533255646089319"
+    },
+    {
+      "id": "wordpress-org-submission",
+      "date": "2026-10-17",
+      "title": "Pay-per-Crawl for WordPress — wordpress.org plugin directory submission",
+      "tag": "grid",
+      "what": "The free Pay-per-Crawl plugin is submitted to the wordpress.org plugin directory for review. Review queues take days to weeks.",
+      "why": "Approval puts the plugin in front of every WordPress admin searching for ways to charge AI crawlers; until then it installs from the /wordpress page.",
+      "link": "https://forgemesh.io/wordpress",
+      "track": true,
+      "status": "live",
+      "result": "Submitted Oct 17: wordpress.org confirmed receipt 13:59 UTC ('Successful Plugin Submission — ForgeMesh Pay-per-Crawl'); directory review pending.",
+      "time": "Submitted Oct 17 · review pending",
+      "updatedAt": "2026-10-17T22:05:00Z"
+    },
+    {
       "id": "grant-tory-burch-2027",
       "date": "2026-11-11",
       "title": "Tory Burch Fellows 2027 deadline",
@@ -295,6 +346,15 @@
       "what": "Two courses or events completed by this date unlock the $10k grant application (10 winners a month, June–December).",
       "why": "Apply once and the application stays in every remaining monthly pool.",
       "link": "https://digitalready.verizonwireless.com/funding/details"
+    },
+    {
+      "id": "securities-and-exchange-commission-adviser-and-regulated-fun",
+      "date": "2026-12-07",
+      "title": "Securities and Exchange Commission: Adviser and Regulated Fund Custody Rules; Crypto Custody Rules — comment period closes",
+      "tag": "policy",
+      "what": "Proposed Rule 2026-20466, published 2026-10-06. The Securities and Exchange Commission (the \"Commission\" or the \"SEC\") is proposing new custody rules under the Investment Company Act of 1940 (the \"Investment Company Act\") and amendments to related reporting and recordkeeping requirements to address how regulated investment companies may custody crypto securities and similar investments, and amendments to the custody rule and related reporting a",
+      "why": "Comment dockets are the last cheap moment to shape a rule before it hardens — and the earliest signal of who is lobbying whom.",
+      "link": "https://www.federalregister.gov/documents/2026/10/06/2026-20466/adviser-and-regulated-fund-custody-rules-crypto-custody-rules"
     },
     {
       "id": "ercot-reports-due",

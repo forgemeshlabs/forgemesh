@@ -105,7 +105,7 @@ export default function Page() {
               <li>
                 <a href="https://launchnest.io/p/forgemesh-pay-per-crawl" target="_blank" rel="noopener">
                   <img
-                    src="https://launchnest.io/badge/forgemesh-pay-per-crawl.svg?variant=listed"
+                    src="https://launchnest.io/badge/forgemesh-pay-per-crawl.svg?variant=featured"
                     alt="ForgeMesh Pay-per-Crawl on LaunchNest"
                     width={220}
                     height={56}
