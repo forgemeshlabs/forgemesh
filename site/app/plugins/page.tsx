@@ -5,6 +5,11 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { EDITIONS, WP_VERSION, WP_ZIP } from '@/lib/pay-per-crawl-editions';
+import { GUIDES } from '@/lib/pay-per-crawl-guides';
+
+const GUIDE_LINKS: Record<string, string[]> = {
+  wordpress: [], python: ['python'], javascript: ['nextjs', 'cloudflare-workers', 'node', 'nginx'], vercel: ['vercel'], go: ['go'], php: ['php'],
+};
 
 const PRO = 'https://proxy.forgemesh.io/wp';
 const WALLET = '0x13C3C28c64cc9d60eEb8a675F3fe27eBC6a4Cd09';
@@ -275,6 +280,18 @@ export default function PluginsPage() {
                         <a key={x.url} href={x.url} className={btnSm}>{x.label}</a>
                       ))}
                     </div>
+                    {(GUIDE_LINKS[e.key] || []).length > 0 && (
+                      <p className="mt-4 flex flex-wrap items-center gap-2 text-sm">
+                        <span className="text-slate-500">Setup guide:</span>
+                        {(GUIDE_LINKS[e.key] || []).map((slug) => {
+                          const g = GUIDES.find((x) => x.slug === slug);
+                          return g ? <a key={slug} href={`/plugins/${slug}`} className="text-blue-400 hover:text-blue-300">{g.name}</a> : null;
+                        })}
+                      </p>
+                    )}
+                    {e.key === 'wordpress' && (
+                      <p className="mt-4 text-sm"><span className="text-slate-500">Setup guide: </span><a href="/wordpress" className="text-blue-400 hover:text-blue-300">WordPress</a></p>
+                    )}
                     {e.note && <p className="mt-3 text-sm text-slate-500">{e.note}</p>}
                   </li>
                 );
