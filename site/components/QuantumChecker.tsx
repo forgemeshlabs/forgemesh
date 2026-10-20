@@ -22,12 +22,11 @@ export function QuantumChecker({ initial = '' }: { initial?: string }) {
     const d = domain.trim().toLowerCase().replace(/^https?:\/\//, '').split('/')[0];
     if (!d) return;
     setLoading(true); setError(null); setReport(null);
-    track('quantum-check', { domain: d });
     try {
       const res = await fetch(`/api/quantum-check?domain=${encodeURIComponent(d)}`);
       const j = await res.json();
       if (!res.ok) throw new Error(j.error || `HTTP ${res.status}`);
-      setReport(j);
+      setReport(j); track('quantum-check', { verdict: j.verdict, pq: j.findings?.hybrid_pq ? 1 : 0 });
     } catch (err) { setError((err as Error).message); } finally { setLoading(false); }
   }
 

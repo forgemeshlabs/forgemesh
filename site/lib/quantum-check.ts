@@ -4,29 +4,48 @@
 // Read-only: four TLS handshakes, one HEAD, one CAA lookup. Nothing stored.
 import tls from 'node:tls';
 import dns from 'node:dns/promises';
+import net from 'node:net';
 
 const T = 8000;
+export class QuantumInputError extends Error {}
 type HS = { ok: boolean; ms?: number; protocol?: string | null; cipher?: string | null; group?: string | null; alpn?: string | null; authorized?: boolean; error?: string; cert?: { subject: string | null; issuer: string | null; key: string | null; valid_to: string | null } };
 
-function handshake(host: string, port: number, opts: tls.ConnectionOptions): Promise<HS> {
+const coarse = (e: NodeJS.ErrnoException) => (/timeout/i.test(e.code || e.message || '') ? 'timeout' : /HANDSHAKE|ALERT|SSL|TLS|PROTOCOL/i.test(e.code || e.message || '') ? 'handshake_refused' : 'unreachable');
+
+function handshake(host: string, addr: string, port: number, opts: tls.ConnectionOptions): Promise<HS> {
   return new Promise((resolve) => {
     const t0 = Date.now(); let done = false; const fin = (v: HS) => { if (!done) { done = true; resolve(v); } };
     let s: tls.TLSSocket;
     try {
-      s = tls.connect({ host, port, servername: host, rejectUnauthorized: false, timeout: T, ...opts }, () => {
-        const c = s.getPeerCertificate(false) as Record<string, unknown>;
+      s = tls.connect({ host: addr, port, servername: host, rejectUnauthorized: false, timeout: T, ...opts }, () => {
+        const c = s.getPeerCertificate(false) as unknown as Record<string, unknown>;
         const eph = s.getEphemeralKeyInfo() as { name?: string };
         fin({ ok: true, ms: Date.now() - t0, protocol: s.getProtocol(), cipher: s.getCipher()?.name ?? null, group: eph?.name ?? null, alpn: s.alpnProtocol || null, authorized: s.authorized,
           cert: { subject: ((c.subject as Record<string, string>) || {}).CN ?? null, issuer: ((c.issuer as Record<string, string>) || {}).O ?? null, key: (c.asn1Curve as string) || (c.bits ? `rsa-${c.bits}` : null), valid_to: (c.valid_to as string) ?? null } });
         s.end();
       });
-    } catch (e) { return fin({ ok: false, error: (e as Error).message }); }
-    s.on('error', (e: NodeJS.ErrnoException) => fin({ ok: false, ms: Date.now() - t0, error: e.code || e.message }));
+    } catch (e) { return fin({ ok: false, error: coarse(e as NodeJS.ErrnoException) }); }
+    s.on('error', (e: NodeJS.ErrnoException) => fin({ ok: false, ms: Date.now() - t0, error: coarse(e) }));
     s.on('timeout', () => { s.destroy(); fin({ ok: false, error: 'timeout' }); });
   });
 }
 
-function isPrivate(host: string) { return /^(localhost|.*\.(local|internal|test|localhost)|\d+\.\d+\.\d+\.\d+|\[?[0-9a-f:]+\]?)$/i.test(host); }
+function isPrivateIp(ip: string): boolean {
+  const low = ip.toLowerCase();
+  if (low === '::' || low === '::1') return true;
+  const mapped = /^::ffff:(\d+\.\d+\.\d+\.\d+)$/.exec(low);
+  if (mapped) return isPrivateIp(mapped[1]);
+  if (net.isIPv6(low)) return low.startsWith('fe80') || low.startsWith('fc') || low.startsWith('fd');
+  const p = low.split('.').map(Number);
+  return p[0] === 10 || p[0] === 127 || p[0] === 0 || (p[0] === 172 && p[1] >= 16 && p[1] <= 31) || (p[0] === 192 && p[1] === 168) || (p[0] === 169 && p[1] === 254) || (p[0] === 100 && p[1] >= 64 && p[1] <= 127);
+}
+function isPrivate(host: string) { return net.isIP(host) !== 0 || /^(localhost|.*\.(local|internal|test|localhost))$/i.test(host); }
+async function resolvePublic(host: string): Promise<string> {
+  const all = await dns.lookup(host, { all: true, verbatim: true }).catch(() => [] as { address: string }[]);
+  if (!all.length) throw new QuantumInputError('That hostname does not resolve');
+  if (all.some((a) => isPrivateIp(a.address))) throw new QuantumInputError('That hostname resolves to a private address');
+  return all[0].address;
+}
 
 export type Check = { check: string; points: number; max: number; ok: boolean; note?: string };
 export type QuantumReport = {
@@ -37,7 +56,6 @@ export type QuantumReport = {
   cached?: boolean;
 };
 
-export class QuantumInputError extends Error {}
 
 export function cleanDomain(raw: string): string {
   const host = String(raw || '').trim().toLowerCase().replace(/^https?:\/\//, '').split('/')[0].split(':')[0];
@@ -50,20 +68,22 @@ export function cached(domain: string): QuantumReport | null { const c = cache.g
 
 export async function runQuantumCheck(domain: string): Promise<QuantumReport> {
   const t0 = Date.now(); const port = 443;
+  const addr = await resolvePublic(domain);
   const [hybrid, pure, classical, tls12, head, caa, x402] = await Promise.all([
-    handshake(domain, port, { ecdhCurve: 'X25519MLKEM768', minVersion: 'TLSv1.3', maxVersion: 'TLSv1.3' }),
-    handshake(domain, port, { ecdhCurve: 'MLKEM768', minVersion: 'TLSv1.3', maxVersion: 'TLSv1.3' }),
-    handshake(domain, port, { ecdhCurve: 'X25519:prime256v1:secp384r1', ALPNProtocols: ['h2', 'http/1.1'] }),
-    handshake(domain, port, { minVersion: 'TLSv1.2', maxVersion: 'TLSv1.2' }),
+    handshake(domain, addr, port, { ecdhCurve: 'X25519MLKEM768', minVersion: 'TLSv1.3', maxVersion: 'TLSv1.3' }),
+    handshake(domain, addr, port, { ecdhCurve: 'MLKEM768', minVersion: 'TLSv1.3', maxVersion: 'TLSv1.3' }),
+    handshake(domain, addr, port, { ecdhCurve: 'X25519:prime256v1:secp384r1', ALPNProtocols: ['h2', 'http/1.1'] }),
+    handshake(domain, addr, port, { minVersion: 'TLSv1.2', maxVersion: 'TLSv1.2' }),
     fetch(`https://${domain}/`, { method: 'HEAD', redirect: 'manual', signal: AbortSignal.timeout(T) }).then((r) => ({ hsts: r.headers.get('strict-transport-security') })).catch(() => ({ hsts: null })),
     dns.resolveCaa(domain).then((r) => Array.isArray(r) && r.length > 0).catch(() => false),
-    fetch(`https://${domain}/.well-known/x402.json`, { method: 'GET', signal: AbortSignal.timeout(T) }).then((r) => r.status === 200).catch(() => false),
+    fetch(`https://${domain}/.well-known/x402.json`, { method: 'GET', redirect: 'manual', signal: AbortSignal.timeout(T) }).then((r) => r.status === 200).catch(() => false),
   ]);
-  if (!classical.ok && !hybrid.ok) throw new QuantumInputError(`No TLS handshake with ${domain} (${classical.error || 'unreachable'})`);
-  const cert = classical.cert || hybrid.cert || null;
+  if (!classical.ok && !hybrid.ok) throw new QuantumInputError(`${domain} did not complete a TLS handshake`);
+  const rawCert = classical.cert || hybrid.cert || null;
+  const cert = rawCert && classical.authorized !== true ? { ...rawCert, subject: null, issuer: null } : rawCert;
   const validTo = cert?.valid_to ? Date.parse(cert.valid_to) : NaN;
   const daysLeft = Number.isFinite(validTo) ? Math.floor((validTo - Date.now()) / 86400000) : null;
-  const hstsAge = head.hsts ? Number((/max-age\s*=\s*(\d+)/i.exec(head.hsts) || [])[1] || 0) : null;
+  const hstsAge = (() => { if (!head.hsts) return null; let m: number | null = null; for (const t of head.hsts.split(';').map((x) => x.trim())) { const r = /^max-age="?(\d+)"?$/i.exec(t); if (r) m = Number(r[1]); } return m == null || m === 0 ? null : m; })();
 
   const checks: Check[] = []; const recs: string[] = []; let score = 0;
   const add = (points: number, max: number, check: string, ok: boolean, note?: string) => { checks.push({ check, points, max, ok, note }); score += points; };
@@ -75,9 +95,9 @@ export async function runQuantumCheck(domain: string): Promise<QuantumReport> {
   const hstsPts = hstsAge == null ? 0 : hstsAge >= 15552000 ? 10 : 5;
   add(hstsPts, 10, 'HSTS with max-age of 180 days or more', hstsPts === 10);
   if (hstsPts < 10) recs.push(hstsAge == null ? 'Add Strict-Transport-Security so clients never fall back to plaintext before the handshake.' : 'Raise HSTS max-age to at least 15552000 (180 days) and add includeSubDomains.');
-  const certOk = classical.ok && daysLeft != null && daysLeft > 14;
-  add(certOk ? 10 : 0, 10, 'Certificate valid with more than 14 days left', certOk);
-  if (!certOk) recs.push('Certificate missing, expired or expiring within 14 days. Automate renewal so the authentication leg never lapses.');
+  const certOk = classical.ok && classical.authorized === true && daysLeft != null && daysLeft > 14;
+  add(certOk ? 10 : 0, 10, 'Certificate chain trusted with more than 14 days left', certOk);
+  if (!certOk) recs.push('Certificate chain not trusted by a public root, expired, or expiring within 14 days. Automate renewal so the authentication leg never lapses.');
   add(caa ? 5 : 0, 5, 'CAA record restricts which CAs may issue', caa);
   if (!caa) recs.push('Publish a CAA record naming your certificate authority. It limits mis-issuance, which matters more as CAs move to post-quantum certificates.');
   checks.push({ check: 'Post-quantum certificate signature (ML-DSA)', points: 0, max: 10, ok: false, note: 'Not yet deployable in the public web PKI. Reserved.' });
