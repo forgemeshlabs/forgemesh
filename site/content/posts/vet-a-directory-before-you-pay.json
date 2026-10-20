@@ -1,0 +1,77 @@
+{
+  "slug": "vet-a-directory-before-you-pay",
+  "date": "2026-10-20",
+  "title": "Nine people asked us to pay for a listing this week. We turned the vetting into a $0.05 API call.",
+  "excerpt": "After the Pay-per-Crawl launch the inbox filled with featured listings, DR 70 badges and a Google News article for $147. We checked each one with four open sources, kept the spend at zero, and shipped the checks as a paid route on the SEO Authority API.",
+  "description": "How we vet pay-to-list directory and publication pitches with four free sources, and the new placement-vet route and MCP tool that runs the same checks for $0.05.",
+  "seoTitle": "Vet a directory listing pitch before you pay",
+  "seoDescription": "Four free checks for paid directory and sponsored-article pitches: domain age, Tranco rank, Google News RSS, link dilution. Now a $0.05 x402 API call.",
+  "twitterTitle": "Vet a listing pitch before you pay",
+  "twitterDescription": "Nine pay-to-list pitches in a week. Four open-source checks, zero spend, and now one $0.05 API call that scores any directory or publication before you pay.",
+  "heroAlt": "A fan of glossy invitation envelopes with small price tags on a dark desk, seen through a magnifying glass that reveals a glowing scorecard with a gauge and tiny red flags",
+  "breadcrumb": "Field Report",
+  "tags": [
+    "seo",
+    "x402",
+    "distribution",
+    "directories"
+  ],
+  "lede": "Three days after Pay-per-Crawl hit Show HN, nine separate people had written to hello@ with the same shape of offer: a featured listing for $49 a month, a \"DR 70 dofollow backlink\" if we embed their badge, a branded article in \"an authorized Google News source\" for $147, a Reddit package, a sponsor slot in a newsletter. None of them were scams. We paid none of them. This is how we checked, what we found, and why the checking is now a route you can pay for.",
+  "sections": [
+    {
+      "heading": "Four sources, no subscription",
+      "paras": [
+        "Our Ahrefs plan refused every domain-rating call that morning, which turned out to be useful: it forced us to vet with sources anyone can hit. **RDAP** (rdap.org) gives the registration date and registrar. **Tranco** (tranco-list.eu) gives a popularity rank, and \"not in the top 1M\" is itself a finding. **Google News RSS** answers the question \"are you really a Google News source\" with one query, `news.google.com/rss/search?q=site:theirdomain`, which returns the items Google News actually indexes. And the seller's **own pages** show what their links carry: `rel=\"sponsored\"`, `rel=\"nofollow\"`, or nothing at all, and how many hundred other outbound links share the page.",
+        "That is enough to sort every pitch into three piles: free with nothing asked of your site, free but you must embed a badge, and paid."
+      ],
+      "stats": [
+        {
+          "n": "9",
+          "d": "pay-to-list pitches in 72 hours"
+        },
+        {
+          "n": "$0",
+          "d": "spent on placements"
+        },
+        {
+          "n": "3",
+          "d": "free listings taken, no badge"
+        }
+      ]
+    },
+    {
+      "heading": "What the checks found",
+      "paras": [
+        "Two directories were registered in the last 60 days and had no Tranco rank at all. One had a respectable rank and a domain from 2007, but its listing pages carry on the order of 600,000 outbound links, so a free row there is fine and a paid one is not. Two \"free\" tiers never publish unless you put their badge on your site, which is a reciprocal-link scheme with a nicer name.",
+        "The publication was the interesting one. It is a real Google News source: the RSS query returned 98 items in 30 days, and the sample paid article they sent us is in Google News. They write the article themselves from a brief, roughly 40 to 50 pieces a day under eight bylines. The sample's link to the customer was a plain followed link with no sponsored label, on a page that says it is not sponsored content. That is the seller's policy problem, not the buyer's, but it is also why we would never buy the $99 keyword-anchor add-on. A brand-name anchor from a news-indexed page is the lowest-risk form of paid link there is, and the only one we would consider.",
+        "The decision rule we ended up with fits in one sentence. **Free with nothing asked: submit. Free with a badge: no. Paid: only when the asset outlives the payment and you were going to write the piece anyway.**"
+      ]
+    },
+    {
+      "heading": "The vetting is now a route",
+      "paras": [
+        "After the third pitch we were running the same four lookups by hand, so we made it a paid call on the SEO Authority API. `POST https://seo.forgemesh.io/v1/placement-vet` takes `{\"domain\": \"theirdomain.com\", \"sample_url\": \"https://theirdomain.com/one-of-their-listings\"}` and answers in about half a second with a 0 to 100 score, a verdict (worth a free listing, free only, skip), the red flags, the positives, and every source block with where it came from: registration, Tranco, Google News with the 30-day count and sample headlines, and link statistics for the homepage and the sample page, including how many outbound links are followed, nofollow or sponsored, and whether the copy sells placements, asks for a badge or claims a DR it cannot show.",
+        "It costs $0.05 USDC on Base over x402 or MPP, no account, no key. The same tool is `vet_placement` in the [SEO Authority MCP server](https://github.com/forgemeshlabs/seo-authority-mcp), so an agent handling your inbox can score a pitch before it reaches you. The publication above scored 80: real domain, real news index, sells placements. The two new directories scored under 40.",
+        "We proved the route the way we prove every route here: unpaid POST, GET and HEAD all answer 402 on both rails, garbage payment headers never reach the handler, and one real settlement went through from an independent wallet before we wrote this post. Forty tests, all green."
+      ]
+    },
+    {
+      "heading": "What we are doing with the pitches",
+      "paras": [
+        "Three free listings went in with no badge. The badge-gated ones stay unpublished. The Reddit package and the $49-a-month directory got a polite no. The $79 standard article at the Google News publication is the one we are still weighing, with a brand anchor to the plugins page and no keyword link, because a permanent third-party write-up is something publishers vetting Pay-per-Crawl do ask for. If we do it, we will say so here, with the numbers.",
+        "If you are getting the same emails after your own launch, run the four checks or run the route. Either way, the answer is usually free."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "Score a pitch before you pay",
+    "copy": "POST https://seo.forgemesh.io/v1/placement-vet with the domain and one of their listing URLs, $0.05 USDC over x402 or MPP. Or use vet_placement in the SEO Authority MCP server."
+  },
+  "related": [
+    {
+      "slug": "pay-per-crawl-every-stack",
+      "text": "One gate for the whole web: Pay-per-Crawl now ships for ten stacks"
+    }
+  ],
+  "image": "/content/assets/vet-a-directory-before-you-pay.png"
+}
