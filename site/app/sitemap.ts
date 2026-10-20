@@ -22,6 +22,7 @@ const STATIC_ROUTES = [
   '/privacy',
   '/terms',
   '/security',
+  '/quantum',
   '/brief',
   '/checklist',
   '/clawvoice',

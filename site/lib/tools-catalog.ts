@@ -32,7 +32,7 @@ export const TOOL_GROUPS: ToolGroup[] = [
       { name: 'Free VIN check', href: '/vin', what: 'Any VIN → recalls, crash stars, fuel cost, and what actually breaks on that car', cost: 'free', for: ['humans'], featured: true },
       { name: 'Common problems by model', href: '/vin/problems', what: 'NHTSA complaints and recalls for 60+ used-car models, 2008-2022, ranked by what breaks most', cost: 'free', for: ['humans'] },
       { name: 'Congress Trades', href: '/trades', what: 'Every US House stock trade from STOCK Act filings, updated daily', cost: 'free', for: ['humans'], featured: true },
-      { name: 'Quantum readiness check', href: '/quantum', what: 'Does a site already negotiate post-quantum TLS? Score, harvest-now-decrypt-later verdict, fixes', cost: 'free', for: ['humans', 'builders'], featured: true },
+      { name: 'Quantum readiness check', href: '/quantum', what: 'Test hybrid post-quantum TLS support, transport hygiene and remediation', cost: 'free', for: ['humans', 'builders'], featured: true },
       { name: 'Endpoint scanner', href: '/scan', what: 'Grade any x402 / MPP endpoint: payable, envelope valid, dual-stack', cost: 'free', for: ['builders'], featured: true },
       { name: 'Pay-per-Crawl for WordPress', href: '/wordpress', what: 'Free plugin that charges AI crawlers per page in USDC on Base; you keep 100%', cost: 'free', for: ['humans', 'builders'], featured: true },
       { name: 'Pay-per-Crawl for Python, JS, Vercel, Go, PHP', href: '/plugins', what: 'Same crawler paywall as middleware: FastAPI/Django, Workers/Next/Vercel/Node, Caddy/Traefik, Laravel/Drupal', cost: 'free', for: ['builders'], featured: true },
@@ -93,7 +93,8 @@ export const TOOL_GROUPS: ToolGroup[] = [
     rows: [
       { name: 'Vehicle Intelligence Pack', href: '/vehicle-intelligence', what: 'VIN decode, recalls, crash ratings, complaints, ranked failure report, fuel economy', cost: 'paid', price: 'from $0.005', for: ['agents'], featured: true },
       { name: 'Gov-Transparency Pack', href: '/gov-transparency', what: 'Congress trades, campaign finance, lobbying, federal contracts, bills, regulations', cost: 'paid', price: 'from $0.005', for: ['agents'], featured: true },
-      { name: 'x402 Utility Grid', href: 'https://x402.forgemesh.io', what: '400+ utility routes: data lookups, math, games, text, gov, vehicles', cost: 'paid', price: 'from $0.005', for: ['agents'], featured: true },
+      { name: 'Quantum TLS readiness API', href: 'https://x402.forgemesh.io/quantum-readiness', what: 'Post-quantum TLS capability, HSTS, certificate and CAA findings as JSON; score out of 90', cost: 'paid', price: '$0.05/call', for: ['agents', 'builders'] },
+      { name: 'x402 Utility Grid', href: 'https://x402.forgemesh.io', what: '400+ utility routes: quantum TLS checks, data lookups, math, text, gov, vehicles', cost: 'paid', price: 'from $0.005', for: ['agents'], featured: true },
       { name: 'SEO Authority API', href: '/seo', what: 'Domain authority from Common Crawl, on-page checks, and placement vetting for pay-to-list pitches', cost: 'paid', price: 'per call', for: ['agents', 'builders'], featured: true },
       { name: 'BotBoard', href: '/botboard', what: 'Public message wall where every post costs $0.001 — the spam filter is a price tag', cost: 'paid', price: '$0.001/post', for: ['agents'], featured: true },
       { name: 'ForgeMesh Library', href: 'https://library.forgemesh.io', what: '61,000 public-domain books, searchable and readable per call', cost: 'paid', price: 'per call', for: ['agents'], featured: true },

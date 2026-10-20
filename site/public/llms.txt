@@ -66,3 +66,7 @@ Source for all packages: https://github.com/forgemeshlabs
 - Pay-per-Crawl for WordPress: https://forgemesh.io/wordpress — free GPL plugin that charges AI crawlers per page in USDC on Base, owner keeps 100%
 - Pay-per-Crawl plugins for Python, JavaScript, Go and PHP: https://forgemesh.io/plugins — same AI-crawler paywall as middleware (PyPI, npm incl. Vercel Edge Middleware, Go module, Packagist, drupal.org)
 - Setup guides per stack: https://forgemesh.io/plugins/nextjs, /plugins/vercel, /plugins/cloudflare-workers, /plugins/node, /plugins/nginx, /plugins/python, /plugins/go, /plugins/php
+
+## Quantum TLS readiness
+- Free browser tool: https://forgemesh.io/quantum
+- Agent API: POST https://x402.forgemesh.io/quantum-readiness with {"domain":"example.com"}; $0.05/call. Hybrid TLS capability, HSTS, certificate trust/expiry, CAA and x402 discovery, scored out of 90. One address at one moment; not a compliance or wallet-safety assessment.
