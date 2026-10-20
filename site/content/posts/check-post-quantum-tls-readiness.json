@@ -1,0 +1,79 @@
+{
+  "slug": "check-post-quantum-tls-readiness",
+  "date": "2026-10-20",
+  "title": "Does your website actually accept post-quantum TLS?",
+  "excerpt": "We built a free hostname check and a $0.05 agent API for hybrid TLS support, certificate trust, HSTS and CAA. Here is what the result can tell you.",
+  "description": "A live post-quantum TLS capability check for website operators and agents, with a clear boundary between server support and protection of every session.",
+  "seoTitle": "Post-Quantum TLS Readiness Check | ForgeMesh",
+  "seoDescription": "Test hybrid post-quantum TLS support for your hostname. Free browser checker, or structured findings through a $0.05 x402 API.",
+  "heroAlt": "ForgeMesh quantum readiness checker showing the tested hostname, hybrid TLS support and transport findings.",
+  "lede": "Does your HTTPS endpoint accept hybrid post-quantum key exchange? We built a check that makes the connection and reports what happened. You can [run it free in your browser](https://forgemesh.io/quantum), or have an agent request the findings as JSON for $0.05 per call.",
+  "pinKicker": "Free browser check · $0.05 agent API · Live TLS findings",
+  "twitterDescription": "We shipped a post-quantum TLS checker: hybrid key exchange, certificate trust, HSTS and CAA. Free for humans; $0.05 JSON reports for agents. Server support is one thing. What each client negotiates is another.",
+  "sections": [
+    {
+      "heading": "Four handshakes, one hostname",
+      "paras": [
+        "The checker connects to port 443 and offers four configurations: X25519MLKEM768 alone, pure ML-KEM-768 alone, classical groups, and TLS 1.2. It also checks the HTTPS response for HSTS, reads certificate trust and expiry, looks up CAA records and checks for an x402 discovery document.",
+        "Each report includes a timestamp, findings, per-check points and remediation. The score is a ForgeMesh heuristic out of 90. It is not a percentage of security or a compliance rating. Certificate signatures are not assessed and their reserved points are not awarded."
+      ],
+      "stats": [
+        {
+          "n": "4",
+          "d": "TLS handshake probes"
+        },
+        {
+          "n": "$0.05",
+          "d": "per agent API call"
+        },
+        {
+          "n": "Free",
+          "d": "browser checker"
+        }
+      ]
+    },
+    {
+      "heading": "Support does not mean every connection uses it",
+      "paras": [
+        "A successful X25519MLKEM768 probe confirms that the tested connection accepted hybrid key exchange. It does not establish what other visitors negotiated. TLS 1.3 can also use classical groups, and clients that negotiate TLS 1.2 use classical key exchange.",
+        "That distinction matters for harvest-now-decrypt-later: the risk concerns traffic recorded now and attacked with a future cryptographically relevant quantum computer. Hybrid key exchange is designed to address that risk for the sessions that actually use it. [Cloudflare documents its post-quantum key agreement support for TLS 1.3](https://developers.cloudflare.com/ssl/post-quantum-cryptography/).",
+        "The result covers one resolved address at one moment. A CDN-to-origin connection is a separate leg. This check does not assess stored data, payment settlement, wallets, certificate revocation or your overall cryptographic inventory."
+      ]
+    },
+    {
+      "heading": "What we observed on launch day",
+      "paras": [
+        "On October 20, 2026, our direct probes found X25519MLKEM768 support on forgemesh.io and no successful X25519MLKEM768 probe on github.com. The heuristic scores were 60/90 and 25/90 respectively. Both accepted TLS 1.2. These are dated observations from our probe location, not permanent labels for those domains.",
+        "The ForgeMesh result itself shows why we include the findings: hybrid support and transport hygiene are separate questions. Read the individual checks and re-run after changes to your server or CDN."
+      ]
+    },
+    {
+      "heading": "Use it from an agent",
+      "paras": [
+        "Send a JSON POST to [https://x402.forgemesh.io/quantum-readiness](https://x402.forgemesh.io/quantum-readiness) with the body {\"domain\":\"example.com\"}. The first unpaid request returns HTTP 402 with payment details. An x402 client can pay and retry for the structured report. The price is $0.05 per call.",
+        "The same capability is available under /post-quantum-tls-check, /pqc-posture-scan and /hndl-exposure-check. The [Utility Grid OpenAPI document](https://x402.forgemesh.io/openapi.json) contains the input and payment metadata. We tested all four routes with paid requests and verified successful settlement receipts on Base.",
+        "An x402 discovery document means the host advertises paid resources. It does not tell us how every payer connected, and it does not make wallet signatures or settlement quantum-safe."
+      ]
+    },
+    {
+      "heading": "What to do with a gap",
+      "paras": [
+        "Check the CDN or TLS library configuration for X25519MLKEM768. [OpenSSL 3.5 includes that hybrid group at the front of its default list](https://docs.openssl.org/3.5/man3/SSL_CONF_cmd/). Your application and server configuration still matter; re-run the check after applying a change.",
+        "Review HSTS and certificate findings separately. HSTS helps browsers enforce HTTPS under its policy; it does not choose a post-quantum group. A timeout is inconclusive, not evidence that a protocol was refused.",
+        "Start with a hostname you operate. Use the findings to decide what to investigate next, and use connection telemetry when you need to know what real clients negotiate."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "Check your endpoint",
+    "copy": "[Run the free quantum readiness check](https://forgemesh.io/quantum), or use the [Utility Grid API](https://x402.forgemesh.io/openapi.json) for structured reports at $0.05 per call."
+  },
+  "related": [],
+  "tags": [
+    "security",
+    "quantum",
+    "tls",
+    "x402"
+  ],
+  "image": "/content/assets/check-post-quantum-tls-readiness.png"
+}

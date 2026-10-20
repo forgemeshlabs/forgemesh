@@ -1,5 +1,18 @@
 [
   {
+    "slug": "check-post-quantum-tls-readiness",
+    "date": "2026-10-20",
+    "title": "Does your website actually accept post-quantum TLS?",
+    "excerpt": "We built a free hostname check and a $0.05 agent API for hybrid TLS support, certificate trust, HSTS and CAA. Here is what the result can tell you.",
+    "image": "/content/assets/check-post-quantum-tls-readiness.png",
+    "tags": [
+      "security",
+      "quantum",
+      "tls",
+      "x402"
+    ]
+  },
+  {
     "slug": "vet-a-directory-before-you-pay",
     "date": "2026-10-20",
     "title": "Nine people asked us to pay for a listing this week. We turned the vetting into a $0.05 API call.",
