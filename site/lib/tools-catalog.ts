@@ -32,6 +32,7 @@ export const TOOL_GROUPS: ToolGroup[] = [
       { name: 'Free VIN check', href: '/vin', what: 'Any VIN → recalls, crash stars, fuel cost, and what actually breaks on that car', cost: 'free', for: ['humans'], featured: true },
       { name: 'Common problems by model', href: '/vin/problems', what: 'NHTSA complaints and recalls for 60+ used-car models, 2008-2022, ranked by what breaks most', cost: 'free', for: ['humans'] },
       { name: 'Congress Trades', href: '/trades', what: 'Every US House stock trade from STOCK Act filings, updated daily', cost: 'free', for: ['humans'], featured: true },
+      { name: 'Quantum readiness check', href: '/quantum', what: 'Does a site already negotiate post-quantum TLS? Score, harvest-now-decrypt-later verdict, fixes', cost: 'free', for: ['humans', 'builders'], featured: true },
       { name: 'Endpoint scanner', href: '/scan', what: 'Grade any x402 / MPP endpoint: payable, envelope valid, dual-stack', cost: 'free', for: ['builders'], featured: true },
       { name: 'Pay-per-Crawl for WordPress', href: '/wordpress', what: 'Free plugin that charges AI crawlers per page in USDC on Base; you keep 100%', cost: 'free', for: ['humans', 'builders'], featured: true },
       { name: 'Pay-per-Crawl for Python, JS, Vercel, Go, PHP', href: '/plugins', what: 'Same crawler paywall as middleware: FastAPI/Django, Workers/Next/Vercel/Node, Caddy/Traefik, Laravel/Drupal', cost: 'free', for: ['builders'], featured: true },
