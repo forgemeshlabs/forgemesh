@@ -8,7 +8,7 @@ const track = (event: string, data?: Record<string, string | number>) =>
   (window as unknown as { umami?: { track: (e: string, d?: object) => void } }).umami?.track(event, data);
 
 const verdictLabel: Record<QuantumReport['verdict'], string> = {
-  ready: 'Ready', 'ready-with-gaps': 'Ready, with gaps', partial: 'Partial', exposed: 'Exposed',
+  ready: 'Hybrid supported', 'ready-with-gaps': 'Hybrid supported, with gaps', partial: 'Hybrid not confirmed', exposed: 'Hybrid not confirmed',
 };
 
 export function QuantumChecker({ initial = '' }: { initial?: string }) {
@@ -84,7 +84,7 @@ export function QuantumChecker({ initial = '' }: { initial?: string }) {
               <div><dt className="text-slate-500">Negotiated</dt><dd className="font-mono text-slate-200">{report.findings.protocol} · {report.findings.classical_group || '?'}</dd></div>
               <div><dt className="text-slate-500">Cipher</dt><dd className="font-mono text-slate-200">{report.findings.cipher}</dd></div>
               <div><dt className="text-slate-500">Certificate</dt><dd className="font-mono text-slate-200">{report.findings.cert?.key || '?'} · {report.findings.cert?.issuer || '?'} · {report.findings.cert_days_left ?? '?'}d</dd></div>
-              <div><dt className="text-slate-500">TLS 1.2</dt><dd className="font-mono text-slate-200">{report.findings.tls12_accepted ? 'accepted' : 'refused'}</dd></div>
+              <div><dt className="text-slate-500">TLS 1.2</dt><dd className="font-mono text-slate-200">{report.findings.tls12_result || (report.findings.tls12_accepted ? 'accepted' : 'unknown')}</dd></div>
               <div><dt className="text-slate-500">HSTS</dt><dd className="font-mono text-slate-200">{report.findings.hsts_max_age != null ? `${Math.round(report.findings.hsts_max_age / 86400)}d` : 'none'}</dd></div>
               <div><dt className="text-slate-500">x402 seller</dt><dd className="font-mono text-slate-200">{report.findings.x402_seller ? 'yes' : 'no'}</dd></div>
             </dl>
@@ -98,7 +98,7 @@ export function QuantumChecker({ initial = '' }: { initial?: string }) {
               </ol>
             </div>
           )}
-          <p className="text-xs leading-5 text-slate-500">Checked {new Date(report.checked_at).toLocaleString()} in {report.elapsed_ms} ms{report.cached ? ' (cached)' : ''}. Key exchange decides harvest-now-decrypt-later exposure; certificate signatures stay classical everywhere until post-quantum certificates ship.</p>
+          <p className="text-xs leading-5 text-slate-500">Checked {new Date(report.checked_at).toLocaleString()} in {report.elapsed_ms} ms{report.cached ? ' (cached)' : ''}. One address, one moment. Other client sessions, origin connections, certificate signatures and payment settlement are not assessed.</p>
         </div>
       )}
     </div>

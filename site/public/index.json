@@ -19,7 +19,7 @@
       "data": "https://forgemesh.io/partners.json",
       "github": "https://github.com/forgemeshlabs/x402-verified",
       "badge_pattern": "https://forgemesh.io/badge/x402/{slug}",
-      "description": "Independent ForgeMesh program: x402 sellers with a settled on-chain payment behind every row, a recomputable 0-100 ForgeMesh Verified Score, a $ mark when ForgeMesh itself has transacted with the seller, a ★ mark at a perfect score, and a live README badge."
+      "description": "Independent ForgeMesh program: x402 sellers with a settled on-chain payment behind every row, a recomputable 0-100 ForgeMesh Verified Score, a $ mark when ForgeMesh itself has transacted with the seller, a \u2605 mark at a perfect score, and a live README badge."
     },
     {
       "name": "x402 Proxy",
@@ -316,5 +316,15 @@
       "resource": "https://x402.forgemesh.io/fleet-product-detail",
       "price": "$0.05"
     }
+  },
+  "quantum_readiness": {
+    "browser": "https://forgemesh.io/quantum",
+    "endpoint": "https://x402.forgemesh.io/quantum-readiness",
+    "method": "POST",
+    "price_usd": "0.05",
+    "input": {
+      "domain": "example.com"
+    },
+    "scope": "Point-in-time HTTPS capability probe; not compliance or wallet safety"
   }
 }
