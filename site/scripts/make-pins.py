@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("check-post-quantum-tls-readiness", "Post-quantum TLS", "Free check · $0.05 API"),
     ("vet-a-directory-before-you-pay", "Nine people asked us to pay for a listing this week. We turned the vetting into a $0.05 API call.", "9 pay-to-list pitches in 72 hours · $0 spent on placements · 3 free listings taken"),
     ("pay-per-crawl-every-stack", "One gate for the whole web: Pay-per-Crawl now ships for ten stacks", "10 stacks · 10 real settlements on Base · 100% to your wallet"),
     ("wordpress-plugin-page", "Don't block AI crawlers. Bill them.", "Free WordPress plugin · GPL"),
