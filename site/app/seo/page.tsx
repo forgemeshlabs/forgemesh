@@ -66,6 +66,7 @@ const routes = [
   { method: 'POST', path: '/v1/content-brief', price: '$0.10', what: 'Data-backed content brief' },
   { method: 'POST', path: '/v1/site-audit', price: '$0.15', what: 'Multi-signal site audit' },
   { method: 'POST', path: '/v1/internal-link-opportunities', price: '$0.05', what: 'Internal linking opportunities' },
+  { method: 'POST', path: '/v1/placement-vet', price: '$0.05', what: 'Vet a directory or publication pitch before paying: domain age, Tranco rank, Google News, link dilution, badge signals' },
 ];
 
 export default function SeoAuthorityPage() {
