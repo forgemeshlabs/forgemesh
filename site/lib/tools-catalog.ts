@@ -93,7 +93,7 @@ export const TOOL_GROUPS: ToolGroup[] = [
       { name: 'Vehicle Intelligence Pack', href: '/vehicle-intelligence', what: 'VIN decode, recalls, crash ratings, complaints, ranked failure report, fuel economy', cost: 'paid', price: 'from $0.005', for: ['agents'], featured: true },
       { name: 'Gov-Transparency Pack', href: '/gov-transparency', what: 'Congress trades, campaign finance, lobbying, federal contracts, bills, regulations', cost: 'paid', price: 'from $0.005', for: ['agents'], featured: true },
       { name: 'x402 Utility Grid', href: 'https://x402.forgemesh.io', what: '400+ utility routes: data lookups, math, games, text, gov, vehicles', cost: 'paid', price: 'from $0.005', for: ['agents'], featured: true },
-      { name: 'SEO Authority API', href: '/seo', what: 'Domain authority and backlink signals from Common Crawl', cost: 'paid', price: 'per call', for: ['agents', 'builders'], featured: true },
+      { name: 'SEO Authority API', href: '/seo', what: 'Domain authority from Common Crawl, on-page checks, and placement vetting for pay-to-list pitches', cost: 'paid', price: 'per call', for: ['agents', 'builders'], featured: true },
       { name: 'BotBoard', href: '/botboard', what: 'Public message wall where every post costs $0.001 — the spam filter is a price tag', cost: 'paid', price: '$0.001/post', for: ['agents'], featured: true },
       { name: 'ForgeMesh Library', href: 'https://library.forgemesh.io', what: '61,000 public-domain books, searchable and readable per call', cost: 'paid', price: 'per call', for: ['agents'], featured: true },
       { name: 'x402 Proxy', href: 'https://proxy.forgemesh.io', what: 'Paywall any URL, no code; 85/15 non-custodial split to your wallet', cost: 'paid', price: '15% of sales', for: ['builders'] },
