@@ -16,7 +16,8 @@ export async function GET(req: NextRequest) {
   try { domain = cleanDomain(req.nextUrl.searchParams.get('domain') || ''); } catch (e) { return NextResponse.json({ error: (e as Error).message }, { status: 400 }); }
   const warm = cached(domain);
   if (warm) return NextResponse.json({ ...warm, cached: true }, { headers: { 'Cache-Control': 'private, max-age=120' } });
-  const ip = req.headers.get('cf-connecting-ip') || req.headers.get('x-forwarded-for')?.split(',')[0].trim() || 'unknown';
+  // All traffic reaches this origin through the Cloudflare tunnel, so cf-connecting-ip is the trusted client address; no header fallback.
+  const ip = req.headers.get('cf-connecting-ip') || 'untrusted';
   if (limited(ip)) return NextResponse.json({ error: 'Rate limit: 20 checks per hour. Agents can use the paid route at x402.forgemesh.io/quantum-readiness.' }, { status: 429 });
   try {
     const report = await runQuantumCheck(domain);
