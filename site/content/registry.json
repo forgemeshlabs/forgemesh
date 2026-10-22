@@ -1,5 +1,18 @@
 [
   {
+    "slug": "x402-402-body-now-says-why",
+    "date": "2026-10-22",
+    "title": "Why was my x402 payment rejected? The 402 body now tells you.",
+    "excerpt": "A buyer with an unfunded wallet told us our routes rejected payments with no reason. The reason was in a base64 header nobody read. Our fix is now merged upstream in @x402/core and @x402/express.",
+    "image": "/content/assets/x402-402-body-now-says-why.png",
+    "tags": [
+      "x402",
+      "open-source",
+      "payments",
+      "agents"
+    ]
+  },
+  {
     "slug": "check-post-quantum-tls-readiness",
     "date": "2026-10-20",
     "title": "Does your website actually accept post-quantum TLS?",
