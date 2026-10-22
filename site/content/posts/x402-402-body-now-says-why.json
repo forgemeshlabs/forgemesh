@@ -1,0 +1,80 @@
+{
+  "slug": "x402-402-body-now-says-why",
+  "date": "2026-10-22",
+  "title": "Why was my x402 payment rejected? The 402 body now tells you.",
+  "excerpt": "A buyer with an unfunded wallet told us our routes rejected payments with no reason. The reason was in a base64 header nobody read. Our fix is now merged upstream in @x402/core and @x402/express.",
+  "description": "Field report: a buyer-side bug report on our x402 seller fleet became a fleet patch the same day and an upstream fix to the x402 TypeScript packages nine days later.",
+  "seoTitle": "x402 402 Body Now Includes Rejection Reason | ForgeMesh",
+  "seoDescription": "Merged in @x402/core and @x402/express: rejected x402 payments now return { error } in the JSON 402 body, not only in the PAYMENT-REQUIRED header.",
+  "heroAlt": "A sealed envelope with a glowing receipt sliding out of it, showing a payment decline reason, on a dark navy field.",
+  "lede": "On October 13 a buyer testing against seven of our paid hosts reported that every route rejected their payment \"without a reason.\" The reason was there. It was base64-encoded inside the PAYMENT-REQUIRED header, and the JSON body said {}. We patched our fleet that afternoon and sent the fix upstream. On October 22 the x402 maintainers merged it into @x402/core and @x402/express.",
+  "pinKicker": "Merged upstream \u00b7 @x402/core + @x402/express \u00b7 Field report",
+  "twitterDescription": "Our fix is merged into x402: rejected payments now return { error: \"insufficient_funds\" } in the JSON 402 body instead of {}. A buyer's bug report became a fleet patch the same day and an upstream fix nine days later.",
+  "sections": [
+    {
+      "heading": "What the buyer saw",
+      "paras": [
+        "The buyer was running an agent with a wallet that had no USDC. They hit seven of our hosts in a row: anomaly detection, voice, library, travel, notary, ads and the router. Each one answered HTTP 402 with a JSON body of {} or a generic \"payment_required\" string. From the client's side, an empty wallet and a bad signature looked identical. There was nothing to retry on and nothing to log.",
+        "The facilitator had told our servers exactly what was wrong: insufficient_funds. The x402 spec puts that reason in the PAYMENT-REQUIRED response header as a base64 JSON envelope. Browser clients and the official SDKs decode it. Plenty of hand-rolled agent clients never do. They read the body, see nothing, and give up."
+      ],
+      "stats": [
+        {
+          "n": "7",
+          "d": "hosts in the bug report"
+        },
+        {
+          "n": "17",
+          "d": "fleet services patched same day"
+        },
+        {
+          "n": "9 days",
+          "d": "from report to upstream merge"
+        }
+      ]
+    },
+    {
+      "heading": "Why our own bodies were empty",
+      "paras": [
+        "We ship a small compatibility layer on every paid route that mirrors the v2 envelope into the body for older v1 clients. A few services also wrapped their 402 in a non-empty body so scanners would index them. Those wrappers set error to \"payment_required\" first, and the compatibility layer kept whatever was already in error. So the real reason from the facilitator stayed header-only. Some services surfaced it, some did not, and the buyer saw the inconsistency as one bug across all of them. They were right.",
+        "The fleet fix landed the same day across 17 systemd units, restarted one at a time inside our restart windows. When a payment header is present and verification fails, the body now carries the facilitator's reason as invalidReason. We probed every host from outside with a structurally valid v2 payload signed by a dead address. All seven hosts from the report returned the reason in the body."
+      ]
+    },
+    {
+      "heading": "What changed upstream",
+      "paras": [
+        "The same gap existed in the reference TypeScript packages. In @x402/core, when a seller has not configured a custom unpaid response, the non-browser 402 body was a literal {}. In @x402/express, a settlement failure returned {} as well. We opened [pull request #3795](https://github.com/x402-foundation/x402/pull/3795) against x402-foundation/x402 with two changes and three tests.",
+        "In @x402/core the default JSON body is now { error: paymentRequired.error }, falling back to {} only when there is no error to report. In @x402/express the settlement catch-all returns { error: \"settlement_failed\" }. The PAYMENT-REQUIRED header is untouched and still carries the full envelope. Custom unpaidResponseBody callbacks and the HTML paywall path behave exactly as before.",
+        "The unit test is the one we wish we had read earlier: a facilitator verify failure with invalidReason \"insufficient_funds\" must yield a 402 whose body is { error: \"insufficient_funds\" } and whose header says the same thing. Core passed 748 tests, Express passed 88, and lint was clean in both. A maintainer merged it on October 22 with a changeset marking both packages for a patch release."
+      ]
+    },
+    {
+      "heading": "What to do if you build on x402",
+      "paras": [
+        "Sellers: once the patch versions of @x402/core and @x402/express publish, upgrading gets you the new default with no code change. If you set your own unpaidResponseBody, nothing changes for you, so make sure your body includes the reason yourself. Our fleet returns it as invalidReason today; the upstream field is error. We will carry both.",
+        "Clients: keep decoding the PAYMENT-REQUIRED header, because it is the full envelope with the accepted payment requirements. But if your client only reads JSON, check body.error and treat insufficient_funds, invalid signature and settlement_failed as three different outcomes. Only the first one is fixed by topping up a wallet.",
+        "Anyone running a seller fleet: test your rejections, not only your successes. Our standing probe now signs a valid payload with a key that holds nothing and asserts the reason comes back in the body. It costs nothing and it is the check that would have caught this before a buyer did."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "Build on a fleet that reports back",
+    "copy": "The [x402 starter kit](https://kit.forgemesh.io/) carries the patched compatibility layer and the rejection probe. Every paid ForgeMesh route is listed in the [x402 Verified index](https://forgemesh.io/verified)."
+  },
+  "related": [
+    {
+      "slug": "metamask-agent-wallet-rules-x402",
+      "text": "MetaMask agent wallet rules and x402"
+    },
+    {
+      "slug": "x402-python-v2-21-sei-payment-flows",
+      "text": "x402 Python v2.21 and Sei payment flows"
+    }
+  ],
+  "tags": [
+    "x402",
+    "open-source",
+    "payments",
+    "agents"
+  ],
+  "image": "/content/assets/x402-402-body-now-says-why.png"
+}
