@@ -1,30 +1,30 @@
 {
   "slug": "x402-402-body-now-says-why",
   "date": "2026-10-22",
-  "title": "Why was my x402 payment rejected? The 402 body now tells you.",
-  "excerpt": "A buyer with an unfunded wallet told us our routes rejected payments with no reason. The reason was in a base64 header nobody read. Our fix is now merged upstream in @x402/core and @x402/express.",
-  "description": "Field report: a buyer-side bug report on our x402 seller fleet became a fleet patch the same day and an upstream fix to the x402 TypeScript packages nine days later.",
-  "seoTitle": "x402 402 Body Now Includes Rejection Reason | ForgeMesh",
-  "seoDescription": "Merged in @x402/core and @x402/express: rejected x402 payments now return { error } in the JSON 402 body, not only in the PAYMENT-REQUIRED header.",
-  "heroAlt": "A sealed envelope with a glowing receipt sliding out of it, showing a payment decline reason, on a dark navy field.",
-  "lede": "On October 13 a buyer testing against seven of our paid hosts reported that every route rejected their payment \"without a reason.\" The reason was there. It was base64-encoded inside the PAYMENT-REQUIRED header, and the JSON body said {}. We patched our fleet that afternoon and sent the fix upstream. On October 22 the x402 maintainers merged it into @x402/core and @x402/express.",
-  "pinKicker": "Merged upstream \u00b7 @x402/core + @x402/express \u00b7 Field report",
-  "twitterDescription": "Our fix is merged into x402: rejected payments now return { error: \"insufficient_funds\" } in the JSON 402 body instead of {}. A buyer's bug report became a fleet patch the same day and an upstream fix nine days later.",
+  "title": "ForgeMesh is now an upstream contributor to x402",
+  "excerpt": "A buyer found a gap on our seller fleet. We fixed it the same day, sent the fix to the x402 project, and the maintainers merged it. Every seller on the reference packages now inherits it.",
+  "description": "Milestone: ForgeMesh's first merged contribution to the x402 protocol packages, born from running a paid seller fleet on Base for agents.",
+  "seoTitle": "ForgeMesh Merged Into x402 Upstream | ForgeMesh",
+  "seoDescription": "ForgeMesh's first x402 protocol contribution is merged. A fleet-side fix for rejected agent payments now ships to every seller on the reference packages.",
+  "heroAlt": "A sealed envelope with a glowing receipt sliding out of it on a dark navy field.",
+  "lede": "On October 22, 2026 the maintainers of x402 merged a ForgeMesh contribution into the protocol's reference packages. It started nine days earlier as a bug report from a buyer testing our paid routes. Today it is part of the code every x402 seller builds on. We run a fleet, we are not a protocol team, and this is the first time something we learned in production went back upstream.",
+  "pinKicker": "Milestone \u00b7 Merged into x402 \u00b7 Built in production",
+  "twitterDescription": "Milestone: ForgeMesh's first contribution to x402 is merged upstream. A gap a buyer found on our seller fleet is now fixed for every seller on the reference packages. Report to merge in nine days.",
   "sections": [
     {
-      "heading": "What the buyer saw",
+      "heading": "How it started",
       "paras": [
-        "The buyer was running an agent with a wallet that had no USDC. They hit seven of our hosts in a row: anomaly detection, voice, library, travel, notary, ads and the router. Each one answered HTTP 402 with a JSON body of {} or a generic \"payment_required\" string. From the client's side, an empty wallet and a bad signature looked identical. There was nothing to retry on and nothing to log.",
-        "The facilitator had told our servers exactly what was wrong: insufficient_funds. The x402 spec puts that reason in the PAYMENT-REQUIRED response header as a base64 JSON envelope. Browser clients and the official SDKs decode it. Plenty of hand-rolled agent clients never do. They read the body, see nothing, and give up."
+        "On October 13 a buyer running an agent against seven of our paid hosts told us their payments were being turned away without an explanation. They were right, and the cause was not unique to us. Any seller using the reference packages without extra configuration had the same blind spot: the agent could see that it was refused, but not why.",
+        "For a human at a checkout page that is an annoyance. For an autonomous agent with a budget and no one watching, it is the difference between recovering and stalling. The agent economy only works if machines can read a refusal and act on it."
       ],
       "stats": [
         {
           "n": "7",
-          "d": "hosts in the bug report"
+          "d": "hosts in the buyer's report"
         },
         {
-          "n": "17",
-          "d": "fleet services patched same day"
+          "n": "Same day",
+          "d": "fix live across our fleet"
         },
         {
           "n": "9 days",
@@ -33,32 +33,32 @@
       ]
     },
     {
-      "heading": "Why our own bodies were empty",
+      "heading": "What we did",
       "paras": [
-        "We ship a small compatibility layer on every paid route that mirrors the v2 envelope into the body for older v1 clients. A few services also wrapped their 402 in a non-empty body so scanners would index them. Those wrappers set error to \"payment_required\" first, and the compatibility layer kept whatever was already in error. So the real reason from the facilitator stayed header-only. Some services surfaced it, some did not, and the buyer saw the inconsistency as one bug across all of them. They were right.",
-        "The fleet fix landed the same day across 17 systemd units, restarted one at a time inside our restart windows. When a payment header is present and verification fails, the body now carries the facilitator's reason as invalidReason. We probed every host from outside with a structurally valid v2 payload signed by a dead address. All seven hosts from the report returned the reason in the body."
+        "We patched every paid service on the ForgeMesh fleet that afternoon and verified from the outside that all seven hosts in the report now explain themselves. Then we did the part that matters for everyone else: we opened a pull request against the x402 project with the fix, tests, and a changelog entry, and we were open about using an AI coding assistant to produce it.",
+        "The maintainers reviewed and merged it on October 22. Both affected packages are marked for a patch release. Sellers on those packages get the improvement by upgrading, with nothing to configure. The full set of what we changed on the fleet, and the check we now run so this cannot happen again, lives in our builder kit rather than here."
       ]
     },
     {
-      "heading": "What changed upstream",
+      "heading": "Why this is a milestone for us",
       "paras": [
-        "The same gap existed in the reference TypeScript packages. In @x402/core, when a seller has not configured a custom unpaid response, the non-browser 402 body was a literal {}. In @x402/express, a settlement failure returned {} as well. We opened [pull request #3795](https://github.com/x402-foundation/x402/pull/3795) against x402-foundation/x402 with two changes and three tests.",
-        "In @x402/core the default JSON body is now { error: paymentRequired.error }, falling back to {} only when there is no error to report. In @x402/express the settlement catch-all returns { error: \"settlement_failed\" }. The PAYMENT-REQUIRED header is untouched and still carries the full envelope. Custom unpaidResponseBody callbacks and the HTML paywall path behave exactly as before.",
-        "The unit test is the one we wish we had read earlier: a facilitator verify failure with invalidReason \"insufficient_funds\" must yield a 402 whose body is { error: \"insufficient_funds\" } and whose header says the same thing. Core passed 748 tests, Express passed 88, and lint was clean in both. A maintainer merged it on October 22 with a changeset marking both packages for a patch release."
+        "ForgeMesh exists to make the autonomous economy work in practice: real services, real prices, real settlements on Base, and the operational scar tissue that comes with it. Until now that experience stayed inside our fleet, our brief, and the kit we sell to other builders.",
+        "This merge is the first time production experience from ForgeMesh changed the protocol itself. It is a small change in a large codebase. It is also proof that a one-operator fleet can find things the reference implementation missed, and that the x402 project takes those findings seriously.",
+        "We will keep doing this. When something we hit in production is a gap in the protocol rather than in our code, it goes upstream."
       ]
     },
     {
-      "heading": "What to do if you build on x402",
+      "heading": "If you build or buy on x402",
       "paras": [
-        "Sellers: once the patch versions of @x402/core and @x402/express publish, upgrading gets you the new default with no code change. If you set your own unpaidResponseBody, nothing changes for you, so make sure your body includes the reason yourself. Our fleet returns it as invalidReason today; the upstream field is error. We will carry both.",
-        "Clients: keep decoding the PAYMENT-REQUIRED header, because it is the full envelope with the accepted payment requirements. But if your client only reads JSON, check body.error and treat insufficient_funds, invalid signature and settlement_failed as three different outcomes. Only the first one is fixed by topping up a wallet.",
-        "Anyone running a seller fleet: test your rejections, not only your successes. Our standing probe now signs a valid payload with a key that holds nothing and asserts the reason comes back in the body. It costs nothing and it is the check that would have caught this before a buyer did."
+        "Sellers: upgrade when the patch versions publish. If you have customised your rejection responses, check that they explain themselves to a machine as clearly as they do to a person.",
+        "Buyers and agent builders: a refused payment on a ForgeMesh route now tells you what went wrong, and the same will be true across the ecosystem as sellers upgrade. Build your retry logic to read it.",
+        "Everyone: tell sellers when something is wrong. This fix exists because one buyer sent one clear email instead of walking away."
       ]
     }
   ],
   "cta": {
-    "kicker": "Build on a fleet that reports back",
-    "copy": "The [x402 starter kit](https://kit.forgemesh.io/) carries the patched compatibility layer and the rejection probe. Every paid ForgeMesh route is listed in the [x402 Verified index](https://forgemesh.io/verified)."
+    "kicker": "Build on what we learned",
+    "copy": "The [x402 starter kit](https://kit.forgemesh.io/) carries the fleet-side version of this fix and the check that catches it. Every paid ForgeMesh route is listed in the [x402 Verified index](https://forgemesh.io/verified)."
   },
   "related": [
     {
@@ -73,7 +73,7 @@
   "tags": [
     "x402",
     "open-source",
-    "payments",
+    "milestone",
     "agents"
   ],
   "image": "/content/assets/x402-402-body-now-says-why.png"
