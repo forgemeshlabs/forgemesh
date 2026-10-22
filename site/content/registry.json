@@ -2,13 +2,13 @@
   {
     "slug": "x402-402-body-now-says-why",
     "date": "2026-10-22",
-    "title": "Why was my x402 payment rejected? The 402 body now tells you.",
-    "excerpt": "A buyer with an unfunded wallet told us our routes rejected payments with no reason. The reason was in a base64 header nobody read. Our fix is now merged upstream in @x402/core and @x402/express.",
+    "title": "ForgeMesh is now an upstream contributor to x402",
+    "excerpt": "A buyer found a gap on our seller fleet. We fixed it the same day, sent the fix to the x402 project, and the maintainers merged it. Every seller on the reference packages now inherits it.",
     "image": "/content/assets/x402-402-body-now-says-why.png",
     "tags": [
       "x402",
       "open-source",
-      "payments",
+      "milestone",
       "agents"
     ]
   },
@@ -55,7 +55,7 @@
     "slug": "metamask-agent-wallet-rules-x402",
     "date": "2026-10-16",
     "title": "MetaMask Gives Agents a Wallet. Who Sets the Rules?",
-    "excerpt": "MetaMask’s October 9 message promises automated trades inside your rules. We read the docs: what the wallet can do, where approval still matters, and what its x402 support means for builders selling APIs.",
+    "excerpt": "MetaMask\u2019s October 9 message promises automated trades inside your rules. We read the docs: what the wallet can do, where approval still matters, and what its x402 support means for builders selling APIs.",
     "image": "/content/assets/metamask-agent-wallet-rules-x402.png",
     "tags": [
       "ai-agents",
@@ -323,7 +323,7 @@
     "slug": "sec-innovation-exemption-after-clarity-failed",
     "date": "2026-09-19",
     "title": "The Bill Died Tuesday. The Rulebook Showed Up Thursday Anyway.",
-    "excerpt": "CLARITY cloture failed 49–50 on September 15 and Bitcoin slipped through $75K. Forty-eight hours later the SEC issued a five-year Innovation Exemption for on-chain stock trading, the CFTC filed its own crypto rules, and BTC was at $81K by the weekend. We logged the week — and did the halving math everyone is suddenly quoting.",
+    "excerpt": "CLARITY cloture failed 49\u201350 on September 15 and Bitcoin slipped through $75K. Forty-eight hours later the SEC issued a five-year Innovation Exemption for on-chain stock trading, the CFTC filed its own crypto rules, and BTC was at $81K by the weekend. We logged the week \u2014 and did the halving math everyone is suddenly quoting.",
     "image": "/content/assets/sec-innovation-exemption-after-clarity-failed.png",
     "tags": [
       "policy",
@@ -400,7 +400,7 @@
     "slug": "how-to-read-a-vin",
     "date": "2026-09-03",
     "title": "A VIN Starting With J Really Does Mean Japan. The Other 16 Characters Are Where It Gets Interesting.",
-    "excerpt": "A story that crossed our desk this week: someone arranging car shipping wanted to confirm a car was assembled in Japan. An AI assistant looked at the VIN, saw it started with J, and said yes — correctly. Then it named the wrong model, confidently. Both halves of that story are about the same thing: a VIN is a 17-character structured record, and knowing which characters you can eyeball — and which you can't — is genuinely useful.",
+    "excerpt": "A story that crossed our desk this week: someone arranging car shipping wanted to confirm a car was assembled in Japan. An AI assistant looked at the VIN, saw it started with J, and said yes \u2014 correctly. Then it named the wrong model, confidently. Both halves of that story are about the same thing: a VIN is a 17-character structured record, and knowing which characters you can eyeball \u2014 and which you can't \u2014 is genuinely useful.",
     "image": "/content/assets/how-to-read-a-vin.png",
     "tags": [
       "vin",
@@ -413,7 +413,7 @@
     "slug": "agentic-payments-alliance-circle-x402",
     "date": "2026-09-03",
     "title": "Visa and Mastercard Are Writing the Agent Payment Rules. Circle Is in the Room. Breathe.",
-    "excerpt": "The Agentic Payments Alliance pulled 26 companies — Visa, Mastercard, Fiserv, Circle, Solana — into one group writing shared rules for AI agent payments. We run a fleet of x402 services priced from half a cent, so we read the fine print: the rules are about agent authorization and fraud, not pricing. And the rail actually bleeding right now isn't the one the card networks are circling.",
+    "excerpt": "The Agentic Payments Alliance pulled 26 companies \u2014 Visa, Mastercard, Fiserv, Circle, Solana \u2014 into one group writing shared rules for AI agent payments. We run a fleet of x402 services priced from half a cent, so we read the fine print: the rules are about agent authorization and fraud, not pricing. And the rail actually bleeding right now isn't the one the card networks are circling.",
     "image": "/content/assets/agentic-payments-alliance-circle-x402.png",
     "tags": [
       "agentic-payments",
@@ -426,7 +426,7 @@
     "slug": "congress-trades-tracker-launch",
     "date": "2026-09-02",
     "title": "Agents Paid Us $44 for Congress Trading Data. So We Gave It to Humans Free.",
-    "excerpt": "We've been parsing every electronic STOCK Act filing from the US House since spring — 10,622 trades from 129 members — and selling it to AI agents at two cents a call. Lifetime agent revenue: about $44. Meanwhile humans pay $15–60 a month for the same data elsewhere. Today we launched forgemesh.io/trades: the whole feed, free, updated daily.",
+    "excerpt": "We've been parsing every electronic STOCK Act filing from the US House since spring \u2014 10,622 trades from 129 members \u2014 and selling it to AI agents at two cents a call. Lifetime agent revenue: about $44. Meanwhile humans pay $15\u201360 a month for the same data elsewhere. Today we launched forgemesh.io/trades: the whole feed, free, updated daily.",
     "image": "/content/assets/congress-trades-tracker-launch.png",
     "tags": [
       "congress-trades",
@@ -439,7 +439,7 @@
     "slug": "x402-python-v2-21-sei-payment-flows",
     "date": "2026-08-28",
     "title": "x402 Python SDK v2.21: Sei Chain, Payment Flows, and a Batch Settlement Guard",
-    "excerpt": "The x402 Foundation shipped pypi-x402 v2.21.0 yesterday — Sei mainnet support, a new payment-flow abstraction for authorization and escrow ordering, and a quiet fix that stops untrusted batch-settlement state from persisting. Three things worth knowing if you're building on the Python side.",
+    "excerpt": "The x402 Foundation shipped pypi-x402 v2.21.0 yesterday \u2014 Sei mainnet support, a new payment-flow abstraction for authorization and escrow ordering, and a quiet fix that stops untrusted batch-settlement state from persisting. Three things worth knowing if you're building on the Python side.",
     "image": "/content/assets/x402-python-v2-21-sei-payment-flows.png",
     "tags": [
       "x402",
@@ -452,7 +452,7 @@
     "slug": "nvidia-hugging-face-12b-acquisition",
     "date": "2026-08-27",
     "title": "Nvidia Is Buying the GitHub of AI. Here's What That Means for the Machine Economy.",
-    "excerpt": "Nvidia has agreed to acquire Hugging Face for $12.9 billion — putting the world's dominant AI chipmaker in control of the platform where 13 million developers store 2.5 million models. The deal tripled Hugging Face's 2023 valuation, landed one day after our Case File went up, and confirms the thesis: the open layers of the machine economy are being bought and gated, one by one.",
+    "excerpt": "Nvidia has agreed to acquire Hugging Face for $12.9 billion \u2014 putting the world's dominant AI chipmaker in control of the platform where 13 million developers store 2.5 million models. The deal tripled Hugging Face's 2023 valuation, landed one day after our Case File went up, and confirms the thesis: the open layers of the machine economy are being bought and gated, one by one.",
     "image": "/content/assets/nvidia-hugging-face-12b-acquisition.png",
     "tags": [
       "breaking",
@@ -465,7 +465,7 @@
     "slug": "fall-2026-case-file",
     "date": "2026-08-26",
     "title": "Everything Moved in the Same Twelve Days. We Opened a Case File.",
-    "excerpt": "Between August 14 and August 26: a presidential-family stablecoin issuer got a conditional federal charter, AWS switched on autonomous agent payments, five crypto CEOs stood in the White House, Ramp armed 70,000 businesses with agent wallets, a $4B stablecoin went native on Wall Street's settlement chain, x402 set an all-time transaction record, and Texas paused the grid. We laid out the exhibits, drew the strings, and wrote down a hypothesis — clearly labeled as one.",
+    "excerpt": "Between August 14 and August 26: a presidential-family stablecoin issuer got a conditional federal charter, AWS switched on autonomous agent payments, five crypto CEOs stood in the White House, Ramp armed 70,000 businesses with agent wallets, a $4B stablecoin went native on Wall Street's settlement chain, x402 set an all-time transaction record, and Texas paused the grid. We laid out the exhibits, drew the strings, and wrote down a hypothesis \u2014 clearly labeled as one.",
     "image": "/content/assets/fall-2026-case-file.png",
     "tags": [
       "case file",
@@ -478,7 +478,7 @@
     "slug": "fall-2026-calendar-convergence",
     "date": "2026-08-26",
     "title": "Every Clock in the Machine Economy Strikes This Fall. We Lined Up the Dates.",
-    "excerpt": "September 15 is a double-header: Cloudflare walls off mixed-use AI crawlers the same day the Senate votes cloture on the CLARITY Act. Two weeks later the fall conference corridor opens, and one day after TOKEN2049 ends, Bitcoin's widely watched 1,064/364-day cycle pattern projects its turning point. We lined up every verified date from now to the ERCOT audit in December — and put them on a calendar you can subscribe to.",
+    "excerpt": "September 15 is a double-header: Cloudflare walls off mixed-use AI crawlers the same day the Senate votes cloture on the CLARITY Act. Two weeks later the fall conference corridor opens, and one day after TOKEN2049 ends, Bitcoin's widely watched 1,064/364-day cycle pattern projects its turning point. We lined up every verified date from now to the ERCOT audit in December \u2014 and put them on a calendar you can subscribe to.",
     "image": "/content/assets/fall-2026-calendar-convergence.png",
     "tags": [
       "calendar",
@@ -491,7 +491,7 @@
     "slug": "texas-ercot-300-data-center-audit",
     "date": "2026-08-26",
     "title": "Texas Has 474 GW of Big Loads in Line. The Whole State Peaks at 91.",
-    "excerpt": "ERCOT will audit up to 300 proposed data centers by December, and new approvals are paused while it happens. The numbers behind the order: proposed facilities want ~200 GW — more than double Texas's all-time peak — and the interconnection queue holds 474 GW of large loads, 90% of them data centers. Why a machine-payment lab watches the grid.",
+    "excerpt": "ERCOT will audit up to 300 proposed data centers by December, and new approvals are paused while it happens. The numbers behind the order: proposed facilities want ~200 GW \u2014 more than double Texas's all-time peak \u2014 and the interconnection queue holds 474 GW of large loads, 90% of them data centers. Why a machine-payment lab watches the grid.",
     "image": "/content/assets/texas-ercot-300-data-center-audit.png",
     "tags": [
       "texas",
