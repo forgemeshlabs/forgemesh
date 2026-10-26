@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("agent-gateway-chaos-who-lets-agents-in", "The agent gateway scramble: who lets shopping agents in, who locks them out, and who charges at the door", "Agent access · Who blocks, who allows, who charges"),
     ("x402-402-body-now-says-why", "ForgeMesh is now an upstream contributor to x402", "Milestone · Merged into x402 · Built in production"),
     ("check-post-quantum-tls-readiness", "Post-quantum TLS", "Free check · $0.05 API"),
     ("vet-a-directory-before-you-pay", "Nine people asked us to pay for a listing this week. We turned the vetting into a $0.05 API call.", "9 pay-to-list pitches in 72 hours · $0 spent on placements · 3 free listings taken"),

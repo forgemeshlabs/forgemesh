@@ -1,0 +1,137 @@
+{
+  "slug": "agent-gateway-chaos-who-lets-agents-in",
+  "date": "2026-10-26",
+  "title": "The agent gateway scramble: who lets shopping agents in, who locks them out, and who charges at the door",
+  "excerpt": "Amazon sues and blocks. Walmart lets agents in but takes over the basket. Shopify ships catalogs to every chatbot. Cloudflare, Visa and Mastercard sell the turnstile. Here is what the fight over agent access means for buyers, chatbots, agent builders, site owners and stores.",
+  "description": "A field report on the 2026 fight over AI shopping-agent access: who blocks, who allows, who charges, and what each group should do about it.",
+  "seoTitle": "AI Shopping Agents: Who Blocks, Who Allows | ForgeMesh",
+  "seoDescription": "Amazon blocks, Walmart intermediates, Shopify opens, Cloudflare and the card networks charge. What the agent-access fight means for buyers, builders and stores.",
+  "heroAlt": "A night street of storefront doors, some open and glowing, some padlocked, one fitted with a glowing coin turnstile, with small robot silhouettes waiting outside.",
+  "lede": "Every big retailer has now answered the same question in a different way: when an AI agent shows up at the door with a shopping list, do you let it in? Amazon sued one agent and cut off two more. Walmart lets agents in but hands the basket to its own. Shopify sends its merchants' catalogs to every chatbot that will take them. Cloudflare and the card networks stopped arguing about open versus closed and started selling the turnstile. We run a fleet of paid endpoints that agents hit all day, so we have been watching this from the receiving end. This is what the scramble looks like in late October 2026 and what it means for each side of it.",
+  "pinKicker": "Agent access · Who blocks, who allows, who charges · October 2026",
+  "twitterDescription": "Amazon sues and blocks shopping agents. Walmart lets them in, then takes over the basket. Shopify opens every catalog. Cloudflare, Visa and Mastercard sell the turnstile. What the agent-access fight means for buyers, chatbots, builders and stores.",
+  "sections": [
+    {
+      "heading": "The scoreboard",
+      "paras": [
+        "BCG surveyed 50 of the top 300 global retailers and 100 top brands and published the split on October 21. Forty-two percent make their product data discoverable to any agent. Thirty-two percent let in only agents they have chosen, usually through a direct feed. Six percent block agents outright. Twenty percent have not decided. Eight in ten have a position, and the positions point in opposite directions.",
+        "The traffic behind the argument is still small. BCG puts agent referrals under one percent of retail site visits in late 2025, rising to perhaps five percent by the end of this year. The stakes are not small: 91 percent of the retailers surveyed say losing the customer relationship is their main worry, and only four percent of consumers say they would let an agent complete a purchase on its own. The fight is about who owns the shopper when the shopper is a program."
+      ],
+      "stats": [
+        {
+          "n": "42%",
+          "d": "of retailers open to any agent"
+        },
+        {
+          "n": "32%",
+          "d": "selective, chosen agents only"
+        },
+        {
+          "n": "6%",
+          "d": "block agents outright"
+        }
+      ]
+    },
+    {
+      "heading": "Amazon: block first, litigate second",
+      "paras": [
+        "Amazon is the hard no. It sued Perplexity in November 2025 over the Comet browser's shopping agent, arguing it accessed Prime accounts without Amazon's authorization and disguised its sessions as ordinary Chrome traffic. A federal judge in San Francisco granted a preliminary injunction in March 2026. Amazon also rewrote its Business Solutions Agreement, effective March 4, to require every AI agent to identify itself when touching its services.",
+        "In August the Ninth Circuit vacated the injunction. The court's reasoning matters more than the result: because Comet only acts when a user tells it to, the user is the one accessing Amazon's computers, not Perplexity. The case continues in district court, and Amazon says it disagrees. Meanwhile Amazon has blocked ChatGPT from shopping on its site and, in September, cut off Meta's Muse assistant, citing data security. PYMNTS reports that consumers still complete 59.7 percent of their AI-assisted purchases on Amazon, which explains the posture. Amazon does not need anyone else's agent. It is building its own."
+      ]
+    },
+    {
+      "heading": "Walmart: let them in, then take the wheel",
+      "paras": [
+        "Walmart went the other way and then adjusted. In October 2025 it joined OpenAI's Instant Checkout so shoppers could buy inside ChatGPT. By March, Walmart's Daniel Danker was telling Wired that in-chat purchases converted at a third the rate of click-throughs to Walmart.com, and on March 24 OpenAI stepped back from in-chat checkout and told merchants to use their own. The next day Walmart launched its Sparky assistant as an app inside ChatGPT: the shopper logs into Walmart, uses Walmart loyalty and pays through Walmart.",
+        "The same pattern runs through Google. When a shopper picks a Walmart item in Gemini, Sparky takes over the basket and decides what the shopper sees next. Danker's own word for it, in a PYMNTS interview this month, was intermediation. Walmart is open to agents at the front door and closed at the register."
+      ]
+    },
+    {
+      "heading": "Everyone else: a different answer per brand",
+      "paras": [
+        "Tapestry lets shoppers buy Coach and Kate Spade in Google's AI Mode and Gemini, with an explicit approval per order, but agents cannot check out on the brands' own sites, a limit the company ties to fraud and inventory hoarding. Kohl's does not let agents buy at all. QVC and HSN let agents complete purchases and ship their catalogs to OpenAI and Google. eBay has been reported to bar buy-for-me agents in its user agreement unless approved in advance.",
+        "Shopify is the counterweight to Amazon. Its Agentic Storefronts channel pushes merchant catalogs to ChatGPT, Copilot, Perplexity and others, and in January it co-published the Universal Commerce Protocol with Google, with Etsy, Target, Walmart and Wayfair named as backers. Shopify says AI-driven traffic and orders both tripled year over year in the second quarter, and that AI search built on its catalog converts at twice the rate of AI search built on scraped pages. OpenAI's own Agentic Commerce Protocol, now pointed at discovery rather than checkout, lists Target, Sephora, Nordstrom, Lowe's, Best Buy, Home Depot and Wayfair as integrated.",
+        "Two protocols, two camps, and most retailers in both. That is not a standard. It is a hedge."
+      ]
+    },
+    {
+      "heading": "The infrastructure layer stopped asking open or closed",
+      "paras": [
+        "While retailers argue about whether, the plumbing companies moved to how much. Cloudflare's Pay Per Crawl gave site owners three settings per named crawler: allow, charge or block. Its Monetization Gateway, announced July 1, extends that to any page, dataset, API or MCP tool behind Cloudflare. An agent that is not authorized gets an HTTP 402 with the price. It pays over x402, in stablecoins, and gets the resource. Cloudflare's stated reason is blunt: AI crawlers request content anywhere from a hundred to tens of thousands of times for every visitor they send back.",
+        "The card networks are building the same door for fiat. Visa's Trusted Agent Protocol, launched with Cloudflare in October 2025, lets a merchant tell a registered agent from a bot and tell browsing intent from payment intent. Mastercard's Agent Pay issues agent-scoped tokens tied to a real card. Both rely on Web Bot Auth, where the agent signs its requests with a key the merchant can verify at the edge. Visa has said it is aligning with x402 as well. The direction is the same from every vendor: identify the agent, then decide, then price.",
+        "This is the part we live in. Our fleet answers unpaid requests with a 402 that carries the price and, since our fix was merged upstream in x402 this month, a reason when a payment is refused. The agents that pay are the ones that can read that answer. Block-or-allow never gave them anything to read."
+      ],
+      "stats": [
+        {
+          "n": "402",
+          "d": "the status code that names a price"
+        },
+        {
+          "n": "100 to 10,000+",
+          "d": "crawler requests per visitor sent back, per Cloudflare"
+        },
+        {
+          "n": "3",
+          "d": "settings per crawler: allow, charge, block"
+        }
+      ]
+    },
+    {
+      "heading": "What it means for buyers",
+      "paras": [
+        "Expect your assistant to be good at finding and bad at finishing. The Ninth Circuit ruling says you, not the agent vendor, are the one accessing a store when you ask an agent to shop, which keeps the door legally open for now. But the big stores are steering the last step back to their own checkout, and Walmart's conversion numbers suggest shoppers prefer it that way. Loyalty is the lever: BCG found only 14 percent of retailers plan to give outside agents the same loyalty benefits as their own channels, and 58 percent plan a lower tier. If your agent buys for you, assume you are paying full price."
+      ]
+    },
+    {
+      "heading": "What it means for the chat products",
+      "paras": [
+        "OpenAI tried to own checkout and gave it back within six months. Google and Shopify wrote a protocol instead and let merchants keep the register. The winning shape so far is discover in the chat, buy on the store, with the chat product paid as a referrer or a catalog partner rather than as a merchant of record. The chatbots that keep access will be the ones that identify themselves, respect per-merchant rules and hand the basket over cleanly. The ones that dress up as Chrome get sued."
+      ]
+    },
+    {
+      "heading": "What it means for agent builders",
+      "paras": [
+        "Three things are now table stakes. Identify your agent on every request, because Amazon's terms require it and Web Bot Auth makes it cheap. Carry a wallet that can answer a 402, because the infrastructure layer is converging on it for both crypto and card rails. And separate research from purchase: a price your agent found is evidence, not permission to buy, and the stores that allow agents in are drawing exactly that line. Build to the store's rules, not around them. Amazon's lawsuit is the cost of the alternative."
+      ]
+    },
+    {
+      "heading": "What it means for website owners",
+      "paras": [
+        "You no longer have to choose between feeding every crawler for free and blocking all of them. Charging is a third setting, and it is cheap to turn on. Cloudflare's gateway is one way. A pay-per-crawl plugin on your own stack is another: we ship them for WordPress, Node, Python, Go and PHP, and the rule is the same everywhere. Humans and search engines pass. Named AI crawlers get a 402 with a price. The ones that pay get the page. Start with a price so small nobody argues, and raise it when the logs tell you who is actually paying."
+      ]
+    },
+    {
+      "heading": "What it means for e-commerce owners",
+      "paras": [
+        "If you are on Shopify you are already in the open camp whether you decided or not, and the data says that is paying: tripled AI traffic and orders, twice the conversion from a clean catalog. If you run your own storefront, the choice is real. Blocking preserves the relationship and forfeits the referrals. Opening gains the referrals and risks becoming a line item in someone else's cart. The middle path the big chains are converging on is the honest one: let agents read everything, let them build a basket, and make the last step happen on your checkout with your loyalty attached. Publish your catalog in a form agents can trust, state your agent policy where agents can find it, and answer unauthorized requests with a price rather than a wall."
+      ]
+    },
+    {
+      "heading": "Where this goes",
+      "paras": [
+        "The 2026 scramble will not end with one winner. It will end with a protocol stack: signed agent identity at the edge, a 402 that names a price, and a checkout that stays with the merchant. Amazon can hold out because it is the destination. Nearly everyone else is a stop along the way, and a stop along the way needs the traffic. We would rather be the door that says the price than the wall that says nothing. The agents already know the difference."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "Turn block-or-allow into charge",
+    "copy": "Our Pay-per-Crawl editions put a 402 with a price in front of named AI crawlers on WordPress, Node, Python, Go and PHP. Humans and search engines pass. The crawlers that pay get the page. Free, open source, you keep 100 percent."
+  },
+  "related": [
+    {
+      "slug": "pay-per-crawl-every-stack",
+      "text": "Pay-per-Crawl for every stack: WordPress, Node, Python, Go and PHP"
+    },
+    {
+      "slug": "x402-402-body-now-says-why",
+      "text": "ForgeMesh is now an upstream contributor to x402"
+    }
+  ],
+  "tags": [
+    "agentic-commerce",
+    "x402",
+    "ai-agents",
+    "ecommerce"
+  ],
+  "image": "/content/assets/agent-gateway-chaos-who-lets-agents-in.png"
+}
