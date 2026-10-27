@@ -68,6 +68,7 @@ const GROUPS: Group[] = [
     items: [
       { name: 'SiftFox', what: 'Pay-per-Crawl, Developer Tools', href: 'https://siftfox.com/tool/pay-per-crawl', nofollow: true },
       { name: 'YourAITools', what: 'ForgeMesh Labs, crypto-paid APIs', href: 'https://youraitools.co/tool/forgemesh-labs', nofollow: true },
+      { name: 'Digidle', what: 'ForgeMesh Pay-per-Crawl, developer tools', href: 'https://digidle.com/tools/forgemesh-pay-per-crawl/', nofollow: true },
     ],
   },
 ];
