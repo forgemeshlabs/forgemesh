@@ -12,6 +12,7 @@ const links = [
   { label: 'MCP Registry', href: 'https://github.com/modelcontextprotocol/servers' },
   { label: 'The Brief', href: '/brief' },
   { label: 'About', href: '/about' },
+  { label: 'Listed on', href: '/listed' },
   { label: 'Privacy', href: '/privacy' },
   { label: 'Security', href: '/security' },
   { label: 'Terms', href: '/terms' },
