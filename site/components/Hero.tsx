@@ -2,6 +2,7 @@
 
 import { MeshBackground } from './MeshBackground';
 import { RailPulse } from './RailPulse';
+import { TwoTrack } from './TwoTrack';
 import { RepoWatchStrip } from './RepoWatch';
 import { RulesWatchStrip } from './RulesWatch';
 import { CalendarStrip } from './CalendarStrip';
@@ -92,6 +93,9 @@ export function Hero() {
             <path d="M8 3v10M4 9l4 4 4-4" />
           </svg>
         </a>
+
+        {/* Audience fork (ConvertBoost audit 2026-10-27): builders vs site owners, before the telemetry. */}
+        <TwoTrack />
 
         {/* Rail Pulse — real-world rail data above the fold (operator, 2026-08-26).
             Terminal graphic retired 2026-08-26 (operator: "it's served its time"). */}

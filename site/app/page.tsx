@@ -5,7 +5,6 @@ import { Architecture } from '@/components/Architecture';
 import { Projects } from '@/components/Projects';
 import { Philosophy } from '@/components/Philosophy';
 import { Discovery } from '@/components/Discovery';
-import { TwoTrack } from '@/components/TwoTrack';
 import { ProofBlock } from '@/components/ProofBlock';
 import { CopyInstall } from '@/components/CopyInstall';
 import { Footer } from '@/components/Footer';
@@ -104,7 +103,6 @@ export default function Home() {
       <NavBar />
       <main id="main-content">
         <Hero />
-        <TwoTrack />
 
         <div className="fm-root">
           <section className="fm-sec" id="x402">
