@@ -99,6 +99,11 @@ export default function ChecklistPage() {
               and running 17 paid services of our own. One in four sellers fail at least one of these, and almost none
               of them know.
             </p>
+            <p className="mt-3 text-sm leading-7 text-slate-500">
+              Looking for APIs to call rather than one to sell? The live catalog is at{' '}
+              <a href="/tools" className="text-blue-400 hover:text-blue-300">forgemesh.io/tools</a>. Every endpoint there
+              passes this checklist.
+            </p>
 
             <ol className="mt-10 space-y-4">
               {checks.map((c, i) => (
