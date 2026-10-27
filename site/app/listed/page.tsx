@@ -49,12 +49,14 @@ const GROUPS: Group[] = [
     items: [
       { name: 'Official MCP Registry', what: '20 servers under io.github.forgemeshlabs', href: 'https://registry.modelcontextprotocol.io/v0/servers?search=io.github.forgemeshlabs' },
       { name: 'Glama', what: 'ForgeMesh MCP servers with build and security scores', href: 'https://glama.ai/mcp/servers?query=forgemesh' },
+      { name: 'mcpservers.org', what: 'Crypto Signals and SEO Authority servers, editorially approved', href: 'https://mcpservers.org/servers/forgemeshlabs/crypto-signals-mcp' },
     ],
   },
   {
     heading: 'Agent and x402 marketplaces',
     blurb: 'Where paying agents find the live x402 services.',
     items: [
+      { name: 'x402-list.com', what: 'Seven ForgeMesh services with independent uptime and payment checks', href: 'https://x402-list.com/services/forgemesh-x402-router' },
       { name: 'hashn agent store', what: '16 ForgeMesh services, one listing each', href: 'https://hashn.com/store/eb2b9a28-4d3e-4f7e-bf31-25ff7b16f20d' },
       { name: 'PayAPI Market', what: 'Kronos by ForgeMesh', href: 'https://payapi.market/api/kronos-by-forgemesh' },
       { name: 'ag3ntsearch', what: 'x402swag.com, first agent-paid physical order on record', href: 'https://ag3ntsearch.com/entry/x402swag.html' },
