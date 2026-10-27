@@ -5,6 +5,9 @@ import { Architecture } from '@/components/Architecture';
 import { Projects } from '@/components/Projects';
 import { Philosophy } from '@/components/Philosophy';
 import { Discovery } from '@/components/Discovery';
+import { TwoTrack } from '@/components/TwoTrack';
+import { ProofBlock } from '@/components/ProofBlock';
+import { CopyInstall } from '@/components/CopyInstall';
 import { Footer } from '@/components/Footer';
 import { ShareBar } from '@/components/ShareBar';
 import { FLEET } from '@/lib/mesh';
@@ -101,6 +104,7 @@ export default function Home() {
       <NavBar />
       <main id="main-content">
         <Hero />
+        <TwoTrack />
 
         <div className="fm-root">
           <section className="fm-sec" id="x402">
@@ -139,6 +143,7 @@ export default function Home() {
                   <code>200 OK · tx 0x…</code>
                 </div>
               </div>
+              <ProofBlock />
             </div>
           </section>
 
@@ -166,7 +171,10 @@ export default function Home() {
                           <a href={r.href}>{r.pkg}</a>
                         </td>
                         <td className="what">{r.wraps}{r.guide ? <> · <a href={r.guide}>build your own →</a></> : null}</td>
-                        <td className="install">{r.install}</td>
+                        <td className="install">
+                          <CopyInstall command={r.install} pkg={r.pkg} />
+                          <a className="mt-1 inline-block text-xs" href={`https://www.npmjs.com/package/${r.pkg}`}>docs →</a>
+                        </td>
                       </tr>
                     ))}
                   </tbody>
