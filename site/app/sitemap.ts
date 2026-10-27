@@ -19,6 +19,7 @@ const STATIC_ROUTES = [
   '/repo-watch',
   '/payment-rules',
   '/about',
+  '/listed',
   '/privacy',
   '/terms',
   '/security',
