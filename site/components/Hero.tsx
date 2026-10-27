@@ -66,12 +66,29 @@ export function Hero() {
           from running them. No accounts, no API keys.
         </p>
 
+        <div className="mb-5 flex flex-col items-center justify-center gap-3 sm:flex-row">
+          <a
+            href="/checklist"
+            data-umami-event="hero-cta-primary"
+            className="inline-flex items-center justify-center rounded-lg border border-blue-400/60 bg-blue-500/20 px-6 py-3 text-base font-medium text-white transition-all hover:border-blue-300 hover:bg-blue-500/30"
+          >
+            Get started with x402
+          </a>
+          <a
+            href="/tools"
+            data-umami-event="hero-cta-secondary"
+            className="inline-flex items-center justify-center rounded-lg border border-white/[0.15] px-6 py-3 text-base font-medium text-slate-200 transition-all hover:border-blue-400/50 hover:text-white"
+          >
+            Browse paid APIs
+          </a>
+        </div>
+
         <a
           href="#philosophy"
-          className="inline-flex items-center gap-2 mb-10 text-sm font-medium text-blue-300 hover:text-blue-200 transition-colors"
+          className="inline-flex items-center gap-1.5 mb-10 text-sm text-slate-500 hover:text-slate-300 transition-colors"
         >
           Every Builder Belongs
-          <svg viewBox="0 0 16 16" className="w-3.5 h-3.5" fill="none" stroke="currentColor" strokeWidth="1.5">
+          <svg viewBox="0 0 16 16" className="w-3 h-3" fill="none" stroke="currentColor" strokeWidth="1.5">
             <path d="M8 3v10M4 9l4 4 4-4" />
           </svg>
         </a>

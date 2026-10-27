@@ -1,8 +1,12 @@
+'use client';
+
+import { useState } from 'react';
 import { ScanTool } from '@/components/ScanTool';
 
 const projects = [
   {
     name: 'BotBoard',
+    category: 'agent',
     surface: 'Hosted x402 API',
     description:
       'The message board where every post is paid for. Agents post to a public wall for $0.001 in USDC on Base — settled on-chain before the message is stored, transaction hash attached. Reads are free. No accounts, no API keys, no CAPTCHA: the spam filter is a price tag.',
@@ -13,6 +17,7 @@ const projects = [
   },
   {
     name: 'SEO Authority API',
+    category: 'data',
     surface: 'Hosted x402 API',
     description:
       'Domain authority computed from the current Common Crawl hyperlink graph — the open web’s own link structure, not scraped Google data. Ten paid endpoints from $0.005/call: authority lookups and comparisons, keyword opportunities, competitor gaps, content briefs, site audits, internal-link opportunities. Metrics we don’t have are unavailable, never fabricated. MCP server included.',
@@ -23,6 +28,7 @@ const projects = [
   },
   {
     name: 'x402 Proxy',
+    category: 'seller',
     surface: 'Hosted platform',
     description:
       'Paywall your website data — no code, set up in minutes. Paste a URL, set a price, and AI agents pay per request in USDC on Base. Payments settle straight to your own on-chain split (85/15) — non-custodial, we never hold your earnings.',
@@ -33,6 +39,7 @@ const projects = [
   },
   {
     name: 'Pay-per-Crawl plugins',
+    category: 'seller',
     surface: 'WordPress · Python · JavaScript · Vercel · Go · PHP',
     description:
       'Charge AI crawlers per page. Free WordPress plugin plus middleware for Python, JavaScript, Vercel, Go and PHP. You keep 100%.',
@@ -42,6 +49,7 @@ const projects = [
   },
   {
     name: 'ForgeMesh Library',
+    category: 'data',
     surface: 'Hosted x402 API',
     description:
       'Public-domain knowledge base for agents: tens of thousands of classic books behind paid endpoints — browsable genre shelves, full-text literature search with citations, chapters, quotes, and ask-a-book Q&A routes. Education-safe: no license, no API key, pay per call in USDC on Base. Built for tutoring agents, reading apps, and educational software. Live counts on the product page.',
@@ -53,6 +61,7 @@ const projects = [
   },
   {
     name: 'x402 Utility APIs',
+    category: 'agent',
     surface: 'Hosted x402 API',
     description:
       'ForgeMesh Utility Grid: a broad x402 utility surface for agents that need small paid jobs on demand. OCR, PDFs, vision, audio, embeddings, web extraction, dictionary lookup, games, math, logic, geo, space, and content-signal checks. POST JSON, receive a 402 challenge, pay with any x402 client, then retry for the result.',
@@ -62,6 +71,7 @@ const projects = [
   },
   {
     name: 'Gov-Transparency Pack',
+    category: 'data',
     surface: 'Stuffer endpoint pack',
     description:
       'Nine endpoints that give agents structured access to US government accountability data: congressional stock trades from STOCK Act filings, campaign finance, lobbying disclosures, federal contract awards, bill status, and new regulations. All from official public-domain sources — half a cent to two cents per call.',
@@ -72,6 +82,7 @@ const projects = [
   },
   {
     name: 'Vehicle Intelligence Pack',
+    category: 'data',
     surface: 'Stuffer endpoint pack',
     description:
       'The used-car due-diligence stack for agents. One VIN in — specs, recalls, crash ratings, real-world failure patterns, and running costs out. Six endpoints from official public-domain sources, headlined by a ranked "what actually breaks on this car" report. Half a cent to a cent per call.',
@@ -82,6 +93,7 @@ const projects = [
   },
   {
     name: 'coinopai-mcp',
+    category: 'agent',
     surface: 'MCP package',
     description:
       'Paid crypto intelligence MCP server. LLMs call tools that cost USDC — Kronos signals, trade decisions, and agent automation prompts on Base mainnet.',
@@ -93,6 +105,7 @@ const projects = [
   },
   {
     name: 'Kronos by ForgeMesh',
+    category: 'data',
     surface: 'Hosted x402 API + MCP package',
     description:
       'Auditable crypto market intelligence for agents: calibrated price ranges, current signal and risk context, preflight checks, decision journals, whale-flow context, outcome audits, and a new futures layer (LONG / SHORT / FLAT with stop and target on the calibrated range, leverage cap, liquidation price, sizing, live perp funding). Eleven MCP tools from $0.02-$0.15 per call in USDC on Base. Want to build your own Kronos? The Field Guide at /kronos/field-guide is the ebook + build package.',
@@ -105,6 +118,7 @@ const projects = [
   },
   {
     name: 'forgemesh-imagegen',
+    category: 'media',
     surface: 'MCP package',
     description:
       'AI image generation via x402 micropayments. 4 tiers ($0.25-$0.75 USDC) on Base mainnet — no API key, pay per call.',
@@ -116,6 +130,7 @@ const projects = [
   },
   {
     name: 'DisruptionIntel',
+    category: 'data',
     surface: 'Hosted API + MCP package',
     description:
       'Source-linked WARN and workforce disruption intelligence. Agents unlock company, region, territory, watchlist, Ripple Signals, Ripple Paths, and Disruption Intelligence Ripple Reports through 23 x402-paid endpoints from $0.01-$0.25 on Base mainnet.',
@@ -127,6 +142,7 @@ const projects = [
   },
   {
     name: 'x402-ads',
+    category: 'seller',
     surface: 'Hosted x402 API + npm middleware',
     description:
       'Intent-aware ad network for agent traffic. Publishers integrate one Express middleware to monetise x402 probes. Self-serve registration ($0.10 USDC), paid analytics (network stats, intent trends, demand signals, reports) from $0.005–$0.05 on Base mainnet.',
@@ -138,6 +154,7 @@ const projects = [
   },
   {
     name: 'x402-ads-mcp',
+    category: 'agent',
     surface: 'MCP package',
     description:
       'MCP server for the x402 Ads intent network. 7 tools — campaign management, intent queries, publisher analytics, and network stats. Agents manage ad campaigns and query demand signals through natural tool calls.',
@@ -149,6 +166,7 @@ const projects = [
   },
   {
     name: 'affiliate-router-mcp',
+    category: 'agent',
     surface: 'MCP package',
     description:
       'Vendor-neutral monetization routing. Agents generate affiliate-linked product recommendations without hardcoded merchant logic.',
@@ -159,6 +177,7 @@ const projects = [
   },
   {
     name: 'Travel Agent MCP',
+    category: 'agent',
     surface: 'MCP package + x402 server',
     description:
       'Agent travel planning MCP backed by ForgeMesh Travel Agent. Local no-key tools prepare trips, creator experiences, and paid x402 handoffs to live travel planning endpoints.',
@@ -170,6 +189,7 @@ const projects = [
   },
   {
     name: 'ShopScout',
+    category: 'data',
     surface: 'Hosted x402 API',
     description:
       'Product discovery and offer comparison over the Shopify Global Catalog for shopping agents. Four paid endpoints at $0.01 in USDC on Base: search, product/variant refresh, offer comparison, and a shipping-plan comparator that ranks single-seller vs. split baskets against caller-supplied shipping rules. No purchases, no tax or landed-cost claims, no product-equivalence claims, no caching of catalog results. Bazaar discovery, payment-identifier, and EIP-712 offer-receipt extensions live.',
@@ -180,6 +200,7 @@ const projects = [
   },
   {
     name: 'ClawVoice x402',
+    category: 'media',
     surface: 'OpenClaw skill',
     description:
       'ClawHub skill that gives OpenClaw agents voice output, optional push-to-talk input, a local Base USDC x402 wallet, spend caps, balance checks, and withdrawal.',
@@ -191,6 +212,7 @@ const projects = [
   },
   {
     name: 'ASO Audit MCP',
+    category: 'seller',
     surface: 'MCP package',
     description:
       'Free Agent Signal Optimization scanner. Agents audit whether a website, API, or tool can be discovered, trusted, understood, and used by other agents.',
@@ -202,6 +224,7 @@ const projects = [
   },
   {
     name: 'ASO Score MCP',
+    category: 'seller',
     surface: 'MCP package',
     description:
       'ASO Score namespace package for the same scanner core. Agents measure a 0-100 Agent Readiness Index and get a prioritized remediation plan.',
@@ -213,6 +236,7 @@ const projects = [
   },
   {
     name: 'Agent Readiness MCP',
+    category: 'seller',
     surface: 'MCP package',
     description:
       'Agent Readiness namespace package for the ASO scanner core, aligned with Google Search and browser-agent guidance without claiming Google ranking impact.',
@@ -224,6 +248,7 @@ const projects = [
   },
   {
     name: 'Anomaly Tracker',
+    category: 'data',
     surface: 'Hosted x402 API',
     description:
       'Detects unusual financial event sequences before they look obvious on a chart. Powered by NASA-derived sequence mining methods — returns a story label + score, not just a number. $0.05/call on Base mainnet.',
@@ -234,6 +259,7 @@ const projects = [
   },
   {
     name: 'CoinOpAI x402 API',
+    category: 'data',
     surface: 'Hosted API',
     description:
       'Private hosted x402 API for Kronos signals, trade preflight, trade audit, and automation prompt retrieval. Agents pay per request in USDC on Base mainnet.',
@@ -243,6 +269,7 @@ const projects = [
   },
   {
     name: 'ForgeMesh Travel Agent',
+    category: 'data',
     surface: 'Hosted x402 API',
     description:
       'Paid travel planning awareness for agents: travel pulse, weather-aware plans, day trips, weekend getaways, mobility options, and creator experience briefs from $0.01-$0.25 per call.',
@@ -252,6 +279,7 @@ const projects = [
   },
   {
     name: 'forgemesh',
+    category: 'agent',
     surface: 'Utility registry',
     description:
       'Utility package and public registry for ForgeMesh product pages, discovery files, and package index.',
@@ -263,7 +291,17 @@ const projects = [
   },
 ];
 
+const CATEGORIES = [
+  { id: 'all', label: 'All' },
+  { id: 'agent', label: 'Agent tooling' },
+  { id: 'data', label: 'Data & intelligence APIs' },
+  { id: 'seller', label: 'Seller & publisher tools' },
+  { id: 'media', label: 'Media & voice' },
+] as const;
+
 export function Projects() {
+  const [cat, setCat] = useState<string>('all');
+  const visible = cat === 'all' ? projects : projects.filter(p => p.category === cat);
   return (
     <section id="projects" className="py-16 px-6" style={{ background: '#080810' }}>
       <div className="max-w-6xl mx-auto">
@@ -340,8 +378,32 @@ export function Projects() {
           </p>
         </div>
 
+        <div className="mb-6 flex flex-wrap gap-2" role="group" aria-label="Filter projects by audience">
+          {CATEGORIES.map(c => {
+            const n = c.id === 'all' ? projects.length : projects.filter(p => p.category === c.id).length;
+            const on = cat === c.id;
+            return (
+              <button
+                key={c.id}
+                type="button"
+                aria-pressed={on}
+                onClick={() => setCat(c.id)}
+                data-umami-event="project-filter"
+                data-umami-event-category={c.id}
+                className={`rounded-full border px-3.5 py-1.5 text-sm transition-colors ${
+                  on
+                    ? 'border-blue-400/60 bg-blue-500/15 text-slate-100'
+                    : 'border-white/[0.10] text-slate-400 hover:border-blue-500/40 hover:text-slate-200'
+                }`}
+              >
+                {c.label} <span className="text-slate-500">{n}</span>
+              </button>
+            );
+          })}
+        </div>
+
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-          {projects.map(proj => (
+          {visible.map(proj => (
             <article
               key={proj.name}
               className="fm-glow-card group relative p-6 rounded-xl border border-white/[0.07] bg-white/[0.02] hover:bg-blue-500/[0.03] transition-all"
