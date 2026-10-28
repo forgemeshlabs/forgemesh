@@ -64,6 +64,31 @@ export const IP_RANGES: Record<string, string> = {
   Amazonbot: 'https://developer.amazon.com/amazonbot',
 };
 
+import fs from 'node:fs';
+import path from 'node:path';
+// Re-hosted operator marks, PNG or WebP only, under public/bots/logos/<slug>.(png|webp).
+// Never SVG, never hotlinked: the feed may carry a filename, never a URL.
+export function logoFor(slug: string): string | null {
+  for (const ext of ['png', 'webp']) {
+    try { if (fs.existsSync(path.join(process.cwd(), 'public', 'bots', 'logos', `${slug}.${ext}`))) return `/bots/logos/${slug}.${ext}`; } catch { /* ignore */ }
+  }
+  return null;
+}
+
+// Mugshot criteria: bots a site owner should think twice about. Data-driven where
+// observations exist, documentation-driven otherwise.
+export function mugshotReasons(b: Bot, o: Observed | null): string[] {
+  const r: string[] = [];
+  if (b.purpose === 'scraping' && !b.docs) r.push('Unidentified: no operator, no documentation');
+  if (b.purpose === 'training' && !b.docs) r.push('Trains models with no published policy or opt-out');
+  if (/no published/i.test(b.note) && b.purpose !== 'scraping') r.push('No published crawler documentation');
+  if (!b.verify.length && (b.purpose === 'training' || b.purpose === 'ai-search') && !/openai|anthropic|perplexity|google|apple|microsoft|common crawl/i.test(b.operator)) r.push('No way to verify a request is really this crawler');
+  if (/ignores robots\.txt|generally ignores/i.test(b.note)) r.push('Documented as ignoring robots.txt');
+  if (o && o.impostor_rate != null && o.impostor_rate >= 0.5 && o.hits >= 20) r.push(`Impersonated: ${Math.round(o.impostor_rate * 100)}% of requests using this name failed verification`);
+  if (o && o.share_blocked != null && o.share_blocked >= 0.5 && o.sites_seen >= 5) r.push(`${Math.round(o.share_blocked * 100)}% of sites that see it block it`);
+  return r;
+}
+
 export function botBySlug(slug: string): Bot | undefined {
   return BOTS.find((b) => b.slug === slug);
 }

@@ -14,6 +14,7 @@ const BASE = 'https://forgemesh.io';
 const STATIC_ROUTES = [
   '/',
   '/bots',
+  '/bots/mugshots',
   '/402-payment-required',
   '/blog',
   '/botboard',
