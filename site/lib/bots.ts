@@ -82,7 +82,7 @@ export function mugshotReasons(b: Bot, o: Observed | null): string[] {
   if (b.purpose === 'scraping' && !b.docs) r.push('Unidentified: no operator, no documentation');
   if (b.purpose === 'training' && !b.docs) r.push('Trains models with no published policy or opt-out');
   if (/no published/i.test(b.note) && b.purpose !== 'scraping') r.push('No published crawler documentation');
-  if (!b.verify.length && (b.purpose === 'training' || b.purpose === 'ai-search') && !/openai|anthropic|perplexity|google|apple|microsoft|common crawl/i.test(b.operator)) r.push('No way to verify a request is really this crawler');
+  if (!b.verify.length && !IP_RANGES[b.name] && (b.purpose === 'training' || b.purpose === 'ai-search') && !/openai|anthropic|perplexity|google|apple|microsoft|common crawl/i.test(b.operator)) r.push('No published way to verify a request is really this crawler');
   if (/ignores robots\.txt|generally ignores/i.test(b.note)) r.push('Documented as ignoring robots.txt');
   if (o && o.impostor_rate != null && o.impostor_rate >= 0.5 && o.hits >= 20) r.push(`Impersonated: ${Math.round(o.impostor_rate * 100)}% of requests using this name failed verification`);
   if (o && o.share_blocked != null && o.share_blocked >= 0.5 && o.sites_seen >= 5) r.push(`${Math.round(o.share_blocked * 100)}% of sites that see it block it`);
