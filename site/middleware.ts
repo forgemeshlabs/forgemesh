@@ -59,11 +59,11 @@ export function middleware(request: NextRequest) {
     const browser = accept.includes('text/html') && /Mozilla\/5\.0/.test(ua) && !/bot|crawl|spider|python|curl|wget|java|go-http|node|fetch|axios/i.test(ua);
     if (!browser) {
       const slug = decodedPath.split('/')[2];
-      const paidUrl = `https://x402.forgemesh.io/atlas/profile/${slug}`;
+      const paidUrl = 'https://x402.forgemesh.io/atlas-profile';
       const body = {
         x402Version: 2,
         error: 'Payment required',
-        resource: { url: paidUrl, description: `Crawler Atlas profile of ${slug}: operator, purpose, user agents, robots token, verification, whether it pays, and network observations. $0.005/call. Humans read it free at https://forgemesh.io/bots/${slug}.`, mimeType: 'application/json' },
+        resource: { url: paidUrl, description: `Crawler Atlas profile of ${slug}: operator, purpose, user agents, robots token, verification, whether it pays, and network observations. $0.005/call: POST {"slug":"${slug}"} to ${paidUrl}. Humans read it free at https://forgemesh.io/bots/${slug}.`, mimeType: 'application/json' },
         accepts: [{ scheme: 'exact', network: 'eip155:8453', amount: '5000', asset: '0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913', payTo: '0x850363a27F0aC6fEb9C7a3eC4C1d295262dF9432', maxTimeoutSeconds: 300, extra: { name: 'USD Coin', version: '2' } }],
       };
       return new NextResponse(JSON.stringify(body), { status: 402, headers: { 'Content-Type': 'application/json', 'Cache-Control': 'no-store', 'Vary': 'Accept, User-Agent', 'PAYMENT-REQUIRED': btoa(JSON.stringify(body)) } });
