@@ -47,6 +47,26 @@ export function middleware(request: NextRequest) {
     });
   }
 
+  // Crawler Atlas: the JSON twin of each bot profile is free for a person in a
+  // browser and $0.005 for machines (x402, USDC on Base). Humans are detected
+  // by the Accept header a browser sends; everything else gets the 402.
+  if (/^\/bots\/[a-z0-9-]+\/profile\.json$/.test(pathname)) {
+    const accept = request.headers.get('accept') ?? '';
+    const ua = request.headers.get('user-agent') ?? '';
+    const browser = accept.includes('text/html') && /Mozilla\/5\.0/.test(ua) && !/bot|crawl|spider|python|curl|wget|java|go-http|node|fetch|axios/i.test(ua);
+    const paid = request.headers.get('payment-signature') || request.headers.get('x-payment');
+    if (!browser && !paid) {
+      const slug = pathname.split('/')[2];
+      const body = {
+        x402Version: 2,
+        error: 'Payment required',
+        resource: { url: `https://forgemesh.io/bots/${slug}/profile.json`, description: `Crawler Atlas profile of ${slug}: operator, purpose, user agents, robots token, verification, whether it pays, and network observations. $0.005/call. Humans read it free at /bots/${slug}.`, mimeType: 'application/json' },
+        accepts: [{ scheme: 'exact', network: 'eip155:8453', amount: '5000', asset: '0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913', payTo: '0x850363a27F0aC6fEb9C7a3eC4C1d295262dF9432', maxTimeoutSeconds: 300, extra: { name: 'USD Coin', version: '2' } }],
+      };
+      return new NextResponse(JSON.stringify(body), { status: 402, headers: { 'Content-Type': 'application/json', 'Cache-Control': 'no-store', 'PAYMENT-REQUIRED': btoa(JSON.stringify(body)) } });
+    }
+  }
+
   return NextResponse.next();
 }
 

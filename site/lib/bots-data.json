@@ -1,0 +1,1250 @@
+[
+    {
+        "slug": "googlebot",
+        "name": "Googlebot",
+        "class": "search",
+        "purpose": "search-index",
+        "operator": "Google",
+        "docs": "https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot",
+        "robots": "Googlebot",
+        "note": "Indexes pages for Google Search. Blocking it removes you from Google.",
+        "match": [
+            "googlebot"
+        ],
+        "verify": [
+            ".googlebot.com",
+            ".google.com"
+        ]
+    },
+    {
+        "slug": "google-inspectiontool",
+        "name": "Google-InspectionTool",
+        "class": "search",
+        "purpose": "search-index",
+        "operator": "Google",
+        "docs": "https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers",
+        "robots": "Google-InspectionTool",
+        "note": "Search Console URL inspection and rich-result tests.",
+        "match": [
+            "google-inspectiontool"
+        ],
+        "verify": [
+            ".googlebot.com",
+            ".google.com"
+        ]
+    },
+    {
+        "slug": "googleother",
+        "name": "GoogleOther",
+        "class": "ai",
+        "purpose": "training",
+        "operator": "Google",
+        "docs": "https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers",
+        "robots": "GoogleOther",
+        "note": "Generic Google crawler for research and development, including one-off and AI uses. Not Search.",
+        "match": [
+            "googleother"
+        ],
+        "verify": [
+            ".googlebot.com",
+            ".google.com"
+        ]
+    },
+    {
+        "slug": "bingbot",
+        "name": "Bingbot",
+        "class": "search",
+        "purpose": "search-index",
+        "operator": "Microsoft",
+        "docs": "https://www.bing.com/webmasters/help/which-crawlers-does-bing-use-8c184ec0",
+        "robots": "Bingbot",
+        "note": "Indexes for Bing, and feeds Copilot answers. Verified by reverse DNS.",
+        "match": [
+            "bingbot"
+        ],
+        "verify": [
+            ".search.msn.com"
+        ]
+    },
+    {
+        "slug": "duckduckbot",
+        "name": "DuckDuckBot",
+        "class": "search",
+        "purpose": "search-index",
+        "operator": "DuckDuckGo",
+        "docs": "https://duckduckgo.com/duckduckgo-help-pages/results/duckduckbot/",
+        "robots": "DuckDuckBot",
+        "note": "DuckDuckGo results.",
+        "match": [
+            "duckduckbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "applebot",
+        "name": "Applebot",
+        "class": "search",
+        "purpose": "search-index",
+        "operator": "Apple",
+        "docs": "https://support.apple.com/en-us/119829",
+        "robots": "Applebot",
+        "note": "Siri and Spotlight suggestions. Verified by reverse DNS.",
+        "match": [
+            "applebot"
+        ],
+        "verify": [
+            ".applebot.apple.com"
+        ]
+    },
+    {
+        "slug": "yandexbot",
+        "name": "YandexBot",
+        "class": "search",
+        "purpose": "search-index",
+        "operator": "Yandex",
+        "docs": "https://yandex.com/support/webmaster/robot-workings/check-yandex-robots.html",
+        "robots": "Yandex",
+        "note": "Yandex search.",
+        "match": [
+            "yandexbot",
+            "yandex.com/bots"
+        ],
+        "verify": [
+            ".yandex.ru",
+            ".yandex.net",
+            ".yandex.com"
+        ]
+    },
+    {
+        "slug": "baiduspider",
+        "name": "Baiduspider",
+        "class": "search",
+        "purpose": "search-index",
+        "operator": "Baidu",
+        "docs": "https://help.baidu.com/question?prod_id=99&class=0&id=3001",
+        "robots": "Baiduspider",
+        "note": "Baidu search.",
+        "match": [
+            "baiduspider"
+        ],
+        "verify": [
+            ".baidu.com",
+            ".baidu.jp"
+        ]
+    },
+    {
+        "slug": "yahoo-slurp",
+        "name": "Yahoo Slurp",
+        "class": "search",
+        "purpose": "search-index",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "yahoo! slurp"
+        ],
+        "verify": [
+            ".crawl.yahoo.net"
+        ]
+    },
+    {
+        "slug": "seznambot",
+        "name": "SeznamBot",
+        "class": "search",
+        "purpose": "search-index",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "seznambot"
+        ],
+        "verify": [
+            ".seznam.cz"
+        ]
+    },
+    {
+        "slug": "qwantbot",
+        "name": "Qwantbot",
+        "class": "search",
+        "purpose": "search-index",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "qwantbot",
+            "qwantify"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "gptbot",
+        "name": "GPTBot",
+        "class": "ai",
+        "purpose": "training",
+        "operator": "OpenAI",
+        "docs": "https://platform.openai.com/docs/bots",
+        "robots": "GPTBot",
+        "note": "Collects pages that may be used to train OpenAI models. Blocking it does not affect ChatGPT search or browsing.",
+        "match": [
+            "gptbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "chatgpt-user",
+        "name": "ChatGPT-User",
+        "class": "ai",
+        "purpose": "user-fetch",
+        "operator": "OpenAI",
+        "docs": "https://platform.openai.com/docs/bots",
+        "robots": "ChatGPT-User",
+        "note": "Fetches a page because a ChatGPT user asked about it. One request per user action, not bulk crawling.",
+        "match": [
+            "chatgpt-user"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "oai-searchbot",
+        "name": "OAI-SearchBot",
+        "class": "ai",
+        "purpose": "ai-search",
+        "operator": "OpenAI",
+        "docs": "https://platform.openai.com/docs/bots",
+        "robots": "OAI-SearchBot",
+        "note": "Builds the index behind ChatGPT search results. Blocking it removes you from ChatGPT search, not from training.",
+        "match": [
+            "oai-searchbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "claudebot",
+        "name": "ClaudeBot",
+        "class": "ai",
+        "purpose": "training",
+        "operator": "Anthropic",
+        "docs": "https://support.anthropic.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler",
+        "robots": "ClaudeBot",
+        "note": "Crawls for Anthropic model training data. Respects robots.txt.",
+        "match": [
+            "claudebot",
+            "anthropic-ai"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "claude-user",
+        "name": "Claude-User",
+        "class": "ai",
+        "purpose": "user-fetch",
+        "operator": "Anthropic",
+        "docs": "https://support.anthropic.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler",
+        "robots": "Claude-User",
+        "note": "Fetches a page because a Claude user asked about it.",
+        "match": [
+            "claude-user"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "claude-searchbot",
+        "name": "Claude-SearchBot",
+        "class": "ai",
+        "purpose": "ai-search",
+        "operator": "Anthropic",
+        "docs": "https://support.anthropic.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler",
+        "robots": "Claude-SearchBot",
+        "note": "Indexes for Claude search results.",
+        "match": [
+            "claude-searchbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "perplexitybot",
+        "name": "PerplexityBot",
+        "class": "ai",
+        "purpose": "ai-search",
+        "operator": "Perplexity",
+        "docs": "https://docs.perplexity.ai/guides/bots",
+        "robots": "PerplexityBot",
+        "note": "Indexes pages to cite in Perplexity answers. Not used for training, per Perplexity.",
+        "match": [
+            "perplexitybot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "perplexity-user",
+        "name": "Perplexity-User",
+        "class": "ai",
+        "purpose": "user-fetch",
+        "operator": "Perplexity",
+        "docs": "https://docs.perplexity.ai/guides/bots",
+        "robots": "Perplexity-User",
+        "note": "Fetches a page on behalf of a user query. Perplexity documents that it generally ignores robots.txt for these user-initiated fetches.",
+        "match": [
+            "perplexity-user"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "google-extended",
+        "name": "Google-Extended",
+        "class": "ai",
+        "purpose": "training",
+        "operator": "Google",
+        "docs": "https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers",
+        "robots": "Google-Extended",
+        "note": "A robots.txt token, not a separate crawler: it controls whether Google may use your content for Gemini and AI model training. Search is unaffected.",
+        "match": [
+            "google-extended"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "gemini-deep-research",
+        "name": "Gemini-Deep-Research",
+        "class": "ai",
+        "purpose": "user-fetch",
+        "operator": "Google",
+        "docs": "https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers",
+        "robots": "Google-Extended",
+        "note": "Fetches pages on behalf of a Gemini user running a research task.",
+        "match": [
+            "gemini-deep-research"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "amazonbot",
+        "name": "Amazonbot",
+        "class": "ai",
+        "purpose": "training",
+        "operator": "Amazon",
+        "docs": "https://developer.amazon.com/amazonbot",
+        "robots": "Amazonbot",
+        "note": "Improves Alexa and other Amazon services; may be used for AI.",
+        "match": [
+            "amazonbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "applebot-extended",
+        "name": "Applebot-Extended",
+        "class": "ai",
+        "purpose": "training",
+        "operator": "Apple",
+        "docs": "https://support.apple.com/en-us/119829",
+        "robots": "Applebot-Extended",
+        "note": "Token controlling whether Applebot-fetched content may train Apple foundation models.",
+        "match": [
+            "applebot-extended"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "meta-externalagent",
+        "name": "Meta-ExternalAgent",
+        "class": "ai",
+        "purpose": "training",
+        "operator": "Meta",
+        "docs": "https://developers.facebook.com/docs/sharing/webmasters/web-crawlers",
+        "robots": "Meta-ExternalAgent",
+        "note": "Crawls for Meta AI model training and product improvement.",
+        "match": [
+            "meta-externalagent",
+            "meta-externalfetcher",
+            "facebookbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "bytespider",
+        "name": "Bytespider",
+        "class": "ai",
+        "purpose": "training",
+        "operator": "ByteDance",
+        "docs": "",
+        "robots": "Bytespider",
+        "note": "ByteDance (TikTok) crawler widely reported to feed AI training. No published operator documentation or opt-out page.",
+        "match": [
+            "bytespider",
+            "tiktokspider"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "ccbot",
+        "name": "CCBot",
+        "class": "ai",
+        "purpose": "archive",
+        "operator": "Common Crawl",
+        "docs": "https://commoncrawl.org/ccbot",
+        "robots": "CCBot",
+        "note": "Builds the open Common Crawl corpus, which many AI labs have trained on. Non-profit; respects robots.txt.",
+        "match": [
+            "ccbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "cohere-ai",
+        "name": "cohere-ai",
+        "class": "ai",
+        "purpose": "training",
+        "operator": "Cohere",
+        "docs": "",
+        "robots": "cohere-ai",
+        "note": "No published crawler documentation.",
+        "match": [
+            "cohere-ai",
+            "cohere-training-data-crawler"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "mistralai-user",
+        "name": "MistralAI-User",
+        "class": "ai",
+        "purpose": "user-fetch",
+        "operator": "Mistral AI",
+        "docs": "https://docs.mistral.ai/robots/",
+        "robots": "MistralAI-User",
+        "note": "Fetches a page on behalf of a Le Chat user.",
+        "match": [
+            "mistralai-user"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "duckassistbot",
+        "name": "DuckAssistBot",
+        "class": "ai",
+        "purpose": "ai-search",
+        "operator": "DuckDuckGo",
+        "docs": "https://duckduckgo.com/duckduckgo-help-pages/results/duckassistbot/",
+        "robots": "DuckAssistBot",
+        "note": "Sources for DuckAssist AI answers.",
+        "match": [
+            "duckassistbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "youbot",
+        "name": "YouBot",
+        "class": "ai",
+        "purpose": "ai-search",
+        "operator": "You.com",
+        "docs": "https://about.you.com/youbot/",
+        "robots": "YouBot",
+        "note": "You.com AI search.",
+        "match": [
+            "youbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "diffbot",
+        "name": "Diffbot",
+        "class": "ai",
+        "purpose": "scraping",
+        "operator": "Diffbot",
+        "docs": "https://www.diffbot.com/",
+        "robots": "Diffbot",
+        "note": "Commercial web-data extraction resold to customers.",
+        "match": [
+            "diffbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "imagesiftbot",
+        "name": "ImagesiftBot",
+        "class": "ai",
+        "purpose": "scraping",
+        "operator": "Hive",
+        "docs": "https://imagesift.com/about",
+        "robots": "ImagesiftBot",
+        "note": "Image indexing for a reverse-image product.",
+        "match": [
+            "imagesiftbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "omgili",
+        "name": "Omgili",
+        "class": "ai",
+        "purpose": "scraping",
+        "operator": "Webz.io",
+        "docs": "https://webz.io/bot/",
+        "robots": "omgili",
+        "note": "Commercial web-data feeds resold to customers, including AI companies.",
+        "match": [
+            "omgili",
+            "webzio"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "ai2bot",
+        "name": "AI2Bot",
+        "class": "ai",
+        "purpose": "training",
+        "operator": "Allen Institute for AI",
+        "docs": "https://allenai.org/crawler",
+        "robots": "AI2Bot",
+        "note": "Open research models (OLMo).",
+        "match": [
+            "ai2bot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "petalbot",
+        "name": "PetalBot",
+        "class": "ai",
+        "purpose": "search-index",
+        "operator": "Huawei",
+        "docs": "https://aspiegel.com/petalbot",
+        "robots": "PetalBot",
+        "note": "Petal Search and AI features.",
+        "match": [
+            "petalbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "timpibot",
+        "name": "Timpibot",
+        "class": "ai",
+        "purpose": "search-index",
+        "operator": "Timpi",
+        "docs": "https://timpi.io",
+        "robots": "Timpibot",
+        "note": "Decentralised search index.",
+        "match": [
+            "timpibot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "iaskbot",
+        "name": "iAskBot",
+        "class": "ai",
+        "purpose": "ai-search",
+        "operator": "iAsk",
+        "docs": "",
+        "robots": "iAskBot",
+        "note": "AI answer engine.",
+        "match": [
+            "iaskspider",
+            "iaskbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "kagibot",
+        "name": "Kagibot",
+        "class": "ai",
+        "purpose": "search-index",
+        "operator": "Kagi",
+        "docs": "https://kagi.com/bot",
+        "robots": "Kagibot",
+        "note": "Paid search engine; also feeds its assistant.",
+        "match": [
+            "kagibot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "deepseekbot",
+        "name": "DeepSeekBot",
+        "class": "ai",
+        "purpose": "training",
+        "operator": "DeepSeek",
+        "docs": "",
+        "robots": "DeepSeekBot",
+        "note": "No published crawler documentation.",
+        "match": [
+            "deepseekbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "grok",
+        "name": "Grok",
+        "class": "ai",
+        "purpose": "user-fetch",
+        "operator": "xAI",
+        "docs": "",
+        "robots": "",
+        "note": "Fetches on behalf of Grok users; no published crawler documentation.",
+        "match": [
+            "xai-grok",
+            "grokbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "brave-search",
+        "name": "Brave Search",
+        "class": "ai",
+        "purpose": "search-index",
+        "operator": "Brave",
+        "docs": "https://search.brave.com/help/brave-search-crawler",
+        "robots": "Bravebot",
+        "note": "Independent index; also sold as a search API to AI companies.",
+        "match": [
+            "bravebot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "firecrawl",
+        "name": "Firecrawl",
+        "class": "ai",
+        "purpose": "agent-retrieval",
+        "operator": "Firecrawl (agent tooling)",
+        "docs": "https://www.firecrawl.dev/",
+        "robots": "",
+        "note": "Developer service that fetches pages for AI agents. The agent behind it could be an x402 payer.",
+        "match": [
+            "firecrawl"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "jina-reader",
+        "name": "Jina Reader",
+        "class": "ai",
+        "purpose": "agent-retrieval",
+        "operator": "Jina AI (agent tooling)",
+        "docs": "https://jina.ai/reader/",
+        "robots": "",
+        "note": "Converts pages to text for LLM agents on request.",
+        "match": [
+            "jina",
+            "readerbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "exa",
+        "name": "Exa",
+        "class": "ai",
+        "purpose": "agent-retrieval",
+        "operator": "Exa (agent tooling)",
+        "docs": "https://exa.ai/",
+        "robots": "",
+        "note": "Neural search API for agents.",
+        "match": [
+            "exabot",
+            "exa.ai"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "tavily",
+        "name": "Tavily",
+        "class": "ai",
+        "purpose": "agent-retrieval",
+        "operator": "Tavily (agent tooling)",
+        "docs": "https://tavily.com/",
+        "robots": "",
+        "note": "Search and fetch API for agents.",
+        "match": [
+            "tavily"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "browserbase",
+        "name": "Browserbase",
+        "class": "ai",
+        "purpose": "agent-retrieval",
+        "operator": "Browserbase (agent tooling)",
+        "docs": "https://www.browserbase.com/",
+        "robots": "",
+        "note": "Hosted browsers driven by agents.",
+        "match": [
+            "browserbase"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "ahrefsbot",
+        "name": "AhrefsBot",
+        "class": "seo",
+        "purpose": "seo",
+        "operator": "Ahrefs",
+        "docs": "https://ahrefs.com/robot",
+        "robots": "AhrefsBot",
+        "note": "Backlink and SEO index sold to marketers. Blocking it hides your site from Ahrefs users, not from Google.",
+        "match": [
+            "ahrefsbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "semrushbot",
+        "name": "SemrushBot",
+        "class": "seo",
+        "purpose": "seo",
+        "operator": "Semrush",
+        "docs": "https://www.semrush.com/bot/",
+        "robots": "SemrushBot",
+        "note": "SEO data product.",
+        "match": [
+            "semrushbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "mj12bot",
+        "name": "MJ12bot",
+        "class": "seo",
+        "purpose": "seo",
+        "operator": "Majestic",
+        "docs": "https://mj12bot.com/",
+        "robots": "MJ12bot",
+        "note": "Backlink index.",
+        "match": [
+            "mj12bot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "dotbot",
+        "name": "DotBot",
+        "class": "seo",
+        "purpose": "seo",
+        "operator": "Moz",
+        "docs": "https://moz.com/help/moz-procedures/crawlers/dotbot",
+        "robots": "dotbot",
+        "note": "Moz link index.",
+        "match": [
+            "dotbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "dataforseobot",
+        "name": "DataForSeoBot",
+        "class": "seo",
+        "purpose": "seo",
+        "operator": "DataForSEO",
+        "docs": "https://dataforseo.com/dataforseo-bot",
+        "robots": "DataForSeoBot",
+        "note": "SEO data API resold to tools.",
+        "match": [
+            "dataforseobot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "blexbot",
+        "name": "BLEXBot",
+        "class": "seo",
+        "purpose": "seo",
+        "operator": "WebMeUp",
+        "docs": "https://webmeup.com/",
+        "robots": "BLEXBot",
+        "note": "Backlink index.",
+        "match": [
+            "blexbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "screaming-frog",
+        "name": "Screaming Frog",
+        "class": "seo",
+        "purpose": "seo",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "screaming frog"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "siteauditbot",
+        "name": "SiteAuditBot",
+        "class": "seo",
+        "purpose": "seo",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "siteauditbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "facebook-preview",
+        "name": "Facebook preview",
+        "class": "social",
+        "purpose": "social",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "facebookexternalhit"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "twitterbot",
+        "name": "Twitterbot",
+        "class": "social",
+        "purpose": "social",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "twitterbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "linkedinbot",
+        "name": "LinkedInBot",
+        "class": "social",
+        "purpose": "social",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "linkedinbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "slackbot",
+        "name": "Slackbot",
+        "class": "social",
+        "purpose": "social",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "slackbot",
+            "slack-imgproxy"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "discordbot",
+        "name": "Discordbot",
+        "class": "social",
+        "purpose": "social",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "discordbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "telegrambot",
+        "name": "TelegramBot",
+        "class": "social",
+        "purpose": "social",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "telegrambot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "whatsapp",
+        "name": "WhatsApp",
+        "class": "social",
+        "purpose": "social",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "whatsapp"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "pinterestbot",
+        "name": "Pinterestbot",
+        "class": "social",
+        "purpose": "social",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "pinterestbot",
+            "pinterest/"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "redditbot",
+        "name": "Redditbot",
+        "class": "social",
+        "purpose": "social",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "redditbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "mastodon",
+        "name": "Mastodon",
+        "class": "social",
+        "purpose": "social",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "mastodon"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "bluesky",
+        "name": "Bluesky",
+        "class": "social",
+        "purpose": "social",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "bluesky cardyb"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "imessage-preview",
+        "name": "iMessage preview",
+        "class": "social",
+        "purpose": "social",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "facebot twitterbot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "uptimerobot",
+        "name": "UptimeRobot",
+        "class": "monitor",
+        "purpose": "monitor",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "uptimerobot"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "pingdom",
+        "name": "Pingdom",
+        "class": "monitor",
+        "purpose": "monitor",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "pingdom"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "statuscake",
+        "name": "StatusCake",
+        "class": "monitor",
+        "purpose": "monitor",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "statuscake"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "better-uptime",
+        "name": "Better Uptime",
+        "class": "monitor",
+        "purpose": "monitor",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "betteruptime",
+            "better uptime"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "feed-reader",
+        "name": "Feed reader",
+        "class": "monitor",
+        "purpose": "monitor",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "feedly",
+            "feedbin",
+            "inoreader",
+            "newsblur",
+            "feedfetcher"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "internet-archive",
+        "name": "Internet Archive",
+        "class": "monitor",
+        "purpose": "archive",
+        "operator": "Internet Archive",
+        "docs": "https://archive.org/details/archive.org_bot",
+        "robots": "ia_archiver",
+        "note": "Wayback Machine. Non-profit preservation.",
+        "match": [
+            "archive.org_bot",
+            "ia_archiver"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "wordpress",
+        "name": "WordPress",
+        "class": "monitor",
+        "purpose": "monitor",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "wordpress/"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "curl",
+        "name": "curl",
+        "class": "automation",
+        "purpose": "scraping",
+        "operator": "Unknown (bare tool)",
+        "docs": "",
+        "robots": "",
+        "note": "Command-line fetches, often tests or scripts.",
+        "match": [
+            "curl/"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "wget",
+        "name": "wget",
+        "class": "automation",
+        "purpose": "scraping",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "wget/"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "python-requests",
+        "name": "python-requests",
+        "class": "automation",
+        "purpose": "scraping",
+        "operator": "Unknown (bare library)",
+        "docs": "",
+        "robots": "",
+        "note": "The default user agent of the Python requests library. Someone wrote a script and did not identify it.",
+        "match": [
+            "python-requests",
+            "python-urllib",
+            "aiohttp",
+            "httpx/"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "scrapy",
+        "name": "Scrapy",
+        "class": "automation",
+        "purpose": "scraping",
+        "operator": "Unknown (framework)",
+        "docs": "https://scrapy.org/",
+        "robots": "",
+        "note": "Purpose-built scraping framework; usually bulk.",
+        "match": [
+            "scrapy"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "go-http-client",
+        "name": "Go-http-client",
+        "class": "automation",
+        "purpose": "scraping",
+        "operator": "Unknown (bare library)",
+        "docs": "",
+        "robots": "",
+        "note": "Default Go HTTP client user agent.",
+        "match": [
+            "go-http-client"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "node-fetch",
+        "name": "Node fetch",
+        "class": "automation",
+        "purpose": "scraping",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "node-fetch",
+            "undici",
+            "axios/",
+            "got ("
+        ],
+        "verify": []
+    },
+    {
+        "slug": "java-http",
+        "name": "Java HTTP",
+        "class": "automation",
+        "purpose": "scraping",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "java/",
+            "okhttp",
+            "apache-httpclient"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "headless-browser",
+        "name": "Headless browser",
+        "class": "automation",
+        "purpose": "scraping",
+        "operator": "Unknown (automation)",
+        "docs": "",
+        "robots": "",
+        "note": "Headless Chrome, Playwright or Puppeteer: renders the page like a person would, usually to scrape or to act as an agent.",
+        "match": [
+            "headlesschrome",
+            "phantomjs",
+            "puppeteer",
+            "playwright",
+            "selenium"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "httpie",
+        "name": "HTTPie",
+        "class": "automation",
+        "purpose": "scraping",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "httpie"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "postmanruntime",
+        "name": "PostmanRuntime",
+        "class": "automation",
+        "purpose": "scraping",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "postmanruntime"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "libwww",
+        "name": "libwww",
+        "class": "automation",
+        "purpose": "scraping",
+        "operator": "",
+        "docs": "",
+        "robots": "",
+        "note": "",
+        "match": [
+            "libwww",
+            "lwp-trivial"
+        ],
+        "verify": []
+    },
+    {
+        "slug": "x402-client",
+        "name": "x402 client",
+        "class": "automation",
+        "purpose": "agent-retrieval",
+        "operator": "An x402-capable agent",
+        "docs": "https://x402.org",
+        "robots": "",
+        "note": "A client that understands HTTP 402 and can pay. These are the only crawlers that pay today.",
+        "match": [
+            "x402",
+            "mpp/"
+        ],
+        "verify": []
+    }
+]
