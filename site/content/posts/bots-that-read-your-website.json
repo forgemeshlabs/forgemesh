@@ -23,15 +23,15 @@
     {
       "heading": "What the first hour looked like",
       "paras": [
-        "The ledger showed PerplexityBot with 5 fetches, classed as AI. AhrefsBot with 5, classed as SEO. The bare Python library user agent, python-requests, with 5, classed as automation. One human. And one request claiming to be Googlebot.",
+        "The ledger showed [PerplexityBot](https://forgemesh.io/bots/perplexitybot) with 5 fetches, classed as AI. [AhrefsBot](https://forgemesh.io/bots/ahrefsbot) with 5, classed as SEO. The bare Python library user agent, [python-requests](https://forgemesh.io/bots/python-requests), with 5, classed as automation. One human. And one request claiming to be [Googlebot](https://forgemesh.io/bots/googlebot).",
         "That last one did not survive a reverse DNS lookup. Google documents the check: take the IP address, look up its hostname, confirm the hostname ends in googlebot.com, google.com or googleusercontent.com, then resolve the hostname forward and confirm it returns the same IP. This address failed, so the plugin demoted it to automation. Real Googlebot is verified and stays free, so the fake is treated like any other script.",
-        "The more interesting result was who did not show up. GPTBot, ClaudeBot, Bytespider and CCBot never reached the blog. The site's CDN had its block-AI-bots switch on and answered 403 at the edge, so the plugin never saw them. That is a useful lesson in itself: a CDN-level block and a paywall are alternatives. A bot that is refused at the edge cannot be asked to pay."
+        "The more interesting result was who did not show up. [GPTBot](https://forgemesh.io/bots/gptbot), [ClaudeBot](https://forgemesh.io/bots/claudebot), [Bytespider](https://forgemesh.io/bots/bytespider) and [CCBot](https://forgemesh.io/bots/ccbot) never reached the blog. The site's CDN had its block-AI-bots switch on and answered 403 at the edge, so the plugin never saw them. That is a useful lesson in itself: a CDN-level block and a paywall are alternatives. A bot that is refused at the edge cannot be asked to pay."
       ]
     },
     {
       "heading": "Search engine indexers",
       "paras": [
-        "**What they want:** your pages, so they can send you visitors. Googlebot (robots.txt token Googlebot), Bingbot, Applebot and the like are the reason people find you.",
+        "**What they want:** your pages, so they can send you visitors. Googlebot (robots.txt token Googlebot), [Bingbot](https://forgemesh.io/bots/bingbot), [Applebot](https://forgemesh.io/bots/applebot) and the like are the reason people find you.",
         "**Does blocking hurt?** Yes, directly. Block them and you vanish from search.",
         "**How to verify:** Google publishes the two-way reverse DNS check above and JSON files of crawler IP ranges. Bing documents bingbot.json IP ranges and reverse DNS that resolves to search.msn.com. Apple documents reverse DNS under applebot.apple.com and an applebot.json range file. Never trust the user-agent string alone.",
         "**Will they pay?** No. They are the traffic side of the bargain, which is why a sensible paywall lets verified search engines through free."
@@ -40,8 +40,8 @@
     {
       "heading": "AI training crawlers",
       "paras": [
-        "**What they want:** text to train foundation models. GPTBot is OpenAI's, and OpenAI's docs say disallowing it signals that your content should not be used for training. ClaudeBot is Anthropic's, with the same robots.txt token name. Meta-ExternalAgent crawls to train models, per Meta's crawler docs. CCBot (see below) feeds the open datasets many labs draw from. Bytespider is ByteDance's crawler, and it has been widely reported to ignore robots.txt, including in a Fortune investigation in October 2024. ByteDance's own documentation is thin, so check your logs rather than trusting a Disallow line.",
-        "Two entries in this family are not crawlers at all. Google-Extended and Applebot-Extended are robots.txt product tokens. Google says Google-Extended governs whether crawled content may train Gemini models and ground Gemini answers, and that it does not affect Search. Apple says Applebot-Extended does not crawl anything and only controls how data Applebot already collected may be used.",
+        "**What they want:** text to train foundation models. GPTBot is OpenAI's, and OpenAI's docs say disallowing it signals that your content should not be used for training. ClaudeBot is Anthropic's, with the same robots.txt token name. [Meta-ExternalAgent](https://forgemesh.io/bots/meta-externalagent) crawls to train models, per Meta's crawler docs. CCBot (see below) feeds the open datasets many labs draw from. Bytespider is ByteDance's crawler, and it has been widely reported to ignore robots.txt, including in a Fortune investigation in October 2024. ByteDance's own documentation is thin, so check your logs rather than trusting a Disallow line.",
+        "Two entries in this family are not crawlers at all. [Google-Extended](https://forgemesh.io/bots/google-extended) and Applebot-Extended are robots.txt product tokens. Google says Google-Extended governs whether crawled content may train Gemini models and ground Gemini answers, and that it does not affect Search. Apple says Applebot-Extended does not crawl anything and only controls how data Applebot already collected may be used.",
         "**Does blocking hurt?** Not your search traffic. It means you opt out of training sets, which is a business decision rather than a technical one.",
         "**Will they pay?** Not per page, not to you. More on that below."
       ]
@@ -49,8 +49,8 @@
     {
       "heading": "AI search and retrieval bots",
       "paras": [
-        "This is a different animal from the training crawlers, and mixing them up is the most common mistake in robots.txt files. Some bots build a search index so an AI product can cite you: OAI-SearchBot for ChatGPT search, Claude-SearchBot for Anthropic, PerplexityBot for Perplexity. OpenAI says sites that opt out of OAI-SearchBot will not appear in ChatGPT search answers. Perplexity says PerplexityBot is for surfacing and linking sites in results and is not used to train foundation models.",
-        "Then there are the user-triggered fetchers: ChatGPT-User, Claude-User and Perplexity-User. They fetch one page because a person just asked a question that needs it. They are not crawling, so they behave differently. OpenAI says robots.txt rules may not apply to ChatGPT-User because a user initiated the action. Perplexity says Perplexity-User generally ignores robots.txt for the same reason. Anthropic's documentation lists a Claude-User token and says its bots honor robots.txt. The three vendors do not agree, so read each one's page.",
+        "This is a different animal from the training crawlers, and mixing them up is the most common mistake in robots.txt files. Some bots build a search index so an AI product can cite you: [OAI-SearchBot](https://forgemesh.io/bots/oai-searchbot) for ChatGPT search, Claude-SearchBot for Anthropic, PerplexityBot for Perplexity. OpenAI says sites that opt out of OAI-SearchBot will not appear in ChatGPT search answers. Perplexity says PerplexityBot is for surfacing and linking sites in results and is not used to train foundation models.",
+        "Then there are the user-triggered fetchers: [ChatGPT-User](https://forgemesh.io/bots/chatgpt-user), [Claude-User](https://forgemesh.io/bots/claude-user) and [Perplexity-User](https://forgemesh.io/bots/perplexity-user). They fetch one page because a person just asked a question that needs it. They are not crawling, so they behave differently. OpenAI says robots.txt rules may not apply to ChatGPT-User because a user initiated the action. Perplexity says Perplexity-User generally ignores robots.txt for the same reason. Anthropic's documentation lists a Claude-User token and says its bots honor robots.txt. The three vendors do not agree, so read each one's page.",
         "**Does blocking hurt?** Possibly. Blocking the search bots can remove you from AI answers that cite sources, and blocking the fetchers can mean an assistant tells a user it could not read your page. Whether that matters depends on whether you want those citations.",
         "**How to verify:** OpenAI, Perplexity and Anthropic each publish IP ranges as JSON, so match the address against them.",
         "**Will they pay?** Today, no. These fetches are the closest thing to a human reading your page, and a person may click through from the answer, which is the payoff they offer instead."
@@ -59,7 +59,7 @@
     {
       "heading": "SEO and backlink crawlers",
       "paras": [
-        "**What they want:** your pages and your links, to sell reports to marketers. AhrefsBot builds the index behind Ahrefs and its search engine Yep, obeys robots.txt including crawl-delay, and can be verified when reverse DNS ends in ahrefs.com or ahrefs.net. Semrush runs a family of tokens, among them SemrushBot, SiteAuditBot and SemrushBot-BA, each tied to a different tool, and says blocking by IP will not work because it does not use consecutive ranges. Moz's crawler is DotBot, which feeds its link index.",
+        "**What they want:** your pages and your links, to sell reports to marketers. AhrefsBot builds the index behind Ahrefs and its search engine Yep, obeys robots.txt including crawl-delay, and can be verified when reverse DNS ends in ahrefs.com or ahrefs.net. Semrush runs a family of tokens, among them [SemrushBot](https://forgemesh.io/bots/semrushbot), SiteAuditBot and SemrushBot-BA, each tied to a different tool, and says blocking by IP will not work because it does not use consecutive ranges. Moz's crawler is DotBot, which feeds its link index.",
         "**Does blocking hurt?** Not your rankings. It only hides you from competitors' tools, and from your own if you use them. Crawl-delay, which Ahrefs and Semrush's backlink crawler support, slows them without blocking.",
         "**Will they pay?** They are commercial businesses, so in principle a metered fee is a fair trade. In practice none of them offers to pay today, and most site owners just rate-limit them."
       ]
@@ -114,6 +114,12 @@
         "**Verify.** Check claimed search engines by reverse DNS or published IP ranges, and demote the ones that fail.",
         "**Block.** Use robots.txt tokens for the crawlers that honor them, and an edge or CDN rule for the ones that do not. Remember that an edge block means that bot never gets the option to pay.",
         "**Price.** Put a 402 and a price in front of the traffic you do not want for free, and let verified search engines and humans through. Revenue from this today is small, because few clients can pay. But you will learn who is willing to, and the page is ready when more of them can."
+      ]
+    },
+    {
+      "heading": "Look any bot up",
+      "paras": [
+        "Every crawler in this guide, and eighty more, has a profile card in the [Crawler Atlas](https://forgemesh.io/bots): who runs it, what it does with your pages, its robots.txt line, how to verify it, whether it pays, and what sites across the network observe. If you run a crawler, [publish a crawler-profile.json](https://github.com/forgemeshlabs/crawler-profile) on your domain and your page gets a verified badge."
       ]
     }
   ],
