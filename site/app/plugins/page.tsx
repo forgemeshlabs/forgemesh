@@ -55,16 +55,16 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
   title: 'Pay-per-Crawl plugins: WordPress, Next.js, Vercel, Workers, Node, nginx, Python, Go, PHP | ForgeMesh Labs',
   description:
-    'Let AI crawlers pay for your pages. Free, open-source Pay-per-Crawl plugins for WordPress, Python, JavaScript, Go and PHP charge bots per page in USDC on Base, straight to your wallet. Humans read free. You keep 100%.',
+    'Know who crawls your site. Charge the ones that can pay. Free, open-source Pay-per-Crawl plugins for WordPress, Python, JavaScript, Go and PHP: a bot ledger with an HTTP 402 price tag in USDC on Base. Humans read free. You keep 100%.',
   keywords: [
-    'pay per crawl', 'charge AI crawlers', 'AI bot paywall', 'monetize AI scrapers', 'x402 middleware',
+    'pay per crawl', 'charge AI crawlers', 'AI bot paywall', 'AI crawler ledger', 'x402 middleware',
     'x402 python', 'x402 npm', 'x402 go middleware', 'x402 laravel', 'x402 drupal', 'x402 cloudflare worker',
     'x402 next.js', 'WordPress x402 plugin', 'USDC Base',
   ],
   alternates: { canonical: '/plugins' },
   openGraph: {
     title: 'Pay-per-Crawl plugins for every stack',
-    description: 'Let AI crawlers pay for your pages. WordPress, Python, JavaScript, Go, PHP. USDC on Base, straight to your wallet. You keep 100%.',
+    description: 'Know who crawls your site. Charge the ones that can pay. WordPress, Python, JavaScript, Go, PHP. USDC on Base, straight to your wallet. You keep 100%.',
     type: 'website',
     url: 'https://forgemesh.io/plugins',
   },
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     site: '@forgemeshlabs',
     title: 'Pay-per-Crawl plugins for every stack',
-    description: 'Let AI crawlers pay for your pages. WordPress, Python, JavaScript, Go, PHP. You keep 100%.',
+    description: 'Know who crawls your site. Charge the ones that can pay. WordPress, Python, JavaScript, Go, PHP. You keep 100%.',
   },
 };
 
@@ -114,7 +114,7 @@ const structuredData = {
         {
           '@type': 'Question',
           name: 'What is Pay-per-Crawl?',
-          acceptedAnswer: { '@type': 'Answer', text: 'A small plugin or middleware for your website that answers AI crawlers and bots with an HTTP 402 Payment Required and serves the page once they pay a few cents in USDC on Base, directly to your wallet. Humans and verified search engines keep reading free.' },
+          acceptedAnswer: { '@type': 'Answer', text: 'A small plugin or middleware for your website that shows you every AI crawler, SEO crawler and script, and answers them with an HTTP 402 Payment Required price in USDC on Base. x402-capable agents can pay it and the money goes directly to your wallet. The big AI labs\' crawlers (GPTBot, ClaudeBot, PerplexityBot) do not pay per page yet. Humans and verified search engines keep reading free.' },
         },
         {
           '@type': 'Question',
@@ -124,7 +124,7 @@ const structuredData = {
         {
           '@type': 'Question',
           name: 'Will it block my readers or Google?',
-          acceptedAnswer: { '@type': 'Answer', text: 'No. Humans and reverse-DNS-verified search engines such as Googlebot and Bingbot read free. Only AI crawlers and other bots get the 402. Start in Monitor mode to watch traffic before charging anyone.' },
+          acceptedAnswer: { '@type': 'Answer', text: 'No. Humans and reverse-DNS-verified search engines such as Googlebot and Bingbot read free. Only AI crawlers, SEO crawlers and other bots get the 402. Start in Monitor mode to watch traffic before charging anyone.' },
         },
         {
           '@type': 'Question',
@@ -145,7 +145,7 @@ const structuredData = {
 
 const features = [
   ['You keep 100%', 'Payments settle on Base straight to the wallet you paste in. No custody, no account, no API key, no middleman cut.'],
-  ['Only bots pay', 'Humans and reverse-DNS-verified search engines read free. AI crawlers and other bots get an HTTP 402 and pay per page.'],
+  ['Only bots are priced', 'Humans and reverse-DNS-verified search engines read free. AI crawlers, SEO crawlers and scripts get an HTTP 402. x402-capable agents can pay it; the big AI labs\' crawlers do not yet.'],
   ['Monitor mode first', 'Watch real bot traffic and what it would have paid without charging anyone, then switch to Charge when the numbers make sense.'],
   ['Same behaviour on every stack', 'One crawler catalog (85 known agents), one 402 shape, one classifier. Pick the edition that matches your site and get the same result.'],
   ['x402 plus MPP', 'Every 402 carries an x402 v1 and v2 offer and an MPP challenge alongside it, so more agent clients can pay.'],
@@ -184,14 +184,13 @@ export default function PluginsPage() {
             </div>
 
             <h1 className="text-3xl font-semibold leading-[1.08] tracking-tight text-slate-50 sm:text-5xl">
-              Pay-per-Crawl for every stack. Let AI crawlers pay for your pages.
+              Pay-per-Crawl for every stack. Know who crawls your site. Charge the ones that can pay.
             </h1>
 
             <p className="mt-6 text-lg leading-8 text-slate-300">
-              AI companies read your site to train and answer, and you get nothing back. Drop one of
-              these plugins in front of your site and AI crawlers and bots pay{' '}
-              <strong className="text-slate-200">per page</strong> with x402 USDC micropayments on Base,
-              straight to your wallet. You keep 100%. There is no custody, no account and no API key.
+              Pay-per-Crawl shows you every AI crawler, SEO crawler and script that fetches your pages, verifies the real search engines by reverse DNS so SEO is untouched, and lets you answer everything else with a standard HTTP 402 price in USDC on Base, paid to your own wallet.
+              Be clear about what pays today: x402-capable agents do; the big AI labs&apos; crawlers (GPTBot, ClaudeBot, PerplexityBot and friends) do not yet pay anyone per page, and they simply get no content from a charging site. Until they do, this is an honest bot ledger with the price already on the door. You see who takes what, you can block or charge any of it, and when a crawler does pay, it goes straight to you. Nobody in between holds the money.
+              You keep 100%. There is no custody, no account and no API key.
             </p>
             <p className="mt-4 text-base leading-8 text-slate-400">
               Your readers are untouched: humans and reverse-DNS-verified search engines read free.
