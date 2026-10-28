@@ -2,6 +2,7 @@ import type { MetadataRoute } from 'next';
 import { allPosts } from '@/lib/runtime-blog';
 import { loadVinProblemsIndex } from '@/lib/vin-problems';
 import { loadVerified } from '@/lib/verified-data';
+import { BOTS } from '@/lib/bots';
 
 // Regenerated per-request so runtime-published posts are indexed immediately.
 export const dynamic = 'force-dynamic';
@@ -12,6 +13,7 @@ const BASE = 'https://forgemesh.io';
 // blog posts are picked up automatically from lib/blog.ts.
 const STATIC_ROUTES = [
   '/',
+  '/bots',
   '/402-payment-required',
   '/blog',
   '/botboard',
@@ -79,6 +81,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: `${BASE}/blog/${p.slug}`,
       lastModified: p.date,
     })),
+    ...BOTS.map((b) => ({ url: `${BASE}/bots/${b.slug}` })),
     ...VIN_PROBLEMS.map((e) => ({ url: `${BASE}/vin/${e.slug}` })),
     ...VERIFIED_SELLERS.map((s) => ({ url: `${BASE}/verified/${s.slug}` })),
     ...DISCOVERY_ROUTES.map((path) => ({ url: `${BASE}${path}` })),
