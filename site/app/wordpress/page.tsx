@@ -173,15 +173,57 @@ export default function WordPressPage() {
             <figure className="mt-6">
               <img
                 src="/wordpress/dashboard.png"
-                alt="Pay-per-Crawl Bot analytics dashboard in wp-admin showing bots by name and class, hits, paths, revenue and settlements"
-                width={1100}
-                height={2658}
+                alt="Pay-per-Crawl Bot analytics dashboard in wp-admin showing bot hits per day, who is crawling, paid fetches and revenue"
+                width={1120}
+                height={900}
                 loading="lazy"
                 decoding="async"
                 className="w-full rounded border border-white/[0.08]"
               />
               <figcaption className="mt-2 text-sm text-slate-500">
                 Bot analytics: who is crawling, what they read, what they paid.
+              </figcaption>
+            </figure>
+            <figure className="mt-8">
+              <img
+                src="/wordpress/bot-directory.png"
+                alt="Pay-per-Crawl bot directory: every known crawler grouped by purpose, searchable, with who runs it, its robots.txt token, how it is verified and what this site does with it"
+                width={1120}
+                height={900}
+                loading="lazy"
+                decoding="async"
+                className="w-full rounded border border-white/[0.08]"
+              />
+              <figcaption className="mt-2 text-sm text-slate-500">
+                Bot directory: every crawler explained for humans, grouped by what it is for, searchable, and it grows as new bots appear. Version 0.2.3.
+              </figcaption>
+            </figure>
+            <figure className="mt-8">
+              <img
+                src="/wordpress/pricing-rules.png"
+                alt="Pay-per-Crawl pricing rules editor: charge, free or block by post type, category, path, bot name, bot purpose or bot class, each with its own price"
+                width={1120}
+                height={760}
+                loading="lazy"
+                decoding="async"
+                className="w-full rounded border border-white/[0.08]"
+              />
+              <figcaption className="mt-2 text-sm text-slate-500">
+                Pricing rules (Pro): different prices for different parts of your site and different bots. First match wins. Version 0.2.3.
+              </figcaption>
+            </figure>
+            <figure className="mt-8">
+              <img
+                src="/wordpress/audit.png"
+                alt="Pay-per-Crawl AI Crawler Audit page: summary of requests, operators, bandwidth and value, with the one-time unlock for the full report"
+                width={1120}
+                height={900}
+                loading="lazy"
+                decoding="async"
+                className="w-full rounded border border-white/[0.08]"
+              />
+              <figcaption className="mt-2 text-sm text-slate-500">
+                AI Crawler Audit: who is taking your pages and what it is worth. Free summary; the full report is a one-time $19 unlock, verified offline. Version 0.2.3.
               </figcaption>
             </figure>
             <figure className="mt-8">
