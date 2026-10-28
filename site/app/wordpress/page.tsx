@@ -17,16 +17,16 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
   title: 'Pay-per-Crawl for WordPress | ForgeMesh Labs',
   description:
-    'A free GPL WordPress plugin that charges AI crawlers per page with x402 USDC micropayments on Base, paid straight to your wallet. Humans and verified search engines read free. Bot analytics in wp-admin.',
+    'A free GPL WordPress plugin. Bot ledger plus an HTTP 402 price tag: see every AI, SEO and script crawler, keep search engines free, charge x402-capable agents in USDC on Base. Humans read free. Bot analytics in wp-admin.',
   keywords: [
     'pay per crawl WordPress', 'charge AI crawlers', 'WordPress x402 plugin', 'AI bot paywall',
-    'monetize AI scrapers', 'x402 USDC Base', 'llms.txt WordPress', 'bot analytics WordPress',
+    'AI crawler ledger', 'x402 USDC Base', 'llms.txt WordPress', 'bot analytics WordPress',
   ],
   alternates: { canonical: '/wordpress' },
   openGraph: {
     title: 'Pay-per-Crawl for WordPress',
     description:
-      'Charge AI crawlers per page in USDC on Base. You keep 100%, no custody, no account. Free GPL plugin.',
+      'Know who crawls your site. Charge the ones that can pay, in USDC on Base. You keep 100%. Free GPL plugin.',
     type: 'website',
     url: 'https://forgemesh.io/wordpress',
   },
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     site: '@forgemeshlabs',
     title: 'Pay-per-Crawl for WordPress',
-    description: 'Charge AI crawlers per page in USDC on Base. You keep 100%. Free GPL plugin.',
+    description: 'Know who crawls your site. Charge the ones that can pay. Free GPL plugin.',
   },
 };
 
@@ -66,7 +66,7 @@ const structuredData = {
       ],
       softwareVersion: WP_VERSION,
       description:
-        'WordPress plugin that charges AI crawlers and bots per page with x402 USDC micropayments on Base, paid directly to the site owner wallet. Humans and verified search engines read free.',
+        'WordPress bot ledger with an HTTP 402 price tag: see every AI, SEO and script crawler, keep verified search engines free, and charge x402-capable agents in USDC on Base, paid directly to the site owner wallet.',
       publisher: { '@type': 'Organization', name: 'ForgeMesh Labs', url: 'https://forgemesh.io' },
     },
     {
@@ -81,7 +81,7 @@ const structuredData = {
 
 const features = [
   ['You keep 100%', 'Payments settle on Base straight to the wallet you paste in. No custody, no account, no API key, no middleman cut.'],
-  ['Only bots pay', 'Humans and reverse-DNS-verified search engines read free. AI crawlers and other bots get an HTTP 402 and pay per page.'],
+  ['Only bots are priced', 'Humans and reverse-DNS-verified search engines read free. AI crawlers, SEO crawlers and scripts get an HTTP 402. x402-capable agents can pay it; the big AI labs\' crawlers do not yet.'],
   ['x402 plus MPP', 'The 402 challenge carries an x402 offer, with an MPP challenge alongside it, so more agent clients can pay.'],
   ['Bot analytics in wp-admin', 'Who is crawling, by name and class: hits, sources, paths, revenue, and settlements with transaction links.'],
   ['Monitor mode first', 'Watch real bot traffic without charging anyone, then switch to Charge when the numbers make sense.'],
@@ -119,14 +119,13 @@ export default function WordPressPage() {
             </div>
 
             <h1 className="text-3xl font-semibold leading-[1.08] tracking-tight text-slate-50 sm:text-5xl">
-              Pay-per-Crawl for WordPress. Let AI crawlers pay for your pages.
+              Pay-per-Crawl for WordPress. Know who crawls your site. Charge the ones that can pay.
             </h1>
 
             <p className="mt-6 text-lg leading-8 text-slate-300">
-              AI companies read your site to train and answer, and you get nothing back. This plugin
-              charges AI crawlers and bots <strong className="text-slate-200">per page</strong> with
-              x402 USDC micropayments on Base, paid straight to your wallet. You keep 100%. There is no
-              custody, no account and no API key.
+              Pay-per-Crawl shows you every AI crawler, SEO crawler and script that fetches your pages, verifies the real search engines by reverse DNS so SEO is untouched, and lets you answer everything else with a standard HTTP 402 price in USDC on Base, paid to your own wallet.
+              Be clear about what pays today: x402-capable agents do; the big AI labs&apos; crawlers (GPTBot, ClaudeBot, PerplexityBot and friends) do not yet pay anyone per page, and they simply get no content from a charging site. Until they do, this is an honest bot ledger with the price already on the door. You see who takes what, you can block or charge any of it, and when a crawler does pay, it goes straight to you. Nobody in between holds the money.
+              You keep 100%. There is no custody, no account and no API key.
             </p>
             <p className="mt-4 text-base leading-8 text-slate-400">
               Your readers are untouched: humans and reverse-DNS-verified search engines read free.
@@ -230,11 +229,11 @@ export default function WordPressPage() {
                 <h3 className="font-medium text-slate-100">Free</h3>
                 <p className="mt-1 font-mono text-sm text-slate-500">$0, GPL</p>
                 <ul className="mt-4 list-disc space-y-2 pl-5 text-sm leading-6 text-slate-400">
-                  <li>402 paywall for AI crawlers and bots</li>
+                  <li>Bot ledger plus a 402 price tag for crawlers and scripts</li>
                   <li>Bot analytics in wp-admin</li>
                   <li>Monitor and Charge modes</li>
                   <li>Discovery files (x402.json, llms.txt, agents.txt)</li>
-                  <li>Payments straight to your wallet</li>
+                  <li>Any payment goes straight to your wallet</li>
                 </ul>
               </div>
               <div className="rounded border border-blue-500/40 bg-blue-500/[0.06] p-5">
@@ -243,7 +242,7 @@ export default function WordPressPage() {
                 <ul className="mt-4 list-disc space-y-2 pl-5 text-sm leading-6 text-slate-400">
                   <li>Everything in Free, for up to 5 sites</li>
                   <li>Hosted dashboard for all sites, 13 months of history</li>
-                  <li>Monday email digest: bot hits, paid fetches, revenue, and what monitor-mode sites would have earned</li>
+                  <li>Monday email digest: bot hits, paid fetches, revenue, and what monitor-mode sites would have charged</li>
                   <li>Daily paywall monitoring as an AI-crawler user agent, with alerts when a 402 stops answering, the wallet in the challenge changes, or the manifest disappears</li>
                   <li>Crawler-intelligence feed pulled daily into the plugin: new bot names, classes and impostor rules (104 agents vs 85 shipped)</li>
                   <li>Listing in the paid-sites directory plus a live SVG badge</li>
