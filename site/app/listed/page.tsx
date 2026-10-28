@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
   title: 'Where ForgeMesh is listed',
   description:
-    'Every registry, package index and directory where ForgeMesh services, MCP servers and the Pay-per-Crawl editions are listed. Free listings only, no badges.',
+    'Every registry, package index and directory where ForgeMesh services, MCP servers and the Pay-per-Crawl editions are listed. Free listings only.',
   alternates: { canonical: '/listed' },
   openGraph: {
     title: 'Where ForgeMesh is listed',
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true },
 };
 
-const UPDATED = '2026-10-27';
+const UPDATED = '2026-10-28';
 
 type Listing = {
   name: string;
@@ -116,6 +116,21 @@ export default function Page() {
                           </a>
                           <p className="text-sm leading-6 text-slate-400">{it.what}</p>
                         </div>
+                        {it.href === 'https://siftfox.com/tool/pay-per-crawl' && (
+                          <a
+                            href={it.href}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="mt-3 inline-flex self-start shrink-0 rounded focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-blue-400 sm:mt-0 sm:self-center"
+                          >
+                            <img
+                              src="https://siftfox.com/badges/live-dark.svg"
+                              alt="Live on SiftFox"
+                              width={168}
+                              height={56}
+                            />
+                          </a>
+                        )}
                       </li>
                     ))}
                   </ul>
