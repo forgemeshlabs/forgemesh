@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation';
 import { Footer } from '@/components/Footer';
 import { NavBar } from '@/components/NavBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
-import { BOTS, PURPOSES, botBySlug, fetchObserved, pays } from '@/lib/bots';
+import { BOTS, IP_RANGES, PURPOSES, botBySlug, fetchObserved, pays } from '@/lib/bots';
 
 type Params = { slug: string };
 export const revalidate = 600;
@@ -78,7 +78,10 @@ export default async function BotPage({ params }: { params: Promise<Params> }) {
               <Row k="Purpose">{p?.title ?? b.purpose}. {p?.blurb}</Row>
               <Row k="User-agent contains"><code className="font-mono text-[13px] text-blue-200">{b.match.join('  ·  ')}</code></Row>
               <Row k="robots.txt">{b.robots ? <><code className="font-mono text-[13px] text-blue-200">User-agent: {b.robots}</code><br /><code className="font-mono text-[13px] text-blue-200">Disallow: /</code></> : 'No documented token. Block at the edge or by user-agent match.'}</Row>
-              <Row k="How to verify">{b.verify.length ? <>Reverse DNS on the client address must end in <code className="font-mono text-[13px] text-blue-200">{b.verify.join(', ')}</code> and resolve forward to the same address. A request that claims this name and fails the check is an impostor.</> : 'No published verification method. Treat the name as a claim, not proof.'}</Row>
+              <Row k="How to verify">{b.verify.length || IP_RANGES[b.name] ? <>
+                {b.verify.length ? <>Reverse DNS on the client address must end in <code className="font-mono text-[13px] text-blue-200">{b.verify.join(', ')}</code> and resolve forward to the same address. </> : null}
+                {IP_RANGES[b.name] ? <>The operator publishes its address ranges: <a href={IP_RANGES[b.name]} className="text-blue-300 hover:underline" rel="nofollow noopener">{new URL(IP_RANGES[b.name]).host}</a>. </> : null}
+                A request that claims this name from an address outside these is an impostor.</> : 'No published verification method. Treat the name as a claim, not proof.'}</Row>
               <Row k="Should you block it?">{p?.verdict}</Row>
               <Row k="Does it pay?">{canPay ? 'Yes. This client understands HTTP 402 and pays per page with x402 (USDC on Base).' : 'No. It does not carry a wallet and cannot answer a 402. A site that charges simply serves it nothing.'}</Row>
               <Row k="Docs">{b.docs ? <a href={b.docs} className="text-blue-300 hover:underline" rel="nofollow noopener">{b.docs}</a> : 'None published'}</Row>

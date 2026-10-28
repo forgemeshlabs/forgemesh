@@ -46,6 +46,24 @@ export const PURPOSES: Record<string, { title: string; short: string; blurb: str
 
 export const PURPOSE_ORDER = Object.keys(PURPOSES);
 
+// Published IP-range lists (operators' own URLs). Reverse DNS suffixes live in
+// the catalog; these are the second verification path many operators document.
+export const IP_RANGES: Record<string, string> = {
+  GPTBot: 'https://openai.com/gptbot.json',
+  'ChatGPT-User': 'https://openai.com/chatgpt-user.json',
+  'OAI-SearchBot': 'https://openai.com/searchbot.json',
+  PerplexityBot: 'https://www.perplexity.com/perplexitybot.json',
+  'Perplexity-User': 'https://www.perplexity.com/perplexity-user.json',
+  CCBot: 'https://index.commoncrawl.org/ccbot.json',
+  Applebot: 'https://search.developer.apple.com/applebot.json',
+  Bingbot: 'https://www.bing.com/toolbox/bingbot.json',
+  Googlebot: 'https://developers.google.com/static/search/apis/ipranges/googlebot.json',
+  'Google-InspectionTool': 'https://developers.google.com/static/search/apis/ipranges/special-crawlers.json',
+  GoogleOther: 'https://developers.google.com/static/search/apis/ipranges/special-crawlers.json',
+  DuckDuckBot: 'https://duckduckgo.com/duckduckgo-help-pages/results/duckduckbot/',
+  Amazonbot: 'https://developer.amazon.com/amazonbot',
+};
+
 export function botBySlug(slug: string): Bot | undefined {
   return BOTS.find((b) => b.slug === slug);
 }
@@ -89,7 +107,7 @@ export function profileJson(b: Bot, observed: Observed | null) {
       purpose: b.purpose,
       user_agent_contains: b.match,
       robots_token: b.robots || null,
-      verify: b.verify.length ? { rdns: b.verify } : null,
+      verify: b.verify.length || IP_RANGES[b.name] ? { ...(b.verify.length ? { rdns: b.verify } : {}), ...(IP_RANGES[b.name] ? { ip_ranges: IP_RANGES[b.name] } : {}) } : null,
       docs: b.docs || null,
       pays: pays(b) ? { x402: true, networks: ['eip155:8453'] } : { x402: false },
       note: b.note || null,
