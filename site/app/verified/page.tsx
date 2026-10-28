@@ -83,7 +83,7 @@ export default async function Page({ searchParams }: PageProps) {
               <a href="/wordpress" className="text-slate-300 underline decoration-blue-500/50 underline-offset-2 hover:text-white">
                 Pay-per-Crawl plugin
               </a>{' '}
-              charges AI crawlers per page, and you keep 100%.
+              prices every bot fetch with HTTP 402; search engines stay free and you keep 100% of what x402-capable agents pay.
             </p>
             <div className="mt-6 flex flex-wrap gap-3">
               <a
