@@ -59,7 +59,7 @@ export function middleware(request: NextRequest) {
     const browser = accept.includes('text/html') && /Mozilla\/5\.0/.test(ua) && !/bot|crawl|spider|python|curl|wget|java|go-http|node|fetch|axios/i.test(ua);
     if (!browser) {
       const slug = decodedPath.split('/')[2];
-      const paidUrl = 'https://x402.forgemesh.io/atlas-profile';
+      const paidUrl = 'https://x402.forgemesh.io/bot-profiles';
       const body = {
         x402Version: 2,
         error: 'Payment required',

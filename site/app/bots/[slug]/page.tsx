@@ -112,7 +112,7 @@ export default async function BotPage({ params }: { params: Promise<Params> }) {
             <ul className="mt-4 list-disc space-y-2 pl-5 text-sm leading-7 text-slate-400">
               <li>See it in your own logs, verify it, and charge, allow or block it by name with the free <a href="/wordpress" className="text-blue-300 hover:underline">Pay-per-Crawl plugin</a> (WordPress, Python, JavaScript, Go, PHP).</li>
               <li>Run this crawler? <a href="https://github.com/forgemeshlabs" className="text-blue-300 hover:underline">Publish a crawler-profile.json</a> on your domain and this page shows your declared profile with a verified badge.</li>
-              <li>Machine-readable twin: <a href={`/bots/${b.slug}/profile.json`} className="font-mono text-blue-300 hover:underline">/bots/{b.slug}/profile.json</a> (free in a browser). Machines: POST <code className="font-mono text-blue-200">{`{"slug":"${b.slug}"}`}</code> to <a href="https://x402.forgemesh.io/atlas-profile" className="font-mono text-blue-300 hover:underline">x402.forgemesh.io/atlas-profile</a>, $0.005 per call over x402.</li>
+              <li>Machine-readable twin: <a href={`/bots/${b.slug}/profile.json`} className="font-mono text-blue-300 hover:underline">/bots/{b.slug}/profile.json</a> (free in a browser). Machines: POST <code className="font-mono text-blue-200">{`{"slug":"${b.slug}"}`}</code> to <a href="https://x402.forgemesh.io/bot-profiles" className="font-mono text-blue-300 hover:underline">x402.forgemesh.io/bot-profiles</a>, $0.005 per call over x402.</li>
             </ul>
 
             {siblings.length > 0 && (
