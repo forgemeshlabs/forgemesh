@@ -1,0 +1,135 @@
+{
+  "slug": "bots-that-read-your-website",
+  "date": "2026-10-28",
+  "title": "The bots that read your website, and what each one wants",
+  "excerpt": "Most of your traffic is not people. A field guide to search engines, AI training crawlers, AI fetchers, SEO tools, link previewers, monitors, scripts and impostors: what each wants, how to verify it, whether blocking it hurts, and which will ever pay.",
+  "description": "A field guide to the bots in your server logs: search engines, AI crawlers, SEO tools, previewers, monitors, scripts and impostors, and an honest look at which will pay.",
+  "seoTitle": "Bot Types in Your Server Logs: Field Guide | ForgeMesh",
+  "seoDescription": "Googlebot, GPTBot, PerplexityBot, AhrefsBot, python-requests: what each bot wants, how to verify it, whether blocking hurts, and which will ever pay.",
+  "twitterTitle": "The bots that read your website, and what each wants",
+  "twitterDescription": "Search engines, AI training crawlers, AI fetchers, SEO tools, previewers, scripts and impostors. What each wants, how to verify it, and which will ever pay.",
+  "heroAlt": "A row of small robot silhouettes of different shapes queuing at a glowing server door, each holding a different tool, with one wearing a mask.",
+  "heroPrompt": "minimalist editorial tech illustration, dark navy background, glowing blue accent, cinematic lighting, no text: a queue of small distinct robot silhouettes (a crawler, a magnifier bot, a camera bot, a script) waiting at a glowing doorway, one wearing a paper mask, 16:9",
+  "pinKicker": "Bot field guide · Who reads your site · October 2026",
+  "breadcrumb": "Bots field guide",
+  "tags": [
+    "bots",
+    "ai-crawlers",
+    "web-traffic",
+    "pay-per-crawl"
+  ],
+  "lede": "Open your server logs and count the humans. On most sites it is a minority, and the rest is a zoo: search engines, AI training crawlers, assistants fetching a page because someone just asked a question, SEO tools, link previewers, uptime pingers, scripts and impostors. We put a small recipe blog behind our Pay-per-Crawl plugin for a day, in monitor-only mode, and sent a mixed set of crawlers at it. Within an hour the ledger held one human page view and fifteen bot fetches from three kinds of visitor, plus one fake. This is a field guide to who is in that zoo, what each one wants, whether blocking it will hurt you, and which of them will ever pay.",
+  "sections": [
+    {
+      "heading": "What the first hour looked like",
+      "paras": [
+        "The ledger showed PerplexityBot with 5 fetches, classed as AI. AhrefsBot with 5, classed as SEO. The bare Python library user agent, python-requests, with 5, classed as automation. One human. And one request claiming to be Googlebot.",
+        "That last one did not survive a reverse DNS lookup. Google documents the check: take the IP address, look up its hostname, confirm the hostname ends in googlebot.com, google.com or googleusercontent.com, then resolve the hostname forward and confirm it returns the same IP. This address failed, so the plugin demoted it to automation. Real Googlebot is verified and stays free, so the fake is treated like any other script.",
+        "The more interesting result was who did not show up. GPTBot, ClaudeBot, Bytespider and CCBot never reached the blog. The site's CDN had its block-AI-bots switch on and answered 403 at the edge, so the plugin never saw them. That is a useful lesson in itself: a CDN-level block and a paywall are alternatives. A bot that is refused at the edge cannot be asked to pay."
+      ]
+    },
+    {
+      "heading": "Search engine indexers",
+      "paras": [
+        "**What they want:** your pages, so they can send you visitors. Googlebot (robots.txt token Googlebot), Bingbot, Applebot and the like are the reason people find you.",
+        "**Does blocking hurt?** Yes, directly. Block them and you vanish from search.",
+        "**How to verify:** Google publishes the two-way reverse DNS check above and JSON files of crawler IP ranges. Bing documents bingbot.json IP ranges and reverse DNS that resolves to search.msn.com. Apple documents reverse DNS under applebot.apple.com and an applebot.json range file. Never trust the user-agent string alone.",
+        "**Will they pay?** No. They are the traffic side of the bargain, which is why a sensible paywall lets verified search engines through free."
+      ]
+    },
+    {
+      "heading": "AI training crawlers",
+      "paras": [
+        "**What they want:** text to train foundation models. GPTBot is OpenAI's, and OpenAI's docs say disallowing it signals that your content should not be used for training. ClaudeBot is Anthropic's, with the same robots.txt token name. Meta-ExternalAgent crawls to train models, per Meta's crawler docs. CCBot (see below) feeds the open datasets many labs draw from. Bytespider is ByteDance's crawler, and it has been widely reported to ignore robots.txt, including in a Fortune investigation in October 2024. ByteDance's own documentation is thin, so check your logs rather than trusting a Disallow line.",
+        "Two entries in this family are not crawlers at all. Google-Extended and Applebot-Extended are robots.txt product tokens. Google says Google-Extended governs whether crawled content may train Gemini models and ground Gemini answers, and that it does not affect Search. Apple says Applebot-Extended does not crawl anything and only controls how data Applebot already collected may be used.",
+        "**Does blocking hurt?** Not your search traffic. It means you opt out of training sets, which is a business decision rather than a technical one.",
+        "**Will they pay?** Not per page, not to you. More on that below."
+      ]
+    },
+    {
+      "heading": "AI search and retrieval bots",
+      "paras": [
+        "This is a different animal from the training crawlers, and mixing them up is the most common mistake in robots.txt files. Some bots build a search index so an AI product can cite you: OAI-SearchBot for ChatGPT search, Claude-SearchBot for Anthropic, PerplexityBot for Perplexity. OpenAI says sites that opt out of OAI-SearchBot will not appear in ChatGPT search answers. Perplexity says PerplexityBot is for surfacing and linking sites in results and is not used to train foundation models.",
+        "Then there are the user-triggered fetchers: ChatGPT-User, Claude-User and Perplexity-User. They fetch one page because a person just asked a question that needs it. They are not crawling, so they behave differently. OpenAI says robots.txt rules may not apply to ChatGPT-User because a user initiated the action. Perplexity says Perplexity-User generally ignores robots.txt for the same reason. Anthropic's documentation lists a Claude-User token and says its bots honor robots.txt. The three vendors do not agree, so read each one's page.",
+        "**Does blocking hurt?** Possibly. Blocking the search bots can remove you from AI answers that cite sources, and blocking the fetchers can mean an assistant tells a user it could not read your page. Whether that matters depends on whether you want those citations.",
+        "**How to verify:** OpenAI, Perplexity and Anthropic each publish IP ranges as JSON, so match the address against them.",
+        "**Will they pay?** Today, no. These fetches are the closest thing to a human reading your page, and a person may click through from the answer, which is the payoff they offer instead."
+      ]
+    },
+    {
+      "heading": "SEO and backlink crawlers",
+      "paras": [
+        "**What they want:** your pages and your links, to sell reports to marketers. AhrefsBot builds the index behind Ahrefs and its search engine Yep, obeys robots.txt including crawl-delay, and can be verified when reverse DNS ends in ahrefs.com or ahrefs.net. Semrush runs a family of tokens, among them SemrushBot, SiteAuditBot and SemrushBot-BA, each tied to a different tool, and says blocking by IP will not work because it does not use consecutive ranges. Moz's crawler is DotBot, which feeds its link index.",
+        "**Does blocking hurt?** Not your rankings. It only hides you from competitors' tools, and from your own if you use them. Crawl-delay, which Ahrefs and Semrush's backlink crawler support, slows them without blocking.",
+        "**Will they pay?** They are commercial businesses, so in principle a metered fee is a fair trade. In practice none of them offers to pay today, and most site owners just rate-limit them."
+      ]
+    },
+    {
+      "heading": "Archive and research crawlers",
+      "paras": [
+        "**What they want:** a copy of the open web. Common Crawl is a non-profit that publishes an open repository of crawl data. CCBot identifies itself as CCBot/2.0, uses the robots.txt token CCBot, and publishes its IP ranges at index.commoncrawl.org/ccbot.json, with reverse DNS under crawl.commoncrawl.org. Common Crawl itself warns that some crawlers falsely claim to be CCBot. The Internet Archive's crawler is archive.org_bot.",
+        "**Does blocking hurt?** Not your traffic. The catch is that Common Crawl data is a common ingredient in AI training sets, so blocking CCBot is an upstream way of opting out of many models at once.",
+        "**Will they pay?** No. These are non-profit archives and will stay that way."
+      ]
+    },
+    {
+      "heading": "Social and messaging link previewers",
+      "paras": [
+        "**What they want:** the title, description and image to draw a card when someone pastes your link. facebookexternalhit serves Facebook, Instagram and Messenger. Twitterbot does it for X. Slack runs Slackbot-LinkExpanding.",
+        "**Does blocking hurt?** Yes, a little. Your links will look bare when shared. Be aware that these often do not follow robots.txt. Meta says facebookexternalhit may bypass it for security or integrity checks, and Slack says plainly that it does not honor robots.txt because a human posted the link.",
+        "**Will they pay?** No, and a paywall that blocks them breaks your share cards. Let them through, or serve a free preview page that carries only the metadata."
+      ]
+    },
+    {
+      "heading": "Uptime and security monitors",
+      "paras": [
+        "**What they want:** to know your site is up, or to probe it for known weaknesses. UptimeRobot announces itself as Mozilla/5.0 (compatible; UptimeRobot/2.0; http://www.uptimerobot.com/). Monitors are regular and tiny: the same URL on a fixed schedule. Vulnerability scanners are noisier and probe many odd paths.",
+        "**Does blocking hurt?** Blocking your own monitor defeats its purpose. Blocking third-party scanners is fine and often wise. Some monitors publish check locations but not a formal verification method, so a user-agent match is a hint, not proof.",
+        "**Will they pay?** No, and they should not be charged. Monitors fetch the same URL on a schedule and cost almost nothing."
+      ]
+    },
+    {
+      "heading": "Scrapers and scripts",
+      "paras": [
+        "**What they want:** whatever the person who wrote them wants. The telltale sign is a default library user agent: python-requests/2.x, curl/8.x, Go-http-client/1.1, Scrapy, or a headless browser that says HeadlessChrome in its user agent. Someone wrote a ten-line script, did not bother to rename it, and is pulling your pages.",
+        "**Does blocking hurt?** Not search traffic. These are the bots a rate limit or a price is made for, and in our test the bare python-requests fetches landed in the automation class.",
+        "**Will they pay?** Rarely, and this is the group to watch. A script that can sign a payment is a different animal from a script that just fetches."
+      ]
+    },
+    {
+      "heading": "Impostors",
+      "paras": [
+        "Any client can put Googlebot in its user-agent string, and many do, because sites tend to wave Googlebot through. That is why the verification checks above exist. A user-agent string tells you what a request claims. A reverse DNS record on the source address tells you who actually holds it, and the forward lookup confirms nobody faked the record.",
+        "The rule we use: a claim that cannot be verified is demoted to the generic automation class. A real search engine passes the check and stays free. A fake gets the same treatment as a script. Common Crawl and Ahrefs both document the same reverse-DNS pattern for their own bots, so the technique generalizes."
+      ]
+    },
+    {
+      "heading": "Which of these will pay?",
+      "paras": [
+        "Here is the plain answer. GPTBot, ClaudeBot, PerplexityBot and the other big-lab crawlers do not pay for pages. They do not carry a wallet, and nothing in the operators' own documentation describes paying per page to individual sites.",
+        "What does pay today is a small group of x402-capable agents, mostly built by developers. x402 revives the long-unused HTTP 402 Payment Required status. The server answers a request with a 402 and a price in USDC, the client signs a payment, retries, and receives the page. In our test, two x402 clients, one speaking protocol v1 and one v2, hit a recipe page, got a 402, paid, and received the content. Both settlements landed on Base within seconds and appeared in the ledger with their transaction hashes. The loop works. The clients that can run it are not the big labs' crawlers.",
+        "The labs are exploring other routes: licensing deals with large publishers, and Cloudflare's pay-per-crawl programme, which entered private beta in July 2025. In Cloudflare's design a crawler registers with Cloudflare, signs its requests with Web Bot Auth, and gets a 402 with a crawler-price header. Cloudflare acts as merchant of record. That is a network-level arrangement, not a micropayment to your individual site.",
+        "Meanwhile, a site owner can do four things today.",
+        "**See.** Log user agents and classify them by what they claim and what they prove. You cannot decide anything about traffic you have not counted.",
+        "**Verify.** Check claimed search engines by reverse DNS or published IP ranges, and demote the ones that fail.",
+        "**Block.** Use robots.txt tokens for the crawlers that honor them, and an edge or CDN rule for the ones that do not. Remember that an edge block means that bot never gets the option to pay.",
+        "**Price.** Put a 402 and a price in front of the traffic you do not want for free, and let verified search engines and humans through. Revenue from this today is small, because few clients can pay. But you will learn who is willing to, and the page is ready when more of them can."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "The tool behind the numbers",
+    "copy": "The numbers in this post came from ForgeMesh Pay-per-Crawl, a free plugin for WordPress with Python, JavaScript, Go and PHP editions. It classifies the bots above, verifies the claimed search engines, and runs in monitor mode or charge mode. Get it at [forgemesh.io/wordpress](https://forgemesh.io/wordpress), and find the code at [github.com/forgemeshlabs](https://github.com/forgemeshlabs)."
+  },
+  "related": [
+    {
+      "slug": "pay-per-crawl-every-stack",
+      "text": "Pay-per-Crawl for every stack: WordPress, Node, Python, Go and PHP"
+    },
+    {
+      "slug": "agent-gateway-chaos-who-lets-agents-in",
+      "text": "The agent gateway scramble: who lets agents in, who locks them out, who charges"
+    }
+  ],
+  "image": "/content/assets/bots-that-read-your-website.png"
+}
