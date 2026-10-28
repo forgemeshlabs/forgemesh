@@ -55,6 +55,7 @@ export default async function BotsPage() {
               <div><dt className="inline font-semibold text-slate-100">{BOTS.length}</dt> <dd className="inline">bots profiled</dd></div>
               <div><dt className="inline font-semibold text-slate-100">{stats?.reporters ?? 0}</dt> <dd className="inline">sites reporting sightings</dd></div>
               <div><dt className="inline font-semibold text-slate-100">{lb?.new_arrivals.length ?? 0}</dt> <dd className="inline">new in the last 14 days</dd></div>
+              <div><a href="/bots/mugshots" className="font-semibold text-amber-200 hover:underline">Mugshot wall →</a> <span className="text-slate-500">the ones to think twice about</span></div>
               <div className="basis-full text-xs text-slate-500">Network numbers come from sites running <a href="/wordpress" className="text-blue-300 hover:underline">Pay-per-Crawl</a> that opted in to share anonymous daily counts, plus the ForgeMesh fleet. Small samples are labelled as such.</div>
             </dl>
             <BotAtlasIndex bots={BOTS} purposes={PURPOSES} order={PURPOSE_ORDER} seen={seen} fresh={fresh} />

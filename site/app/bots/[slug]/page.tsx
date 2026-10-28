@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation';
 import { Footer } from '@/components/Footer';
 import { NavBar } from '@/components/NavBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
-import { BOTS, IP_RANGES, PURPOSES, botBySlug, fetchObserved, pays } from '@/lib/bots';
+import { BOTS, IP_RANGES, PURPOSES, botBySlug, fetchObserved, logoFor, mugshotReasons, pays } from '@/lib/bots';
 
 type Params = { slug: string };
 export const revalidate = 600;
@@ -62,7 +62,11 @@ export default async function BotPage({ params }: { params: Promise<Params> }) {
           <div className="mx-auto max-w-3xl">
             <nav className="mb-6 font-mono text-[11px] uppercase tracking-[0.2em] text-slate-500"><a href="/bots" className="hover:text-slate-300">Crawler Atlas</a> / {p?.title ?? b.purpose} / {b.name}</nav>
             <div className="flex items-center gap-4">
-              <span className="flex h-16 w-16 shrink-0 items-center justify-center rounded-xl border border-blue-400/30 bg-blue-500/15 font-mono text-xl font-bold text-blue-100" aria-hidden>{b.name.slice(0, 2).toUpperCase()}</span>
+              {logoFor(b.slug) ? (
+                <img src={logoFor(b.slug)!} alt={`${b.operator || b.name} mark`} width={64} height={64} className="h-16 w-16 shrink-0 rounded-xl border border-white/[0.12] bg-white/[0.04] object-contain p-2" />
+              ) : (
+                <span className="flex h-16 w-16 shrink-0 items-center justify-center rounded-xl border border-blue-400/30 bg-blue-500/15 font-mono text-xl font-bold text-blue-100" aria-hidden>{b.name.slice(0, 2).toUpperCase()}</span>
+              )}
               <div>
                 <h1 className="text-3xl font-semibold leading-tight tracking-tight text-slate-50 sm:text-4xl">What is {b.name}?</h1>
                 <p className="mt-1 text-sm text-slate-400">{b.operator || 'Unknown operator'} · {p?.short ?? b.purpose} · class <span className="font-mono">{b.class}</span></p>
@@ -70,6 +74,11 @@ export default async function BotPage({ params }: { params: Promise<Params> }) {
             </div>
             <p className="mt-6 text-lg leading-8 text-slate-300">{b.note || `${b.name} is a ${p?.short ?? b.purpose} crawler.`}</p>
             <div className="mt-6 rounded border border-emerald-400/20 bg-emerald-500/[0.06] px-4 py-3 text-sm text-emerald-100"><span className="font-semibold">Verdict:</span> {p?.verdict}</div>
+            {mugshotReasons(b, o).length > 0 && (
+              <div className="mt-3 rounded border border-amber-400/30 bg-amber-500/[0.07] px-4 py-3 text-sm text-amber-100">
+                <span className="font-semibold">On the <a href="/bots/mugshots" className="underline">mugshot wall</a>:</span> {mugshotReasons(b, o).join(' · ')}
+              </div>
+            )}
 
             <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">Profile</h2>
             <p className="mt-2 text-xs text-slate-500">Compiled by Crawler Atlas from the operator&apos;s published documentation. Not yet declared by the operator. <a href={`/bots/${b.slug}/profile.json`} className="text-blue-300 hover:underline">JSON</a></p>
