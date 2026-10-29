@@ -90,7 +90,7 @@ const features = [
 
 const steps = [
   <>Download the zip below, then in wp-admin go to <strong className="text-slate-200">Plugins → Add New → Upload Plugin</strong> and activate it.</>,
-  <>Open the plugin <strong className="text-slate-200">Settings</strong>. Paste your payout wallet (a 0x address on Base) and set a price. The default is $0.01 per page.</>,
+  <>Open the plugin <strong className="text-slate-200">Settings</strong>. Paste your payout wallet (a 0x address on Base; no wallet yet? <a href="/wallet" className="text-blue-400 hover:text-blue-300">15-minute setup guide</a>) and set a price. The default is $0.01 per page.</>,
   <>Leave it in <strong className="text-slate-200">Monitor</strong> mode and watch <strong className="text-slate-200">Bot analytics</strong> to see who is crawling.</>,
   <>When you are ready, switch the mode to <strong className="text-slate-200">Charge</strong>.</>,
 ];

@@ -361,6 +361,12 @@ export default function PluginsPage() {
               <a href="https://proxy.forgemesh.io/wp/sites" className={btn}>Paid-sites directory</a>
             </div>
 
+            <p className="mt-6 text-sm leading-6 text-slate-500">
+              Every edition needs a payout address: a 0x wallet on Base. No wallet yet? Follow the{' '}
+              <a href="/wallet" className="text-blue-400 hover:text-blue-300">15-minute wallet setup guide</a>{' '}
+              (seed phrase safety, MetaMask step by step, when to go cold).
+            </p>
+
             <h2 className="mt-14 text-2xl font-semibold tracking-tight text-slate-50">Security notes</h2>
             <p className="mt-4 text-base leading-8 text-slate-400">
               Two hardening fixes shipped across all editions on 17 October 2026 and are in every version
