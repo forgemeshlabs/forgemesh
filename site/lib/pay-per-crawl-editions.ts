@@ -13,7 +13,7 @@ export type Edition = {
   note?: string;
 };
 
-export const WP_VERSION = '0.2.2';
+export const WP_VERSION = '0.2.3';
 export const WP_ZIP = `https://github.com/forgemeshlabs/forgemesh-pay-per-crawl/releases/download/v${WP_VERSION}/forgemesh-pay-per-crawl-${WP_VERSION}.zip`;
 
 export const EDITIONS: Edition[] = [
@@ -23,16 +23,16 @@ export const EDITIONS: Edition[] = [
     stack: 'Any WordPress 6.x site',
     version: WP_VERSION,
     install: 'Plugins → Add New → Upload Plugin',
-    registry: { label: 'Download zip', url: WP_ZIP },
+    registry: { label: 'wordpress.org', url: 'https://wordpress.org/plugins/forgemesh-pay-per-crawl/' },
     repo: 'https://github.com/forgemeshlabs/forgemesh-pay-per-crawl',
     guide: '/wordpress',
-    note: 'wordpress.org directory listing is in review.',
+    extra: [{ label: 'Download zip', url: WP_ZIP }],
   },
   {
     key: 'python',
     name: 'Python',
     stack: 'FastAPI, Flask, Django',
-    version: '0.1.2',
+    version: '0.1.3',
     install: 'pip install forgemesh-pay-per-crawl',
     registry: { label: 'PyPI', url: 'https://pypi.org/project/forgemesh-pay-per-crawl/' },
     repo: 'https://github.com/forgemeshlabs/pay-per-crawl-py',
@@ -42,7 +42,7 @@ export const EDITIONS: Edition[] = [
     key: 'nextjs',
     name: 'Next.js',
     stack: 'Next 14 / 15 middleware, Next 16 proxy, edge runtime',
-    version: '0.1.2',
+    version: '0.1.3',
     install: 'npm i @forgemeshlabs/pay-per-crawl-next',
     registry: { label: 'npm', url: 'https://www.npmjs.com/package/@forgemeshlabs/pay-per-crawl-next' },
     repo: 'https://github.com/forgemeshlabs/pay-per-crawl-js/tree/main/packages/next',
@@ -52,7 +52,7 @@ export const EDITIONS: Edition[] = [
     key: 'vercel',
     name: 'Vercel',
     stack: 'Edge Middleware for any non-Next project on Vercel: static sites, Astro, SvelteKit, Vite, Nuxt, Remix',
-    version: '0.1.0',
+    version: '0.1.1',
     install: 'npm i @forgemeshlabs/pay-per-crawl-vercel',
     registry: { label: 'npm', url: 'https://www.npmjs.com/package/@forgemeshlabs/pay-per-crawl-vercel' },
     repo: 'https://github.com/forgemeshlabs/pay-per-crawl-js/tree/main/packages/vercel',
@@ -63,7 +63,7 @@ export const EDITIONS: Edition[] = [
     key: 'cloudflare-workers',
     name: 'Cloudflare Workers',
     stack: 'Worker on a zone, custom domain or workers.dev, in front of any origin',
-    version: '0.1.2',
+    version: '0.1.3',
     install: 'npm i @forgemeshlabs/pay-per-crawl-worker',
     registry: { label: 'npm', url: 'https://www.npmjs.com/package/@forgemeshlabs/pay-per-crawl-worker' },
     repo: 'https://github.com/forgemeshlabs/pay-per-crawl-js/tree/main/packages/cloudflare-worker',
@@ -73,7 +73,7 @@ export const EDITIONS: Edition[] = [
     key: 'node',
     name: 'Node',
     stack: 'Express, Fastify, Hono, Koa',
-    version: '0.1.2',
+    version: '0.1.3',
     install: 'npm i @forgemeshlabs/pay-per-crawl-node',
     registry: { label: 'npm', url: 'https://www.npmjs.com/package/@forgemeshlabs/pay-per-crawl-node' },
     repo: 'https://github.com/forgemeshlabs/pay-per-crawl-js/tree/main/packages/node',
@@ -93,7 +93,7 @@ export const EDITIONS: Edition[] = [
     key: 'go',
     name: 'Go',
     stack: 'net/http middleware, Caddy module, Traefik plugin',
-    version: '0.1.1',
+    version: '0.1.2',
     install: 'go get github.com/forgemeshlabs/pay-per-crawl-go',
     registry: { label: 'pkg.go.dev', url: 'https://pkg.go.dev/github.com/forgemeshlabs/pay-per-crawl-go' },
     repo: 'https://github.com/forgemeshlabs/pay-per-crawl-go',
@@ -104,7 +104,7 @@ export const EDITIONS: Edition[] = [
     key: 'php',
     name: 'PHP',
     stack: 'Plain PHP, Laravel 10+, Drupal 10/11',
-    version: '0.1.0',
+    version: '0.1.1',
     install: 'composer require forgemesh/pay-per-crawl-core',
     registry: { label: 'Packagist', url: 'https://packagist.org/packages/forgemesh/pay-per-crawl-core' },
     repo: 'https://github.com/forgemeshlabs/pay-per-crawl-php',
