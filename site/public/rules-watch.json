@@ -1,11 +1,81 @@
 {
-  "lastChecked": "2026-10-18T07:35:01.600Z",
+  "lastChecked": "2026-10-29T07:35:01.816Z",
   "pricingRulesDetected": false,
   "counts": {
-    "news": 33,
-    "rules": 7
+    "rules": 9,
+    "news": 38
   },
   "entries": [
+    {
+      "id": "12n3f0a",
+      "date": "2026-10-28T16:01:36.000Z",
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
+      "summary": "The largest card networks now sit in the top governance tier of x402, the standard that AI agents use to pay for things online. Albert Castellana of GenLayer Labs explains why that standard has no way to dispute a charge, and what happens when the payment settles but the agent re",
+      "category": "rules",
+      "collected": "2026-10-29T07:35:01.816Z"
+    },
+    {
+      "id": "1j6mm",
+      "date": "2026-10-28T14:48:00.000Z",
+      "source": "Payments Dive",
+      "title": "Liability looms over AI shopping",
+      "url": "https://www.paymentsdive.com/news/liability-looms-over-ai-shopping/872979/",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/14mrTJlg9ErKjjchM_28p_XtECNLhkmmDOrtiJbDBo4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDcwMjgyOTU3LmpwZw==.webp\"/></div></figure><p>Some banks and other payment players lament how agenti",
+      "category": "rules",
+      "collected": "2026-10-29T07:35:01.650Z"
+    },
+    {
+      "id": "19uwx75",
+      "date": "2026-10-21T15:16:00.000Z",
+      "source": "Finextra",
+      "title": "PPRO launches Local Payments Council for agentic commerce",
+      "url": "https://www.finextra.com/pressarticle/111391/ppro-launches-local-payments-council-for-agentic-commerce?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "PPRO has today launched the Local Payments Council for Agentic Commerce alongside founding members BLIK, EPI, Bancontact Company, and DIAS, with other payment schemes committed to joining.",
+      "category": "news",
+      "collected": "2026-10-22T07:35:02.118Z"
+    },
+    {
+      "id": "1cjiyqq",
+      "date": "2026-10-20T20:40:00.000Z",
+      "source": "Finextra",
+      "title": "Evervault launches Browser Tokens, enabling secure agentic payments",
+      "url": "https://www.finextra.com/pressarticle/111376/evervault-launches-browser-tokens-enabling-secure-agentic-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Evervault today announced the launch of Browser Tokens at Money20/20, giving developers building agentic commerce products a secure way for AI agents and browser automations to make purchases, log in to accounts and complete sensitive online workflows without exposing payment car",
+      "category": "news",
+      "collected": "2026-10-21T07:35:02.499Z"
+    },
+    {
+      "id": "1l6x37l",
+      "date": "2026-10-20T18:27:00.000Z",
+      "source": "Finextra",
+      "title": "Mastercard demonstrates tech that helps agents pay for digital services",
+      "url": "https://www.finextra.com/pressarticle/111374/mastercard-demonstrates-tech-that-helps-agents-pay-for-digital-services?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "At Cloudflare Connect, Mastercard is showing how Agent Pay for Machines helps AI agents pay for digital services while keeping people and businesses in control.",
+      "category": "news",
+      "collected": "2026-10-21T07:35:02.498Z"
+    },
+    {
+      "id": "h297pk",
+      "date": "2026-10-20T13:00:00.000Z",
+      "source": "Finextra",
+      "title": "Visa pilots AI agent payments between buyer and supplier platforms",
+      "url": "https://www.finextra.com/newsarticle/48610/visa-pilots-ai-agent-payments-between-buyer-and-supplier-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "Visa has joined forces with Bill and Billtrust to launch the first live pilot to enable trusted AI agents to initiate and complete approved buyer invoice payments end-to-end through supplier portals.",
+      "category": "news",
+      "collected": "2026-10-21T07:35:02.498Z"
+    },
+    {
+      "id": "1i8xlun",
+      "date": "2026-10-20T11:00:00.000Z",
+      "source": "Finextra",
+      "title": "Agentic AI and Instant Payments: How Can Banks Reduce Fragmentation?",
+      "url": "https://www.finextra.com/videoarticle/3621/agentic-ai-and-instant-payments-how-can-banks-reduce-fragmentation?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "summary": "At Sibos 2026, the Euro Banking Association shares the ways in which banks can combat agentic AI disintermediation and reduce European payment fragmentation. How agentic AI could reshape bank brands and customer loyalty.",
+      "category": "news",
+      "collected": "2026-10-21T07:35:02.499Z"
+    },
     {
       "id": "97gz7v",
       "date": "2026-10-15T15:36:00.000Z",
