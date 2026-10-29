@@ -33,6 +33,7 @@ export const TOOL_GROUPS: ToolGroup[] = [
       { name: 'Common problems by model', href: '/vin/problems', what: 'NHTSA complaints and recalls for 60+ used-car models, 2008-2022, ranked by what breaks most', cost: 'free', for: ['humans'] },
       { name: 'Congress Trades', href: '/trades', what: 'Every US House stock trade from STOCK Act filings, updated daily', cost: 'free', for: ['humans'], featured: true },
       { name: 'Quantum readiness check', href: '/quantum', what: 'Test hybrid post-quantum TLS support, transport hygiene and remediation', cost: 'free', for: ['humans', 'builders'], featured: true },
+      { name: 'Site security check', href: '/site-check', what: 'Free passive scan: SPF/DKIM/DMARC, TLS versions, certificate, HSTS, CSP, security.txt; $5 full report with fixes', cost: 'free', for: ['humans', 'builders'], featured: true },
       { name: 'Endpoint scanner', href: '/scan', what: 'Grade any x402 / MPP endpoint: payable, envelope valid, dual-stack', cost: 'free', for: ['builders'], featured: true },
       { name: 'Pay-per-Crawl for WordPress', href: '/wordpress', what: 'Free plugin: bot ledger plus an HTTP 402 price tag in USDC on Base; you keep 100%', cost: 'free', for: ['humans', 'builders'], featured: true },
       { name: 'Pay-per-Crawl for Python, JS, Vercel, Go, PHP', href: '/plugins', what: 'Same bot ledger and 402 price tag as middleware: FastAPI/Django, Workers/Next/Vercel/Node, Caddy/Traefik, Laravel/Drupal', cost: 'free', for: ['builders'], featured: true },

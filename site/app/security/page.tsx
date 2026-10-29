@@ -85,7 +85,7 @@ export default function Page() {
                   recorded traffic is not a harvest-now-decrypt-later target.
                 </p>
                 <p className="mt-3">
-                  Check any site, including yours, with the free <a href="/quantum" className="text-blue-400 hover:text-blue-300">quantum readiness check</a>. Or from a shell:
+                  Check any site, including yours, with the free <a href="/site-check" className="text-blue-400 hover:text-blue-300">site security check</a> (email authentication, TLS, headers) or the <a href="/quantum" className="text-blue-400 hover:text-blue-300">quantum readiness check</a>. Or from a shell:
                 </p>
                 <pre className="mt-3 overflow-x-auto rounded border border-white/[0.08] bg-white/[0.03] p-4 font-mono text-[13px] leading-6 text-slate-200">
                   <code>{VERIFY_CMD}</code>
