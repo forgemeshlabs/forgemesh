@@ -27,6 +27,8 @@ const nextConfig: NextConfig = {
       // Machine feed alias: /partners.json keeps working for existing consumers.
       { source: "/verified.json", destination: "/partners.json" },
       // Umami is built with BASE_PATH=/stats, so the prefix is forwarded as-is.
+      // Site Security Check: free summary served by the private proxy service (routes/sitecheck.js).
+      { source: "/api/site-check", destination: "http://127.0.0.1:3430/api/sitecheck" },
       { source: "/stats", destination: "http://127.0.0.1:3411/stats" },
       { source: "/stats/:path*", destination: "http://127.0.0.1:3411/stats/:path*" },
     ];

@@ -61,6 +61,7 @@ const STATIC_ROUTES = [
   '/plugins/php',
   '/wordpress',
   '/wallet',
+  '/site-check',
   '/x402',
 ];
 
