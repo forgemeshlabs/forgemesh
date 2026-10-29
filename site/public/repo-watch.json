@@ -1,6 +1,81 @@
 {
-  "lastChecked": "2026-09-30T00:15:04.329Z",
+  "lastChecked": "2026-10-29T00:15:04.885Z",
   "entries": [
+    {
+      "tag": "pypi-x402@v2.26.0",
+      "date": "2026-10-28",
+      "repo": "x402-foundation/x402",
+      "sdk": "Python SDK",
+      "pkg": "pypi",
+      "version": "2.26.0",
+      "significance": "security",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/pypi-x402%40v2.26.0",
+      "highlights": [
+        "Bounded the x402[mcp] extra to mcp<2; mcp 2.x removed mcp.server.fastmcp, breaking server-side paid tools on a fresh install.",
+        "Fixed Flask and FastAPI JSON-encoding a payment-error body when the response declares text/plain. A string body with that content type is now sent as text, preserving newlines. JSON object bodies are unchanged.",
+        "Fixed x402Client (async) blocking the event loop while a scheme builds the payment payload. Scheme create_payment_payload calls, which can do synchronous network I/O such as Solana RPC reads…",
+        "Fixed batch-settlement charged-amount baseline when the server has no local channel record (after a full refund, idle auto-refund, or restart)…",
+        "Fixed exact SVM verification to report a missing or wrong-program recipient token account after a failed simulation…"
+      ],
+      "collected": "2026-10-29T00:15:03.390Z"
+    },
+    {
+      "tag": "npm-@x402/xrpl@v2.29.0",
+      "date": "2026-10-28",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/xrpl",
+      "pkg": "npm",
+      "version": "2.29.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fxrpl%40v2.29.0",
+      "highlights": [],
+      "collected": "2026-10-29T00:15:03.765Z"
+    },
+    {
+      "tag": "npm-@x402/tvm@v2.29.0",
+      "date": "2026-10-28",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/tvm",
+      "pkg": "npm",
+      "version": "2.29.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Ftvm%40v2.29.0",
+      "highlights": [],
+      "collected": "2026-10-29T00:15:04.113Z"
+    },
+    {
+      "tag": "npm-@x402/svm@v2.29.0",
+      "date": "2026-10-28",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/svm",
+      "pkg": "npm",
+      "version": "2.29.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fsvm%40v2.29.0",
+      "highlights": [
+        "Negotiate the Solana transaction message version between facilitator, server and client for the exact scheme, ahead of transaction v1 (SIMD-0385)…",
+        "Negotiate the Solana transaction message version for the upto scheme and the shared payment-channels open transaction…",
+        "Fixed refunds for persisted server-signed batch channels after a client restart.",
+        "Reject reuse of a server-mode batch-settlement request id with a different ceiling as invalid_batch_settlement_svm_operation_ceiling_changed instead of transaction_failed…",
+        "Added optional recipient ATA diagnostics after failed exact payment simulation, preserving the original failure when account lookup is unavailable."
+      ],
+      "collected": "2026-10-29T00:15:04.495Z"
+    },
+    {
+      "tag": "npm-@x402/stellar@v2.29.0",
+      "date": "2026-10-28",
+      "repo": "x402-foundation/x402",
+      "sdk": "@x402/stellar",
+      "pkg": "npm",
+      "version": "2.29.0",
+      "significance": "minor",
+      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fstellar%40v2.29.0",
+      "highlights": [
+        "Require @stellar/stellar-sdk ^16.4.1, the lts-16 release that bumps axios from 1.18.0 to 1.20.0 and clears its seven high-severity advisories. No source change: 16.4.1 differs from 16.3.1 by that one dependency…",
+        "Fixed ExactStellarScheme.settle collapsing every non-PENDING sendTransaction result into the same constant errorReason. The RPC's status, errorResult code, and latestLedger are now surfaced via errorMessage/extra…"
+      ],
+      "collected": "2026-10-29T00:15:04.885Z"
+    },
     {
       "tag": "pypi-x402@v2.25.0",
       "date": "2026-09-29",
@@ -591,70 +666,6 @@
       "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fsvm%40v2.13.0",
       "highlights": [],
       "collected": "2026-08-28T12:15:08.358Z"
-    },
-    {
-      "tag": "npm-@x402/svm@v2.12.0",
-      "date": "2026-05-13",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/svm",
-      "pkg": "npm",
-      "version": "2.12.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fsvm%40v2.12.0",
-      "highlights": [],
-      "collected": "2026-08-28T12:15:08.637Z"
-    },
-    {
-      "tag": "npm-@x402/svm@v2.11.0",
-      "date": "2026-04-27",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/svm",
-      "pkg": "npm",
-      "version": "2.11.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fsvm%40v2.11.0",
-      "highlights": [
-        "Fixed a bug affecting USD prices with 7+ decimal places of precision (e.g. $0.0000001 or smaller)."
-      ],
-      "collected": "2026-08-28T12:15:08.906Z"
-    },
-    {
-      "tag": "npm-@x402/svm@v2.10.0",
-      "date": "2026-04-13",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/svm",
-      "pkg": "npm",
-      "version": "2.10.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fsvm%40v2.10.0",
-      "highlights": [
-        "Add optional extra.memo support to SVM exact scheme. When a seller provides extra.memo in PaymentRequirements, the client uses it as the Memo instruction data instead of a random nonce…"
-      ],
-      "collected": "2026-08-28T12:15:09.139Z"
-    },
-    {
-      "tag": "npm-@x402/svm@v2.8.0",
-      "date": "2026-03-23",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/svm",
-      "pkg": "npm",
-      "version": "2.8.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fsvm%40v2.8.0",
-      "highlights": [],
-      "collected": "2026-08-28T12:15:09.478Z"
-    },
-    {
-      "tag": "npm-@x402/svm@v2.7.0",
-      "date": "2026-03-16",
-      "repo": "x402-foundation/x402",
-      "sdk": "@x402/svm",
-      "pkg": "npm",
-      "version": "2.7.0",
-      "significance": "minor",
-      "url": "https://github.com/x402-foundation/x402/releases/tag/npm-%40x402%2Fsvm%40v2.7.0",
-      "highlights": [],
-      "collected": "2026-08-28T12:15:09.726Z"
     }
   ]
 }

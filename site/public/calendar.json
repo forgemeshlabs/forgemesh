@@ -324,10 +324,10 @@
       "why": "Approval puts the plugin in front of every WordPress admin searching for ways to charge AI crawlers; until then it installs from the /wordpress page.",
       "link": "https://forgemesh.io/wordpress",
       "track": true,
-      "status": "live",
-      "result": "Submitted Oct 17: wordpress.org confirmed receipt 13:59 UTC ('Successful Plugin Submission — ForgeMesh Pay-per-Crawl'); directory review pending.",
+      "status": "decided",
+      "result": "Approved Oct 20, 02:37 UTC by the WordPress Plugins Team (review of forgemesh-pay-per-crawl-0.2.0.zip, 2.5 days in queue). SVN repo plugins.svn.wordpress.org/forgemesh-pay-per-crawl created; public page wordpress.org/plugins/forgemesh-pay-per-crawl goes live once the code is committed to SVN trunk. Live Oct 20 (by 22:00 UTC): 0.2.2 committed to trunk + tags/0.2.2 (SVN r3757508), public page answers 200 with the plugin.",
       "time": "Submitted Oct 17 · review pending",
-      "updatedAt": "2026-10-17T22:05:00Z"
+      "updatedAt": "2026-10-20T22:05:00Z"
     },
     {
       "id": "grant-tory-burch-2027",

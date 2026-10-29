@@ -195,7 +195,7 @@ export default function WordPressPage() {
                 className="w-full rounded border border-white/[0.08]"
               />
               <figcaption className="mt-2 text-sm text-slate-500">
-                Bot directory: every crawler explained for humans, grouped by what it is for, searchable, and it grows as new bots appear. Version 0.2.4.
+                Bot directory: every crawler explained for humans, grouped by what it is for, searchable, and it grows as new bots appear. Version 0.2.5.
               </figcaption>
             </figure>
             <figure className="mt-8">
@@ -209,7 +209,7 @@ export default function WordPressPage() {
                 className="w-full rounded border border-white/[0.08]"
               />
               <figcaption className="mt-2 text-sm text-slate-500">
-                Pricing rules (Pro): different prices for different parts of your site and different bots. First match wins. Version 0.2.4.
+                Pricing rules (Pro): different prices for different parts of your site and different bots. First match wins. Version 0.2.5.
               </figcaption>
             </figure>
             <figure className="mt-8">
@@ -223,7 +223,7 @@ export default function WordPressPage() {
                 className="w-full rounded border border-white/[0.08]"
               />
               <figcaption className="mt-2 text-sm text-slate-500">
-                AI Crawler Audit: who is taking your pages and what it is worth. Free summary; the full report is a one-time $19 unlock, verified offline. Version 0.2.4.
+                AI Crawler Audit: who is taking your pages and what it is worth. Free summary; the full report is a one-time $19 unlock, verified offline. Version 0.2.5.
               </figcaption>
             </figure>
             <figure className="mt-8">
