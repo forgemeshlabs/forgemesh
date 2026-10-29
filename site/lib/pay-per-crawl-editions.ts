@@ -13,7 +13,7 @@ export type Edition = {
   note?: string;
 };
 
-export const WP_VERSION = '0.2.3';
+export const WP_VERSION = '0.2.4';
 export const WP_ZIP = `https://github.com/forgemeshlabs/forgemesh-pay-per-crawl/releases/download/v${WP_VERSION}/forgemesh-pay-per-crawl-${WP_VERSION}.zip`;
 
 export const EDITIONS: Edition[] = [
