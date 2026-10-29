@@ -44,7 +44,7 @@ export const GUIDES: Guide[] = [
     title: 'Charge AI crawlers on a Next.js site',
     pitch: 'Edge-runtime middleware for Next 14, 15 and 16. Humans and verified search engines read free; AI crawlers get a 402 and pay per page in USDC on Base, straight to your wallet.',
     stacks: 'Next.js 14 / 15 middleware, Next 16 proxy, Vercel or self-hosted',
-    version: '0.1.2',
+    version: '0.1.3',
     registry: { label: 'npm', url: 'https://www.npmjs.com/package/@forgemeshlabs/pay-per-crawl-next' },
     repo: 'https://github.com/forgemeshlabs/pay-per-crawl-js/tree/main/packages/next',
     install: 'npm install @forgemeshlabs/pay-per-crawl-next',
@@ -83,7 +83,7 @@ export const config = { matcher: ["/((?!_next/static|_next/image|favicon.ico).*)
     title: 'Charge AI crawlers on any site hosted on Vercel',
     pitch: 'One Edge Middleware file in front of whatever Vercel serves: a static site, Astro, SvelteKit, Vite, Nuxt, Remix, Hugo, Docusaurus. No server needed. Next.js projects use the Next.js guide instead.',
     stacks: 'Vercel Edge Middleware, any framework except Next.js',
-    version: '0.1.0',
+    version: '0.1.1',
     registry: { label: 'npm', url: 'https://www.npmjs.com/package/@forgemeshlabs/pay-per-crawl-vercel' },
     repo: 'https://github.com/forgemeshlabs/pay-per-crawl-js/tree/main/packages/vercel',
     install: 'npm install @forgemeshlabs/pay-per-crawl-vercel',
@@ -121,7 +121,7 @@ export const config = { matcher: ["/((?!_vercel|favicon.ico).*)"] };` },
     title: 'Charge AI crawlers with a Cloudflare Worker in front of any site',
     pitch: 'A Worker on your zone, a custom domain, or workers.dev in front of any origin. Deploys in five minutes, no change to the site behind it.',
     stacks: 'Cloudflare Workers, any origin, Cloudflare Pages',
-    version: '0.1.2',
+    version: '0.1.3',
     registry: { label: 'npm', url: 'https://www.npmjs.com/package/@forgemeshlabs/pay-per-crawl-worker' },
     repo: 'https://github.com/forgemeshlabs/pay-per-crawl-js/tree/main/packages/cloudflare-worker',
     install: 'npm install @forgemeshlabs/pay-per-crawl-worker',
@@ -160,7 +160,7 @@ MODE = "monitor"
     title: 'Charge AI crawlers in Express, Fastify, Hono or Koa',
     pitch: 'One adapter package for the four common Node servers. Mount it before your routes and every page is gated the same way.',
     stacks: 'Express, Fastify, Hono (Node, Bun, Deno, Workers), Koa',
-    version: '0.1.2',
+    version: '0.1.3',
     registry: { label: 'npm', url: 'https://www.npmjs.com/package/@forgemeshlabs/pay-per-crawl-node' },
     repo: 'https://github.com/forgemeshlabs/pay-per-crawl-js/tree/main/packages/node',
     install: 'npm install @forgemeshlabs/pay-per-crawl-node',
@@ -248,7 +248,7 @@ http {
     title: 'Charge AI crawlers in FastAPI, Flask or Django',
     pitch: 'One package, three adapters: ASGI for FastAPI and Starlette, WSGI for Flask and anything else, and a Django middleware. Python 3.10+, one dependency.',
     stacks: 'FastAPI, Starlette, Flask, any WSGI app, Django',
-    version: '0.1.2',
+    version: '0.1.3',
     registry: { label: 'PyPI', url: 'https://pypi.org/project/forgemesh-pay-per-crawl/' },
     repo: 'https://github.com/forgemeshlabs/pay-per-crawl-py',
     install: 'pip install forgemesh-pay-per-crawl',
@@ -298,10 +298,10 @@ PAY_PER_CRAWL = {"pay_to": "0xYourWalletOnBase", "mode": "gate", "price_usd": 0.
     title: 'Charge AI crawlers in Go, Caddy or Traefik',
     pitch: 'One Go module with a net/http middleware, a Caddy handler module and a Traefik plugin. Pure-Go keccak so the core loads inside Traefik\'s interpreter.',
     stacks: 'net/http, Caddy module http.handlers.pay_per_crawl, Traefik plugin',
-    version: '0.1.1',
+    version: '0.1.2',
     registry: { label: 'pkg.go.dev', url: 'https://pkg.go.dev/github.com/forgemeshlabs/pay-per-crawl-go' },
     repo: 'https://github.com/forgemeshlabs/pay-per-crawl-go',
-    install: 'go get github.com/forgemeshlabs/pay-per-crawl-go@v0.1.1',
+    install: 'go get github.com/forgemeshlabs/pay-per-crawl-go@v0.1.2',
     snippets: [
       { label: 'net/http', file: 'main.go', lang: 'go', code: `package main
 
@@ -335,7 +335,7 @@ example.com {
   plugins:
     payPerCrawl:
       moduleName: github.com/forgemeshlabs/pay-per-crawl-go
-      version: v0.1.1
+      version: v0.1.2
 # then a middleware in your dynamic config:
 # http.middlewares.ppc.plugin.payPerCrawl.payTo: 0xYourWalletOnBase` },
     ],
@@ -371,7 +371,7 @@ example.com {
     title: 'Charge AI crawlers in Laravel, Drupal or plain PHP',
     pitch: 'A framework-free PHP core with a Laravel middleware package and a Drupal 10/11 module on top. WordPress has its own plugin.',
     stacks: 'Laravel 10+, Drupal 10.1+ / 11, Symfony, Slim or plain PHP via the core',
-    version: '0.1.0',
+    version: '0.1.1',
     registry: { label: 'Packagist', url: 'https://packagist.org/packages/forgemesh/pay-per-crawl-core' },
     repo: 'https://github.com/forgemeshlabs/pay-per-crawl-php',
     install: 'composer require forgemesh/pay-per-crawl-laravel   # or forgemesh/pay-per-crawl-drupal',
