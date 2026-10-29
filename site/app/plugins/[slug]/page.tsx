@@ -152,7 +152,7 @@ export default async function GuidePage({ params }: { params: Promise<Params> })
 
             <div className="mt-10 flex flex-col gap-3 sm:flex-row">
               <a href="/plugins" className={btn}>All editions</a>
-              <a href="https://proxy.forgemesh.io/wp" className={btn}>Pro dashboard $4.99/mo</a>
+              <a href="https://proxy.forgemesh.io/wp" className={btn}>Free hosted dashboard</a>
               <a href="mailto:hello@forgemesh.io" className={btn}>hello@forgemesh.io</a>
             </div>
           </div>

@@ -50,7 +50,7 @@ const structuredData = {
       downloadUrl: ZIP,
       license: 'https://www.gnu.org/licenses/gpl-2.0.html',
       offers: [
-        { '@type': 'Offer', name: 'Free', price: '0', priceCurrency: 'USD' },
+        { '@type': 'Offer', name: 'Free', price: '0', priceCurrency: 'USD', description: 'Plugin plus free hosted account: dashboard, crawler-intel feed, directory listing' },
         {
           '@type': 'Offer',
           name: 'Pro',
@@ -195,7 +195,7 @@ export default function WordPressPage() {
                 className="w-full rounded border border-white/[0.08]"
               />
               <figcaption className="mt-2 text-sm text-slate-500">
-                Bot directory: every crawler explained for humans, grouped by what it is for, searchable, and it grows as new bots appear. Version 0.2.3.
+                Bot directory: every crawler explained for humans, grouped by what it is for, searchable, and it grows as new bots appear. Version 0.2.4.
               </figcaption>
             </figure>
             <figure className="mt-8">
@@ -209,7 +209,7 @@ export default function WordPressPage() {
                 className="w-full rounded border border-white/[0.08]"
               />
               <figcaption className="mt-2 text-sm text-slate-500">
-                Pricing rules (Pro): different prices for different parts of your site and different bots. First match wins. Version 0.2.3.
+                Pricing rules (Pro): different prices for different parts of your site and different bots. First match wins. Version 0.2.4.
               </figcaption>
             </figure>
             <figure className="mt-8">
@@ -223,7 +223,7 @@ export default function WordPressPage() {
                 className="w-full rounded border border-white/[0.08]"
               />
               <figcaption className="mt-2 text-sm text-slate-500">
-                AI Crawler Audit: who is taking your pages and what it is worth. Free summary; the full report is a one-time $19 unlock, verified offline. Version 0.2.3.
+                AI Crawler Audit: who is taking your pages and what it is worth. Free summary; the full report is a one-time $19 unlock, verified offline. Version 0.2.4.
               </figcaption>
             </figure>
             <figure className="mt-8">
@@ -260,48 +260,57 @@ export default function WordPressPage() {
               ))}
             </ul>
 
-            <h2 className="mt-14 text-2xl font-semibold tracking-tight text-slate-50">Free and Pro</h2>
+            <h2 className="mt-14 text-2xl font-semibold tracking-tight text-slate-50">Free plugin, free hosted account, Pro</h2>
             <p className="mt-4 text-base leading-8 text-slate-400">
-              The free plugin is fully functional on its own. Pro adds hosted tools on top. Payments
-              never pass through ForgeMesh in either tier, and Pro only sees what the plugin reports:
-              daily per-bot counts and settlement records, with no visitor IPs or page content.
+              The plugin is fully functional on its own. A free hosted account adds the parts that
+              need a server we run. Pro adds pricing control and a revenue report on the same key.
+              Payments never pass through ForgeMesh in any tier, and the hosted side only sees what
+              the plugin reports: daily per-bot counts and settlement records, with no visitor IPs or
+              page content.
             </p>
-            <div className="mt-6 grid gap-4 sm:grid-cols-2">
+            <div className="mt-6 grid gap-4 sm:grid-cols-3">
               <div className="rounded border border-white/[0.06] bg-white/[0.02] p-5">
-                <h3 className="font-medium text-slate-100">Free</h3>
-                <p className="mt-1 font-mono text-sm text-slate-500">$0, GPL</p>
+                <h3 className="font-medium text-slate-100">Plugin</h3>
+                <p className="mt-1 font-mono text-sm text-slate-500">$0, GPL, no account</p>
                 <ul className="mt-4 list-disc space-y-2 pl-5 text-sm leading-6 text-slate-400">
                   <li>Bot ledger plus a 402 price tag for crawlers and scripts</li>
-                  <li>Bot analytics in wp-admin</li>
+                  <li>Bot analytics and bot directory in wp-admin</li>
                   <li>Monitor and Charge modes</li>
                   <li>Discovery files (x402.json, llms.txt, agents.txt)</li>
                   <li>Any payment goes straight to your wallet</li>
                 </ul>
               </div>
+              <div className="rounded border border-white/[0.06] bg-white/[0.02] p-5">
+                <h3 className="font-medium text-slate-100">Hosted account</h3>
+                <p className="mt-1 font-mono text-sm text-slate-500">$0, email for a key, up to 5 sites</p>
+                <ul className="mt-4 list-disc space-y-2 pl-5 text-sm leading-6 text-slate-400">
+                  <li>Hosted dashboard for all sites, 13 months of history</li>
+                  <li>Crawler-intelligence feed pulled daily into the plugin: new bot names, classes and impostor rules</li>
+                  <li>Listing in the paid-sites directory plus a live SVG badge</li>
+                </ul>
+              </div>
               <div className="rounded border border-blue-500/40 bg-blue-500/[0.06] p-5">
                 <h3 className="font-medium text-slate-100">Pro</h3>
-                <p className="mt-1 font-mono text-sm text-blue-300/80">$4.99/month, up to 5 sites</p>
+                <p className="mt-1 font-mono text-sm text-blue-300/80">$4.99/month, same key</p>
                 <ul className="mt-4 list-disc space-y-2 pl-5 text-sm leading-6 text-slate-400">
-                  <li>Everything in Free, for up to 5 sites</li>
-                  <li>Hosted dashboard for all sites, 13 months of history</li>
-                  <li>Monday email digest: bot hits, paid fetches, revenue, and what monitor-mode sites would have charged</li>
-                  <li>Daily paywall monitoring as an AI-crawler user agent, with alerts when a 402 stops answering, the wallet in the challenge changes, or the manifest disappears</li>
-                  <li>Crawler-intelligence feed pulled daily into the plugin: new bot names, classes and impostor rules (104 agents vs 85 shipped)</li>
-                  <li>Listing in the paid-sites directory plus a live SVG badge</li>
+                  <li>Pricing rules: charge, free or block by post type, category, tag, path, bot name, purpose or class, each with its own price</li>
+                  <li>Revenue report: this month, last month, all time, per site, plus a settlements CSV with a Base transaction hash on every row</li>
+                  <li>Daily paywall monitoring as an AI-crawler user agent, with alerts when a 402 stops answering, the wallet changes, or the manifest disappears</li>
+                  <li>Monday email digest</li>
                 </ul>
               </div>
             </div>
             <p className="mt-4 text-sm leading-6 text-slate-500">
-              Subscribe through Stripe checkout. Your license key is shown after checkout and emailed
-              to you; paste it in <strong className="text-slate-300">Pay-per-Crawl → Settings → Pro</strong>.
-              Cancel any time from the hosted dashboard.
+              The free key is emailed, never shown on a page. Pro is a Stripe subscription that
+              upgrades the same key; cancel from the dashboard and the key drops back to the free
+              account. Paste the key in <strong className="text-slate-300">Pay-per-Crawl → Settings → Hosted account</strong>.
             </p>
             <div className="mt-6 flex flex-col gap-3 sm:flex-row">
               <a
                 href={PRO}
                 className="inline-flex items-center justify-center gap-2 rounded border border-blue-500/40 bg-blue-500/10 px-5 py-3 text-sm font-medium text-slate-100 transition-all hover:border-blue-400/70 hover:bg-blue-500/20"
               >
-                Start Pro $4.99/mo <ArrowRight className="h-4 w-4" aria-hidden />
+                Free key or Pro $4.99/mo <ArrowRight className="h-4 w-4" aria-hidden />
               </a>
               <a href="https://proxy.forgemesh.io/wp/sites" className={btn}>Paid-sites directory</a>
             </div>

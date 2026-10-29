@@ -96,7 +96,7 @@ const structuredData = {
           codeRepository: e.repo,
           license: e.key === 'wordpress' ? 'https://www.gnu.org/licenses/gpl-2.0.html' : 'https://opensource.org/licenses/MIT',
           offers: [
-            { '@type': 'Offer', name: 'Free', price: '0', priceCurrency: 'USD' },
+            { '@type': 'Offer', name: 'Free', price: '0', priceCurrency: 'USD', description: 'Edition plus free hosted account: dashboard, crawler-intel feed, directory listing' },
             {
               '@type': 'Offer',
               name: 'Pro',
@@ -119,7 +119,7 @@ const structuredData = {
         {
           '@type': 'Question',
           name: 'Does it cost anything?',
-          acceptedAnswer: { '@type': 'Answer', text: 'The plugins are free and open source. Payments go straight from the crawler to your wallet; ForgeMesh takes no cut. An optional Pro plan ($4.99/month) adds a hosted dashboard, weekly digest and paywall monitoring.' },
+          acceptedAnswer: { '@type': 'Answer', text: 'The plugins are free and open source. Payments go straight from the crawler to your wallet; ForgeMesh takes no cut. A free hosted account adds a dashboard for all your sites, a crawler-intel feed and a directory listing. Pro ($4.99/month, same key) adds pricing rules by bot and content group, a revenue report with CSV, paywall monitoring and a weekly digest.' },
         },
         {
           '@type': 'Question',
@@ -342,20 +342,21 @@ export default function PluginsPage() {
                 </ul>
               </div>
               <div className="rounded border border-blue-500/40 bg-blue-500/[0.06] p-5">
-                <h3 className="font-medium text-slate-100">Pro</h3>
-                <p className="mt-1 font-mono text-sm text-blue-300/80">$4.99/month, up to 5 sites, any edition</p>
+                <h3 className="font-medium text-slate-100">Hosted account and Pro</h3>
+                <p className="mt-1 font-mono text-sm text-blue-300/80">Account free · Pro $4.99/month, same key, up to 5 sites, any edition</p>
                 <ul className="mt-4 list-disc space-y-2 pl-5 text-sm leading-6 text-slate-400">
-                  <li>Hosted dashboard for all sites, 13 months of history</li>
-                  <li>Monday email digest: bot hits, paid fetches, revenue, and what monitor-mode sites would have earned</li>
-                  <li>Daily paywall monitoring as an AI-crawler user agent, with alerts when a 402 stops answering, the wallet in the challenge changes, or the manifest disappears</li>
-                  <li>Crawler-intelligence feed pulled daily: new bot names, classes and impostor rules</li>
-                  <li>Listing in the paid-sites directory plus a live SVG badge</li>
+                  <li>Free: hosted dashboard for all sites, 13 months of history</li>
+                  <li>Free: crawler-intelligence feed pulled daily: new bot names, classes and impostor rules</li>
+                  <li>Free: listing in the paid-sites directory plus a live SVG badge</li>
+                  <li>Pro: pricing rules by bot name, purpose, class or content group, each with its own price</li>
+                  <li>Pro: revenue report with a settlements CSV, Base transaction hash on every row</li>
+                  <li>Pro: daily paywall monitoring with alerts, and a Monday email digest</li>
                 </ul>
               </div>
             </div>
             <div className="mt-6 flex flex-col gap-3 sm:flex-row">
               <a href={PRO} className={primary}>
-                Start Pro $4.99/mo <ArrowRight className="h-4 w-4" aria-hidden />
+                Free key or Pro $4.99/mo <ArrowRight className="h-4 w-4" aria-hidden />
               </a>
               <a href="https://proxy.forgemesh.io/wp/sites" className={btn}>Paid-sites directory</a>
             </div>
