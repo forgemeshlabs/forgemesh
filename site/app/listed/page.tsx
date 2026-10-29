@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true },
 };
 
-const UPDATED = '2026-10-28';
+const UPDATED = '2026-10-29';
 
 type Listing = {
   name: string;
@@ -69,6 +69,7 @@ const GROUPS: Group[] = [
       { name: 'SiftFox', what: 'Pay-per-Crawl, Developer Tools', href: 'https://siftfox.com/tool/pay-per-crawl', nofollow: true },
       { name: 'YourAITools', what: 'ForgeMesh Labs, crypto-paid APIs', href: 'https://youraitools.co/tool/forgemesh-labs', nofollow: true },
       { name: 'Digidle', what: 'ForgeMesh Pay-per-Crawl, developer tools', href: 'https://digidle.com/tools/forgemesh-pay-per-crawl/', nofollow: true },
+      { name: 'Wayoflife', what: 'ForgeMesh Pay-per-Crawl, all editions with licenses', href: 'https://wayoflife-ai.vercel.app/tools/forgemesh-pay-per-crawl/', nofollow: true },
     ],
   },
 ];
