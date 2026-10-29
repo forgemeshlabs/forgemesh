@@ -23,7 +23,7 @@ const faq = [
   { q: 'What is in the $5 report?', a: 'Every finding with the evidence we saw, what it means in plain language, and the exact fix: the DNS record value, the nginx or Apache line, or the Cloudflare switch. A prioritised roadmap, the full table of all checks, and a print-to-PDF layout. Re-check free for 30 days while you fix things.' },
   { q: 'Why is this free when others charge for it?', a: 'Because the same scan is what unsolicited "security researcher" emails offer, followed by a request for a bounty or a review. We received one, verified every finding, and built the check so you do not have to answer those emails.' },
   { q: 'Does a good grade mean my site is secure?', a: 'No. It means your public posture is in order: your mail cannot be spoofed easily, visitors always get HTTPS, and browsers are told what not to do. The application itself, its logins, forms and data handling are not tested here.' },
-  { q: 'Can an agent use it?', a: 'The free summary is at GET forgemesh.io/api/site-check?domain=example.com, 20 calls per hour per address. A paid structured route on the Utility Grid is on the list; write to hello@forgemesh.io if you want it sooner.' },
+  { q: 'Can an agent use it?', a: 'Yes. The free summary is at GET forgemesh.io/api/site-check?domain=example.com, 20 calls per hour per address. The full report as structured JSON is POST x402.forgemesh.io/site-security-report with {"domain":"example.com"}, $5 per call in USDC on Base over x402 or MPP, no account or key: every check with evidence, severity, fix and roadmap. An unpaid request returns the payment challenge.' },
 ];
 
 const structuredData = {
@@ -79,6 +79,13 @@ export default async function SiteCheckPage({ searchParams }: { searchParams: Pr
                 </div>
               ))}
             </dl>
+            <div className="mt-10 rounded border border-white/[0.06] bg-white/[0.02] p-5">
+              <h2 className="font-medium text-slate-100">For agents: the same report as JSON</h2>
+              <p className="mt-2 text-sm leading-6 text-slate-400">
+                POST x402.forgemesh.io/site-security-report with a domain, $5 per call in USDC on Base over x402 or MPP, no account or API key. Every check with evidence, severity, the fix and a roadmap, for audits and fleet sweeps.
+              </p>
+              <a href="https://x402.forgemesh.io/site-security-report" className="mt-4 inline-flex items-center gap-2 rounded border border-blue-500/40 bg-blue-500/10 px-5 py-3 text-sm font-medium text-slate-100 transition-all hover:border-blue-400/70 hover:bg-blue-500/20">Utility Grid route</a>
+            </div>
             <p className="mt-10 text-sm leading-6 text-slate-500">
               Related: <a href="/quantum" className="text-blue-400 hover:text-blue-300">post-quantum TLS readiness</a>, <a href="/security" className="text-blue-400 hover:text-blue-300">how ForgeMesh handles security</a>, <a href="/wallet" className="text-blue-400 hover:text-blue-300">wallet setup guide</a>.
             </p>
