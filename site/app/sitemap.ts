@@ -60,6 +60,7 @@ const STATIC_ROUTES = [
   '/plugins/go',
   '/plugins/php',
   '/wordpress',
+  '/wallet',
   '/x402',
 ];
 
