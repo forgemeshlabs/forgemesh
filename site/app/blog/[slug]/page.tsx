@@ -157,6 +157,28 @@ export default async function Page({ params }: Params) {
                       {renderInline(p)}
                     </p>
                   ))}
+                  {s.video ? (
+                    <figure className="mt-6">
+                      <video
+                        controls
+                        playsInline
+                        preload="none"
+                        poster={s.video.poster}
+                        aria-label={s.video.label}
+                        className="w-full rounded border border-white/[0.06]"
+                        width={960}
+                        height={540}
+                      >
+                        <source src={s.video.src} type="video/mp4" />
+                        <a href={s.video.src}>Watch the video</a>
+                      </video>
+                      {s.video.caption ? (
+                        <figcaption className="mt-3 text-sm leading-6 text-slate-400">
+                          {s.video.caption}
+                        </figcaption>
+                      ) : null}
+                    </figure>
+                  ) : null}
                   {s.stats?.length ? (
                     <div className="mt-6 grid gap-4 sm:grid-cols-3">
                       {s.stats.map((st) => (
