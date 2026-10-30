@@ -20,6 +20,7 @@ export type RuntimeSection = {
   heading: string;
   paras: string[];
   stats?: { n: string; d: string }[];
+  video?: { src: string; poster?: string; label: string; caption?: string };
 };
 
 export type RuntimePost = BlogPost & {
