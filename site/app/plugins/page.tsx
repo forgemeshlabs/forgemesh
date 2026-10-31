@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { ArrowRight, Download } from 'lucide-react';
 import { Footer } from '@/components/Footer';
+import { ScanCta } from '@/components/ScanCta';
 import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
@@ -389,6 +390,7 @@ export default function PluginsPage() {
           </div>
         </section>
 
+        <ScanCta id="scan-plugins" />
         <ShareBar />
         <Footer />
       </main>

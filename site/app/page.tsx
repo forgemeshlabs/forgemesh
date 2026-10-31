@@ -8,6 +8,7 @@ import { Discovery } from '@/components/Discovery';
 import { ProofBlock } from '@/components/ProofBlock';
 import { CopyInstall } from '@/components/CopyInstall';
 import { Footer } from '@/components/Footer';
+import { ScanCta } from '@/components/ScanCta';
 import { ShareBar } from '@/components/ShareBar';
 import { FLEET } from '@/lib/mesh';
 import './home.css';
@@ -15,7 +16,7 @@ import './home.css';
 export const metadata: Metadata = {
   title: 'ForgeMesh Labs — Paid APIs for AI Agents · x402 & MPP',
   description:
-    'Live paid services for AI agents: notarization, anomaly detection, disruption intel, travel, voice, market signals, image generation. Pay per call from $0.001 over x402 or MPP. No accounts, no API keys.',
+    'Live paid services for AI agents: notarization, anomaly detection, disruption intel, travel, voice, market signals, image generation. Pay per call from $0.005 over x402 or MPP. No accounts, no API keys.',
   alternates: { canonical: '/' },
 };
 
@@ -124,7 +125,7 @@ export default function Home() {
                   <span className="n">02 · 402</span>
                   <h3>Price quoted</h3>
                   <p>The service answers 402 Payment Required with the price and pay-to address.</p>
-                  <code>{'{"maxAmountRequired": "$0.001"}'}</code>
+                  <code>{'{"maxAmountRequired": "$0.005"}'}</code>
                 </div>
                 <div className="fm-step"><span className="fm-halo" aria-hidden="true" />
                   <span className="n">03 · SIGN</span>
@@ -182,6 +183,7 @@ export default function Home() {
           </section>
         </div>
 
+        <ScanCta id="scan-home" />
         <Projects />
         <Architecture />
         <Philosophy />

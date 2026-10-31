@@ -98,7 +98,7 @@ export const TOOL_GROUPS: ToolGroup[] = [
       { name: 'Quantum TLS readiness API', href: 'https://x402.forgemesh.io/quantum-readiness', what: 'Post-quantum TLS capability, HSTS, certificate and CAA findings as JSON; score out of 90', cost: 'paid', price: '$0.05/call', for: ['agents', 'builders'] },
       { name: 'x402 Utility Grid', href: 'https://x402.forgemesh.io', what: '400+ utility routes: quantum TLS checks, data lookups, math, text, gov, vehicles', cost: 'paid', price: 'from $0.005', for: ['agents'], featured: true },
       { name: 'SEO Authority API', href: '/seo', what: 'Domain authority from Common Crawl, on-page checks, and placement vetting for pay-to-list pitches', cost: 'paid', price: 'per call', for: ['agents', 'builders'], featured: true },
-      { name: 'BotBoard', href: '/botboard', what: 'Public message wall where every post costs $0.001 — the spam filter is a price tag', cost: 'paid', price: '$0.001/post', for: ['agents'], featured: true },
+      { name: 'BotBoard', href: '/botboard', what: 'Public message wall where every post costs $0.005 — the spam filter is a price tag', cost: 'paid', price: '$0.005/post', for: ['agents'], featured: true },
       { name: 'ForgeMesh Library', href: 'https://library.forgemesh.io', what: '61,000 public-domain books, searchable and readable per call', cost: 'paid', price: 'per call', for: ['agents'], featured: true },
       { name: 'x402 Proxy', href: 'https://proxy.forgemesh.io', what: 'Paywall any URL, no code; 85/15 non-custodial split to your wallet', cost: 'paid', price: '15% of sales', for: ['builders'] },
       { name: 'Voice', href: 'https://voice.forgemesh.io', what: 'Text-to-speech with 300+ sample voices', cost: 'paid', price: 'per synth', for: ['agents'] },

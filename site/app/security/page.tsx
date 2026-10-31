@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { Footer } from '@/components/Footer';
+import { ScanCta } from '@/components/ScanCta';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 
@@ -131,6 +132,7 @@ export default function Page() {
             </div>
           </div>
         </section>
+        <ScanCta id="scan-security" />
         <Footer />
       </main>
     </>

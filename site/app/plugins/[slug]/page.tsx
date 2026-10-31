@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { ArrowRight } from 'lucide-react';
 import { Footer } from '@/components/Footer';
+import { ScanCta } from '@/components/ScanCta';
 import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
@@ -157,6 +158,7 @@ export default async function GuidePage({ params }: { params: Promise<Params> })
             </div>
           </div>
         </section>
+        <ScanCta id="scan-plugin" />
         <ShareBar />
         <Footer />
       </main>
