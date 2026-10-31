@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { ArrowRight, Download } from 'lucide-react';
 import { Footer } from '@/components/Footer';
+import { ScanCta } from '@/components/ScanCta';
 import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
@@ -350,6 +351,7 @@ export default function WordPressPage() {
           </div>
         </section>
 
+        <ScanCta id="scan-wordpress" />
         <ShareBar />
         <Footer />
       </main>

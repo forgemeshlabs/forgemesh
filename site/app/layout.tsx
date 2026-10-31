@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   },
   title: "ForgeMesh Labs — Paid APIs for AI Agents · x402 & MPP",
   description:
-    "19 live paid APIs for AI agents: market signals, government data, travel, voice, image generation, notarization and more. Pay per call from $0.001 over x402 or MPP, no accounts, no API keys. Plus free Pay-per-Crawl plugins for site owners.",
+    "19 live paid APIs for AI agents: market signals, government data, travel, voice, image generation, notarization and more. Pay per call from $0.005 over x402 or MPP, no accounts, no API keys. Plus free Pay-per-Crawl plugins for site owners.",
   keywords: [
     "x402", "MPP", "machine payments protocol", "MCP servers", "paid APIs for AI agents", "agent commerce", "stablecoin micropayments",
     "autonomous agent economy", "machine-to-machine commerce", "agentic systems",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "ForgeMesh Labs — Paid APIs for AI Agents",
-    description: "19 live paid APIs for AI agents, pay per call from $0.001 over x402 or MPP, no accounts or API keys. Plus free Pay-per-Crawl plugins for site owners.",
+    description: "19 live paid APIs for AI agents, pay per call from $0.005 over x402 or MPP, no accounts or API keys. Plus free Pay-per-Crawl plugins for site owners.",
     type: "website",
     url: "https://forgemesh.io",
   },
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     site: "@forgemeshlabs",
     creator: "@forgemeshlabs",
     title: "ForgeMesh Labs — Paid APIs for AI Agents",
-    description: "19 live paid APIs for AI agents, pay per call from $0.001 over x402 or MPP, no accounts or API keys. Plus free Pay-per-Crawl plugins for site owners.",
+    description: "19 live paid APIs for AI agents, pay per call from $0.005 over x402 or MPP, no accounts or API keys. Plus free Pay-per-Crawl plugins for site owners.",
   },
 };
 

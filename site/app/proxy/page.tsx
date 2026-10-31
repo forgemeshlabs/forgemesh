@@ -8,6 +8,7 @@ import {
   ShieldCheck,
 } from 'lucide-react';
 import { Footer } from '@/components/Footer';
+import { ScanCta } from '@/components/ScanCta';
 import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
@@ -61,7 +62,7 @@ const steps = [
   },
   {
     title: 'Paste a URL, set a price',
-    text: 'Any public endpoint or resource on a domain you have verified. Price it from $0.001 to $100 per request. No code, no SDK, no server changes.',
+    text: 'Any public endpoint or resource on a domain you have verified. Price it from $0.005 to $100 per request. No code, no SDK, no server changes.',
     icon: Link2,
   },
   {
@@ -424,7 +425,7 @@ export default function ProxyPage() {
                 </h2>
                 <p className="mt-4 text-sm leading-relaxed text-slate-400">
                   No subscription, no listing fee, no minimum. You set the price per request, from
-                  $0.001 to $100. ForgeMesh takes 15% of each payment; the other 85% is yours,
+                  $0.005 to $100. ForgeMesh takes 15% of each payment; the other 85% is yours,
                   enforced on-chain.
                 </p>
               </div>
@@ -494,6 +495,7 @@ export default function ProxyPage() {
           </div>
         </section>
 
+        <ScanCta id="scan-proxy" className="border-t border-white/[0.06]" />
         <ShareBar />
         <Footer />
       </main>

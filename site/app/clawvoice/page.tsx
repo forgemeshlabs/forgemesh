@@ -74,7 +74,7 @@ const pricingRows = [
   {
     provider: 'ClawVoice hosted x402',
     model: 'Pay per approved call from a local Base USDC wallet',
-    cost: 'Endpoint-declared x402 price; base voice is currently $0.001 per successful hosted call',
+    cost: 'Endpoint-declared x402 price; base voice is currently $0.005 per successful hosted call',
     bestFor: 'Agents that need hosted fallback without a monthly voice subscription or hidden add-on fee.',
     source: 'https://voice.forgemesh.io',
     try: null,

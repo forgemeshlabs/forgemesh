@@ -1,0 +1,74 @@
+{
+  "slug": "free-website-security-check-cold-email-scan",
+  "date": "2026-10-31",
+  "title": "That \"Security Researcher\" Email Is Just a Free Scan. Run It Yourself.",
+  "seoTitle": "Free Website Security Check | ForgeMesh",
+  "seoDescription": "Free website security check: SPF, DMARC, DKIM, TLS, HSTS, CSP and security.txt in five seconds. The cold-email scan, without the bounty ask.",
+  "excerpt": "A stranger emails a PDF of your site's weak spots and asks for a reward. We got one, checked every finding, and found it was a passive scan anyone can run. So we built it, free.",
+  "description": "Why unsolicited security researcher emails are passive scans, what the free ForgeMesh site check covers, and what the $5 report adds.",
+  "heroAlt": "A glowing website wireframe rising out of an open envelope on a dark desk, with a magnifying glass, padlock and checkmark shield around it.",
+  "breadcrumb": "Free website security check",
+  "tags": [
+    "security",
+    "webdev",
+    "wordpress",
+    "email"
+  ],
+  "twitterTitle": "That \"security researcher\" email is just a free scan",
+  "twitterDescription": "A stranger emailed us a PDF of our weak spots and asked for a reward. Every finding was real, and every one came from a passive scan. So we built it as a free check: forgemesh.io/site-check",
+  "pinKicker": "Free website security check",
+  "lede": "A stranger emails you a polished PDF. It says a security researcher found weaknesses on your website, lists five findings, and mentions that a reward or a review would be appreciated. We got one this month. We checked every finding. All five were real, and all five came from a passive scan that anyone can run in about five seconds, so we built that scan and made it free.",
+  "sections": [
+    {
+      "heading": "What those emails actually are",
+      "paras": [
+        "The pattern is always the same. Someone runs automated, read-only checks against your public domain: DNS records, a few TLS handshakes, the headers your homepage sends back. Nothing is hacked, nothing is bypassed, no login is touched. The output is formatted into a PDF, and the email ends with a request: a bounty, a testimonial, a review on a listing site, or a paid engagement to fix what they found.",
+        "That does not make the findings false. In our case they were accurate, which is exactly why these emails work. It does mean the PDF is a list of public facts about your configuration, and you can get the same list without writing back to a stranger.",
+        "A fair rule: if a report arrives with a payment ask but no proof of anything beyond what a browser and a DNS lookup can show, treat it as a sales pitch. Then go and look at the findings, because they are often right."
+      ]
+    },
+    {
+      "heading": "What the free check looks at",
+      "paras": [
+        "Paste a domain into the [free site security check](https://forgemesh.io/site-check?utm_source=blog&utm_medium=post&utm_campaign=free-website-security-check-cold-email-scan) and you get a grade and a pass, warn or fail for each of more than twenty checks, in about five seconds. They fall into four groups.",
+        "**Email.** Is SPF present, single and strict? Is DMARC present and enforced, or still sitting at p=none, where spoofed mail from your domain is delivered anyway? Is there a DKIM key, and do you have MX records? This is the group that decides whether someone can send a convincing invoice that appears to come from you.",
+        "**HTTPS.** Is the certificate trusted with weeks left on it? Does plain HTTP redirect? Are TLS 1.0 and 1.1 refused? Old TLS versions fail PCI DSS and let a downgraded client use weak ciphers, and a lot of hosting still accepts them by default.",
+        "**Browser headers.** HSTS, Content-Security-Policy, clickjacking protection, nosniff and Referrer-Policy. These tell browsers what your pages must never be allowed to do.",
+        "**Disclosure.** Is there a security.txt so a person who finds a problem knows where to send it? Is your server version hidden? Is a CAA record limiting which authorities can issue certificates for you?",
+        "The check is passive and read-only: DNS lookups, four TLS handshakes and three page fetches with a named user agent. No login, no forms, no load testing. It never leaves your host, and private addresses are refused."
+      ]
+    },
+    {
+      "heading": "We ran it on ourselves first",
+      "paras": [
+        "ForgeMesh scored a C the first time. DMARC was at p=none, TLS 1.0 and 1.1 were still accepted at our CDN, and HSTS and security.txt were missing. We fixed those, and the same check now gives us an A, with a short list left: a Content-Security-Policy, a CAA record and a DKIM confirmation. We would rather show you our own grade, and how it moved, than pretend the tool only finds problems on other people's sites.",
+        "A good grade does not mean a site is secure. It means the public posture is in order: mail is hard to spoof, visitors always get HTTPS, browsers are told what not to do. The application behind it, its logins and forms and data handling, is not tested here."
+      ]
+    },
+    {
+      "heading": "What the $5 report adds",
+      "paras": [
+        "The free view tells you what failed and how serious it is. The report tells you what to do about it. For every finding you get the evidence we saw, what it means in plain language, and the exact fix: the DNS record value to paste, the nginx or Apache line, or the switch to flip in Cloudflare. You also get a prioritised roadmap, the full table of every check, and a print-to-PDF layout you can hand to a client or a host.",
+        "The $5 is one payment, no subscription. Re-checks are free for 30 days, so you can fix things, run it again, and watch the grade move. If you manage sites for other people, that is the part that turns a vague worry into a short to-do list.",
+        "If you run WordPress sites, most of the email and header findings are one DNS change or one plugin setting, and the report says which."
+      ]
+    },
+    {
+      "heading": "One line for the agents",
+      "paras": [
+        "AI agents can buy the same report as structured JSON over x402 or MPP, $5 in USDC on Base, no account or API key: POST to x402.forgemesh.io/site-security-report. The free summary is also a plain API call. Details are on the [check page](https://forgemesh.io/site-check?utm_source=blog&utm_medium=post&utm_campaign=free-website-security-check-cold-email-scan)."
+      ]
+    }
+  ],
+  "cta": {
+    "kicker": "Check your site in five seconds",
+    "copy": "Run the [free site security check](https://forgemesh.io/site-check?utm_source=blog&utm_medium=post&utm_campaign=free-website-security-check-cold-email-scan) on your domain, or on the one a stranger just emailed you about. Free grade and findings. The full report with copy-paste fixes is $5."
+  },
+  "related": [
+    {
+      "slug": "x402-402-body-now-says-why",
+      "text": "x402 402 body now says why"
+    }
+  ],
+  "image": "/content/assets/free-website-security-check-cold-email-scan.png"
+}

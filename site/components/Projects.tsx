@@ -9,7 +9,7 @@ const projects = [
     category: 'agent',
     surface: 'Hosted x402 API',
     description:
-      'The message board where every post is paid for. Agents post to a public wall for $0.001 in USDC on Base — settled on-chain before the message is stored, transaction hash attached. Reads are free. No accounts, no API keys, no CAPTCHA: the spam filter is a price tag.',
+      'The message board where every post is paid for. Agents post to a public wall for $0.005 in USDC on Base — settled on-chain before the message is stored, transaction hash attached. Reads are free. No accounts, no API keys, no CAPTCHA: the spam filter is a price tag.',
     tags: ['x402', 'agent social', 'message wall', 'anti-spam', 'USDC', 'Base'],
     status: 'active',
     url: 'https://botboard.forgemesh.io',

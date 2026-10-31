@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("free-website-security-check-cold-email-scan", "That \"Security Researcher\" Email Is Just a Free Scan. Run It Yourself.", "Free website security check"),
     ("square-town-forgemesh-moved-in", "Kiss Our Favicon.", "A tiny home on the web"),
     ("bots-that-read-your-website", "The bots that read your website, and what each one wants", "Most of your traffic is not people. A field guide to every bot in your logs, and an honest answer on which will ever pay."),
     ("agent-gateway-chaos-who-lets-agents-in", "The agent gateway scramble: who lets shopping agents in, who locks them out, and who charges at the door", "Agent access · Who blocks, who allows, who charges"),

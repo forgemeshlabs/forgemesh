@@ -130,7 +130,7 @@ const faqItems = [
   {
     question: 'What does an x402 payment cost?',
     answer:
-      'Whatever the seller sets — there is no protocol-imposed minimum. In practice, live x402 endpoints price from $0.001 per call upward. ForgeMesh’s own 500+ paid endpoints range from $0.001 to $0.75 per request.',
+      'Whatever the seller sets — there is no protocol-imposed minimum. In practice, live x402 endpoints price from $0.001 per call upward. ForgeMesh’s own 500+ paid endpoints range from $0.005 to $0.75 per request.',
   },
   {
     question: 'How is x402 related to HTTP error 402?',
@@ -245,7 +245,7 @@ export default function X402Page() {
             </p>
             <p className="mt-4 rounded border border-blue-500/20 bg-blue-500/[0.06] px-4 py-3 text-sm leading-6 text-slate-300">
               <strong className="text-blue-300">Why trust this page:</strong> ForgeMesh Labs operates
-              11 x402 services and counting — 500+ paid endpoints priced from $0.001 —, and runs an
+              11 x402 services and counting — 500+ paid endpoints priced from $0.005 —, and runs an
               independent crawler of the x402 discovery ecosystem. Everything here is written from
               first-hand operation, not summaries of summaries.
             </p>

@@ -350,7 +350,7 @@ export default function PaymentRequiredPage() {
               <li>
                 <strong className="text-slate-200">The economics finally work.</strong>{' '}
                 Stablecoin settlement moves $0.001 for less than $0.001. In our own fleet, live
-                endpoints price from a tenth of a cent and settle atomically — a paid call either
+                endpoints price from half a cent and settle atomically — a paid call either
                 delivers the resource or the buyer isn&apos;t charged.
               </li>
             </ul>
