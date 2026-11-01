@@ -1,4 +1,5 @@
 import { ForgeMeshMark } from './ForgeMeshMark';
+import { Turnstile, Honeypot } from './Turnstile';
 
 const links = [
   { label: 'What is x402?', href: '/x402' },
@@ -68,23 +69,27 @@ export function Footer() {
           <form
             method="POST"
             action="https://kit.forgemesh.io/subscribe"
-            className="mt-4 flex gap-2 sm:mt-0"
+            className="relative mt-4 flex flex-col gap-2 sm:mt-0"
           >
             <input type="hidden" name="source" value="brief" />
-            <input
-              type="email"
-              name="email"
-              required
-              placeholder="you@company.com"
-              aria-label="Email address"
-              className="w-full min-w-0 rounded border border-white/[0.1] bg-white/[0.04] px-3 py-2 text-sm text-slate-200 placeholder:text-slate-600 focus:border-blue-500/50 focus:outline-none sm:w-56"
-            />
-            <button
-              type="submit"
-              className="shrink-0 rounded border border-blue-500/40 bg-blue-500/10 px-4 py-2 text-sm font-medium text-slate-100 transition-all hover:border-blue-400/70 hover:bg-blue-500/20"
-            >
-              Subscribe
-            </button>
+            <Honeypot />
+            <div className="flex gap-2">
+              <input
+                type="email"
+                name="email"
+                required
+                placeholder="you@company.com"
+                aria-label="Email address"
+                className="w-full min-w-0 rounded border border-white/[0.1] bg-white/[0.04] px-3 py-2 text-sm text-slate-200 placeholder:text-slate-600 focus:border-blue-500/50 focus:outline-none sm:w-56"
+              />
+              <button
+                type="submit"
+                className="shrink-0 rounded border border-blue-500/40 bg-blue-500/10 px-4 py-2 text-sm font-medium text-slate-100 transition-all hover:border-blue-400/70 hover:bg-blue-500/20"
+              >
+                Subscribe
+              </button>
+            </div>
+            <Turnstile className="sm:w-[328px]" />
           </form>
         </div>
 

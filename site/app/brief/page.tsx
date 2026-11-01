@@ -5,6 +5,7 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { BriefArchive } from '@/components/BriefArchive';
+import { Turnstile, Honeypot } from '@/components/Turnstile';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
@@ -72,23 +73,27 @@ export default function Page() {
             <form
               method="POST"
               action="https://kit.forgemesh.io/subscribe"
-              className="mt-8 flex max-w-md gap-2"
+              className="relative mt-8 flex max-w-md flex-col gap-2"
             >
               <input type="hidden" name="source" value="brief" />
-              <input
-                type="email"
-                name="email"
-                required
-                placeholder="you@company.com"
-                aria-label="Email address"
-                className="w-full min-w-0 rounded border border-white/[0.1] bg-white/[0.04] px-4 py-3 text-sm text-slate-200 placeholder:text-slate-600 focus:border-blue-500/50 focus:outline-none"
-              />
-              <button
-                type="submit"
-                className="shrink-0 inline-flex items-center gap-2 rounded border border-blue-500/40 bg-blue-500/10 px-5 py-3 text-sm font-medium text-slate-100 transition-all hover:border-blue-400/70 hover:bg-blue-500/20"
-              >
-                Subscribe <ArrowRight className="h-4 w-4" aria-hidden />
-              </button>
+              <Honeypot />
+              <div className="flex gap-2">
+                <input
+                  type="email"
+                  name="email"
+                  required
+                  placeholder="you@company.com"
+                  aria-label="Email address"
+                  className="w-full min-w-0 rounded border border-white/[0.1] bg-white/[0.04] px-4 py-3 text-sm text-slate-200 placeholder:text-slate-600 focus:border-blue-500/50 focus:outline-none"
+                />
+                <button
+                  type="submit"
+                  className="shrink-0 inline-flex items-center gap-2 rounded border border-blue-500/40 bg-blue-500/10 px-5 py-3 text-sm font-medium text-slate-100 transition-all hover:border-blue-400/70 hover:bg-blue-500/20"
+                >
+                  Subscribe <ArrowRight className="h-4 w-4" aria-hidden />
+                </button>
+              </div>
+              <Turnstile />
             </form>
             <p className="mt-3 text-xs text-slate-600">
               Free. Unsubscribe anytime. You&apos;ll also get our x402 idea-fit checklist as a
