@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
+    ("x402-bazaar-listing-count-fluctuations", "Coinbase’s x402 Bazaar Count Fell From 106,068 to 28,135. What Happened?", "X402 DISCOVERY FIELD REPORT"),
     ("free-website-security-check-cold-email-scan", "That \"Security Researcher\" Email Is Just a Free Scan. Run It Yourself.", "Free website security check"),
     ("square-town-forgemesh-moved-in", "Kiss Our Favicon.", "A tiny home on the web"),
     ("bots-that-read-your-website", "The bots that read your website, and what each one wants", "Most of your traffic is not people. A field guide to every bot in your logs, and an honest answer on which will ever pay."),

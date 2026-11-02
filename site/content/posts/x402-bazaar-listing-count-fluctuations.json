@@ -1,0 +1,57 @@
+{
+  "slug": "x402-bazaar-listing-count-fluctuations",
+  "date": "2026-11-02",
+  "title": "Coinbase’s x402 Bazaar Count Fell From 106,068 to 28,135. What Happened?",
+  "excerpt": "We tracked a sharp swing in Coinbase’s x402 discovery catalog. Here is what the data shows, what it cannot prove, and what API builders can check.",
+  "description": "A field report on Coinbase x402 Bazaar listing-count fluctuations and what builders can verify.",
+  "seoTitle": "x402 Bazaar Listing Count Fluctuations | ForgeMesh",
+  "seoDescription": "Coinbase’s x402 Bazaar reported a sharp change in resource counts. See our timeline, methodology, limitations, and steps for builders.",
+  "twitterTitle": "What Happened to x402 Bazaar Listings?",
+  "twitterDescription": "Coinbase’s x402 Bazaar count dropped from 106,068 to 28,135 in eight hours, then climbed. We looked at the numbers. The cause remains unconfirmed.",
+  "heroAlt": "A vast industrial card catalog with a section of empty drawers and index cards returning to their slots.",
+  "breadcrumb": "x402 Discovery",
+  "tags": [
+    "x402",
+    "ai-agents",
+    "apis",
+    "discovery"
+  ],
+  "lede": "On October 31, our monitor recorded 106,068 resources in Coinbase’s x402 Bazaar. Eight hours later, the reported count was 28,135. The obvious question: did someone wipe the directory? We don’t know. The data shows a sharp change in the count reported by the API; it does not establish why the number changed or which entries were affected.",
+  "sections": [
+    {
+      "heading": "What we observed",
+      "paras": [
+        "Our scheduled collector recorded these reported totals (all times UTC): October 31 at 12:15, 107,100; October 31 at 20:15, 106,068; November 1 at 04:15, 28,135; November 1 at 12:15, 28,266; November 1 at 20:15, 49,328; November 2 at 04:15, 64,865; and November 2 at 12:15, 75,842.",
+        "A separate read-only request to Coinbase’s [public discovery API](https://api.cdp.coinbase.com/platform/v2/x402/discovery/resources?limit=20&offset=0) reported 81,315 at 16:22 UTC on November 2, and 81,573 at 16:29 UTC. Counts can change after publication.",
+        "Between the October 31 evening and November 1 morning snapshots, the reported count fell by 77,933, nearly 74%. The eight-hour interval brackets when our monitor saw the change; it does not tell us the exact minute it began. These are listings reported by one facilitator’s catalog, not counts of companies, servers, customers, transactions, or every service in the x402 ecosystem."
+      ]
+    },
+    {
+      "heading": "Why we can’t call it a wipe",
+      "paras": [
+        "A discovery catalog is a view of resources. Its reported total can change for several reasons: resources may expire, the operator may change filters or indexing, data may be reprocessed, or the count itself may be calculated differently. We have not confirmed which, if any, explains this event.",
+        "Our collector records the API’s reported total but fetches at most 40,000 rows in a run. When the reported total was above that cap, we did not independently enumerate the whole catalog. Our database retains only first- and most-recent-seen markers, so we cannot reconstruct a complete list of entries present in each earlier snapshot.",
+        "The catalog may also change while pages are being fetched. At 04:15 on November 1, the first page reported 28,135 while the collector fetched 28,143 rows over the run. An API total and a paginated crawl are not necessarily an atomic snapshot.",
+        "The defensible finding is narrow: Coinbase’s discovery API reported a major fall in its resource total, followed by an increase. The cause and the identities of affected listings remain unverified."
+      ]
+    },
+    {
+      "heading": "What builders can do",
+      "paras": [
+        "Keep a list of the canonical routes you expect to be discoverable. Check them against the directory on a schedule, and record timestamps and missing entries.",
+        "Probe each endpoint separately. A missing catalog entry does not itself prove an API or its payment flow is down. Check discovery metadata and the payment path before spending money to refresh entries, and verify whether any refresh restores the intended resource.",
+        "Give buyers another way to find and understand your service: clear documentation, machine-readable descriptions, and a stable direct URL. The [x402 Bazaar specification](https://github.com/x402-foundation/x402/blob/main/specs/extensions/bazaar.md) describes discovery APIs as optional and leaves storage and indexing details to facilitators."
+      ]
+    },
+    {
+      "heading": "What we’re watching next",
+      "paras": [
+        "We’ll look for a public explanation and compare route-level observations over time. Establishing what happened would require a reliable before-and-after membership comparison, an explanation from the operator, or both.",
+        "For now, we’re calling this a listing-count fluctuation, not a confirmed server wipe. If you run x402 services, check your own routes and save the results so the next count change can be investigated at the resource level.",
+        "Method: ForgeMesh collector snapshots of Coinbase CDP’s discovery endpoint, October 30–November 2, 2026; separate API checks at 16:22 and 16:29 UTC on November 2. Totals are API-reported; larger crawls were capped at 40,000 fetched rows."
+      ]
+    }
+  ],
+  "related": [],
+  "image": "/content/assets/x402-bazaar-listing-count-fluctuations.png"
+}
