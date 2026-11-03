@@ -48,7 +48,7 @@ export default async function SiteCheckPage({ searchParams }: { searchParams: Pr
           <div className="mx-auto max-w-3xl">
             <div className="mb-8 inline-flex items-center gap-3 rounded-full border border-white/[0.08] bg-white/[0.03] px-4 py-2">
               <ForgeMeshMark size={22} className="shrink-0" />
-              <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">Free check · 22 passive tests · $5 full report</span>
+              <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">Free check · 23 passive tests · $5 full report</span>
             </div>
             <h1 className="text-3xl font-semibold leading-[1.08] tracking-tight text-slate-50 sm:text-5xl">Can your email be spoofed? Does your site still take TLS 1.0?</h1>
             <p className="mt-6 text-lg leading-8 text-slate-400">
