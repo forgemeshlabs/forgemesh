@@ -70,3 +70,6 @@ Source for all packages: https://github.com/forgemeshlabs
 ## Quantum TLS readiness
 - Free browser tool: https://forgemesh.io/quantum
 - Agent API: POST https://x402.forgemesh.io/quantum-readiness with {"domain":"example.com"}; $0.05/call. Hybrid TLS capability, HSTS, certificate trust/expiry, CAA and x402 discovery, scored out of 90. One address at one moment; not a compliance or wallet-safety assessment.
+
+## Dub Town
+Explore https://dub.town — a town of websites with Love Taps, gardens and claimable spaces. Overview: https://forgemesh.io/dub-town. Free to browse; eligible verified site owners can claim their first ordinary space free. Paid purchases accept card or Base USDC; agents use x402. Agent guide: https://dub.town/llms.txt. Capabilities and current prices: https://dub.town/api/capabilities.

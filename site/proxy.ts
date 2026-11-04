@@ -7,7 +7,7 @@ import type { NextRequest } from 'next/server';
 // forgemesh.io page is ever served under the tikbotshop.com hostname.
 const TIKBOT_ORIGIN = 'http://127.0.0.1:3975';
 
-export function middleware(request: NextRequest) {
+export function proxy(request: NextRequest) {
   const host = (request.headers.get('host') ?? '').toLowerCase();
   if (host === 'tikbotshop.com' || host === 'www.tikbotshop.com' || host.startsWith('tikbotshop.com:') || host.startsWith('www.tikbotshop.com:')) {
     const url = new URL(request.nextUrl.pathname + request.nextUrl.search, TIKBOT_ORIGIN);

@@ -1,3 +1,4 @@
+import { TOOL_GROUPS } from '@/lib/tools-catalog';
 import type { Metadata } from 'next';
 import { NavBar } from '@/components/NavBar';
 import { Hero } from '@/components/Hero';
@@ -20,63 +21,14 @@ export const metadata: Metadata = {
   alternates: { canonical: '/' },
 };
 
-const MCP_ROWS: { pkg: string; href: string; wraps: string; install: string; guide?: string }[] = [
-  {
-    pkg: '@forgemeshlabs/kronos-forgemesh-mcp',
-    href: 'https://www.npmjs.com/package/@forgemeshlabs/kronos-forgemesh-mcp',
-    wraps: 'Kronos market intelligence',
-    guide: '/kronos/field-guide',
-    install: 'npx -y @forgemeshlabs/kronos-forgemesh-mcp',
-  },
-  {
-    pkg: '@forgemeshlabs/x402-notary-mcp',
-    href: 'https://www.npmjs.com/package/@forgemeshlabs/x402-notary-mcp',
-    wraps: 'Notary',
-    install: 'npx -y @forgemeshlabs/x402-notary-mcp',
-  },
-  {
-    pkg: '@forgemeshlabs/anomaly-mcp',
-    href: 'https://www.npmjs.com/package/@forgemeshlabs/anomaly-mcp',
-    wraps: 'Anomaly Tracker',
-    install: 'npx -y @forgemeshlabs/anomaly-mcp',
-  },
-  {
-    pkg: '@forgemeshlabs/disruption-intelligence-mcp',
-    href: 'https://www.npmjs.com/package/@forgemeshlabs/disruption-intelligence-mcp',
-    wraps: 'Disruption Intel',
-    install: 'npx -y @forgemeshlabs/disruption-intelligence-mcp',
-  },
-  {
-    pkg: '@forgemeshlabs/travel-agent-mcp',
-    href: 'https://www.npmjs.com/package/@forgemeshlabs/travel-agent-mcp',
-    wraps: 'Travel Agent',
-    install: 'npx -y @forgemeshlabs/travel-agent-mcp',
-  },
-  {
-    pkg: 'coinopai-mcp',
-    href: 'https://www.npmjs.com/package/coinopai-mcp',
-    wraps: 'CoinOpAI x402',
-    install: 'npx -y coinopai-mcp',
-  },
-  {
-    pkg: 'forgemesh-imagegen',
-    href: 'https://www.npmjs.com/package/forgemesh-imagegen',
-    wraps: 'ImageGen',
-    install: 'npx -y forgemesh-imagegen',
-  },
-  {
-    pkg: 'affiliate-router-mcp',
-    href: 'https://www.npmjs.com/package/affiliate-router-mcp',
-    wraps: 'Affiliate routing — 8 tools',
-    install: 'npx -y affiliate-router-mcp',
-  },
-  {
-    pkg: '@forgemeshlabs/aso-audit-mcp',
-    href: 'https://agentsignaloptimization.com',
-    wraps: 'ASO toolkit — audit, score, readiness',
-    install: 'npx -y @forgemeshlabs/aso-audit-mcp',
-  },
-];
+// Keep homepage installs aligned with the same catalog used by /tools and menus.
+const MCP_ROWS = (TOOL_GROUPS.find(group => group.id === 'mcp')?.rows ?? [])
+  .filter(row => row.href.startsWith('https://www.npmjs.com/package/') && (row.name.endsWith('-mcp') || row.name === 'forgemesh-imagegen'))
+  .map(row => {
+    const pkg = row.href.replace('https://www.npmjs.com/package/', '');
+    return { pkg, href: row.href, wraps: row.what, install: `npx -y ${pkg}`,
+      guide: pkg === '@forgemeshlabs/kronos-forgemesh-mcp' ? '/kronos/field-guide' : undefined };
+  });
 
 export default function Home() {
   const jsonLd = {
