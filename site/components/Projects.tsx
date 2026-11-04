@@ -5,6 +5,16 @@ import { ScanTool } from '@/components/ScanTool';
 
 const projects = [
   {
+    name: 'Dub Town',
+    category: 'agent',
+    surface: 'A town of websites',
+    description: 'Explore the islands, visit a neighbor and give a Love Tap. Buy a space by card or Base USDC, or verify your website to claim your first ordinary space free. Agents can buy through x402.',
+    tags: ['websites', 'community', 'x402'],
+    status: 'active',
+    url: 'https://dub.town',
+    page: '/dub-town',
+  },
+  {
     name: 'BotBoard',
     category: 'agent',
     surface: 'Hosted x402 API',

@@ -18,6 +18,7 @@ const STATIC_ROUTES = [
   '/402-payment-required',
   '/blog',
   '/botboard',
+  '/dub-town',
   '/calendar',
   '/repo-watch',
   '/payment-rules',
