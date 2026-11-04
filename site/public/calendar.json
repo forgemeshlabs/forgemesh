@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T13:52:00Z",
+  "updatedAt": "2026-11-04T15:25:33.263469Z",
   "events": [
     {
       "id": "eu-ai-act-gpai-enforcement",
@@ -334,13 +334,14 @@
       "date": "2026-11-03",
       "title": "U.S. midterm election — control of the House and Senate",
       "tag": "policy",
-      "what": "All 435 House seats and 35 Senate seats are decided. The outcome sets who chairs the committees that own digital-asset market structure, stablecoin rulemaking and AI policy when the 120th Congress is sworn in on January 3, 2027.",
-      "why": "CLARITY died at cloture 49–50 on September 15, so the next market-structure bill is written by whoever wins tonight. Committee gavels on Senate Banking, Senate Agriculture, House Financial Services and House Agriculture decide whether the SEC or the CFTC regulates the asset every x402 payment settles in. We fill in control of each chamber and the margin the morning after.",
-      "link": "https://ballotpedia.org/United_States_Congress_elections,_2026",
+      "what": "All 435 House seats and 35 Senate seats were contested. AP reports Democrats won control of both chambers. The new Congress takes office January 3, 2027; Trump remains president.",
+      "why": "The result changes congressional oversight of digital assets, stablecoins and AI. CLARITY failed a procedural cloture vote 49–50 on September 15; that was not a final passage vote. Committee chair appointments and any revised legislation remain to be determined. Existing agency implementation timetables continue separately.",
+      "link": "https://apnews.com/article/b1d26390b7ed7968435089be6d3bf612",
       "track": true,
-      "status": "scheduled",
-      "result": null,
-      "time": "Polls close 7:00–11:00 PM ET by state · first House/Senate control calls overnight into Nov 4 · 120th Congress seated Jan 3, 2027"
+      "status": "decided",
+      "result": "Democrats won control of House and Senate (AP). Provisional 5:30 a.m. ET Nov 4 snapshot reported by ABA: House D 228 / R 139 / 68 uncalled; Senate Democratic-aligned 54 / R 44 / 2 uncalled (Alaska, Mississippi). These are timestamped counts, not certified final totals. Brief #15 covers crypto oversight, local data-center votes and stablecoin implementation.",
+      "time": "Control called; remaining races and certification pending · snapshot Nov 4, 5:30 AM ET · 120th Congress seated Jan 3, 2027",
+      "updatedAt": "2026-11-04T15:25:33.263469Z"
     },
     {
       "id": "grant-tory-burch-2027",
