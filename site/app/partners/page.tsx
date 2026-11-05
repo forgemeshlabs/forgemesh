@@ -86,6 +86,26 @@ export default function Page() {
 
         <section className="border-t border-white/[0.06] px-6 py-10">
           <div className="mx-auto max-w-5xl">
+            <h2 className="font-mono text-[11px] uppercase tracking-[0.2em] text-slate-500">Affiliate resources</h2>
+            <div className="mt-5 rounded border border-white/[0.06] bg-white/[0.02] p-4">
+              <h3 className="font-semibold text-slate-100">Alpine Gold Exchange / UPMA</h3>
+              <p className="mt-2 max-w-2xl text-sm leading-6 text-slate-400">
+                Explore precious metals accounts and UPMA’s member trust structure. Alpine advertises free account creation;
+                storage and transaction fees can apply. Metals prices can fall.
+              </p>
+              <p className="mt-3 text-sm leading-6 text-slate-400">
+                Affiliate disclosure: ForgeMesh may earn a commission from qualifying activity through this link.
+              </p>
+              <div className="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-sm">
+                <a href="https://tap.alpinegold.com?referral=507232732309900988" target="_blank" rel="sponsored noopener noreferrer" className="text-blue-400 hover:text-blue-300">Explore Alpine Gold →</a>
+                <a href="/blog/alpine-gold-upma-precious-metals-trust-account" className="text-blue-400 hover:text-blue-300">Read our account and fee guide →</a>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section className="border-t border-white/[0.06] px-6 py-10">
+          <div className="mx-auto max-w-5xl">
             <h2 className="font-mono text-[11px] uppercase tracking-[0.2em] text-slate-500">Work with ForgeMesh</h2>
             <p className="mt-2 max-w-2xl text-sm leading-7 text-slate-400">
               Partnerships are reciprocal or usage-based: a listing for a listing, a route for a route, or a
