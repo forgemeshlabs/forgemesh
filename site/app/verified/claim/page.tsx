@@ -8,7 +8,7 @@ import path from 'path';
 import { Footer } from '@/components/Footer';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
-import { loadUnclaimed } from '@/lib/verified-data';
+import { loadUnclaimed, loadVerified } from '@/lib/verified-data';
 import { isSlug } from '@/lib/verified';
 
 export const dynamic = 'force-dynamic';
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
   title: 'Claim Your x402 Verified Row — $5, One Call, No Account',
   description:
-    'Your x402 service is already in the ForgeMesh unclaimed index. Claim the row with one paid x402 call: contact, routes, README badge and re-probe on demand. Listing by pull request stays free.',
+    'Your x402 service is already listed and scored in the index agents browse for paid APIs — with no contact, so buyers cannot reach you. $5 once: your contact, best routes, seller page, README badge, re-probes. Free PR path unchanged.',
   alternates: { canonical: '/verified/claim' },
 };
 
@@ -52,6 +52,9 @@ export default async function Page({ searchParams }: PageProps) {
   const exampleSlug = row?.slug || 'your-host-com';
   const hostGuess = slug ? slug.replace(/-/g, '.') : '';
   const price = feed.claim.price_usdc;
+  const liveSellers = loadVerified().sellers.filter((seller) => seller.status !== 'delisted');
+  const exampleSeller = liveSellers[0];
+  const unclaimedCount = feed.rows.length;
 
   const body = JSON.stringify({ slug: exampleSlug, contact: 'mailto:you@example.com' }, null, 2);
 
@@ -67,7 +70,7 @@ export default async function Page({ searchParams }: PageProps) {
               <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-blue-300/80">x402 Verified · claim</span>
             </div>
             <h1 className="text-4xl font-semibold leading-[1.02] tracking-tight text-slate-50 sm:text-5xl">
-              {row ? <>Claim <span className="text-blue-300">{row.name}</span></> : missing ? 'No row with that slug' : 'Claim your row'}
+              {row ? <>Claim <span className="text-blue-300">{row.name}</span></> : missing ? 'No row with that slug' : 'Make your x402 listing yours'}
             </h1>
             {missing ? (
               <p className="mt-6 rounded border border-amber-500/30 bg-amber-500/[0.06] p-4 text-sm leading-7 text-slate-300">
@@ -78,19 +81,20 @@ export default async function Page({ searchParams }: PageProps) {
             ) : null}
             <p className="mt-6 text-base leading-8 text-slate-400 sm:text-lg">
               {row
-                ? <>This origin is in the unclaimed index at <strong className="text-slate-200">{row.score}/85</strong> with {row.routes_indexed} route{row.routes_indexed === 1 ? '' : 's'} indexed from the Bazaar. Nobody submitted it. Claiming turns it into a seller record you control.</>
-                : <>If your x402 service answers 402s and the Bazaar lists it, it is probably already in the <a href="/verified#unclaimed" className="text-blue-400 hover:text-blue-300">unclaimed index</a>, scored, with no contact and no badge. Claiming turns that row into a seller record you control.</>}
+                ? <>This origin is already listed and scored <strong className="text-slate-200">{row.score}/85</strong> in the index agents browse for paid x402 APIs — with {row.routes_indexed} crawler-picked route{row.routes_indexed === 1 ? '' : 's'}, <strong className="text-slate-200">no contact, and no badge</strong>. Anyone who finds it has no way to reach you. Claiming turns it into a seller page you control.</>
+                : <>If your x402 service answers 402s and the Bazaar lists it, it is almost certainly one of the <a href="/verified#unclaimed" className="text-blue-400 hover:text-blue-300">{unclaimedCount.toLocaleString()} origins in the unclaimed index</a> — already scored, but with <strong className="text-slate-200">no contact and no badge</strong>, so buyers who find it cannot reach you. Claiming turns that row into a seller page you control.</>}
             </p>
-            {row ? (
-              <p className="mt-5">
-                <a href={`https://kit.forgemesh.io/claim?slug=${encodeURIComponent(row.slug)}`} className="inline-flex items-center justify-center rounded border border-white/[0.1] px-4 py-2.5 text-sm text-slate-300 transition-all hover:border-white/[0.2] hover:text-slate-100">
-                  Human with a card? Claim for ${price} at checkout →
-                </a>
-              </p>
-            ) : null}
-            <p className="mt-3 text-sm leading-7 text-slate-500">
-              One POST, ${price} USDC on Base through x402 or MPP, no account, no form. Listing by pull request stays{' '}
-              <a href={feed.free_path} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300">free</a>; the claim buys speed and the skip of the proof-tx requirement, not points.
+            <p className="mt-4 text-sm leading-7 text-slate-300">
+              Five dollars, once, and minutes after payment: your contact is live, your five best routes replace the crawler&rsquo;s pick, you get a public seller page, the README badge, and re-probes on demand. Your score comes from the checks, never from the fee.
+            </p>
+            <div className="mt-6 flex flex-wrap items-center gap-4">
+              <a href={`https://kit.forgemesh.io/claim${row ? `?slug=${encodeURIComponent(row.slug)}` : ''}`} data-umami-event="verified-claim-card-click" data-umami-event-placement="hero" className="inline-flex items-center justify-center rounded bg-blue-500 px-5 py-3 text-sm font-semibold text-white hover:bg-blue-400">
+                Claim your listing by card · ${price} →
+              </a>
+              {exampleSeller ? <a href={`/verified/${encodeURIComponent(exampleSeller.slug)}`} data-umami-event="verified-claim-example-click" className="text-sm text-blue-300 hover:text-blue-200">See what {liveSellers.length > 1 ? `the ${liveSellers.length} claimed sellers get` : 'a claimed seller page looks like'} →</a> : null}
+            </div>
+            <p className="mt-4 text-sm leading-7 text-slate-400">
+              One-time fee. After payment, publish a token to prove you control the service; a maintainer reviews the claim. Find your listing in the <a href="/verified#unclaimed" className="text-blue-400 hover:text-blue-300">unclaimed index</a> first if you don’t have its slug. You can also <a href={feed.free_path} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300">list for free by pull request</a>.
             </p>
           </div>
         </section>
@@ -103,7 +107,7 @@ export default async function Page({ searchParams }: PageProps) {
                 <li>Your contact and your choice of up to five routes on the seller page, instead of the three the crawl picked.</li>
                 <li>The README badge at <span className="font-mono text-slate-200">/badge/x402/{exampleSlug}</span> and a shields.io endpoint.</li>
                 <li>The weekly reprobe plus re-probe on demand, and a row in the machine feed buyers filter on.</li>
-                <li>No proof transaction needed. The 15 proof points stay unearned until you add one by pull request, so a claimed row tops out at 85 until then.</li>
+                <li>No proof transaction needed to claim — you keep your full crawl score up to 85 immediately. The last 15 proof points stay free: add a proof transaction by pull request whenever you like to push toward 100 and the gold star.</li>
               </ul>
             </div>
 
@@ -138,8 +142,8 @@ ${body}`}
                 </li>
                 <li>
                   <strong className="text-slate-100">No wallet? Pay by card.</strong> A human can pay the same $5 at{' '}
-                  <a href={`https://kit.forgemesh.io/claim${row ? `?slug=${encodeURIComponent(row.slug)}` : ''}`} className="text-blue-400 hover:text-blue-300">kit.forgemesh.io/claim</a>{' '}
-                  and gets the same token to publish. Card claims are merged by a maintainer after the payment is confirmed, so allow a day.
+                  <a href={`https://kit.forgemesh.io/claim${row ? `?slug=${encodeURIComponent(row.slug)}` : ''}`} data-umami-event="verified-claim-card-click" data-umami-event-placement="instructions" className="text-blue-400 hover:text-blue-300">kit.forgemesh.io/claim</a>{' '}
+                  and gets the same token to publish. Card claims are merged by a maintainer once Stripe confirms the payment — usually the same day.
                 </li>
               </ol>
               <p className="mt-3 text-sm leading-7 text-slate-400">
