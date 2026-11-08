@@ -13,20 +13,67 @@ import { isSlug } from '@/lib/verified';
 
 export const dynamic = 'force-dynamic';
 
-export const metadata: Metadata = {
-  metadataBase: new URL('https://forgemesh.io'),
-  title: 'Claim Your x402 Verified Row — $5, One Call, No Account',
-  description:
-    'Your x402 service is already listed and scored in the index agents browse for paid APIs — with no contact, so buyers cannot reach you. $5 once: your contact, best routes, seller page, README badge, re-probes. Free PR path unchanged.',
-  alternates: { canonical: '/verified/claim' },
-};
-
 type PageProps = { searchParams: Promise<{ slug?: string; src?: string }> };
+
+// Per-slug titles turn the Google-indexed per-origin claim pages into vanity-search
+// magnets: an owner searching their own domain finds "<host> — unclaimed x402 listing"
+// instead of a generic page title. That search is how most owners will ever learn the
+// row exists (the only other channels are their access log and our index page).
+export async function generateMetadata({ searchParams }: PageProps): Promise<Metadata> {
+  const params = await searchParams;
+  const slug = params?.slug && isSlug(params.slug) ? params.slug : null;
+  const row = slug ? loadUnclaimed().rows.find((r) => r.slug === slug) || null : null;
+  const base = { metadataBase: new URL('https://forgemesh.io') };
+  if (!row) {
+    return {
+      ...base,
+      title: 'Claim Your x402 Verified Row — $5, One Call, No Account',
+      description:
+        'Your x402 service is already listed and scored in the index agents browse for paid APIs — with no contact, so buyers cannot reach you. $5 once: your contact, best routes, seller page, README badge, re-probes. Free PR path unchanged.',
+      alternates: { canonical: '/verified/claim' },
+    };
+  }
+  const host = String(row.origin || '').replace(/^https?:\/\//, '').replace(/\/$/, '');
+  return {
+    ...base,
+    title: `${host} — unclaimed x402 listing, scored ${row.score}/85`,
+    description: `${host} is listed in the x402 Verified index with ${row.routes_indexed} route${row.routes_indexed === 1 ? '' : 's'} and no owner contact. If it is yours, claim it for $5: contact, your best routes, seller page, README badge, re-probes on demand.`,
+    alternates: { canonical: `/verified/claim?slug=${encodeURIComponent(row.slug)}` },
+  };
+}
 
 // Every arrival on the claim guide is appended to data/claim-hits.jsonl (no IP, no cookie):
 // src=probe means the visitor followed the link printed in the crawl's User-Agent, i.e. an
 // operator who read their own access log. scripts/claim-funnel.js reads this for #fm-brief.
 const HITS = path.join(process.cwd(), 'data', 'claim-hits.jsonl');
+
+// Demand proof, from our own arrival log: how often this slug's claim page was opened in
+// the last 30 days (people and agents, link-preview fetchers excluded). Cached 10 minutes
+// so the force-dynamic page doesn't re-read a multi-MB JSONL on every request.
+let hitCache: { at: number; total: number; bySlug: Map<string, number> } | null = null;
+function opens30(slug: string | null): { total: number; forSlug: number } {
+  const now = Date.now();
+  if (!hitCache || now - hitCache.at > 10 * 60_000) {
+    const bySlug = new Map<string, number>();
+    let total = 0;
+    try {
+      const cut = new Date(now - 30 * 86_400_000).toISOString();
+      for (const line of fs.readFileSync(HITS, 'utf8').split('\n')) {
+        if (!line) continue;
+        try {
+          const h = JSON.parse(line);
+          if ((h.ts || '') < cut) continue;
+          if (/TelegramBot|TwitterBot|Slackbot|Discordbot|facebookexternalhit|WhatsApp|LinkedInBot|Iframely/i.test(h.ua || '')) continue;
+          total += 1;
+          if (h.slug) bySlug.set(h.slug, (bySlug.get(h.slug) || 0) + 1);
+        } catch { /* skip bad line */ }
+      }
+    } catch { /* no log yet */ }
+    hitCache = { at: now, total, bySlug };
+  }
+  return { total: hitCache.total, forSlug: slug ? hitCache.bySlug.get(slug) || 0 : 0 };
+}
+
 function logHit(entry: Record<string, unknown>) {
   try {
     fs.appendFileSync(HITS, JSON.stringify({ ts: new Date().toISOString(), ...entry }) + '\n');
@@ -49,6 +96,7 @@ export default async function Page({ searchParams }: PageProps) {
   const row = slug ? feed.rows.find((r) => r.slug === slug) || null : null;
   // A slug arrived but no row carries it: the origin dropped out of the index, or was never in it.
   const missing = !!(slug && !row);
+  const demand = opens30(slug);
   const exampleSlug = row?.slug || 'your-host-com';
   const hostGuess = slug ? slug.replace(/-/g, '.') : '';
   const price = feed.claim.price_usdc;
@@ -84,6 +132,15 @@ export default async function Page({ searchParams }: PageProps) {
                 ? <>This origin is already listed and scored <strong className="text-slate-200">{row.score}/85</strong> in the index agents browse for paid x402 APIs — with {row.routes_indexed} crawler-picked route{row.routes_indexed === 1 ? '' : 's'}, <strong className="text-slate-200">no contact, and no badge</strong>. Anyone who finds it has no way to reach you. Claiming turns it into a seller page you control.</>
                 : <>If your x402 service answers 402s and the Bazaar lists it, it is almost certainly one of the <a href="/verified#unclaimed" className="text-blue-400 hover:text-blue-300">{unclaimedCount.toLocaleString()} origins in the unclaimed index</a> — already scored, but with <strong className="text-slate-200">no contact and no badge</strong>, so buyers who find it cannot reach you. Claiming turns that row into a seller page you control.</>}
             </p>
+            {row && demand.forSlug >= 5 ? (
+              <p className="mt-4 rounded border border-blue-500/25 bg-blue-500/[0.06] p-4 text-sm leading-7 text-slate-200">
+                This listing was opened <strong className="text-blue-300">{demand.forSlug.toLocaleString()} times in the last 30 days</strong> — by people and agents browsing the index. None of them could contact you.
+              </p>
+            ) : !row && demand.total >= 100 ? (
+              <p className="mt-4 rounded border border-blue-500/25 bg-blue-500/[0.06] p-4 text-sm leading-7 text-slate-200">
+                Listings in this index were opened <strong className="text-blue-300">{demand.total.toLocaleString()} times in the last 30 days</strong> — by people and agents who cannot contact an unclaimed seller.
+              </p>
+            ) : null}
             <p className="mt-4 text-sm leading-7 text-slate-300">
               Five dollars, once, and minutes after payment: your contact is live, your five best routes replace the crawler&rsquo;s pick, you get a public seller page, the README badge, and re-probes on demand. Your score comes from the checks, never from the fee.
             </p>
