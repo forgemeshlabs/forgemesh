@@ -123,7 +123,7 @@ export const metadata: Metadata = {
   description:
     'The running calendar of dates that decide the machine economy: Cloudflare AI-crawler deadlines, CLARITY Act votes, stablecoin dockets, ERCOT data-center audits, TOKEN2049, the Bitcoin cycle window. Downloadable to your own calendar.',
   alternates: { canonical: '/calendar' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'The Dates That Decide the Agent Economy',
     description:
       'Crawler deadlines, floor votes, stablecoin dockets, grid audits, conferences, the Bitcoin cycle clock — one running calendar, downloadable to yours.',

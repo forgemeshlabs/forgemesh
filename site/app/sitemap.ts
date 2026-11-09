@@ -50,7 +50,6 @@ const STATIC_ROUTES = [
   '/vehicle-intelligence',
   '/vin',
   '/vin/problems',
-  '/watch',
   '/plugins',
   '/plugins/nextjs',
   '/plugins/vercel',

@@ -5,6 +5,7 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { BlogArchive } from '@/components/BlogArchive';
+import { KitCta } from '@/components/KitCta';
 
 const SLUG = 'solana-flips-base-x402-catalog';
 const PUBLISHED = '2026-08-25';
@@ -222,6 +223,7 @@ export default function Page() {
                   More from the blog
                 </a>
               </div>
+              <KitCta slug="solana-flips-base-x402-catalog" placement="blog:solana-flips-base-x402-catalog" path="/blog/solana-flips-base-x402-catalog" />
             </div>
             <BlogArchive current={SLUG} />
           </div>

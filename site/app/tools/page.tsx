@@ -15,13 +15,13 @@ export const metadata: Metadata = {
   description:
     `Every ForgeMesh tool in one table: ${TOOL_COUNT} free tools, live data watches, pay-per-call x402/MPP APIs, and MCP servers on npm. Filter by name, cost, or who it is for.`,
   alternates: { canonical: '/tools' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'All ForgeMesh tools, one table',
     description: 'Free checkers, live data watches, pay-per-call APIs for agents, and MCP servers — filterable.',
     type: 'website',
     url: 'https://forgemesh.io/tools',
   },
-  twitter: {
+  twitter: { images: ['/twitter-image.png'],
     card: 'summary_large_image',
     site: '@forgemeshlabs',
     title: 'All ForgeMesh tools, one table',

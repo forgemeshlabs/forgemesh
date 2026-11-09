@@ -5,6 +5,7 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { BlogArchive } from '@/components/BlogArchive';
+import { KitCta } from '@/components/KitCta';
 
 const PUBLISHED = '2026-07-18';
 
@@ -316,6 +317,7 @@ export default function ArticlePage() {
                 More from the blog
               </a>
             </div>
+              <KitCta slug="x402-foundation-linux-foundation-launch" placement="blog:x402-foundation-linux-foundation-launch" path="/blog/x402-foundation-linux-foundation-launch" />
             </div>
             <BlogArchive current="x402-foundation-linux-foundation-launch" />
           </div>

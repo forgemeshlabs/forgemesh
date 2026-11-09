@@ -23,14 +23,14 @@ export const metadata: Metadata = {
     'crash test ratings by vin', 'used car check', 'what to check before buying a used car',
   ],
   alternates: { canonical: '/vin' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'Free VIN Check — Recalls, What Breaks, Crash Ratings',
     description:
       'Enter any VIN: decoded vehicle, open recalls with do-not-drive flags, crash-test stars, fuel costs, and the ranked list of what actually breaks on that car. Free, official U.S. government data, no signup.',
     type: 'website',
     url: 'https://forgemesh.io/vin',
   },
-  twitter: {
+  twitter: { images: ['/twitter-image.png'],
     card: 'summary_large_image',
     site: '@forgemeshlabs',
     title: 'Free VIN Check — Recalls, What Breaks, Crash Ratings',

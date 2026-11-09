@@ -13,8 +13,8 @@ export const metadata: Metadata = {
   description:
     'Check any domain in five seconds: SPF, DKIM and DMARC, TLS versions and certificate, HTTPS redirect, HSTS, CSP, clickjacking, security.txt and more. Free summary; $5 for the full report with copy-paste fixes.',
   alternates: { canonical: PAGE_URL },
-  openGraph: { type: 'website', url: PAGE_URL, title: 'Free website security check', description: 'The passive scan the cold-emailers charge for, free. Full report with fixes for $5.', siteName: 'ForgeMesh Labs' },
-  twitter: { card: 'summary_large_image', title: 'Free website security check', description: 'SPF, DKIM, DMARC, TLS, HSTS, CSP, security.txt. Free summary, $5 full report with fixes.' },
+  openGraph: { images: ['/opengraph-image.png'], type: 'website', url: PAGE_URL, title: 'Free website security check', description: 'The passive scan the cold-emailers charge for, free. Full report with fixes for $5.', siteName: 'ForgeMesh Labs' },
+  twitter: { images: ['/twitter-image.png'], card: 'summary_large_image', title: 'Free website security check', description: 'SPF, DKIM, DMARC, TLS, HSTS, CSP, security.txt. Free summary, $5 full report with fixes.' },
 };
 
 const faq = [

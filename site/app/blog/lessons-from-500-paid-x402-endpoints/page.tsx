@@ -5,6 +5,7 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { BlogArchive } from '@/components/BlogArchive';
+import { KitCta } from '@/components/KitCta';
 
 const PUBLISHED = '2026-07-18';
 
@@ -251,6 +252,7 @@ export default function ArticlePage() {
                 Sell your own data via x402
               </a>
             </div>
+              <KitCta slug="lessons-from-500-paid-x402-endpoints" placement="blog:lessons-from-500-paid-x402-endpoints" path="/blog/lessons-from-500-paid-x402-endpoints" />
             </div>
             <BlogArchive current="lessons-from-500-paid-x402-endpoints" />
           </div>

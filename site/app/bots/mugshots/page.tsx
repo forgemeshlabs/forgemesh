@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { Footer } from '@/components/Footer';
 import { NavBar } from '@/components/NavBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
+import { CrawlCta, KitCta } from '@/components/KitCta';
 import { BOTS, PURPOSES, fetchObserved, logoFor, mugshotReasons } from '@/lib/bots';
 
 export const revalidate = 600;
@@ -15,8 +16,8 @@ export const metadata: Metadata = {
   description,
   keywords: ['bots to block', 'block AI crawlers', 'bad bots list', 'Bytespider block', 'robots.txt ignore', 'bot mugshot'],
   alternates: { canonical: '/bots/mugshots' },
-  openGraph: { title, description, type: 'website', url: 'https://forgemesh.io/bots/mugshots' },
-  twitter: { card: 'summary_large_image', site: '@forgemeshlabs', title, description },
+  openGraph: { images: ['/opengraph-image.png'], title, description, type: 'website', url: 'https://forgemesh.io/bots/mugshots' },
+  twitter: { images: ['/twitter-image.png'], card: 'summary_large_image', site: '@forgemeshlabs', title, description },
 };
 
 export default async function MugshotsPage() {
@@ -58,6 +59,8 @@ export default async function MugshotsPage() {
               <pre className="mt-4 overflow-x-auto rounded border border-white/[0.06] bg-black/40 px-4 py-3 font-mono text-[13px] leading-6 text-slate-200">{robots.map((r) => `${r}\nDisallow: /`).join('\n\n')}</pre>
               <p className="mt-3 text-sm text-slate-400">Or charge them instead of blocking: the free <a href="/wordpress" className="text-blue-300 hover:underline">Pay-per-Crawl plugin</a> answers every bot on this wall with a price.</p>
             </section>
+            <CrawlCta placement="bots-mugshots" />
+            <KitCta slug="bots-mugshots" placement="bots-mugshots" path="/bots/mugshots" className="mt-6" />
           </div>
         </section>
       </main>

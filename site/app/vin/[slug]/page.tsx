@@ -41,8 +41,8 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
     description,
     keywords: [`${name} problems`, `${name} reliability`, `${name} recalls`, `${name} complaints`, `is the ${name} reliable`],
     alternates: { canonical: `/vin/${slug}` },
-    openGraph: { title: `${name} Problems`, description, type: 'article', url: `https://forgemesh.io/vin/${slug}` },
-    twitter: { card: 'summary_large_image', site: '@forgemeshlabs', title: `${name} Problems`, description },
+    openGraph: { images: ['/opengraph-image.png'], title: `${name} Problems`, description, type: 'article', url: `https://forgemesh.io/vin/${slug}` },
+    twitter: { images: ['/twitter-image.png'], card: 'summary_large_image', site: '@forgemeshlabs', title: `${name} Problems`, description },
   };
 }
 

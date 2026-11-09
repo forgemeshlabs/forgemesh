@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: 'Free preview: Kronos Field Guide | ForgeMesh',
   description: 'Read Chapter 2 of the Kronos Field Guide for free: what you are building, the vocabulary you need, and the deployment paths and gear the guide describes. Build your own Kronos market-intelligence system.',
   alternates: { canonical: 'https://forgemesh.io/kronos/field-guide/preview' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'Free preview: Kronos Field Guide',
     description: 'Chapter 2 of the Kronos Field Guide, free to read. What you are building, the vocabulary, and the deployment paths.',
     url: 'https://forgemesh.io/kronos/field-guide/preview',

@@ -5,6 +5,7 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { BlogArchive } from '@/components/BlogArchive';
+import { KitCta } from '@/components/KitCta';
 
 const SLUG = 'free-agent-economy-scanners';
 const PUBLISHED = '2026-08-24';
@@ -278,6 +279,7 @@ export default function Page() {
                   More from the blog
                 </a>
               </div>
+              <KitCta slug="free-agent-economy-scanners" placement="blog:free-agent-economy-scanners" path="/blog/free-agent-economy-scanners" />
             </div>
             <BlogArchive current={SLUG} />
           </div>

@@ -17,14 +17,14 @@ export const metadata: Metadata = {
     'USDC micropayments', 'Base mainnet',
   ],
   alternates: { canonical: '/gov-transparency' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'Gov-Transparency Pack — Watch the Watchers, Priced Per Call',
     description:
       'Nine x402-paid endpoints for US government accountability data: congressional stock trades, campaign finance, lobbying, federal contracts. Half a cent to two cents per call.',
     type: 'website',
     url: 'https://forgemesh.io/gov-transparency',
   },
-  twitter: {
+  twitter: { images: ['/twitter-image.png'],
     card: 'summary_large_image',
     site: '@forgemeshlabs',
     title: 'Gov-Transparency Pack — Watch the Watchers, Priced Per Call',

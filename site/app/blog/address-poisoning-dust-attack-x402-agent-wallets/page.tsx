@@ -5,6 +5,7 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { BlogArchive } from '@/components/BlogArchive';
+import { KitCta } from '@/components/KitCta';
 
 const PUBLISHED = '2026-08-21';
 
@@ -346,6 +347,7 @@ export default function Page() {
                 More from the blog
               </a>
             </div>
+              <KitCta slug="address-poisoning-dust-attack-x402-agent-wallets" placement="blog:address-poisoning-dust-attack-x402-agent-wallets" path="/blog/address-poisoning-dust-attack-x402-agent-wallets" />
             </div>
             <BlogArchive current="address-poisoning-dust-attack-x402-agent-wallets" />
           </div>

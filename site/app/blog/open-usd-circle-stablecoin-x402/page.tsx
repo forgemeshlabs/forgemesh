@@ -5,6 +5,7 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { BlogArchive } from '@/components/BlogArchive';
+import { KitCta } from '@/components/KitCta';
 
 const PUBLISHED = '2026-07-18';
 
@@ -289,6 +290,7 @@ export default function ArticlePage() {
                 More from the blog
               </a>
             </div>
+              <KitCta slug="open-usd-circle-stablecoin-x402" placement="blog:open-usd-circle-stablecoin-x402" path="/blog/open-usd-circle-stablecoin-x402" />
             </div>
             <BlogArchive current="open-usd-circle-stablecoin-x402" />
           </div>

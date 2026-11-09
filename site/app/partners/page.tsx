@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   description:
     'Networks, indexes, and directories ForgeMesh works with in the x402 ecosystem. Scored sellers are listed separately on x402 Verified.',
   alternates: { canonical: '/partners' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'ForgeMesh Partners',
     description: 'Networks, indexes, and directories ForgeMesh works with in the x402 ecosystem.',
     type: 'website',

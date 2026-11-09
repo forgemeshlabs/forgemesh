@@ -17,14 +17,14 @@ export const metadata: Metadata = {
     'AI agent economy infrastructure', 'ForgeMesh Texas Watch',
   ],
   alternates: { canonical: '/texas' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'Texas Watch — Data Center, Fab & Grid Buildout',
     description:
       'Auto-updated tracker of Texas data-center, fab, and grid buildout news, refreshed several times a day.',
     type: 'website',
     url: 'https://forgemesh.io/texas',
   },
-  twitter: {
+  twitter: { images: ['/twitter-image.png'],
     card: 'summary_large_image',
     site: '@forgemeshlabs',
     title: 'Texas Watch — Data Center, Fab & Grid Buildout',

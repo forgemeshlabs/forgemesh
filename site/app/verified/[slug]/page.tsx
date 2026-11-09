@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
     title: `${seller.name}: x402 Verified by ForgeMesh`,
     description: `${seller.name} — ForgeMesh Verified Score ${b.scoreText}${b.paid ? ', ForgeMesh Paid' : ''}${b.perfect ? ', Perfect' : ''}. Status: ${seller.status}. ${seller.description || ''}`.trim(),
     alternates: { canonical: `/verified/${seller.slug}` },
-    openGraph: {
+    openGraph: { images: ['/opengraph-image.png'],
       title: `${seller.name}: x402 Verified by ForgeMesh`,
       description: `ForgeMesh Verified Score ${b.scoreText} · status ${seller.status}`,
       type: 'website',

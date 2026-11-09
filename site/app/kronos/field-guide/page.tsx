@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: 'Build Your Own Kronos With a Coding Agent | ForgeMesh',
   description: 'Hand your coding agent the brief and build your own Kronos market-intelligence and paper-trading system: two agent briefs, 81 explained settings, sanitized data, validation tools and every failure from our own build. Educational only; no support.',
   alternates: { canonical: 'https://forgemesh.io/kronos/field-guide' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'Build your own Kronos. Bring a coding agent.',
     description: 'The build kit for vibecoders and builders: two coding-agent briefs, 81 explained settings, the data, the validation tools, and what broke when we built ours. Educational only. No support included.',
     url: 'https://forgemesh.io/kronos/field-guide',

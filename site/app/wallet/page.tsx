@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   description:
     'A plain-language guide to creating a wallet that receives USDC on Base: seed phrase safety, the security habits that matter, MetaMask step by step, Coinbase Wallet, Rabby, and when to move to a cold wallet.',
   alternates: { canonical: PAGE_URL },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     type: 'article',
     url: PAGE_URL,
     title: 'Set up a wallet to get paid by bots',
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
       'Seed phrases, security habits, MetaMask step by step, other options, and when a cold wallet makes sense. Written for site owners, not traders.',
     siteName: 'ForgeMesh Labs',
   },
-  twitter: {
+  twitter: { images: ['/twitter-image.png'],
     card: 'summary_large_image',
     title: 'Set up a wallet to get paid by bots',
     description: 'Seed phrases, security habits, MetaMask step by step, and when a cold wallet makes sense.',

@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   description:
     'Live tracker of who is writing the rules for AI agent payments: the Agentic Payments Alliance, Visa Trusted Agent Protocol, Mastercard Agent Pay — and whether anyone proposes pricing rules that would touch micro-priced x402 services.',
   alternates: { canonical: '/payment-rules' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'Payment Rules Watch: who writes the rules for agent payments',
     description:
       'Tracking the Agentic Payments Alliance, card-network agent protocols, and every pricing-rule signal — checked daily, summarized weekly.',

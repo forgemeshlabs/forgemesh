@@ -16,14 +16,14 @@ export const metadata: Metadata = {
     'pay per call vehicle API', 'USDC micropayments', 'Base mainnet',
   ],
   alternates: { canonical: '/vehicle-intelligence' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'Vehicle Intelligence Pack — VIN In, Everything Out',
     description:
       'Six x402-paid endpoints for vehicle data: VIN decode, recalls, crash ratings, complaints, a ranked failure report, and fuel economy. From half a cent per call.',
     type: 'website',
     url: 'https://forgemesh.io/vehicle-intelligence',
   },
-  twitter: {
+  twitter: { images: ['/twitter-image.png'],
     card: 'summary_large_image',
     site: '@forgemeshlabs',
     title: 'Vehicle Intelligence Pack — VIN In, Everything Out',

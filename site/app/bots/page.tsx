@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { Footer } from '@/components/Footer';
 import { NavBar } from '@/components/NavBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
+import { CrawlCta, KitCta } from '@/components/KitCta';
 import { BotAtlasIndex } from '@/components/BotAtlasIndex';
 import { BOTS, PURPOSES, PURPOSE_ORDER, fetchLeaderboard } from '@/lib/bots';
 
@@ -16,8 +17,8 @@ export const metadata: Metadata = {
   description,
   keywords: ['list of AI crawlers', 'bot user agent list', 'GPTBot', 'ClaudeBot', 'PerplexityBot', 'Bytespider', 'CCBot', 'verify Googlebot', 'block AI crawlers robots.txt', 'web crawler directory', 'crawler atlas'],
   alternates: { canonical: '/bots' },
-  openGraph: { title, description, type: 'website', url: 'https://forgemesh.io/bots' },
-  twitter: { card: 'summary_large_image', site: '@forgemeshlabs', title, description },
+  openGraph: { images: ['/opengraph-image.png'], title, description, type: 'website', url: 'https://forgemesh.io/bots' },
+  twitter: { images: ['/twitter-image.png'], card: 'summary_large_image', site: '@forgemeshlabs', title, description },
 };
 
 export default async function BotsPage() {
@@ -65,6 +66,8 @@ export default async function BotsPage() {
                 Put a <code className="font-mono text-blue-200">crawler-profile.json</code> at <code className="font-mono text-blue-200">/.well-known/</code> on your domain and the Atlas shows your words next to what sites observe, with a verified badge. No signup; the domain is the proof. Spec and generator: <a href="https://github.com/forgemeshlabs" className="text-blue-300 hover:underline">github.com/forgemeshlabs</a>. Missing a bot? Email <a href="mailto:hello@forgemesh.io" className="text-blue-300 hover:underline">hello@forgemesh.io</a> (free) or submit over the API ($0.005, x402).
               </p>
             </section>
+            <CrawlCta placement="bots" />
+            <KitCta slug="bots" placement="bots" path="/bots" className="mt-6" />
           </div>
         </section>
       </main>

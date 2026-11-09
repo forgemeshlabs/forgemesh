@@ -5,6 +5,7 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { BlogArchive } from '@/components/BlogArchive';
+import { KitCta } from '@/components/KitCta';
 
 const PUBLISHED = '2026-08-18';
 
@@ -295,6 +296,7 @@ export default function Page() {
                 More from the blog
               </a>
             </div>
+              <KitCta slug="stripe-openrouter-genius-act-agent-payment-rules" placement="blog:stripe-openrouter-genius-act-agent-payment-rules" path="/blog/stripe-openrouter-genius-act-agent-payment-rules" />
             </div>
             <BlogArchive current="stripe-openrouter-genius-act-agent-payment-rules" />
           </div>

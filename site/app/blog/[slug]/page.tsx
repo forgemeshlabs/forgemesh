@@ -9,9 +9,13 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { BlogArchive } from '@/components/BlogArchive';
+import { KitCta } from '@/components/KitCta';
 import { loadRuntimePost } from '@/lib/runtime-blog';
 
 export const dynamic = 'force-dynamic';
+
+// Posts that also get a mid-article kit CTA, after the section at this index.
+const MID_KIT_CTA: Record<string, number> = { 'pay-per-crawl-every-stack': 1 };
 
 type Params = { params: Promise<{ slug: string }> };
 
@@ -147,7 +151,7 @@ export default async function Page({ params }: Params) {
 
               <p className="mt-6 text-lg leading-8 text-slate-300">{renderInline(post.lede)}</p>
 
-              {post.sections.map((s) => (
+              {post.sections.map((s, si) => (
                 <section key={s.heading}>
                   <h2 className="mt-12 text-2xl font-semibold tracking-tight text-slate-50">
                     {s.heading}
@@ -188,6 +192,9 @@ export default async function Page({ params }: Params) {
                         </div>
                       ))}
                     </div>
+                  ) : null}
+                  {MID_KIT_CTA[post.slug] === si ? (
+                    <KitCta slug={post.slug} placement={`blog:${post.slug}:mid`} path={`/blog/${post.slug}`} />
                   ) : null}
                 </section>
               ))}
@@ -241,6 +248,7 @@ export default async function Page({ params }: Params) {
                   More from the blog
                 </a>
               </div>
+              <KitCta slug={post.slug} placement={`blog:${post.slug}`} path={`/blog/${post.slug}`} />
             </div>
             <BlogArchive current={post.slug} />
           </div>

@@ -5,6 +5,7 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { BlogArchive } from '@/components/BlogArchive';
+import { KitCta } from '@/components/KitCta';
 
 const PUBLISHED = '2026-08-04';
 
@@ -287,6 +288,7 @@ export default function Page() {
                 More from the blog
               </a>
             </div>
+              <KitCta slug="x402-catalog-purge-overnight-july-2026" placement="blog:x402-catalog-purge-overnight-july-2026" path="/blog/x402-catalog-purge-overnight-july-2026" />
             </div>
             <BlogArchive current="x402-catalog-purge-overnight-july-2026" />
           </div>

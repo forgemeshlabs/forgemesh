@@ -16,14 +16,14 @@ export const metadata: Metadata = {
     'offer receipt EIP-712', 'agent shopping tool',
   ],
   alternates: { canonical: '/shopscout' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'ShopScout — Let Your Agent Shop and Compare',
     description:
       'Four paid x402 endpoints at $0.01/call: search the Shopify Global Catalog, refresh a product, compare offers, compare shipping plans. No purchases, no cost invented.',
     type: 'website',
     url: 'https://forgemesh.io/shopscout',
   },
-  twitter: {
+  twitter: { images: ['/twitter-image.png'],
     card: 'summary_large_image',
     site: '@forgemeshlabs',
     title: 'ShopScout — Let Your Agent Shop and Compare',

@@ -10,14 +10,14 @@ export const metadata: Metadata = {
   description:
     'How ForgeMesh endpoints are protected today: TLS 1.3 with X25519MLKEM768 hybrid key exchange, what x402 payments do and do not protect, and what we do not claim.',
   alternates: { canonical: '/security' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'Security & Trust | ForgeMesh Labs',
     description:
       'Transport, payments and non-claims, stated so you can verify them yourself.',
     url: 'https://forgemesh.io/security',
     type: 'website',
   },
-  twitter: {
+  twitter: { images: ['/twitter-image.png'],
     card: 'summary',
     title: 'Security & Trust | ForgeMesh Labs',
     description:

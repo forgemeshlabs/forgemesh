@@ -5,6 +5,7 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { BlogArchive } from '@/components/BlogArchive';
+import { KitCta } from '@/components/KitCta';
 
 const SLUG = 'x402-record-day-money-didnt-move';
 const PUBLISHED = '2026-08-26';
@@ -292,6 +293,7 @@ export default function Page() {
                   More from the blog
                 </a>
               </div>
+              <KitCta slug="x402-record-day-money-didnt-move" placement="blog:x402-record-day-money-didnt-move" path="/blog/x402-record-day-money-didnt-move" />
             </div>
             <BlogArchive current={SLUG} />
           </div>
