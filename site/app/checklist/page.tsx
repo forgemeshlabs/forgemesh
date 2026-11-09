@@ -4,12 +4,13 @@ import { Footer } from '@/components/Footer';
 import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
+import { SERVICE_COUNT } from '@/lib/service-count';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
   title: 'The x402 Seller Pre-Flight Checklist — 10 Checks Before You List | ForgeMesh Labs',
   description:
-    'Free 10-point checklist for x402 sellers, built from a census of all 1,225 Bazaar sellers and from running 17 paid services: 402 from outside, envelope validity, the 500-character cliff, GET vs POST, MPP dual-stack, and the checks that catch silent zero-revenue.',
+    `Free 10-point checklist for x402 sellers, built from a census of all 1,225 Bazaar sellers and from running ${SERVICE_COUNT} paid services: 402 from outside, envelope validity, the 500-character cliff, GET vs POST, MPP dual-stack, and the checks that catch silent zero-revenue.`,
   keywords: [
     'x402 checklist', 'x402 seller guide', 'x402 listing broken', 'payment-required header',
     'x402 envelope', 'x402 Bazaar listing', 'sell to AI agents checklist', 'MPP dual-stack',
@@ -96,7 +97,7 @@ export default function ChecklistPage() {
               <a href="/blog/x402-bazaar-health-census-august-2026" className="text-blue-400 hover:text-blue-300">
                 probing all 1,225 Bazaar sellers
               </a>{' '}
-              and running 17 paid services of our own. One in four sellers fail at least one of these, and almost none
+              and running {SERVICE_COUNT} paid services of our own. One in four sellers fail at least one of these, and almost none
               of them know.
             </p>
             <p className="mt-3 text-sm leading-7 text-slate-500">

@@ -4,12 +4,13 @@ import { Footer } from '@/components/Footer';
 import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
+import { SERVICE_COUNT } from '@/lib/service-count';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
   title: 'New Here? Start Here — Get Paid by AI Agents | ForgeMesh Labs',
   description:
-    'New to x402 and agent payments? Pick your door: monetize a website with no code, make your API machine-payable, follow the rails with original data, or build alongside other people doing it. Plain-English starting points from operators of 17 live services.',
+    `New to x402 and agent payments? Pick your door: monetize a website with no code, make your API machine-payable, follow the rails with original data, or build alongside other people doing it. Plain-English starting points from operators of ${SERVICE_COUNT} live services.`,
   keywords: [
     'x402 getting started', 'get paid by AI agents', 'monetize website AI agents', 'x402 tutorial',
     'agent payments beginner', 'sell to AI agents', 'x402 for creators', 'machine economy',
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'New here? Four doors into the agent economy',
     description:
-      'Monetize a website with no code, make your API machine-payable, follow the rails, or build with people. Starting points from operators of 17 live x402 services.',
+      `Monetize a website with no code, make your API machine-payable, follow the rails, or build with people. Starting points from operators of ${SERVICE_COUNT} live x402 services.`,
     type: 'website',
     url: 'https://forgemesh.io/new-here',
     images: ['/fm-nobg.png'],
@@ -54,7 +55,7 @@ const doors = [
     eyebrow: 'I’m watching this space',
     title: 'Follow the rails with measured numbers, not press releases',
     body:
-      'We operate 17 paid services and crawl the discovery ecosystem three times a day, so our data is first-hand: the Rail Pulse ticker updates daily, the census lands monthly, and The Brief sends only when something actually moves.',
+      `We operate ${SERVICE_COUNT} paid services and crawl the discovery ecosystem three times a day, so our data is first-hand: the Rail Pulse ticker updates daily, the census lands monthly, and The Brief sends only when something actually moves.`,
     cta: 'Subscribe to The Brief',
     href: '/brief',
     secondary: { label: 'Read the census', href: '/blog/x402-bazaar-health-census-august-2026' },
@@ -89,7 +90,7 @@ export default function NewHerePage() {
             </h1>
             <p className="mt-6 max-w-2xl text-base leading-8 text-slate-400 sm:text-lg">
               Agents pay for APIs, data, and content in USDC over open protocols — x402 and MPP — with no accounts and
-              no invoices. We run 17 paid services on these rails and measure the whole ecosystem daily. Whatever
+              no invoices. We run {SERVICE_COUNT} paid services on these rails and measure the whole ecosystem daily. Whatever
               brought you here, one of these four doors is yours.
             </p>
 

@@ -2,12 +2,13 @@ import type { Metadata } from 'next';
 import { Footer } from '@/components/Footer';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
+import { SERVICE_COUNT } from '@/lib/service-count';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://forgemesh.io'),
   title: 'About ForgeMesh Labs',
   description:
-    'ForgeMesh Labs builds pay-per-call APIs and tools for AI agents, plus kits and guides for the people building them. One operator, 19 live paid services, everything self-serve.',
+    `ForgeMesh Labs builds pay-per-call APIs and tools for AI agents, plus kits and guides for the people building them. One operator, ${SERVICE_COUNT} live paid services, everything self-serve.`,
   alternates: { canonical: '/about' },
   openGraph: { images: ['/opengraph-image.png'],
     title: 'About ForgeMesh Labs',
@@ -24,7 +25,7 @@ const FACTS: Array<[string, string]> = [
   ['Legal entity', 'GSD Contracts LLC, Texas (formed January 2025)'],
   ['Brand', 'ForgeMesh Labs'],
   ['Team', 'One owner-operator, no staff, no outside capital'],
-  ['Live paid services', '19 surfaces on the x402 standard, USDC on Base'],
+  ['Live paid services', `${SERVICE_COUNT} surfaces on the x402 standard, USDC on Base`],
   ['Open source', '20 MCP servers in the official registry'],
   ['Customers', 'AI agents (per call) and the developers building them (kits, guides)'],
   ['Contact', 'hello@forgemesh.io'],
