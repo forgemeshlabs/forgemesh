@@ -63,13 +63,13 @@ export const metadata: Metadata = {
     'x402 next.js', 'WordPress x402 plugin', 'USDC Base',
   ],
   alternates: { canonical: '/plugins' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'Pay-per-Crawl plugins for every stack',
     description: 'Know who crawls your site. Charge the ones that can pay. WordPress, Python, JavaScript, Go, PHP. USDC on Base, straight to your wallet. You keep 100%.',
     type: 'website',
     url: 'https://forgemesh.io/plugins',
   },
-  twitter: {
+  twitter: { images: ['/twitter-image.png'],
     card: 'summary_large_image',
     site: '@forgemeshlabs',
     title: 'Pay-per-Crawl plugins for every stack',

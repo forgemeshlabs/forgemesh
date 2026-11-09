@@ -5,6 +5,7 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { BlogArchive } from '@/components/BlogArchive';
+import { KitCta } from '@/components/KitCta';
 
 const SLUG = 'stack-basics-free-course';
 const PUBLISHED = '2026-08-25';
@@ -245,6 +246,7 @@ export default function Page() {
                   More from the blog
                 </a>
               </div>
+              <KitCta slug="stack-basics-free-course" placement="blog:stack-basics-free-course" path="/blog/stack-basics-free-course" />
             </div>
             <BlogArchive current={SLUG} />
           </div>

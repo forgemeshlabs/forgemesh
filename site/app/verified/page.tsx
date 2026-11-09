@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   description:
     'Every seller here has a settled on-chain payment behind it: a recomputable 0-100 ForgeMesh Verified Score, a $ mark when ForgeMesh itself has transacted with the seller, a ★ mark at a perfect score, and a live README badge. Independent, not an x402 Foundation or Coinbase program.',
   alternates: { canonical: '/verified' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'x402 Verified by ForgeMesh',
     description:
       'x402 sellers with a settled on-chain payment behind every row, scored 0-100, with a $ mark when ForgeMesh has paid them and a live README badge.',

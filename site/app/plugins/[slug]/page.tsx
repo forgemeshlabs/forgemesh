@@ -26,8 +26,8 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
     description,
     keywords: [`pay per crawl ${g.name}`, `charge AI crawlers ${g.name}`, `x402 ${g.name}`, 'AI bot paywall', `${g.name} middleware USDC`, 'GPTBot 402'],
     alternates: { canonical: `/plugins/${g.slug}` },
-    openGraph: { title, description, type: 'article', url: `https://forgemesh.io/plugins/${g.slug}` },
-    twitter: { card: 'summary_large_image', site: '@forgemeshlabs', title, description },
+    openGraph: { images: ['/opengraph-image.png'], title, description, type: 'article', url: `https://forgemesh.io/plugins/${g.slug}` },
+    twitter: { images: ['/twitter-image.png'], card: 'summary_large_image', site: '@forgemeshlabs', title, description },
   };
 }
 

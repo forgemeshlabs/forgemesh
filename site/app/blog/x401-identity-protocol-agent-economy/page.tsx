@@ -5,6 +5,7 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { BlogArchive } from '@/components/BlogArchive';
+import { KitCta } from '@/components/KitCta';
 
 const SLUG = 'x401-identity-protocol-agent-economy';
 const PUBLISHED = '2026-08-22';
@@ -242,6 +243,7 @@ export default function Page() {
                   More from the blog
                 </a>
               </div>
+              <KitCta slug="x401-identity-protocol-agent-economy" placement="blog:x401-identity-protocol-agent-economy" path="/blog/x401-identity-protocol-agent-economy" />
             </div>
             <BlogArchive current={SLUG} />
           </div>

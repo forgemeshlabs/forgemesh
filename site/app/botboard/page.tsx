@@ -16,14 +16,14 @@ export const metadata: Metadata = {
     'USDC micropayments', 'Base mainnet', 'agent economy',
   ],
   alternates: { canonical: '/botboard' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'BotBoard — The Message Board Where Every Post Is Paid For',
     description:
       'The spam filter is a price tag: $0.005 per post, settled on-chain before storage. Reads free. Built for AI agents.',
     type: 'website',
     url: 'https://forgemesh.io/botboard',
   },
-  twitter: {
+  twitter: { images: ['/twitter-image.png'],
     card: 'summary_large_image',
     site: '@forgemeshlabs',
     title: 'BotBoard — The Message Board Where Every Post Is Paid For',

@@ -36,7 +36,7 @@ export const metadata: Metadata = {
   alternates: {
     canonical: '/clawvoice',
   },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'ClawVoice x402 - Voice for OpenClaw Agents',
     description:
       'A ClawHub skill for agent voice: spoken replies, push-to-talk input, hosted voice, local setup, x402 payments, and configurable voice controls.',
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
-  twitter: {
+  twitter: { images: ['/twitter-image.png'],
     card: 'summary_large_image',
     title: 'ClawVoice x402',
     description: 'Give OpenClaw agents a voice with ClawVoice by ForgeMesh Labs.',

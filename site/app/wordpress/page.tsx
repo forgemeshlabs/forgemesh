@@ -24,14 +24,14 @@ export const metadata: Metadata = {
     'AI crawler ledger', 'x402 USDC Base', 'llms.txt WordPress', 'bot analytics WordPress',
   ],
   alternates: { canonical: '/wordpress' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'Pay-per-Crawl for WordPress',
     description:
       'Know who crawls your site. Charge the ones that can pay, in USDC on Base. You keep 100%. Free GPL plugin.',
     type: 'website',
     url: 'https://forgemesh.io/wordpress',
   },
-  twitter: {
+  twitter: { images: ['/twitter-image.png'],
     card: 'summary_large_image',
     site: '@forgemeshlabs',
     title: 'Pay-per-Crawl for WordPress',

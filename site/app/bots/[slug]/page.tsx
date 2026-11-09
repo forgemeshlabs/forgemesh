@@ -25,8 +25,8 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
     description,
     keywords: [`what is ${b.name}`, `${b.name} user agent`, `block ${b.name}`, `${b.name} robots.txt`, `verify ${b.name}`, b.operator, 'crawler atlas'].filter(Boolean) as string[],
     alternates: { canonical: `/bots/${b.slug}`, types: { 'application/json': `/bots/${b.slug}/profile.json` } },
-    openGraph: { title, description, type: 'article', url: `https://forgemesh.io/bots/${b.slug}` },
-    twitter: { card: 'summary_large_image', site: '@forgemeshlabs', title, description },
+    openGraph: { images: ['/opengraph-image.png'], title, description, type: 'article', url: `https://forgemesh.io/bots/${b.slug}` },
+    twitter: { images: ['/twitter-image.png'], card: 'summary_large_image', site: '@forgemeshlabs', title, description },
   };
 }
 

@@ -5,6 +5,7 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { BlogArchive } from '@/components/BlogArchive';
+import { KitCta } from '@/components/KitCta';
 
 const SLUG = 'x402swag-agent-merch-store';
 const PUBLISHED = '2026-08-25';
@@ -226,6 +227,7 @@ export default function Page() {
                   More from the blog
                 </a>
               </div>
+              <KitCta slug="x402swag-agent-merch-store" placement="blog:x402swag-agent-merch-store" path="/blog/x402swag-agent-merch-store" />
             </div>
             <BlogArchive current={SLUG} />
           </div>

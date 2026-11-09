@@ -5,6 +5,7 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { BlogArchive } from '@/components/BlogArchive';
+import { KitCta } from '@/components/KitCta';
 
 const PUBLISHED = '2026-08-20';
 
@@ -272,6 +273,7 @@ export default function Page() {
                 More from the blog
               </a>
             </div>
+              <KitCta slug="x402-v1-v2-client-split-your-endpoint-may-be-unpayable" placement="blog:x402-v1-v2-client-split-your-endpoint-may-be-unpayable" path="/blog/x402-v1-v2-client-split-your-endpoint-may-be-unpayable" />
             </div>
             <BlogArchive current="x402-v1-v2-client-split-your-endpoint-may-be-unpayable" />
           </div>

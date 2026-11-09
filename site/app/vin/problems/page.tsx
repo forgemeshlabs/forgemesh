@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   description:
     'Browse NHTSA complaint and recall data for 60+ popular used-car models, 2008-2022. Top failing components, do-not-drive recalls, and real owner reports, free.',
   alternates: { canonical: '/vin/problems' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'Common Car Problems by Model — NHTSA Data',
     description: 'NHTSA complaints and recalls for 60+ used-car models, ranked by what actually breaks. Free.',
     type: 'website',

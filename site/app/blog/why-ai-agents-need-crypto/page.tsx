@@ -5,6 +5,7 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { BlogArchive } from '@/components/BlogArchive';
+import { KitCta } from '@/components/KitCta';
 
 const PUBLISHED = '2026-07-18';
 
@@ -254,6 +255,7 @@ export default function ArticlePage() {
                 Watch an agent pay: probe a live 402
               </a>
             </div>
+              <KitCta slug="why-ai-agents-need-crypto" placement="blog:why-ai-agents-need-crypto" path="/blog/why-ai-agents-need-crypto" />
             </div>
             <BlogArchive current="why-ai-agents-need-crypto" />
           </div>

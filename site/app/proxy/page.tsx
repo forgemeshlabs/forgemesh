@@ -36,7 +36,7 @@ export const metadata: Metadata = {
   alternates: {
     canonical: '/proxy',
   },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'x402 Proxy - Paywall Any URL for AI Agents',
     description:
       'Paste a URL, set a price, get paid in USDC when AI agents call it. Non-custodial: payments land in your own on-chain split contract.',
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
-  twitter: {
+  twitter: { images: ['/twitter-image.png'],
     card: 'summary_large_image',
     title: 'x402 Proxy',
     description: 'Paywall any URL for AI agents. Non-custodial USDC payouts on Base.',

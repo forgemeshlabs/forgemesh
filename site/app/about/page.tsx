@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description:
     'ForgeMesh Labs builds pay-per-call APIs and tools for AI agents, plus kits and guides for the people building them. One operator, 19 live paid services, everything self-serve.',
   alternates: { canonical: '/about' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'About ForgeMesh Labs',
     description: 'Pay-per-call APIs and tools for AI agents, run by one person in Texas.',
     url: 'https://forgemesh.io/about',

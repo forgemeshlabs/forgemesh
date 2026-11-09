@@ -17,8 +17,8 @@ export const metadata: Metadata = {
     'Check a hostname for ML-KEM hybrid TLS support, certificate trust, HSTS and CAA. Free browser check or structured JSON for agents at $0.05 per call.',
   keywords: ['quantum readiness check', 'post-quantum tls test', 'pqc checker', 'ml-kem check', 'x25519mlkem768', 'harvest now decrypt later', 'is my site quantum safe', 'fips 203', 'post quantum cryptography readiness'],
   alternates: { canonical: '/quantum' },
-  openGraph: { title: 'Quantum Readiness Check: is your site post-quantum yet?', description: 'Test hybrid post-quantum TLS support and transport hygiene. One hostname, structured findings, practical next steps. Free, no signup.', type: 'website', url: 'https://forgemesh.io/quantum' },
-  twitter: { card: 'summary_large_image', title: 'Quantum Readiness Check', description: 'Does your site already negotiate post-quantum TLS? Score, verdict, fixes. Free.' },
+  openGraph: { images: ['/opengraph-image.png'], title: 'Quantum Readiness Check: is your site post-quantum yet?', description: 'Test hybrid post-quantum TLS support and transport hygiene. One hostname, structured findings, practical next steps. Free, no signup.', type: 'website', url: 'https://forgemesh.io/quantum' },
+  twitter: { images: ['/twitter-image.png'], card: 'summary_large_image', title: 'Quantum Readiness Check', description: 'Does your site already negotiate post-quantum TLS? Score, verdict, fixes. Free.' },
 };
 
 const faq = [

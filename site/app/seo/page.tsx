@@ -16,14 +16,14 @@ export const metadata: Metadata = {
     'x402 SEO', 'SEO MCP server', 'pay per call SEO', 'USDC micropayments',
   ],
   alternates: { canonical: '/seo' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'SEO Authority API — Open-Web Domain Authority, Priced Per Call',
     description:
       'Authority from the Common Crawl hyperlink graph, ten paid endpoints from $0.005/call, MCP server included. No accounts, no API keys.',
     type: 'website',
     url: 'https://forgemesh.io/seo',
   },
-  twitter: {
+  twitter: { images: ['/twitter-image.png'],
     card: 'summary_large_image',
     site: '@forgemeshlabs',
     title: 'SEO Authority API — Open-Web Domain Authority, Priced Per Call',

@@ -29,14 +29,14 @@ export const metadata: Metadata = {
     'congress trading disclosures', 'senator stock trades', 'periodic transaction reports',
   ],
   alternates: { canonical: '/trades' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'Congress Stock Trades Tracker — Live STOCK Act Filings',
     description:
       'Every disclosed US House stock trade, parsed daily from official filings. See what 129 members of Congress are buying and selling — free.',
     type: 'website',
     url: 'https://forgemesh.io/trades',
   },
-  twitter: {
+  twitter: { images: ['/twitter-image.png'],
     card: 'summary_large_image',
     site: '@forgemeshlabs',
     title: 'Congress Stock Trades Tracker — Live STOCK Act Filings',

@@ -5,6 +5,7 @@ import { ShareBar } from '@/components/ShareBar';
 import { ForgeMeshMark } from '@/components/ForgeMeshMark';
 import { NavBar } from '@/components/NavBar';
 import { BlogArchive } from '@/components/BlogArchive';
+import { KitCta } from '@/components/KitCta';
 
 const PUBLISHED = '2026-08-04';
 
@@ -261,6 +262,7 @@ export default function Page() {
                 More from the blog
               </a>
             </div>
+              <KitCta slug="x402-500-character-description-limit" placement="blog:x402-500-character-description-limit" path="/blog/x402-500-character-description-limit" />
             </div>
             <BlogArchive current="x402-500-character-description-limit" />
           </div>

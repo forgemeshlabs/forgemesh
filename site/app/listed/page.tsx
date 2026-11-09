@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description:
     'Every registry, package index and directory where ForgeMesh services, MCP servers and the Pay-per-Crawl editions are listed. Free listings only.',
   alternates: { canonical: '/listed' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'Where ForgeMesh is listed',
     description:
       'Registries, package indexes and directories carrying ForgeMesh services, MCP servers and Pay-per-Crawl. Free listings only.',

@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   description:
     'Every significant x402 SDK release — Python, TypeScript core, and per-chain packages — triaged for what actually matters to builders: breaking changes, security fixes, new chains, new payment flows. Patch noise filtered.',
   alternates: { canonical: '/repo-watch' },
-  openGraph: {
+  openGraph: { images: ['/opengraph-image.png'],
     title: 'Repo Watch: x402 releases, decoded',
     description:
       'Breaking changes, security fixes, new chains, new payment flows across the x402 SDKs — one feed, refreshed 4×/day.',
