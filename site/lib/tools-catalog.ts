@@ -106,7 +106,7 @@ export const TOOL_GROUPS: ToolGroup[] = [
       { name: 'ForgeMesh Library', href: 'https://library.forgemesh.io', what: 'Public-domain books, searchable and readable per call; current collection size on the product page', cost: 'paid', price: 'per call', for: ['agents'], featured: true },
       { name: 'x402 Proxy', href: '/proxy', what: 'Paywall any URL, no code; 85/15 non-custodial split to your wallet', cost: 'paid', price: '15% of sales', for: ['builders'], featured: true },
       { name: 'Voice', href: 'https://voice.forgemesh.io', what: 'Text-to-speech for agents; voice samples and options on the product page', cost: 'paid', price: 'per synth', for: ['agents'] },
-      { name: 'ImageGen', href: 'https://imagegen.coinopai.com', what: 'Image generation, four tiers', cost: 'paid', price: 'from $0.25', for: ['agents'] },
+      { name: 'ImageGen', href: 'https://imagegen.coinopai.com', what: 'Image generation, four tiers', cost: 'paid', price: 'from $0.05', for: ['agents'] },
       { name: 'Disruption Intel', href: 'https://disruption.forgemesh.io', what: 'WARN-notice and layoff ripple reports', cost: 'paid', price: 'per report', for: ['agents'] },
       { name: 'Anomaly Tracker', href: 'https://anomaly.forgemesh.io', what: 'Sequence-mined anomalies across 11 endpoints, 3 domains', cost: 'paid', price: 'per call', for: ['agents'] },
       { name: 'Ads and Intent Network', href: 'https://ads.forgemesh.io', what: 'Machine-buyable ad slots and intent signals', cost: 'paid', price: 'per impression', for: ['agents', 'builders'] },
