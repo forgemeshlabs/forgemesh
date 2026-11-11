@@ -56,6 +56,25 @@ export default async function SiteCheckPage({ searchParams }: { searchParams: Pr
             </p>
             <SiteChecker initial={initial} />
 
+            <section id="full-report" className="mt-12 scroll-mt-24 rounded-2xl border border-blue-500/25 bg-blue-500/[0.05] p-5 sm:p-6">
+              <h2 className="text-xl font-semibold tracking-tight text-slate-50">What is in the $5 report</h2>
+              <p className="mt-2 text-sm leading-6 text-slate-300">One report per domain, opened from a link we email you. It is generated from a fresh scan of the domain you choose.</p>
+              <ul className="mt-4 space-y-2 text-sm leading-6 text-slate-300">
+                {[
+                  'Grade, score out of 100 and the count of high, medium and low findings.',
+                  'Every finding with what we saw: the evidence from your DNS, TLS handshake or response headers.',
+                  'The exact fix for each one: the DNS record value, the server line or the CDN switch.',
+                  'A fix roadmap ordered email first, then TLS and redirects, then headers and disclosure.',
+                  'The full table of all checks with the evidence for each, passes included.',
+                  'Re-check free for 30 days while you work through it, and a print-to-PDF layout.',
+                ].map((t) => (
+                  <li key={t} className="flex gap-2"><span className="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-blue-400" aria-hidden />{t}</li>
+                ))}
+              </ul>
+              <p className="mt-4 text-xs leading-5 text-slate-500">Passive checks only; the application itself is not tested. Card via Stripe, no account.</p>
+              <a href="#site-domain" data-umami-event="site-check-report-scan-first" className="mt-4 inline-flex items-center gap-2 rounded-xl border border-blue-500/40 bg-blue-500/10 px-5 py-3 text-sm font-semibold text-slate-100 transition hover:border-blue-400/70 hover:bg-blue-500/20">Check your domain, then get the report</a>
+            </section>
+
             <h2 className="mt-14 text-2xl font-semibold tracking-tight text-slate-50">What the grades mean</h2>
             <div className="mt-6 grid gap-4 sm:grid-cols-3">
               {[
