@@ -13,6 +13,7 @@ type Summary = {
 const track = (event: string, data?: Record<string, string | number>) =>
   (window as unknown as { umami?: { track: (e: string, d?: object) => void } }).umami?.track(event, data);
 
+const PRICE_LABEL = '$5';
 const CHECKOUT = 'https://proxy.forgemesh.io/api/sitecheck/checkout';
 const dot: Record<Check['status'], string> = { pass: 'text-emerald-400', fail: 'text-rose-400', warn: 'text-amber-400', info: 'text-slate-600' };
 const word: Record<Check['status'], string> = { pass: 'pass', fail: 'fail', warn: 'warn', info: 'n/a' };
@@ -54,6 +55,13 @@ export function SiteChecker({ initial = '' }: { initial?: string }) {
         </button>
       </form>
       <p className="text-xs leading-5 text-slate-500">Passive and read-only: a few DNS lookups, four TLS handshakes, three page fetches. About five seconds. Nothing is stored beyond a ten-minute cache. 20 checks per hour per visitor.</p>
+
+      {!report && (
+        <p className="text-sm text-slate-500">
+          Want every fix spelled out?{' '}
+          <a href="#full-report" data-umami-event="site-check-report-link" className="text-blue-400 underline decoration-blue-400/30 underline-offset-4 hover:text-blue-300">Full fix report, {PRICE_LABEL}: see what is inside</a>
+        </p>
+      )}
 
       {error && <div role="alert" className="rounded-2xl border border-rose-500/30 bg-rose-500/[0.06] p-5 text-sm text-rose-200">{error}</div>}
 
@@ -117,6 +125,23 @@ export function SiteChecker({ initial = '' }: { initial?: string }) {
                 <p className="mt-3 text-sm text-slate-500">Checkout is not available right now. Write to hello@forgemesh.io.</p>
               )}
               <p className="mt-3 text-xs leading-5 text-slate-500">Card via Stripe. The link arrives by email and opens the report for this domain only. No account.</p>
+            </div>
+          )}
+          {report.findings_count === 0 && report.report_enabled && (
+            <div className="rounded-2xl border border-white/[0.06] bg-white/[0.02] p-5">
+              <h2 className="text-base font-semibold text-slate-100">Keep a record of the clean result, {report.price}</h2>
+              <p className="mt-2 text-sm leading-6 text-slate-400">
+                The full report for {report.host} lists all {report.total} checks with the evidence behind each pass, and prints to PDF for your records or a customer who asks. Re-check free for 30 days.
+              </p>
+              <form method="post" action={CHECKOUT} className="mt-3 flex flex-col gap-3 sm:flex-row" onSubmit={() => track('site-check-checkout-clean', { host: report.host })}>
+                <input type="hidden" name="host" value={report.host} />
+                <label className="sr-only" htmlFor="site-email-clean">Email for the report link</label>
+                <input id="site-email-clean" type="email" name="email" required value={email} onChange={(e) => setEmail(e.target.value)} placeholder="you@example.com" autoComplete="email"
+                  className="flex-1 rounded-xl border border-white/10 bg-white/[0.03] px-4 py-3 text-base text-slate-50 placeholder:text-slate-600 focus:border-blue-500/60 focus:outline-none" />
+                <button type="submit" data-umami-event="site-check-checkout-clean-button" className="inline-flex items-center justify-center gap-2 rounded-xl border border-white/15 bg-white/[0.04] px-5 py-3 font-semibold text-slate-200 transition hover:border-white/30 hover:bg-white/[0.08]">
+                  Get the report {report.price} <ArrowRight className="h-4 w-4" aria-hidden />
+                </button>
+              </form>
             </div>
           )}
           <p className="text-xs leading-5 text-slate-500">Checked {new Date(report.checked_at).toLocaleString()}{report.cached ? ' (cached)' : ''}. Public DNS, TLS and headers only. The application itself, its logins and its data handling are not tested.</p>
