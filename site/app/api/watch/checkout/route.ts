@@ -1,27 +1,11 @@
-import { NextRequest, NextResponse } from 'next/server';
-import { validateScanTarget, ScanInputError } from '@/lib/scan';
-import { createWatchCheckout } from '@/lib/stripe';
+import { NextResponse } from 'next/server';
 
 export const dynamic = 'force-dynamic';
 
-export async function POST(req: NextRequest) {
-  let url: string;
-  try {
-    const body = await req.json();
-    url = String(body?.url ?? '');
-  } catch {
-    return NextResponse.json({ error: 'Send JSON: {"url": "https://..."}' }, { status: 400 });
-  }
-
-  try {
-    const target = await validateScanTarget(url);
-    const session = await createWatchCheckout(target.href);
-    return NextResponse.json({ checkout_url: session.url });
-  } catch (e) {
-    if (e instanceof ScanInputError) {
-      return NextResponse.json({ error: e.message }, { status: 400 });
-    }
-    console.error('[watch-checkout]', (e as Error).message);
-    return NextResponse.json({ error: 'Could not start checkout — try again in a moment.' }, { status: 500 });
-  }
+// ForgeMesh Watch is shelved (operator decision 2026-11-11). The subscription could be
+// bought through this route while the product behind it did not reliably record
+// subscribers, detect dead hosts, or offer a way to cancel. Nothing may start a paid
+// Watch checkout until that is built and tested end to end.
+export async function POST() {
+  return NextResponse.json({ error: 'ForgeMesh Watch is not available.' }, { status: 410 });
 }
