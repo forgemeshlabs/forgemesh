@@ -2,7 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import json, os, textwrap, re
 
 POSTS = [
-    ("the-week-the-stack-showed-its-age", "The Week the Stack Showed Its Age", "14 · 601 drone sightings near airports in Q2 2026 — double the prior quarter · $50B…"),
+    ("the-week-the-stack-showed-its-age", "The Week the Stack Showed Its Age", "Outages, a ground stop, new AI terms"),
     ("x402-bazaar-listing-count-fluctuations", "Coinbase’s x402 Bazaar Count Fell From 106,068 to 28,135. What Happened?", "X402 DISCOVERY FIELD REPORT"),
     ("free-website-security-check-cold-email-scan", "That \"Security Researcher\" Email Is Just a Free Scan. Run It Yourself.", "Free website security check"),
     ("square-town-forgemesh-moved-in", "Kiss Our Favicon.", "A tiny home on the web"),
@@ -78,6 +78,26 @@ reg="/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 SITE = "/home/ubuntu/dev/forgemesh/site"
 os.makedirs(f"{SITE}/content/assets/pins", exist_ok=True)
 
+def wrap_px(d, text, font, maxw):
+    """Word-wrap by measured pixel width so no line runs off the card."""
+    lines, cur = [], ""
+    for w in text.split():
+        t = (cur + " " + w).strip()
+        if cur and d.textlength(t, font=font) > maxw:
+            lines.append(cur); cur = w
+        else:
+            cur = t
+    if cur: lines.append(cur)
+    return lines
+
+def clip_px(d, text, font, maxw):
+    """Cut a one-line string at a word boundary to fit, adding an ellipsis."""
+    if d.textlength(text, font=font) <= maxw: return text
+    words = text.rstrip("…").split()
+    while words and d.textlength(" ".join(words) + "…", font=font) > maxw:
+        words.pop()
+    return (" ".join(words).rstrip(" ·—-") + "…") if words else text
+
 def hero_for(slug):
     for p in (f"{SITE}/content/assets/{slug}.png", f"{SITE}/public/blog/{slug}.png"):
         if os.path.exists(p):
@@ -95,10 +115,11 @@ for slug, title, kicker in POSTS:
     fk = ImageFont.truetype(reg, 30)
     d.text((40,60), "FORGEMESH LABS  ·  FIELD NOTES", font=fk, fill=BLUE)
     y = 120+hh+50
-    d.text((40,y), kicker.upper(), font=ImageFont.truetype(reg,32), fill=SLATE)
+    fkk = ImageFont.truetype(reg,32)
+    d.text((40,y), clip_px(d, kicker.upper(), fkk, W-80), font=fkk, fill=SLATE)
     y += 60
     ft = ImageFont.truetype(bold, 64)
-    for line in textwrap.wrap(title, width=26):
+    for line in wrap_px(d, title, ft, W-80):
         d.text((40,y), line, font=ft, fill=WHITE)
         y += 78
     # accent bar

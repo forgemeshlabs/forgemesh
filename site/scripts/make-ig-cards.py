@@ -27,6 +27,26 @@ def hero_for(slug):
 
 FOOTER = {"wordpress-pay-per-crawl-pro": ("proxy.forgemesh.io/wp  ·  link in bio", "Dashboard, weekly digest, alerts · up to 5 sites"), "wordpress-plugin-page": ("forgemesh.io/wordpress  ·  link in bio", "Humans read free · AI crawlers pay USDC per page"), "vin-checker": ("forgemesh.io/vin  ·  link in bio", "Free VIN check · official U.S. government safety data")}
 
+def wrap_px(d, text, font, maxw):
+    """Word-wrap by measured pixel width so no line runs off the card."""
+    lines, cur = [], ""
+    for w in text.split():
+        t = (cur + " " + w).strip()
+        if cur and d.textlength(t, font=font) > maxw:
+            lines.append(cur); cur = w
+        else:
+            cur = t
+    if cur: lines.append(cur)
+    return lines
+
+def clip_px(d, text, font, maxw):
+    """Cut a one-line string at a word boundary to fit, adding an ellipsis."""
+    if d.textlength(text, font=font) <= maxw: return text
+    words = text.rstrip("…").split()
+    while words and d.textlength(" ".join(words) + "…", font=font) > maxw:
+        words.pop()
+    return (" ".join(words).rstrip(" ·—-") + "…") if words else text
+
 for slug, title, kicker in POSTS:
     img = Image.new("RGB", (W, H), BG)
     d = ImageDraw.Draw(img)
@@ -36,10 +56,11 @@ for slug, title, kicker in POSTS:
     img.paste(hero, (50, 150))
     d.text((50, 80), "FORGEMESH LABS  ·  FIELD NOTES", font=ImageFont.truetype(reg, 34), fill=BLUE)
     y = 150 + hh + 60
-    d.text((50, y), kicker.upper(), font=ImageFont.truetype(reg, 36), fill=SLATE)
+    fkk = ImageFont.truetype(reg, 36)
+    d.text((50, y), clip_px(d, kicker.upper(), fkk, W - 100), font=fkk, fill=SLATE)
     y += 70
     ft = ImageFont.truetype(bold, 68)
-    for line in textwrap.wrap(title, width=27):
+    for line in wrap_px(d, title, ft, W - 100):
         d.text((50, y), line, font=ft, fill=WHITE)
         y += 84
     d.rectangle([50, y + 24, 270, y + 33], fill=BLUE)
